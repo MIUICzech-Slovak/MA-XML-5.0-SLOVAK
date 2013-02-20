@@ -1,0 +1,4 @@
+MA-XML-5.0-SLOVAK
+=================
+
+MIUIv5 XML SLOVAK TRANSLATION
