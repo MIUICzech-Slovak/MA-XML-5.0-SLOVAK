@@ -1,4 +1,14 @@
-MA-XML-5.0-SLOVAK
-=================
+License of this work is covered below, for more information contact ingbrzy@ingbrzy.eu
+                                                                 
+SLOVAK Strings for MIUIAndroid MIUIv5 (all supported devices)
+============================================
 
-MIUIv5 XML SLOVAK TRANSLATION
+MIUI Android Slovak Translations (Started July 2012 by ingbrzy). 
+
+MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+
+SLOVAK strings by ingbrzy under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+
+Based on a work at http://miui.com and http://miuiandroid.com
+
+MIUI Translation: ingbrzy

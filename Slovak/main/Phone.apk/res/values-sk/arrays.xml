@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="preferred_network_mode_choices">
+        <item>LTE/CDMA</item>
+        <item>LEn EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Automatický CDMA / EvDo</item>
+        <item>Automatický GSM / WCDMA</item>
+        <item>Len WCDMA</item>
+        <item>Len GSM</item>
+        <item>GSM / WCDMA preferované</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_lte">
+        <item>LTE / CDMA</item>
+        <item>CDMA</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (auto režim)</item>
+        <item>Len WCDMA</item>
+        <item>Len GSM</item>
+        <item>GSM/WCDA (preferovať WCDMA)</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+        <item>TTY vypnuté</item>
+        <item>Plné TTY</item>
+        <item>TTY HCO</item>
+        <item>TTY VCO</item>
+    </string-array>
+    <string-array name="dtmf_tone_entries">
+        <item>Normálny</item>
+        <item>Dlhé</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Vždy</item>
+        <item>Iba v tichom režime</item>
+        <item>Nikdy</item>
+    </string-array>
+</resources>

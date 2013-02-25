@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_sort_type">
+        <item>Radiť podľa mená</item>
+        <item>Radiť podľa 2G/3G prevádzky</item>
+        <item>Radiť podľa celkovej prevádzky</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>Prevádzka za včerajšok\u0020</item>
+        <item>Prevádzka za dnešok\u0020</item>
+        <item>Prevádzka za mesiac\u0020</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Včera na 2G/3G</item>
+        <item>Dnes na 2G/3G</item>
+        <item>Tento mesiac na 2G/3G</item>
+        <item>Včera na Wi-Fi</item>
+        <item>Dnes na Wi-fi</item>
+        <item>Tento mesiac na Wi-Fi</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Včera 2G/3G</item>
+        <item>Dnes 2G/3G</item>
+        <item>Tento mesiac 2G/3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekúnd</item>
+        <item>6 sekúnd</item>
+        <item>7 sekúnd</item>
+        <item>8 sekúnd</item>
+        <item>9 sekúnd</item>
+    </string-array>
+</resources>
