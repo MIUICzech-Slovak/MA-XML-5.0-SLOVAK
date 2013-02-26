@@ -192,6 +192,7 @@
     <string name="description_call_log_voicemail">Hlasová schránka</string>
     <string name="description_contact_photo">fotka kontaktu</string>
     <string name="description_delete_button">späť</string>
+    <string name="description_dial_button">Volať</string>
     <string name="description_dial_phone_number"> Volať telefón %1$s</string>
     <string name="description_digits_edittext">číslo na vytočenie</string>
     <string name="description_image_button_eight">osem</string>
@@ -207,7 +208,6 @@
     <string name="description_image_button_two">dva</string>
     <string name="description_image_button_zero">nula</string>
     <string name="description_minus_button">mínus</string>
-    <string name="description_quick_contact_for">Rýchly kontakt pre %1$s</string>
     <string name="description_plus_button">plus</string>
     <string name="description_quick_contact_for">Rýchly kontakt pre %1$s</string>
     <string name="description_search_button">Hľadať</string>
@@ -325,8 +325,8 @@
     <string name="frequency_three_days">Skontrolovať a pripomenúť každé 3 dni</string>
     <string name="frequency_weekly">Skontrolovať a pripomenúť každý týždeň</string>
     <string name="frequentList">Často používané</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Celé meno</string>
-    <string name="ghostData_company">Spoločnosť</string>
     <string name="generic_no_account_prompt">Majte svoje kontakty v bezpečí aj keď stratíte telefón: synchronizujte ich online.</string>
     <string name="generic_no_account_prompt_title">Pridať účet</string>
     <string name="ghostData_company">Firma</string>    
@@ -537,9 +537,6 @@
     <string name="noContactHelpTextAccountsInfo">Synchronizujte Google alebo Exchange kontakty.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví dáta zálohované na účte Xiaomi</string>
     <string name="noContacts">žiadne kontakty</string>
-    <string name="noContactsHelpTextForCreateShortcut">"Žiadne kontakty na zobrazenie."</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiadne kontakty na zobrazenie. (Ak ste práve pridali účet, chvíľu to potrvá kým sa synchronizuje.)"</string>
-    <string name="noContactsWithPhoneNumbers">Žiadne kontakty s telefónnym číslom.</string>
     <string name="noGroups">Žiadne skupiny.</string>
     <string name="noMatchingContacts">Nenájdené žiadne zodpovedajúce kontakty.</string>    
     <string name="non_phone_add_to_contacts">Pridať do kontaktov</string>
