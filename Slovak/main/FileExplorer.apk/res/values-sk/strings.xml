@@ -133,8 +133,8 @@
 <string name="no">Nie</string>
 <string name="no_file">Žiadne súbory</string>
 <string name="no_tasks">Žiadne úlohy</string>
-<string name="no_wifi">Wi-Fi nie je v dosahu</string>
-<string name="no_wifi_hint">Wi-Fi nedostupná, stlačte pre nastavenia</string>
+<string name="no_wifi">Wifi nie je v dosahu</string>
+<string name="no_wifi_hint">Wifi nedostupná, stlačte pre nastavenia</string>
 <string name="notif_server_starting">Spúšťa sa FTP server</string>
 <string name="notif_title">FTP server je spustený</string>
 <string name="operating">Pracujem...</string>
