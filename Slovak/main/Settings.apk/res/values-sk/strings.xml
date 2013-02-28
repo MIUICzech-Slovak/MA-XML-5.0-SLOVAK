@@ -1250,6 +1250,7 @@
     <string name="perm_operating">Pracujem...</string>
     <string name="perm_optimize">Optimalizovať</string>
     <string name="perm_privacy_app_count">%1$d povolení</string>
+	<string name="perm_privacy_app_count_trust_summary">Veriť aplikácií</string>
     <string name="perm_privacy_app_finish">Dokončiť</string>
     <string name="perm_privacy_app_installed">Úspešne nainštalované!</string>
     <string name="perm_privacy_app_launch">Spustiť</string>
@@ -1481,6 +1482,7 @@
     <string name="runningservicedetails_stop_dlg_title">Zastaviť systémovú službu?</string>	
     <string name="runningservices_settings_summary">Umožňuje zobraziť a ovládať aktuálne spustené služby</string>	
     <string name="runningservices_settings_title">Spustené služby</string>	
+	<string name="safe_relative">Bezpečné povolenia</string>
     <string name="scan_list_label">Výsledky skenovania:</string>
     <string name="screen">Displej</string>
     <string name="screen_button_custom">Úprava pozície tlačidlá na displeji</string>    	
