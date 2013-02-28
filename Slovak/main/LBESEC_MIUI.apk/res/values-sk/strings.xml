@@ -180,6 +180,7 @@
     <string name="Privacy_AppPerm_Count_Trust">%1$d právo - &lt;font color=#478800>Dôveryhodné&lt;/font></string>
     <string name="Privacy_Perm_Count">Povolené: %1$d Zakázané: %2$d</string>
     <string name="Su_Enable_Dialog">%1$s sa pokúša získať práva ROOT, čo je z dôvodu bezpečnosti štandardne zakázané. Ak chcete oprávnenia povoliť, urobte tak v nastavení aplikácie Správca práv.</string>
+    <string name="Su_Unavailable">ROOT nie je dostupný v Stabilnej verzii MIUI. Nainštalujte si verziu MIUI BETA pre aktiváciu práv ROOT.</string>
     <string name="SysOpt_Boost_AutoStart">Práva autom. spúšťaní</string>
     <string name="SysOpt_Boost_AutoStart_Group">Automatické spúšťanie</string>
     <string name="SysOpt_Boost_Boot">Boot</string>

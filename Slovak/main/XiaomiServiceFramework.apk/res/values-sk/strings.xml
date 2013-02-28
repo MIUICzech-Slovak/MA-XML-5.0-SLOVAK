@@ -43,6 +43,8 @@
     <string name="error_common_summary">Chyba systému, skúste to neskôr</string>	
     <string name="error_common_title">Chyba systému</string>	
     <string name="error_dup_phone">Telefón bol zaregistrovaný</string>	
+    <string name="error_frozen_summary">Váš účet je zablokovaný</string>
+    <string name="error_frozen_title">Zablokovaný účet!</string>
     <string name="error_has_bought_summary">Už máte zakúpený tento produkt</string>	
     <string name="error_has_bought_title">Opakovať nákup</string>	
     <string name="error_illegal_order_summary">Počas vybavovania objednávky sa vyskytla chyba, skúste to opäť neskôr.</string>	

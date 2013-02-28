@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="account_abnormal_state">Chyba v informácií o účte, skúste sa opäť prihlásiť.</string>
     <string name="activity_not_found">Aplikácia nie je v telefóne nainštalovaná.</string>
     <string name="all_resources">Všetko</string>
     <string name="application_name">MIUI Launcher</string>

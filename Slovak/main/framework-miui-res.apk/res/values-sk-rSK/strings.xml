@@ -171,8 +171,10 @@
     <string name="sd_not_available_use_internal_storage">SD karta neprístupná, uložené na interné úložisko</string>
     <string name="select">Vybrať</string>
     <string name="select_all">Všetko</string>
+	<string name="send">Odoslať</string>
     <string name="send_sms_for_sync_notice">Systém odošle aktivačnú SMS, chcete pokračovať?</string>
     <string name="send_sms_for_sync_title">Odoslať SMS pre aktiváciu Synchronizácie</string>
+	<string name="share">Zdieľať</string>
     <string name="short_pincode_error_msg">Zadajte 4–8 čísel</string>
     <string name="short_pukcode_error_msg">Zadajte 8 miestne číslo</string>
     <string name="sim_account_name">SIM</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="account_abnormal_state">Chyba v informácií o účte, skúste sa prihlásiť opäť.</string>
     <string name="all_resources">Všetko</string>
     <string name="all_ringtone_resource">Všetko</string>
     <string name="app_name">Témy</string>
