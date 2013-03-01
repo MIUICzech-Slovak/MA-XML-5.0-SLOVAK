@@ -11,7 +11,8 @@
     <string name="accelerometer_title">Autom. otočenie obrazovky</string>	
     <string name="access_control_app_entry_multiple">Otvoriť %s</string>	
     <string name="access_control_app_entry_single">Otvoriť zvolenú aplikáciu</string>	
-    <string name="access_control_need_password">"%s je zabezpečené/ý"</string>	
+    <string name="access_control_need_password">"%s je zabezpečené/ý
+    "</string>	
     <string name="access_control_need_to_unlock">Pre odomknutie je požadované heslo</string>	
     <string name="access_control_no_back_footer">Stlačte [ikonu] pre ukončenie</string>	
     <string name="access_control_password_title">Povoliť heslo</string>	
