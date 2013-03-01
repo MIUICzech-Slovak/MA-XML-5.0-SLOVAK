@@ -419,7 +419,7 @@
     <string name="bluetooth_visibility_timeout">Časový limit viditeľnosti</string>	
     <string name="bluetooth_visibility_timeout_summary">Nastaviť dobu, po ktorú bude zariadenie vo viditeľnom režime</string>	
     <string name="breathing_light_color_summary">Farba LED pri novej notifikácii</string>	
-    <string name="breathing_light_color_title">Farba LED</string>	
+    <string name="breathing_light_color_title">" Farba LED"</string>	
     <string name="breathing_light_freq_summary">Pauza LED pred blikaním</string>	
     <string name="breathing_light_freq_title">Frekvencia blikania LED</string>	
     <string name="brightness">Jas</string>	

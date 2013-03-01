@@ -105,6 +105,13 @@
     <string name="key_position_custom">Vlastná pozícia tlačidla</string>	
     <string name="label_view">Zobraziť</string>	
     <string name="lockscreen_carrier_default">Bez signálu</string>	
+	<string name="mdb_entering">Pristupovanie k MDB</string>
+ 	<string name="mdb_restore_cancel">Zrušiť</string>
+    <string name="mdb_restore_info1">"Obnoví dáta Vášho telefónu"</string>
+ 	<string name="mdb_restore_info2">"Neodpojujte USB kábel"</string>
+	<string name="mdb_restore_label">Obnova MDB</string>
+	<string name="mdb_restore_mode">Režim obnovy MDB</string>
+ 	<string name="mdb_usb_disconnection_exit">USB odpojené, rušenie obnovy!</string>
     <string name="mount_storage">Áno</string>	
     <string name="move_data_to_sdcard_message">"Fotky a obrazovky budú presunuté na SD kartu, aby bola uvoľnená interná pamäť."</string>	
     <string name="move_data_to_sdcard_title">Presunúť dáta na SD kartu</string>	
@@ -208,7 +215,7 @@
     <string name="status_bar_time_format_24">HH:mm</string>	
     <string name="status_bar_toggle_ac">Kontrola prístupu</string>      
     <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
-    <string name="status_bar_toggle_bluetooth">BT</string>      
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>      
     <string name="status_bar_toggle_brightness">Jas</string>    
     <string name="status_bar_toggle_data">Dáta</string> 
     <string name="status_bar_toggle_divider">Upraviť</string>
@@ -236,7 +243,7 @@
     <string name="status_bar_toggle_syncing">Synchronizujem</string>
     <string name="status_bar_toggle_torch">Svietidlo</string>   
     <string name="status_bar_toggle_vibrate">Vibrácie</string>  
-    <string name="status_bar_toggle_wifi">Wi-Fi</string> 
+    <string name="status_bar_toggle_wifi">Wifi</string> 
     <string name="status_bar_use_physical_keyboard">Použiť fyzickú klávesnicu</string>	
     <string name="tab_notifications_lable">Notifikácie</string>	
     <string name="tab_toggles_lable">Prepínače</string>	
@@ -245,7 +252,10 @@
     <string name="torch_activity_name">Svietidlo</string>
     <string name="usb_accessory_confirm_prompt">Otvoriť %1$s keď je pripojené USB príslušenstvo?</string>	
     <string name="usb_accessory_permission_prompt">Povoliť aplikácii %1$s prístup k USB zariadeniu?</string>	
-    <string name="usb_accessory_uri_prompt">Žiadna nainštalovaná aplikácia nepracuje s týmto USB príslušenstvom. Viac o tomto príslušenstve sa dozviete na %1$s</string>	
+    <string name="usb_accessory_uri_prompt">Žiadna nainštalovaná aplikácia nepracuje s týmto USB príslušenstvom. Viac o tomto príslušenstve sa dozviete na %1$s</string>
+	<string name="usb_debugging_always">Vždy povoliť z tohto PC</string>
+ 	<string name="usb_debugging_message">"RSA kľúč: %1$s"</string>
+ 	<string name="usb_debugging_title">Povoliť ladenie cez USB?</string>	
     <string name="usb_device_confirm_prompt">Otvoriť %1$s keď je pripojené USB zariadenie?</string>	
     <string name="usb_device_permission_prompt">Povoliť aplikácii %1$s prístup k USB zariadeniu?</string>	
     <string name="usb_mode_dont_ask">"Na budúce sa nepýtať"</string>	

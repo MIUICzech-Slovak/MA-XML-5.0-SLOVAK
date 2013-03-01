@@ -33,6 +33,7 @@
     <string name="download_failed">Sťahovanie zlyhalo</string>
     <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
     <string name="download_success">Úspešne stiahnuté</string>	
+	<string name="resource_comment_expand_full_text">Rozbaliť text</string>
     <string name="fail_to_add_account">Pridávanie účtu zlyhalo</string>
     <string name="change_wallpaper">Zmena tapety</string>	
     <string name="live_wallpaper">Živá tapeta</string>	

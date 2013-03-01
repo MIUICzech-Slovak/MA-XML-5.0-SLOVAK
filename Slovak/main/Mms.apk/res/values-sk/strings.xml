@@ -56,6 +56,8 @@
   <string name="confirm_delete_SIM_message">Táto správa na karte SIM bude vymazaná.</string>
   <string name="confirm_dialog_locked_title">Vymazať zamknuté správy?</string>
   <string name="confirm_dialog_title">Vymazať</string>
+  <string name="confirm_export_dialog_description">Odstrániť vybraný súkromný kontakt, konverzácie budú premiestnené do bežných SMS. Chcete pokračovať?</string>
+  <string name="confirm_export_dialog_title">Odstrániť súkromný kontakt</string>
   <string name="confirm_rate_limit">Odosielate veľké množstvo MMS správ. Je to v poriadku?</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_browse_web">www</string>
@@ -353,6 +355,8 @@
   <string name="status_rejected">Odmietnuté</string>
   <string name="status_unread">Neprečítané</string>
   <string name="stick">Pripnúť</string>
+  <string name="stick_conversation">Pripnúť konverzáciu</string>
+  <string name="sticked_conversation">Už je pripnutá</string>
   <string name="storage_limits_activity">Obmedzenia úložiska</string>  
   <string name="storage_limits_message">Chcete obmedziť počet správ a šetriť tak miesto na rozhovor?</string>
   <string name="storage_limits_setting">Nastavené limity</string>
@@ -386,6 +390,8 @@
   <string name="unknown_num">Neznáme číslo</string>
   <string name="unknown_sender">Neznámy odosielateľ</string>
   <string name="unstick">Odpojiť</string>
+  <string name="unstick_conversation">Zrušiť pripnutie</string>
+  <string name="unsticked_conversation">Pripnutie už je zrušené</string>
   <string name="unsupported_media_format">%1$s je v nepodporovanom formáte</string>
   <string name="view">Zobraziť</string>
   <string name="view_bookmark">Zobraziť pôvodnú správu</string>

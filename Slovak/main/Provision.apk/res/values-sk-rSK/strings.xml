@@ -2,6 +2,8 @@
 <resources>
     <string name="continues"><u>Pokračovať</u></string>
     <string name="data_usage_summary">Ak nemáte predplatený mobilný internet, odporúča sa dáta deaktivovať. Inak sa môžu výrazne zvýšiť Vaše poplatky.</string>
+	<string name="input_method">Metóda vstupu</string>	
+    <string name="input_method_category">Vybrať predvolenú metódu vstupu</string>
     <string name="next">Ďalší</string>
     <string name="other_service_label">Ostatné služby</string>
     <string name="other_service_location">Zisťovanie polohy</string>
