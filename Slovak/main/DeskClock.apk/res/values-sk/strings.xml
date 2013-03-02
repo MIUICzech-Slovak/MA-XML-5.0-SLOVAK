@@ -68,10 +68,10 @@
     <string name="lap">Kolo</string>
     <string name="lap_num">Kolo</string>
     <string name="loading_ringtone">Načítavanie vyzváňacieho tónu…</string>
-    <string name="menu_add_worldclock">Pridať časovú zónu</string>
+    <string name="menu_add_worldclock">Časová zóna</string>
     <string name="menu_alarmclock_edit">Upraviť budík</string>
     <string name="menu_delete">Vymazať</string>
-    <string name="menu_desk_clock">Stolné hodiny</string>
+    <string name="menu_desk_clock">Hodiny</string>
     <string name="menu_edit_systemtime">Systémový čas</string>
     <string name="menu_item_dock_settings">Nastavenie doku</string>
     <string name="menu_worldclock_edit">Upraviť hodiny vo svete</string>
@@ -99,7 +99,7 @@
     <string name="start_up">Spustiť</string>
     <string name="stopwatch_lap_empty_text">Žiadne kolo</string>
     <string name="stopwatch_title">Stopky</string>
-    <string name="system_time_setting">Nastavenie času</string>
+    <string name="system_time_setting">Nastaviť čas</string>
     <string name="time">Čas</string>
     <string name="timer_continue">Pokračovať</string>
     <string name="timer_got_it">Zavrieť</string>

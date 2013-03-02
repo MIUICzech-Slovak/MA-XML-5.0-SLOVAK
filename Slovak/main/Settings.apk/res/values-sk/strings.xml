@@ -2,7 +2,7 @@
 <resources>
     <string name="about_settings">Info o telefóne</string>	
     <string name="about_settings_summary">Zobrazí právne informácie, stav a verziu softwaru</string>	
-    <string name="ac_enable_title">Zapnúť kontrolu prístupu</string>	
+    <string name="ac_enable_title">Kontrola prístupu</string>	
     <string name="ac_privacy_mode_title">Chrániť režim súkromia</string>	
     <string name="ac_privacy_mode_sum">Pre deaktivovanie súkromného režimu vložte Vaše prístupové heslo</string>
     <string name="ac_set_apps_title">Chránené aplikácie</string>	
@@ -148,8 +148,8 @@
     <string name="auto_replace_summary">Opravovať pravopisné chyby</string>	
     <string name="auto_restore_summary">Pri preinštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
     <string name="auto_restore_title">Automatické obnovenie</string>	
-    <string name="auto_startup_application_manage">Správca aplik. spúšťaných pri štarte</string>
-    <string name="auto_startup_count">Povoliť %d aplikáciám auto. sa spúšťať</string>
+    <string name="auto_startup_application_manage">Aplikácie pri štarte</string>
+    <string name="auto_startup_count">Povoliť %d aplikáciám auto. sa spúšťať pri štarte</string>
     <string name="auto_startup_dialog_msg">"Miui povolí aplikácií sa spustiť automaticky bez opýtania sa. To môže viesť k zvýšenej spotrebe energie a dát. \nPovoliť automatické spustenie pri štarte telefónu?"</string>
     <string name="automatic_brightness">Automatický jas</string>	
     <string name="available_size">%s Voľné</string>	
@@ -176,7 +176,7 @@
     <string name="band_mode_set">Nastaviť</string>	
     <string name="band_mode_succeeded">Pásmo nastavené.</string>	
     <string name="band_mode_title">Nastaviť pásmo pre GSM a UMTS</string>	
-    <string name="baseband_version">Verzia rádia/modem</string>	
+    <string name="baseband_version">Modem</string>	
     <string name="battery_action_app_details">Informácie o aplikácií</string>	
     <string name="battery_action_app_settings">Nastavenie aplikácie</string>	
     <string name="battery_action_bluetooth">Nastavenie Bluetooth</string>	
@@ -206,7 +206,7 @@
     <string name="battery_info_health_unknown">Neznáme</string>	
     <string name="battery_info_health_unspecified_failure">Neznáma chyba</string>	
     <string name="battery_info_label">Info o batérií</string>	
-    <string name="battery_info_level_label">Stav batérie:</string>	
+    <string name="battery_info_level_label">Stav nabitia:</string>	
     <string name="battery_info_power_ac">AC</string>	
     <string name="battery_info_power_ac_usb">AC+USB</string>	
     <string name="battery_info_power_label">Napájací konektor:</string>	
@@ -229,7 +229,7 @@
     <string name="battery_info_uptime">Čas od spustenia:</string>	
     <string name="battery_info_voltage_label">Napätie batérie:</string>	
     <string name="battery_info_voltage_units">mV</string>	
-    <string name="battery_level_title">Stav batérie</string>	
+    <string name="battery_level_title">Stav nabitia</string>	
     <string name="battery_settings">Batéria</string>	
     <string name="battery_settings_title">Batéria</string>	
     <string name="battery_since_reset">Využitie batérie od obnovenia</string>	
@@ -420,7 +420,7 @@
     <string name="bluetooth_visibility_timeout">Časový limit viditeľnosti</string>	
     <string name="bluetooth_visibility_timeout_summary">Nastaviť dobu, po ktorú bude zariadenie vo viditeľnom režime</string>	
     <string name="breathing_light_color_summary">Farba LED pri novej notifikácii</string>	
-    <string name="breathing_light_color_title">" Farba LED"</string>	
+    <string name="breathing_light_color_title">" LED"</string>	
     <string name="breathing_light_freq_summary">Pauza LED pred blikaním</string>	
     <string name="breathing_light_freq_title">Frekvencia blikania LED</string>	
     <string name="brightness">Jas</string>	
@@ -634,7 +634,7 @@
     <string name="device_admin_status">Správca je aktívny a umožňuje aplikácií %1$s vykonávať nasledujúce operácie:</string>	
     <string name="device_admin_title">Správa zariadenia</string>	
     <string name="device_admin_warning">Aktiváciou tohto správcu umožníte aplikácií %1$s vykonávať nasledujúce operácie:</string>	
-    <string name="device_cpu">CPU:</string>	
+    <string name="device_cpu">CPU</string>	
     <string name="device_cpu2_info">"2 jadrá "</string>	
     <string name="device_cpu4_info">"4 jadrá "</string>	
     <string name="device_default_name">Xiaomi</string>
@@ -736,13 +736,13 @@
     <string name="drive_mode_sms_report">SMS</string>
     <string name="drive_mode_title">Nastaviť upozornenia</string>
     <string name="drive_mode_voice_report">Hovor</string>
-    <string name="dtmf_tone_enable_title">Tóny pri dotyku číselníku</string>	
+    <string name="dtmf_tone_enable_title">Tóny pri dotyku číselníka</string>	
     <string name="emergency_tone_summary">Nastaviť chovanie pri tiesňovom volaní</string>	
     <string name="emergency_tone_title">Tiesňové vyzváňanie</string>	
     <string name="empty_list_msg">Žiadne aplikácie tretích strán nie sú nainštalované.</string>	
 	<string name="enable_adb">Ladenie USB</string>	
     <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>
-	<string name="enable_assist_key_long_press">Dlhé podržanie Menu spustí hlasový asistent</string>	
+	<string name="enable_assist_key_long_press">Dlhé podrž. spustí hlas. asistent</string>	
     <string name="enable_back_long_press">Ukončiť aplik. podržaním</string>	
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>	
     <string name="enable_drive_mode">Povoliť režim AUTO</string>
@@ -788,7 +788,7 @@
     <string name="filter_dlg_title">Vyberte možnosti filtra</string>	
     <string name="finish_application">Ukončiť</string>
     <string name="finish_button_label">Dokončiť</string>	
-    <string name="firmware_version">Android:</string>	
+    <string name="firmware_version">Android</string>	
 	<string name="font_size_huge">Obrovské</string>
 	<string name="font_size_large">Veľké</string>
 	<string name="font_size_medium">Stredné</string>
@@ -893,7 +893,7 @@
     <string name="join_two_items">%1$s a %2$s</string>
     <string name="keep_screen_on">Nevypínať obrazovku</string>	
     <string name="keep_screen_on_summary">Obrazovka sa pri nabíjaní neprepne do režimu spánku</string>	
-    <string name="kernel_version">Verzia jadrá/kernel</string>	
+    <string name="kernel_version">Kernel</string>	
     <string name="key_settings">Tlačidlá</string>	
     <string name="key_settings_title">Tlačídlá</string>
 	<string name="keyboard_layout_default_label">Predvolené</string>
@@ -1071,7 +1071,7 @@
     <string name="misc_files_selected_count">vybraných: %1$d z %2$d</string>	
     <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>	
     <string name="mms_vibrate_abbreviation">Správy</string>	
-    <string name="model_number">Označenie modelu:</string>	
+    <string name="model_number">Označenie modelu</string>	
     <string name="move_app">Presunúť</string>	
     <string name="move_app_failed_dlg_text">"Presunutie aplikácie %1$s sa nepodarilo"</string>	
     <string name="move_app_failed_dlg_title" />
@@ -1320,7 +1320,7 @@
     <string name="power_cell">V pohotovostnom režime</string>	
     <string name="power_idle">V nečinnosti</string>	
     <string name="power_key">Zapínacie tlačidlo</string>	
-	<string name="power_mode">Režim napájania</string>
+	<string name="power_mode">Režim výkonu</string>
     <string name="power_phone">Hlasové hovory</string>	
     <string name="power_screen">Obrazovka</string>	
     <string name="power_usage_history">Využitie batérie</string>	
@@ -1334,10 +1334,10 @@
     <string name="pref_operational_key">Ovládacie tlačidlo</string>	
     <string name="pref_volume_category_title">Ovládanie hlasitosti</string>	
     <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie.. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>	
-    <string name="pref_volume_wake_title">Zobudiť tlačidlom hlasitosti</string>	
+    <string name="pref_volume_wake_title">Zobudiť telefón</string>	
     <string name="preference_change_password_title">Zmeniť heslo</string>	
     <string name="preferred_media_app_summary">Vybrať hudobný prehrávač</string>	
-    <string name="privacy_mode_enable_title">Zapnúť režim súkromie</string>	
+    <string name="privacy_mode_enable_title">Režim súkromia</string>	
 	<string name="privacy_mode_enable_sum">Skryť záznamy hovorov, správy a ostatné dáta pri aktivovanom súkromnom režime</string>
     <string name="privacy_protect_title">Ochrana súkromia</string>	
     <string name="privacy_relative">Súkromie</string>

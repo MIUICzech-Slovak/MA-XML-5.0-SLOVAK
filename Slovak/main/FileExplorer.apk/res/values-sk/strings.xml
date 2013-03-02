@@ -4,12 +4,12 @@
 <string name="adding_upload_tasks">Pridávanie súborov pre upload.</string>
 <string name="app_name">Správca súborov</string>
 <string name="background">Stiahnúť na pozadí</string>
-<string name="bind_account">Pripojenie k KuaiPan účtu</string>
-<string name="bind_account_summary">Ak už máte KuaiPan účet, môžete ho pridať pre načítanie Vaších osobných dát</string>
-<string name="binded_accout_description">Účty sú prepojené, môžete sa prihlásiť buď Xiaomi účtom alebo KuaiPan účtom</string>
-<string name="binded_accout_title">KuaiPan účet</string>
+<string name="bind_account">Pripojenie k MiDrive účtu</string>
+<string name="bind_account_summary">Ak už máte MiDrive účet, môžete ho pridať pre načítanie Vaších osobných dát</string>
+<string name="binded_accout_description">Účty sú prepojené, môžete sa prihlásiť buď Xiaomi účtom alebo MiDrive účtom</string>
+<string name="binded_accout_title">MiDrive účet</string>
 <string name="binded_accout_warning">Upozornenie: Túto akciu nie je možné vrátiť späť, chcete pokračovať?</string>
-<string name="binding_accout_title">Pridať existujúci kuaipan účet</string>
+<string name="binding_accout_title">Pridať existujúci MiDrive účet</string>
 <string name="cancel">Zrušiť</string>
 <string name="cancel_cleanup">Zrušiť čistenie</string>
 <string name="category_all">Všetko</string>
@@ -32,7 +32,7 @@
 <string name="cleanup_help">Vyčistiť zbytočné súbory a uvoľniť tak miesto v telefóne</string>
 <string name="cleanup_tab_app">Vyčistiť Apl.</string>
 <string name="cleanup_tab_garbage">Vyčistiť systém</string>
-<string name="clear_cache">Vyčistiť medzipamäť/cache</string>
+<string name="clear_cache">Vyčistiť cache</string>
 <string name="close">Zavrieť</string>
 <string name="compress_message">Zbaliť do:</string>
 <string name="compress_title">Zbaliť</string>
@@ -109,7 +109,7 @@
 <string name="choose_send_type">Zvoľte typ odosielania</string>
 <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
 <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
-<string name="kingsoft_account">Kingsoft KuaiPan účet</string>
+<string name="kingsoft_account">MiDrive účet</string>
 <string name="kuaipan_over_space">Váš MiDrive už nemá voľné miesto.</string>
 <string name="kuaipan_prompt">MiDrive Pomoc</string>
 <string name="kuaipan_prompt_message">"Server je momentálne nedostupný, skúste to opäť neskôr"</string>
@@ -117,9 +117,9 @@
 <string name="load_err">Načítavanie zlyhalo</string>
 <string name="loading">Načítavam...</string>
 <string name="local_cache">Lokálna medzipamäť/cache</string>
-<string name="local_cache_size">Veľkosť lokálnej medzipamäte/cache: %s</string>
+<string name="local_cache_size">Veľkosť lokálnej cache: %s</string>
 <string name="login_reg_content">S MiDrive môžete synchronizovať súbory.</string>
-<string name="login_reg_content0">KuaiPan je Váš Cloud</string>
+<string name="login_reg_content0">MiDrive je Váš Cloud</string>
 <string name="login_reg_login_xiaomi">Prihlásiť sa do Xiaomi účtu</string>
 <string name="menu_item_cleanup">Vyčistiť súbory</string>
 <string name="menu_item_ftp">FTP</string>
@@ -185,7 +185,7 @@
 <string name="send_to_midrive_failed_message">MiDrive nepodporuje tento typ súboru.</string>
 <string name="server_control_advanced_settings">Pokročilé nastavenia</string>
 <string name="server_control_charset">Kódovanie prenosu</string>
-<string name="server_control_settings">Nastavenie Servera</string>
+<string name="server_control_settings">Nastavenie</string>
 <string name="share_link_failed">Vytváranie odkazu pre zdieľanie zložky zlyhalo!</string>
 <string name="show_message">Súbor nie je možné otvoriť bez jeho stiahnutia</string>
 <string name="slide_left_text">Posuňte vľavo</string>
@@ -225,15 +225,15 @@
 <string name="uploading">Odosielam...</string>
 <string name="used">Použité</string>
 <string name="user_guide">Užívateľský manuál</string>
-<string name="user_guide_download_other_version">"Môžete si stiahnuť Kuaipan aj do Vášho PC"</string>
-<string name="user_guide_kuaipan_copy">"Pristupujte k Vašim súborom z viacerých zariadení vďaka Kuaipan"</string>
-<string name="user_guide_other_version">Sťiahnuť alternatívnu verziu Kuaipan</string>
+<string name="user_guide_download_other_version">"Môžete si stiahnuť MiDrive aj do Vášho PC"</string>
+<string name="user_guide_kuaipan_copy">"Pristupujte k Vašim súborom z viacerých zariadení vďaka MiDrive"</string>
+<string name="user_guide_other_version">Sťiahnuť alternatívnu verziu MiDrive</string>
 <string name="user_guide_summary">Ako používať MiDrive</string>
-<string name="user_guide_upload_to_kuaipan">"Z Vášho telefónu kopírujte do Kuaipan"</string>
+<string name="user_guide_upload_to_kuaipan">"Z Vášho telefónu kopírujte do MiDrive"</string>
 <string name="utf8_summary">Predvolené kódovanie FTP</string>
 <string name="waiting">Čakám...</string>
 <string name="wangpan_root_path">Môj Drive</string>
-<string name="wifi_state">Stav Wi-Fi</string>
+<string name="wifi_state">Stav Wifi</string>
 <string name="xiaomi_account">Xiaomi účet</string>
 <string name="yes">Áno</string>
 </resources>

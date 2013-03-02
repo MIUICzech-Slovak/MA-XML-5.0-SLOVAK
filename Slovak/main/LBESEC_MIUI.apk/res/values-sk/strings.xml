@@ -70,7 +70,7 @@
     <string name="HIPS_Group_Location">Poloha</string>
     <string name="HIPS_Group_PhoneID">Identifikácia telefónu</string>
     <string name="HIPS_Group_PIM">Osobné údaje</string>
-    <string name="HIPS_Group_ROOT">ROOT</string>
+    <string name="HIPS_Group_ROOT">"ROOT "</string>
     <string name="HIPS_Perm_AdjustRingerVolume">upraviť hlasitosť zvonenia</string>
     <string name="HIPS_Perm_AdjustVolumeInCall">upraviť hlasitosť hovoru</string>
     <string name="HIPS_Perm_AllowAll">Povoliť všetko</string>

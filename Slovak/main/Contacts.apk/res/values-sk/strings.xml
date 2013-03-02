@@ -435,11 +435,11 @@
     <string name="map_work">Zobraziť pracovnú adresu</string>
     <string name="meid">MEID</string>
     <string name="menu_accounts">Účty</string>
-    <string name="menu_addStar">Pridať k obľúbeným položkám</string>
+    <string name="menu_addStar">Pridať k obľúbeným</string>
     <string name="menu_bar_group_add">Pridať</string>
     <string name="menu_bar_group_delete">Vymazať</string>
     <string name="menu_bar_group_rename">Premenovať</string>
-    <string name="menu_bar_group_ringtone">Zvonenie skupiny</string>
+    <string name="menu_bar_group_ringtone">Zvonenie skup.</string>
     <string name="menu_bar_group_sms">Skupinová SMS</string>
     <string name="menu_call">Volať kontakt</string>
     <string name="menu_call_ip_number">Vytočiť IP hovor (%s)</string>

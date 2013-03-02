@@ -30,7 +30,7 @@
   <string name="cant_delete_system_album">%s je systémový album a nie je možné ho vymazať!</string>
   <string name="cleaning_cache"> Vymazať cache...</string>
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
-  <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria rescanuje mediálne súbory a vytvorí nové náhľady.</string>
+  <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string> 
   <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
   <string name="close">Zatvoriť</string>

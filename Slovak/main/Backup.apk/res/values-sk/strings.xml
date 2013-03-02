@@ -96,8 +96,8 @@
 <string name="local_no_backup">Žiadna lokálna záloha</string>
 <string name="local_restore_window_title">Obnova z SD karty</string>
 <string name="local_select_account_contact">Účty a kontakty</string>
-<string name="local_select_sysdata">Systém %s</string>
-<string name="local_select_userapp">Aplikácie %s</string>    
+<string name="local_select_sysdata">Systém</string>
+<string name="local_select_userapp">Aplikácie</string>    
 <string name="menu_patch_delete">Vymazať zálohy</string>
 <string name="miliao_account_guide">Účet MiTalk bol povýšený na účet Xiaomi.\n Užite si všetky dostupné online služby</string>
 <string name="miliao_account_login">Prihlásiť k MiTalk</string>

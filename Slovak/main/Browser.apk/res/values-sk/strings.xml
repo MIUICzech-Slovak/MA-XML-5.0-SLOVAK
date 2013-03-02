@@ -261,7 +261,7 @@
     <string name="pref_content_open_in_background">Otvoriť na pozadí</string>	
     <string name="pref_content_open_in_background_summary">Otvoriť nové karty na pozadí aktuálnej karty</string>	
     <string name="pref_content_plugins">Povoliť pluginy</string>	
-    <string name="pref_content_search_engine">Nastaviť vyhľadávací engine</string>	
+    <string name="pref_content_search_engine">Nastaviť vyhľadávanie</string>	
     <string name="pref_content_search_engine_summary">Vybrať vyhľadávací engine</string>	
     <string name="pref_content_title">Obsah stránky</string>	
     <string name="pref_data_preload_dialogtitle">Prednahrávanie výsledkov vyhľadávania.</string>	
