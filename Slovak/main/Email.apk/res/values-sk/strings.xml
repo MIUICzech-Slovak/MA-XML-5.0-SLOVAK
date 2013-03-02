@@ -308,12 +308,12 @@
     <string name="mailbox_name_display_sent">Odoslané</string>
     <string name="mailbox_name_display_trash">Kôš</string>
     <string name="mailbox_name_display_unread">Neprečítané</string>
-    <string name="mailbox_name_server_drafts">Drafts</string>
-    <string name="mailbox_name_server_inbox">Inbox</string>
-    <string name="mailbox_name_server_junk">Junk</string>
-    <string name="mailbox_name_server_outbox">Outbox</string>
-    <string name="mailbox_name_server_sent">Sent</string>
-    <string name="mailbox_name_server_trash">Trash</string> 
+    <string name="mailbox_name_server_drafts">Koncepty</string>
+    <string name="mailbox_name_server_inbox">Prijaté</string>
+    <string name="mailbox_name_server_junk">Spam</string>
+    <string name="mailbox_name_server_outbox">Odchádzajúce</string>
+    <string name="mailbox_name_server_sent">Odoslané</string>
+    <string name="mailbox_name_server_trash">Kôš</string> 
     <string name="mailbox_preferences_header">Nastavenia synchronizácie</string>
     <string name="mailbox_settings_action">Možnosti synchronizácie</string>
     <string name="mailbox_settings_activity_title">Možnosti synchronizácie</string>
@@ -424,7 +424,7 @@ Kópia: %4$s
     <string name="more_than_999">999+</string>
     <string name="move_action">Presunúť</string>
     <string name="move_to_folder_dialog_title">Presunúť do</string>
-    <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+    <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
     <string name="next_action">Ďalej</string>
     <string name="notification_multiple_new_messages_fmt">Nové správy: %1$d</string>
     <string name="notification_to_account">adresát: %1$s</string>
@@ -508,7 +508,7 @@ Kópia: %4$s
     <string name="provider_note_live">Len niektoré účty Plus majú prístup prostredníctvom protokolu POP, ktorý umožňuje pripojenie tohto programu. Ak sa nemôžete prihlásiť so správnou e-mailovou adresou a heslom, pravdepodobne nemáte platený účet „Plus“. Ak chcete pristupovať k týmto e-mailovým účtom, urobte tak prostredníctvom webového prehliadača.</string>
     <string name="provider_note_t_online">Pred nastavením tohto e-mailového účtu navštívte webové stránky T-Online a vytvorte heslo pre e-mailový prístup POP3.</string>
     <string name="quick_responses_empty_view">Žiadne rýchle odpovede</string>
-    <string name="read_action">Označiť ako prečítané</string>
+    <string name="read_action">Prečítané</string>
     <string name="refresh_action">Obnoviť</string>
     <string name="remove_star_action">Odstrániť hviezdičku</string>
     <string name="reply_action">Odpovedať</string>
@@ -562,7 +562,7 @@ Kópia: %4$s
     <string name="toast_intent_error">Inicializácia odovzdávania zlyhala.</string>
     <string name="toast_mailbox_not_found">Priečinok sa nenašiel. Možno bol odstránený.</string>
     <string name="trusted_senders_cleared">Nastavenie „Zobraziť obrázky“ bolo vymazané.</string>
-    <string name="unread_action">Označiť ako neprečítané</string>
+    <string name="unread_action">Neprečítané</string>
     <string name="upload">Odovzdať</string>
     <string name="upload_state_completed">Dokončené</string>
     <string name="upload_state_failed">Zlyhanie</string>
