@@ -58,7 +58,7 @@
     <string name="account_settings_vibrate_when_never">Nikdy</string>
     <string name="account_settings_vibrate_when_silent">Iba v tichom režime</string>
     <string name="account_settings_vibrate_when_summary">Vibrovať aj pri príchode e-mailu</string>
- 	<string name="account_setup_account_type_exchange_action">Exchange</string>
+    <string name="account_setup_account_type_exchange_action">Exchange</string>
     <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
     <string name="account_setup_account_type_headline">Typ konta</string>
     <string name="account_setup_account_type_imap_action">IMAP</string>
@@ -76,10 +76,7 @@
     <string name="account_setup_basics_manual_setup_action">Ručné nastavenie</string>
     <string name="account_setup_basics_password_label">Heslo</string>
     <string name="account_setup_basics_title">Nastavenie účtu</string>
-	<string name="account_setup_check_settings_check_incoming_msg">Nastavenia servera kontroly prichádzajúcej pošty...</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Nastavenia servera odchádzajúcej pošty...</string>
-    <string name="account_setup_check_settings_retr_info_msg">Získavanie informácií o vašom účte...</string>   
- 	<string name="account_setup_exchange_certificate_title">Certifikát klienta</string>
+    <string name="account_setup_exchange_certificate_title">Certifikát klienta</string>
     <string name="account_setup_exchange_device_id_label">ID mobilného zariadenia</string>
     <string name="account_setup_exchange_headline">Nastavenia servera</string>
     <string name="account_setup_exchange_no_certificate">Žiadny</string>
@@ -95,7 +92,7 @@
     <string name="account_setup_failed_auth_required">Metódy overovania totožnosti nie sú na tomto serveri podporované.</string>
     <string name="account_setup_failed_certificate_inaccessible">Certifikát je neplatný alebo neprístupný.</string>
     <string name="account_setup_failed_certificate_required">Vyžaduje sa certifikát klienta. Pripojiť sa k serveru pomocou certifikátu klienta?</string>
-	<string name="account_setup_failed_dlg_auth_message">Používateľské meno alebo heslo nie je správne.</string>
+    <string name="account_setup_failed_dlg_auth_message">Používateľské meno alebo heslo nie je správne.</string>
     <string name="account_setup_failed_dlg_auth_message_fmt">"Používateľské meno alebo heslo nie je správne.
 (%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message">Nepodarilo sa bezpečne pripojiť k serveru.</string>
@@ -107,7 +104,7 @@
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Nepodarilo sa dokončiť</string>
     <string name="account_setup_failed_check_credentials_message">Server ohlásil chybu. Skontrolujte svoje užívateľské meno a heslo a skúste to znova.</string>  
-  	<string name="account_setup_failed_ioerror">Pripojenie k serveru sa nepodarilo otvoriť.</string>
+    <string name="account_setup_failed_ioerror">Pripojenie k serveru sa nepodarilo otvoriť.</string>
     <string name="account_setup_failed_protocol_unsupported">Zadali ste nesprávnu adresu servera alebo server vyžaduje verziu protokolu, ktorú aplikácia E-mail nepodporuje.</string>
     <string name="account_setup_failed_security">Pripojenie k serveru sa nepodarilo otvoriť kvôli chybe zabezpečenia.</string>
     <string name="account_setup_failed_security_policies_unsupported">"Tento server vyžaduje bezpečnostné funkcie, ktoré vaše zariadenie so systémom Android nepodporuje, vrátane: %s."</string>
@@ -214,9 +211,9 @@
     <string name="cannot_move_special_mailboxes_toast">Správy v priečinkoch Koncepty, Pošta na odoslanie a Odoslané nie je možné presunúť.</string>
     <string name="category_general_preferences">Aplikácia</string>
     <string name="cc">Kópia</string>
-	<string name="close_action">Zavrieť</string>
-	<string name="cleared_trusted_senders_message">"Vyčistiť \"ukázať obrázky\", obrázky v správach sa nebudú automaticky zobrazovať."</string>
-  	<string name="completed_no_file">Súbor sa nenašiel</string>
+    <string name="close_action">Zavrieť</string>
+    <string name="cleared_trusted_senders_message">"Vyčistiť \"ukázať obrázky\", obrázky v správach sa nebudú automaticky zobrazovať."</string>
+    <string name="completed_no_file">Súbor sa nenašiel</string>
     <string name="compose_action">Napísať správu</string>
     <string name="compose_title">Napísať správu</string>
     <string name="contextmenu_add_contact">Pridať kontakt</string>
@@ -257,8 +254,8 @@
     <string name="dialog_sync_all_server_error">Pri komunikácii so serverom sa vyskytol problém. Skúste to znova neskôr.</string>
     <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>
     <string name="discard_action">Zahodiť</string>
-	<string name="done">Návrat</string>    
-	<string name="done_action">Hotovo</string>
+    <string name="done">Návrat</string>    
+    <string name="done_action">Hotovo</string>
     <string name="edit_quick_response_dialog">Upraviť rýchlu odpoveď</string>
     <string name="eml_view_title">Zobraz. súbor: %s</string>
     <string name="error_loading_message_body">Text správy sa nepodarilo načítať. Správa je možno príliš veľká, a preto ju nie je možné zobraziť.</string>
@@ -295,10 +292,10 @@
     <string name="header_label_general_preferences">Všeobecné</string>
     <string name="choose_attachment_dialog_title">Vyberte prílohu</string>
     <string name="choosertitle_sharevia">Zdieľať cez..</string>   
-	<string name="login_failed_ticker">Prihlásenie do účtu %s zlyhalo.</string>
+    <string name="login_failed_ticker">Prihlásenie do účtu %s zlyhalo.</string>
     <string name="login_failed_title">Prihlásenie sa nepodarilo</string>
-	<string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>   
- 	<string name="mailbox_list_account_selector_account_header">Účty</string>
+    <string name="long_string">------------------------------------------------------------------------</string>   
+    <string name="mailbox_list_account_selector_account_header">Účty</string>
     <string name="mailbox_list_account_selector_combined_view">Kombinované zobrazenie</string>
     <string name="mailbox_list_account_selector_mailbox_header_fmt">Nedávne priečinky (%s)</string>
     <string name="mailbox_list_account_selector_show_all_folders">Zobraziť všetky priečinky</string>
@@ -372,7 +369,7 @@ Kópia: %4$s
 %s napísal(a):
 
 "</string>   
- <string name="message_compose_subject_hint">Predmet</string>
+    <string name="message_compose_subject_hint">Predmet</string>
     <string name="message_compose_to_hint">Komu</string>
     <string name="message_decode_error">Pri dekódovaní správy sa vyskytla chyba.</string>
     <string name="message_delete_dialog_title" />
@@ -427,7 +424,7 @@ Kópia: %4$s
     <string name="more_than_999">999+</string>
     <string name="move_action">Presunúť</string>
     <string name="move_to_folder_dialog_title">Presunúť do</string>
-   	<string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+    <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="next_action">Ďalej</string>
     <string name="notification_multiple_new_messages_fmt">Nové správy: %1$d</string>
     <string name="notification_to_account">adresát: %1$s</string>
@@ -458,8 +455,8 @@ Kópia: %4$s
     <string name="permission_access_provider_desc">Povoľuje tejto aplikácii prístup do databázy e-mailu, vrátane prijatých a odoslaných správ, používateľských mien a hesiel.</string>
     <string name="permission_access_provider_label">Prístup k údajom poskytovateľa e-mailu</string>
     <string name="permission_read_attachment_desc">Umožňuje tejto aplikácii čítať prílohy vašich e-mailov.</string>
- 	<string name="permission_read_attachment_label">Prečítajte si prílohy k e-mailu</string>   
- 	<string name="photos_upload_dimension_1600">Odporúčaná veľkosť: 1 600 pixlov (na zdieľanie, tlač a šetriče obrazovky)</string>
+    <string name="permission_read_attachment_label">Prečítajte si prílohy k e-mailu</string>   
+    <string name="photos_upload_dimension_1600">Odporúčaná veľkosť: 1 600 pixlov (na zdieľanie, tlač a šetriče obrazovky)</string>
     <string name="photos_upload_dimension_original">Pôvodná veľkosť (najpomalšie odovzdávanie)</string>
     <string name="picasa_default_destination">Album Okamžitého odovzdania</string>
     <string name="picker_combined_view_fmt">Kombinované zobrazenie (%s)</string>
@@ -538,7 +535,7 @@ Kópia: %4$s
     <string name="show_quick_text_list_dialog_action">Vložiť rýchlu odpoveď</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>   
- 	<string name="status_loading_messages">Prebieha načítavanie správ…</string>
+    <string name="status_loading_messages">Prebieha načítavanie správ…</string>
     <string name="status_network_error">Problém s pripojením.</string>
     <string name="subject_hint">Predmet</string>
     <string name="summary_menu_show_finished">Zobraziť dokončené odovzdania</string>
@@ -580,7 +577,7 @@ Kópia: %4$s
     <string name="widget_all_mail">Doručená pošta (všetky)</string>
     <string name="widget_loading">Prebieha načítav.</string>
     <string name="widget_no_accounts">Zatiaľ ste nevytvorili e-mailový účet.</string>
-  	<string name="widget_no_mailboxes">"Tento účet nie je synchronizovaný. Skúste to opäť neskôr."</string>
+    <string name="widget_no_mailboxes">"Tento účet nie je synchronizovaný. Skúste to opäť neskôr."</string>
     <string name="widget_other_views">Zmeňte klep. na ikonu</string>
     <string name="widget_starred">Označené hviezdičkou</string>
     <string name="widget_touch_to_configure">Dotykom nastavte.</string>
