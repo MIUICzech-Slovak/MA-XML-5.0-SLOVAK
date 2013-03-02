@@ -14,10 +14,10 @@
     <string name="direction_west">Z</string>
     <string name="getting_location">Získavam polohu...</string>
     <string name="latitude">LAT</string>
-    <string name="location_east">V</string>
-    <string name="location_north">S</string>
-    <string name="location_south">J</string>
-    <string name="location_west">Z</string>
+    <string name="location_east">Východ</string>
+    <string name="location_north">Sever</string>
+    <string name="location_south">Juh</string>
+    <string name="location_west">Západ</string>
     <string name="longitude">LON</string>
     <string name="menu_calibrate">Kalibrovať kompas</string>
     <string name="menu_calibrate_altitude">Kalibrovať nadmorskú výšku</string>
