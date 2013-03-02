@@ -16,7 +16,8 @@
     <string name="album_search_online_descript">Online | %1$d x %2$d</string>
     <string name="album_select">Vyberte obal albumu</string>
     <string name="albums_title">Albumy</string>
-    <string name="albumsongseparator">" "</string>
+    <string name="albumsongseparator">" 
+	"</string>
     <string name="all_tracks">Všetka hudba</string>
     <string name="android_album_settings">Použiť integrovaný obrázok albumu.</string>
     <string name="android_album_summary">Automaticky použije obrázok zo skladby. Môže spôsobiť chyby.</string>
