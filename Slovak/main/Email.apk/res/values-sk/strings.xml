@@ -338,7 +338,7 @@
     <string name="manager_view_completed">Zobraziť dokončené</string>
     <string name="manager_view_media">Zobraziť</string>
     <string name="manager_view_pending">Zobraziť čakajúce</string>
-    <string name="mark_as_unread_action">Označiť ako neprečítané</string>
+    <string name="mark_as_unread_action">Neprečítané</string>
     <string name="menu_hide_completed_items">Skryť podrobnosti</string>
     <string name="menu_hide_pending_items">Skryť čakajúce odovzdania</string>
     <string name="menu_settings">Nastavenia</string>
