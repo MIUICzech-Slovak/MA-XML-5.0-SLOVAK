@@ -5,7 +5,7 @@
     <string name="button_sort_by_size">Zoradiť podľa veľkosti</string>	
     <string name="cancel_download_notice">Zrušiť upozornenie</string>
     <string name="cancel_running_download">Zrušiť</string>	
-    <string name="confirm_delete_downloads_message">vybrané stiahnutia budú vymazané</string>	
+    <string name="confirm_delete_downloads_message">Vybrané %d stiahnutia budú vymazané</string>	
     <string name="confirm_delete_the_download_item_message">Potvrďte odstránenie</string>	
     <string name="confirm_disable_download_only_in_wifi_message">Vypnutím funkcie Sťahovať iba pomocou Wi-Fi sa môžu zvýšiť náklady na mobilný internet. Skutočne chcete funkciu vypnúť?</string>	
     <string name="delete_download">Odstrániť</string>	
