@@ -138,7 +138,7 @@
     <string name="view_install_log">Zobraziť inštalačný log</string>
     <string name="view_upgrade_tutorial">Pozrieť návod</string>
     <string name="weekly_build">Týždenné zostavenia</string>
-    <string name="wifi_not_available_body">Odporúča sa použiť Wifi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
+    <string name="wifi_not_available_body">Odporúča sa použiť Wifi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wifi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wifi nepripojené</string>
     <string name="worst_update">Zlý update</string>
 </resources>

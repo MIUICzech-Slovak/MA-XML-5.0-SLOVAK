@@ -57,7 +57,7 @@
     <string name="deselect_all">Odznačiť všetko</string>
     <string name="download">Stiahnuť</string>
     <string name="download_album_settings">Automatický sťahovať obrázky albumov</string>
-    <string name="download_album_summary">Môže sťahovať väčšie množstvo dát, zvážte použitie Wi-Fi</string>
+    <string name="download_album_summary">Môže sťahovať väčšie množstvo dát, zvážte použitie Wifi</string>
     <string name="download_all_album">Stiahnuté obrázky albumov</string>
     <string name="download_all_avatar">Stiahnuť obrázok autora</string>
     <string name="download_all_track">Stiahnuť všetky skladby</string>
@@ -111,7 +111,7 @@
     <string name="keep_quit_position_settings">Uložiť poslednú pozíciu</string>
     <string name="keep_quit_position_summary">Pamätať si pozíciu v poslednej prehrávanej skladbe</string>
     <string name="listen_to_music_online_settings">Počúvanie online hudby</string>
-    <string name="listen_to_online_summary">Počúvanie hudby cez mobilný, alebo Wi-fi internet</string>
+    <string name="listen_to_online_summary">Počúvanie hudby cez mobilný, alebo Wifi internet</string>
     <string name="load_album_artist_failed">Načítavanie albumov a umelcov zlyhalo.</string>
     <string name="load_album_artist_in_process">Načítavanie albumov a umelcov...</string>
     <string name="load_album_failed">Načítavanie zoznamu albumov zlyhalo, skúste to prosím znovu.</string>

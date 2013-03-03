@@ -188,7 +188,7 @@
   <string name="cit_tool_log_ril">RIL log</string>
   <string name="cit_tool_log_toast">Log file saved to %s</string>
   <string name="cit_tool_log_toast_generate_bugreport">Bug report may take up to 10 seconds to generate</string>
-  <string name="cit_tool_wifi">Wi-Fi test tools</string>
+  <string name="cit_tool_wifi">Wifi test tools</string>
   <string name="cit_tool_wifi_b_13a">Tx:13/1M/15dBm</string>
   <string name="cit_tool_wifi_b_13b">Tx:13/11M/15dBm</string>
   <string name="cit_tool_wifi_b_1a">Tx:1/1M/15dBm</string>
@@ -247,13 +247,13 @@
   <string name="cit_vibrator_play_touch_pattern">Vibration pattern</string>
   <string name="cit_vibrator_short">Short vibrate</string>
   <string name="cit_vibrator_show_advanced">Show advanced options</string>
-  <string name="cit_wifi_address_check_summary">Test will display current Wi-Fi state</string>
-  <string name="cit_wifi_address_check_title">Test Wi-Fi IP</string>
-  <string name="cit_wifi_address_error">Unable to obtain Wi-Fi address, check Wi-Fi is enabled and try again</string>
-  <string name="cit_wifi_ap_scan_check_summary">Test will display a list of all available Wi-Fi access points</string>
-  <string name="cit_wifi_ap_scan_check_title">Test Wi-Fi access point scan</string>
+  <string name="cit_wifi_address_check_summary">Test will display current Wifi state</string>
+  <string name="cit_wifi_address_check_title">Test Wifi IP</string>
+  <string name="cit_wifi_address_error">Unable to obtain Wifi address, check Wifi is enabled and try again</string>
+  <string name="cit_wifi_ap_scan_check_summary">Test will display a list of all available Wifi access points</string>
+  <string name="cit_wifi_ap_scan_check_title">Test Wifi access point scan</string>
   <string name="cit_wifi_ap_scan_retry">Rescan</string>
   <string name="cit_wifi_ap_scanning">Searching for Access points...</string>
-  <string name="cit_wifi_fail_to_scan">Unable to find any Wi-Fi networks</string>
+  <string name="cit_wifi_fail_to_scan">Unable to find any Wifi networks</string>
   <string name="cit_wifi_state_refresh">Refesh</string>
 </resources>

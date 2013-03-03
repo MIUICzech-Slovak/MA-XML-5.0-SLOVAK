@@ -7,7 +7,7 @@
     <string name="cancel_running_download">Zrušiť</string>	
     <string name="confirm_delete_downloads_message">Vybrané %d stiahnutia budú vymazané</string>	
     <string name="confirm_delete_the_download_item_message">Potvrďte odstránenie</string>	
-    <string name="confirm_disable_download_only_in_wifi_message">Vypnutím funkcie Sťahovať iba pomocou Wi-Fi sa môžu zvýšiť náklady na mobilný internet. Skutočne chcete funkciu vypnúť?</string>	
+    <string name="confirm_disable_download_only_in_wifi_message">Vypnutím funkcie Sťahovať iba pomocou Wifi sa môžu zvýšiť náklady na mobilný internet. Skutočne chcete funkciu vypnúť?</string>	
     <string name="delete_download">Odstrániť</string>	
     <string name="delete_downloads_records">Vymazať históriu</string>	
     <string name="delete_the_downloaded_file">Vymazať stiahnuté súbory</string>	
@@ -22,7 +22,7 @@
     <string name="dialog_queued_body">Súbor zatiaľ nie je k dispozícii, pretože je v poradí na budúce prevzatie.</string>	
     <string name="dialog_title_not_available">Nepodarilo sa prevziať</string>	
     <string name="dialog_title_queued_body">Súbor v poradí</string>	
-    <string name="disable_download_only_in_wifi_title">Vypnúť â€śStiahnúť len cez Wi-fiâ€ť</string>
+    <string name="disable_download_only_in_wifi_title">Vypnúť â€śStiahnuť len cez Wifiâ€ť</string>
     <string name="download_complete">Stiahnuté</string>
     <string name="download_error">Neúspešné</string>
     <string name="download_error_insufficient_space">Nedostatok miesta</string>	
@@ -39,7 +39,7 @@
     <string name="download_title">Sťahovanie</string>	
     <string name="download_title_sorted_by_date">Prevzatia – zoradené podľa dátumu</string>	
     <string name="download_title_sorted_by_size">Prevzatia – zoradené podľa veľkosti</string>	
-    <string name="download_when_network_connected">Wi-Fi + Mobilné dáta</string>	
+    <string name="download_when_network_connected">Wifi + Mobilné dáta</string>	
     <string name="downloads_operating">Pracujem...</string>
 	<string name="editmode_menu_delete">Vymazať</string>
 	<string name="editmode_menu_share">Zdieľať</string>	
@@ -51,9 +51,9 @@
     <string name="no_downloads">Žiadne preberania</string>	
     <string name="open_download">Otvoriť</string>	
     <string name="pause_download">Pauza</string>	
-    <string name="pause_download_when_wifi_disconnected">Sťahovať len cez Wi-Fi</string>
+    <string name="pause_download_when_wifi_disconnected">Sťahovať len cez Wifi</string>
     <string name="paused_by_app">Pozastavené aplikáciou</string>	
-    <string name="paused_queued_for_wifi">Pozastavené, čakám na Wi-Fi pripojenie</string>	
+    <string name="paused_queued_for_wifi">Pozastavené, čakám na Wifi pripojenie</string>	
     <string name="paused_unknown">Pozastavené</string>	
     <string name="paused_waiting_for_network">Pozastavené, čakám na pripojenie k sieti</string>	
     <string name="paused_waiting_to_retry">Pozastavené, čakám na obnovenie</string>	
