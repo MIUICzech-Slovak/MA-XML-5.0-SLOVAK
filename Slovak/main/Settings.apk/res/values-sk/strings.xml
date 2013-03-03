@@ -149,7 +149,7 @@
     <string name="auto_restore_summary">Pri preinštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
     <string name="auto_restore_title">Automatické obnovenie</string>	
     <string name="auto_startup_application_manage">Aplikácie pri štarte</string>
-    <string name="auto_startup_count">Povoliť %d aplikáciám auto. sa spúšťať pri štarte</string>
+    <string name="auto_startup_count">Povoliť %d aplikáciám spustiť sa</string>
     <string name="auto_startup_dialog_msg">"Miui povolí aplikácií sa spustiť automaticky bez opýtania sa. To môže viesť k zvýšenej spotrebe energie a dát. \nPovoliť automatické spustenie pri štarte telefónu?"</string>
     <string name="automatic_brightness">Automatický jas</string>	
     <string name="available_size">%s Voľné</string>	
