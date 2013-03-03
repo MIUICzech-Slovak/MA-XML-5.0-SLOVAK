@@ -15,7 +15,8 @@
     <string name="done">Hotovo</string>
     <string name="high_risk_perms">Rizikové práva</string>
     <string name="install">Inštalovať</string>
-    <string name="install_confirm_question">Chcete nainštalovať túto aplikáciu? Získa prístup k týmto povoleniam:</string>
+    <string name="install_confirm_question">"Chcete nainštalovať túto aplikáciu? 
+	Získa prístup k týmto povoleniam:"</string>
     <string name="install_done">Aplikácia bola nainštalovaná.</string>
     <string name="install_failed">Aplikácia nie je nainštalovaná.</string>
     <string name="install_failed_cpu_abi_incompatible">Táto aplikácia nie je kompatibilná s vaším telefónom.</string>
@@ -43,7 +44,7 @@
     <string name="perm_privacy_app_installed">Inštalácia úspešná!</string>
     <string name="perm_privacy_app_launch">Spustiť</string>
     <string name="perm_privacy_app_trust">Verím tejto aplikácií</string>
-    <string name="perm_privacy_app_trust_summary">MIUI bude kontrolovať túto App</string>
+    <string name="perm_privacy_app_trust_summary">MIUI bude kontrolovať túto aplikáciu</string>
     <string name="perm_sysopt_boost_auto_start">Automatické spustenie</string>
     <string name="perm_sysopt_boost_auto_start_summary">Aplikácia sa spustí automaticky!</string>
     <string name="privacy_relative">Práva k súkromným údajom</string>
@@ -51,7 +52,7 @@
     <string name="safe_relative">Možné riziko</string>
     <string name="security_settings_desc">Povoliť aplikácii nasledovné:</string>
     <string name="settings">Nastavenia</string>
-    <string name="trust_switch_dialog_msg">"Miui si nebude pýtať potvrdenie operácií s bezpečnostnými rizikami tejto aplikácií. \nVeríte tejto App？"</string>
+    <string name="trust_switch_dialog_msg">"MIUI si nebude pýtať potvrdenie operácií tejto aplikácie ktoré môžu ohroziť Vašu bezpečnosť. \nVeríte tejto aplikácií?"</string>
     <string name="uninstall_activity_text">Aktivita %1$s je súčasťou nasledujúcej aplikácie:</string>
     <string name="uninstall_application_text">Chcete túto aplikáciu odinštalovať?</string>
     <string name="uninstall_application_title">Odinštalovať aplikáciu</string>
