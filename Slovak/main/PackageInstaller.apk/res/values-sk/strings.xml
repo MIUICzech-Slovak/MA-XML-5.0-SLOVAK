@@ -39,6 +39,9 @@
     <string name="out_of_space_dlg_title">Nedostatok miesta</string>
     <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
     <string name="Parse_error_dlg_title">Chyba analýzy</string>
+    <string name="perm_action_accept">Prijať</string>
+    <string name="perm_action_prompt">Opýtať sa</string>
+    <string name="perm_action_reject">Odmietnuť</string>
     <string name="perm_notice">Bezpečnostné riziko</string>
     <string name="perm_privacy_app_finish">Dokončiť</string>
     <string name="perm_privacy_app_installed">Inštalácia úspešná!</string>
