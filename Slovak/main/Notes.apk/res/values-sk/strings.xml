@@ -9,7 +9,9 @@
     <string name="alert_message_delete_notes">Chcete vymazať %1$s poznámok?</string>
 	<string name="alert_message_discard_changes">Zrušiť všetky zmeny?</string>
     <string name="alert_title_delete">Mazanie vybraných poznámok</string>
+	<string name="alert_message_exceed_image_limit">Môžete pripojiť maximálne 15 obrázkov do jednej poznámky. Vytvorte novú poznámku ak chcete pripojiť viac obrázkov.</string>
 	<string name="alert_title_discard">Zrušiť zmeny?</string>
+	<string name="alert_title_exceed_image_limit">Bol dosiahnutý limit počtu obrázkov v poznámke!</string>
 	<string name="app_name">Poznámky</string> 
 	<string name="app_widget">Poznámky</string>
    	<string name="attachment_camera">Fotoaparát</string>
@@ -17,6 +19,7 @@
 	<string name="attachment_gallery">Galéria</string>
 	<string name="button_new_note">Nová poznámka</string>
     <string name="call_record_folder_name">Zoznam volaní</string>
+	<string name="close">Zatvoriť</string>
 	<string name="default_folder_name">Poznámky</string>
     <string name="enable_sync">Synchr.</string>
     <string name="enable_sync_desc">Poznámky sa môžu synchronizovať s Vašim Xiaomi účtom %1$s, synchronizovať?</string>

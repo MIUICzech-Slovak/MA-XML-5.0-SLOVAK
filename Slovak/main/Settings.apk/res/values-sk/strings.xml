@@ -1335,7 +1335,12 @@
     <string name="pref_volume_category_title">Ovládanie hlasitosti</string>	
     <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie.. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>	
     <string name="pref_volume_wake_title">Zobudiť telefón</string>	
-    <string name="preference_change_password_title">Zmeniť heslo</string>	
+    <string name="preference_change_password_title">Zmeniť heslo</string>
+	<string name="preferred_launcher_title">Preferovaný Launcher</string>
+    <string name="preferred_launcher_warning_message">Nahradením predvoleného launcheru môžete spôsobiť vyššiu spotrebu RAM a CPU ako s predvoleným launcherom. Skutočne chcete pokračovať?</string>
+    <string name="preferred_launcher_warning_replace">Nahradiť Launcher</string>
+    <string name="preferred_launcher_warning_title">Nahradenie predvoleného launcheru</string>
+	<string name="preferred_launcher_warning_use_system">Použiť predvolený launcher</string>	
     <string name="preferred_media_app_summary">Vybrať hudobný prehrávač</string>	
     <string name="privacy_mode_enable_title">Režim súkromia</string>	
 	<string name="privacy_mode_enable_sum">Skryť záznamy hovorov, správy a ostatné dáta pri aktivovanom súkromnom režime</string>
