@@ -267,7 +267,7 @@
     <string name="pref_data_preload_dialogtitle">Prednahrávanie výsledkov vyhľadávania.</string>	
     <string name="pref_data_preload_summary">Povoliť prehliadaču prednahrávať výsledky vyhľadávania s vysokou spoľahlivosťou na pozadí.</string>	
     <string name="pref_data_preload_title">Prednahrávanie výsledkov hľadania</string>	
-    <string name="pref_data_title">Riadenie šírky pásma</string>	
+    <string name="pref_data_title">Kontrola prenesených dát</string>	
     <string name="pref_default_text_encoding">Enkódovanie textu</string>	
   	<string name="pref_default_text_encoding_default">Latin-1</string>  
   	<string name="pref_default_text_encoding_dialogtitle">Enkódovanie textu</string>	
