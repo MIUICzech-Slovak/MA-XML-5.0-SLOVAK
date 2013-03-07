@@ -44,8 +44,8 @@
     <string name="cit_reset_check_title">Test Resetu</string>
     <string name="cit_OTG_plugin_check_title">Spustiť test OTG</string>
     <string name="cit_OTG_plugout_check_title">Stav odpojenia OTG</string>
-    <string name="cit_version_check_summary">Boli nájdené tieto vezrie hardwaru a softwaru</string>
-    <string name="cit_proximity_sensor_check_summary">Zakryte senzor priblíženia Vaším prstom, zobrazená informácia je od 0.0 (zakrytý) a zvyšuje sa pri odkrutí senzoru</string>
+    <string name="cit_version_check_summary">Boli nájdené tieto verzie hardwaru a softwaru</string>
+    <string name="cit_proximity_sensor_check_summary">Zakryte senzor priblíženia Vaším prstom, zobrazená informácia je od 0.0 (zakrytý) a zvyšuje sa pri odkrytí senzoru</string>
     <string name="cit_magnetic_sensor_check_summary">Nižšie sú aktuálne hodnoty magnetometra v osiach X, Y, Z.</string>
     <string name="cit_light_sensor_check_summary">Boli nájdené tieto The following light sensor DAC information was found</string>
     <string name="cit_gyroscope_sensor_check_summary">Gyroscope Sensor values for X, Y, Z coordinates</string>
@@ -89,8 +89,8 @@
     <string name="cit_gps_check_summary">This test will display GPS information</string>
     <string name="cit_fm_check_summary">This test will check FM Radio</string>
     <string name="cit_power_check_summary">This test shows the amount of power available</string>
-    <string name="cit_OTG_plugin_check_summary">Tento test detekuje zariadenie OTG.</string>
-    <string name="cit_OTG_plugout_check_summary">Tento test detekuje či je zariadenie OTG pripojené.</string>
+    <string name="cit_OTG_plugin_check_summary">Tento test zistí zariadenie OTG.</string>
+    <string name="cit_OTG_plugout_check_summary">Tento test zistí či je zariadenie OTG pripojené.</string>
     <string name="cit_vibrator_short">Krátke vibrácie</string>
     <string name="cit_vibrator_long">Dlhé vibrácie</string>
     <string name="cit_vibrator_show_advanced">Zobraziť rozšírené možnosti</string>
@@ -122,14 +122,14 @@
     <string name="cit_headset_button_stop">Zastaviť</string>
     <string name="cit_headset_button_next">Ďalej</string>
     <string name="cit_headset_button_previous">Predchádzajúce</string>
-    <string name="cit_headset_button_rewind">Rewind</string>
+    <string name="cit_headset_button_rewind">Pretočiť</string>
     <string name="cit_headset_button_fast_forward">Dopredu</string>
     <string name="cit_sim_state_absent">Nie je vložená SIM karta</string>
     <string name="cit_sim_state_unkown">Neznáma chyba</string>
     <string name="cit_sim_state_network_locked">PIN zablokovaný</string>
     <string name="cit_sim_state_pin_required">Vyžaduje sa PIN kód</string>
     <string name="cit_sim_state_puk_required">Vyžaduje sa PUK kód</string>
-    <string name="cit_sim_state_ready">SIM karta je vporiadku</string>
+    <string name="cit_sim_state_ready">SIM karta je v poriadku</string>
     <string name="cit_sim_serial_number">Číslo SIM karty:</string>
     <string name="cit_sim_sim_operator">Operátor SIM:</string>
     <string name="cit_sim_sim_operator_name">Meno operátora SIM karty:</string>
@@ -137,7 +137,7 @@
     <string name="cit_sim_network_operator">Sieťoví operátori:</string>
     <string name="cit_sim_network_operator_name">Názov operátora:</string>
     <string name="cit_sim_network_type">Typ siete:</string>
-    <string name="cit_sim_error_unknown">Neznáma chyba SIM kart</string>
+    <string name="cit_sim_error_unknown">Neznáma chyba SIM karty</string>
     <string name="cit_reset_test">Resetovať Test</string>
     <string name="cit_audio_loopback_next">Ďalšie</string>
     <string name="cit_audio_loopback_previous">Predchádzajúce</string>
@@ -157,7 +157,7 @@
     <string name="cit_usb_OTG_in">OTG zariadenie je pripojené</string>
     <string name="cit_OTG_waiting_in">Pripojte OTG zariadenie.</string>
     <string name="cit_OTG_waiting_out">Odpojte OTG zariadenie.</string>
-    <string name="cit_usb_OTG_out">USB_OTG zariadenie nieje pripojené.</string>
+    <string name="cit_usb_OTG_out">USB_OTG zariadenie nie je pripojené.</string>
     <string name="cit_otg_not_supported">Tento telefón nepodporuje Test OTG.</string>
     <string name="cit_sd_mp3_not_existed">Súbor music.mp3 súbor nie je možné nájsť  na Vašej SD karte. Skopírujte súbor na SD kartu a spustite test znova.</string>
     <string name="cit_playing_sd_mp3">Prehráva sa súbor music.mp3...</string>
@@ -216,7 +216,7 @@
     <string name="cit_tool_log_bugreport">Záznam o chybe</string>
     <string name="cit_tool_log_toast">Záznam o chybe je uložený do %s</string>
     <string name="cit_tool_log_file_not_exist">%s neexistuje</string>
-    <string name="cit_tool_log_generate_bugreport">Vytváranie záznamu o chube...</string>
+    <string name="cit_tool_log_generate_bugreport">Vytváranie záznamu o chybe...</string>
     <string name="cit_tool_log_toast_generate_bugreport">Vytvorenie záznamu o chybe môže trvať aj viac ako 10 sekúnd.</string>
     <string name="cit_tool_bluetooth">Nástroje Bluetooth</string>
     <string name="cit_tool_bluetooth_on">Zapnúť Bluetooth</string>
@@ -227,7 +227,7 @@
     <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
     <string name="cit_tool_wifi_tx_bg_chan">Kanál:</string>
     <string name="cit_tool_wifi_tx_bg_txpr">TX power:</string>
-    <string name="cit_tool_wifi_tx_bg_txrt">PRenosová rýchlosť:</string>
+    <string name="cit_tool_wifi_tx_bg_txrt">Prenosová rýchlosť:</string>
     <string name="cit_tool_wifi_tx_n">Tx: N</string>
     <string name="cit_tool_wifi_tx_n_chan">Kanál:</string>
     <string name="cit_tool_wifi_tx_n_txpr">TX Power:</string>
@@ -266,7 +266,7 @@
     <string name="cit_tool_wifi_rx_exit">Rx:exit</string>
     <string name="cit_tool_wifi_rx_run">Spustiť</string>
     <string name="cit_tool_wifi_rx_stop">Zastaviť</string>
-    <string name="cit_tool_wifi_rx_total_format">Prenensené: %s</string>
+    <string name="cit_tool_wifi_rx_total_format">Prenesené: %s</string>
     <string name="cit_tool_wifi_rx_error">Nastala chyba</string>
     <string name="cit_tool_wifi_rx_count_error">Výstupné dáta nie sú čísla</string>
     <string name="cit_tool_wifi_rx_ap_name">Meno Wi-fi siete</string>
