@@ -11,4 +11,6 @@ SLOVAK strings by ingbrzy under a Creative Commons Attribution-NonCommercial-Sha
 
 Based on a work at http://miui.com and http://miuiandroid.com
 
+MIUI Android Multilang Translation Guide http://miui.connortumbleson.com/dev_guide
+
 MIUI Translation: ingbrzy
