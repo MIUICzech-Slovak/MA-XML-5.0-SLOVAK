@@ -895,7 +895,7 @@
     <string name="keep_screen_on_summary">Obrazovka sa pri nabíjaní neprepne do režimu spánku</string>	
     <string name="kernel_version">Kernel</string>	
     <string name="key_settings">Tlačidlá</string>	
-    <string name="key_settings_title">Tlačídlá</string>
+    <string name="key_settings_title">Tlačidlá</string>
 	<string name="keyboard_layout_default_label">Predvolené</string>
 	<string name="keyboard_layout_dialog_setup_button">Nastaviť rozloženie kláves</string>
 	<string name="keyboard_layout_dialog_switch_hint">Prepnete podržaním medzerníka</string>
