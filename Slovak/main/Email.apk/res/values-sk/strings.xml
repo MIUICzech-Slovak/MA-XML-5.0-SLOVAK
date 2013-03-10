@@ -212,7 +212,7 @@
     <string name="category_general_preferences">Aplikácia</string>
     <string name="cc">Kópia</string>
     <string name="close_action">Zavrieť</string>
-    <string name="cleared_trusted_senders_message">"Vyčistiť \"ukázať obrázky\", obrázky v správach sa nebudú automaticky zobrazovať."</string>
+    <string name="cleared_trusted_senders_message">"Obrázky v správach sa nebudú automaticky zobrazovať."</string>
     <string name="completed_no_file">Súbor sa nenašiel</string>
     <string name="compose_action">Napísať správu</string>
     <string name="compose_title">Napísať správu</string>
@@ -272,12 +272,12 @@
     <string name="forward_download_failed_ticker">Nepodarilo sa poslať ďalej jednu alebo viac príloh.</string>
     <string name="forward_download_failed_title">Príloha nebola poslaná ďalej</string>
     <string name="gal_searching_fmt">Prebieha vyhľadávanie %s...</string>
-    <string name="general_preference_auto_advance_dialog_title">Pokračovať do</string>
+    <string name="general_preference_auto_advance_dialog_title">Pokračovať do zoznamu</string>
     <string name="general_preference_auto_advance_label">Automatický prechod</string>
-    <string name="general_preference_auto_advance_message_list">Zoznam správ</string>
-    <string name="general_preference_auto_advance_newer">Novšia správa</string>
-    <string name="general_preference_auto_advance_older">Staršia správa</string>
-    <string name="general_preference_auto_advance_summary">Zvoľte obrazovku, ktorá sa zobrazí po odstránení správy</string>
+    <string name="general_preference_auto_advance_message_list">Všetkých správ</string>
+    <string name="general_preference_auto_advance_newer">Najnovších správ</string>
+    <string name="general_preference_auto_advance_older">Starších správ</string>
+    <string name="general_preference_auto_advance_summary">Zvoľte priečinok, ktorý sa zobrazí po odstránení správy</string>
     <string name="general_preference_reply_all_label">Odpovedať všetkým</string>
     <string name="general_preference_reply_all_summary">Nastaviť voľbu „Odpovedať všetkým“ ako predvol. voľbu odpov. na správy</string>
     <string name="general_preference_text_zoom_dialog_title">Veľkosť písma správy</string>
