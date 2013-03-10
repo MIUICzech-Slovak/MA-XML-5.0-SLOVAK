@@ -35,7 +35,7 @@
   <string name="bcc_label">"Bcc: "</string>
   <string name="bookmark">Obľúbené</string>
   <string name="bookmark_confirm_delete_message">Vybrané správy budú odstránené z obľúbených</string>
-  <string name="bookmark_empty">Žiadna záložka</string>
+  <string name="bookmark_empty">Žiadne obľúbené správy</string>
   <string name="bookmark_list_title">Obľúbené</string>
   <string name="cannot_add_picture_and_video">Nie je možné vložiť obrázok a video naraz.</string>
   <string name="cannot_add_slide_anymore">Ďalšie snímky sa nedajú pridať.</string>
