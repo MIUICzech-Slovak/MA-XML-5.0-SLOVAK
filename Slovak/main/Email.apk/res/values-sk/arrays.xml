@@ -7,13 +7,6 @@
         <item>Veľké písmo</item>
         <item>Veľmi veľké písmo</item>
     </string-array>
-    <string-array name="general_preference_text_zoom_size">
-        <item>0.8</item>
-        <item>0.9</item>
-        <item>1.0</item>
-        <item>1.2</item>
-        <item>1.5</item>
-    </string-array>
 	<string-array name="general_preference_auto_advance_summary_array">
         <item>"Po vymazaní správy ukázať zložku najnovších správ"</item>
         <item>"Po vymazaní správy ukázať zložku starších správ"</item>
