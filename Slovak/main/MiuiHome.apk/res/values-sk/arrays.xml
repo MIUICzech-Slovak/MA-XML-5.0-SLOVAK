@@ -16,8 +16,18 @@
         <item>Vľavo</item>
         <item>Vpravo</item>
     </string-array>
-	    <string-array name="gadget_weather_theme_type_entries">
+	<string-array name="gadget_weather_theme_type_entries">
         <item>Predvolený</item>
         <item>Klasický</item>
+    </string-array>
+	<string-array name="cell_layout_size_entries">
+        <item>4x4</item>
+        <item>4x5</item>
+        <item>5x5</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>4x4</item>
+        <item>4x5</item>
+        <item>5x5</item>
     </string-array>
 </resources>
