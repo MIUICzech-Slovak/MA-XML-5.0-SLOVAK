@@ -33,13 +33,13 @@
     <string name="download_failed">Sťahovanie zlyhalo</string>
     <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
     <string name="download_success">Úspešne stiahnuté</string>	
-	<string name="resource_comment_expand_full_text">Rozbaliť text</string>
+    <string name="resource_comment_expand_full_text">Rozbaliť text</string>
     <string name="fail_to_add_account">Pridávanie účtu zlyhalo</string>
     <string name="change_wallpaper">Zmena tapety</string>	
     <string name="live_wallpaper">Živá tapeta</string>	
     <string name="loading">Načítavanie...</string>
-	<string name="loading_resource_detail_info">Načítavanie...</string>
-    <string name="lockscreen_wallpaper">Tapeta zám.</string>
+    <string name="loading_resource_detail_info">Načítavanie...</string>
+    <string name="lockscreen_wallpaper">Tapeta zámku</string>
     <string name="lockstyle_personal_settings">Prispôsobenie</string>	
     <string name="long_ringtone_resource">Dlhé</string>
     <string name="menu_refresh">Obnoviť</string>
@@ -127,7 +127,7 @@
     <string name="theme_component_title_icon">Ikony</string>	
     <string name="theme_component_title_launcher">Domov</string>	
     <string name="theme_component_title_lockstyle">Zámok</string>	
-    <string name="theme_component_title_lockwallpaper">Tapeta zámku</string>	
+    <string name="theme_component_title_lockwallpaper">Tapeta zám.</string>	
     <string name="theme_component_title_miwallpaper">Mi tapeta</string>
     <string name="theme_component_title_mms">SMS</string>	
     <string name="theme_component_title_notification">Upozornenia</string>	
