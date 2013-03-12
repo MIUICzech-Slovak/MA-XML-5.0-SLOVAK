@@ -53,7 +53,7 @@
     <string name="cit_leds_check_summary">Test will check backlight, power and flash LEDs</string>
     <string name="cit_vibrator_check_summary">Test will perform a check on vibration(long and short)</string>
     <string name="cit_wifi_address_check_summary">Test will display current Wi-Fi state</string>
-    <string name="cit_wifi_ap_scan_check_summary">Test will display a list of all available Wi-Fi access points</string>
+    <string name="cit_wifi_ap_scan_check_summary">Test will display a list of all available Wi-fi access points</string>
     <string name="cit_blue_tooth_address_check_summary">Test will display the devices current Bluetooth MAC address</string>
     <string name="cit_blue_tooth_scan_check_summary">Test will display a list of all available Bluetooth devices</string>
     <string name="cit_accelermeter_sensor_check_summary">The screen will display X, Y, Z three directions of acceleration (Note: When the phone is turned round the values will change based on screen orientation</string>

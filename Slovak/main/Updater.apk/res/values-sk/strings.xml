@@ -42,7 +42,7 @@
     <string name="get_update_error">Získanie informácií o aktualizácii zlyhalo</string>
     <string name="check_update">Skontrolovať aktualizácie</string>
     <string name="check_update_policy">Skontrolovať nastavenia aktualizácie</string>
-    <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wifi pripojenie</string>
+    <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wi-fi pripojenie</string>
     <string name="checking_for_updates">Kontrola aktualizácií...</string>
     <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
     <string name="install_email">Nainštalovať e-mailový softvér</string>
@@ -83,7 +83,7 @@
     <string name="no_updates_warning2">Táto aplikácia Vás upozorní na nové aktualizácie.</string>
     <string name="not_recommend">"Neodporúčam"</string>
     <string name="paused_queued_for_network">Čakanie na internetové pripojenie</string>
-    <string name="paused_queued_for_wifi">Čakanie na Wifi pripojenie</string>
+    <string name="paused_queued_for_wifi">Čakanie na Wi-fi pripojenie</string>
     <string name="previous">Predchádzajúci</string>
     <string name="reboot_to_new_system">Reštartovať do novej verzie</string>
     <string name="recommend">Odporučiť</string>
@@ -138,7 +138,7 @@
     <string name="view_install_log">Zobraziť inštalačný log</string>
     <string name="view_upgrade_tutorial">Pozrieť návod</string>
     <string name="weekly_build">Týždenné zostavenia</string>
-    <string name="wifi_not_available_body">Odporúča sa použiť Wifi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wifi, chcete napriek tomu pokračovať?</string>
-    <string name="wifi_not_available_title">Wifi nepripojené</string>
+    <string name="wifi_not_available_body">Odporúča sa použiť Wi-fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-fi, chcete napriek tomu pokračovať?</string>
+    <string name="wifi_not_available_title">Wi-fi nepripojené</string>
     <string name="worst_update">Zlý update</string>
 </resources>

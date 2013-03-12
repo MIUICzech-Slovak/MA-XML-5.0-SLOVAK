@@ -148,6 +148,6 @@
     <string name="used_flux">Využitie dát</string>	
     <string name="version_label">"Verzia:\u0020"</string>
     <string name="warning_title">Upozornenie</string>	
-    <string name="wifi_traffic">Wifi: %s</string>
-    <string name="wifi_type">Wifi</string>	
+    <string name="wifi_traffic">Wi-fi: %s</string>
+    <string name="wifi_type">Wi-fi</string>	
 </resources>

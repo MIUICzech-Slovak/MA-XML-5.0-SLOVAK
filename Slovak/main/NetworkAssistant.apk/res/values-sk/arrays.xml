@@ -14,9 +14,9 @@
         <item>Včera na 2G/3G</item>
         <item>Dnes na 2G/3G</item>
         <item>Tento mesiac na 2G/3G</item>
-        <item>Včera na Wifi</item>
-        <item>Dnes na Wifi</item>
-        <item>Tento mesiac na Wifi</item>
+        <item>Včera na Wi-fi</item>
+        <item>Dnes na Wi-fi</item>
+        <item>Tento mesiac na Wi-fi</item>
     </string-array>
     <string-array name="date_of_app">
         <item>Včera 2G/3G</item>
