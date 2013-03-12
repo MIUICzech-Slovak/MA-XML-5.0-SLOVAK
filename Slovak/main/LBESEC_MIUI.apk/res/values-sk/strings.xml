@@ -148,7 +148,7 @@
     <string name="HIPS_Perm_SMS_Access">Prístup k SMS správam</string>
     <string name="HIPS_Perm_SMS_Desc">Prístup k SMS správam</string>
     <string name="HIPS_Perm_SMS_Hint">%1$s aplikácie majú povolenie pre prístup k SMS správam</string>
-	<string name="HIPS_Perm_Title">Názov</string>
+    <string name="HIPS_Perm_Title">Názov</string>
     <string name="HIPS_Perm_WIFINetwork">Wifi</string>
     <string name="HIPS_Perm_WIFINetwork_Desc">Prístup k Internetu cez Wifi</string>
     <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikácie majú povolenie pre prístup na Internet cez Wifi</string>
@@ -156,7 +156,7 @@
     <string name="HIPS_SecurityPrompt_AcceptRoot">Povoliť</string>
     <string name="HIPS_SecurityPrompt_Caption">Bezpečnostné varovanie</string>
     <string name="HIPS_SecurityPrompt_Next">Ďalší</string>
-    <string name="HIPS_SecurityPrompt_Reject">Zakázané (%d)</string>
+    <string name="HIPS_SecurityPrompt_Reject">Zakázať (%d)</string>
     <string name="HIPS_SecurityPrompt_Remember">Pamätať si nastavenie</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Dôležité upozornenie</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Prajete si, aby aplikácia %1$s získala práva ROOT...?</string>
