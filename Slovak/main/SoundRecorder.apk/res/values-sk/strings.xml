@@ -64,6 +64,8 @@
     <string name="status_bar_anti_disturb">Telefón má stíšené zvuky, nastavte hlasitosť ak chcete pokračovať.</string>
     <string name="status_bar_back">Stlačte pre návrat do Záznamníka</string>
     <string name="status_bar_recording">Nahrávanie...</string>
+    <string name="status_bar_recording_back">Stlačte pre návrat k záznamníku</string>
+    <string name="status_bar_recording_pause">"Nahrávanie bolo pozastavené."</string>
     <string name="storage_is_full">SD karta je plná</string>	
     <string name="timer_format" formatted="false">%02d:%02d</string>	
     <string name="unknown_caller">Neznáme číslo</string>	

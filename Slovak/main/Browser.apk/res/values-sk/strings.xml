@@ -304,8 +304,9 @@
     <string name="pref_force_userscalable">Vynútiť povolenie priblíženia</string>	
     <string name="pref_force_userscalable_summary">"Ignorovať požiadavku stránky na kontrolu vlastností priblíženia"</string>	
     <string name="pref_general_autofill_title">Automatické vypĺňanie</string>	
-   	<string name="pref_general_exit_setting_title">Akcia pri ukončení</string>   
- 	<string name="pref_general_sync_title">Synchronizácia</string>	
+    <string name="pref_general_exit_setting_title">Akcia pri ukončení</string> 
+    <string name="pref_general_setting_title">Nastavenia</string>  
+    <string name="pref_general_sync_title">Synchronizácia</string>	
     <string name="pref_general_title">Všeobecné</string>	
     <string name="pref_gesture_title">Akcia gestá</string>	
     <string name="pref_inverted">Invertné zobrazovanie</string>	
@@ -359,7 +360,8 @@
     <string name="pref_security_save_form_data_summary">Zapamätať údaje ktoré vkladám do formulárov pre neskoršie použitie</string>	
     <string name="pref_security_show_security_warning">Zobraziť bezpečnostné výstrahy</string>	
     <string name="pref_security_show_security_warning_summary">"Zobraziť výstrahu, ak sa vyskytne problém so zabezpečením stránky"</string>	
-    <string name="pref_set_homepage_to">Nastaviť ako</string>	
+    <string name="pref_set_homepage_to">Nastaviť ako</string>
+    <string name="pref_setting_title">Nastavenie stránky</string>	
     <string name="pref_text_zoom">Veľkosť textu</string>	
     <string name="pref_ua_string">Zariadenie</string>	
     <string name="pref_ua_title">Identifikácia zariadenia</string>	
