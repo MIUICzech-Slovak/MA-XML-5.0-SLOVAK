@@ -135,7 +135,7 @@
     <string name="traffic_total">Dátový balíček %s</string>	
     <string name="traffic_used_status">Využité %s</string>	
     <string name="unknown">Neznáme</string>
-    <string name="unknown_free_traffic_hint">"Pokiaľ nepoznáte veľkosť svojho dátového balíčku, prosím zavolajte operátorovi"</string>	
+    <string name="unknown_free_traffic_hint">"Pokiaľ nepoznáte veľkosť svojho dátového balíčku, prosím zavolajte svojmu operátorovi."</string>	
     <string name="unknown_free_traffic_text">"Nepoznáte svoj dátový balíček?"</string>	
     <string name="unknown_free_traffic_title">Inštrukcie</string>	
     <string name="unknown_location">Nenastavené</string>	
