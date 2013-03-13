@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-<style name="V5.TextAppearance.Title" parent="@style/V5.TextAppearance">
-        <item name="android:textSize">@dimen/v5_text_font_size_title</item>
-        <item name="android:textStyle">normal</item>
-        <item name="android:textColor">?v5_title_text_color</item>
-    </style>
-</resources>
