@@ -49,7 +49,7 @@
     <string name="disable_background_mobile_connect">Pripojenie na pozadí zakázané</string>	
     <string name="edit_frame_free_traffic_title">Ostávajúce dáta v balíčku</string>	
     <string name="edit_frame_month_start_title">Monitorovať od dňa:</string>	
-    <string name="edit_frame_warning_title">¨Varovná hodnota ¨</string>
+    <string name="edit_frame_warning_title">"Varovná hodnota "</string>
     <string name="empty" />
     <string name="finish_traffic_settings_hint">Nastavenie balíčku dokončené</string>	
     <string name="finish_traffic_settings_message">"Využité dáta sú %s. Súhlasia dáta? Môžete ich upraviť."</string>	
