@@ -20,6 +20,9 @@
     <string name="add_organization">Pridať organizáciu</string>
     <string name="add_to_my_contacts">Pridať do Mojich kontaktov</string>
     <string name="add_wait">Pridať pauzu</string>
+    <string name="add_xiaomi_account_dialog_btn">Použiť účet Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">Pre čo najväčšie pohodlie zvážte používanie účtu Xiaomi na synchronizáciu a zálohu Vaších kontaktov.</string>
+    <string name="add_xiaomi_account_dialog_title">Zvoliť účet synchr.</string>
     <string name="addPeopleToGroup">Ak chcete pridať, upravte skupinu.</string>
     <string name="aggregation_suggestion_edit_dialog_message">Prepnúť do editácie zvoleného kontaktu? Doposiaľ zadané informácie budú skopírované.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Upraviť vybrané kontakty</string>
@@ -168,7 +171,7 @@
     <string name="custom_list_filter">Definovať vlastné zobrazenie</string>
     <string name="custom_nickname_hint">Vložte oslovenie ako: Pán/Pani</string>
     <string name="customLabelPickerTitle">Vlastné označenie</string>
-	<string name="date_picker_label">Pripomenúť 3 dni pred narodeninami</string>
+    <string name="date_picker_label">Pripomenúť 3 dni pred narodeninami</string>
     <string name="date_time_set">Nastaviť</string>
     <string name="date_year_toggle">Zadajte rok</string>
     <string name="default_ringtone">Predvolené zvonenie</string>
@@ -386,7 +389,7 @@
     <string name="import_to_xiaomi_account_progress_title">Kopírovanie kontaktov na konto Xiaomi</string>
     <string name="import_to_xiaomi_account_title">Skopírovať kontakty na konto Xiaomi?</string>
     <string name="import_vcard_description">Importovať kontakty z SD karty</string>
-	<string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
+    <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
     <string name="import_weibo_notification_title">Importovanie kontaktov z sina weibo...</string>
     <string name="import_weibo_notification_title_done">Import kompletný</string>
     <string name="import_weibo_progress_hint">Importovanie...</string>
@@ -399,6 +402,7 @@
     <string name="insertGroupDescription">Vytvoriť skupinu</string>
     <string name="invalidContactMessage">Kontakt neexistuje.</string>
     <string name="keep_local">Miestny</string>
+    <string name="keep_local_btn">Uložiť len do telefónu</string>
     <string name="label_custom_type">Vlastné</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Gratulujem! Nemáte žiadne duplicitné kontakty</string>
