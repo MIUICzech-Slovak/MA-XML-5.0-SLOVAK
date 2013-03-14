@@ -159,7 +159,7 @@
     <string name="cit_OTG_waiting_out">Odpojte OTG zariadenie.</string>
     <string name="cit_usb_OTG_out">USB_OTG zariadenie nie je pripojené.</string>
     <string name="cit_otg_not_supported">Tento telefón nepodporuje Test OTG.</string>
-    <string name="cit_sd_mp3_not_existed">Súbor music.mp3 súbor nie je možné nájsť  na Vašej SD karte. Skopírujte súbor na SD kartu a spustite test znova.</string>
+    <string name="cit_sd_mp3_not_existed">Súbor music.mp3 nie je možné nájsť  na Vašej SD karte. Skopírujte súbor na SD kartu a spustite test znova.</string>
     <string name="cit_playing_sd_mp3">Prehráva sa súbor music.mp3...</string>
     <string name="cit_display_continue">Pre začatie testovania kliknite na displej</string>
     <string name="cit_vga_camera_capture">Zhotoviť snímku</string>
@@ -202,7 +202,7 @@
     <string name="cit_start_calibration">Spustiť kalibráciu</string>
     <string name="cit_stop_calibration">Zastaviť kalibráciu</string>
     <string name="cit_exit_test_title">Zastaviť test</string>
-    <string name="cit_exit_test_summary">Ukončenie aktívnych testov stratí všetky namerané dáta. Ste si istý, že chcete ich chcete ukončiť?</string>
+    <string name="cit_exit_test_summary">Ukončenie aktívnych testov stratí všetky namerané dáta. Ste si istý, že ich chcete ukončiť?</string>
     <string name="cit_battery_temp_pass">Test batérie úspešný</string>
     <string name="cit_battery_temp_fail">Test batérie zlyhal s (hodnota=%d)</string>
     <string name="cit_calibration_pass">Kalibrácia úspešná</string>
@@ -276,5 +276,5 @@
     <string name="cit_tool_wifi_exit">Ukončiť</string>
     <string name="cit_keyboard_camera">Test tlačidla: FOTOAPARÁT</string>
     <string name="cit_keyboard_focus">Test tlačidla: ZOOM</string>
-    <string name="cit_main_camera_sdcard_error">SD je plná, nie je možné uložiť snímku</string>
+    <string name="cit_main_camera_sdcard_error">SD karta je plná, nie je možné uložiť snímku</string>
 </resources>
