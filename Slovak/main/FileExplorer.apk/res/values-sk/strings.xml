@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="add_task">Pridať úlohu</string>
-<string name="adding_upload_tasks">Pridávanie súborov pre upload.</string>
-<string name="app_name">Správca súborov</string>
-<string name="background">Stiahnúť na pozadí</string>
+<string name="adding_upload_tasks">Pridávanie súborov pre odosielanie.</string>
+<string name="app_name">Súbory</string>
+<string name="background">Stiahnuť na pozadí</string>
 <string name="bind_account">Pripojenie k MiDrive účtu</string>
 <string name="bind_account_summary">Ak už máte MiDrive účet, môžete ho pridať pre načítanie Vaších osobných dát</string>
 <string name="binded_accout_description">Účty sú prepojené, môžete sa prihlásiť buď Xiaomi účtom alebo MiDrive účtom</string>
