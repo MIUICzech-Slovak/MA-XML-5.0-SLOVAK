@@ -131,7 +131,7 @@
     <string name="micloud_val_sms_alert">Zašle sa SMS na potvrdenie Vášho telefónneho čísla, pokračovať?</string>	
     <string name="micloud_welcome_banner">Xiaomi</string>	
     <string name="micloud_welcome_skip_login"><u>Preskočiť</u></string>	
-    <string name="mili_center">Centrum Mi kreditov</string>	
+    <string name="mili_center">Mi kredity</string>	
     <string name="next">Ďalšie</string>	
     <string name="no_sim">SIM nenájdená, synchronizácia zlyhala</string>
     <string name="nobind">Neautorizovaný</string>	
