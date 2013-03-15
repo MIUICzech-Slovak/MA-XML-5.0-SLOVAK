@@ -1142,7 +1142,7 @@
     <string name="percentage">%d%%</string>
     <string name="perm">Povolenia</string>
     <string name="perm_app">Aplikácie</string>
-    <string name="perm_app_name">Správca povolení</string>
+    <string name="perm_app_name">Povolenia</string>
     <string name="perm_auto_start">Spravovať auto. spustenie aplikácií</string>
     <string name="perm_auto_start_desc">Povoliť alebo zakázať auto. spustenie</string>
     <string name="perm_canceling">Ruším...</string>
