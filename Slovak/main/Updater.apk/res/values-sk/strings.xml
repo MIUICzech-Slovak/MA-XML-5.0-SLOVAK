@@ -29,7 +29,7 @@
     <string name="dialog_ok">OK</string>
     <string name="dialog_yes">Áno</string>
     <string name="download_current_rom">Stiahnuť najnovšiu verziu ROM</string>
-    <string name="download_ota_rom">Stiahnuť OTA aktualizáciu (%s)</string>
+    <string name="download_ota_rom">Stiahnuť (%s)</string>
     <string name="download_whole_rom">Stiahnuť celú ROM (%s)</string>
     <string name="downloading_description">Sťahovanie...</string>
     <string name="emegency_build">Verzia:</string>
