@@ -78,7 +78,7 @@
     <string name="calllog_menu_edit_before_call">Upraviť pred volaním</string>
     <string name="calllog_menu_send_sms">Poslať SMS</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
-    <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d min %d s</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d m %2$d s</string>
     <string name="callrecordview_item_op_time_missed">Zmeškané</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d s</string>
