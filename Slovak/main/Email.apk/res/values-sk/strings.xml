@@ -238,7 +238,7 @@
     <string name="debug_enable_strict_mode_label">Povoliť v obmedzenom režime (s logovanim)</string>
     <string name="debug_force_one_minute_refresh_label">Vynútiť 1-minútové aktualizáciu pre POP / IMAP</string>
     <string name="debug_title">Debug</string>
-    <string name="debug_version_fmt">Werzia: %s</string>
+    <string name="debug_version_fmt">Verzia: %s</string>
     <string name="default_signature">Odoslané z MIUI</string>
     <string name="delete_action">Odstrániť</string>
     <string name="delete_quick_response_action">Odstrániť</string>
