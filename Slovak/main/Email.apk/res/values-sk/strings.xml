@@ -308,12 +308,6 @@
     <string name="mailbox_name_display_sent">Odoslané</string>
     <string name="mailbox_name_display_trash">Kôš</string>
     <string name="mailbox_name_display_unread">Neprečítané</string>
-    <string name="mailbox_name_server_drafts">Koncepty</string>
-    <string name="mailbox_name_server_inbox">Prijaté</string>
-    <string name="mailbox_name_server_junk">Spam</string>
-    <string name="mailbox_name_server_outbox">Odchádzajúce</string>
-    <string name="mailbox_name_server_sent">Odoslané</string>
-    <string name="mailbox_name_server_trash">Kôš</string> 
     <string name="mailbox_preferences_header">Nastavenia synchronizácie</string>
     <string name="mailbox_settings_action">Možnosti synchronizácie</string>
     <string name="mailbox_settings_activity_title">Možnosti synchronizácie</string>
