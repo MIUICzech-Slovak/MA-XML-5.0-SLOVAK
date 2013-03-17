@@ -5,7 +5,7 @@
     <string name="active_xiaomi_account_msg">"Navštívte fórum MIUI pre aktiváciu Xiaomi účtu:"</string>
     <string name="active_xiaomi_account_title">Aktivovať Xiaomi účet</string>
     <string name="app_name">Aktualizácia</string>
-    <string name="apply_buddy_update_info_message">Kliknutím na Aktualizovať, sa začne aktualizácia.</string>
+    <string name="apply_buddy_update_info_message">Kliknutím na tlačidlo Aktualizovať, sa začne inštalácia novej verzie MIUI.</string>
     <string name="apply_existing_update_md5error_title">MD5 súčet sa nezhoduje</string>
     <string name="apply_later_button_text">Použiť neskôr</string>
     <string name="apply_now_button_text">Aktualizovať</string>
