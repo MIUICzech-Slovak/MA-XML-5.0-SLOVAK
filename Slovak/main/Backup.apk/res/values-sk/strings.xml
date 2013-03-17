@@ -149,7 +149,7 @@
 <string name="start_backup">Spustiť zálohu</string>
 <string name="start_restore">Obnoviť</string>
 <string name="succeed">Dokončené</string>
-<string name="system_backup">Záloha systému</string>
+<string name="system_backup">Záloha</string>
 <string name="system_backup_info">Nastavenie systému a plochy.</string>
 <string name="task_backup_cancel_progress">Rušenie zálohovania...</string>
 <string name="task_backup_finished_local">Záloha dokončená</string>
