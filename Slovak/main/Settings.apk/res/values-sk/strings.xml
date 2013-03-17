@@ -742,7 +742,7 @@
     <string name="empty_list_msg">Žiadne aplikácie tretích strán nie sú nainštalované.</string>	
     <string name="enable_adb">Ladenie USB</string>	
     <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>
-    <string name="enable_assist_key_long_press">Dlhé podrž. spustí Google Now</string>	
+    <string name="enable_assist_key_long_press">Podržaním spustíť Google Now</string>	
     <string name="enable_back_long_press">Ukončiť aplik. podržaním</string>	
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>	
     <string name="enable_drive_mode">Povoliť režim AUTO</string>
