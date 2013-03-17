@@ -229,7 +229,7 @@
     <string name="contextmenu_sms_dot">SMS…</string>
     <string name="copy_email">Kopírovať e-mailovú adresu</string>
     <string name="copy_number">Kopírovať číslo telefónu</string>
-    <string name="create_action">Vytvoriť novú</string>
+    <string name="create_action">Nová správa</string>
     <string name="debug_clear_webview_cache">Vymazať cache WebView</string>
     <string name="debug_disable_graphics_acceleration_label">Zakázať hardvérovej akcelerácie UI</string>
     <string name="debug_enable_debug_logging_label">Zapnúť debug log?</string>
