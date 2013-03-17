@@ -48,7 +48,7 @@
     <string name="install_email">Nainštalovať e-mailový softvér</string>
     <string name="install_file_explorer">prosím nainštalujte správcu súborov</string>
     <string name="install_qq">Inštalovať QQ app</string>
-    <string name="install_rom_from_sd">Vyberte inštalačný súbor ROM</string>
+    <string name="install_rom_from_sd">Vybrať ZIP s novou verziou MIUI</string>
     <string name="install_sina">Inštalovať Sina app</string>
     <string name="install_whole_rom">Odporúča sa stiahnuť celú ROM</string>
     <string name="internal_build">Neverejná verzia</string>
