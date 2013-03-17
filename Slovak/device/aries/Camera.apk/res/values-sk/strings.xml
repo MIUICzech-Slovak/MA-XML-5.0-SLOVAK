@@ -217,8 +217,8 @@
   <string name="pref_camera_picturesize_entry_4208x2368">Širokouhlý 16:9</string>
   <string name="pref_camera_picturesize_title">Veľkosť fotografie</string>
   <string name="pref_camera_picturesize_title_simple_mode">Veľkosť fotografie</string>
-  <string name="pref_camera_preview_entry_1000">1 sekúnda</string>
-  <string name="pref_camera_preview_entry_2000">2 sekúndy</string>
+  <string name="pref_camera_preview_entry_1000">1 sekunda</string>
+  <string name="pref_camera_preview_entry_2000">2 sekundy</string>
   <string name="pref_camera_preview_entry_5000">5 sekúnd</string>
   <string name="pref_camera_preview_entry_off">Vypnuté</string>
   <string name="pref_camera_preview_title">Náhľad</string>
@@ -355,11 +355,11 @@
   <string name="show_images_only">Zobraziť fotografie</string>
   <string name="show_on_map">Zobraziť na mape</string>
   <string name="show_videos_only">Zobraziť videá</string>
-  <string name="simple_mode_button_text_audio_capture">Zavrieť záznam zvuku</string>
-  <string name="simple_mode_button_text_color_effect">Zavtieť filtre</string>
-  <string name="simple_mode_button_text_hdr">Zavtieť HDR</string>
-  <string name="simple_mode_button_text_panorama">Zavtieť panorámu</string>
-  <string name="simple_mode_button_text_slow_video">Zavtieť spomalenú kameru</string>
+  <string name="simple_mode_button_text_audio_capture">Ukončiť záznam zvuku</string>
+  <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
+  <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
+  <string name="simple_mode_button_text_panorama">Ukončiť panorámu</string>
+  <string name="simple_mode_button_text_slow_video">Ukončiť spomalenú kameru</string>
   <string name="skip">Preskočiť</string>
   <string name="slideshow">Prezentácia</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
