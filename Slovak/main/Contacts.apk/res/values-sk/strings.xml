@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="account_abnormal_state">Chyba v informácií o účte, skúste sa prihlásiť opäť.</string>
     <string name="account_container_title">Z tohto účtu</string>
     <string name="account_phone">Iba v telefóne (nesynchronizované)</string>
     <string name="account_sim">Iba na SIM karte (nesynchronizované)</string>
@@ -28,10 +29,15 @@
     <string name="aggregation_suggestion_edit_dialog_title">Upraviť vybrané kontakty</string>
     <string name="aggregation_suggestion_join_dialog_message">Zlúčiť aktuálny kontakt s vybraným kontaktom?</string>
     <string name="all_list_empty">Žiadne kontakty</string>
+	<string name="all_resources">Všetko</string>
     <string name="attach_photo_dialog_title">Fotka kontaktu</string>
     <string name="audio_chat">Audio chat</string>
     <string name="auto_nickname">Auto</string>
     <string name="auto_set_nickname">Auto</string>
+    <string name="batch_delete">Hromadné mazanie kontaktov</string>
+    <string name="batch_delete_msg">"Ste si istý, že chcete vymazať %d kontaktov?
+ 
+ Ak používate synchronizáciu kontaktov s cloudom, budú vymazané aj odtiaľ."</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth spojenie sa prerušilo</string>
     <string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
     <string name="btn_delete_multi_contacts">Vymazať %d kontaktov</string>
@@ -186,6 +192,7 @@
     <string name="deleteConfirmation_title">Vymazať</string>
     <string name="deleteConfirmationDetail">\"%s\" bude vymazaných.</string>
     <string name="description_add_contact">Pridať kontakt</string>
+	<string name="description_author">Autor:</string>
     <string name="description_call">Volať %1$s</string>
     <string name="description_call_log_incoming_call">Prichádzajúci hovor</string>
     <string name="description_call_log_missed_call">Zmeškaný hovor</string>
@@ -195,9 +202,11 @@
     <string name="description_call_log_voicemail">Hlasová schránka</string>
     <string name="description_contact_photo">fotka kontaktu</string>
     <string name="description_delete_button">späť</string>
+	<string name="description_designer">Dizajnér:</string>
     <string name="description_dial_button">Volať</string>
     <string name="description_dial_phone_number"> Volať telefón %1$s</string>
     <string name="description_digits_edittext">číslo na vytočenie</string>
+	<string name="description_download">Stiahnutia:</string>
     <string name="description_image_button_eight">osem</string>
     <string name="description_image_button_five">päť</string>
     <string name="description_image_button_four">štyri</string>
@@ -216,7 +225,11 @@
     <string name="description_search_button">Hľadať</string>
     <string name="description_send_message">Poslať správu %1$s</string>
     <string name="description_send_text_message">Poslať SMS %1$s</string>
+	<string name="description_size">Veľkosť:</string>
     <string name="description_star">obľúbený</string>
+	<string name="description_summary">Súhrn:</string>
+    <string name="description_uploadtime">Aktualizácia:</string>
+    <string name="description_version">Verzia:</string>
     <string name="description_view_contact">Zobraziť kontakt %1$s</string>
     <string name="description_view_contact_detail">Zobraziť kontakt</string>
     <string name="description_voicemail_button">Hlasová správa</string>    
@@ -277,6 +290,8 @@
     <string name="display_sim_contacts">Zobraziť kontakty zo SIM karty</string>
     <string name="display_ungrouped">Všetky ďalšie kontakty</string>
     <string name="display_warn_remove_ungrouped">"Odstránenie \"%s\" zo synchronizácie zároveň odstráni všetky nezoskupené kontakty."</string>
+	<string name="download_failed">Sťahovanie zlyhalo</string>
+    <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
     <string name="edit_contact">Upraviť kontakt</string>
     <string name="edit_contact_card_title">Upraviť kontakt</string>
     <string name="editContactDescription">Updaviť kontakt</string>
@@ -390,6 +405,7 @@
     <string name="import_to_xiaomi_account_title">Skopírovať kontakty na konto Xiaomi?</string>
     <string name="import_vcard_description">Importovať kontakty z SD karty</string>
     <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
+	<string name="import_weibo_fetch_followers">Získavanie Sina Weibo priateľov...</string>
     <string name="import_weibo_notification_title">Importovanie kontaktov z sina weibo...</string>
     <string name="import_weibo_notification_title_done">Import kompletný</string>
     <string name="import_weibo_progress_hint">Importovanie...</string>
@@ -424,9 +440,11 @@
     <string name="listTotalAllContactsZeroGroup">Žiadne kontakty v %s</string>   
     <string name="listTotalAllContactsZeroStarred">žiadne obľúbené kontakty</string>
     <string name="listTotalPhoneContactsZero">Žiadne kontakty s telefónnym číslom</string>
+	<string name="loading">Načítavanie...</string>
     <string name="loading_group_members">Načítavanie kontaktov v skupine...</string>
     <string name="loading_groups">Načítavanie skupín...</string>
     <string name="loading_recent">Načítavanie nedávnych kontaktov...</string>
+	<string name="loading_resource_detail_info">Načítavanie...</string>
     <string name="local_invisible_directory">Ostatné</string>
     <string name="local_profile_title">Môj miestny profil</string>
     <string name="local_search_label">Všetky kontakty</string>
@@ -592,6 +610,8 @@ Pre pridanie kontaktu do obľúbených:
     <string name="notification_action_voicemail_play">Prehrať</string>
     <string name="notification_new_voicemail_ticker">Nová hlasová správa od: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+	<string name="online_no_network">Sieť je nedostupná</string>
+    <string name="online_search_hint">Vyhľadať online informácie</string>
     <string name="open_contact">Zobraziť kontakt</string>
     <string name="openDialKeyboard">Číselník</string>
     <string name="option_delete_contact">Vymazať</string>
@@ -691,6 +711,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="preview_contact_card_title">Importovať vizitku</string>
     <string name="primary_indicator">(predvolené)</string>
     <string name="private_num">Súkromné číslo</string>
+	<string name="processing">Spracovávanie...</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
     <string name="progress_notifier_message" formatted="false">Importujem %s/%s: %s</string>
     <string name="quickcontact_missing_app">Aplikácia potrebná na túto akciu nebola nájdená</string>
@@ -719,6 +740,45 @@ Pre pridanie kontaktu do obľúbených:
     <string name="remind_btn_sync_now">Synchronizovať teraz</string>
     <string name="remove_duplicate">"MIUI Vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
     <string name="removePhoto">Odstrániť fotku</string>
+	<string name="resource_alarm_default">Budík</string>
+    <string name="resource_app_name">Prehliadač zdrojov</string>
+    <string name="resource_apply">Aplikovať</string>
+    <string name="resource_buy">Kúpiť</string>
+	<string name="resource_can_not_selected">%1$s sa nedá vybrať!</string>
+	<string name="resource_default">Predvolené zvonenie</string>
+    <string name="resource_default_name">Zdroj</string>
+    <string name="resource_delete_all">Ste si istý, že chcete vymazať %1$d zdrojov?</string>
+    <string name="resource_delete_confirm">Ste si istý, že chcete vymazať zdroje?</string>
+    <string name="resource_detail">Podrobnosti</string>
+	<string name="resource_download">Stiahnuť</string>
+    <string name="resource_downloaded_title">Stiahnuť zdroje</string>
+    <string name="resource_downloading">Sťahujem</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhľad nemôže byť aplikovaný na tomto telefóne s Vašim Xiaomi účtom. Na jeden účet je možné prihlásiť len maximálne 10 zariadení za rok. Vložte iný Xiaomi účet.</string>
+    <string name="resource_get_auth_exceed_max_limit_title">Autorizácia presiahla limit</string>
+    <string name="resource_get_auth_checking">Kontrola autorizácie...</string>
+    <string name="resource_get_auth_missing">Táto téma nie je stiahnutá z oficiálneho obchodu.</string>
+    <string name="resource_get_auth_retrieving">Získavanie autorizácie...</string>
+    <string name="resource_importing">Importovanie</string>
+    <string name="resource_list_title">Posledné zvolené</string>
+    <string name="resource_local">Lokálne %1$s</string>
+    <string name="resource_mute">Žiadne</string>
+    <string name="resource_no_result">Bez výsledku</string>
+    <string name="resource_notification_default">Upozornenia</string>
+    <string name="resource_online">Online %1$s</string>
+    <string name="resource_preview">Náhľad</string>	
+    <string name="resource_price_format">(%1$s)</string>
+    <string name="resource_price_free">Zdarma</string>
+    <string name="resource_price_unit">MI Kredity</string>
+    <string name="resource_ringtone_default">Zvonenia</string>
+    <string name="resource_see_more">Viac</string>
+    <string name="resource_select">Zvoliť</string>
+    <string name="resource_selected_number">Zvolené %1$d zdroj(e)</string>
+    <string name="resource_server_out_of_service">Služba je nedostupná, skúste neskôr.</string>
+    <string name="resource_switch_account">Zmeniť</string>
+    <string name="resource_system_title">Systémové zdroje</string>
+    <string name="resource_tip_select_ringtone">Žiadne zvonenie nebolo vybrané</string>
+    <string name="resource_title">Podrobnosti zdrojov</string>
+    <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
     <string name="restore_nickname">Obnoviť</string>
     <string name="ret_sign">" "</string>
     <string name="returnCall">Volať späť</string>
@@ -731,6 +791,8 @@ Pre pridanie kontaktu do obľúbených:
     <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
     <string name="scanning_sdcard_failed_message">"Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: \"%s\")</string>
     <string name="scanning_sdcard_failed_title">Vyhľadávanie na karte SD sa nepodarilo</string>
+	<string name="sdcard_status_changed_dialog_message">"Ukončujem. \nProsím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
+    <string name="sdcard_status_changed_dialog_title">Stav SD karty sa zmenil</string>
     <string name="search_results_searching">Vyhľadávanie...</string>
     <string name="search_settings_description">Mená vašich kontaktov</string>
     <string name="searchHint">Vyhľadať kontakty</string>
@@ -738,8 +800,10 @@ Pre pridanie kontaktu do obľúbených:
     <string name="select_all">Vybrať všetko</string>
     <string name="select_new_photo_from_photo_package">Vybrať novú fotku z balíčka</string>
     <string name="select_device">Zvoľte zariadenie na pripojenie</string>
-    <string name="select_none">Nič nie je vybrané, operácia je neplatná</string>
-    <string name="select_show_contacts">Zobraziť kontakt</string>
+    <string name="select_new_photo_from_photo_package">Zvoliť nový obrázok kontaktu z balíčku</string>
+	<string name="select_none">Nič nie je vybrané, operácia je neplatná</string>
+	<string name="select_photo_from_photo_package">Zvoliť obrázok kontaktu z balíčku</string>
+	<string name="select_show_contacts">Zobraziť kontakt</string>
     <string name="select_vcard_title">Výber súboru vCard</string>
     <string name="send_contact_shortcut_todesktop_success">Zástupca bol pridaný na plochu</string>
     <string name="send_to_voicemail_checkbox">Presmerovať hovory do odkazovej schránky</string>

@@ -49,6 +49,8 @@
     <string name="prefDialogTitle_recordType">Typ nahrávaného súboru</string>	
     <string name="preferences_title">Nastavenie</string>	
     <string name="record_list">Zoznam nahrávok</string>	
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute">min</string>
     <string name="record_loading">Načítavanie nahrávky...</string>
     <string name="record_picker_title">Zvoľte nahrávku</string>
     <string name="record_saving">Ukladanie nahrávky...</string>

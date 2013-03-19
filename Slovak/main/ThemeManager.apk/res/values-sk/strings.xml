@@ -111,11 +111,13 @@
     <string name="resource_title">Podrobnosti zdrojov</string>
     <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
     <string name="resource_update">Aktualizovať</string>
+	<string name="restore_default_theme_alert">Stali ste sa obeťou neoprávneného kopírovania témy. Stiahnite si tému znova z online obchodu alebo si ju zakúpte.</string>
     <string name="sdcard_status_changed_dialog_message">"Ukončujem. \nProsím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="sdcard_status_changed_dialog_title">Stav SD karty sa zmenil</string>
     <string name="short_ringtone_resource">Krátke</string>
     <string name="theme_another_import_running">Práve prebieha importovanie témy, prosím čakajte...</string>
     <string name="theme_component_title_alarm">Budík</string>	
+	<string name="theme_component_title_alarmstyle">Štýl budíku</string>
     <string name="theme_component_title_all">Témy</string>	
     <string name="theme_component_title_audio_effect">Audio efekty</string>	
     <string name="theme_component_title_boot_animation">Boot anim.</string>	
