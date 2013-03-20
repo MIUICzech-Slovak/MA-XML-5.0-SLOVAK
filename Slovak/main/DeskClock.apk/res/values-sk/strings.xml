@@ -11,7 +11,7 @@
     <string name="alarm_count">Počet opakovaní zvonenia budíka</string>
     <string name="alarm_count_never_summary">, nikdy nevypínať</string>
     <string name="alarm_count_summary">, automatické stíšenie po %d. budenia</string>
-    <string name="alarm_disabled">Vyp.</string>
+    <string name="alarm_disabled">Vypnutý</string>
     <string name="alarm_duration">Nastavenie intervalu budenia(min)</string>
     <string name="alarm_duration_summary">Budenie v intervaloch po %d min</string>
     <string name="alarm_duration_title">Nastavenie budenia</string>
