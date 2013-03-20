@@ -457,7 +457,7 @@
     <string name="map_work">Zobraziť pracovnú adresu</string>
     <string name="meid">MEID</string>
     <string name="menu_accounts">Účty</string>
-    <string name="menu_addStar">Pridať k obľúbeným</string>
+    <string name="menu_addStar">Obľúbený</string>
     <string name="menu_bar_group_add">Pridať</string>
     <string name="menu_bar_group_delete">Vymazať</string>
     <string name="menu_bar_group_rename">Premenovať</string>
