@@ -2,7 +2,7 @@
 <resources>
     <string name="add_account_desc">Poznámky sa môžu synchronizovať s Vašim účtom Xiaomi. Chcete sa prihlásiť?</string>
     <string name="alert_edit_action_delete">Odstrániť</string>
-    <string name="alert_edit_action_update">Update</string>
+    <string name="alert_edit_action_update">Obnoviť</string>
     <string name="alert_message_delete_folder">Chcete vymazať túto zložku aj s poznámkami v nej?</string>
     <string name="alert_message_delete_folders">Chcete vymazať %1$s zložky?</string>
     <string name="alert_message_delete_folders_notes">Chcete vymazať %1$s zložiek a %2$s poznámok?</string>
