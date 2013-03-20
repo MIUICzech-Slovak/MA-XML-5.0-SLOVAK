@@ -184,7 +184,7 @@
     <string name="delete_call_log_title">Vymazať vybrané logy hovorov?</string>
     <string name="delete_contact_calllog_title">Chcete vymazať všetky záznamy o volaní kontaktu?</string>
     <string name="delete_duplicate">Zlúčiť</string>
-    <string name="delete_duplicate_message">"Zlučujem ... "</string>
+    <string name="delete_duplicate_message">"Zlučujem..."</string>
     <string name="delete_group_dialog_message">"Skutočne chcete odstrániť skupinu \"%1$s\"? (Kontakty v skupine nebudú vymazané.)"</string>
     <string name="delete_group_dialog_title">Vymazať skupinu</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdiť vymazanie volaní na neznáme čísla?</string>
@@ -769,7 +769,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="resource_preview">Náhľad</string>	
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
-    <string name="resource_price_unit">MI Kredity</string>
+    <string name="resource_price_unit">Mi Kredity</string>
     <string name="resource_ringtone_default">Zvonenia</string>
     <string name="resource_see_more">Viac</string>
     <string name="resource_select">Zvoliť</string>
@@ -876,8 +876,8 @@ Pre pridanie kontaktu do obľúbených:
     <string name="success_message_import_from_account">Import bol úspešný</string>
     <string name="summary_kind_title">Súhrn</string>
     <string name="t9_search_guide">Inteligentné vyhľadávanie mien a čísel</string>
-    <string name="take_new_photo"> Spraviť novú fotku</string>
-    <string name="take_photo"> Spraviť fotku</string>
+    <string name="take_new_photo">Urobiť novú fotku</string>
+    <string name="take_photo">Urobiť fotku</string>
     <string name="title_other_devices">Ostatné dostupné zariadenia</string>
     <string name="title_paired_devices">Spárované zariadenia</string>
     <string name="titleJoinContactDataWith">Spojiť kontakty</string>
