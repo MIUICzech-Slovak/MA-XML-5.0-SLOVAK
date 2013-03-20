@@ -212,7 +212,7 @@
     <string name="status_bar_settings_signal_meter_disconnected">Žiadne pripojenie k internetu</string>	
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-fi pripojené</string>	
     <string name="status_bar_settings_wifi_button">Wi-fi</string>	
-    <string name="status_bar_style_settings">Nastavenie stavového riadku</string>	
+    <string name="status_bar_style_settings">Nastavenia</string>	
     <string name="status_bar_time_format_12">h:mma</string>	
     <string name="status_bar_time_format_24">HH:mm</string>	
     <string name="status_bar_toggle_ac">Kontrola prístupu</string>      
