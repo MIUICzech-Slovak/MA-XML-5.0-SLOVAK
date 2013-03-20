@@ -634,6 +634,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="phone_info_divider">"  |  "</string>
     <string name="phone_primary">Primárny</string>
     <string name="phoneLabelsGroup">Telefón</string>
+    <string name="photo_package_activity_title">Balíček fotiek</string>
     <string name="photoPickerNotFoundText">V telefóne nie sú k dispozícii žiadne obrázky.</string>
     <string name="pick_favorites_contacts_list_title">Celkom z %1$d obľúbených kontaktov</string>
     <string name="pick_favorites_list_title">Celkom %1$d obľúbených čísel</string>
@@ -760,7 +761,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="resource_get_auth_retrieving">Získavanie autorizácie...</string>
     <string name="resource_importing">Importovanie</string>
     <string name="resource_list_title">Posledné zvolené</string>
-    <string name="resource_local">Lokálne %1$s</string>
+    <string name="resource_local">Lokálna %1$s</string>
     <string name="resource_mute">Žiadne</string>
     <string name="resource_no_result">Bez výsledku</string>
     <string name="resource_notification_default">Upozornenia</string>
