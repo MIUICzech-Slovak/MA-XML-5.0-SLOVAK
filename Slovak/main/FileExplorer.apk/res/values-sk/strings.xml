@@ -227,9 +227,9 @@
 <string name="user_guide">Užívateľský manuál</string>
 <string name="user_guide_download_other_version">"Môžete si stiahnuť MiDrive aj do Vášho PC"</string>
 <string name="user_guide_kuaipan_copy">"Kopírujte svoje súbory na MiDrive"</string>
-<string name="user_guide_other_version">Sťiahnuť alternatívnu verziu MiDrive</string>
+<string name="user_guide_other_version" />
 <string name="user_guide_summary">Ako používať MiDrive</string>
-<string name="user_guide_upload_to_kuaipan">"Z Vášho telefónu kopírujte do MiDrive"</string>
+<string name="user_guide_upload_to_kuaipan" />
 <string name="utf8_summary">Predvolené kódovanie FTP</string>
 <string name="waiting">Čakám...</string>
 <string name="wangpan_root_path">Môj Drive</string>
