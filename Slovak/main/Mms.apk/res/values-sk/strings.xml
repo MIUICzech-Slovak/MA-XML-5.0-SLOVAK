@@ -2,6 +2,7 @@
 <resources>
   <string name="activity_not_found">Program pre zobrazenie prílohy sa nenašiel</string>
   <string name="activity_not_found_uri">Pre túto akciu sa nenašiel program</string>
+  <string name="add_attachment">Príloha</string>
   <string name="add_bookmark">Obľúbené</string>
   <string name="add_contact">Pridať kontakt</string>
   <string name="add_festival">Sviatok</string>
