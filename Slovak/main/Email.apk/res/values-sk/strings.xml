@@ -506,7 +506,7 @@ Kópia: %4$s
     <string name="refresh_action">Obnoviť</string>
     <string name="remove_star_action">Odstrániť hviezdičku</string>
     <string name="reply_action">Odpovedať</string>
-    <string name="reply_all_action">Odpovedať všetkým</string>
+    <string name="reply_all_action">Všetkým</string>
     <string name="require_manual_sync_message">Synchronizácia na pozadí je pre tento účet v roamingu zakázaná.</string>
     <string name="retry_in_1min">1 min.</string>
     <string name="retry_in_2min">2 min.</string>
