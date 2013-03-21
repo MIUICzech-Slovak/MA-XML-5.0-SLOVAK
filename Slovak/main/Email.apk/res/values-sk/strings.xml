@@ -278,7 +278,7 @@
     <string name="general_preference_auto_advance_newer">Najnovších správ</string>
     <string name="general_preference_auto_advance_older">Starších správ</string>
     <string name="general_preference_auto_advance_summary">Zvoľte priečinok, ktorý sa zobrazí po odstránení správy</string>
-    <string name="general_preference_reply_all_label">Odpovedať všetkým</string>
+    <string name="general_preference_reply_all_label">Všetkým</string>
     <string name="general_preference_reply_all_summary">Nastaviť voľbu „Odpovedať všetkým“ ako predvol. voľbu odpov. na správy</string>
     <string name="general_preference_text_zoom_dialog_title">Veľkosť písma správy</string>
     <string name="general_preference_text_zoom_huge">Veľmi veľké</string>
@@ -523,7 +523,7 @@ Kópia: %4$s
     <string name="security_notification_content_title">Vyžaduje sa bezpečnostná akt.</string>
     <string name="security_notification_ticker_fmt">Účet \"%s\" požaduje aktualizáciu nastavení zabezpečenia.</string>
     <string name="send_action">Odoslať</string>
-    <string name="set_star_action">Pridať hviezdičku</string>
+    <string name="set_star_action">Hviezdička</string>
     <string name="settings_action">Nastavenia</string>
     <string name="settings_activity_title">Nastavenia</string>
     <string name="show_quick_text_list_dialog_action">Vložiť rýchlu odpoveď</string>
