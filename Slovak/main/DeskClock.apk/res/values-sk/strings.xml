@@ -114,7 +114,7 @@
     <string name="timezone_search_hint">Vyhľadajte mesto pre pridanie svetových hodín</string>
     <string name="volume_button_dialog_title">Funkcie tlačidiel</string>
     <string name="volume_button_setting_summary">Nastavte funkciu týchto tlačidiel, pokiaľ sú stlačená behom vyzváňania budíka.</string>
-    <string name="volume_button_setting_title">Tlačítka hlasitosti</string>
+    <string name="volume_button_setting_title">Tlačidlá hlasitosti</string>
     <string name="wait_when_operating_data_message">Spracovávam dáta, prosím čakajte.</string>
     <string name="weather_fetch_failure">"Informácie o počasí nie sú momentálne k dispozícií."</string>
     <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
