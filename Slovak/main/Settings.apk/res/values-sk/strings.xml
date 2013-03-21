@@ -461,7 +461,7 @@
     <string name="clear_activities">Vymazať predvolené nastavenie</string>	
     <string name="clear_activities_summary">Povoliť túto aplikáciu ako predvolenú</string>
     <string name="clear_cache_btn_text">Vymazať medzipamäť</string>	
-    <string name="clear_data_dlg_text">Všetky dáta (nastavenia, účty, databázy apod.) tejto aplikácie budú trvalo vymazané.</string>	
+    <string name="clear_data_dlg_text">Všetky dáta (nastavenia, účty, databázy, atď.) tejto aplikácie budú trvalo vymazané.</string>	
     <string name="clear_data_dlg_title">Vymazať dáta aplikácie?</string>	
     <string name="clear_data_failed">Nie je možné vymazať dáta aplikácie.</string>	
     <string name="clear_failed_dlg_text">Nepodarilo sa vymazať dáta aplikácie.</string>	
@@ -1189,7 +1189,7 @@
     <string name="perm_hips_location_source_gps">Zdroj: GPS</string>
     <string name="perm_hips_location_source_network">Zdroj: sieť</string>
     <string name="perm_hips_mobile_network">Mobilná sieť</string>
-    <string name="perm_hips_mobile_network_desc">Prístup k Internetu cez mobilné dáta (3G apod.)</string>
+    <string name="perm_hips_mobile_network_desc">Prístup k Internetu cez mobilné dáta (3G atď.)</string>
     <string name="perm_hips_mobile_network_hint">%1$s aplikácie majú povolenie pre prístup na Internet cez mobilnú sieť</string>
     <string name="perm_hips_network_accept">Prijať pripojenie od %1$s</string>
     <string name="perm_hips_network_connect">Pripojiť k %1$s</string>
