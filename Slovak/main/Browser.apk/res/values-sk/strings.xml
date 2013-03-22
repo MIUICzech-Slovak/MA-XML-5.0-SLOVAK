@@ -387,9 +387,10 @@
     <string name="remove_snapshot">Vymazať uloženú stránku</string>	
     <string name="removed_from_bookmarks">Odstránené zo záložiek.</string>	
     <string name="replace">Nahradiť</string>	
-    <string name="report_reading_mode_issue">Oznámiť problémy s čítacím módom MIUI</string>	
+    <string name="report_reading_mode_issue">Oznámiť problémy s čítacím módom MIUI</string>
+    <string name="return_to_homepage">Vrátiť sa na Domovskú stránku</string>
     <string name="save">OK</string>	
-	<string name="saving_snapshot">Ukladanie...</string>
+    <string name="saving_snapshot">Ukladanie...</string>
     <string name="save_to_bookmarks">Uložiť do záložiek</string>	
     <string name="search_baidu">Baidu</string>	
     <string name="search_bing">Bing</string>	
