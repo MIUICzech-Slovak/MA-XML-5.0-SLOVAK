@@ -291,7 +291,8 @@
     <string name="bluetooth_device_context_pair_connect">Párovať a pripojiť</string>	
     <string name="bluetooth_device_context_unpair">Zrušiť párovanie</string>
     <string name="bluetooth_device_details">Nastavenie zariadenia</string>	
-    <string name="bluetooth_device_name">Názov zariadenia</string>	
+    <string name="bluetooth_device_name">Názov zariadenia</string>
+    <string name="bluetooth_device_searchable">Viditeľné zariadenie</string>
     <string name="bluetooth_devices">Zariadenia Bluetooth</string>	
     <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zariadenie:&lt;br>&lt;b>%2$s&lt;/b></string>	
     <string name="bluetooth_disable_profile_title">Deaktivovať profil?</string>	
@@ -638,6 +639,7 @@
     <string name="device_cpu2_info">"2 jadrá "</string>	
     <string name="device_cpu4_info">"4 jadrá "</string>	
     <string name="device_default_name">Xiaomi</string>
+    <string name="device_edit_title">Zmeniť názov zariadenia</string>
     <string name="device_info_default">Neznáme</string>	
     <string name="device_info_label">Info o zariadení</string>	
     <string name="device_info_not_available">Nedostupný</string>	
@@ -646,8 +648,10 @@
 	<string name="device_memory">RAM</string>
 	<string name="device_miui_version">MIUI</string>
     <string name="device_name">Názov zariadenia</string>
+    <string name="device_name_input_hint">Zadajte názov Vášho zariadenia</string>
     <string name="device_picker">Bluetooth zariadenie</string>
     <string name="device_sd_memory">SD karta</string>
+    <string name="device_name_usage_point">Povoliť vyhľadanie telefónu iným Bluetooth zariadeniam.</string>
     <string name="device_status">Stav</string>
     <string name="device_status_activity_title">Stav</string>
     <string name="device_status_summary">Stav batérie, úroveň nabitia, atď.</string>
