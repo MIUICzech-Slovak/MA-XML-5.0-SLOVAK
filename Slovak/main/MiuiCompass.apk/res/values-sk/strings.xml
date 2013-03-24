@@ -7,7 +7,7 @@
     <string name="calibrate_success">Kalibrácia dokončená</string>
     <string name="cannot_get_location">Nie je možné určiť polohu</string>
     <string name="dialog_calibrat_altitude">Kalibrácia nadmorskej výšky pomocou internetového pripojenia.</string>
-    <string name="dialog_title_no_network">Zapnite Wi-fi alebo mobilné dáta.</string>
+    <string name="dialog_title_no_network">Zapnite Wi-Fi alebo mobilné dáta.</string>
     <string name="direction_east">V</string>
     <string name="direction_north">S</string>
     <string name="direction_south">J</string>

@@ -7,7 +7,7 @@
     <string name="next">Ďalší</string>
     <string name="other_service_google_location">Služba určovania polohy Google</string>
     <string name="other_service_google_location_use">Poloha a vyhľadávanie Google</string>
-    <string name="other_service_google_location_use_help">"Povoliť posielanie anon. údajov polohy spol. Google a umožniť povoleným aplikáciám určiť približnú polohu podľa mobilnej siete a Wi-fi. Toto nastavenie môžete zmeniť v nastaveniach Polohy a vyhľadávania Google"</string>
+    <string name="other_service_google_location_use_help">"Povoliť posielanie anon. údajov polohy spol. Google a umožniť povoleným aplikáciám určiť približnú polohu podľa mobilnej siete a Wi-Fi. Toto nastavenie môžete zmeniť v nastaveniach Polohy a vyhľadávania Google"</string>
     <string name="other_service_google_location_use_summary">Povoliť systému Google použiť polohu na vylepšenie výsledkov vyhľadávania a ďalších služieb</string>
     <string name="other_service_permission_manager">Správa práv aplikácií</string>
     <string name="other_service_permission_manager_summary">Sledovanie aplikácií kvôli bezpečnosti a súkromiu</string>

@@ -64,9 +64,9 @@
     <string name="manual_input_used_traffic_hint">Zadajte využité dáta</string>	
     <string name="manual_input_used_traffic_title">Zadajte manuálne využité dáta</string>	
     <string name="menu_display_system_app">Zobraziť systémové aplikácie</string>	
-    <string name="menu_display_wifi">Zobrazovať Wi-fi prevádzku</string>	
+    <string name="menu_display_wifi">Zobrazovať Wi-Fi prevádzku</string>	
     <string name="menu_hide_system_app">Skryť systémové aplikácie</string>	
-    <string name="menu_hide_wifi">Nezobrazovať Wi-fi prevádzku</string>	
+    <string name="menu_hide_wifi">Nezobrazovať Wi-Fi prevádzku</string>	
     <string name="menu_new_install_app_settings">Predv. pre nové aplikácie</string>	
     <string name="menu_refresh">Obnoviť</string>	
     <string name="menu_settings">Nastavenie</string>	
@@ -148,6 +148,6 @@
     <string name="used_flux">Využitie dát</string>	
     <string name="version_label">"Verzia:\u0020"</string>
     <string name="warning_title">Upozornenie</string>	
-    <string name="wifi_traffic">Wi-fi: %s</string>
-    <string name="wifi_type">Wi-fi</string>	
+    <string name="wifi_traffic">Wi-Fi: %s</string>
+    <string name="wifi_type">Wi-Fi</string>	
 </resources>

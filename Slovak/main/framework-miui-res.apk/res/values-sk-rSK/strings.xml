@@ -216,7 +216,7 @@
     <string name="status_bar_toggle_syncing">Synchronizujem</string>
     <string name="status_bar_toggle_torch">Svietidlo</string>	
     <string name="status_bar_toggle_vibrate">Vibrácie</string>	
-    <string name="status_bar_toggle_wifi">Wi-fi</string>	
+    <string name="status_bar_toggle_wifi">Wi-Fi</string>	
     <string name="stopping_the_heat" />
     <string name="summer_begins" />
     <string name="summer_solstice" />

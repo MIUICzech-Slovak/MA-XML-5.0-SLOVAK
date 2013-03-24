@@ -611,8 +611,8 @@
     <string name="no_vm_number">Číslo hlasovej schránky neexistuje</string>
     <string name="no_vm_number_msg">Na karte SIM nie je uložené žiadne číslo hlasovej schránky.</string>
     <string name="no_voip">Internetové hovory nie sú podporované</string>
-    <string name="no_wifi_available">Pre volanie cez internet musíte byť pripojený pomocou Wi-fi</string>
-    <string name="no_wifi_available_title">Wi-fi pripojenie nedostupné</string>
+    <string name="no_wifi_available">Pre volanie cez internet musíte byť pripojený pomocou Wi-Fi</string>
+    <string name="no_wifi_available_title">Wi-Fi pripojenie nedostupné</string>
     <string name="not_a_valid_port">Číslo portu by malo byť od 1000 do 65534</string>
     <string name="not_allowed">Vaša karta SIM neumožňuje pripojenie do siete.</string>
     <string name="not_connected_miui">Nepripojený</string>
@@ -802,7 +802,7 @@
     <string name="registration_status_checking_status">Kontrolujem stav...</string>
     <string name="registration_status_invalid_credentials">Registrácia účtu neúspešná: zlé Meno alebo heslo</string>
     <string name="registration_status_no_data">Registrácia účtu zastavená, nie je dostupné internetové pripojenie</string>
-    <string name="registration_status_no_wifi_data">Registrácia účtu zastavená, nie je dostupné pripojenie cez Wi-fi</string>
+    <string name="registration_status_no_wifi_data">Registrácia účtu zastavená, nie je dostupné pripojenie cez Wi-Fi</string>
     <string name="registration_status_not_receiving">Neprijímam hovory</string>
     <string name="registration_status_not_running">Registrácia neúspešná</string>
     <string name="registration_status_registering">Prebieha registrácia...</string>
@@ -928,7 +928,7 @@
     <string name="sip_call_options_entry_3">Vždy sa opýtať</string>
     <string name="sip_call_options_title">Hovor cez internet</string>
     <string name="sip_call_options_wifi_only_entry_1">pre všetky hovory</string>
-    <string name="sip_call_options_wifi_only_title">Hovor cez internet (Len cez Wi-fi)</string>
+    <string name="sip_call_options_wifi_only_title">Hovor cez internet (Len cez Wi-Fi)</string>
     <string name="sip_edit_new_title">etaily účtu Hovoru cez internet</string>
     <string name="sip_edit_title">Detaily účtu Hovoru cez internet</string>
     <string name="sip_menu_add">Pridať</string>

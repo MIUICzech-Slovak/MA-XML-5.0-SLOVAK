@@ -14,8 +14,8 @@
     <string name="cit_leds_check_title">Test LED</string>
     <string name="cit_display_check_title">Test Displeja</string>
     <string name="cit_vibrator_check_title">Test Vibrácií</string>
-    <string name="cit_wifi_address_check_title">Test Wi-fi IP</string>
-    <string name="cit_wifi_ap_scan_check_title">Test vyhľadávania Wi-fi sietí</string>
+    <string name="cit_wifi_address_check_title">Test Wi-Fi IP</string>
+    <string name="cit_wifi_ap_scan_check_title">Test vyhľadávania Wi-Fi sietí</string>
     <string name="cit_blue_tooth_address_check_title">Test adresy Bluetooth</string>
     <string name="cit_blue_tooth_scan_check_title">Test vyhľadávania Bluetooth</string>
     <string name="cit_accelermeter_sensor_check_title">Test akcelerometra</string>
@@ -53,7 +53,7 @@
     <string name="cit_leds_check_summary">Test will check backlight, power and flash LEDs</string>
     <string name="cit_vibrator_check_summary">Test will perform a check on vibration(long and short)</string>
     <string name="cit_wifi_address_check_summary">Test will display current Wi-Fi state</string>
-    <string name="cit_wifi_ap_scan_check_summary">Test will display a list of all available Wi-fi access points</string>
+    <string name="cit_wifi_ap_scan_check_summary">Test will display a list of all available Wi-Fi access points</string>
     <string name="cit_blue_tooth_address_check_summary">Test will display the devices current Bluetooth MAC address</string>
     <string name="cit_blue_tooth_scan_check_summary">Test will display a list of all available Bluetooth devices</string>
     <string name="cit_accelermeter_sensor_check_summary">The screen will display X, Y, Z three directions of acceleration (Note: When the phone is turned round the values will change based on screen orientation</string>
@@ -100,10 +100,10 @@
     <string name="cit_vibrator_load_up_pattern">Vzor nahor</string>
     <string name="cit_vibrator_play_touch_pattern">Vzor vibrácií</string>
     <string name="cit_wifi_state_refresh">Obnoviť</string>
-    <string name="cit_wifi_address_error">Nie je možné získať Wi-fi adresu. Skontrolujte či máte zapnutú Wi-fi a skúste znova.</string>
-    <string name="cit_wifi_ap_scanning">Vyhľadávanie Wi-fi siete...</string>
+    <string name="cit_wifi_address_error">Nie je možné získať Wi-Fi adresu. Skontrolujte či máte zapnutú Wi-Fi a skúste znova.</string>
+    <string name="cit_wifi_ap_scanning">Vyhľadávanie Wi-Fi siete...</string>
     <string name="cit_wifi_ap_scan_retry">Znova</string>
-    <string name="cit_wifi_fail_to_scan">Nie je možné nájsť žiadnu sieť Wi-fi</string>
+    <string name="cit_wifi_fail_to_scan">Nie je možné nájsť žiadnu sieť Wi-Fi</string>
     <string name="cit_bluetooth_scan_retry">Znova</string>
     <string name="cit_bluetooth_scanning">Vyhľadávanie zariadení Bluetooth...</string>
     <string name="cit_bluetooth_not_support">Telefón nepodporuje zariadenie Bluetooth</string>
@@ -222,7 +222,7 @@
     <string name="cit_tool_bluetooth_on">Zapnúť Bluetooth</string>
     <string name="cit_tool_bluetooth_mode">Testovanie Bluetooth</string>
     <string name="cit_tool_bluetooth_off">Vypnúť Bluetooth</string>
-    <string name="cit_tool_wifi">Testovať Wi-fi</string>
+    <string name="cit_tool_wifi">Testovať Wi-Fi</string>
     <string name="cit_tool_wifi_rx_chan">Rx: Kanál</string>
     <string name="cit_tool_wifi_tx_bg">Tx: B/G</string>
     <string name="cit_tool_wifi_tx_bg_chan">Kanál:</string>
@@ -269,10 +269,10 @@
     <string name="cit_tool_wifi_rx_total_format">Prenesené: %s</string>
     <string name="cit_tool_wifi_rx_error">Nastala chyba</string>
     <string name="cit_tool_wifi_rx_count_error">Výstupné dáta nie sú čísla</string>
-    <string name="cit_tool_wifi_rx_ap_name">Meno Wi-fi siete</string>
-    <string name="cit_tool_wifi_rx_ap_type">Typ pripojenia Wi-fi</string>
+    <string name="cit_tool_wifi_rx_ap_name">Meno Wi-Fi siete</string>
+    <string name="cit_tool_wifi_rx_ap_type">Typ pripojenia Wi-Fi</string>
     <string name="cit_tool_wifi_rx_ap_type_error">Chyba pripojenia, znova vložte nastavenia bss / adhoc</string>
-    <string name="cit_tool_wifi_rx_ap_not_null">Názov Wi-fi siete nemôže byť prázdny</string>
+    <string name="cit_tool_wifi_rx_ap_not_null">Názov Wi-Fi siete nemôže byť prázdny</string>
     <string name="cit_tool_wifi_exit">Ukončiť</string>
     <string name="cit_keyboard_camera">Test tlačidla: FOTOAPARÁT</string>
     <string name="cit_keyboard_focus">Test tlačidla: ZOOM</string>

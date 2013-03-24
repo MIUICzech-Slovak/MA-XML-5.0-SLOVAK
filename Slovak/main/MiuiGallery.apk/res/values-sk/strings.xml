@@ -7,7 +7,7 @@
   <string name="albums">Albumov</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznam</string>
-  <string name="alert_message_initial_cloud">Systém automaticky odošle Vaše staré a nové fotografie len ak ste pripojení na sieť Wi-fi.</string>
+  <string name="alert_message_initial_cloud">Systém automaticky odošle Vaše staré a nové fotografie len ak ste pripojení na sieť Wi-Fi.</string>
   <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
   <string name="aperture">Clona</string>
   <string name="app_name">Galéria</string>
@@ -258,7 +258,7 @@
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string> 
   <string name="sync_history_power_on">Synchronizovať fotografie len počas nabíjania.</string>
-  <string name="sync_only_in_wifi">Iba Wi-fi</string>
+  <string name="sync_only_in_wifi">Iba Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
   <string name="tab_all_text">Všetko</string>
   <string name="tab_lockscreen_text">Tapeta zámku</string>

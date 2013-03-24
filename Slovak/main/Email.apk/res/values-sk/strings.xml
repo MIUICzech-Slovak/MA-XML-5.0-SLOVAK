@@ -20,7 +20,7 @@
     <string name="account_security_waiting_policy_key_message">%s potrebuje informácie o nastavení bezpečnosti zo servera，čakajte prosím.</string>
     <string name="account_settings_action">Nastavenia účtu</string>
     <string name="account_settings_background_attachments_label">Preberať všetky prílohy</string>
-    <string name="account_settings_background_attachments_summary">Automaticky preberať prílohy najnovších správ prostredníctvom siete Wi-fi</string>
+    <string name="account_settings_background_attachments_summary">Automaticky preberať prílohy najnovších správ prostredníctvom siete Wi-Fi</string>
     <string name="account_settings_category_delete_account">Odstrániť účet</string>
     <string name="account_settings_data_usage">Spotreba dát</string>
     <string name="account_settings_default_label">Predvolený účet</string>
@@ -138,7 +138,7 @@
     <string name="account_setup_names_title">Nastavenie účtu</string>
     <string name="account_setup_names_user_name_empty_error">Toto pole nesmie byť prázdne.</string>
     <string name="account_setup_names_user_name_label">Vaše meno (zobrazované na odchádzajúcich správach)</string>
-    <string name="account_setup_options_background_attachments_label">Automaticky preberať prílohy počas pripojenia k sieti Wi-fi</string>
+    <string name="account_setup_options_background_attachments_label">Automaticky preberať prílohy počas pripojenia k sieti Wi-Fi</string>
     <string name="account_setup_options_default_label">V predvolenom nastavení odosielať e-maily z tohto účtu.</string>
     <string name="account_setup_options_headline">Možnosti účtu</string>
     <string name="account_setup_options_mail_check_frequency_10min">Každých 10 minút</string>
@@ -192,14 +192,14 @@
     <string name="attachment_info_apk_install_disabled">Aplikácie nie je možné inštalovať priamo z e-mailu. Najprv túto aplikáciu uložte a potom ju nainštalujte pomocou aplikácie Prevzaté súbory.</string>
     <string name="attachment_info_application_settings">Nastavenia aplikácie</string>
     <string name="attachment_info_dialog_default_title">Informácie o prílohe</string>
-    <string name="attachment_info_dialog_wifi_title">Vyžaduje sa pripojenie Wi-fi</string>
+    <string name="attachment_info_dialog_wifi_title">Vyžaduje sa pripojenie Wi-Fi</string>
     <string name="attachment_info_malware">Tento súbor nie je možné uložiť ani otvoriť, pretože tento typ prílohy môže obsahovať škodlivý softvér.</string>
     <string name="attachment_info_no_intent">Nemáte nainštalovanú žiadnu aplikáciu, ktorá môže otvoriť túto prílohu. Skúste prevziať príslušnú aplikáciu zo služby Android Market.</string>
     <string name="attachment_info_policy">Kvôli pravidlám zabezpečenia tohto účtu nie je možné túto prílohu uložiť ani otvoriť.</string>
     <string name="attachment_info_sideload_disabled">Táto príloha je aplikáciou. Pred nainštalovaním musíte v Nastaveniach > Aplikácie začiarknuť položku Neznáme zdroje.</string>
     <string name="attachment_info_unknown">Nepodarilo sa otvoriť prílohu.</string>
-    <string name="attachment_info_wifi_only">Táto príloha je príliš veľká na to, aby sa dala prevziať prostredníctvom mobilnej siete. Môžete ju prevziať pri ďalšom pripojení k sieti Wi-fi.</string>
-    <string name="attachment_info_wifi_settings">Nastavenia Wi-fi</string>
+    <string name="attachment_info_wifi_only">Táto príloha je príliš veľká na to, aby sa dala prevziať prostredníctvom mobilnej siete. Môžete ju prevziať pri ďalšom pripojení k sieti Wi-Fi.</string>
+    <string name="attachment_info_wifi_settings">Nastavenia Wi-Fi</string>
     <string name="attachment_not_found">Prílohu sa nepodarilo prevziať.</string>
     <string name="bcc">Skrytá kópia</string>
     <string name="body_hint">Napísať e-mail</string>
@@ -245,7 +245,7 @@
     <string name="destination_format" formatted="false">%1$s „%2$s”</string>
     <string name="device_admin_description">Povoľuje pravidlá zabezpečenia určené serverom</string>
     <string name="device_admin_label">Poslať e-mail</string>
-    <string name="dialog_first_wifi">Veľké súbory budú odovzdané iba prostredníctvom pripojenia Wi-fi.</string>
+    <string name="dialog_first_wifi">Veľké súbory budú odovzdané iba prostredníctvom pripojenia Wi-Fi.</string>
     <string name="dialog_sync_all_canceled">Synchronizácia bola zrušená</string>
     <string name="dialog_sync_all_error_title">Synchronizovať všetky</string>
     <string name="dialog_sync_all_found_none">Nie je potrebné odovzdať žiadne ďalšie fotografie ani videá.</string>
@@ -442,7 +442,7 @@ Kópia: %4$s
     <string name="pause_state_need_charger">pozastavené – odložené až do nabitia</string>
     <string name="pause_state_need_media">pozastavené – karta SD nie je k dispozícii</string>
     <string name="pause_state_need_photos_quota">pozastavené - kvóta Webových albumov programu Picasa bola prekročená</string>
-    <string name="pause_state_need_wifi">pozastavené – čakanie na sieť Wi-fi</string>
+    <string name="pause_state_need_wifi">pozastavené – čakanie na sieť Wi-Fi</string>
     <string name="pause_state_retrying">čaká sa na opakovanie pokusu</string>
     <string name="pause_state_roaming">pozastavené – roaming</string>
     <string name="pause_state_running">odovzdáva sa</string>
@@ -464,7 +464,7 @@ Kópia: %4$s
     <string name="preference_category_title_videos">Videá</string>
     <string name="preference_mobile_data_usage_for_all_media">Fotografie a videá cez mobilné siete</string>
     <string name="preference_mobile_data_usage_for_photos_only">Pomocou mobilných sietí odovzdávať len fotografie</string>
-    <string name="preference_mobile_data_usage_never">Fotografie a videá len cez sieť Wi-fi</string>
+    <string name="preference_mobile_data_usage_never">Fotografie a videá len cez sieť Wi-Fi</string>
     <string name="preference_plus_category_advanced">Rozšírené</string>
     <string name="preference_plus_delay_sync_until_charging">Odovzd. podľa batérie</string>
     <string name="preference_plus_delay_sync_until_charging_summary">Odovzdávať fotografie a videá len počas nabíjania</string>
@@ -483,13 +483,13 @@ Kópia: %4$s
     <string name="preference_plus_upload_status">Stav odovzdania</string>
     <string name="preference_summary_header_format">%1$s: %2$s</string>
     <string name="preference_summary_need_power">Odovzdávať len počas nabíjania telefónu.</string>
-    <string name="preference_summary_need_wifi">Odovzdať, len ak je k dispozícii sieť Wi-fi.</string>
+    <string name="preference_summary_need_wifi">Odovzdať, len ak je k dispozícii sieť Wi-Fi.</string>
     <string name="preference_summary_uploading_format">: %1$d z %2$d</string>
     <string name="preference_summary_uploading_paused">Pozastavené: odovzdávanie obnovíte dotykom</string>
     <string name="preference_summary_uploading_percent">Prebieha odovzdávanie (%1$d%%)</string>
     <string name="preference_title_camera_sync_version">Ver. Okamž. odovzd.</string>
     <string name="preference_title_need_power">Napájanie</string>
-    <string name="preference_title_need_wifi">Wi-fi</string>
+    <string name="preference_title_need_wifi">Wi-Fi</string>
     <string name="preference_title_pause_all_uploads">Pozastaviť všetky odovzdávania</string>
     <string name="preference_title_photo_size">Veľkosť fotografie</string>
     <string name="preference_title_photos_account">Účet</string>
@@ -540,7 +540,7 @@ Kópia: %4$s
     <string name="summary_subtitle_paused_need_charger">odložené až do nabitia</string>
     <string name="summary_subtitle_paused_need_media">Karta SD nie je k dispozícii</string>
     <string name="summary_subtitle_paused_need_network">čaká sa na pripojenie</string>
-    <string name="summary_subtitle_paused_need_wifi">čakanie na sieť Wi-fi</string>
+    <string name="summary_subtitle_paused_need_wifi">čakanie na sieť Wi-Fi</string>
     <string name="summary_subtitle_paused_photos_quota">kvóta pre fotografie bola prekročená</string>
     <string name="summary_subtitle_paused_retry_format">opakovanie o %s</string>
     <string name="summary_subtitle_paused_roaming">roaming</string>
@@ -563,7 +563,7 @@ Kópia: %4$s
     <string name="upload_state_queued" />
     <string name="upload_state_uploading">Prebieha odovzdávanie</string>
     <string name="upload_state_waiting_retry">Čakanie na opakovanie</string>
-    <string name="upload_state_waiting_wifi">Čakanie na sieť Wi-fi</string>
+    <string name="upload_state_waiting_wifi">Čakanie na sieť Wi-Fi</string>
     <string name="uploading_for">" pre používateľa "<b>%s</b></string>
     <string name="uploading_to">Odovzdávanie do <b>%s</b></string>
     <string name="waitinf_for_sync_message_1">Prebieha synchronizácia</string>

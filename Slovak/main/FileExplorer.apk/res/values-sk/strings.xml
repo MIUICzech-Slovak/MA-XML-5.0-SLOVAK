@@ -138,8 +138,8 @@
 <string name="no">Nie</string>
 <string name="no_file">Žiadne súbory</string>
 <string name="no_tasks">Žiadne úlohy</string>
-<string name="no_wifi">Wi-fi nie je v dosahu</string>
-<string name="no_wifi_hint">Wi-fi nedostupná, stlačte pre nastavenia</string>
+<string name="no_wifi">Wi-Fi nie je v dosahu</string>
+<string name="no_wifi_hint">Wi-Fi nedostupná, stlačte pre nastavenia</string>
 <string name="notif_server_starting">Spúšťa sa FTP server</string>
 <string name="notif_title">FTP server je spustený</string>
 <string name="operating">Pracujem...</string>
@@ -233,7 +233,7 @@
 <string name="utf8_summary">Predvolené kódovanie FTP</string>
 <string name="waiting">Čakám...</string>
 <string name="wangpan_root_path">Môj Drive</string>
-<string name="wifi_state">Stav Wi-fi</string>
+<string name="wifi_state">Stav Wi-Fi</string>
 <string name="xiaomi_account">Xiaomi účet</string>
 <string name="yes">Áno</string>
 </resources>

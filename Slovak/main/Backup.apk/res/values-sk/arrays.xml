@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-fi pripojenie</item>
+        <item>Wi-Fi pripojenie</item>
         <item>Všetky aplikácie</item>
     </string-array>
     <string-array name="system_package_label">
@@ -19,7 +19,7 @@
         <item>Správy</item>
         <item>MMS</item>
         <item>Nastavenia systému</item>
-        <item>Nastavenia Wi-fi</item>
+        <item>Nastavenia Wi-Fi</item>
         <item>Rozloženie plochy</item>
         <item>Nastavenie upozornení</item>
         <item>Poznámky</item>
@@ -35,12 +35,12 @@
         <item>Kontakty</item>
         <item>Záznam hovorov</item>
         <item>Správy</item>
-        <item>Nastavenia Wi-fi</item>
+        <item>Nastavenia Wi-Fi</item>
         <item>Poznámky</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Kontakty</item>
-        <item>Nastavenia Wi-fi</item>
+        <item>Nastavenia Wi-Fi</item>
         <item>Poznámky</item>
     </string-array>
     <string-array name="cloud_sim_data">
