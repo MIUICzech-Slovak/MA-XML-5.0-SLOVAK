@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Hlásenie chýb</string>
+    <string name="app_label">Hlásiť chybu</string>
     <string name="user_feedback">Hlásenie chýb</string>
     <string name="report_miui">Nahlásiť MIUI</string>
     <string name="menu_send">Odoslať hlásenie</string>

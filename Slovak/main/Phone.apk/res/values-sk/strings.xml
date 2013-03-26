@@ -34,7 +34,7 @@
     <string name="answer_features_setting_category_miui">Nastavenie prijatia</string>
     <string name="answer_miui">Odpovedať</string>
     <string name="answer_state_setting_summary">Nastavenie stíšenia otočením, senzor priblíženia atď.</string>
-    <string name="answer_state_setting_title">Nastavenie správania pri prichádzajúcom hovore</string>
+    <string name="answer_state_setting_title">Prichádzajúci hovor</string>
     <string name="answer_state_setting_title_miui">Nastavenie správania pri prichádzajúcom hovore</string>
     <string name="answer_widget_dialog_title_miui">Vyberte gesto prijatia hovoru</string>
     <string name="answer_widget_sliding_horizontal_miui">Horizontálne posunutie</string>

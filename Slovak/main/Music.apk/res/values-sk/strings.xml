@@ -19,7 +19,7 @@
     <string name="albumsongseparator">" 
 	"</string>
     <string name="all_tracks">Všetka hudba</string>
-    <string name="android_album_settings">Použiť integrovaný obrázok albumu.</string>
+    <string name="android_album_settings">Integrovaný obrázok albumu</string>
     <string name="android_album_summary">Automaticky použije obrázok zo skladby. Môže spôsobiť chyby.</string>
     <string name="artist_albums">Všetky albumy</string>    
     <string name="artist_details_format">%1$s, %2$s</string>
@@ -56,7 +56,7 @@
     <string name="delete_song_desc">%s budú nenávratne vymazané z SD karty.</string>
     <string name="deselect_all">Odznačiť všetko</string>
     <string name="download">Stiahnuť</string>
-    <string name="download_album_settings">Automatický sťahovať obrázky albumov</string>
+    <string name="download_album_settings">Sťahovať obrázky albumov</string>
     <string name="download_album_summary">Môže sťahovať väčšie množstvo dát, zvážte použitie Wi-Fi</string>
     <string name="download_all_album">Stiahnuté obrázky albumov</string>
     <string name="download_all_avatar">Stiahnuť obrázok autora</string>
@@ -225,7 +225,7 @@
     <string name="shake_degree_low">Nízka</string>
     <string name="shake_settings">Zatrepaním preskočiť</string>
     <string name="shake_summary">Zatrepte s telefónom pre preskočenie skladby</string>
-    <string name="shake_while_screen_on_title">Preskočiť len ak je displej zapnutý</string>
+    <string name="shake_while_screen_on_title">Len ak je displej zapnutý</string>
     <string name="shake_while_screen_on_title_summary">Zatrasenie prepne pesničku len ak je displej zapnutý. Zabráni preskakovaniu skladieb napr. počas chôdze vo vrecku.</string>
     <string name="shuffle_all">Všetko náhodne</string>
     <string name="sort_by_album">Albumy</string>

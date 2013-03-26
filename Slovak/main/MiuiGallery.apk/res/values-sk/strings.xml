@@ -24,7 +24,6 @@
   <string name="camera_connected">Fotoaparát pripojený.</string>
   <string name="camera_disconnected">Fotoaparát odpojený.</string>
   <string name="camera_folder_display_name">Snímky z fotoaparátu</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
   <string name="camera_view_none_message">Tu budú zobrazené Vaše fotografie.</string>
   <string name="cancel">Zrušiť</string>
@@ -253,12 +252,12 @@
   <string name="storage_no_space">"Nieje voľné miesto na úložisku."</string>
   <string name="straighten">Vyrovnať</string>
   <string name="straighten_tooltip">Potiahni snímku pre jej vyrovnanie</string>
-  <string name="sync_album">Synch. album</string>
+  <string name="sync_album">Synchronizovať album</string>
   <string name="sync_album_error">Nepodarilo sa stiahnuť snímky v tomto albume. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string> 
   <string name="sync_history_power_on">Synchronizovať fotografie len počas nabíjania.</string>
-  <string name="sync_only_in_wifi">Iba Wi-Fi</string>
+  <string name="sync_only_in_wifi">Iba cez Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
   <string name="tab_all_text">Všetko</string>
   <string name="tab_lockscreen_text">Tapeta zámku</string>

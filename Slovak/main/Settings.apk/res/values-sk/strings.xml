@@ -1738,7 +1738,7 @@
     <string name="sync_calendar">Kalendár</string>	
     <string name="sync_contacts">Kontakty</string>	
     <string name="sync_disabled">Synchr. VYP.</string>	
-    <string name="sync_enable">Povoliť synchr.</string>
+    <string name="sync_enable">Povoliť synchronizáciu</string>
     <string name="sync_enabled">Synchr. ZAP.</string>	
     <string name="sync_error">Chyba synchr.</string>	
     <string name="sync_failed">Synchr. zlyhala</string>
@@ -1968,7 +1968,7 @@
     <string name="virus_scanner_lib_update_failed">Aktualizácia vírusovej databázy zlyhala!</string>
     <string name="virus_scanner_lib_updating">Aktualizácia databázy...</string>
     <string name="virus_scanner_manual_update">Aktualizovať manuálne</string>
-    <string name="virus_scanner_provider">Bezpečnosť zabezpečuje %s</string>
+    <string name="virus_scanner_provider">Zabezpečuje %s</string>
     <string name="virus_scanner_scan">Skenovať</string>
     <string name="virus_scanner_scanning">AntiVírus</string>
     <string name="virus_scanner_select_Cancel">Zrušiť</string>
