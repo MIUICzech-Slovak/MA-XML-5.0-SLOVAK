@@ -761,11 +761,11 @@ Pre pridanie kontaktu do obľúbených:
     <string name="resource_get_auth_retrieving">Získavanie autorizácie...</string>
     <string name="resource_importing">Importovanie</string>
     <string name="resource_list_title">Posledné zvolené</string>
-    <string name="resource_local">Lokálna %1$s</string>
+    <string name="resource_local">Lokálna</string>
     <string name="resource_mute">Žiadne</string>
     <string name="resource_no_result">Bez výsledku</string>
     <string name="resource_notification_default">Upozornenia</string>
-    <string name="resource_online">Online %1$s</string>
+    <string name="resource_online">Online</string>
     <string name="resource_preview">Náhľad</string>	
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
