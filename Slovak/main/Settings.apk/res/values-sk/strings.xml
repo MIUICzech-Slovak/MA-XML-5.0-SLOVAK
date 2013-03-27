@@ -1532,7 +1532,7 @@
     <string name="sdcard_setting">Úložisko USB</string>	
     <string name="sdcard_settings_available_bytes_label">Dostupná pamäť (bajty):</string>	
     <string name="sdcard_settings_bad_removal_status">USB úložisko odpojené za prevádzky!</string>	
-    <string name="sdcard_settings_mass_storage_status">USB úložisko je využívaná ako veľkokapacitné pamäťové zariadenie USB</string>	
+    <string name="sdcard_settings_mass_storage_status">USB úložisko je využívané ako veľkokapacitné pamäťové zariadenie USB</string>	
     <string name="sdcard_settings_not_present_status">USB úložisko nie je pripojené</string>	
     <string name="sdcard_settings_read_only_status">USB úložisko pripojené len na čítanie</string>	
     <string name="sdcard_settings_scanning_status">Prehľadávanie médií na USB úložisku...</string>	
