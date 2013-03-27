@@ -670,9 +670,9 @@
     <string name="display_settings">Displej</string>	
     <string name="display_settings_title">Zobrazenie</string>	
     <string name="dlg_cancel">Zrušiť</string>	
-    <string name="dlg_confirm_unmount_text">Pokiaľ SD kartu odpojíte, niektoré používané aplikácie prestanú fungovať. Tieto aplikácie pravdepodobne nebudú k dispozícií, pokiaľ SD kartu opäť nepripojíte.</string>	
-    <string name="dlg_confirm_unmount_title">Odpojiť SD kartu?</string>	
-    <string name="dlg_error_unmount_text">SD kartu nie je možné odpojiť. Skúste to opäť neskôr.</string>	
+    <string name="dlg_confirm_unmount_text">Ak odpojíte USB úložisko, niektoré používané aplikácie prestanú fungovať. Tieto aplikácie pravdepodobne nebudú k dispozícií, pokiaľ USB úložisko opäť nepripojíte.</string>	
+    <string name="dlg_confirm_unmount_title">Odpojiť USB úložisko?</string>	
+    <string name="dlg_error_unmount_text">USB úložisko nie je možné odpojiť. Skúste to znova.</string>	
     <string name="dlg_error_unmount_title" />
     <string name="dlg_ok">OK</string>
     <string name="dock_audio_settings_title">Zvuk</string>	
