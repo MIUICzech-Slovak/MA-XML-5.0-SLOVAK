@@ -656,6 +656,7 @@
     <string name="device_status_activity_title">Stav</string>
     <string name="device_status_summary">Stav batérie, úroveň nabitia, atď.</string>
     <string name="dialog_title_font_size">Veľkosť písma</string>
+    <string name="dirac_control">Dirac Ovládanie</string>
     <string name="disable_overlays">Vypnúť HW prekrývanie</string>
     <string name="disable_overlays_summary">Vždy použiť GPU pre zobrazovanie</string>
 	<string name="disable_power_key_long_press_under_keyguard">Vypnúť pri zamknutí</string>

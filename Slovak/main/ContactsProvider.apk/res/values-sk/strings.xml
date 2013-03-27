@@ -16,4 +16,5 @@
     <string name="create_contact">Nový kontakt</string>
     <string name="send_sms">Odoslať správu</string>
     <string name="edit_contact">Pridať kontakt</string>
+    <string name="call_log_provider_label">Záznam hovorov</string>
 </resources>

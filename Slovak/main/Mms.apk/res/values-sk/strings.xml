@@ -109,6 +109,7 @@
   <string name="edit_slide_activity">Upraviť prechod</string>
   <string name="edit_slideshow_activity">Upraviť prezentáciu</string>
   <string name="enable_password_protect">Povoliť ochranu heslom</string>
+  <string name="enable_visible_pattern_title">Zobraziť vzor</string>
   <string name="enter_edit_mode">Upraviť</string>
   <string name="error_code_label">"Chyba kódu: "</string>
   <string name="error_state">Nekonzistentný stav</string>
@@ -160,6 +161,8 @@
   <string name="menu_edit">Upraviť</string>
   <string name="menu_forward">Poslať ďalej</string>
   <string name="menu_lock">Zamknúť správu</string>
+  <string name="menu_new_manual">Vložiť číslo manuálne</string>
+  <string name="menu_pick_from_contact">Vybrať z kontaktov</string>
   <string name="menu_preferences">Nastavenia</string>
   <string name="menu_unlock">Odomknúť správu</string>
   <string name="menu_view_contact">Zobraziť kontakt</string>
@@ -189,6 +192,7 @@
   <string name="msg_type_hint_sms">Textová správa</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Zvuk oznámenia</string>
+  <string name="number_add_hint">Zadajte číslo pre zaradenie do súkromných kontaktov</string>
   <string name="mx_activate_error_malformed_info">Aktivovanie Cloud správ zlyhalo, vyžaduje sa opätovný pokus o aktiváciu</string>
   <string name="mx_activate_error_server">Aktivácia servera pre Cloud správy zlyhala</string>
   <string name="mx_activate_error_sim_change">SIM karta zmenená, vyžaduje sa opätovný pokus o aktiváciu Cloud správ</string>
