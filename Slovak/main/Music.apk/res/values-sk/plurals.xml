@@ -21,20 +21,20 @@
         <item quantity="one">%d album</item>
     </plurals>
     <plurals name="Ntracks">
-        <item quantity="other">skladieb</item>
-        <item quantity="one">skladba</item>
+        <item quantity="other">" skladieb"</item>
+        <item quantity="one">" skladba"</item>
     </plurals>
     <plurals name="Nalbums">
-        <item quantity="other">albumov</item>
-        <item quantity="one">album</item>
+        <item quantity="other">" albumov"</item>
+        <item quantity="one">" album"</item>
     </plurals>
     <plurals name="Nartists">
-        <item quantity="other">umelcov</item>
-        <item quantity="one">umelec</item>
+        <item quantity="other">" umelcov"</item>
+        <item quantity="one">" umelec"</item>
     </plurals>
     <plurals name="Nplaylists">
-        <item quantity="other">playlistov</item>
-        <item quantity="one">playlist</item>
+        <item quantity="other">" playlistov"</item>
+        <item quantity="one">" playlist"</item>
     </plurals>
     <plurals name="Nfolders">
         <item quantity="other">" zložiek"</item>
