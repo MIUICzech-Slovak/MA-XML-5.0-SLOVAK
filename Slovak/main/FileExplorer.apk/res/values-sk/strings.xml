@@ -160,10 +160,10 @@
 <string name="operation_create_folder">Nová zložka</string>
 <string name="operation_create_folder_message">Vložte meno zložky</string>
 <string name="operation_decompressing">Rozbaľujem...</string>
-<string name="operation_delete">Zmazať</string>
+<string name="operation_delete">Vymazať</string>
 <string name="operation_deleting_detail">Mazanie (%1$d/%2$d)</string>
-<string name="operation_delete_confirm_message">Naozaj zmazať?</string>
-<string name="operation_delete_confirm_message_folder">"Vymazanie zložky vymaže aj všetky súbory v nej."</string>
+<string name="operation_delete_confirm_message">Naozaj chcete tieto súbory odstrániť?</string>
+<string name="operation_delete_confirm_message_folder">"Vymazanie zložky odstráni aj všetky súbory v nej."</string>
 <string name="operation_deleting">Vymazávam...</string>
 <string name="operation_download_link">Vygenerovať link na stiahnutie</string>
 <string name="operation_favorite">Obľúbené</string>
