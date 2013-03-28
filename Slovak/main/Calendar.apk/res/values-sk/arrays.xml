@@ -8,7 +8,7 @@
     </string-array>    
     <string-array name="reminder_minutes_labels">
         <item>0 minút</item>
-		<item>1 minúta</item>
+	<item>1 minúta</item>
         <item>5 minút</item>
         <item>10 minút</item>
         <item>15 minút</item>
@@ -26,8 +26,8 @@
     </string-array>
 	<string-array name="preferences_default_reminder_labels">
         <item>Žiadne</item>
-		<item>0 minut</item>        
-		<item>1 minúta</item>
+	<item>0 minut</item>        
+	<item>1 minúta</item>
         <item>5 minút</item>
         <item>10 minút</item>
         <item>15 minút</item>
@@ -138,7 +138,7 @@
     <string-array name="availability">
         <item>Zaneprázdnený</item>
         <item>Dostupný</item>
-		<item>Nezáväzný</item>
+	<item>Nezáväzný</item>
     </string-array>      
     <string-array name="visibility">
         <item>Východzie nastavenie</item>
