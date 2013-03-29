@@ -63,8 +63,8 @@
     <string name="menu_scan_stop">Ukončiť vyhľadávanie</string>
     <string name="menu_select_station">Vybrať stanicu</string>
     <string name="menu_settings">Nastavenia</string>
-    <string name="menu_sleep">Automatické ukončenie</string>
-    <string name="menu_sleep_cancel">Zrušiť automatické ukončenie</string>
+    <string name="menu_sleep">Automatické vypnutie rádia</string>
+    <string name="menu_sleep_cancel">Zrušiť automatické vypnutie rádia</string>
     <string name="menu_stats">FM RF štatistika</string>
     <string name="msg_callactive">FM Tx nie je dostupné pri aktívnom hovore</string>
     <string name="msg_headsetpluggedin">Odpojte slúchadlá pre používanie FM Tx</string>
@@ -89,7 +89,7 @@
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Stlač pre zobrazenie súboru %s</string>
     <string name="record_sucess">Nahrávanie dokončené</string>
-    <string name="regional_band">Rozsah frekvencie (zmena odstráni súčasný zoznam staníc)</string>
+    <string name="regional_band">Rozsah frekvencie (vymaže staníce)</string>
     <string name="revert_to_fac">Obnoviť tovarné nastavenia</string>
     <string name="search_dialog_title">Vyhľadať stanice</string>
     <string name="sel_audio_output">Zvoľte typ výstupu</string>
@@ -98,9 +98,9 @@
     <string name="set_rmmsi_delta">Nastaviť RMSSI Delta</string>
     <string name="set_sigth">Nastaviť Signál Th</string>
     <string name="settings_menu">Nastavenie</string>
-    <string name="settings_revert_confirm_msg">Táto možnosť odstráni všetky nastavenia vrátane uložených staníc</string>
-    <string name="settings_revert_confirm_title">Obnovenie tovarného nastavenia</string>
-    <string name="settings_revert_defaults_title">Obnoviť tovarné nastavenia</string>
+    <string name="settings_revert_confirm_msg">Táto možnosť odstráni všetky nastavenia vrátane uložených staníc.</string>
+    <string name="settings_revert_confirm_title">Obnovenie predvoleného nastavenia</string>
+    <string name="settings_revert_defaults_title">Obnoviť predvolené nastavenia</string>
     <string name="spaceIsLow_content">Dochádza voľné miesto v telefóne. Znížte kvalitu nahrávania alebo odstráňte nepotrebné súbory</string>
     <string name="stat_notif_frequency">: %1$s MHz</string>
     <string name="stat_notif_tx_frequency">FM vysiela na: %1$s</string>
