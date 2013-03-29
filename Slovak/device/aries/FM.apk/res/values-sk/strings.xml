@@ -102,7 +102,7 @@
     <string name="settings_revert_confirm_title">Obnovenie predvoleného nastavenia</string>
     <string name="settings_revert_defaults_title">Obnoviť predvolené nastavenia</string>
     <string name="spaceIsLow_content">Dochádza voľné miesto v telefóne. Znížte kvalitu nahrávania alebo odstráňte nepotrebné súbory</string>
-    <string name="stat_notif_frequency">: %1$s MHz</string>
+    <string name="stat_notif_frequency">Frekvencia: %1$s MHz</string>
     <string name="stat_notif_tx_frequency">FM vysiela na: %1$s</string>
     <string name="station_edit">Upraviť</string>
     <string name="station_freq_format">%s MHz</string>
