@@ -45,7 +45,7 @@
     <string name="delelte_selected_timezone">Naozaj chcete vymazať vybrané časové zóny?</string>
     <string name="delete">Vymazať</string>
     <string name="delete_alarm">Vymazať budík</string>
-    <string name="delete_alarm_confirm">Zmazať tento budík?</string>
+    <string name="delete_alarm_confirm">Vymazať tento budík?</string>
     <string name="delete_timezone_title">Vymazať časovú zónu</string>
     <string name="desk_clock_button_description">Zobrazenie hodín</string>
     <string name="dialog_confirm_abort">Naozaj chcete zrušiť vaše zmeny?</string>
