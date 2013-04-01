@@ -93,7 +93,7 @@
     <string name="pref_category_adjust_traffic">Prispôsobenie prevádzky</string>	
     <string name="pref_connect_settings_enable_backgroung">Auto. prip. na pozadí</string>	
     <string name="pref_connect_settings_enable_backgroung_hint">Povoliť aplikáciám automatické pripojovanie k internetu na pozadí</string>	
-    <string name="pref_connect_settings_exceed_limit">Odpojiť internet pri prekročení limitu dát</string>	
+    <string name="pref_connect_settings_exceed_limit">Odpojiť internet pri prekročení</string>	
     <string name="pref_connect_settings_exceed_limit_hint">Upozorniť ma a odpojiť internet, ak dôjde k prekročeniu limitu dát</string>	
     <string name="pref_connect_settings_notify_in_statusbar">Zobraziť spotrebu dát</string>	
     <string name="pref_connect_settings_title">Nastavenie monitorovania siete</string>	

@@ -108,7 +108,7 @@
     <string name="id3_edit_failed">Nie je možné upraviť ID3 informácie</string>
     <string name="id3_modify_confirm_check">Uložiť zmeny v ID3?</string>
     <string name="id3_modify_confirm_text">Uložiť</string>
-    <string name="impunity_declaration">Online hudba, ktorú sa chystáte použiť, je od Baidu Online Music Service. Stlačte tlačidlo \ "OK \" pre potvrdenie, alebo stlačte tlačidlo \ "Zrušiť \" pre ukončenie.</string>
+    <string name="impunity_declaration">Online hudba, ktorú sa chystáte počúvať, je od Baidu Online Music Service. Pre akceptovanie stlačte tlačidlo Potvrdiť, alebo tlačidlo Zrušiť pre ukončenie.</string>
     <string name="impunity_declaration_title">Prehlásenie</string>
     <string name="keep_quit_position_settings">Uložiť poslednú pozíciu</string>
     <string name="keep_quit_position_summary">Pamätať si pozíciu v poslednej prehrávanej skladbe</string>
@@ -212,10 +212,10 @@
     <string name="sdcard_error_message_nosdcard">Došlo k chybe na USB úložisku.</string>
     <string name="sdcard_missing_message">Váš telefón nemá vloženú SD kartu.</string>
     <string name="sdcard_missing_message_nosdcard">Váš telefón nemá USB úložisko.</string>
-    <string name="search_hint">Hľadať hudbu</string>
+    <string name="search_hint">Hľadať skladbu</string>
     <string name="search_settings_description">Umelci, albumy, a skladby</string>
     <string name="search_suggestion">Odporúčané vyhľadávanie:</string>
-    <string name="search_title">Hľadať</string>
+    <string name="search_title">Hľadať skladbu</string>
     <string name="select_all">Vybrať všetko</string>
     <string name="select_folder">Vyberte zložku(y)</string>
     <string name="select_quit_time">Nastavte čas, za ako dlho sa zastaví prehrávanie (v minútach)</string>
