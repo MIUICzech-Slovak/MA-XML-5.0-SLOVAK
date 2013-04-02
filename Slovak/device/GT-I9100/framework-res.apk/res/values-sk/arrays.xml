@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Domovská stránka</item>
+        <item>Domov</item>
         <item>Práca</item>
-        <item>Iné</item>
+        <item>Ďalšie</item>
         <item>Vlastné</item>
     </string-array>
     <string-array name="imProtocols">
@@ -18,29 +18,29 @@
     </string-array>
     <string-array name="organizationTypes">
         <item>Práca</item>
-        <item>Iné</item>
+        <item>Ďalšie</item>
         <item>Vlastné</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Domovská stránka</item>
-        <item>Mobil</item>
+        <item>Domov</item>
+        <item>Mobilné</item>
         <item>Práca</item>
         <item>Fax do práce</item>
         <item>Fax domov</item>
         <item>Pager</item>
-        <item>Iné</item>
+        <item>Ďalšie</item>
         <item>Vlastné</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Domovská stránka</item>
+        <item>Domov</item>
         <item>Práca</item>
-        <item>Iné</item>
+        <item>Ďalšie</item>
         <item>Vlastné</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Domovská stránka</item>
+        <item>Domov</item>
         <item>Práca</item>
-        <item>Iné</item>
+        <item>Ďalšie</item>
         <item>Vlastné</item>
     </string-array>
 </resources>

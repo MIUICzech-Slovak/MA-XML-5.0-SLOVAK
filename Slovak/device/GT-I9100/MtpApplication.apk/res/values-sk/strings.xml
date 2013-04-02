@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikácia MTP</string>
+    <string name="error_title">Pozor</string>
+    <string name="bluetooth_running">Aktiváciou režimu USB sa deaktivuje Bluetooth. Pokračovať?</string>
+    <string name="alert_dialog_yes">Áno</string>
+    <string name="alert_dialog_no">Nie</string>
+    <string name="animation_initializing">Inicializácia…</string>
+    <string name="animation_connected">Pripojené</string>
+    <string name="animation_synchronizing">Synchronizuje sa…</string>
+    <string name="animation_downloading">Sťahovanie…</string>
+    <string name="animation_sending">Posiela sa</string>
+    <string name="notification_mtp_connected">MTP pripojené</string>
+    <string name="notification_usb_connected">USB pripojené</string>
+    <string name="notification_mtp_initialization">Inicializácia MTP</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Zrušiť</string>
+    <string name="non_idle_toast">Pripojenie k PC je k dispozícii iba v nečinnom režime. Zatvorte spustené aplikácie</string>
+    <string name="media_scanner_running">Prehľadávač médií je spustený…</string>
+    <string name="media_scanner_finished">Prehľadávanie médií je dokončené</string>
+    <string name="kies_software_check">Kontroluje sa Samsung Kies (softvér na pripojenie k PC)…</string>
+    <string name="security_policy_restriction">Politika zabezpečenia obmedzuje použitie počítačového pripojenia</string>
+    <string name="resume_to_call">Obnoviť hovor</string>
+    <string name="store_add_popup">Aplikácia MTP sa reštartuje na prípravu karty SD. Pokračovať?</string>
+</resources>

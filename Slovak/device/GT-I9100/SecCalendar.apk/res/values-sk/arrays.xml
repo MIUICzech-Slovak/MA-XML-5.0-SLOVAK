@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Oznámenie</item>
+        <item>E-mail</item>
+        <item>SMS</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels">
+        <item>V čase</item>
+        <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodina</item>
+        <item>2 hodín</item>
+        <item>3 hodiny</item>
+        <item>12 hodín</item>
+        <item>1 deň predtým</item>
+        <item>2 dni predtým</item>
+        <item>1 týždeň predtým</item>
+        <item>Upraviť</item>
+    </string-array>
+    <string-array name="snooze_time">
+        <item>3 minúty</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>30 minút</item>
+    </string-array>
+    <string-array name="reminder_minutes_labels_eventinfo">
+        <item>V čase</item>
+        <item>1 minúta pred budíkom</item>
+        <item>5 minút pred budíkom</item>
+        <item>10 minút pred budíkom</item>
+        <item>15 minút pred budíkom</item>
+        <item>20 minút pred budíkom</item>
+        <item>25 minút pred budíkom</item>
+        <item>30 minút pred budíkom</item>
+        <item>45 minút pred budíkom</item>
+        <item>1 hodina pred budíkom</item>
+        <item>2 hodiny pred budíkom</item>
+        <item>3 hodiny pred budíkom</item>
+        <item>12 hodín pred budíkom</item>
+        <item>24 hodín pred budíkom</item>
+        <item>2 dni pred budíkom</item>
+        <item>1 týždeň pred budíkom</item>
+        <item>Pred budíkom</item>
+    </string-array>
+    <string-array name="repeat_labels">
+        <item>Po dobu 1 roka</item>
+        <item>Po dobu 5 rokov</item>
+        <item>Po dobu 10 rokov</item>
+        <item>Po dobu 50 rokov</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>V čase</item>
+        <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodina</item>
+        <item>2 hodín</item>
+        <item>3 hodiny</item>
+        <item>12 hodín</item>
+        <item>1 deň</item>
+        <item>2 dni</item>
+        <item>1 týždeň</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Predvolené miestne nastavenia</item>
+        <item>Sobota</item>
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>Marshallove ostrovy</item>
+        <item>Ostrov Midway</item>
+        <item>Havaj</item>
+        <item>Aljaška</item>
+        <item>Tichomorský čas</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Horský čas</item>
+        <item>Stredná Amerika</item>
+        <item>Centrálny čas</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogota</item>
+        <item>Východný čas</item>
+        <item>Venezuela</item>
+        <item>Atlantický čas (Barbados)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Atlantický čas (Kanada)</item>
+        <item>Newfoundland</item>
+        <item>Brazília</item>
+        <item>Buenos Aires</item>
+        <item>Grónsko</item>
+        <item>Montevideo</item>
+        <item>Stredný Atlantik</item>
+        <item>Azory</item>
+        <item>Kapverdské ostrovy</item>
+        <item>Casablanca</item>
+        <item>Londýn, Dublin</item>
+        <item>Amsterdam, Berlín</item>
+        <item>Belehrad</item>
+        <item>Brusel</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Západoafrický čas</item>
+        <item>Ammán, Jordánsko</item>
+        <item>Atény, Istanbul</item>
+        <item>Bejrút, Libanon</item>
+        <item>Káhira</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moskovská oblasť</item>
+        <item>Kuvajt</item>
+        <item>Nairobi</item>
+        <item>Teherán</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubaj</item>
+        <item>Kábul</item>
+        <item>Islamabad, Karáči</item>
+        <item>Uraľsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkata</item>
+        <item>Srí Lanka</item>
+        <item>Káthmandu</item>
+        <item>Astana</item>
+        <item>Jangon</item>
+        <item>Krasnojarský kraj</item>
+        <item>Bangkok</item>
+        <item>Peking</item>
+        <item>Hongkong</item>
+        <item>Irkutská oblasť</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tchaj-pej</item>
+        <item>Soul</item>
+        <item>Tokio, Osaka</item>
+        <item>Jakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Canberra, Sydney</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadanská oblasť</item>
+        <item>Auckland</item>
+        <item>Fidži</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Zanepr.</item>
+        <item>K dispozícii</item>
+    </string-array>
+    <string-array name="status">
+        <item>Voľné</item>
+        <item>Nezáväzne</item>
+        <item>Zanepr.</item>
+        <item>Mimo kancelárie</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Predvolený</item>
+        <item>Súkromné</item>
+        <item>Verejné</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>prvý</item>
+        <item>druhý</item>
+        <item>tretí</item>
+        <item>štvrtý</item>
+        <item>posledný</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Žiadna odpoveď</item>
+        <item>Áno</item>
+        <item>Možno</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="list_by_array">
+        <item>Termín</item>
+        <item>Dôležitosť</item>
+        <item>Dátum</item>
+        <item>Týždeň</item>
+        <item>Mesiac</item>
+        <item>Skupina</item>
+    </string-array>
+    <string-array name="group_items">
+        <item>Vytvoriť skupinu</item>
+        <item>Odstr. skupinu</item>
+        <item>Zobraziť skupiny</item>
+        <item>Zmeniť poradie skupín</item>
+    </string-array>
+    <string-array name="group_items_1">
+        <item>Vytvoriť skupinu</item>
+        <item>Zobraziť skupiny</item>
+    </string-array>
+    <string-array name="reminder_type_labels">
+        <item>Vyp.</item>
+        <item>V počiatočný deň</item>
+        <item>V deň splnenia</item>
+        <item>Upraviť</item>
+    </string-array>
+    <string-array name="priority_items">
+        <item>Nízka</item>
+        <item>Stredná</item>
+        <item>Vysoká</item>
+    </string-array>
+    <string-array name="priority_dialog_items">
+        <item>Vysoká</item>
+        <item>Stredná</item>
+        <item>Nízka</item>
+    </string-array>
+    <string-array name="memo">
+        <item>Vytvoriť poznámku S</item>
+        <item>Prepojenie na poznámku S</item>
+    </string-array>
+    <string-array name="memo_with_snote">
+        <item>Vytvoriť poznámku S</item>
+        <item>Prepojenie na poznámku S</item>
+        <item>Prepojiť Poznámku S s udalosťou</item>
+    </string-array>
+    <string-array name="image">
+        <item>Fotografovať</item>
+        <item>Obrázky</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Vždy</item>
+        <item>Iba v tichom režime</item>
+        <item>Nikdy</item>
+    </string-array>
+</resources>

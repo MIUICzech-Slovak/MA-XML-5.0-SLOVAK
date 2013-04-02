@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Albumy sú k dispozícii offline</item>
+        <item quantity="one">Album je teraz k dispozícii offline</item>
+    </plurals>
+</resources>
