@@ -30,7 +30,7 @@
     <string name="low_battery_warning">Neočakávané vypnutie môže spôsobiť stratu nahrávky, pripojte nabíjačku.</string>
     <string name="mark_now">(Súčasný)</string>	
     <string name="max_length_reached">Dosiahnutá maximálna dĺžka</string>	
-    <string name="menu_setting">Nastavenie</string>	
+    <string name="menu_settings">Nastavenie</string>	
     <string name="menu_view_record_list">Zobraziť nahrávky</string>	
     <string name="minute">%d m</string>	
     <string name="no_file">Žiadne nahrávky</string>	
