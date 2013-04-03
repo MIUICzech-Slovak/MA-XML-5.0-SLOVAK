@@ -38,4 +38,11 @@
         <item>5</item>
         <item>Vyp.</item>
     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Raz</item>
+        <item>Každý deň</item>
+        <item>Pracovné dni</item>
+        <item>Pondelok až Piatok</item>
+        <item>Vlastné</item>
+    </string-array>
 </resources>
