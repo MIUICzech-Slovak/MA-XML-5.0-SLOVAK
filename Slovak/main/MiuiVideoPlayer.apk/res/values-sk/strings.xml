@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_app_name">MIUIVideo</string>
+    <string name="about_developer_label">Vývojár</string>
+    <string name="about_developer_name">MIUI</string>
     <string name="about_title">O aplikácií</string>
     <string name="about_version">V4.0</string>
+    <string name="about_version_label">Verzia:</string>
     <string name="adjust_position_next_media_notice">Ďalšie</string>
     <string name="adjust_position_prev_media_notice">Predchádzajúce</string>
     <string name="airkan_control_device_des">Môžete ovládať prehrávanie pomocou tlačidiel v dolnej časti</string>

@@ -16,6 +16,7 @@
     <string name="dialog_failed_body">Chcete tento súbor skúsiť znova prevziať neskôr, alebo ho chcete zo zoznamu odstrániť?</string>	
     <string name="dialog_file_already_exists">Nepodarilo sa prevziať. Cieľový súbor už existuje.</string>	
     <string name="dialog_file_missing_body">Prevzatý súbor sa nepodarilo nájsť.</string>	
+    <string name="dialog_file_missing_title">Otvorenie súboru zlyhalo</string>
     <string name="dialog_insufficient_space_on_cache">Preberanie nie je možné dokončiť. V internom úložisku na prevzaté súbory nie je dostatok miesta.</string>	
     <string name="dialog_insufficient_space_on_external">Preberanie nie je možné dokončiť. V externom úložisku nie je dostatok miesta.</string>	
     <string name="dialog_media_not_found">Nepodarilo sa prevziať. Externé médium nie je k dispozícii.</string>	

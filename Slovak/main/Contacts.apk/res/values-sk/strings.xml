@@ -123,6 +123,8 @@
     <string name="clearFrequentsConfirmation_title">Vymazať zoznam častých kontaktov?</string>
     <string name="clearFrequentsProgress_title">Mazanie zoznamu častých kontaktov...</string>
     <string name="click_close">Kliknite pre zatvorenie</string>
+    <string name="cloud_antispam_summary">Filtrovať hovory a správy cez Wi-Fi a mobilné dáta</string>
+    <string name="cloud_antispam_title">Strážca Cloudu</string>
     <string name="composer_failed_to_get_database_infomation">Načítanie informácií z databázy sa nepodarilo</string>
     <string name="composer_has_no_exportable_contact">Nemožno exportovať žiadne kontakty. Ak máte v telefóne skutočne uložené kontakty, je možné, že poskytovateľ dátových služieb zakázal ich export mimo telefón.</string>
     <string name="composer_not_initialized">Editor vCard nie je správne inicializovaný</string>
@@ -626,6 +628,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="option_view_group">Zobraziť</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
     <string name="organizationLabelsGroup">Organizácia</string>
+    <string name="other_contacts">Ostatní</string>
     <string name="other_phone">ostatné telefóny</string>
     <string name="payphone">Verejný telefón</string>
     <string name="people">Kontakty</string>
@@ -868,6 +871,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="social_widget_loading">Nahrávam …</string>
     <string name="splitConfirmation"> Skutočne chcete tento kontakt rozdeliť na viac kontaktov? Pre každú pripojenú kontaktnú informáciu bude vytvorený samostatný kontakt.</string>
     <string name="splitConfirmation_title">Oddeliť kontakt</string>
+    <string name="starred_contacts">Obľúbené</string>
     <string name="starredList">Označené hviezdičkou</string>
     <string name="status_available">Dostupný</string>
     <string name="status_away">Preč</string>

@@ -39,6 +39,8 @@
     <string name="disable_find_device_error">%1$s, vypnutie zisťovania polohy zariadenia zlyhalo</string>	
     <string name="email_already_be_used">Emailová adresa už je použitá</string>	
     <string name="enable_find_device_error">%1$s, zapnutie zisťovania polohy zariadenia zlyhalo</string>	
+    <string name="error_account_changed_summary">Váš účet Xiaomi bol aktualizovaný. Skontrolujte si svoje údaje a skúste to znova.</string>
+    <string name="error_account_changed_title">Účet aktualizovaný</string>
     <string name="error_auth_summary">Overenie účtu zlyhalo, skúste to opäť</string>	
     <string name="error_auth_title">Chyba účtu</string>	
     <string name="error_common_summary">Chyba systému, skúste to neskôr</string>	
@@ -193,6 +195,7 @@
     <string name="progress_success_title">Navýšenie %1$s Mi kreditov úspešné</string>
     <string name="progress_voucher_creating">Aktualizovanie Mi kreditov...</string>
     <string name="progress_warning_contact_server">"Správa nebola doručená: 1. Kontaktujte zákaznícku podporu na: %1$s 2. Vaše sériové číslo: %2$s"</string>	
+    <string name="progress_warning_waiting">Zmeny na Vašom účte sa stále aktualizujú. Skúste to opäť neskôr.</string>
     <string name="quick_login_title">Je vyžadované overenie, prosím, vložte vaše heslo</string>	
     <string name="reg_by_email_failure">Registrácia sa nepodarila: %1$s</string>	
     <string name="reg_failed">Registrácia sa nepodarila</string>	

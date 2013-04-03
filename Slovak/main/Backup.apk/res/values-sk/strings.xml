@@ -170,8 +170,12 @@
 <string name="task_restore_cancel_progress">Zastavujem...</string>
 <string name="task_restore_finished_local">Obnovenie dokončené</string>
 <string name="task_restore_none">Obnovenie nie je potrebné</string> 
+<string name="task_running_backup_dialog">Záloha prebieha na pozadí, stlačte OK pre jej zobrazenie.</string>
+<string name="task_running_backup_hint">Záloha prebieha na pozadí, skúste to neskôr!</string>
 <string name="task_running_dialog">Zálohovanie a obnova dát prebieha na pozadí, pre zobrazenie stlačte OK.</string>    
 <string name="task_running_hint">Služba beží na pozadí, skúste obnovu neskôr!</string>
+<string name="task_running_restore_dialog">Obnova prebieha na pozadí, stlačte OK pre jej zobrazenie.</string>
+<string name="task_running_restore_hint">Obnova prebieha na pozadí, skúste to neskôr!</string>
 <string name="task_service_not_launched">Zálohovanie nie je spustené, čakajte prosím!</string>
 <string name="task_stopped_exception">Operácia bola zastavená</string>
 <string name="total_num">Celkom záznamov: %d</string>
