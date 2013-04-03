@@ -48,8 +48,8 @@
     <string name="pref_title_record_type">Typ súboru</string>	
     <string name="prefDefault_recordType">audio/3gpp</string>	
     <string name="prefDialogTitle_recordType">Typ nahrávaného súboru</string>	
-    <string name="preference_led_indicator">Indikácia nahrávania ak je telefón uzamknutý</string>
-    <string name="preference_led_indicator_prompt">Blikať LED a informácie v oznamovacej lište počas nahrávania a uzamknutom telefóne</string>
+    <string name="preference_led_indicator">Indikácia nahrávania</string>
+    <string name="preference_led_indicator_prompt">Blikať LED a zobraziť v oznamovacej lište počas nahrávania s uzamknutým telefónom</string>
     <string name="preferences_title">Nastavenie</string>	
     <string name="record_list">Zoznam nahrávok</string>	
     <string name="record_name_hour">.</string>
