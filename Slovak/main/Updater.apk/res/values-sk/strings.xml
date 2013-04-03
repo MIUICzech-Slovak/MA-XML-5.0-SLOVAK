@@ -13,7 +13,7 @@
     <string name="apply_update_dialog_cancel_button">Zruš</string>
     <string name="apply_update_dialog_update_button">Aktualizovať</string>
     <string name="apply_update_fail">Aktualizácia systému zlyhala</string>
-    <string name="apply_update_timer">Aktualizácia je dokončená，telefón sa reštartuje o %d sekúnd</string>
+    <string name="apply_update_timer">Aktualizácia je dokončená, telefón sa reštartuje o %d sekúnd</string>
     <string name="apply_upload_info_message">Kliknutím na Aktualizuj teraz sa automaticky telefón reštartuje aby prebehla aktualizácia.</string>
     <string name="apply_upload_info_message_manually">Po vypnutí, spustite Recovery a aplikovať aktualizáciu %s na SD karte. Ak chcete zálohovať svoje dáta, zálohujte ich a potom sa vráťte k aktualizácii systému.</string>
     <string name="applying_rom_message">Použiť aktualizáciu</string>
