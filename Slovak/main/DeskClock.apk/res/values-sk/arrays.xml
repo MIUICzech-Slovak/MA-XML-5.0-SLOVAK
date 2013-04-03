@@ -41,7 +41,7 @@
     <string-array name="alarm_repeat_type">
         <item>Raz</item>
         <item>Každý deň</item>
-        <item>Pracovné dni</item>
+        <item>Pracovné dni (v Číne)</item>
         <item>Pondelok až Piatok</item>
         <item>Vlastné</item>
     </string-array>
