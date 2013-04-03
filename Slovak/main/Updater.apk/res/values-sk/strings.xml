@@ -111,7 +111,7 @@
     <string name="sign_in_info_rank_more">Vaše umiestnenie v rebríčku aktualizácií je po %1$s \n Viac ako %2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
     <string name="sign_in_info_total_more">Vaše umiestnenie v rebríčku aktualizácií je %1$s \n Viac ako %2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
     <string name="stable_build">Stabilné verzie</string>
-    <string name="start_update">Spusti aktualizáciu</string>
+    <string name="start_update">Aktualizovať</string>
     <string name="submit">Odoslať</string>
     <string name="submit_fail">Odoslanie zlyhalo</string>
     <string name="submit_progress">Odosielanie...</string>
