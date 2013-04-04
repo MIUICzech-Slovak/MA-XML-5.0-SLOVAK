@@ -116,11 +116,11 @@
     <string name="submit_fail">Odoslanie zlyhalo</string>
     <string name="submit_progress">Odosielanie...</string>
     <string name="submit_success">Odoslané. Ďakujeme!</string>
-    <string name="system_backup_apply_helper">Telefón sa automaticky reštartuje pre aplikovanie aktualizácie</string>
+    <string name="system_backup_apply_helper">"Telefón sa automaticky reštartuje pre aplikovanie aktualizácie. "</string>
     <string name="system_backup_ask">Opýtať sa znova</string>
     <string name="system_backup_button_text">Vytvorenie zálohy systému</string>
     <string name="system_backup_cancel_text">Reštartuj kvôli aktualizácií</string>
-    <string name="system_backup_download_helper">Telefón sa po stiahnutí automaticky reštartuje pre aplikovanie aktualizácie</string>
+    <string name="system_backup_download_helper">Telefón sa po stiahnutí automaticky reštartuje pre aplikovanie aktualizácie.</string>
     <string name="system_backup_error_message">MIUI záloha nebola nájdená, prosím zálohujte manuálne.</string>
     <string name="system_backup_ok_text">Zálohovať</string>
     <string name="system_backup_helper">Aktualizácia nevymaže vaše užívateľské dáta. Avšak odporúča sa v rámci bezpečnosti tieto dáta zálohovať.</string>
