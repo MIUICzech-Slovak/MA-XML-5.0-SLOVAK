@@ -56,6 +56,7 @@
     <string name="security_settings_desc">Povoliť aplikácii nasledovné:</string>
     <string name="settings">Nastavenia</string>
     <string name="trust_switch_dialog_msg">"MIUI si nebude pýtať potvrdenie operácií tejto aplikácie ktoré môžu ohroziť Vašu bezpečnosť. \nVeríte tejto aplikácií?"</string>
+    <string name="unknown_installer">Neznámy inštalátor</string>
     <string name="uninstall_activity_text">Aktivita %1$s je súčasťou nasledujúcej aplikácie:</string>
     <string name="uninstall_application_text">Chcete túto aplikáciu odinštalovať?</string>
     <string name="uninstall_application_title">Odinštalovať aplikáciu</string>
