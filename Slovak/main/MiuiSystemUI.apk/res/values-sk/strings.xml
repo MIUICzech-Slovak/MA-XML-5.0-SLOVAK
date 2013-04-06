@@ -96,7 +96,7 @@
     <string name="ext_media_nofs_notification_title">Prázdne USB úložisko</string>	
     <string name="ext_media_nomedia_notification_message">USB úložisko odobrané. Pripojte nové médium.</string>	
     <string name="ext_media_nomedia_notification_title">Odobrané USB úložisko</string>	
-    <string name="ext_media_safe_remove">Bezpečne odobrať USB úložisko</string>
+    <string name="ext_media_safe_remove">Odpojiť</string>
     <string name="ext_media_safe_unmount_notification_message">Môžete bezpečne odobrať USB úložisko.</string>	
     <string name="ext_media_safe_unmount_notification_title">USB úložisko bezpečne odobrané</string>	
     <string name="ext_media_unmountable_notification_message">USB úložisko poškodené. Možno je potrebné preformátovať.</string>	
