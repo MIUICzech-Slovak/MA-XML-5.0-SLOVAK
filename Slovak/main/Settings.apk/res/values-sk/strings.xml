@@ -1062,7 +1062,7 @@
     <string name="memory_downloads_usage">Sťahovanie</string>	
     <string name="memory_media_misc_usage">Rôzne</string>	
     <string name="memory_media_usage">Média</string>	
-    <string name="memory_music_usage">Zvuk (hudba, vyzváňacie tóny, podcasty atd.)</string>	
+    <string name="memory_music_usage">Audio súbory</string>	
     <string name="memory_size">Celková pamäť</string>	
     <string name="menu_cancel">Zrušiť</string>	
     <string name="menu_delete">Zmazať názov prístupového bodu</string>	
