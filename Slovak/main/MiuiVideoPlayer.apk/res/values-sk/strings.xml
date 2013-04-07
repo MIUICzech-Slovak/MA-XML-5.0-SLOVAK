@@ -16,7 +16,7 @@
     <string name="buffering">Ukladanie do vyrovnávacej pamäte...</string>
     <string name="buffering_video_netplay_label_v5">Ukladanie do vyrovnávacej pamäte...</string>
     <string name="loading_video_netplay_label">Načítavanie, čakajte prosím...</string>
-    <string name="loading_video_netplay_label_v5">Načítava sa visdeo, Čakajte prosím...</string>
+    <string name="loading_video_netplay_label_v5">Načítava sa video, čakajte prosím...</string>
     <string name="menu_item_about_label">O aplikácií</string>
     <string name="menu_item_hide_media_info_label">Skryť info o videu</string>
     <string name="menu_item_media_info_label">Informácie o videu</string>
