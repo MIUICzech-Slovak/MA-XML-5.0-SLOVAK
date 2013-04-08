@@ -15,7 +15,7 @@
     <string name="day_of_month">" %d"</string>
     <string name="delete">Vymazať</string>
     <string name="double_seventh_day" />
-    <string name="emergency_call_string">Pohotovosť</string>
+    <string name="emergency_call_string">SOS</string>
     <string name="error_forbidden">Váš účet má nejaké problémy. Synchronizácia je vypnutá.</string>
     <string name="error_not_acceptable">Server má problémy. Synchronizácia je vypnutá.</string>
     <string name="error_title">Chyba synchr. pre %s</string>
@@ -38,7 +38,7 @@
     <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
     <string name="fools_day" />    
     <string name="force_exit_message">Úspešne ukončená aplikácia \"%1$s\"</string>
-    <string name="forget_password_string">Zabudnuté heslo</string>
+    <string name="forget_password_string">Pomoc</string>
     <string name="format_time_in_12_hours">%1$s %2$s</string>
     <string name="global_action_privacy_mode_dialog_message">V móde Strážca sú hovory, poznámky, galéria a SMS sú skryté a plochu nie je možno upravovať.</string>
     <string name="global_action_toggle_privacy_mode">Strážca</string>
@@ -139,7 +139,7 @@
     <string name="payphone">Telefónny automat</string>
     <string name="peace_day" />
     <string name="perm_auto_backup">Automatická záloha</string>
-	<string name="perm_data_update_dspt">Povolená aktualizácia dát ochrany</string>
+    <string name="perm_data_update_dspt">Povolená aktualizácia dát ochrany</string>
     <string name="perm_data_update_lab">Aktualizovať dáta</string>
     <string name="perm_payment_dspt">Povoliť aplikáciám platby pomocou platieb Xiaomi</string>
     <string name="perm_payment_lab">Xiaomi platby</string>
