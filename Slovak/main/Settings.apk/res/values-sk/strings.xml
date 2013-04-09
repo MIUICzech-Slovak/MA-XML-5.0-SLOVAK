@@ -941,8 +941,8 @@
     <string name="lock_after_timeout">Automaticky zamknúť</string>	
     <string name="lock_after_timeout_summary">Po %1$s spánku</string>	
     <string name="lock_intro_message">"Svoj telefón môžete chrániť pred neoprávneným použitím pomocou osobného gesta pre odomknutie obrazovky. Body na nasledujúcej obrazovke spojte prstom v akomkoľvek poradí. Spojiť je nutné aspoň štyri body. Ako náhle budete pripravení začať, dotknite sa tlačidlá Ďalší."</string>	
-    <string name="lock_screen_unlock_show">Zobraz heslo displeja priamo</string>	
-    <string name="lock_screen_unlock_show_summary">"Po povolení nepoužívajte iné uzamykanie displeja, choďte len do rozhrania pre uzamykanie"</string>	
+    <string name="lock_screen_unlock_show">Zobraziť heslo displeja okamžite</string>	
+    <string name="lock_screen_unlock_show_summary">"Nepoužívať iné uzamykanie displeja"</string>	
     <string name="lock_settings_picker_settings">Nastaviť zámok obrazovky</string>	
     <string name="lock_settings_picker_title">Vybrať zámok obrazovky</string>	
     <string name="lock_settings_title">Zabezpečenie obrazovky</string>	
@@ -993,7 +993,7 @@
     <string name="lockpattern_recording_intro_header">Urobte gesto odomknutia</string>	
     <string name="lockpattern_restart_button_text">Nakresliť znovu</string>	
     <string name="lockpattern_retry_button_text">Skúsiť znovu</string>	
-    <string name="lockpattern_settings_enable_power_button_instantly_locks">Tlačidlo napájania okamžite zamkne obrazovku</string>	
+    <string name="lockpattern_settings_enable_power_button_instantly_locks">Okamžite zamknúť obrazovku</string>	
     <string name="lockpattern_settings_enable_summary">Obrazovku je potrebné odomknúť gestom ruky.</string>	
     <string name="lockpattern_settings_enable_tactile_feedback_title">Pri dotyku vibrovať</string>	
     <string name="lockpattern_settings_enable_title">Požadovať gesto</string>	
