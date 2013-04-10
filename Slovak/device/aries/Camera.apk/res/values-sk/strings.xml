@@ -119,7 +119,7 @@
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
-  <string name="pref_camera_audio_capture_title">Záznam zvuku</string>
+  <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
   <string name="pref_camera_auto_focus_entry_off">Vypnutý</string>
   <string name="pref_camera_auto_focus_entry_on">Zapnutý</string>
   <string name="pref_camera_auto_focus_title_entry_off">Vypnuté</string>
@@ -204,8 +204,8 @@
   <string name="pref_camera_picture_format_title">Formát fotografie</string>
   <string name="pref_camera_picturesize_entry_1280x720">720p</string>
   <string name="pref_camera_picturesize_entry_1920x1080">2MP</string>
-  <string name="pref_camera_picturesize_entry_3200x1800">6MP</string>
-  <string name="pref_camera_picturesize_entry_3200x2400">8MP</string>
+  <string name="pref_camera_picturesize_entry_3200x1800">6MP 16:9</string>
+  <string name="pref_camera_picturesize_entry_3200x2400">8MP 4:3</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13MP</string>
   <string name="pref_camera_picturesize_professional_entry_1024x768">0.8MP (1024x768)</string>
   <string name="pref_camera_picturesize_professional_entry_1280x720">0.9MP (1280x720)</string>
@@ -359,7 +359,7 @@
   <string name="show_images_only">Zobraziť fotografie</string>
   <string name="show_on_map">Zobraziť na mape</string>
   <string name="show_videos_only">Zobraziť videá</string>
-  <string name="simple_mode_button_text_audio_capture">Ukončiť záznam zvuku</string>
+  <string name="simple_mode_button_text_audio_capture">Ukončiť spúšť zvukom</string>
   <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
