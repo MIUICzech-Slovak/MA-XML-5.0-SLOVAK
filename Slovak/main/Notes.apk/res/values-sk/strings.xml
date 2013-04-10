@@ -52,7 +52,9 @@
     <string name="menu_send_to_desktop">Pridať na plochu</string>
     <string name="menu_setting">Nastavenie</string>
     <string name="menu_share">Zdieľať</string>
+	<string name="menu_stick">Pripnúť</string>
     <string name="menu_title_select_folder">Vyberte zložku</string>
+	<string name="menu_unstick">Odpojiť</string>
     <string name="not_now">Nie teraz</string>
     <string name="note_alert_expired">Ukončené</string>
     <string name="note_link_email">Napísať e-mail</string>
@@ -82,6 +84,6 @@
     <string name="success_sdcard_export">Export úspešný</string>
     <string name="time_picker_dialog_title">Nastaviť čas upozornenia</string>
     <string name="toast_message_add_image_fail">Vloženie obrázku zlyhalo!</string>
-    <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
+	<string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
     <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
 </resources>

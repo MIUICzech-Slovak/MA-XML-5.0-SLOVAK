@@ -72,6 +72,7 @@
   <string name="group_by_location">Polohy</string>
   <string name="group_by_tags">Označenia</string>
   <string name="group_by_time">Času</string>
+  <string name="hand_night_exit_button_text">Ukončiť nočný režim</string>
   <string name="hdr_exit_button_text">Ukončiť HDR</string>
   <string name="height">Výška</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -163,6 +164,7 @@
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_normal">Normálne</string>
   <string name="pref_camera_focusmode_title">Režim ostrenia</string>
+  <string name="pref_camera_hand_night_title">Nočný režim</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -359,6 +361,7 @@
   <string name="show_videos_only">Zobraziť videá</string>
   <string name="simple_mode_button_text_audio_capture">Ukončiť záznam zvuku</string>
   <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
+  <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
   <string name="simple_mode_button_text_panorama">Ukončiť panorámu</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť spomalenú kameru</string>

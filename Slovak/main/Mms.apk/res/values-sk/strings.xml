@@ -214,6 +214,7 @@
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Znova aktivovať Cloud správy</string>
+  <string name="mx_recommend_msg">Povoľte Cloud Správy pre zasielanie správ zdarma</string>
   <string name="mx_warning_notice">SMS bude odoslaná pre aktiváciu Cloud správ. Budú sa účtovať poplatky za prenesené dáta</string>
   <string name="need_download">Čakanie na synchronizáciu...</string> 
   <string name="new_message">Nová správa</string>

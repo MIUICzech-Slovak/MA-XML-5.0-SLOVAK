@@ -192,6 +192,7 @@
     <string name="import_bookmarks_wizard_next">Ďalej</string>	
     <string name="import_bookmarks_wizard_previous">Späť</string>	
     <string name="importing_favorite_files">Importovanie údajov...</string>	
+	<string name="in_incognito">Je aktívny režim inkognito, neukladá sa história navštívených stránok.</string>
     <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
     <string name="instant_search_label">Google s Instant (Labs)</string>	
     <string name="is_first_history_item">Prvý záznam v histórii</string>
@@ -225,6 +226,7 @@
     <string name="new_incognito_tab">Nová inkognito karta</string>	
     <string name="new_tab">Nová karta</string>	
     <string name="not_remind_again">Viac nepripomínať</string> 
+	<string name="notif_install_successful">Sťahovanie dokončené</string>
     <string name="no_subfolders">Žiadne podpriečinky.</string>	
     <string name="ok">OK</string>	
     <string name="open_all_bookmarks">Otvoriť všetko</string>	
@@ -432,6 +434,7 @@
     <string name="tab_history">História</string>	
     <string name="tab_most_visited">Najnavštevovanejšie</string>	
     <string name="tab_opened_background">Karta otvorená na pozadí.</string>	
+	<string name="tab_opened_background_in_incognito">Nové okno inkognito otvorené</string>
     <string name="tab_quicklinks">Rýchle odkazy</string>	
     <string name="tab_snapshots">Uložené stránky</string>	
     <string name="tab_yellowpage">Zlaté stránky</string>	

@@ -14,6 +14,7 @@
     <string name="contact_carrier_message">Obráťte sa na Vášho operátora</string>
     <string name="day_of_month">" %d"</string>
     <string name="delete">Vymazať</string>
+	<string name="device_xiaomi">Xiaomi telefón</string>
     <string name="double_seventh_day" />
     <string name="emergency_call_string">SOS</string>
     <string name="error_forbidden">Váš účet má nejaké problémy. Synchronizácia je vypnutá.</string>
@@ -111,6 +112,7 @@
     <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
     <string name="memory_clear_result">"Uvoľnené: %1$s \nDostupné: %2$s"</string>
     <string name="miui_copyright_title">Autorské práva</string>
+	<string name="miui_device_name">Android</string>
     <string name="miui_mibi_license_title">Podmienky používania Mi kreditov</string>
     <string name="miui_privacy_policy_title">Ochrana osobných údajov</string>
     <string name="miui_unlockscreen_password_wrong">Skúste opäť</string>

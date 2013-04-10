@@ -50,6 +50,8 @@
     <string name="menu_add_list">Pridať zoznam</string>
     <string name="menu_delete">Odstrániť</string>
     <string name="menu_edit">Upraviť</string>
+    <string name="menu_exit">Ukončiť Rádio</string>
+    <string name="menu_jump">Prepnúť na Rádio</string>
     <string name="menu_new_station">Pridať novú stanicu</string>
     <string name="menu_play">Prehrať</string>
     <string name="menu_record_list">Zoznam nahrávok</string>

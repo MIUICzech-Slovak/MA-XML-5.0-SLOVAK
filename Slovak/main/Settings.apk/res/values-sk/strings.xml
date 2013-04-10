@@ -452,6 +452,7 @@
     <string name="camera_key_action_title">MI tlačidlo</string>	
     <string name="camera_key_action_toggle_title">Vyvolať prepínače</string>	
     <string name="cancel">Zrušiť</string>	
+	<string name="cancel_alert">Ukončiť upozornenie?</string>
     <string name="cant_sync_dialog_message">Synchronizácia tejto položky je aktuálne deaktivovaná. Ak chcete nastavenie zmeniť, dočasne zapnite prenos dát na pozadí a automatickú synchronizáciu.</string>	
     <string name="cant_sync_dialog_title">Nemožno ručne synchronizovať</string>	
     <string name="carrier_enabled">Povoliť/zakázať názov prístupového bodu (APN)</string>	
