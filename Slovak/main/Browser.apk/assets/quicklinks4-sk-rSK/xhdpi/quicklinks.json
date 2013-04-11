@@ -32,14 +32,14 @@
             "title":"MIUI",
             "url":"http://forum.miui.cz/",
             "thumbnail":"miui_cz-sk.png",
-            "logobg":"bg07.9.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
-            "title":"Facebook",
+            "title":"miuiandroid",
             "url":"http://miuiandroid.com/community/",
             "thumbnail":"miui-android.png",
-            "logobg":"bg07.9.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
@@ -85,6 +85,6 @@
             "logobg":"bg03.9.png",
             "favicon":""
         },
-        {
+        
     ]
 }
