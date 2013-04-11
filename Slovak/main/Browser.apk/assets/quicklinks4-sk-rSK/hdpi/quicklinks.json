@@ -4,28 +4,28 @@
             "title":"Google",
             "url":"http://www.google.com/",
             "thumbnail":"thumb_google.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
             "title":"Picasa",
             "url":"http://picasaweb.google.com/",
             "thumbnail":"thumb_picasa.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
             "title":"Yahoo!",
             "url":"http://www.yahoo.com/",
             "thumbnail":"thumb_yahoo.png",
-            "logobg":"bg01.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
-            "title":"MSN",
-            "url":"http://www.msn.com/",
-            "thumbnail":"thumb_msn.png",
-            "logobg":"bg01.9.png",
+            "title":"Youtube",
+            "url":"http://www.youtube.com/",
+            "thumbnail":"youtube.png",
+            "logobg":"bg07.9.png",
             "favicon":""
         },
         {
@@ -65,42 +65,26 @@
             "favicon":""
         },
         {
-            "title":"NY Times",
-            "url":"http://www.nytimes.com/",
-            "thumbnail":"thumb_nytimes.png",
-            "logobg":"bg01.9.png",
+            "title":"Zive",
+            "url":"http://www.zive.cz/",
+            "thumbnail":"zive.png",
+            "logobg":"bg05.9.png",
             "favicon":""
         },
         {
-            "title":"ESPN",
-            "url":"http://espn.com/",
-            "thumbnail":"thumb_espn.png",
-            "logobg":"bg01.9.png",
+            "title":"Twitter",
+            "url":"http://www.twitter.com/",
+            "thumbnail":"thumb_twitter.png",
+            "logobg":"bg03.9.png",
             "favicon":""
         },
         {
-            "title":"Amazon",
-            "url":"http://www.amazon.com/",
-            "thumbnail":"thumb_amazon.png",
-            "logobg":"bg01.9.png",
-            "favicon":"",
-            "hidden":"true"
-        },
-
-        {
-            "title":"Weather Channel",
-            "url":"http://www.weather.com/",
-            "thumbnail":"thumb_weatherchannel.png",
-            "logobg":"bg01.9.png",
+            "title":"SHMU",
+            "url":"http://www.shmu.sk/",
+            "thumbnail":"shmu.png",
+            "logobg":"bg03.9.png",
             "favicon":""
         },
         {
-            "title":"BBC",
-            "url":"http://www.bbc.co.uk/",
-            "thumbnail":"thumb_bbc.png",
-            "logobg":"bg01.9.png",
-            "favicon":"",
-            "hidden":"true"
-        }
     ]
 }
