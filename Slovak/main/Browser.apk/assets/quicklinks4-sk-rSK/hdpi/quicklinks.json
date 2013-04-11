@@ -56,7 +56,6 @@
             "logobg":"bg09.9.png",
             "favicon":""
         },
-
         {
             "title":"Pravda",
             "url":"http://www.pravda.sk/",
@@ -84,7 +83,6 @@
             "thumbnail":"shmu.png",
             "logobg":"bg03.9.png",
             "favicon":""
-        },
-        
+        }
     ]
 }
