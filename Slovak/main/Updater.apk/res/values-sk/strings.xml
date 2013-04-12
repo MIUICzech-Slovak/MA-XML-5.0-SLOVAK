@@ -10,7 +10,7 @@
     <string name="apply_later_button_text">Použiť neskôr</string>
     <string name="apply_now_button_text">Aktualizovať</string>
     <string name="apply_unable_to_reboot_toast">Nemožno reštartovať do recovery</string>
-    <string name="apply_update_dialog_cancel_button">Zruš</string>
+    <string name="apply_update_dialog_cancel_button">Zrušiť</string>
     <string name="apply_update_dialog_update_button">Aktualizovať</string>
     <string name="apply_update_fail">Aktualizácia systému zlyhala</string>
     <string name="apply_update_timer">Aktualizácia je dokončená, telefón sa reštartuje o %d sekúnd</string>
@@ -142,7 +142,7 @@
     <string name="upgrade_kernel_msg">"Verzia kernelu nesúhlasí s MIUI ROM. Musíte aktualizovať kernel manuálne. Postup aktualizácie nájdete tu:"</string>
     <string name="verify_and_apply_dialog_message">Overenie MD5 súčtu...</string>
     <string name="verify_and_apply_dialog_title">Kontrola integrity dát</string>
-    <string name="view_install_log">Zobraziť inštalačný log</string>
+    <string name="view_install_log">Zobraziť záznam</string>
     <string name="view_upgrade_tutorial">Pozrieť návod</string>
     <string name="weekly_build">Týždenné zostavenia</string>
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
