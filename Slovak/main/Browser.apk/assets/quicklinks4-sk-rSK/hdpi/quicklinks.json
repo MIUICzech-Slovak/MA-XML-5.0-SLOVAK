@@ -8,17 +8,17 @@
             "favicon":""
         },
         {
-            "title":"Picasa",
-            "url":"http://picasaweb.google.com/",
-            "thumbnail":"thumb_picasa.png",
-            "logobg":"bg06.9.png",
+            "title":"zmeny-sk",
+            "url":"https://github.com/MIUICzech-Slovak/MA-XML-5.0-SLOVAK/commits/master/",
+            "thumbnail":"change-sk.png",
+            "logobg":"bg09.9.png",
             "favicon":""
         },
         {
-            "title":"Yahoo!",
-            "url":"http://www.yahoo.com/",
-            "thumbnail":"thumb_yahoo.png",
-            "logobg":"bg06.9.png",
+            "title":"zmeny-cz",
+            "url":"https://github.com/MIUICzech-Slovak/MA-XML-5.0-CZECH/commits/master/",
+            "thumbnail":"change-cz.png",
+            "logobg":"bg09.9.png",
             "favicon":""
         },
         {
@@ -43,10 +43,10 @@
             "favicon":""
         },
         {
-            "title":"Wikipedia",
-            "url":"http://www.wikipedia.org/",
-            "thumbnail":"thumb_wikipedia.png",
-            "logobg":"bg01.9.png",
+            "title":"GooglePlus",
+            "url":"https://plus.google.com/b/112639661139919214988/112639661139919214988/posts/",
+            "thumbnail":"g_plus.png",
+            "logobg":"bg07.9.png",
             "favicon":""
         },
         {
@@ -57,10 +57,10 @@
             "favicon":""
         },
         {
-            "title":"Pravda",
-            "url":"http://www.pravda.sk/",
-            "thumbnail":"pravda.png",
-            "logobg":"bg06.9.png",
+            "title":"Twitter-CZ",
+            "url":"https://twitter.com/MIUICzech/",
+            "thumbnail":"thumb_twitter-cz.png",
+            "logobg":"bg03.9.png",
             "favicon":""
         },
         {
@@ -71,9 +71,9 @@
             "favicon":""
         },
         {
-            "title":"Twitter",
-            "url":"http://www.twitter.com/",
-            "thumbnail":"thumb_twitter.png",
+            "title":"Twitter-SK",
+            "url":"https://twitter.com/MIUIslovak/",
+            "thumbnail":"thumb_twitter-sk.png",
             "logobg":"bg03.9.png",
             "favicon":""
         },
@@ -81,7 +81,7 @@
             "title":"SHMU",
             "url":"http://www.shmu.sk/",
             "thumbnail":"shmu.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg11.9.png",
             "favicon":""
         }
     ]
