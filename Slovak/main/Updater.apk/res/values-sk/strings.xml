@@ -22,7 +22,7 @@
     <string name="boot_recovery">Reštart do Recovery</string>
     <string name="cancel_download_buton_text">Zrušiť</string>
     <string name="confirm_download_cancelation_dialog_message">Ste si istý že chcete zrušiť vybrané sťahovanie?</string>
-    <string name="copy_install_log">Skopírovať log do schránky</string>
+    <string name="copy_install_log">Skopírovať</string>
     <string name="current_version_text">Súčasná verzia\u0020</string>
     <string name="current_version_update_monthly_build">Súčasná verzia (Aktualizácia mesačných verzií)</string>
     <string name="daily_build">Denná verzia</string>
@@ -97,7 +97,7 @@
     <string name="sdcard_has_no_space_dialog_title">Na SD karte ostáva málo voľného priestoru</string>
     <string name="sdcard_is_not_present_dialog_body">SD karta nebola pripojená alebo sa z nej nedalo čítať. Prosím skúste to znova.</string>
     <string name="sdcard_is_not_present_dialog_title">SD karta nenájdená</string>
-    <string name="send_install_log">Odoslať inštalačný log</string>
+    <string name="send_install_log">Odoslať</string>
     <string name="send_install_log_error">Nepodarilo sa odoslať inštalačný log</string>
     <string name="share">Zdieľať</string>
     <string name="share_qq">Zverejniť cez Tencent weibo</string>
