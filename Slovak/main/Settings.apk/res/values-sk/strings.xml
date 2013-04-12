@@ -78,6 +78,7 @@
     <string name="android_beam_off_summary">Vypnuté</string>	
     <string name="android_beam_on_summary">Prenos obsahu aplikácie prostredníctvom NFC je pripravený</string>	
     <string name="android_beam_settings_title">Android Beam</string>
+    <string name="android_beam_witch_label">Povoliť Android Beam</string>
     <string name="animator_duration_scale_title">Doba trvania animácií</string>	
     <string name="apn_apn">Názov AP</string>	
     <string name="apn_auth_type">Typ overenia</string>	
