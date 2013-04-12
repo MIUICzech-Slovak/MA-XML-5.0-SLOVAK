@@ -8,7 +8,8 @@
   <string name="albums">Albumy</string>
   <string name="aperture">Uzávierka</string>
   <string name="auto">Auto</string>
-  <string name="bg_replacement_message">"Nasmerujte svoj telefón nadol, opustite na chvíľu náhľad"</string>
+  <string name="bg_replacement_message">"Nasmerujte svoj telefón nadol, 
+  opustite na chvíľu náhľad"</string>
   <string name="camera_disabled">Fotoaprát bol z dôvodu bezpečnosti deaktivovaný.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
@@ -173,6 +174,8 @@
   <string name="pref_camera_histogram_entry_disable">Vypnutý</string>
   <string name="pref_camera_histogram_entry_enable">Zapnutý</string>
   <string name="pref_camera_histogram_title">Histogram</string>
+  <string name="pref_camera_id_entry_back">Zadná</string>
+  <string name="pref_camera_id_entry_front">Predná</string>
   <string name="pref_camera_id_title">Vybrať kameru</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
   <string name="pref_camera_iso_entry_iso100">ISO100</string>
@@ -335,7 +338,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_4">4x</string>
   <string name="pref_video_time_lapse_frame_interval_entry_50">50x</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časozberný interval</string>
-  <string name="preparing_sd">Príprava SD karty...</string>
+  <string name="preparing_sd">Príprava úložiska...</string>
   <string name="record_back_pressed_hint">Stlačte opäť pre zastavenie nahrávania</string>
   <string name="resume_playing_message">Pokračovať prehrávanie od %s ?</string>
   <string name="resume_playing_restart">Reštart</string>
