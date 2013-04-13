@@ -70,8 +70,8 @@
         <item>Odpojovanie...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
-	    <item>Blokované</item>
-	    <item>Dočasne nedostupná kvôli slabému signálu</item>
+        <item>Blokované</item>
+        <item>Dočasne nedostupná kvôli slabému signálu</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -84,8 +84,8 @@
         <item>Odpojovanie od siete %1$s...</item>
         <item>Odpojené</item>
         <item>Neúspešné</item>
-	    <item>Blokované</item>
-	    <item>Dočasne nedostupná kvôli slabému signálu</item>
+        <item>Blokované</item>
+        <item>Dočasne nedostupná kvôli slabému signálu</item>
 	</string-array>
     <string-array name="wifi_ap_security">
         <item>Nezabezpečená</item>
@@ -364,14 +364,14 @@
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP alebo starší</item>
-        <item>Windows Vista alebo novší</item>
+        <item>Windows Vista,7,8</item>
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
     <string-array name="msd_pc_system_install_start_summary">
         <item>"Pre Windows XP a staršie systémy,
 musí byť ovládač nainštalovaný manuálne"</item>
-        <item>"Pre Windows Vista a novšie systémy,
+        <item>"Pre Windows Vista a Win7,8,
 sa Xiaomi Mi2 zobrazí ako prehrávač hudby MTP"</item>
         <item>"Pre operačný systém Mac OS,
 musí byť ovládač nainštalovaný manuálne"</item>
@@ -397,7 +397,7 @@ Teraz môžete kopírovať súbory"</item>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>"Ak nainštalujete tento ovládač
 Mi2 úložisko sa zobrazí vo Vašom počítači"</item>
-        <item>"Pre Windows Vista alebo novšie,
+        <item>"Pre Windows Vista a Win7,8,
 sa Mi2 zobrazí ako prehrávač hudby vo Vašom počítači"</item>
         <item>"Ak nainštalujete tento ovládač
 Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
