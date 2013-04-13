@@ -29,7 +29,7 @@
     <string name="auto_correct_id3_settings">Nastavenia ID3 opráv</string>
     <string name="auto_correct_id3_summary">Automaticky sa upravia ID3 tagy počas prehrávania skladby.</string>
     <string name="batch_correct_id3_completed">Dávková oprava ID3 je dokončená!</string>
-    <string name="billboard">Billboard</string>
+    <string name="billboard">Hitparáda</string>
     <string name="buffering">Načítavam...</string>
     <string name="cancel">Zrušiť</string>
     <string name="cancel_sleep_mode">Časovač zastavený</string>
@@ -189,7 +189,7 @@
     <string name="quit_warining">Prehrávač zastaví prehrávanie o %d minút</string>
     <string name="recentlyadded_title">Naposledy pridané</string>
     <string name="recentlyplayed_title">Naposledy prehrávané</string>
-    <string name="recommend">Odporučiť</string>
+    <string name="recommend">Odporúčané</string>
     <string name="refresh_finish">Aktualizácia dokončená</string>
     <string name="refresh_in_processing">Aktualizujem...</string>
     <string name="refresh_media_db">Aktualizovať</string>
