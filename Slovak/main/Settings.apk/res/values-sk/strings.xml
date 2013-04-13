@@ -1095,15 +1095,13 @@
     <string name="msd_install">Inštalovať ovládač</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Ďalej</string>
-    <string name="msd_install_retry_linux">"Ak Váš počítač nerozpozná telefón,
- Skúste nasledovné:
- 1) Použite príkaz: sudo aptitude install mtpfs libfuse-dev libmad0-dev
- 2) Vytvorte zložku: mkdir /media/mtp
- 3) Potvrďte oprávnenia skupiny pre súčasnú skupinu používateľov
- 4) Opäť sa prihláste
- 5) Prejdite do pripojených zariadení mtpfs /media/mtp cez File Explorer
- 6) Odinštalujte zariadenie fusermount -u /media/mtp
-  Poznámka: Platí len pre linux Ubuntu 8.04 a vyššie"</string>
+    <string name="msd_install_retry_linux">"Ak počítač nevie rozpoznať Xiaomi Mi2
+na systéme Ubuntu 12.xx pokračujte podľa tohto návodu:
+<a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
+
+Pozor: Ubuntu 13.04 a novšie
+uż obsahuje MTP ovládač. 
+"</string>
     <string name="msd_install_retry_mac">"Ak počítač nenašiel Váš telefón, skúste nasledovné:"</string>
     <string name="msd_install_retry_windows_vista" />
     <string name="msd_install_retry_windows_xp">"Ak počítač nenašiel Váš telefón, skúste nasledovné:"</string>
