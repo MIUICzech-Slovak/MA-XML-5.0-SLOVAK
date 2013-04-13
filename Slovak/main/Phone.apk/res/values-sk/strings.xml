@@ -337,14 +337,14 @@
     <string name="dial_emergency_error">Hovor nemožno spojiť, %s nie je číslo núdzového volania.</string>
     <string name="dial_related_setting_catory_miui">Vytočiť</string>
     <string name="dialerKeyboardHintText">Číslo vytočíte pomocou klávesnice.</string>
-    <string name="disable">Vypnúť</string>
+    <string name="disable">Vypnuté</string>
     <string name="disable_all_cf_miui">Zrušiť presmerovanie hovorov</string>
     <string name="disable_cfb_forbidden">Váš operátor neumožňuje deaktiváciu presmerovania, ak je telefón obsadený.</string>
     <string name="disable_cfnrc_forbidden">Váš operátor neumožňuje deaktiváciu presmerovania, ak je telefón nedostupný.</string>
     <string name="disable_cfnry_forbidden">Váš operátor neumožňuje deaktiváciu presmerovania, ak telefón neodpovedá.</string>
     <string name="disable_fdn">Funkcia PTČ je VYPNUTÁ</string>
     <string name="disable_fdn_ok">Zapnúť funkciu PTČ</string>
-    <string name="disable_miui">Vypnúť</string>
+    <string name="disable_miui">Vypnuté</string>
     <string name="disable_pin_ok">Kód PIN karty SIM je ZAKÁZANÝ.</string>
     <string name="disable_sim_pin">Zakázať kód PIN karty SIM</string>
     <string name="disable_sim_pin_miui">Vypnúť SIM PIN</string>

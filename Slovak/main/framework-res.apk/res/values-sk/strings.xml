@@ -1233,4 +1233,8 @@ pre účet %s"</string>
     <string name="default_audio_route_category_name">Systém</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth audio</string>
     <string name="media_route_chooser_grouping_done">Hotovo</string>
+	<string name="managed_roaming_title">Roaming</string>
+    <string name="managed_roaming_dialog_content">Našla sa sieť s obmedzenými službami. Chcete aktivovať hľadanie sietí?</string>
+    <string name="managed_roaming_dialog_ok_button">Áno</string>
+    <string name="managed_roaming_dialog_cancel_button">Nie</string>
 </resources>
