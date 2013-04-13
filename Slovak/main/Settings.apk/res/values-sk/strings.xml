@@ -1102,9 +1102,19 @@ na systéme Ubuntu 12.xx pokračujte podľa tohto návodu:
 Pozor: Ubuntu 13.04 a novšie
 uż obsahuje MTP ovládač. 
 "</string>
-    <string name="msd_install_retry_mac">"Ak počítač nenašiel Váš telefón, skúste nasledovné:"</string>
-    <string name="msd_install_retry_windows_vista" />
-    <string name="msd_install_retry_windows_xp">"Ak počítač nenašiel Váš telefón, skúste nasledovné:"</string>
+    <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
+Try the following:
+"<li>"Do a computer search for
+Android File Transfer
+for MAC"</li>"
+"<li>Disconnect the MI 2 to computer USB cable and reconnect.</li>"
+"<li>Re-install the driver.</li></string>
+    <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi Mi2,
+skúste:
+"<li>Odpojiť telefón z USB a pripojiť opäť.</li></string>
+    <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi Mi2,
+skúste:
+"<li>Odpojiť telefón z USB a pripojiť opäť.</li></string>
     <string name="msd_install_status_done">Ovládač už je nainštalovaný</string>
     <string name="msd_install_status_undo">Inštalovať ovládač</string>
     <string name="msd_install_succeed">Ovládač je nainštalovaný</string>
