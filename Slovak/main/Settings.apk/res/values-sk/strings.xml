@@ -1911,7 +1911,7 @@ skúste:
     <string name="usb_ptp_title">Fotoaparát (PTP)</string>	
     <string name="usb_tethering_active_subtext">Zdieľané</string>	
     <string name="usb_tethering_available_subtext">Pripojenie USB je k dispozícii. Ak chcete vytvoriť zdieľané dátové pripojenie, vyberte ich.</string>	
-    <string name="usb_tethering_button_text">Zdieľané dátové pripojenie prostredníctvom portu USB</string>	
+    <string name="usb_tethering_button_text">Zdieľané pripojenie cez USB</string>	
     <string name="usb_tethering_errored_subtext">Chyba zdieľania dátového pripojenia prostrednictvom USB</string>	
     <string name="usb_tethering_storage_active_subtext">Nie je možné zdieľať dátové pripojenie, pokiaľ sa používa úložisko USB</string>	
     <string name="usb_tethering_unavailable_subtext">Pripojenie USB nie je k dispozícií</string>	
