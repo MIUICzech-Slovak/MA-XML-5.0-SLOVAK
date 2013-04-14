@@ -4,7 +4,7 @@
             "title":"Google",
             "url":"http://www.google.com/",
             "thumbnail":"thumb_google.png",
-            "logobg":"bg06.9.png",
+            "logobg":"bg09.9.png",
             "favicon":""
         },
         {
@@ -50,10 +50,10 @@
             "favicon":""
         },
         {
-            "title":"eBay",
-            "url":"http://www.ebay.com/",
-            "thumbnail":"thumb_ebay.png",
-            "logobg":"bg09.9.png",
+            "title":"Picasa",
+            "url":"http://picasaweb.google.com/",
+            "thumbnail":"thumb_picasa.png",
+            "logobg":"bg07.9.png",
             "favicon":""
         },
         {
@@ -64,9 +64,9 @@
             "favicon":""
         },
         {
-            "title":"Zive",
-            "url":"http://www.zive.cz/",
-            "thumbnail":"zive.png",
+            "title":"ibuygou",
+            "url":"http://www.ibuygou.com//",
+            "thumbnail":"ibuy.png",
             "logobg":"bg05.9.png",
             "favicon":""
         },
