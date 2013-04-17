@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_fail_unknown_error">Operácia zlyhala z neznámeho dôvodu.</string>
   <string name="activity_not_found">Nie je dostupná žiadna aplikácia na dokončenie akcie.</string>
   <string name="add_account">Pridať účet</string>
   <string name="add_to_cloud_album">Pridať do Cloudu</string>

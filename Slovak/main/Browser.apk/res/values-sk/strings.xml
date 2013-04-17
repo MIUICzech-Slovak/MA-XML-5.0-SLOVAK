@@ -427,7 +427,8 @@
     <string name="ssl_unknown">Neznáma chyba certifikátu.</string>	
     <string name="ssl_untrusted">"Tento certifikát nepochádza od dôveryhodnej autority."</string>	
     <string name="ssl_warnings_header">Vyskytli sa problémy s bezpečnostným certifikátom pre túto stránku.</string>	
-    <string name="stop">Stop</string>	
+    <string name="stop">Zastaviť</string>	
+    <string name="stop_loading">Zastaviť</string>
     <string name="stopping">Zastavovanie...</string>	
     <string name="tab_bookmarks">Záložky</string>	
     <string name="tab_closed">Karta zatvorená.</string>	

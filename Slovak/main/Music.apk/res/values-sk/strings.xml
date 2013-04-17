@@ -184,6 +184,7 @@
     <string name="playlist_recently_played">Nedávno prehrávané</string>
     <string name="playlist_renamed_message">Playlist premenovaný.</string>
     <string name="playlists_title">Playlisty</string>
+    <string name="powered_by">Poskytuje</string>
     <string name="queue">Aktuálny playlist</string>
     <string name="quit_player">Ukončiť</string>
     <string name="quit_warining">Prehrávač zastaví prehrávanie o %d minút</string>
@@ -199,6 +200,7 @@
     <string name="rename_album_menu">Premenovať album</string>
     <string name="rename_artist_menu">Premenovať umelca</string>
     <string name="rename_playlist_menu">Premenovať</string>
+    <string name="retry">Skúsiť znova</string>
     <string name="ringtone_menu">Použiť ako vyzváňanie telefónu</string>
     <string name="ringtone_set">\"%s\" nastavené ako vyzváňanie telefónu.</string>
     <string name="save">Uložiť</string>
