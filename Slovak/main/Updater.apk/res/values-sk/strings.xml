@@ -103,8 +103,8 @@
     <string name="share_qq">Zverejniť cez Tencent weibo</string>
     <string name="share_sina">Zverejniť cez Sina weibo</string>
     <string name="share_update">Zdieľať informácie o systémovej aktualizácii</string>
-    <string name="share_update_content_sign">MIUI bolo aktualizované na %1$s! Moje umiestnenie v rebríčku aktualizovania je %2$s. Pre detailný zoznam zmien, prosím navštívte %3$s.</string>
-    <string name="share_update_content_unsign">MIUI bolo aktualizované na %1$s! Pre detailný zoznam zmien, prosím navštívte %2$s</string>
+    <string name="share_update_content_sign">MIUI bola aktualizovaná na %1$s! Moje umiestnenie v rebríčku aktualizovania je %2$s. Pre detailný zoznam zmien, prosím navštívte %3$s.</string>
+    <string name="share_update_content_unsign">MIUI bola aktualizovaná na %1$s! Pre detailný zoznam zmien, prosím navštívte %2$s</string>
     <string name="sign_in_add_account">Aktivujte Xiaomi účet</string>
     <string name="sign_in_add_account_helper">Váš telefón nemá žiaden aktívny MIUI účet, pridajte účet aby ste dostávali užívateľské body.</string>
     <string name="sign_in_info">Vaše umiestnenie v rebríčku aktualizácií je %1$s \n	%2$s užívateľov sa prihlásilo pre MIUI %3$s</string>
@@ -135,8 +135,8 @@
     <string name="update_monthly_build_only">Aktualizácia iba mesačných verzií</string>
     <string name="update_sad">Nič moc</string>
     <string name="update_success">Aktualizácia bola úspešná!</string>
-    <string name="update_success_body">MIUI aktualizovaná na %s</string>
-    <string name="update_success_title">MIUI úspešne aktualizovaná.</string>
+    <string name="update_success_body">na verziu %s</string>
+    <string name="update_success_title">MIUI aktualizovaná</string>
     <string name="upgrade_close">Zavrieť</string>
     <string name="upgrade_kernel">Kernel je potrebné aktualizovať</string>
     <string name="upgrade_kernel_msg">"Verzia kernelu nesúhlasí s MIUI ROM. Musíte aktualizovať kernel manuálne. Postup aktualizácie nájdete tu:"</string>
