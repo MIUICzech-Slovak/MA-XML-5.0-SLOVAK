@@ -40,7 +40,7 @@
     <string name="answer_widget_sliding_horizontal_miui">Horizontálne posunutie</string>
     <string name="answer_widget_sliding_vertical_miui">Vertikálne posunutie</string>
     <string name="answer_widget_title_miui">Gesto prijatia hovoru</string>
-    <string name="antispam_marked_count">Označilo %1$d ľudí</string>
+    <string name="antispam_marked_count">Odmietlo %1$d ľudí</string>
     <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_notification_title">Zistené neznáme číslo</string>
     <string name="apn_settings">Názvy prístupových bodov (APN)</string>
