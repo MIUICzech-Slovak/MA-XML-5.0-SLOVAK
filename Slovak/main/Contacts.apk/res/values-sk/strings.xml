@@ -123,9 +123,9 @@
     <string name="clearFrequentsConfirmation_title">Vymazať zoznam častých kontaktov?</string>
     <string name="clearFrequentsProgress_title">Mazanie zoznamu častých kontaktov...</string>
     <string name="click_close">Kliknite pre zatvorenie</string>
-	<string name="cloud_antispam_mark">Spam</string>
+    <string name="cloud_antispam_mark">Spam</string>
     <string name="cloud_antispam_summary">Filtrovať hovory a správy cez Wi-Fi a mobilné dáta</string>
-    <string name="cloud_antispam_title">Strážca Cloudu</string>
+    <string name="cloud_antispam_title">Anti-Spam</string>
     <string name="composer_failed_to_get_database_infomation">Načítanie informácií z databázy sa nepodarilo</string>
     <string name="composer_has_no_exportable_contact">Nemožno exportovať žiadne kontakty. Ak máte v telefóne skutočne uložené kontakty, je možné, že poskytovateľ dátových služieb zakázal ich export mimo telefón.</string>
     <string name="composer_not_initialized">Editor vCard nie je správne inicializovaný</string>
