@@ -46,7 +46,7 @@
     <string name="context_call">Hovor %s</string>
     <string name="context_ms">Poslať SMS / MMS</string>
     <string name="context_new_contact">Nový kontakt</string>
-    <string name="custom_mark_category">Vlastné</string>
+    <string name="custom_mark_category">Vlastné označenie</string>
     <string name="edit_blacklist">Upraviť poznámku</string>
     <string name="edit_whitelist">Upraviť poznámku</string>
     <string name="emptylist_fwlog_call">Tu budú zobrazené všetky blokované hovory.</string>
@@ -108,7 +108,7 @@
     <string name="fw_time_settings">Nastavenie času blokovania</string>
     <string name="fw_whitelist">Biela listina</string>
     <string name="fw_whitelist_hint">Členovia z bielej listiny nebudú blokovaní</string>
-    <string name="mark_number_dialog_maintitle">Označiť neznáme číslo a uložiť</string>
+    <string name="mark_number_dialog_maintitle">Označiť neznáme číslo a uložiť ako:</string>
     <string name="mark_number_dialog_subtitle" />
     <string formatted="false" name="member_firewall_log">Blokované: %d, SMS: %d</string>
     <string name="menu_edit">Upraviť</string>
@@ -132,10 +132,10 @@
     <string name="save_button">Uložiť</string>
     <string name="show_firewall_notification">Zobraziť upozornenie firewallu</string>
     <string name="show_notification">Zobraziť upozornenie</string>
-    <string name="smart_antispam">Zistené neznáme číslo</string>
-    <string name="turn_on_smart_antispam_hint">Neznáme čísla sa budú kontrolovať v databáze otravných hovorov.</string>
+    <string name="smart_antispam">Kontrolovať neznáme čísla</string>
+    <string name="turn_on_smart_antispam_hint">Neznáme čísla sa budú kontrolovať v databáze otravných hovorov a označia sa ako SPAM.</string>
     <string name="turn_on_smart_antispam_summary_off">Prehľadať v kontaktoch</string>
     <string name="turn_on_smart_antispam_summary_on">Funguje iba na Wi-Fi a 3G sieti</string>
-    <string name="turn_on_smart_antispam_title">Zistiť neznáme čísla</string>
+    <string name="turn_on_smart_antispam_title">Kontrolovať neznáme čísla</string>
     <string name="whitelist_tab_title">Biela listina</string>
 </resources>
