@@ -116,6 +116,8 @@
     <string name="app_factory_reset_dlg_text">Všetky aktualizácie tejto aplikácie systému Android budú odinštalované.</string>	
     <string name="app_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>	
     <string name="app_floating_window_dlg">Povoliť \"%1$s\" zobraziť vyskakovacie okno</string>
+	<string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích okien aplikácie %1$s ju násilne ukončí. Ste si istý, že ich chcete zakázať?"</string>
+    <string name="app_floating_window_dlg_enable">"Povolenie vyskakovacích okien pre aplikáciu %1$s vyžaduje jej reštart. Ste si istý, že ich chcete povoliť?"</string>
     <string name="app_forward_locked">Aplikácia je chránená proti kopírovaniu.</string>	
     <string name="app_install_location_summary">Zmena preferovaného umiestnenia pre inštaláciu nových aplikácií</string>	
     <string name="app_install_location_title">Preferované umiestnenie pre inštaláciu</string>	
@@ -798,6 +800,7 @@
     <string name="finish_button_label">Dokončiť</string>	
     <string name="firmware_version">Android</string>	
     <string name="floating_window_switch_label">Zobraziť vyskakovacie okno</string>
+	<string name="floating_window_switch_label_disable">Skryť vyskakovacie okno</string>
     <string name="font_size_huge">Obrovské</string>
     <string name="font_size_large">Veľké</string>
     <string name="font_size_medium">Stredné</string>
@@ -1672,7 +1675,8 @@ skúste:
     <string name="sim_lock_on">K použitiu telefónu je požadovaný PIN</string>	
     <string name="sim_lock_settings">Nastavenie zámku karty SIM</string>	
     <string name="sim_lock_settings_category">Nastavenie zámku karty SIM</string>	
-    <string name="sim_lock_settings_title">Zámok karty SIM</string>	
+    <string name="sim_lock_settings_title">Zámok karty SIM</string>
+    <string name="sim_management_title">Správa SIM karty</string>	
 	<string name="sim_pin_attempts">"Ostáva pokusov:"</string>
     <string name="sim_pin_disabled">PIN1 Deaktivovaný!</string>
     <string name="sim_pin_enabled">PIN1 Povolený!</string>
