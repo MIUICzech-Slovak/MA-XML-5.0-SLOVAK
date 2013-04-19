@@ -4,7 +4,7 @@
 <string name="add_task">Pridať úlohu</string>
 <string name="adding_upload_tasks">Pridávanie súborov pre odosielanie.</string>
 <string name="app_cache_cleanup_indication">%s cache</string>
-<string name="app_cache_title">Cache aplikácie</string>
+<string name="app_cache_title">Cache aplikácií</string>
 <string name="app_garbage_cleanup_indication">%s nepotrebné súbory aplikácií</string>
 <string name="app_garbage_path">Umiestnenie:</string>
 <string name="app_garbage_title">Nepotrebné súbory aplikácií</string>
@@ -35,7 +35,7 @@
 <string name="clean_message">Odstraňovanie %1$s</string>
 <string name="clean_title">Odstrániť z koša súbory staršie ako 30 dní</string>
 <string name="clean_trash_box">Vyprázdniť kôš</string>
-<string name="cleanup_complete">Čistenie dokončené</string>
+<string name="cleanup_complete">Dokončiť čistenie súborov</string>
 <string name="clear_cache">Vyčistiť cache</string>
 <string name="close">Zavrieť</string>
 <string name="compress_message">Zbaliť do:</string>
@@ -105,7 +105,7 @@ Nepotrebné súbory"</string>
 <string name="gbk_summary">Ak používate Windows Explorer, zvoľte tento typ šifrovania GBK pre zabránenie použitia čínskych znakov</string>
 <string name="gbk_title">GBK</string>
 <string name="give_up_cleaning">Zrušiť čistenie</string>
-<string name="header_text_cleaned">Vymazať nepotrebné súbory</string>
+<string name="header_text_cleaned">Vymazané nepotrebné súbory</string>
 <string name="header_text_cleaning">Ostáva nepotrebných súborov</string>
 <string name="header_text_scanned">Zistených nepotrebných súborov</string>
 <string name="header_text_scanning">Kontrola nepotrebných súborov...</string>
@@ -229,7 +229,7 @@ Nepotrebné súbory"</string>
 <string name="slide_left_text">Posuňte vľavo</string>
 <string name="space_info">Kapacita: %1$s K dispozícii, Celkom: %2$s</string>
 <string name="space_usage">Využitie</string>
-<string name="start_cleanup">Začať čistenie</string>
+<string name="start_cleanup">Začať čistenie súborov</string>
 <string name="start_server">Spustiť FTP</string>
 <string name="start_use_xiaomi_account">Prihlásiť</string>
 <string name="stay_awake_summary">Zabrániť spánku počas FTP prenosu</string>
@@ -246,7 +246,7 @@ Nepotrebné súbory"</string>
 <string name="tab_phone">Telefón</string>
 <string name="temp_file_cleanup_indication">%s dočasné súbory</string>
 <string name="temp_file_title">Dočasné súbory</string>
-<string name="thumbnail_cleanup_indication">%s náhľady</string>
+<string name="thumbnail_cleanup_indication">%s náhľadov</string>
 <string name="thumbnail_title">Súbory náhľadov obrázkov</string>
 <string name="toast_file_not_can_read">Súbor je poškodený.</string>
 <string name="trans_task">Prenos po sieti</string>
