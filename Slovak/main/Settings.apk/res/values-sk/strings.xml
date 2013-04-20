@@ -116,7 +116,7 @@
     <string name="app_factory_reset_dlg_text">Všetky aktualizácie tejto aplikácie systému Android budú odinštalované.</string>	
     <string name="app_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>	
     <string name="app_floating_window_dlg">Povoliť \"%1$s\" zobraziť vyskakovacie okno</string>
-	<string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích okien aplikácie %1$s ju násilne ukončí. Ste si istý, že ich chcete zakázať?"</string>
+    <string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích okien aplikácie %1$s ju násilne ukončí. Ste si istý, že ich chcete zakázať?"</string>
     <string name="app_floating_window_dlg_enable">"Povolenie vyskakovacích okien pre aplikáciu %1$s vyžaduje jej reštart. Ste si istý, že ich chcete povoliť?"</string>
     <string name="app_forward_locked">Aplikácia je chránená proti kopírovaniu.</string>	
     <string name="app_install_location_summary">Zmena preferovaného umiestnenia pre inštaláciu nových aplikácií</string>	
@@ -153,7 +153,7 @@
     <string name="auto_restore_summary">Pri preinštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
     <string name="auto_restore_title">Automatické obnovenie</string>	
     <string name="auto_startup_application_manage">Pri štarte</string>
-    <string name="auto_startup_count">Povoliť %d aplikáciám spustiť sa</string>
+    <string name="auto_startup_count">%d aplikácií sa spustí pri štarte</string>
     <string name="auto_startup_dialog_msg">"Miui povolí aplikácií sa spustiť automaticky bez opýtania sa. To môže viesť k zvýšenej spotrebe energie a dát. \nPovoliť automatické spustenie pri štarte telefónu?"</string>
     <string name="automatic_brightness">Automatický jas</string>	
     <string name="available_size">%s Voľné</string>	
