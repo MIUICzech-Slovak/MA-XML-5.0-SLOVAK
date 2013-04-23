@@ -1855,7 +1855,7 @@ skúste:
     <string name="tts_settings_title">Výstup prevodu textu na reč</string>	
     <string name="turn_off_radio">Vypnúť rádio</string>	
     <string name="turn_on_radio">Zapnúť rádio</string>	
-    <string name="under_keyguard">Na zamykacej obrazovke</string>
+    <string name="under_keyguard">Na uzamykacej obrazovke</string>
     <string name="uninstall_text">Odinštalovať</string>	
     <string name="unknown">Neznáme</string>	
     <string name="unlock_backup_info_summary">Ako chcete zariadenie odomknúť v prípade, že vás funkcia Odomknutia tvárou nevidí?</string>	
