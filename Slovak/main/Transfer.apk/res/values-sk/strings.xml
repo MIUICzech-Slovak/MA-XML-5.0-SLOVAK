@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_to_send">Chcem odoslať súbory</string>
-    <string name="app_name">Prenos súborov</string>
-    <string name="button_last">Začať</string>
+    <string name="about_to_send">Odoslať súbory</string>
+    <string name="app_name">Prenos</string>
+    <string name="button_last">Dokončiť</string>
     <string name="button_next">Ďalej</string>
     <string name="button_pre">Naspäť</string>
     <string name="cancel">Ukončiť</string>
@@ -34,7 +34,7 @@
     <string name="input_device_name">Vložiť názov zariadenia</string>
     <string name="input_device_name_tip">Používajte Prenos súborov pre odosielanie alebo prijímanie súborov medzi dvoma zariadeniami pomocou zdieľaného Wi-Fi hot-spotu. Ostatné zariadenia zobrazia názov Vášho zariadenia.</string>
     <string name="miui_device_default_name">Android</string>
-    <string name="no_content">Žiadny obsah</string>
+    <string name="no_content">Žiadna história</string>
     <string name="no_selected">Nie je vybraný žiaden súbor</string>
     <string name="no_transfer_history">Žiadna história prenosov</string>
     <string name="noti_completed">Dokončené. Prenesených %1$d/%2$d súborov</string>
@@ -75,7 +75,7 @@
     <string name="send_to">Odosolať do:</string>
     <string name="send_uncompleted">Odosielanie zlyhalo</string>
     <string name="sent">Odoslané</string>
-    <string name="settings_auto_pair_sender_summary">Automatické párovanie zariadení pre prijímanie/odosielanie</string>
+    <string name="settings_auto_pair_sender_summary">Automatické párovanie zariadení pre prijímanie alebo odosielanie súborov</string>
     <string name="settings_auto_pair_sender_title">Automatické párovanie zariadení</string>
     <string name="settings_connect">Nastavenie pripojenia</string>
     <string name="settings_label">Nastavenie pripojenia</string>
@@ -89,7 +89,7 @@
     <string name="share_text">MIUIv5 podporuje prenos súborov bez spotreby mobilných dát. Užívatelia ktorí nemajú MIUIv5 si musia stiahnuť: %1$s</string>
     <string name="summary_step_one">Odosielajte obrázky, hudbu, kontakty a ostatné súbory</string>
     <string name="summary_step_two">Pozvať priateľov na inštalovanie AnyShare</string>
-    <string name="support_tip">Pripojenie cez AnyShare je kompatibilné</string>
+    <string name="support_tip">Pripojenie je kompatibilné s AnyShare</string>
     <string name="title_step_one">1. Súbory môžu byť prenesené rýchlo a bez použitia mobilných dát</string>
     <string name="title_step_three">3. Nekonečné zdieľanie  s Vašimi priateľmi</string>
     <string name="title_step_two">2. Užívatelia bez MIUI môžu využiť AnyShare na prenos súborov medzi rôznymi systémami</string>
