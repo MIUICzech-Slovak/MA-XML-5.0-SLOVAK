@@ -157,7 +157,8 @@
     <string name="auto_startup_dialog_msg">"Miui povolí aplikácií sa spustiť automaticky bez opýtania sa. To môže viesť k zvýšenej spotrebe energie a dát. \nPovoliť automatické spustenie pri štarte telefónu?"</string>
     <string name="automatic_brightness">Automatický jas</string>	
     <string name="available_size">%s Voľné</string>	
-    <string name="awake">Doba prevádzky zariadenia</string>	
+    <string name="awake">Doba prevádzky zariadenia</string>
+    <string name="back_key">Tlačidlo späť</string>	
     <string name="back_long_press">Tlačidlo späť</string>	
     <string name="back_long_press_timeout">Dĺžka stlačenia</string>	
     <string name="background_data">Dáta na pozadí</string>	
@@ -662,6 +663,9 @@
     <string name="device_status_summary">Stav batérie, úroveň nabitia, atď.</string>
     <string name="dialog_title_font_size">Veľkosť písma</string>
     <string name="dirac_control">Dirac Ovládanie</string>
+    <string name="dirac_mode_earbuds">Slúchadlá</string>
+    <string name="dirac_mode_earphones">Špunty</string>
+    <string name="dirac_mode_off">Dirac Vypnutý</string>
     <string name="disable_overlays">Vypnúť HW prekrývanie</string>
     <string name="disable_overlays_summary">Vždy použiť GPU pre zobrazovanie</string>
 	<string name="disable_power_key_long_press_under_keyguard">Vypnúť pri zamknutí</string>
@@ -854,6 +858,7 @@
     <string name="help_url_wifi" />
 	<string name="hidden_ssid_label">Skryté SSID:</string>	
     <string name="history_details_title">Podrobnosti histórie</string>	
+    <string name="home_key">Tlačidlo Domov</string>
 	<string name="checkbox_notification_same_as_incoming_call">Použiť hlasitosť zvonenia aj pre notifikácie</string>
     <string name="choose_timezone">Zvoliť časovú zónu</string>
     <string name="ime_security_warning">Prostredníctvom tejto metódy zadávania dát je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Metóda je poskytovaná aplikácií %1$s. Chcete túto metódu zadávania \ndát použiť?</string>	
@@ -1519,6 +1524,9 @@ skúste:
     <string name="screen_color_temperature_adjust">Teplota farieb</string>
     <string name="screen_compatibility_label">Kompatibilita s obrazovkou</string>	
     <string name="screen_compatibility_text">Táto aplikácia najskôr nie je určená pre vašu obrazovku. Tu môžete nastaviť, ako sa aplikácia obrazovke prispôsobí.</string>	
+    <string name="screen_key_long_press">Dlhé podržanie tlačidiel</string>
+    <string name="screen_key_long_press_action">Funkcia tlačidiel</string>
+    <string name="screen_key_long_press_timeout">Dĺžka podržania</string>
     <string name="screen_on_proximity_sensor_summary">Zabrániť náhodnému použitiu telefónu keď je vo vrecku (podľa senzoru priblíženia).</string>
     <string name="screen_on_proximity_sensor_title">Zabrániť náhodnému použitiu</string>
     <string name="screen_saturation_adjust">Sýtosť farieb</string>
@@ -1847,6 +1855,7 @@ skúste:
     <string name="tts_settings_title">Výstup prevodu textu na reč</string>	
     <string name="turn_off_radio">Vypnúť rádio</string>	
     <string name="turn_on_radio">Zapnúť rádio</string>	
+    <string name="under_keyguard">Na zamykacej obrazovke</string>
     <string name="uninstall_text">Odinštalovať</string>	
     <string name="unknown">Neznáme</string>	
     <string name="unlock_backup_info_summary">Ako chcete zariadenie odomknúť v prípade, že vás funkcia Odomknutia tvárou nevidí?</string>	

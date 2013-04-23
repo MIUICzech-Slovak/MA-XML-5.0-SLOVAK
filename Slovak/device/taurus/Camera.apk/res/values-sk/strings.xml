@@ -306,6 +306,9 @@
   <string name="pref_camera_zsl_entry_off">Vypnuté</string>
   <string name="pref_camera_zsl_entry_on">Zapnuté (Max 1MP)</string>
   <string name="pref_camera_zsl_title">ZSL (uzávierka bez omeškania)</string>
+  <string name="pref_captrue_mirror_entry_off">Vypnuté</string>
+  <string name="pref_captrue_mirror_entry_on">Zapnuté</string>
+  <string name="pref_captrue_mirror_title">Zrkadliť prednú kameru</string>
   <string name="pref_exposure_title">Expozícia</string>
   <string name="pref_grp_advanced_settings">Rozšírené Nastavenia</string>
   <string name="pref_grp_capture_settings">Nastavenia Záznamu</string>
@@ -343,6 +346,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 sekundy (90 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekúnd (900 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časozberné video (Time Lapse)</string>
+  <string name="preference_simple_mode_title">Základný režim</string>
   <string name="preparing_sd">Príprava úložiska...</string>
   <string name="record_back_pressed_hint">Stlačte opäť pre zastavenie nahrávania</string>
   <string name="resume_playing_message">Pokračovať prehrávanie od %s ?</string>
