@@ -158,8 +158,8 @@
     <string name="automatic_brightness">Automatický jas</string>	
     <string name="available_size">%s Voľné</string>	
     <string name="awake">Doba prevádzky zariadenia</string>
-    <string name="back_key">Tlačidlo späť</string>	
-    <string name="back_long_press">Tlačidlo späť</string>	
+    <string name="back_key">Tlačidlo Späť</string>	
+    <string name="back_long_press">Tlačidlo Späť</string>	
     <string name="back_long_press_timeout">Dĺžka stlačenia</string>	
     <string name="background_data">Dáta na pozadí</string>	
     <string name="background_data_dialog_message">Deaktivácia prenosu dát na pozadí šetrí batériu a znižuje objem prenesených dát. Niektoré aplikácie môžu napriek tomu dátové pripojenie \nna pozadí používať.</string>	
