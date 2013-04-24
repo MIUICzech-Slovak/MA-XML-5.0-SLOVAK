@@ -428,4 +428,10 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Spustiť Google Now</item>
         <item>Ukončiť otvorenú aplikáciu</item>
     </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 sekundy</item>
+        <item>1 sekunda</item>
+        <item>1.5 sekundy</item>
+        <item>2 sekundy</item>
+    </string-array>
 </resources>
