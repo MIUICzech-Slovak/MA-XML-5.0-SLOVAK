@@ -421,4 +421,11 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Povoliť</item>
         <item>Zakázať</item>
     </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Žiadna akcia</item>
+        <item>Spustiť manažér RAM</item>
+        <item>Spustiť Hlasový Asistent</item>
+        <item>Spustiť Google Now</item>
+        <item>Ukončiť otvorenú aplikáciu</item>
+    </string-array>
 </resources>
