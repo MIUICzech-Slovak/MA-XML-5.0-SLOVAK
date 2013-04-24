@@ -371,6 +371,7 @@
   <string name="show_images_only">Zobraziť fotografie</string>
   <string name="show_on_map">Zobraziť na mape</string>
   <string name="show_videos_only">Zobraziť videá</string>
+  <string name="simple_mode_title">Základný režim</string>
   <string name="simple_mode_button_text_audio_capture">Ukončiť spúšť zvukom</string>
   <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
