@@ -63,7 +63,7 @@
     <string name="received">Prijaté</string>
     <string name="resend">Znova odoslať</string>
     <string name="scan_tip">"Uistite sa prosím, že na druhom zariadení 
-    je povolené prijímanie súborov"</string>
+        je povolené prijímanie súborov"</string>
     <string name="scanning">Vyhľadávanie</string>
     <string name="sdcard_unavailable">SD karta je nedostupná</string>
     <string name="send">Odoslať</string>
