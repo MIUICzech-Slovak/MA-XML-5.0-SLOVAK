@@ -6,6 +6,8 @@
   <string name="add_to_cloud_album">Pridať do Cloudu</string>
   <string name="add_to_cloud_fail_too_many_items">Operáciu nie je možne dokončiť, je zvolených príliš mnoho položiek</string>
   <string name="add_to_cloud_folder">Pridať do Cloud zložky</string>
+  <string name="add_sharer">Pridať medzi zdieľané</string>
+  <string name="album_name">Názov albumu</string>
   <string name="albums">Albumov</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznam</string>
@@ -28,6 +30,7 @@
   <string name="camera_folder_display_name">Snímky z fotoaparátu</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
   <string name="camera_view_none_message">Tu budú zobrazené Vaše fotografie.</string>
+  <string name="can_modified">Povoliť aktualizácie</string>
   <string name="cancel">Zrušiť</string>
   <string name="cant_delete_system_album">%s je systémový album a nie je možné ho vymazať!</string>
   <string name="cleaning_cache">Odstraňovanie cache...</string>
@@ -213,6 +216,7 @@
   <string name="save_photo">Uložiť upravenú snímku?</string>
   <string name="saving_failure">Snímka nemôže byť uložená</string>
   <string name="saving_image">Ukladám obrázok...</string>
+  <string name="scan_qr_code">Zdieľať QR kód s priateľmi a povoliť zdieľanie súborov</string>
   <string name="sd_not_available">SD karta nie je vložená alebo je nedostupná</string>
   <string name="seconds">sekúnd</string>
   <string name="select_album">Vybrať album</string>
@@ -239,6 +243,13 @@
   <string name="settings">Nastavenia</string>
   <string name="settings_i_xiaomi_com">Prihláste sa na i.xiaomi.com pre zobrazenie Vašich Cloud albumov</string>
   <string name="shadow">Tiene</string>
+  <string name="share_album">Zdieľať Album</string>
+  <string name="share_album_owner">Zdieľané</string>
+  <string name="share_album_qr_code">QR kód</string>
+  <string name="share_album_share_to">Zdieľať cez</string>
+  <string name="sharer_status_accepted">Povolené</string>
+  <string name="sharer_status_refused">Odmietnuté</string>
+  <string name="sharer_status_waitting">Čakajúci</string>
   <string name="sharpen">Zaostriť</string>
   <string name="show_all">Obrázky a videá</string>
   <string name="show_hidden_album">Zobraziť skryté albumy</string>

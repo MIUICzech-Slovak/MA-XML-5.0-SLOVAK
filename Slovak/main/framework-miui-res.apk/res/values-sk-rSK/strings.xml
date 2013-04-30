@@ -182,7 +182,8 @@
     <string name="short_pincode_error_msg">Zadajte 4–8 čísel</string>
     <string name="short_pukcode_error_msg">Zadajte 8 miestne číslo</string>
     <string name="sim_account_name">SIM</string>
-    <string name="sim_changed_reactivate_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
+    <string name="sim_changed_reactivate_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať medinárodnú SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
+    <string name="sim_changed_reactivate_int_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať medinárodnú SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
     <string name="sim_in_airplane_mode">Deaktivovať režim Lietadlo.</string>
     <string name="sim_locked">SIM karta blokovaná</string>
     <string name="sim_not_ready">SIM sa používa, skúste to neskôr.</string>

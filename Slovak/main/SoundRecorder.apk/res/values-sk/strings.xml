@@ -50,6 +50,8 @@
     <string name="prefDialogTitle_recordType">Typ nahrávaného súboru</string>	
     <string name="preference_led_indicator">Indikácia nahrávania</string>
     <string name="preference_led_indicator_prompt">Blikať LED a zobraziť v oznamovacej lište počas nahrávania s uzamknutým telefónom</string>
+	<string name="preference_silent_mode">Nahrávanie v tichom režime</string>
+    <string name="preference_silent_mode_summary">Povoľte pre nahrávanie v tichom režime</string>
     <string name="preferences_title">Nastavenie</string>	
     <string name="record_list">Zoznam nahrávok</string>	
     <string name="record_name_hour">.</string>
