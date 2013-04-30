@@ -243,13 +243,13 @@
     <string name="skip_login">Preskočiť prihlásenie</string>
     <string name="skip_setup_account_msg">Svoj účet Xiaomi môžete použiť na synchronizáciu správ, kontaktov a ďalších údajov. Chcete pokračovať neskôr?</string>	
     <string name="skip_setup_account_title">Preskočiť nastavenie účtu</string>	
-	<string name="sync_sub_int_dspt">Bude odoslaná medzinárodná SMS správa pre aktiváciu zlužby</string>
+	<string name="sync_sub_int_dspt">Bude odoslaná medzinárodná SMS správa pre aktiváciu služby</string>
     <string name="sync_dspt">Použite svoj Xiaomi účet pre synchronizáciu dát</string>	
     <string name="sync_off">Vyp</string>	
     <string name="sync_on">Zap</string>	
     <string name="sync_one_time_sync">Stlačte pre synchronizáciu ( %1$s )</string>	
     <string name="sync_settings">Nastavenie synchr.</string>	
-    <string name="sync_sub_dspt">Odošle sa SMS pre aktivováciu služby</string>	
+    <string name="sync_sub_dspt">Odošle sa SMS pre aktiváciu služby</string>	
     <string name="title_activate">Aktivujte svoj Xiaomi účet</string>	
     <string name="title_login">Prihláste sa k Xiaomi účtu</string>	
     <string name="title_mili_center">Centrum Mi kreditov</string>	

@@ -817,7 +817,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="set_default">Nastaviť predvolené</string>
 	<string name="set_photo_failed_msg">Nastavenie avatara zlyhalo</string>
     <string name="share_error">Tento kontakt nemôže byť zdieľaný.</string>
-    <string name="share_via">Zdielať cez</string>
+    <string name="share_via">Zdieľať cez</string>
     <string name="share_visible_contacts">Zdielať viditeľné kontakty</string>
     <string name="shortcutActivityTitle">Výber skratky kontaktu</string>
     <string name="shortcutContact">Kontakty</string>
