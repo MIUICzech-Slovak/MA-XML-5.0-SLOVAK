@@ -336,7 +336,7 @@
   <string name="send">Poslať</string>
   <string name="send_signature_confirm_dialog_message">Nezadali ste žiadn text. Naozaj chcete takto správu odoslať?</string>
   <string name="send_signature_confirm_dialog_title">Poslať podpis</string>
-  <string name="send_to">Komu: %1$s</string>
+  <string name="send_to">"Komu: "</string>
   <string name="send_to_count">Poslať %1$s správu(y)</string>
   <string name="send_to_index_contact">Posielam %2$s z %1$s..</string>
   <string name="sent_label">"Odoslané: "</string>
