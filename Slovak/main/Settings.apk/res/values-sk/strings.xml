@@ -32,9 +32,9 @@
     <string name="accessibility_service_default_description">K dispozícií nie je žiaden popis.</string>	
     <string name="accessibility_service_disable_warning_summary">Klepnutím na tlačidlo OK službu %1$s ukončíte.</string>	
     <string name="accessibility_service_disable_warning_title">Ukončiť službu %1$s?</string>	
-    <string name="accessibility_service_no_apps_message">TalkBack poskytuje hovorenú navigáciu nevidiacim a slabozrakým užívateľom. Chcete túto aplikáciu stiahnuť zdarma zo služby \nGoogle Play?</string>	
+    <string name="accessibility_service_no_apps_message">TalkBack poskytuje hovorenú navigáciu nevidiacim a slabozrakým užívateľom. Chcete túto aplikáciu stiahnuť zdarma zo služby Google Play?</string>	
     <string name="accessibility_service_no_apps_title">Potrebujete čítačku obrazovky(TalkBack)?</string>	
-    <string name="accessibility_service_security_warning_summary">Služba %1$s zaznamenáva všetok text, ktorý napíšete, okrem hesiel. \nTo zahrňuje osobné údaje, ako sú čísla platobných kariet. Zaznamenáva tiež údaje o interakcií s telefónom.</string>	
+    <string name="accessibility_service_security_warning_summary">Služba %1$s zaznamenáva všetok text, ktorý napíšete, okrem hesiel. To zahrňuje osobné údaje, ako sú čísla platobných kariet. Zaznamenáva tiež údaje o interakcií s telefónom.</string>	
     <string name="accessibility_service_security_warning_title">Použiť službu %1$s?</string>	
     <string name="accessibility_service_state_off">Vypnuté</string>	
     <string name="accessibility_service_state_on">Zapnuté</string>	
@@ -53,7 +53,7 @@
     <string name="active_device_admin_msg">Správca zariadenia</string>	
     <string name="active_input_method_subtypes">Aktívne metódy vstupu</string>	
     <string name="activity_picker_label">Vybrať aktivitu</string>	
-    <string name="adb_warning_message">Ladenie prostredníctvom rozhrania USB je určené len pre účely vývoja. Použite ho ku kopírovaniu dát medzi počítačom a zariadením, \n inštaláciu aplikácií do zariadenia bez upozornenia a čítanie dát protokolov.</string>	
+    <string name="adb_warning_message">Ladenie prostredníctvom rozhrania USB je určené len pre účely vývoja. Použite ho ku kopírovaniu dát medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie dát protokolov.</string>	
     <string name="adb_warning_title">Povoliť ladenie USB?</string>	
     <string name="add_account_label">Pridať účet</string>	
     <string name="add_device_admin">Aktivovať</string>	
@@ -154,7 +154,7 @@
     <string name="auto_restore_title">Automatické obnovenie</string>	
     <string name="auto_startup_application_manage">Pri štarte</string>
     <string name="auto_startup_count">%d aplikácií sa spustí pri štarte</string>
-    <string name="auto_startup_dialog_msg">"Miui povolí aplikácií sa spustiť automaticky bez opýtania sa. To môže viesť k zvýšenej spotrebe energie a dát. \nPovoliť automatické spustenie pri štarte telefónu?"</string>
+    <string name="auto_startup_dialog_msg">"Miui povolí aplikácií sa spustiť automaticky bez opýtania sa. To môže viesť k zvýšenej spotrebe energie a dát. Povoliť automatické spustenie pri štarte telefónu?"</string>
     <string name="automatic_brightness">Automatický jas</string>	
     <string name="available_size">%s Voľné</string>	
     <string name="awake">Doba prevádzky zariadenia</string>
@@ -162,7 +162,7 @@
     <string name="back_long_press">Tlačidlo Späť</string>	
     <string name="back_long_press_timeout">Dĺžka stlačenia</string>	
     <string name="background_data">Dáta na pozadí</string>	
-    <string name="background_data_dialog_message">Deaktivácia prenosu dát na pozadí šetrí batériu a znižuje objem prenesených dát. Niektoré aplikácie môžu napriek tomu dátové pripojenie \nna pozadí používať.</string>	
+    <string name="background_data_dialog_message">Deaktivácia prenosu dát na pozadí šetrí batériu a znižuje objem prenesených dát. Niektoré aplikácie môžu napriek tomu dátové pripojenie na pozadí používať.</string>	
     <string name="background_data_dialog_title">Deaktivovať dáta na pozadí?</string>	
     <string name="background_data_summary">Aplikácie môžu kedykoľvek synchronizovať, odosielať a prijímať dáta.</string>	
     <string name="background_process_stop_description">Toto je starý proces aplikácie, ktorý je spustený pre prípad, že bude znovu potrebný. Spravidla nie je dôvod ho zastavovať.</string>	
@@ -310,7 +310,7 @@
     <string name="bluetooth_disconnect_title">Odpojiť?</string>	
     <string name="bluetooth_disconnected">Odpojené</string>	
     <string name="bluetooth_disconnecting">Odpojovanie...</string>	
-    <string name="bluetooth_display_passkey_pin_msg">Párovanie so zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte:&lt;br>&lt;b>%2$s&lt;/b> a potom \nstlačte klávesu Return alebo Enter.</string>	
+    <string name="bluetooth_display_passkey_pin_msg">Párovanie so zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte:&lt;br>&lt;b>%2$s&lt;/b> a potom stlačte klávesu Return alebo Enter.</string>	
     <string name="bluetooth_dock_settings">Nastavení doku</string>	
     <string name="bluetooth_dock_settings_a2dp">Pre hudbu a média</string>	
     <string name="bluetooth_dock_settings_headset">Ako telefón pre hlasitý reproduktor</string>	
@@ -511,16 +511,16 @@
     <string name="crypt_keeper_button_text">Šifrovať telefón</string>	
     <string name="crypt_keeper_confirm_title">Potvrdiť šifrovanie</string>	
     <string name="crypt_keeper_cooldown">Skúste to znovu za: ^1 s.</string>	
-    <string name="crypt_keeper_desc">"Účty, nastavenie, stiahnuté aplikácie a ich dáta, média a ďalšie súbory môžete šifrovať. Akonáhle telefón zašifrujete, musíte ho pri každom zapnutí dešifrovať pomocou kódu PIN \nalebo hesla. Šifrovanie môžete zrušiť len obnovením továrneho nastavenia, čím sa všetky dáta v telefóne vymažú. Šifrovanie môže trvať viac než hodinu. V telefóne musí byť nabitá batéria a po celú dobu \nšifrovania musí byť telefón pripojený k zdroji elektriny. Pokiaľ proces šifrovania prerušíte, stratíte niektoré alebo \nvšetky dáta."</string>	
+    <string name="crypt_keeper_desc">"Účty, nastavenie, stiahnuté aplikácie a ich dáta, média a ďalšie súbory môžete šifrovať. Akonáhle telefón zašifrujete, musíte ho pri každom zapnutí dešifrovať pomocou kódu PIN alebo hesla. Šifrovanie môžete zrušiť len obnovením továrneho nastavenia, čím sa všetky dáta v telefóne vymažú. Šifrovanie môže trvať viac než hodinu. V telefóne musí byť nabitá batéria a po celú dobu šifrovania musí byť telefón pripojený k zdroji elektriny. Pokiaľ proces šifrovania prerušíte, stratíte niektoré alebo všetky dáta."</string>	
     <string name="crypt_keeper_dialog_need_password_message">Pred začiatkom šifrovania musíte nastaviť kód PIN alebo heslo zámku obrazovky.</string>	
     <string name="crypt_keeper_dialog_need_password_title">Chýba heslo alebo kód PIN zámku obrazovky</string>	
     <string name="crypt_keeper_encrypt_summary">Pri každom zapnutí telefónu vyžadovať kód PIN alebo heslo za účelom dešifrovania</string>	
     <string name="crypt_keeper_encrypt_title">Šifrovanie telefónu</string>	
     <string name="crypt_keeper_encrypted_summary">Šifrované</string>	
     <string name="crypt_keeper_enter_password">Zadajte heslo</string>	
-    <string name="crypt_keeper_failed_summary">"Šifrovanie bolo prerušené a nie je možné ho dokončiť. Z tohto dôvodu už nebudú údaje v telefóne prístupné. Ak chcete telefón opäť začať používať, je \npotrebné obnoviť továrne nastavenia. Po obnove budete môcť v priebehu nastavenia telefónu obnoviť všetky dáta, ktoré sú zálohované v účte Google."</string>	
+    <string name="crypt_keeper_failed_summary">"Šifrovanie bolo prerušené a nie je možné ho dokončiť. Z tohto dôvodu už nebudú údaje v telefóne prístupné. Ak chcete telefón opäť začať používať, je potrebné obnoviť továrne nastavenia. Po obnove budete môcť v priebehu nastavenia telefónu obnoviť všetky dáta, ktoré sú zálohované v účte Google."</string>	
     <string name="crypt_keeper_failed_title">Šifrovanie sa nepodarilo</string>	
-    <string name="crypt_keeper_final_desc">Šifrovať telefón? Táto operácia sa nedá vrátiť, a pokiaľ ju prerušíte, budú vaše dáta stratené. Šifrovanie môže trvať viac než hodinu. Behom \ntejto doby sa telefón niekoľkokrát reštartuje.</string>	
+    <string name="crypt_keeper_final_desc">Šifrovať telefón? Táto operácia sa nedá vrátiť, a pokiaľ ju prerušíte, budú vaše dáta stratené. Šifrovanie môže trvať viac než hodinu. Behom tejto doby sa telefón niekoľkokrát reštartuje.</string>	
     <string name="crypt_keeper_low_charge_text">Nabite batériu a skúste to znovu.</string>	
     <string name="crypt_keeper_settings_title">Šifrovanie</string>	
     <string name="crypt_keeper_setup_description">Počkajte prosím, než bude telefón zašifrovaný. Dokončené: ^1%.</string>	
@@ -537,13 +537,13 @@
     <string name="data_usage_app_restrict_background">Obmedziť dátové prenosy na pozadí</string>	
     <string name="data_usage_app_restrict_background_summary">Zakázať dáta na pozadí v mobilných sieťach. Používať siete Wi-Fi.</string>	
     <string name="data_usage_app_restrict_background_summary_disabled">Dáta na pozadí u aplikácie obmedzíte nastavením limitu mob. dát.</string>	
-    <string name="data_usage_app_restrict_dialog">"Táto funkcia môže spôsobiť, že aplikácie závislé na dátach na pozadí nebudú fungovať, pokiaľ nebude k dispozícii sieť Wi-Fi. Vhodnejšie ovládacie \nprvky pre využitie dát nájdete v nastaveniach jednotlivých aplikácií."</string>	
+    <string name="data_usage_app_restrict_dialog">"Táto funkcia môže spôsobiť, že aplikácie závislé na dátach na pozadí nebudú fungovať, pokiaľ nebude k dispozícii sieť Wi-Fi. Vhodnejšie ovládacie prvky pre využitie dát nájdete v nastaveniach jednotlivých aplikácií."</string>	
     <string name="data_usage_app_restrict_dialog_title">Obmedzenie dátových prenosov na pozadí?</string>
     <string name="data_usage_app_restricted">obmedzené</string>	
     <string name="data_usage_app_settings">Zobraziť nastavenia aplikácií</string>	
     <string name="data_usage_auto_sync_off_dialog">"Toto nastavenie ušetrí Vaše dáta a spotrebu batérie ale budete musieť manuálne synchronizovať každý účet manuálne pre získanie aktuálnych informácií. Taktiež nebudete dostávať notifikácie o aktuálnych informáciách."</string>
     <string name="data_usage_auto_sync_off_dialog_title">Vypnúť synchronizáciu?</string>
-    <string name="data_usage_auto_sync_on_dialog">"Akékoľvek zmeny na Vašom účte ktoré ste urobili na webe sa automaticky skopírujú do telefónu. \nNiektoré účty môžu automaticky kopírovať aj zmeny v telefóne na web. Google účet takto funguje. \nPre nastavenie ktoré informácie sa majú synchr. pre daný účet, choďte do Nastavenia - Účty."</string>
+    <string name="data_usage_auto_sync_on_dialog">"Akékoľvek zmeny na Vašom účte ktoré ste urobili na webe sa automaticky skopírujú do telefónu. Niektoré účty môžu automaticky kopírovať aj zmeny v telefóne na web. Google účet takto funguje. Pre nastavenie ktoré informácie sa majú synchr. pre daný účet, choďte do Nastavenia - Účty."</string>
     <string name="data_usage_auto_sync_on_dialog_title">Zapnúť synchronizáciu?</string>
     <string name="data_usage_cycle">Cyklus počítania dát</string>	
     <string name="data_usage_cycle_editor_positive">Nastaviť</string>	
@@ -561,7 +561,7 @@
     <string name="data_usage_change_cycle">Zmeniť cyklus...</string>	
     <string name="data_usage_label_background">Pozadie</string>	
     <string name="data_usage_label_foreground">Popredie</string>	
-    <string name="data_usage_limit_dialog_mobile">"Vaše dátové pripojenie bude vypnuté ak sa dosiahne stanovený limit prenesených dát. \nKeďže spotreba dát je meraná Vaším telefónom, a Váš operátor môže spotrebu dát merať odlišne, zvážte nastavenie menšieho limitu dát."</string>
+    <string name="data_usage_limit_dialog_mobile">"Vaše dátové pripojenie bude vypnuté ak sa dosiahne stanovený limit prenesených dát. Keďže spotreba dát je meraná Vaším telefónom, a Váš operátor môže spotrebu dát merať odlišne, zvážte nastavenie menšieho limitu dát."</string>
     <string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>	
     <string name="data_usage_limit_editor_title">Nastavenie limitu dátových prenosov</string>	
     <string name="data_usage_list_mobile">Mobilné</string>	
@@ -768,7 +768,7 @@
 	<string name="enable_traces_summary_num">%1$d povolených stôp</string>
 	<string name="enable_traces_title">Zapnúť stopy</string>
     <string name="enableNetwork">enableNetwork</string>
-    <string name="enforce_read_external_confirm_message">"Ak je USB úložisko chránené, aplikácie musia požadovať práva na prístup z externého úložiska. \nNiektoré aplikácie nemusia pracovať správne pokiaľ ich vývojár neupravil."</string>
+    <string name="enforce_read_external_confirm_message">"Ak je USB úložisko chránené, aplikácie musia požadovať práva na prístup z externého úložiska. Niektoré aplikácie nemusia pracovať správne pokiaľ ich vývojár neupravil."</string>
 	<string name="enforce_read_external_confirm_title">Chrániť USB úložisko?</string>
 	<string name="enforce_read_external_summary">Aplikácie musia požadovať povolenie pre čítanie z USB úložiska</string>
 	<string name="enforce_read_external_title">Chrániť USB úložisko</string>
@@ -861,7 +861,7 @@
     <string name="home_key">Tlačidlo Domov</string>
 	<string name="checkbox_notification_same_as_incoming_call">Použiť hlasitosť zvonenia aj pre notifikácie</string>
     <string name="choose_timezone">Zvoliť časovú zónu</string>
-    <string name="ime_security_warning">Prostredníctvom tejto metódy zadávania dát je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Metóda je poskytovaná aplikácií %1$s. Chcete túto metódu zadávania \ndát použiť?</string>	
+    <string name="ime_security_warning">Prostredníctvom tejto metódy zadávania dát je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Metóda je poskytovaná aplikácií %1$s. Chcete túto metódu zadávania dát použiť?</string>	
     <string name="immediately_destroy_activities">Neukladať aktivity</string>	
     <string name="immediately_destroy_activities_summary">Rušiť všetky činnosti, akonáhle ich užívateľ zavrie</string>	
     <string name="ims_reg_required_off">Vyžaduje sa vypnutie registrácie IMS</string>	
@@ -1031,7 +1031,7 @@
     <string name="master_clear_all">"Naozaj chcete obnoviť výrobné nastavenia? Operáciu nie je možné vrátiť späť"</string>	
     <string name="master_clear_button_text">Resetovať telefón</string>	
     <string name="master_clear_confirm_title">Resetovať?</string>	
-    <string name="master_clear_desc">"Táto akcia zmaže všetky dáta z interného úložiska telefónu, mimo iných aj nasledujúce: účet Google, nastavenie a dáta systému \na aplikácií, stiahnuté aplikácie."</string>	
+    <string name="master_clear_desc">"Táto akcia zmaže všetky dáta z interného úložiska telefónu, mimo iných aj nasledujúce: účet Google, nastavenie a dáta systému a aplikácií, stiahnuté aplikácie."</string>	
     <string name="master_clear_desc_also_erases_external">"Hudba, Fotky a ďalšie užívateľské údaje"</string>	
     <string name="master_clear_desc_erase_external_storage">"Ak chcete zmazať tiež hudbu, obrázky a ďalšie užívateľské dáta, je potrebné vymazať SD kartu."</string>	
     <string name="master_clear_erase_application_progress">Vymazávajú sa aplikácie</string>	
@@ -1477,7 +1477,7 @@ skúste:
     <string name="recognizer_settings_title">Hlasové vyhľadávanie</string>	
     <string name="recognizer_title">Rozpoznávanie hlasu</string>	
     <string name="recompute_size">Prepočítavanie veľkosti...</string>	
-    <string name="remove_account_failed">Niektoré aplikácie tento účet vyžadujú. Môžete ho odobrať iba tak, že v telefóne v ponuke Nastavenia > Zálohovať a obnoviť obnovíte továrenské \nnastavenia (vymažete tak všetky svoje osobné dáta).</string>	
+    <string name="remove_account_failed">Niektoré aplikácie tento účet vyžadujú. Môžete ho odobrať iba tak, že v telefóne v ponuke Nastavenia > Zálohovať a obnoviť obnovíte továrenské nastavenia (vymažete tak všetky svoje osobné dáta).</string>	
     <string name="remove_account_label">Odobrať účet</string>	
     <string name="remove_device_admin">Deaktivovať</string>	
     <string name="remove_from_frequently_fragment">Odstrániť \"%s\" z častého nastavenia?</string>	
@@ -1640,7 +1640,7 @@ skúste:
     <string name="settings_license_activity_unavailable">Pri načítaní licencií došlo k chybe.</string>	
     <string name="settings_safetylegal_activity_loading">Načítavam...</string>	
     <string name="settings_safetylegal_activity_title">Bezpečnostné informácie</string>	
-    <string name="settings_safetylegal_activity_unreachable">Dátové pripojenie momentálne nie je k dispozícií. \nAk chcete tieto informácie zobraziť, prejdite z ľubovoľného počítača pripojeného k internetu na stránku %s.</string>	
+    <string name="settings_safetylegal_activity_unreachable">Dátové pripojenie momentálne nie je k dispozícií. Ak chcete tieto informácie zobraziť, prejdite z ľubovoľného počítača pripojeného k internetu na stránku %s.</string>	
     <string name="settings_safetylegal_title">Bezpečnostné informácie</string>	
     <string name="settings_shortcut">Zástupca nastavení</string>	
 	<string name="show_all_anrs">Zobraziť všetky ANR</string>	
@@ -1715,7 +1715,7 @@ skúste:
     <string name="sound_settings">Zvuk</string>
   	<string name="spellchecker_language">Jazyk</string>
   	<string name="spellchecker_quick_settings">Nastavenia</string>	
-    <string name="spellchecker_security_warning">Prostredníctvom tejto kontroly pravopisu je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Kontrola pravopisu je súčasť aplikácie %1$s. Chcete \ntúto kontrolu pravopisu použiť?</string>	
+    <string name="spellchecker_security_warning">Prostredníctvom tejto kontroly pravopisu je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Kontrola pravopisu je súčasť aplikácie %1$s. Chcete túto kontrolu pravopisu použiť?</string>	
     <string name="spellcheckers_settings_title">Oprava pravopisu</string>	
     <string name="ssid_label">SSID:</string>	
     <string name="status_awake_time">Doba mimo spánku</string>	
@@ -1838,7 +1838,7 @@ skúste:
     <string name="tts_engine_name_is_enabled_summary">Položka %s je aktivovaná</string>	
     <string name="tts_engine_name_settings">Nastavenie modulu %s</string>	
     <string name="tts_engine_preference_section_title">Preferovaný modul</string>	
-    <string name="tts_engine_security_warning">Modul pre syntézu reči môže zhromažďovať všetok hovorený text, vrátane osobných dát ako sú heslá alebo čísla kreditných kariet. Je založený na module %s. \nChcete modul pre syntézu reči aktivovať?</string>	
+    <string name="tts_engine_security_warning">Modul pre syntézu reči môže zhromažďovať všetok hovorený text, vrátane osobných dát ako sú heslá alebo čísla kreditných kariet. Je založený na module %s. Chcete modul pre syntézu reči aktivovať?</string>	
     <string name="tts_engine_settings_button">Spustiť vyhľadávač</string>	
     <string name="tts_engine_settings_section">Nastavenie modulu</string>	
     <string name="tts_engine_settings_title">Nastavenie pre modul %s</string>	
@@ -1918,7 +1918,7 @@ skúste:
 	<string name="usb_msd_driver_installer_title">Driver (MSD)</string>
 	<string name="usb_msd_summary">Umožní prenos súborov na Windows a Mac</string>	
     <string name="usb_msd_title">Veľkokapacitné úložisko</string>	
-    <string name="usb_mtp_summary">Umožňuje prenášať multimediálne súbory v systéme Windows alebo pomocou aplikácie Android File Transfer v systéme Mac (ďalšie informácie na \nstránke www.android.com/filetransfer).</string>	
+    <string name="usb_mtp_summary">Umožňuje prenášať multimediálne súbory v systéme Windows alebo pomocou aplikácie Android File Transfer v systéme Mac (ďalšie informácie na stránke www.android.com/filetransfer).</string>	
     <string name="usb_mtp_title">Zariadenie pre média (MTP)</string>	
     <string name="usb_ptp_summary">Umožňuje prenos fotografií pomocou softwaru fotoaparátu a prenos akýchkoľvek súborov do počítačov, ktoré nepodporujú protokol MTP</string>	
     <string name="usb_ptp_title">Fotoaparát (PTP)</string>	
