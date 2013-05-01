@@ -883,7 +883,7 @@
     <string name="input_methods_settings_label_format">Nastavenie modulu %1$s</string>	
     <string name="input_methods_settings_title">Zadávanie textu</string>	
 	<string name="input_settings">Nastavenie vstupu</string>    
-	<string name="install_all_warning">Váš telefón a osobné údaje sú zraniteľnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že nesiete osobnú zodpovednosť za \nakékoľvek škody spôsobené na vašom telefóne alebo za stratu dát v dôsledku používania týchto aplikácií.</string>	
+	<string name="install_all_warning">Váš telefón a osobné údaje sú zraniteľnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že nesiete osobnú zodpovednosť za akékoľvek škody spôsobené na vašom telefóne alebo za stratu dát v dôsledku používania týchto aplikácií.</string>	
     <string name="install_applications">Neznáme zdroje</string>	
     <string name="install_unknown_applications">Povoliť inštaláciu aplikácií, ktoré nepochádzajú zo služby Google Play</string>	
     <string name="insufficient_storage">Nedostatok miesta v úložisku.</string>	
