@@ -6,7 +6,7 @@
     <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
     <string name="app_not_found_dlg_title">Aplikácia sa nenašla</string>
     <string name="auto_startup_dialog_msg">"Miui dovolí aplikácií spustiť sa automaticky. To môže zvýšiť nielen spotrebu energie ale aj dát. \nPovoliť automatické spustenie？"</string>
-    <string name="caller_app">Caller:%1$s</string>
+    <string name="caller_app">Vyvolané:%1$s</string>
     <string name="cancel">Zrušiť</string>
     <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu. \nVšetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="dlg_app_replacement_title">Nahradiť aplikáciu?</string>
@@ -15,8 +15,7 @@
     <string name="done">Hotovo</string>
     <string name="high_risk_perms">Rizikové práva</string>
     <string name="install">Inštalovať</string>
-    <string name="install_confirm_question">"Chcete nainštalovať túto aplikáciu? 
-	Získa prístup k týmto povoleniam:"</string>
+    <string name="install_confirm_question">"Chcete nainštalovať túto aplikáciu? \nZíska prístup k týmto povoleniam:"</string>
     <string name="install_done">Aplikácia bola nainštalovaná.</string>
     <string name="install_failed">Aplikácia nie je nainštalovaná.</string>
     <string name="install_failed_cpu_abi_incompatible">Táto aplikácia nie je kompatibilná s vaším telefónom.</string>
