@@ -8,7 +8,7 @@
     <string name="auto_startup_dialog_msg">"Miui dovolí aplikácií spustiť sa automaticky. To môže zvýšiť nielen spotrebu energie ale aj dát. \nPovoliť automatické spustenie？"</string>
     <string name="caller_app">Vyvolané aplikáciou: %1$s</string>
     <string name="cancel">Zrušiť</string>
-    <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu. \nVšetky predchádzajúce používateľské údaje budú uložené."</string>
+    <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu. Všetky predchádzajúce používateľské údaje budú uložené."</string>
     <string name="dlg_app_replacement_title">Nahradiť aplikáciu?</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia. \nVšetky predchádzajúce používateľské údaje budú uložené."</string>
