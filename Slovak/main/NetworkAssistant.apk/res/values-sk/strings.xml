@@ -132,8 +132,10 @@
     <string name="traffic_settings_error">Chyba nastavenia balíčku. Vami nastavený dátový balíček je %1$s, ale správa od operátora udáva, že ostáva %2$s.</string>	
     <string name="traffic_suffix">Prevádzka</string>	
     <string name="traffic_suffix_with_uint">Prevádzka(MB)</string>	
-    <string name="traffic_total">%s Dátový balíček</string>	
-    <string name="traffic_used_status">%s Využité</string>	
+    <string name="traffic_total">""%s 
+    Dátový balíček"</string>	
+    <string name="traffic_used_status">""%s 
+    Využité"</string>	
     <string name="unknown">Neznáme</string>
     <string name="unknown_free_traffic_hint">"Pokiaľ nepoznáte veľkosť svojho dátového balíčku, prosím zavolajte svojmu operátorovi."</string>	
     <string name="unknown_free_traffic_text">"Nepoznáte svoj dátový balíček?"</string>	
