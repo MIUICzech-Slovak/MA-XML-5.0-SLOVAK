@@ -59,7 +59,7 @@
     <string name="gadget_clock_22_label">Hodiny 2x2</string>
     <string name="gadget_clock_24_label">Hodiny 2x4</string>
     <string name="gadget_error_text">Problém s načítaním widgetu</string>
-	<string name="gadget_google_search_label">Google</string>
+    <string name="gadget_google_search_label">Google</string>
     <string name="gadget_load_error">Chyba načítania widgetu...</string>
     <string name="gadget_photo_22_label">Fotorámček 2x2</string>
     <string name="gadget_photo_24_label">Fotorámček 2x4</string>
@@ -73,7 +73,7 @@
     <string name="gadget_weather_loading">Žiadne dáta o počasí</string>
     <string name="gadget_weather_low_temp">Nízka teplota</string>
     <string name="gadget_weather_theme_type">Typ Widgetu</string>
-    <string name="gadget_weather_time_format">MM/d EEE</string>
+    <string name="gadget_weather_time_format">d.MM EEE</string>
     <string name="gadget_weather_title_14">Počasie 4X1</string>
     <string name="gadget_weather_title_24">Počasie 4X2</string>
     <string name="global_search_hint">Vložte hľadaný výraz</string>
