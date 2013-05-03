@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_to_send">Odoslať súbory</string>
+    <string name="about_to_receive">Ako prijať súbory</string>
+    <string name="about_to_send">Ako odoslať súbory</string>
     <string name="app_name">Prenos</string>
     <string name="button_last">Dokončiť</string>
     <string name="button_next">Ďalej</string>
