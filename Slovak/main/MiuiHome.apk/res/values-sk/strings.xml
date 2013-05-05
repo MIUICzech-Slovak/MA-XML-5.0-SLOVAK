@@ -73,7 +73,7 @@
     <string name="gadget_weather_loading">Žiadne dáta o počasí</string>
     <string name="gadget_weather_low_temp">Nízka teplota</string>
     <string name="gadget_weather_theme_type">Typ Widgetu</string>
-    <string name="gadget_weather_time_format">d.MM EEE</string>
+    <string name="gadget_weather_time_format">dd.MM.yyyy</string>
     <string name="gadget_weather_title_14">Počasie 4X1</string>
     <string name="gadget_weather_title_24">Počasie 4X2</string>
     <string name="global_search_hint">Vložte hľadaný výraz</string>
