@@ -1691,10 +1691,12 @@ skúste:
     <string name="sim_pin_change">Zmeniť kód PIN karty SIM</string>	
     <string name="sim_pin_toggle">Zamknúť kartu SIM</string>	
     <string name="sim_pins_dont_match">Kódy PIN nie sú zhodné</string>	
-    <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>	
+    <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>
+    <string name="sim_status_title">stav SIM</string>	
     <string name="skip_button_label">Zrušiť</string>	
     <string name="skip_label">Ďalej</string>
     <string name="skip_step">Preskočiť</string>	
+    <string name="slot_status_title">IMEI</string>
     <string name="small_font">Malé</string>	
     <string name="sms_delivered_sound_dialog_title">Vybrať zvuk doručenky</string>	
     <string name="sms_delivered_sound_title">Zvuk doručenky</string>	

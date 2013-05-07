@@ -17,7 +17,7 @@
     <string name="alarm_duration">Nastavenie intervalu budenia(min)</string>
     <string name="alarm_duration_summary">Budenie v intervaloch po %d min</string>
     <string name="alarm_duration_title">Nastavenie budenia</string>
-	<string name="alarm_in_silent_mode_summary">Budík bude zvoniť aj v tichom režime</string>
+    <string name="alarm_in_silent_mode_summary">Budík bude zvoniť aj v tichom režime</string>
     <string name="alarm_in_silent_mode_title">Budík v tichom režime</string>
     <string name="alarm_klaxon_service_desc">Služba prehrávania zvuku budíkov nastavených v aplikácií Hodiny.</string>
     <string name="alarm_label_hint">Vložte názov budíka</string>
@@ -40,10 +40,11 @@
     <string name="auto_silence_summary">Budík sa stíši po %d minútach</string>
     <string name="auto_silence_title">Auto-stíšenie</string>
     <string name="battery_charging_level">%d%%</string>
-    <string name="cancel">Zrušiť</string>
+    <string name="cancel">Ukončiť</string>
     <string name="clock_instructions">Vyberte hodiny</string>
     <string name="close_alarm">Zavrieť budík</string>
     <string name="common_settings">Časté nastavenia</string>
+    <string name="confirm_abort">Zrušiť zmeny</string>
     <string name="control_set_alarm">Nastaviť budík</string>
     <string name="control_set_alarm_with_existing">Nastavenie budíku: %s</string>
     <string name="day">1 deň</string>
@@ -88,6 +89,8 @@
     <string name="holiday_update_pref_invalidate_title">Zoznam pracovných dní (neaktuálny)</string>
     <string name="holiday_update_pref_summary">Skontrolovať aktualizácie</string>
     <string name="holiday_update_pref_title">Zoznam pracovných dní (Čína)</string>
+    <string name="holiday_update_summary">Skontrolovať aktualizácie</string>
+    <string name="holiday_update_title">Aktualizácia voľných dní vyžaduje internetové pripojenie</string>
     <string name="home_button_description">Launcher</string>
     <string name="hour">1 hodina</string>
     <string name="hour_unit">h</string>
@@ -160,7 +163,6 @@
     <string name="resource_title">Podrobnosti zdrojov</string>
     <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
     <string name="resource_update">Aktualizovať</string>
-     
     <string name="revert">Vrátiť späť</string>
     <string name="sdcard_status_changed_dialog_message">"Ukončujem. \nProsím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="sdcard_status_changed_dialog_title">Stav SD karty sa zmenil</string>
@@ -168,14 +170,14 @@
     <string name="settings">Nastavenie</string>
     <string name="show_clock">Zobraziť hodiny</string>
     <string name="shutdown_alarm_enable_summary">Povoliť budík vypnutia</string>
-	<string name="shutdown_alarm_disable_summary">Nepovoliť budík vypnutia</string>
+    <string name="shutdown_alarm_disable_summary">Nepovoliť budík vypnutia</string>
     <string name="shutdown_alarm_title">Budík vypnutia</string>
     <string name="silent_alarm_summary">Tichý</string>
     <string name="slide_down_delelte_alarm">Posuňte dole pre vypnutie budíka</string>
     <string name="snooze_confirm_message">"Budík bol odložený. Zvoniť bude opäť o %s. \nTento budík môžete aj zrušiť."</string>
     <string name="snooze_confirm_ok">OK</string>
     <string name="snooze_confirm_cancel">Zrušiť budík</string>
-	<string name="snooze_duration_title">Dĺžka odloženia</string>
+    <string name="snooze_duration_title">Dĺžka odloženia</string>
     <string name="start">Štart</string>
     <string name="start_up">Spustiť</string>
     <string name="stopwatch_lap_empty_text">Žiadne kolo</string>
