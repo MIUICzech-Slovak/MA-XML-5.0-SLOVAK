@@ -169,9 +169,9 @@
     <string name="set_alarm">Nastaviť budík</string>
     <string name="settings">Nastavenie</string>
     <string name="show_clock">Zobraziť hodiny</string>
-    <string name="shutdown_alarm_enable_summary">Povoliť budík vypnutia</string>
-    <string name="shutdown_alarm_disable_summary">Nepovoliť budík vypnutia</string>
-    <string name="shutdown_alarm_title">Budík vypnutia</string>
+    <string name="shutdown_alarm_enable_summary">Upozornenie je povolené</string>
+    <string name="shutdown_alarm_disable_summary">Upozornenie nie je povolené</string>
+    <string name="shutdown_alarm_title">Upozorniť pri vypínaní</string>
     <string name="silent_alarm_summary">Tichý</string>
     <string name="slide_down_delelte_alarm">Posuňte dole pre vypnutie budíka</string>
     <string name="snooze_confirm_message">"Budík bol odložený. Zvoniť bude opäť o %s. \nTento budík môžete aj zrušiť."</string>
