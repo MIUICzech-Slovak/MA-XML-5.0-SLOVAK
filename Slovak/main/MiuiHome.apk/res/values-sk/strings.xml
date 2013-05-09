@@ -54,7 +54,7 @@
     <string name="free_style_enter_tip">Posuňte nadol dvoma prstami na prepnutie do MiSpace</string>
     <string name="free_style_exit_tip">Posuňte nahor dvoma prstami na ukončenie MiSpace</string>
     <string name="free_style_londing_text">Posilnite predstavivosť...</string>
-    <string name="gadget_clear_button_label">Správca pamäte</string>
+    <string name="gadget_clear_button_label">Správca RAM</string>
     <string name="gadget_clock_12_label">Hodiny 1x2</string>
     <string name="gadget_clock_22_label">Hodiny 2x2</string>
     <string name="gadget_clock_24_label">Hodiny 2x4</string>
