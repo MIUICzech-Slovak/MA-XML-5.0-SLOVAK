@@ -760,7 +760,7 @@
     <string name="enable_back_long_press">Ukončiť aplik. podržaním</string>	
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>	
     <string name="enable_drive_mode">Povoliť režim AUTO</string>
-    <string name="enable_snapshot_screenlock">Screenshot na zamyk. obr.</string>
+    <string name="enable_snapshot_screenlock">Fotografia zo zamyk. obr.</string>
 	<string name="enable_text">Povoliť</string>
 	<string name="enable_traces_dialog_title">Zvoľte zapnuté stopy</string>
 	<string name="enable_traces_summary_all">Všetky stopy sú povolené</string>
