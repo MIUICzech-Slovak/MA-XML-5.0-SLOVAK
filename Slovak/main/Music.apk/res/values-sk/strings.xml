@@ -58,7 +58,7 @@
     <string name="download">Stiahnuť</string>
     <string name="download_album_settings">Sťahovať obrázky albumov</string>
     <string name="download_album_summary">Môže sťahovať väčšie množstvo dát, zvážte použitie Wi-Fi</string>
-    <string name="download_all_album">Stiahnuté obrázky albumov</string>
+    <string name="download_all_album">Stiahnuť obrázky albumov</string>
     <string name="download_all_avatar">Stiahnuť obrázok autora</string>
     <string name="download_all_track">Stiahnuť všetky skladby</string>
     <string name="download_batch_start">Spustiť sťahovanie všetkého</string>
