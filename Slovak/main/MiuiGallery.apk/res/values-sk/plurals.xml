@@ -6,14 +6,14 @@
         <item quantity="one">%1$d vybraný</item>
     </plurals>
     <plurals name="number_of_cloudimages">
-        <item quantity="other">%1$d obrázkov</item>
-        <item quantity="zero">%1$d obrázkov</item>
-        <item quantity="one">%1$d obrázok</item>
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="number_of_pictures">
-        <item quantity="other">%1$d obrázkov</item>
-        <item quantity="zero">%1$d obrázkov</item>
-        <item quantity="one">%1$d obrázok</item>
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="make_albums_available_offline">
         <item quantity="other">Sprístupniť albumy offline.</item>
