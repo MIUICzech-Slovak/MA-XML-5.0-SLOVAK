@@ -52,7 +52,7 @@
   <string name="cloud_tab_all">Všetko</string>
   <string name="cloud_tab_locations">Polohy</string>
   <string name="cloudfolder_already_exists">Zložka Cloud už existuje</string>
-  <string name="confirm_delete">Vymazať %s?</string>
+  <string name="confirm_delete">Vymazať (%s)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
   <string formatted="false" name="confirm_delete_album">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
   <string formatted="false" name="confirm_delete_folders_including">%s zložiek (%s súborov)</string>
@@ -143,7 +143,7 @@
   <string name="loading">Nahrávam...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
-  <string name="local_albums">Lokálne obrázky</string>
+  <string name="local_albums">Lokálne albumy</string>
   <string name="location">Poloha</string>
   <string name="locations">Miesta</string>
   <string name="lomoish">Lomo</string>
