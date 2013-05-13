@@ -10,8 +10,8 @@
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Vždy zapnuté</item>
-        <item>Vždy vypnuté</item>
         <item>Spýtať sa</item>
+		<item>Vždy vypnuté</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Štartovacia stránka</item>
@@ -19,7 +19,7 @@
         <item>Iná</item>
     </string-array>		
     <string-array name="pref_text_size_choices">
-	<item>Veľmi malý</item>
+	    <item>Veľmi malý</item>
         <item>Malý</item>
         <item>Normálny</item>
         <item>Veľký</item>

@@ -51,7 +51,6 @@
   <string name="effect_none">Žiadny</string>
   <string name="effect_silly_faces">SMIEŠNÉ TVÁRE</string>
   <string name="empty">" "</string>
-  <string name="enter_expert_mode_title">Rozšírený režim</string>
   <string name="error_app_unsupported">Nepodporované rozlíšenie videa</string>
   <string name="error_app_unsupported_hfr_720p">720P podporuje až 90 FPS</string>
   <string name="error_app_unsupported_hfr_codec">Ak je povolené HFR, je možné použiť iba H264 kódek</string>
@@ -174,8 +173,6 @@
   <string name="pref_camera_histogram_entry_disable">Vypnutý</string>
   <string name="pref_camera_histogram_entry_enable">Zapnutý</string>
   <string name="pref_camera_histogram_title">Histogram</string>
-  <string name="pref_camera_id_entry_back">Zadná</string>
-  <string name="pref_camera_id_entry_front">Predná</string>
   <string name="pref_camera_id_title">Vybrať kameru</string>
   <string name="pref_camera_iso_entry_auto">Auto</string>
   <string name="pref_camera_iso_entry_iso100">ISO100</string>

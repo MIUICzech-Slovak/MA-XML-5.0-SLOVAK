@@ -141,7 +141,7 @@
 	<item>Nezáväzný</item>
     </string-array>      
     <string-array name="visibility">
-        <item>Východzie nastavenie</item>
+        <item>Predvolená</item>
         <item>Súkromná</item>
         <item>Verejná</item>
     </string-array>
@@ -168,8 +168,8 @@
         <item>Všetky udalosti</item>
     </string-array>
     <string-array name="change_response_labels">
-        <item>Len táto inštancia</item>
-        <item>Všetky inštancie udalosti</item>
+        <item>Len táto udalosť</item>
+        <item>Všetky udalosti</item>
     </string-array>
 	<string-array name="buttons_list">
         <item>Deň</item>

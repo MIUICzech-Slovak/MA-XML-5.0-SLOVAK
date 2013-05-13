@@ -153,6 +153,7 @@
     <string name="transfer_menu_open">Otvoriť</string>	
     <string name="unknown_file">Neznámy súbor</string>	
     <string name="unknown_file_desc">Nie je aplikácia na spustenie tohto typu súboru.</string>	
+    <string name="unknown_device">Neznáme zariadenie</string>
     <string name="unknownName">Neznáme meno</string>	
     <string name="unknownNumber">Neznáme</string>    	
     <string name="update_record">Potvrďte záznam</string>	
@@ -166,5 +167,4 @@
     <string name="upload_succ_line5">Súbor odoslaný</string>	
     <string name="upload_succ_ok">OK</string>	
     <string name="upload_success">%1$s odosielanie dokončené.</string>	
-	<string name="unknown_device">Neznáme zariadenie</string>
 </resources>
