@@ -13,7 +13,7 @@
     <string name="direction_south">J</string>
     <string name="direction_west">Z</string>
     <string name="getting_location">Získavam polohu...</string>
-    <string name="guide_toast">"Mohlo nastať rušenie magnetickeho poľa, prosím skalibrujte kompas nasledovným gestom."</string>
+    <string name="guide_toast">"Prosím skalibrujte kompas pohybom v tvare osmičky."</string>
     <string name="latitude">LAT</string>
     <string name="location_east">E</string>
     <string name="location_north">N</string>
