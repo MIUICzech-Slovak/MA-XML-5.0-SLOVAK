@@ -87,6 +87,7 @@
     <string name="success_sdcard_export">Export úspešný</string>
     <string name="time_picker_dialog_title">Nastaviť čas upozornenia</string>
     <string name="toast_message_add_image_fail">Vloženie obrázku zlyhalo!</string>
+    <string name="toast_privacy_mode">V Chránenom režime nie je možné upravovať poznámky</string>
     <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
     <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
 </resources>

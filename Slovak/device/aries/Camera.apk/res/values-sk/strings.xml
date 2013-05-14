@@ -88,6 +88,7 @@
   <string name="manual">Manuál</string>
   <string name="mimetype">MIME type</string>
   <string name="model">Model</string>
+  <string name="no_save">"Neukladať"</string>
   <string name="no_storage">Pred použitím vložte SD kartu.</string>
   <string name="no_thumbnail">Žiadny náhľad</string>
   <string name="not_enough_space">Vaša SD karta je plná.</string>
@@ -353,6 +354,7 @@
   <string name="review_cancel">Zrušiť</string>
   <string name="rotate_left">Otočiť doľava</string>
   <string name="rotate_right">Otočiť doprava</string>
+  <string name="save">Uložiť</string>
   <string name="select_all">Vybrať všetko</string>
   <string name="select_image">Vybrať fotografiu</string>
   <string name="select_item">Vybrať súbor</string>
