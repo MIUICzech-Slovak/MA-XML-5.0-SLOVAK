@@ -369,7 +369,7 @@
   <string name="status_unread">Neprečítané</string>
   <string name="stick">Pripnúť</string>
   <string name="stick_conversation">Pripnúť konverzáciu</string>
-  <string name="sticked_conversation">Už je pripnutá</string>
+  <string name="sticked_conversation">Správa je pripnutá</string>
   <string name="storage_limits_activity">Obmedzenia úložiska</string>  
   <string name="storage_limits_message">Chcete obmedziť počet správ a šetriť tak miesto na rozhovor?</string>
   <string name="storage_limits_setting">Nastavené limity</string>
@@ -404,7 +404,7 @@
   <string name="unknown_sender">Neznámy odosielateľ</string>
   <string name="unstick">Odpojiť</string>
   <string name="unstick_conversation">Zrušiť pripnutie</string>
-  <string name="unsticked_conversation">Pripnutie už je zrušené</string>
+  <string name="unsticked_conversation">Pripnutie je zrušené</string>
   <string name="unsupported_media_format">%1$s je v nepodporovanom formáte</string>
   <string name="view">Zobraziť</string>
   <string name="view_bookmark">Zobraziť pôvodnú správu</string>
