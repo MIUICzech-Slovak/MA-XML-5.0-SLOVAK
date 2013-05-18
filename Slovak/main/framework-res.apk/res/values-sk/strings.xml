@@ -651,7 +651,7 @@
     <string name="policylab_disableCamera">Zakázať fotoaparáty</string>
     <string name="policydesc_disableCamera">Zakázať používanie všetkých fotoaparátov zariadenia.</string>
     <string name="phoneTypeCustom">Vlastné</string>
-    <string name="phoneTypeHome">Domovská stránka</string>
+    <string name="phoneTypeHome">Domov</string>
     <string name="phoneTypeMobile">Mobil</string>
     <string name="phoneTypeWork">Práca</string>
     <string name="phoneTypeFaxWork">Fax do práce</string>
@@ -676,16 +676,16 @@
     <string name="eventTypeAnniversary">Výročie</string>
     <string name="eventTypeOther">Iné</string>
     <string name="emailTypeCustom">Vlastné</string>
-    <string name="emailTypeHome">Domovská stránka</string>
+    <string name="emailTypeHome">Domov</string>
     <string name="emailTypeWork">Práca</string>
     <string name="emailTypeOther">Iné</string>
     <string name="emailTypeMobile">Mobil</string>
     <string name="postalTypeCustom">Vlastné</string>
-    <string name="postalTypeHome">Domovská stránka</string>
+    <string name="postalTypeHome">Domov</string>
     <string name="postalTypeWork">Práca</string>
     <string name="postalTypeOther">Iné</string>
     <string name="imTypeCustom">Vlastné</string>
-    <string name="imTypeHome">Domovská stránka</string>
+    <string name="imTypeHome">Domov</string>
     <string name="imTypeWork">Práca</string>
     <string name="imTypeOther">Iné</string>
     <string name="imProtocolCustom">Vlastné</string>
@@ -717,7 +717,7 @@
     <string name="relationTypeSister">Sestra</string>
     <string name="relationTypeSpouse">Manžel(-ka)</string>
     <string name="sipAddressTypeCustom">Vlastné</string>
-    <string name="sipAddressTypeHome">Domovská stránka</string>
+    <string name="sipAddressTypeHome">Domov</string>
     <string name="sipAddressTypeWork">Práca</string>
     <string name="sipAddressTypeOther">Iné</string>
     <string name="keyguard_password_enter_pin_code">Zadajte kód PIN</string>
