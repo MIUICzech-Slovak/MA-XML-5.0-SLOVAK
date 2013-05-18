@@ -82,7 +82,7 @@
   <string name="database_corruption">Databáza je poškodená, obnovujem</string>
   <string name="delete">Vymazať</string>
   <string name="delete_bookmark">Odstrániť z obľúbených</string>
-  <string name="delete_message">Vymazať správu</string>
+  <string name="delete_message">Vymazať</string>
   <string name="delete_phrase">Odstrániť frázy</string>
   <string name="delete_subject">Odstrániť predmet</string>
   <string name="delete_unlocked">Odstrániť zamknuté</string>
@@ -157,14 +157,14 @@
   <string name="loading_mms">Načítavanie MMS...</string>
   <string name="me">Ja</string>
   <string name="menu_compose_new">Vytvoriť</string>
-  <string name="menu_delete_messages">Odstrániť Správy</string>
+  <string name="menu_delete_messages">Odstrániť</string>
   <string name="menu_edit">Upraviť</string>
   <string name="menu_forward">Poslať ďalej</string>
-  <string name="menu_lock">Zamknúť správu</string>
+  <string name="menu_lock">Zamknúť</string>
   <string name="menu_new_manual">Vložiť číslo manuálne</string>
   <string name="menu_pick_from_contact">Vybrať z kontaktov</string>
   <string name="menu_preferences">Nastavenia</string>
-  <string name="menu_unlock">Odomknúť správu</string>
+  <string name="menu_unlock">Odomknúť</string>
   <string name="menu_view_contact">Zobraziť kontakt</string>
   <string name="message_class_label">"Trieda správy: "</string>
   <string name="message_details_title">Podrobnosti o správe</string>
@@ -291,7 +291,7 @@
   <string name="priority_normal">Stredná</string>
   <string name="privacy_mode_hint">V režime Hosť nemožno odoslať správu</string>
   <string name="private_message">Súkromné Správy</string>
-  <string name="private_new_notification">Notifikácia novej súkromnej správy</string>
+  <string name="private_new_notification">Notifikácia novej súkr. správy</string>
   <string name="private_protect">Ochrana súkromia</string>
   <string name="private_settings">Nastavenie súkromia</string>
   <string name="processing">Prebieha...</string>  
