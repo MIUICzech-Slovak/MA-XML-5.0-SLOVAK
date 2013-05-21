@@ -17,6 +17,8 @@
   <string name="can_not_play_video">Pre prehrávanie videa odblokujte obrazovku</string>
   <string name="cancel">Zrušiť</string>
   <string name="cannot_connect_camera">"Nie je možné pripojiť kameru."</string>
+  <string name="cannot_connect_camera_once">"Nie je možné pripojiť kameru, ukončite aplikáciu"</string>
+  <string name="cannot_connect_camera_twice">"Nie je možné pripojiť kameru, reštartujte telefón"</string>
   <string name="clear_effects">Vymazať efekty</string>
   <string name="close">Zatvoriť</string>
   <string name="confirm_change_mode_title">Prepnúť režim</string>

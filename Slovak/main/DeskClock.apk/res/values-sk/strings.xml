@@ -184,6 +184,7 @@
     <string name="stopwatch_title">Stopky</string>
     <string name="system_time_setting">Nastaviť čas</string>
     <string name="time">Čas</string>
+    <string name="timer_alert_alert_silenced">Časovač sa zastavil po %d minútach.</string>
     <string name="timer_continue">Pokračovať</string>
     <string name="timer_got_it">Zavrieť</string>
     <string name="timer_hour">H</string>

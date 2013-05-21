@@ -9,9 +9,11 @@
     <string name="alert_message_delete_note">Chcete vymazať túto poznámku?</string>
     <string name="alert_message_delete_notes">Chcete vymazať %1$s poznámok?</string>
     <string name="alert_message_discard_changes">Zrušiť všetky zmeny?</string>
+    <string name="alert_message_edit_anyway">Poznámka obsahuje nepodporovaný obsah, jej úprava môže spôsobiť stratu dát.</string>
     <string name="alert_title_delete">Mazanie vybraných poznámok</string>
     <string name="alert_message_exceed_image_limit">Môžete pripojiť maximálne 15 obrázkov do jednej poznámky. Vytvorte novú poznámku ak chcete pripojiť viac obrázkov.</string>
     <string name="alert_title_discard">Zrušiť zmeny?</string>
+    <string name="alert_title_edit_anyway">Ste si istý, že chcete pokračovať? Úprava tejto poznámky môže spôsobiť stratu jej dát?</string>
     <string name="alert_title_exceed_image_limit">Bol dosiahnutý limit počtu obrázkov v poznámke!</string>
     <string name="app_name">Poznámky</string> 
     <string name="app_widget">Poznámky</string>
@@ -29,6 +31,7 @@
     <string name="error_note_not_exist">Poznámka neexistuje</string>
     <string name="error_sdcard_export">Export zlyhal, skontrolujte SD kartu</string>
     <string name="error_sdcard_unmounted">SD karta je zaneprázdnená a nie je k dispozícií</string>
+    <string name="error_unsupport_content">Táto poznámka obsahuje nepodporovaný obsah, stlačte pre aktualizáciu systému</string>
     <string name="error_widget_exist_for_send_to_desktop">Táto poznámka už na ploche existuje</string>
     <string name="failed_sdcard_export">Export zlyhal</string>
     <string name="file_name_txt_format">poznámka_%s.txt</string>

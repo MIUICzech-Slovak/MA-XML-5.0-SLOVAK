@@ -76,6 +76,7 @@
 <string name="empty_dir_cleanup_indication">%s nepotrebné súbory</string>
 <string name="empty_dir_title">Prázdne zložky</string>
 <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
+<string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>   
 <string name="fail_to_create_folder">Zložku nie je možné vytvoriť, zložka už existuje</string>
 <string name="fail_to_rename">Zložku alebo súbor nie je možné premenovať, lebo už existuje</string>
 <string name="favorite_photo">Fotografia</string>

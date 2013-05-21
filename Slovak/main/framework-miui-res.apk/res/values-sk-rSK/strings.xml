@@ -13,8 +13,10 @@
     <string name="cold_dews" />
     <string name="contact_carrier_message">Obráťte sa na Vášho operátora</string>
     <string name="day_of_month">" %d"</string>
+    <string name="days">dni</string>
     <string name="delete">Vymazať</string>
     <string name="device_xiaomi">Xiaomi telefón</string>
+    <string name="deprecated_alarm_message_12_hour_formate"/>
     <string name="double_seventh_day" />
     <string name="emergency_call_string">SOS</string>
     <string name="error_forbidden">Váš účet má nejaké problémy. Synchronizácia je vypnutá.</string>
@@ -54,6 +56,7 @@
     <string name="group_name_friends">Priatelia</string>
     <string name="heavy_snow" />
     <string name="hoar_frost_falls" />
+    <string name="hours">%d hodín</string>
     <string name="check_phone_error_title">Povolenie synchronizácie zlyhalo</string>
     <string name="check_phone_io_error">Chyba siete</string>
     <string name="childrens_day" />
@@ -111,6 +114,7 @@
     <string name="lunar_zheng" />
     <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
     <string name="memory_clear_result">"Uvoľnené: %1$s \nDostupné: %2$s"</string>
+    <string name="minutes">%d minút</string>
     <string name="miui_copyright_title">Autorské práva</string>
     <string name="miui_device_name">Android</string>
     <string name="miui_mibi_license_title">Podmienky používania Mi kreditov</string>
@@ -157,6 +161,7 @@
     <string name="private_num">Súkromné číslo</string>
     <string name="puk_operation_failed">PUK zlyhal.</string>
     <string name="reboot_confirm">Telefón sa reštartuje</string>
+    <string name="reboot_confirm_title">Ste si istý, že chcete reštartovať Váš telefón?</string>
     <string name="reboot_progress">Reštartujem...</string>
     <string name="return_to_me_message">Prosím vráťte telefón ak ste ho našli!</string>
     <string name="reverse_all">Vymazať všetko</string>
@@ -181,6 +186,7 @@
     <string name="share">Zdieľať</string>
     <string name="short_pincode_error_msg">Zadajte 4–8 čísel</string>
     <string name="short_pukcode_error_msg">Zadajte 8 miestne číslo</string>
+    <string name="shutdown_confirm_title">Ste si istý, že chcete vypnúť Váš telefón?</string>
     <string name="sim_account_name">SIM</string>
     <string name="sim_changed_reactivate_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať medzinárodnú SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
     <string name="sim_changed_reactivate_int_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať medzinárodnú SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
