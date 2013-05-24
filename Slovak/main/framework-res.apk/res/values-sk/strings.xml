@@ -932,8 +932,8 @@ Chcete ju zavrieť?"</string>
     <string name="anr_process">"Proces %1$s neodpovedá. 
 
 Chcete ho zavrieť?"</string>
-    <string name="force_close">OK</string>
-    <string name="report">Prehľad</string>
+    <string name="force_close">Ukončiť</string>
+    <string name="report">Odoslať</string>
     <string name="wait">Čakajte</string>
     <string name="webpage_unresponsive">"Stránka nereaguje.
 
