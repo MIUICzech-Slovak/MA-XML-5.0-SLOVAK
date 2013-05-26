@@ -221,7 +221,7 @@
   <string name="send_multiple_files_hint_format">Odoslať viac súborov (%s)</string>
   <string name="send_to_cloud_failed_message">Odoslanie položky do Cloudu zlyhalo</string>
   <string name="sepia">Sépia</string>
-  <string name="set_hidden_album">Skrytý album</string>
+  <string name="set_hidden_album">Skryť album</string>
   <string name="set_image">Nastaviť obrázok ako</string>
   <string name="set_label_all_albums">Všetky albumy</string>
   <string name="set_label_local_albums">Lokálne albumy</string>
