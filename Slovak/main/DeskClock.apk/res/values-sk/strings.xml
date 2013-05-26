@@ -67,7 +67,6 @@
     <string name="holiday_data_update_failed">Aktualizácia zlyhala, skúste to opäť neskôr.</string>
     <string name="holiday_data_update_succeed">Aktualizácia dokončená</string>
     <string name="holiday_data_updating">Aktualizovanie...</string>
-    <string name="holiday_update_pref_invalidate_title">Zoznam pracovných dní (neaktuálny)</string>
     <string name="holiday_update_summary">Skontrolovať aktualizácie</string>
     <string name="holiday_update_title">Aktualizácia voľných dní vyžaduje internetové pripojenie</string>
     <string name="home_button_description">Launcher</string>

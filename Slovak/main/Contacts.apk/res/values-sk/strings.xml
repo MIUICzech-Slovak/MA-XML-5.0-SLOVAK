@@ -743,8 +743,8 @@ Pre pridanie kontaktu do obľúbených:
     <string name="removePhoto">Odstrániť fotku</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prehliadač zdrojov</string>
-    <string name="resource_apply">Aplikovať</string>
-    <string name="resource_buy">Kúpiť</string>
+    <string name="resource_apply">Použiť</string>
+    <string name="resource_buy">"Kúpiť "</string>
     <string name="resource_can_not_selected">%1$s sa nedá vybrať!</string>
     <string name="resource_default">Predvolené zvonenie</string>
     <string name="resource_default_name">Zdroj</string>

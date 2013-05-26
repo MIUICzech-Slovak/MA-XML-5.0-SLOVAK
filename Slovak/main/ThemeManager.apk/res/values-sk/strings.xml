@@ -51,8 +51,8 @@
     <string name="processing">Spracovávanie...</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prehliadač zdrojov</string>
-    <string name="resource_apply">Aplikovať</string>
-    <string name="resource_buy">Kúpiť</string>
+    <string name="resource_apply">Použiť</string>
+    <string name="resource_buy">"Kúpiť "</string>
     <string name="resource_can_not_selected">%1$s sa nedá vybrať!</string>
     <string name="resource_comment_account_need_activitied">Váš účet nie je aktivovaný, Chcete ho aktivovať teraz?</string>
     <string name="resource_comment_count">%1$s hodnotení a %2$s komentárov (verzia %3$s)</string>
