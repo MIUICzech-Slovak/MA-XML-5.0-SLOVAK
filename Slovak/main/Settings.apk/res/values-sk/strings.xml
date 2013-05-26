@@ -87,7 +87,7 @@
     <string name="apn_auth_type_pap">PAP</string>
     <string name="apn_auth_type_pap_chap">PAP alebo CHAP</string>	
     <string name="apn_edit">Upraviť prístupový bod</string>	
-    <string name="apn_general">Obecné</string>	
+    <string name="apn_general">Všeobecné</string>	
     <string name="apn_http_port">Port</string>	
     <string name="apn_http_proxy">Proxy</string>	
     <string name="apn_mcc">MCC</string>	
@@ -1691,7 +1691,7 @@ skúste:
 	<string name="sound_category_call_ringtone_vibrate_title">Vyzváňanie a vibrácia</string>
     <string name="sound_category_calls_and_notification_title">Vyzváňanie a oznámenie</string>	
     <string name="sound_category_notification_title">Oznámenie</string>	
-    <string name="sound_category_sound_title">Obecné</string>	
+    <string name="sound_category_sound_title">Všeobecné</string>	
 	<string name="sound_category_system_title">Systém</string>
     <string name="sound_effects_enable_title">Zvuky pri dotyku</string>	
     <string name="sound_settings">Zvuk</string>
@@ -1825,7 +1825,7 @@ skúste:
     <string name="tts_engine_settings_section">Nastavenie modulu</string>	
     <string name="tts_engine_settings_title">Nastavenie pre modul %s</string>	
     <string name="tts_engines_section">Moduly</string>	
-    <string name="tts_general_section_title">Obecné</string>	
+    <string name="tts_general_section_title">Všeobecné</string>	
     <string name="tts_install_data_summary">Nainštalovať hlasové dáta pre syntézu reči</string>	
     <string name="tts_install_data_title">Nainštalovať hlasové dáta</string>	
     <string name="tts_notif_engine_install_message">Pred použitím nový modul povoľte</string>	
