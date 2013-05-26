@@ -48,7 +48,6 @@
     <string name="mi_wallpaper_title">Mi-tapeta</string>
     <string name="online_no_network">Sieť je nedostupná</string>
     <string name="online_search_hint">Vyhľadať online informácie</string>
-    <string name="play_all_audio_effect">prehrať zvukový efekt (celkom: %1$s)</string>
     <string name="processing">Spracovávanie...</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prehliadač zdrojov</string>
@@ -60,7 +59,6 @@
     <string name="resource_comment_description">%1$s komentoval dňa %2$s.%3$s.%4$s</string>
     <string name="resource_comment_edit_comment">Pridať komentár</string>
     <string name="resource_comment_edit_comment_waiting">Kontrola či ste už zanechali komentár</string>
-    <string name="resource_comment_edit_left_count">ostáva %1$s znakov</string>
     <string name="resource_comment_edit_text_default">Písať komentár</string>
     <string name="resource_comment_edit_title">Komentár: %1$s</string>
     <string name="resource_comment_entry_tips">%1$s recenzií, kliknite pre zobrazenie</string>
@@ -103,7 +101,6 @@
     <string name="resource_ringtone_default">Zvonenia</string>
     <string name="resource_see_more">Viac</string>
     <string name="resource_select">Zvoliť</string>
-    <string name="resource_selected_number">Zvolené %1$d zdroj(e)</string>
     <string name="resource_server_out_of_service">Služba je nedostupná, skúste neskôr.</string>
     <string name="resource_switch_account">Zmeniť</string>
     <string name="resource_system_title">Systémové zdroje</string>

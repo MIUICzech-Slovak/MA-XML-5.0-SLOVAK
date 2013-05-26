@@ -115,7 +115,6 @@
     <string name="app_factory_reset">Odinštalovať aktualizácie</string>	
     <string name="app_factory_reset_dlg_text">Všetky aktualizácie tejto aplikácie systému Android budú odinštalované.</string>	
     <string name="app_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>	
-    <string name="app_floating_window_dlg">Povoliť \"%1$s\" zobraziť vyskakovacie okno</string>
     <string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích okien aplikácie %1$s ju násilne ukončí. Ste si istý, že ich chcete zakázať?"</string>
     <string name="app_floating_window_dlg_enable">"Povolenie vyskakovacích okien pre aplikáciu %1$s vyžaduje jej reštart. Ste si istý, že ich chcete povoliť?"</string>
     <string name="app_forward_locked">Aplikácia je chránená proti kopírovaniu.</string>	
@@ -159,8 +158,6 @@
     <string name="available_size">%s Voľné</string>	
     <string name="awake">Doba prevádzky zariadenia</string>
     <string name="back_key">Tlačidlo Späť</string>	
-    <string name="back_long_press">Tlačidlo Späť</string>	
-    <string name="back_long_press_timeout">Dĺžka stlačenia</string>	
     <string name="background_data">Dáta na pozadí</string>	
     <string name="background_data_dialog_message">Deaktivácia prenosu dát na pozadí šetrí batériu a znižuje objem prenesených dát. Niektoré aplikácie môžu napriek tomu dátové pripojenie na pozadí používať.</string>	
     <string name="background_data_dialog_title">Deaktivovať dáta na pozadí?</string>	
@@ -388,7 +385,6 @@
     <string name="bluetooth_profile_dun">Dial-up Network Access</string>
     <string name="bluetooth_profile_headset">Zvuk telefónu</string>	
     <string name="bluetooth_profile_hid">Vstupné zariadenie</string>	
-    <string name="bluetooth_profile_name">"%1$s MIUI telefón"</string>	
     <string name="bluetooth_profile_opp">Prenos súborov</string>	
     <string name="bluetooth_profile_pan">Prístup k internetu</string>	
     <string name="bluetooth_profile_pan_nap">Zdieľanie internetového pripojenia</string>	
@@ -644,7 +640,6 @@
     <string name="device_cpu">CPU</string>	
     <string name="device_cpu2_info">"2 jadrá "</string>	
     <string name="device_cpu4_info">"4 jadrá "</string>	
-    <string name="device_default_name">Xiaomi</string>
     <string name="device_edit_title">Zmeniť názov zariadenia</string>
     <string name="device_info_default">Neznáme</string>	
     <string name="device_info_label">Info o zariadení</string>	
@@ -756,8 +751,6 @@
     <string name="empty_list_msg">Žiadne aplikácie tretích strán nie sú nainštalované.</string>	
     <string name="enable_adb">Ladenie USB</string>	
     <string name="enable_adb_summary">Povoliť režim ladenia s pripojeným zariadením USB</string>
-    <string name="enable_assist_key_long_press">Podržaním spustíť Google Now</string>	
-    <string name="enable_back_long_press">Ukončiť aplik. podržaním</string>	
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>	
     <string name="enable_drive_mode">Povoliť režim AUTO</string>
     <string name="enable_snapshot_screenlock">Fotografia zo zamyk. obr.</string>
@@ -1045,13 +1038,6 @@
     <string name="master_clear_personal_data_sdcard">"Naozaj chcete vymazať osobné údaje a naformátovať SD kartu? Operáciu nie je možné vrátiť späť"</string>	
     <string name="master_clear_summary">Vymaže všetky dáta v telefóne!</string>	
     <string name="master_clear_title">Obnovenie predvolených dát</string>	
-    <string name="mdb_entering">Vstupujem</string>
-    <string name="mdb_restore_cancel">Zrušiť</string>
-    <string name="mdb_restore_info1">"Obnoví dáta Vášho telefónu"</string>
-    <string name="mdb_restore_info2">"Neodpojujte USB"</string>
-    <string name="mdb_restore_label">Mdb obnova</string>
-    <string name="mdb_restore_mode">Režim obnovy</string>
-    <string name="mdb_usb_disconnection_exit">USB odpojené, rušenie obnovy</string>
     <string name="media_button">Tlačidlo Média</string>	
     <string name="media_format_button_text">Zmazať SD kartu</string>	
     <string name="media_format_desc">Zmazať SD kartu? Stratíte všetky dáta na nej uložené.</string>	
@@ -1279,7 +1265,6 @@ skúste:
     <string name="perm_operating">Pracujem...</string>
     <string name="perm_optimize">Optimalizovať</string>
     <string name="perm_privacy_app_count">%1$d povolení</string>
-	<string name="perm_privacy_app_count_trust_summary">Veriť aplikácií</string>
     <string name="perm_privacy_app_finish">Dokončiť</string>
     <string name="perm_privacy_app_installed">Úspešne nainštalované!</string>
     <string name="perm_privacy_app_launch">Spustiť</string>
@@ -1347,8 +1332,7 @@ skúste:
     <string name="power_bluetooth">Bluetooth</string>	
     <string name="power_cell">V pohotovostnom režime</string>	
     <string name="power_idle">V nečinnosti</string>	
-    <string name="power_key">Zapínacie tlačidlo</string>	
-	<string name="power_mode">Režim výkonu</string>
+    <string name="power_mode">Režim výkonu</string>
     <string name="power_phone">Hlasové hovory</string>	
     <string name="power_screen">Obrazovka</string>	
     <string name="power_usage_history">Využitie batérie</string>	
@@ -1360,7 +1344,6 @@ skúste:
     <string name="pref_button_light">Osvetlenie tlačidiel</string>	
     <string name="pref_button_light_summary">Menu, Domov a Späť tlačidlo</string>	
     <string name="pref_operational_key">Ovládacie tlačidlo</string>	
-    <string name="pref_volume_category_title">Ovládanie hlasitosti</string>	
     <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie.. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>	
     <string name="pref_volume_wake_title">Zobudiť telefón</string>	
     <string name="preference_change_password_title">Zmeniť heslo</string>
@@ -1516,7 +1499,6 @@ skúste:
     <string name="runningservicedetails_stop_dlg_title">Zastaviť systémovú službu?</string>	
     <string name="runningservices_settings_summary">Umožňuje zobraziť a ovládať aktuálne spustené služby</string>	
     <string name="runningservices_settings_title">Spustené služby</string>	
-	<string name="safe_relative">Bezpečné povolenia</string>
     <string name="scan_list_label">Výsledky skenovania:</string>
     <string name="screen">Displej</string>
     <string name="screen_button_custom">Úprava pozície tlačidlá na displeji</string>    	
@@ -1615,7 +1597,6 @@ skúste:
     <string name="select_device_admin_msg">Správcovia zariadenia</string>	
     <string name="select_subscription">Select Subscription</string>
     <string name="service_background_processes">Voľné: %1$s</string>	
-    <string name="service_busy">Služba je zaneprázdnená, skúste to znova.</string>	
     <string name="service_foreground_processes">Využité: %1$s</string>	
     <string name="service_manage">Nastavenie</string>	
     <string name="service_manage_description">%1$s: práve sa používa. Ovládacie prvky zobrazíte dotykom na Nastavenia.</string>	
@@ -1657,7 +1638,6 @@ skúste:
     <string name="show_password">Zobraziť hesla</string>	
     <string name="show_password_summary" />
     <string name="show_rounded_corners">Zobraziť zaoblené rohy</string>	
-    <string name="show_rounded_corners_summary">Je vyžadovaný reštart!</string>	
     <string name="show_running_services">Zobraziť spustené služby</string>	
     <string name="show_screen_updates">Aktualizácia displeja</string>	
     <string name="show_screen_updates_summary">Blikanie časti displeja pri jeho aktualizácii</string>	

@@ -8,7 +8,6 @@
     <string name="alert_title_new_station">Nová stanica</string>
     <string name="alert_title_save_station">Uložiť stanicu - %s</string>
     <string name="app_name">FM Rádio</string>
-    <string name="aud_output_mode">Audio výstup</string>
     <string name="audio_db_album_name">Nahrávky z rádia</string>
     <string name="audio_db_artist_name">z rádia</string>
     <string name="audio_db_playlist_name">Nahrávky z rádia</string>
@@ -75,7 +74,6 @@
     <string name="msg_searching">Hľadám dostupné stanice pre vytvorenie zoznamu</string>
     <string name="msg_searching_title">Hľadanie staníc</string>
     <string name="msg_seeking">Hľadanie stanice</string>
-    <string name="msg_unable_start_fm_title">Nie je možné spustiť rádio</string>
     <string name="msg_weak_searching">Hľadám alternatívnu frekvenciu</string>
     <string name="no_storage">Pripojte SD kartu pred nahrávaním</string>
     <string name="preparing_sd">Pripravujem SD kartu</string>
@@ -90,16 +88,13 @@
     <string name="record_file_location_format">Stlač pre zobrazenie súboru %s</string>
     <string name="record_sucess">Nahrávanie dokončené</string>
     <string name="regional_band">Rozsah frekvencie (vymaže staníce)</string>
-    <string name="revert_to_fac">Obnoviť tovarné nastavenia</string>
     <string name="search_dialog_title">Vyhľadať stanice</string>
-    <string name="sel_audio_output">Zvoľte typ výstupu</string>
     <string name="sel_band_menu">Vyberte </string>
     <string name="set">OK</string>
     <string name="set_rmmsi_delta">Nastaviť RMSSI Delta</string>
     <string name="set_sigth">Nastaviť Signál Th</string>
     <string name="settings_menu">Nastavenie</string>
     <string name="settings_revert_confirm_msg">Táto možnosť odstráni všetky nastavenia vrátane uložených staníc.</string>
-    <string name="settings_revert_confirm_title">Obnovenie predvoleného nastavenia</string>
     <string name="settings_revert_defaults_title">Obnoviť predvolené nastavenia</string>
     <string name="spaceIsLow_content">Dochádza voľné miesto v telefóne. Znížte kvalitu nahrávania alebo odstráňte nepotrebné súbory</string>
     <string name="stat_notif_frequency">Frekvencia: %1$s MHz</string>

@@ -16,7 +16,6 @@
   <string name="camera_settings_label">Nastavenie fotoaparátu</string>
   <string name="can_not_play_video">Pre prehrávanie videa odblokujte obrazovku</string>
   <string name="cancel">Zrušiť</string>
-  <string name="cannot_connect_camera">"Nie je možné pripojiť kameru."</string>
   <string name="cannot_connect_camera_once">"Nie je možné pripojiť kameru, ukončite aplikáciu"</string>
   <string name="cannot_connect_camera_twice">"Nie je možné pripojiť kameru, reštartujte telefón"</string>
   <string name="clear_effects">Vymazať efekty</string>
@@ -96,7 +95,6 @@
   <string name="not_enough_space">Vaša SD karta je plná.</string>
   <string name="not_selectable_in_scene_mode">V režime scén nie je možné vybrať.</string>
   <string name="ok">OK</string>
-  <string name="open">Otvor</string>
   <string name="orientation">Orientácia</string>
   <string name="pano_dialog_panorama_failed">"Nie je možné uložiť panorámu."</string>
   <string name="pano_dialog_prepare_preview">Príprava panorámy</string>
@@ -123,8 +121,6 @@
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
   <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
-  <string name="pref_camera_auto_focus_entry_off">Vypnutý</string>
-  <string name="pref_camera_auto_focus_entry_on">Zapnutý</string>
   <string name="pref_camera_auto_focus_title_entry_off">Vypnuté</string>
   <string name="pref_camera_auto_focus_title_entry_on">Zapnuté</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Na stred</string>
@@ -138,7 +134,6 @@
   <string name="pref_camera_coloreffect_entry_posterize">Poster</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
   <string name="pref_camera_coloreffect_title">Efekt farieb</string>
-  <string name="pref_camera_coloreffect_title_simple_mode">Filtre</string>
   <string name="pref_camera_contrast_entry_level0">Úroveň 0</string>
   <string name="pref_camera_contrast_entry_level1">Úroveň 1</string>
   <string name="pref_camera_contrast_entry_level10">Úroveň 10</string>
@@ -185,12 +180,6 @@
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
   <string name="pref_camera_iso_title">Hodnota ISO</string>
-  <string name="pref_camera_jpegquality_entry_0">Jpeg 55%</string>
-  <string name="pref_camera_jpegquality_entry_1">Jpeg 65%</string>
-  <string name="pref_camera_jpegquality_entry_2">Jpeg 75%</string>
-  <string name="pref_camera_jpegquality_entry_3">Jpeg 85%</string>
-  <string name="pref_camera_jpegquality_entry_4">Jpeg 95%</string>
-  <string name="pref_camera_jpegquality_entry_5">Jpeg 100%</string>
   <string name="pref_camera_jpegquality_entry_fine">Dobrá</string>
   <string name="pref_camera_jpegquality_entry_normal">Normálna</string>
   <string name="pref_camera_jpegquality_entry_superfine">Veľmi dobrá</string>
@@ -227,7 +216,6 @@
   <string name="pref_camera_preview_entry_2000">2 sekundy</string>
   <string name="pref_camera_preview_entry_5000">5 sekúnd</string>
   <string name="pref_camera_preview_entry_off">Vypnuté</string>
-  <string name="pref_camera_preview_title">Náhľad</string>
   <string name="pref_camera_recordlocation_entry_off">Vypnutá</string>
   <string name="pref_camera_recordlocation_entry_on">Zapnutá</string>
   <string name="pref_camera_recordlocation_title">Poloha uloženia</string>
@@ -235,7 +223,6 @@
   <string name="pref_camera_redeyereduction_entry_disable">Vypnutá</string>
   <string name="pref_camera_redeyereduction_entry_enable">Zapnutá</string>
   <string name="pref_camera_redeyereduction_title">Redukcia červených očí</string>
-  <string name="pref_camera_referenceline">Mriežka</string>
   <string name="pref_camera_referenceline_entry_off">Vypnutá</string>
   <string name="pref_camera_referenceline_entry_on">Zapnutá</string>
   <string name="pref_camera_saturation_entry_level0">Úroveň 0</string>
@@ -250,7 +237,6 @@
   <string name="pref_camera_saturation_entry_level8">Úroveň 8</string>
   <string name="pref_camera_saturation_entry_level9">Úroveň 9</string>
   <string name="pref_camera_saturation_title">Sýtosť farieb</string>
-  <string name="pref_camera_scenedetect_entry_off">Vypnutá</string>
   <string name="pref_camera_scenedetect_title">Auto Detekcia Scény</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
   <string name="pref_camera_scenemode_entry_backlight">Protisvetlo</string>
@@ -266,7 +252,6 @@
   <string name="pref_camera_scenemode_entry_sports">Šport</string>
   <string name="pref_camera_scenemode_entry_sunset">Západ slnka</string>
   <string name="pref_camera_scenemode_title">Scény</string>
-  <string name="pref_camera_selectablezoneaf_title">Auto ostrenie dotykom</string>
   <string name="pref_camera_settings_category">Nastavenie fotoaparátu</string>
   <string name="pref_camera_settings_title">Nastavenia</string>
   <string name="pref_camera_sharpness_entry_level0">Úroveň 0</string>
@@ -346,7 +331,6 @@
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 sekundy (90 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekúnd (900 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časozberné video (Time Lapse)</string>
-  <string name="preference_simple_mode_title">Základný režim</string>
   <string name="preparing_sd">Príprava úložiska...</string>
   <string name="record_back_pressed_hint">Stlačte opäť pre zastavenie nahrávania</string>
   <string name="resume_playing_message">Pokračovať prehrávanie od %s ?</string>
@@ -379,7 +363,6 @@
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
   <string name="simple_mode_button_text_panorama">Ukončiť panorámu</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť spomalenú kameru</string>
-  <string name="skip">Preskočiť</string>
   <string name="slideshow">Prezentácia</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
   <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>

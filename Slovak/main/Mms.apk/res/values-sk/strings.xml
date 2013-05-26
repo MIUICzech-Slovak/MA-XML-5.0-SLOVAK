@@ -2,7 +2,6 @@
 <resources>
   <string name="activity_not_found">Program pre zobrazenie prílohy sa nenašiel</string>
   <string name="activity_not_found_uri">Pre túto akciu sa nenašiel program</string>
-  <string name="add_attachment">Príloha</string>
   <string name="add_bookmark">Obľúbené</string>
   <string name="add_contact">Pridať kontakt</string>
   <string name="add_festival">Sviatok</string>
@@ -15,7 +14,6 @@
   <string name="add_slide">Pridať snímok</string>
   <string name="add_slide_hint">Umožňuje vytvoriť nový snímok.</string>
   <string name="add_smiley">Pridať smajlíka</string>
-  <string name="add_subject">Pridať predmet</string>
   <string name="add_timing">Pridať časovanie</string>
   <string name="add_video">Pridať video</string>
   <string name="adding_attachments">Čakajte prosím, pokiaľ budú položky pridané do prezentácie.</string>
@@ -84,7 +82,6 @@
   <string name="delete_bookmark">Odstrániť z obľúbených</string>
   <string name="delete_message">Vymazať</string>
   <string name="delete_phrase">Odstrániť frázy</string>
-  <string name="delete_subject">Odstrániť predmet</string>
   <string name="delete_unlocked">Odstrániť zamknuté</string>
   <string name="delivery_report_activity">Potvrdenie o doručení</string>
   <string name="delivery_toast_body">Správa bola doručená %s</string>

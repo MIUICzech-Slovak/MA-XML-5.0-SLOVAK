@@ -274,7 +274,4 @@
     <string name="cit_tool_wifi_rx_ap_type_error">Chyba pripojenia, znova vložte nastavenia bss / adhoc</string>
     <string name="cit_tool_wifi_rx_ap_not_null">Názov Wi-Fi siete nemôže byť prázdny</string>
     <string name="cit_tool_wifi_exit">Ukončiť</string>
-    <string name="cit_keyboard_camera">Test tlačidla: FOTOAPARÁT</string>
-    <string name="cit_keyboard_focus">Test tlačidla: ZOOM</string>
-    <string name="cit_main_camera_sdcard_error">SD karta je plná, nie je možné uložiť snímku</string>
 </resources>

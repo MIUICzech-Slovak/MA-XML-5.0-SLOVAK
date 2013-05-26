@@ -148,7 +148,6 @@
     <string name="HIPS_Perm_SMS_Access">Prístup k SMS správam</string>
     <string name="HIPS_Perm_SMS_Desc">Prístup k SMS správam</string>
     <string name="HIPS_Perm_SMS_Hint">%1$s aplikácie majú povolenie pre prístup k SMS správam</string>
-    <string name="HIPS_Perm_Title">Názov</string>
     <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
     <string name="HIPS_Perm_WIFINetwork_Desc">Prístup k Internetu cez Wi-Fi</string>
     <string name="HIPS_Perm_WIFINetwork_Hint">%1$s aplikácie majú povolenie pre prístup na Internet cez Wi-Fi</string>

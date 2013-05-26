@@ -124,7 +124,6 @@
     <string name="clearFrequentsProgress_title">Mazanie zoznamu častých kontaktov...</string>
     <string name="click_close">Kliknite pre zatvorenie</string>
     <string name="cloud_antispam_mark">Spam</string>
-    <string name="cloud_antispam_summary">Filtrovať hovory a správy cez Wi-Fi a mobilné dáta</string>
     <string name="cloud_antispam_title">Anti-Spam</string>
     <string name="composer_failed_to_get_database_infomation">Načítanie informácií z databázy sa nepodarilo</string>
     <string name="composer_has_no_exportable_contact">Nemožno exportovať žiadne kontakty. Ak máte v telefóne skutočne uložené kontakty, je možné, že poskytovateľ dátových služieb zakázal ich export mimo telefón.</string>
@@ -411,7 +410,6 @@
     <string name="import_weibo_fetch_followers">Získavanie Sina Weibo priateľov...</string>
     <string name="import_weibo_notification_title">Importovanie kontaktov z sina weibo...</string>
     <string name="import_weibo_notification_title_done">Import kompletný</string>
-    <string name="import_weibo_progress_hint">Importovanie...</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="importing_vcard_canceled_title">Import %s bol prerušený</string>
@@ -434,7 +432,6 @@
     <string name="list_filter_customize">Vlastné...</string>
     <string name="list_filter_phones">Všetky kontakty s telefónnymi číslami</string>
     <string name="list_filter_single">Kontakt</string>
-    <string name="listAllContactsInAccount">Kontakty v %s</string>
     <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>
     <string name="listFoundAllContactsZero">Nenájdené</string>
     <string name="listSingleContact">Jediný kontakt</string>
@@ -714,7 +711,6 @@ Pre pridanie kontaktu do obľúbených:
     <string name="preference_tone_title">Tón</string>
     <string name="prepare_import">Pripraviť import</string>
     <string name="preview_contact_card_title">Importovať vizitku</string>
-    <string name="primary_indicator">(predvolené)</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="processing">Spracovávanie...</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
@@ -770,14 +766,12 @@ Pre pridanie kontaktu do obľúbených:
     <string name="resource_no_result">Bez výsledku</string>
     <string name="resource_notification_default">Upozornenia</string>
     <string name="resource_online">Online</string>
-    <string name="resource_preview">Náhľad</string>	
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
     <string name="resource_price_unit">Mi Kredity</string>
     <string name="resource_ringtone_default">Zvonenia</string>
     <string name="resource_see_more">Viac</string>
     <string name="resource_select">Zvoliť</string>
-    <string name="resource_selected_number">Zvolené %1$d zdroj(e)</string>
     <string name="resource_server_out_of_service">Služba je nedostupná, skúste neskôr.</string>
     <string name="resource_switch_account">Zmeniť</string>
     <string name="resource_system_title">Systémové zdroje</string>
@@ -791,7 +785,6 @@ Pre pridanie kontaktu do obľúbených:
     <string name="save_photo_progress">Ukladám fotku...</string>
     <string name="savingContact">Ukladanie kontaktu...</string>
     <string name="savingDisplayGroups">Ukladám nastavenia zobrazenia …</string>
-    <string name="scan_duplicate">"Hľadám duplicitné dáta, prosím čakajte... "</string>
     <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
     <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
     <string name="scanning_sdcard_failed_message">"Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: \"%s\")</string>
