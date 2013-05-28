@@ -97,6 +97,7 @@
     <string name="callrecordview_menu_delete_called">Vymazať volané</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
+	<string name="callrecordview_menu_delete_new">Vymazať Nové Kontakty</string>
     <string name="callrecordview_menu_delete_one">Vymazať záznam o hovore</string>
     <string name="callrecordview_menu_delete_stranger">Vymazať neznáme čísla</string>
     <string name="callrecordview_menu_paste">Vložiť</string>
@@ -106,6 +107,7 @@
     <string name="callrecordview_menu_show_all">Všetky hovory</string>
     <string name="callrecordview_menu_show_called">Zobraziť volané</string>
     <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
+	<string name="callrecordview_menu_show_new">Nové Kontakty</string>
     <string name="callrecordview_menu_show_stranger">Neznáme čísla</string>
     <string name="callrecordview_menu_show_title">Výber kategórie</string>
     <string name="callShortcutActivityTitle">Vyberte číslo, ktorému chcete volať</string>
@@ -311,6 +313,8 @@
     <string name="event_edit_field_hint_text">Dátum</string>
     <string name="eventLabelsGroup">Udalosti</string>
     <string name="export_sim_contact_finish">Export na SIM kartu je kompletný</string>
+    <string name="export_sim_contact_finish_failure">SIM karta je plná. Dokončené: %1$d Nedokončené: %2$d</string>
+    <string name="export_sim_contact_finish_success">Skopírovaných %d kontaktov zo SIM karty</string>
     <string name="export_sim_contacts_dialog_message">Vaša SIM karta môže uložiť %d kontaktov. Ste si istý, že chcete pokračovať?</string>
     <string name="export_to_sdcard">Exportovať na úložisko</string>
     <string name="export_to_sim">Exportovať na SIM kartu</string>
@@ -371,9 +375,10 @@
     <string name="help_url_people_edit" />
     <string name="help_url_people_main" />
     <string name="hint_distance">udržať rozstup</string>
-    <string name="hint_findContacts">Nájsť kontakty</string>
+	<string name="hint_findContacts">Nájsť kontakty</string>
     <string name="hint_more_contact">Ak existujú zdvojené kontakty, môžete ich zlúčiť</string>
     <string name="hint_search_contacts">%d kontaktov</string>
+	<string name="hint_search_emails">%d E-mailov</string>
     <string name="hint_search_phone_numbers">%d čísel kontaktov</string>
     <string name="chat">Chat</string>
     <string name="chat_aim">Chatovat pomocou AIM</string>

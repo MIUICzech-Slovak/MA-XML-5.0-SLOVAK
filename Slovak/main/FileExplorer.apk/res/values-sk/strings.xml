@@ -75,6 +75,7 @@
 <string name="enable_sd_card">Povoliť SD kartu</string>
 <string name="empty_dir_cleanup_indication">%s nepotrebné súbory</string>
 <string name="empty_dir_title">Prázdne zložky</string>
+<string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
 <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
 <string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>   
 <string name="fail_to_create_folder">Zložku nie je možné vytvoriť, zložka už existuje</string>

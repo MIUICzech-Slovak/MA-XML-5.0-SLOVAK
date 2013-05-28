@@ -7,6 +7,7 @@
   <string name="accessibility_zoom_control">Ovládanie Zoomu</string>
   <string name="albums">Albumy</string>
   <string name="aperture">Uzávierka</string>
+  <string name="app_details">Aplikácia:</string>
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasmerujte svoj telefón nadol, 
   opustite na chvíľu náhľad"</string>
@@ -26,6 +27,19 @@
   <string name="confirm_location_message">Mi2 môže zaznamenať Vašu polohu vo fotografií. Chcete otvoriť nastavenia polohy?</string>
   <string name="confirm_restore_message">Chcete obnoviť predvolené nastavenia?</string>
   <string name="confirm_restore_title">Obnoviť predvolené</string>
+  <string name="contact_address">Adresa</string>
+  <string name="contact_birthday">Narodeniny</string>
+  <string name="contact_company">Firma</string>
+  <string name="contact_details">Kontakt:</string>
+  <string name="contact_email">E-mail</string>
+  <string name="contact_name">Meno</string>
+  <string name="contact_nickname">Prezívka</string>
+  <string name="contact_note">Poznámka</string>
+  <string name="contact_phone">Telefón</string>
+  <string name="contact_title">Titul</string>
+  <string name="contact_web">Web</string>
+  <string name="copy_text">Kopírovať</string>
+  <string name="copy_text_success">Text je skopírovaný</string>
   <string name="crop_saved">Orezaná fotografia bola uložená do %s</string>
   <string name="delete">Vymazať</string>
   <string name="deleted">Vymazané</string>
@@ -36,6 +50,7 @@
   <string name="details_title">%1$d z %2$d:</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Záznam videa nie je podporovaný v režime špeciálnych efektov.</string>
+  <string name="download_by_browser">Sťiahnuť pomocou prehliadača</string>
   <string name="duration">Dĺžka</string>
   <string name="edit">Upraviť</string>
   <string name="effect_backdropper_disco">Disco</string>
@@ -59,6 +74,11 @@
   <string name="error_fail_to_start_audio_capture">Záznam zvuku zlyhal: Mikrofón je zrejme používaný inou aplikáciou.</string>
   <string name="exposure_time">Čas expozície</string>
   <string name="file_size">Veľkosť súboru</string>
+  <string name="find_market_qrcode">Vyhľadať QR kód obchodu</string>
+  <string name="find_mecard_qrcode">Vyhľadať QR kód karty</string>
+  <string name="find_other_qrcode">Vyhľadať QR kód</string>
+  <string name="find_web_qrcode">Vyhľadať QR kód stránky</string>
+  <string name="find_weixin_qrcode">Vyhľadať QR kód weixin</string>
   <string name="flash">Blesk</string>
   <string name="flash_off">Bez blesku</string>
   <string name="flash_on">S bleskom</string>
@@ -79,8 +99,10 @@
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="Import">Import</string>
   <string name="import_complete">Import dokončený</string>
+  <string name="import_contact">Import kontaktu</string>
   <string name="import_fail">Import zlyhal!</string>
   <string name="iso">ISO</string>
+  <string name="launch_market">Spustiť Google Play</string>
   <string name="loading">Načítavanie...</string>
   <string name="loading_video">Načítavanie videa...</string>
   <string name="location">Poloha</string>
@@ -332,6 +354,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekúnd (900 krát)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Časozberné video (Time Lapse)</string>
   <string name="preparing_sd">Príprava úložiska...</string>
+  <string name="qr_code_details">"QR kód: "</string>
   <string name="record_back_pressed_hint">Stlačte opäť pre zastavenie nahrávania</string>
   <string name="resume_playing_message">Pokračovať prehrávanie od %s ?</string>
   <string name="resume_playing_restart">Reštart</string>
@@ -341,6 +364,10 @@
   <string name="rotate_left">Otočiť doľava</string>
   <string name="rotate_right">Otočiť doprava</string>
   <string name="save">Uložiť</string>
+  <string name="scan_qrcode">Oskenovať QR kód</string>
+  <string name="secure_access_web_url">Zabezpečiť internetový prístup</string>
+  <string name="see_app_details">Podrobnosti aplikácie</string>
+  <string name="see_qrcode_detals">Zobraziť podrobnosti o QR kóde</string>
   <string name="select_all">Vybrať všetko</string>
   <string name="select_image">Vybrať fotografiu</string>
   <string name="select_item">Vybrať súbor</string>
@@ -368,6 +395,7 @@
   <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>
   <string name="snapshotsize_low_powermode">Rozlíšenie obrazu v režime nízkej spotreby nie je podporované. Pre fotografiu bude použité rozlíšenie videa. Zvoľte režim vysokého výkonu pre vybranie kvality snímku.</string>
   <string name="spaceIsLow_content">Dochádza voľné miesto na SD karte. Znížte kvalitu alebo vymažte niektoré snímky alebo iné súbory.</string>
+  <string name="success_message_import_from_account">Úspešne importované</string>
   <string name="tags">Značky</string>
   <string name="tap_to_focus">Dotknite sa pre priblíženie.</string>
   <string name="time">Čas</string>
@@ -389,6 +417,10 @@
   <string name="video_snapshot_hint">Dotknutím sa displeja počas nahrávania videa vytvoríte fotografiu.</string>
   <string name="videocamera_settings_label">Nastavenie videa</string>
   <string name="wait">Čakajte prosím...</string>
+  <string name="web_url_apk_warning">Vybraný QR kód obsahuje aplikáciu ktorá môže ohroziť Vaše dáta. Pre overenie zabezpečenia vyhľadajte túto aplikáciu v obchode Google Play.</string>
+  <string name="web_url_warning">Internetová stránka v QR kóde môže ohroziť Vaše dáta, Prehliadač MIUI skontroluje tento QR kód.</string>
+  <string name="website_details">"Internetová stránka: "</string>
+  <string name="weixin_details">"Weixin: "</string>
   <string name="white_balance">Vyváženie bielej</string>
   <string name="width">Šírka</string>
 </resources>

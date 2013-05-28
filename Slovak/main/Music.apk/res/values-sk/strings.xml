@@ -39,6 +39,7 @@
     <string name="confirm">Potvrdiť</string>    
     <string name="correct_id3_by_internet">Automaticky opraviť ID3 pomocou internetu</string>
     <string name="correct_id3_failed">Oprava ID3 zlyhala!</string>
+	<string name="correct_id3_in_processing">Opravovanie ID3 informácií</string>
     <string name="correct_id3_not_support">Oprava ID3 nie je podporovaná týmto typom súboru.</string>
     <string name="correct_id3_open_other_connect">Zapnite opravu ID3 pomocou mobilného internetu</string>
     <string name="correct_id3_settings">Nastavenia opráv ID3</string>
@@ -162,6 +163,7 @@
     <string name="no_song_downloaded">Nie je možné stiahnuť skladbu.</string>
     <string name="not_selected">Zvoľte pesničku</string>
     <string name="notification_artist_album">"%2$s %1$s"</string>
+	<string name="online_title">Online</string>
     <string name="online_music">Online hudba</string>
     <string name="online_search_hint">Hľadať hudbu online</string>
     <string name="other_settings">Ostatné</string>
