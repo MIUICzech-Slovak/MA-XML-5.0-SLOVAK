@@ -43,7 +43,7 @@
     <string name="correct_id3_not_support">Oprava ID3 nie je podporovaná týmto typom súboru.</string>
     <string name="correct_id3_open_other_connect">Zapnite opravu ID3 pomocou mobilného internetu</string>
     <string name="correct_id3_settings">Nastavenia opráv ID3</string>
-    <string name="correct_id3_start">Začať opravu ID3</string>
+    <string name="correct_id3_start">Opravuje sa ID3 skladieb</string>
     <string name="correct_id3_success">ID3 úspešne opravené</string>
     <string name="correct_id3_summary">Metóda opravy ID3 môže zvýšiť spotrebu mobilných dát. Po dokončení ju prosím zavrite.</string>
     <string name="create_confirm">Potvrdiť</string>
