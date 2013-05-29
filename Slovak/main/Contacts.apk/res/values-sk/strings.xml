@@ -12,7 +12,7 @@
     <string name="activity_title_settings">Nastavenia</string>
     <string name="add_2sec_pause">Pridať 2s pauzu</string>
     <string name="add_account">Pridať účet</string>
-    <string name="add_blacklist">Pridať na čiernu listinu</string>
+    <string name="add_blacklist">Čierna listina</string>
     <string name="add_connection_button">Pridať prepojenie</string>
     <string name="add_contact_dlg_message_fmt">Pridať \"%s\" do kontaktov?</string>
     <string name="add_field">Pridať ďalšiu položku</string>
@@ -80,7 +80,7 @@
     <string name="callBack">Spätné volanie</string>
     <string name="callDetailsDurationFormat" formatted="false">%s min %s s</string>
     <string name="callDetailTitle">Detaily hovoru</string>    
-    <string name="calllog_menu_blacklist">Pridať na black list</string>
+    <string name="calllog_menu_blacklist">Pridať na čiernu listinu</string>
     <string name="calllog_menu_edit_before_call">Upraviť pred volaním</string>
     <string name="calllog_menu_send_sms">Poslať SMS</string>
     <string name="callrecordview_item_newcontact">Nový kontakt</string>
