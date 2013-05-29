@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">Skladieb odstránených zo zoznamu: %d</item>
+        <item quantity="one">1 skladba odstránená zo zoznamu</item>
+    </plurals>
     <plurals name="Ntracks_search_result_format">
         <item quantity="other">%d skladieb</item>
         <item quantity="one">%d skladba</item>
