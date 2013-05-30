@@ -144,7 +144,7 @@
     <string name="verify_and_apply_dialog_title">Kontrola integrity dát</string>
     <string name="view_install_log">Zobraziť záznam</string>
     <string name="view_upgrade_tutorial">Pozrieť návod</string>
-    <string name="weekly_build">Týždenné zostavenia</string>
+    <string name="weekly_build">Týždenná verzia</string>
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
     <string name="worst_update">Zlý update</string>
