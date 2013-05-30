@@ -36,6 +36,7 @@
     <string name="add_to_other_folder_menu_option">Iný priečinok</string>	
     <string name="add_xiaomi_account_warning">Najskôr sa prosím prihláste do účtu Xiaomi</string>	
     <string name="added_to_bookmarks">Pridané do záložiek.</string>	
+    <string name="alert_tips">Táto stránka môže ohroziť Vašu bezpečnosť a súkromie, buďte opatrný!</string>
     <string name="allow">Povoliť</string>	
     <string name="application_name">Prehliadač</string>	
     <string name="autofill_profile_editor_address_line_1">Riadok adresy 1:</string>	
@@ -93,7 +94,9 @@
     <string name="cancel">Zrušiť</string>	
     <string name="cannot_download">Sťahovať možno iba \"http\" alebo \"https\" URL.</string>	
     <string name="clear">Vyčistiť</string>	
-    <string name="clear_history">Vymazať históriu</string>	
+    <string name="clear_history">Vymazať históriu</string>
+    <string name="close_all_tab_alert_message">Ste si istý, že chcete zatvoriť všetky karty?</string>
+    <string name="close_all_tab_alert_title">Zatvoriť všetky karty</string>
     <string name="containing_folder">Pridať do</string>	
     <string name="contextheader_folder_bookmarkcount">%d záložky</string>	
     <string name="contextheader_folder_empty">Prázdny priečinok</string>	
@@ -217,6 +220,10 @@
     <string name="move_to_up_folder">O úroveň vyššie</string> 	
     <string name="multi_select_title">Vybraných %1$s</string>	
     <string name="name">Názov</string>	
+    <string name="navigation_button_close">Zatvoriť</string>
+    <string name="navigation_button_newtab">Nová</string>
+    <string name="navigation_button_tab">Karta</string>
+    <string name="navigation_button_view">Zobraziť</string>
     <string name="new_folder">Nový priečinok</string>	
     <string name="new_incognito_tab">Nová inkognito karta</string>	
     <string name="new_tab">Nová karta</string>	
@@ -297,6 +304,7 @@
     <string name="pref_extras_website_settings">Nastavenia stránky</string>	
     <string name="pref_extras_website_settings_summary">Rozšírené nastavenia pre individuálne stránky</string>	
     <string name="pref_fling_on_border_enabled">Presun na okraj</string>
+    <string name="pref_fling_on_border_enabled_title_summary">Posuňte prstom na kraj obrazovky</string>
     <string name="pref_fling_on_border_operation">Operácia pre skočenie na okraj</string>	
     <string name="pref_font_size_category">Veľkosť textu</string>	
     <string name="pref_force_userscalable">Vynútiť povolenie priblíženia</string>	
