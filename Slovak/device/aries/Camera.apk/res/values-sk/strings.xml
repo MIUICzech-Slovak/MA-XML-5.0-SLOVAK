@@ -364,7 +364,7 @@
   <string name="rotate_left">Otočiť doľava</string>
   <string name="rotate_right">Otočiť doprava</string>
   <string name="save">Uložiť</string>
-  <string name="scan_qrcode">Oskenovať QR kód</string>
+  <string name="scan_qrcode">QR kód</string>
   <string name="secure_access_web_url">Otvoriť internetový prehliadač</string>
   <string name="see_app_details">Podrobnosti aplikácie</string>
   <string name="see_qrcode_detals">Zobraziť podrobnosti o QR kóde</string>
