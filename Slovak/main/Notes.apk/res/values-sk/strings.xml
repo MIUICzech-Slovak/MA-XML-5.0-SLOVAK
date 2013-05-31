@@ -73,7 +73,7 @@
     <string name="preferences_bg_random_appear_title">Náhodná farba poznámky</string>
     <string name="preferences_title">Nastavenie</string>
     <string name="search">Poznámky</string>
-    <string name="search_hint">Prehľadanie poznámok</string>
+    <string name="search_hint">Prehľadávanie poznámok</string>
     <string name="search_label">Hľadať</string>
     <string name="search_setting_description">Vyhľadá text v poznámkach</string>
     <string name="select_account_prompt">Povoliť synchronizáciu poznámok</string>
