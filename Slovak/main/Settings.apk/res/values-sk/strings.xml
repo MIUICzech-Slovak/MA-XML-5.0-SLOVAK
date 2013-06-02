@@ -19,10 +19,32 @@
     <string name="access_control_recording_intro_header">Nakreslite odomykaciu kombináciu</string>	
     <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na Váš Xiaomi účet</string>
     <string name="accessibility_enable">Povoliť prístup</string>
+    <string name="accessibility_feature_state_off">Vyp</string>
+    <string name="accessibility_feature_state_on">Zap</string>
+	<string name="accessibility_global_gesture_preference_description">"Ak je táto funkcia zapnutá, môžete rýchlo v dvoch krokoch povoliť funkcie zjednodušenia ovládania:
+
+Krok 1: Stlačte tlačidlo zapnutia a podržte ho, dokým nezaznie zvukový signál alebo nezacítite vibrácie.
+
+Krok 2: Dotknite sa obrazovky dvoma prstami a podržte ju, dokým nezaznie zvuk potvrdenia.
+
+Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na uzamknutej obrazovke dočasne povoliť zjednodušenie ovládania, dokým sa zariadenie neodomkne."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vyp</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Zap</string>
+    <string name="accessibility_global_gesture_preference_title">Skratka zjednodušeného ovládania</string>
+    <string name="accessibility_long_press_timeout_preference_title">Oneskorenie dotyku a podržania</string>
     <string name="accessibility_long_press_timeout_title">Oneskorenie dotyku a podržania</string>	
     <string name="accessibility_menu_item_settings">Nastavenie</string>	
     <string name="accessibility_no_services_installed">Žiadna služba nie je nainštalovaná</string>	
     <string name="accessibility_power_button_ends_call_title">Tlač. zapínania ukončí hovor</string>	
+	<string name="accessibility_screen_magnification_summary">"Keď je táto funkcia zapnutá, môžete približovať alebo odďalovať trojitým klepnutím na obrazovku.
+
+Počas priblíženia môžete:
+"<li><ul>"Posúvať: Ťahajte dvoma alebo viacerými prstami po obrazovke.
+"<li>Prispôsobiť úroveň priblíženia: Priblížte dva alebo viacero prstov k sebe alebo ich od seba odtiahnite.</li></ul></li>"
+
+Obsah pod prstom môžete tiež dočasne priblížiť trojitým klepnutím a podržaním. V stave priblíženia môžete posúvaním prsta preskúmavať rôzne časti obrazovky. Odtiahnutím prsta sa vrátite do predchádzajúceho stavu.
+
+Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>
     <string name="accessibility_script_injection_allowed">Povolené</string>	
     <string name="accessibility_script_injection_button_allow">Povoliť</string>	
     <string name="accessibility_script_injection_button_disallow">Nepovoliť</string>	
@@ -46,12 +68,19 @@
     <string name="accessibility_sync_enabled">Synchronizácia zapnutá</string>	
     <string name="accessibility_sync_error">Chyba synchronizácie.</string>	
     <string name="accessibility_system_title">Systém</string>	
-    <string name="accessibility_toggle_large_text_title">Veľký text</string>	
-    <string name="account_settings">účty</string>
+	<string name="accessibility_toggle_large_text_title">Veľké písmo</string>
+	<string name="accessibility_toggle_large_text_preference_title">Veľké písmo</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Aktualizovať priblíž. obrazov. pri prechodoch apl.</string>
+	<string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto. aktualiz. priblíž. obrazovky</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Priblíženie obrazovky</string>
+	<string name="accessibility_toggle_script_injection_preference_title">Zjednodušenie prístupu k webu</string>
+	<string name="accessibility_toggle_speak_password_preference_title">Hovorené heslá</string>
+	<string name="account_settings">účty</string>
     <string name="account_sync_settings_title">Synchr.</string>
     <string name="activating">Aktivujem...</string>	
     <string name="active_device_admin_msg">Správca zariadenia</string>	
     <string name="active_input_method_subtypes">Aktívne metódy vstupu</string>	
+	<string name="activity_not_found">Aplikácia nie je v telefóne nainštalovaná.</string>
     <string name="activity_picker_label">Vybrať aktivitu</string>	
     <string name="adb_warning_message">Ladenie prostredníctvom rozhrania USB je určené len pre účely vývoja. Použite ho ku kopírovaniu dát medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie dát protokolov.</string>	
     <string name="adb_warning_title">Povoliť ladenie USB?</string>	
@@ -66,6 +95,7 @@
     <string name="airplane_mode">Režim V lietadle</string>	
     <string name="alarm_volume_title">Budík</string>	
     <string name="all_volume_title">Hlasitosť</string>
+	<string name="allow">Povoliť</string>
     <string name="allow_bind_app_widget_activity_allow_bind">Po vytvorení widgetu, %1$s má prístup k všetkým dátam ktoré zobrazuje.</string>
     <string name="allow_bind_app_widget_activity_allow_bind_title">Vytvoriť widget a povoliť prístup?</string>
     <string name="allow_bind_app_widget_activity_always_allow_bind">Vždy povoliť %1$s vytvorenie widgetov</string>
@@ -124,7 +154,9 @@
     <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť na zoznamu nainštalovaných aplikácií.</string>	
     <string name="app_not_found_dlg_title" />
     <string name="app_notifications_switch_label">Zobraziť notifikácie</string>	
-    <string name="app_process_limit_title">Obmedzenie procesov na pozadí</string>	
+    <string name="app_process_limit_title">Obmedzenie procesov na pozadí</string>
+    <string name="app_special_disable_dlg_title">Odstrániť údaje a zakázať aplikáciu?</string>
+    <string name="app_special_disable_dlg_text">Ak zakážete vstavanú aplikáciu, ostatné aplikácie nemusia fungovať správne. Vaše údaje sa taktiež odstránia.</string>	
     <string name="application_forbid_auto_startup">Zakázať %s sa spustiť na pozadí</string>
     <string name="application_info_label">Informácie o aplikácií</string>	
     <string name="application_item_already_permission">Povolené</string>
@@ -137,7 +169,8 @@
     <string name="ask_compatibility">Opýtať sa pri spustení</string>	
     <string name="assisted_gps">Použiť systém A-GPS</string>	
     <string name="assisted_gps_disabled">Vylepšiť funkčnosť GPS pomocou serveru (zrušením tejto funkcie zvýšite výkon GPS)</string>	
-    <string name="assisted_gps_enabled">Vylepšiť funkčnosť GPS pomocou serveru (deaktivujte pre zníženie využitia siete)</string>	
+    <string name="assisted_gps_enabled">Vylepšiť funkčnosť GPS pomocou serveru (deaktivujte pre zníženie využitia siete)</string>
+    <string name="audio_profile_settings_title">Zvukové profily</string>  	
     <string name="audio_record_proc_title">Potlačenie hluku</string>	
     <string name="auto_caps">Veľké písmena automaticky</string>	
     <string name="auto_caps_summary">Prvé písmeno vo vete je automaticky veľké</string>	
@@ -189,7 +222,8 @@
     <string name="battery_desc_bluetooth">Využitie batérie technológiou Bluetooth</string>	
     <string name="battery_desc_display">Využitie batérie displejom a podsvietením</string>	
     <string name="battery_desc_radio">Využitie batérie jednotkou GSM</string>	
-    <string name="battery_desc_standby">Využitie batérie v pohotovostnom režime telefónu</string>	
+    <string name="battery_desc_standby">Využitie batérie v pohotovostnom režime telefónu</string>
+    <string name="battery_desc_users">Využitie batérie používateľom</string>	
     <string name="battery_desc_voice">Využitie batérie hlasovými hovormi</string>	
     <string name="battery_desc_wifi">Využitie batérie sieťou Wi-Fi</string>	
     <string name="battery_history_days">%1$dd %2$dh %3$dm %4$ds</string>	
@@ -215,13 +249,15 @@
     <string name="battery_info_power_unknown">Neznáme</string>	
     <string name="battery_info_power_unplugged">Odpojené</string>	
     <string name="battery_info_power_usb">USB</string>	
+	<string name="battery_info_power_wireless">bezdrôtové</string>
     <string name="battery_info_scale_label">Mierka batérie:</string>	
     <string name="battery_info_screen_on">Doba zapnutia obrazovky:</string>	
     <string name="battery_info_status_discharging">Vybíjanie</string>	
     <string name="battery_info_status_full">Plná</string>	
     <string name="battery_info_status_charging">Nabíjanie</string>	
     <string name="battery_info_status_charging_ac">(AC)</string>	
-    <string name="battery_info_status_charging_usb">(USB)</string>	
+    <string name="battery_info_status_charging_usb">(USB)</string>
+    <string name="battery_info_status_charging_wireless">(bezdrôtové)</string>	
     <string name="battery_info_status_label">Stav batérie:</string>	
     <string name="battery_info_status_not_charging">Nenabíja sa</string>	
     <string name="battery_info_status_unknown">Neznáme</string>	
@@ -430,6 +466,10 @@
     <string name="brightness_auto_adjust_on">Automatický jas môžete nastaviť posúvaním. Jas sa bude meniť v zavislosti na okolnom osvetlení a Vašom nastavení.</string>
     <string name="brightness_summary">Nastavenie jasu displeja</string>	
     <string name="bssid_label">BSSID:</string>	
+	<string name="bugreport_in_power">Nahlasovať chyby z hlavnej ponuky</string>
+    <string name="bugreport_in_power_summary">V hlavnej ponuke zahrnúť možnosť na vytvorenie správy o chybe</string>
+	<string name="bugreport_tool_log_toast">Hlásenie o chybe uložené do %s</string>
+    <string name="bugreport_tool_log_toast_generate_bugreport">Vytváranie záznamu o chybe bude trvať asi 1 minútu</string>
     <string name="build_number">Číslo buildu</string>	
     <string name="builtin_keyboard_settings_summary">Nastavenie fyzickej klávesnice</string>	
     <string name="builtin_keyboard_settings_title">Fyzická klávesnica</string>	
@@ -577,6 +617,9 @@
     <string name="data_usage_pick_cycle_day">Deň v mesiaci, kedy sa má obnoviť počítanie dátových prenosov:</string>	
     <string name="data_usage_received_sent">Prijatých %1$s, odoslaných %2$s</string>	
     <string name="data_usage_restrict_background">Ak obmedzíte využitie mobilných dát na pozadí, niektoré aplikácie a služby nebudú fungovať, pokiaľ sa nepripojíte k sieti Wi-Fi.</string>	
+	<string name="data_usage_restrict_background_multiuser">"Ak obmedzíte mobilné údaje na pozadí, niektoré aplikácie a služby nebudú fungovať, pokiaľ nebudete mať pripojenie k sieti Wi-Fi.
+
+Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="data_usage_restrict_background_title">Obmedzenie dátových prenosov na pozadí?</string>	
     <string name="data_usage_restrict_denied_dialog">Obmedzenie dát na pozadí je k dispozícii iba v prípade, že ste nastavili limit prenosu mobilných dát.</string>	
     <string name="data_usage_summary_title">Prenesené dáta</string>	

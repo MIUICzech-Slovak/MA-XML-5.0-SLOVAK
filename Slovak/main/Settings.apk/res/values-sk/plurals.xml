@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Počet krokov do získania stavu vývojára: %1$d.</item>
+        <item quantity="one">Počet krokov do získania stavu vývojára: %1$d.</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Heslo musí obsahovať písmená v počte najmenej %d</item>
         <item quantity="one">Heslo musí obsahovať aspoň jedno písmeno</item>
