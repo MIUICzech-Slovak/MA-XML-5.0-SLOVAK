@@ -807,6 +807,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
 	<string name="enable_traces_summary_num">%1$d povolených stôp</string>
 	<string name="enable_traces_title">Zapnúť stopy</string>
     <string name="enableNetwork">enableNetwork</string>
+    <string name="enable_wifi_display">Povoliť Wireless display</string>
     <string name="enforce_read_external_confirm_message">"Ak je USB úložisko chránené, aplikácie musia požadovať práva na prístup z externého úložiska. Niektoré aplikácie nemusia pracovať správne pokiaľ ich vývojár neupravil."</string>
 	<string name="enforce_read_external_confirm_title">Chrániť USB úložisko?</string>
 	<string name="enforce_read_external_summary">Aplikácie musia požadovať povolenie pre čítanie z USB úložiska</string>
