@@ -9,6 +9,7 @@
     <string name="caller_app">Vyvolané aplikáciou: %1$s</string>
     <string name="cancel">Zrušiť</string>
     <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu. Všetky predchádzajúce používateľské údaje budú uložené."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) nahradí súčasnú verziu (%3$s). Vaše dáta budú zachované. Chcete pokračovať?"</string>
     <string name="dlg_app_replacement_title">Nahradiť aplikáciu?</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia. \nVšetky predchádzajúce používateľské údaje budú uložené."</string>

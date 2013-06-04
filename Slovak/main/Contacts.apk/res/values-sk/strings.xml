@@ -449,6 +449,7 @@
     <string name="loading_group_members">Načítavanie kontaktov v skupine...</string>
     <string name="loading_groups">Načítavanie skupín...</string>
     <string name="loading_recent">Načítavanie nedávnych kontaktov...</string>
+    <string name="loading_resource_detail_fail">Načítavanie podrobností zlyhalo!</string>
     <string name="loading_resource_detail_info">Načítavanie...</string>
     <string name="local_invisible_directory">Ostatné</string>
     <string name="local_profile_title">Môj miestny profil</string>
@@ -784,6 +785,7 @@ Pre pridanie kontaktu do obľúbených:
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
     <string name="restore_nickname">Obnoviť</string>
+    <string name="resource_waiting_download">Čaká na sťahovanie...</string>
     <string name="ret_sign">" "</string>
     <string name="returnCall">Volať späť</string>
     <string name="ringLabelsGroup">Vyzváňací tón</string>

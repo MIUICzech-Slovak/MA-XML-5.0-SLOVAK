@@ -38,6 +38,7 @@
     <string name="change_wallpaper">Zmena tapety</string>	
     <string name="live_wallpaper">Živá tapeta</string>	
     <string name="loading">Načítavanie...</string>
+    <string name="loading_resource_detail_fail">Načítavanie podrobností zlyhalo!</string>
     <string name="loading_resource_detail_info">Načítavanie...</string>
     <string name="lockscreen_wallpaper">Tapeta zámku</string>
     <string name="lockstyle_personal_settings">Prispôsobenie</string>	
@@ -108,11 +109,17 @@
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
     <string name="resource_update">Aktualizovať</string>
+    <string name="resource_waiting_download">Čaká na stiahnutie...</string>
     <string name="restore_default_theme_alert">Stali ste sa obeťou neoprávneného kopírovania témy. Stiahnite si tému znova z online obchodu alebo si ju zakúpte.</string>
     <string name="sdcard_status_changed_dialog_message">"Ukončujem. \nProsím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="sdcard_status_changed_dialog_title">Stav SD karty sa zmenil</string>
     <string name="short_ringtone_resource">Krátke</string>
     <string name="theme_another_import_running">Práve prebieha importovanie témy, prosím čakajte...</string>
+    <string name="theme_batch_has_update_text">%1$d tém dostalo aktualizáciu</string>
+    <string name="theme_batch_update_all">Aktualizovať všetko</string>
+    <string name="theme_batch_update_dlg_content">Chcete aktualizovať teraz?</string>
+    <string name="theme_batch_update_dlg_title">Aktualizovať</string>
+    <string name="theme_batch_updating_text">%1$d tém bolo aktualizovaných</string>
     <string name="theme_component_title_alarm">Budík</string>	
     <string name="theme_component_title_alarmstyle">Štýl budíka</string>
     <string name="theme_component_title_all">Témy</string>	
@@ -149,6 +156,7 @@
     <string name="theme_import_item_delete_request_content">Téma nebola aktualizovaná, môžte ju použiť až po jej aktualizácií alebo ju vymazať.</string>
     <string name="theme_import_item_delete_request_title">Téma nebola aktualizovaná</string>
     <string name="theme_import_item_importing">Aktualizácia...</string>
+    <string name="theme_import_item_not_exist">Položka neexistuje</string>
     <string name="theme_import_item_not_upgraded">Neaktualizované</string>
     <string name="theme_import_item_reject_use">Téma sa aktualizuje, čakajte prosím.</string>
     <string name="theme_import_item_waiting">Čakanie</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="add_account_desc">Poznámky sa môžu synchronizovať s Vašim účtom Xiaomi. Chcete sa prihlásiť?</string>
+    <string name="alert_action_edit_anyway">Pokračovať</string>    
     <string name="alert_edit_action_delete">Odstrániť</string>
     <string name="alert_edit_action_update">Obnoviť</string>
     <string name="alert_message_delete_folders">Chcete vymazať %1$s zložk(u)y?</string>
