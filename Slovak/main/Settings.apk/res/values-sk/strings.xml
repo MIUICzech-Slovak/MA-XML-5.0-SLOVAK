@@ -1611,10 +1611,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="screensaver_settings_summary_either_long">Pri vložení do doku alebo pri nabíjaní v režime spánku</string>
     <string name="screensaver_settings_summary_either_short">V oboch prípadoch</string>
     <string name="screensaver_settings_summary_off">Vypnuté</string>	
-    <string name="screensaver_settings_summary_off">Vypnuté</string>
     <string name="screensaver_settings_summary_on">Pokiaľ je zariadenie pripojené k zdroji, spustí sa pri prechode do režimu spánku</string>	
     <string name="screensaver_settings_summary_sleep">Pri nabíjaní</string>
-    <string name="screensaver_settings_title">Dekorácia displeja</string>	
     <string name="screensaver_settings_when_to_dream">Kedy spustiť šetrič obrazovky</string>
     <string name="screensaver_test">Vyskúšať</string>	
     <string name="screensaver_timeout_summary">Po %1$s nečinnosti</string>	
