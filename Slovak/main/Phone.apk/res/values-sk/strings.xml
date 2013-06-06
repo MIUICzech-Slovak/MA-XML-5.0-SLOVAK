@@ -837,7 +837,7 @@
     <string name="respond_via_sms_canned_response_2">Zavolám späť.</string>
     <string name="respond_via_sms_canned_response_2_miui">"Ospravedlňujem sa, momentálne nemôžem prijať hovor. S čím vám môžem pomôcť?"</string>
     <string name="respond_via_sms_canned_response_3">Zavolám neskôr.</string>
-    <string name="respond_via_sms_canned_response_3_miui">"Momentálně som zaneprázdnený. Zavolám neskôr."</string>
+    <string name="respond_via_sms_canned_response_3_miui">"Momentálne som zaneprázdnený. Zavolám neskôr."</string>
     <string name="respond_via_sms_canned_response_4">Nemôžem telefonovať, zavolajte neskôr.</string>
     <string name="respond_via_sms_canned_response_4_miui">"Nemôžem hovoriť. Čo sa deje?"</string>
     <string name="respond_via_sms_confirmation_format">Správa bola odoslaná na číslo %s.</string>
