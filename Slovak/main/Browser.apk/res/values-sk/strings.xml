@@ -181,6 +181,7 @@
     <string name="goto_dot">Choď</string>
     <string name="have_sent_bookmark_to_home_screen">Záložka odoslaná na plochu</string>	
     <string name="history">História</string>
+    <string name="history_browsed">História</string>
     <string name="history_most_visited">Často navštívené</string>
 	<string name="history_track">História</string>
     <string name="homepage_set">Nastaviť domovskú stránku.</string>	
