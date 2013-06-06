@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">O aplikácií</string>
+    <string name="adjust_no_network_update_data_fail">Aktualizácia dát zlyhala, skontrolujte pripojenie a skúste to opäť.</string>
     <string name="adjust_traffic_auto_adjust_hint">Systém sa pýta a upravuje údaje pravidelne od operátora. Je potrebné nastaviť informácie o operátorovi.</string>	
     <string name="adjust_traffic_auto_adjust_open_hint">Automatické upravovanie mesačného balíčku je nastavené</string>	
     <string name="adjust_traffic_auto_adjust_title">Automatické nastavenie</string>	

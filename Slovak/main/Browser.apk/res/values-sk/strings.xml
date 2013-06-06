@@ -82,6 +82,7 @@
     <string name="bookmark_url">Url</string>	
     <string name="bookmark_url_not_valid">"Táto URL nie je platná."</string>	
     <string name="bookmarks">Záložky</string>	
+	<string name="bookmarks_content_is_null">Prázdne</string>
     <string name="bookmarks_management">Záložky</string>	
     <string name="bookmarks_root_folder">Root zložka</string>	
     <string name="bookmarks_search">Prehliadač</string>	
@@ -95,6 +96,7 @@
     <string name="cannot_download">Sťahovať možno iba \"http\" alebo \"https\" URL.</string>	
     <string name="clear">Vyčistiť</string>	
     <string name="clear_history">Vymazať históriu</string>
+	<string name="clear_history_group">Vymazať históriu</string>
     <string name="close_all_tab_alert_message">Ste si istý, že chcete zatvoriť všetky karty?</string>
     <string name="close_all_tab_alert_title">Zatvoriť všetky karty</string>
     <string name="containing_folder">Pridať do</string>	
@@ -151,8 +153,14 @@
     <string name="export_bookmark_failure">Záložky neboli exportované na SD kartu!</string>	
     <string name="export_bookmark_sucess">Záložky boli úspešne exportované na SD kartu!</string>	
     <string name="exported_bookmark_file_name">Moje obľúbené</string>	
+    <string name="file_dir">Zložka</string>
+	<string name="file_name">Názov súboru</string>
+    <string name="file_picker">Zvoľte cestu</string>
     <string name="file_picker_new_folder">Nový priečinok</string>	
     <string name="file_picker_sdcard_not_found">SD karta nenájdená, označte prosím, ak bolo zariadenie práve inštalované ( mounted ) alebo sa používa</string>	
+    <string name="filename_empty_alert_message">"Názov súboru nesmie byť prázdny"</string>
+    <string name="filename_illegal_alert_message">Názov súboru obsahuje nepovolené znaky ktoré boli odstránené.</string>
+    
     <string name="find_on_page">Nájsť na stránke</string>
     <string name="folder_name">Názov zložky</string>	
     <string name="forward">Dopredu</string>	
@@ -172,7 +180,9 @@
     <string name="google_bookmarks">"Google: "</string>	
     <string name="goto_dot">Choď</string>
     <string name="have_sent_bookmark_to_home_screen">Záložka odoslaná na plochu</string>	
-    <string name="history">História</string>	
+    <string name="history">História</string>
+    <string name="history_most_visited">Často navštívené</string>
+	<string name="history_track">História</string>
     <string name="homepage_set">Nastaviť domovskú stránku.</string>	
     <string name="http">http://</string>	
     <string name="choose_upload">Vyber súbor pre nahranie</string>	
@@ -234,6 +244,8 @@
     <string name="open_all_bookmarks">Otvoriť všetko</string>	
     <string name="open_all_in_new_window">Otvoriť všetko na nových kartách</string>	
     <string name="open_bookmark">Otvoriť</string>	
+	<string name="open_history_group_in_new_window">Otvoriť celú históriu v novom okne</string>
+    <string name="open_history_most_visited_group_in_new_window">Otvoriť všetky v novom okne</string>
     <string name="other_bookmarks">Ostatné Záložky</string>
     <string name="page_info">Informácie o stránke</string>	
     <string name="page_info_address">Adresa:</string>	
@@ -279,7 +291,7 @@
     <string name="pref_default_text_encoding_dialogtitle">Enkódovanie textu</string>	
     <string name="pref_default_zoom">Predvolené priblíženie</string>	
     <string name="pref_default_zoom_dialogtitle">Predvolené priblíženie</string>	
-    <string name="pref_developer_options">Možnosti developera</string>	
+    <string name="pref_developer_options">Možnosti pre vývojára</string>	
     <string name="pref_developer_options_summary">Debugging alebo oznámenie chyby</string>	
     <string name="pref_development_cpu_upload_path">Povoliť Cpu Upload Path</string>	
     <string name="pref_development_error_console">Zobraziť Konzolu JavaScript</string>	
@@ -344,6 +356,7 @@
     <string name="pref_privacy_clear_geolocation_access_dlg">Vymazať prístup stránok k umiestneniu?</string>	
     <string name="pref_privacy_clear_geolocation_access_summary">Vymazať prístup k umiestneniu pre všetky stránky?</string>	
     <string name="pref_privacy_clear_history">Vymazať históriu</string>	
+	<string name="pref_privacy_clear_history_by_group_dlg">Vymazať históriu prehliadania?</string>
     <string name="pref_privacy_clear_history_dlg">Vymazať históriu prehliadania?</string>	
     <string name="pref_privacy_clear_history_summary">Vymazať históriu prehliadania.</string>	
     <string name="pref_privacy_clear_passwords">Vymazať heslá</string>	
@@ -381,6 +394,7 @@
     <string name="pref_zoom_on_double_tap">Priblížiť dvojdotykom</string>	
     <string name="preview">Náhľad</string>	
     <string name="progress_dialog_setting_wallpaper">Nastavovanie tapety...</string>	
+    <string name="quicklinks_management">Užitočné stránky</string>
     <string name="readmode_reach_last_page">Bola dosiahnutá posledná stránka</string>
     <string name="readmodelist_bookmarks_to_show">Zoznam zaujímavých</string>
     <string name="recover">Obnoviť</string>
@@ -398,6 +412,9 @@
     <string name="save">OK</string>	
     <string name="saving_snapshot">Ukladanie...</string>
     <string name="save_to_bookmarks">Uložiť do záložiek</string>	
+    <string name="save_file_already_exist_alert_message">Súbor už existuje, chcete ho prepísať?</string>
+    <string name="save_file_already_exist_alert_title">Upozornenie</string>
+    
     <string name="search_baidu">Baidu</string>	
     <string name="search_bing">Bing</string>	
     <string name="search_button_text">Choď</string>	
@@ -433,6 +450,10 @@
     <string name="stop">Zastaviť</string>	
     <string name="stop_loading">Zastaviť</string>
     <string name="stopping">Zastavovanie...</string>	
+    <string name="storage_internal">Interné úložisko</string>
+    <string name="storage_sd_card">SD karta</string>
+    <string name="storage_usb">USB úložisko</string>
+    
     <string name="tab_bookmarks">Záložky</string>	
     <string name="tab_closed">Karta zatvorená.</string>	
     <string name="tab_history">História</string>	
