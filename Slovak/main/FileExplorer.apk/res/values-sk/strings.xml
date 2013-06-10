@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="account_bind_prompt">"Migrovanie užívateľských dát. Váš účet bude dočasne zablokovaný, čakajte prosím..."</string>
+<string name="account_bind_prompt">"Migrovanie užívateľských dát. 
+Váš účet bude dočasne zablokovaný, 
+čakajte prosím..."</string>
 <string name="add_task">Pridať úlohu</string>
 <string name="adding_upload_tasks">Pridávanie súborov pre odosielanie.</string>
 <string name="app_cache_cleanup_indication">%s cache</string>
@@ -31,18 +33,21 @@
 <string name="category_theme">Témy</string>
 <string name="category_video">Videá</string>
 <string name="category_zip">Archívy</string>
+<string name="choose_send_type">Zvoľte typ odosielania</string>
+<string name="choose_upload_location">Zvoľte kam nahrať súbory</string>
 <string name="clean_app_garbage">Vymazať %d položiek</string>
 <string name="clean_message">Odstraňovanie %1$s</string>
 <string name="clean_title">Odstrániť z koša súbory staršie ako 30 dní</string>
 <string name="clean_trash_box">Vyprázdniť kôš</string>
 <string name="cleanup_complete">Ukončiť</string>
-<string name="clear_cache">Vyčistiť cache</string>
 <string name="close">Zavrieť</string>
+<string name="compress_fail">Vytváranie .zip súboru zlyhalo, .zip súbor už existuje</string>
 <string name="compress_message">Zbaliť do:</string>
 <string name="compress_title">Zbaliť</string>
 <string name="confirm">OK</string>
 <string name="confirm_know">OK</string>
 <string name="copy_failed">Kopírovanie zlyhalo</string>
+<string name="create_kuaipan_shortcut_pref">Vytvoriť ikonu na ploche</string>
 <string name="create_new_folder_desctiption">Vytváranie novej zložky...</string>
 <string name="create_new_folder_failed">Nie je možné vytvoriť zložku %1$s</string>
 <string name="create_share_link_description">Vytváranie odkazu pre zdieľanie...</string>
@@ -67,18 +72,21 @@
 <string name="dialog_type_image">Obrázok</string>
 <string name="dialog_type_text">Text</string>
 <string name="dialog_type_video">Video</string>
+<string name="directory_info_divider">"  |  "</string>
 <string name="directory_no_item">Prázdna zložka</string>
+<string name="dlg_error_unmount_text">"Nie je možné odobrať USB úložisko. Skúste to znova."</string>
 <string name="download_current_progress">%1$d/100</string>
 <string name="download_failed">Sťahovanie zlyhalo!</string>
 <string name="download_link_completed">Zdieľam %1$s cez MiDrive. Kliknite na linku nižšie: </string>
 <string name="downloading">Sťahujem...</string>
-<string name="enable_sd_card">Povoliť SD kartu</string>
 <string name="empty_dir_cleanup_indication">%s nepotrebné súbory</string>
 <string name="empty_dir_title">Prázdne zložky</string>
-<string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
+<string name="enable_sd_card">Povoliť SD kartu</string>
+<string name="error_filename_too_long">Názov súboru je príliš dlhý</string>   
 <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
-<string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>   
+<string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>
 <string name="fail_to_create_folder">Zložku nie je možné vytvoriť, zložka už existuje</string>
+<string name="fail_to_create_folder_unknown">Nie je možné vytvoriť zložku.</string>
 <string name="fail_to_rename">Zložku alebo súbor nie je možné premenovať, lebo už existuje</string>
 <string name="favorite_photo">Fotografia</string>
 <string name="favorite_ringtone">Vyzváňanie</string>
@@ -92,6 +100,7 @@
 <string name="file_loading">Nahrávam...</string>
 <string name="file_too_large">"Súbor je príliš veľký a nie je možné ho nahrať"</string>
 <string name="finished">Dokončené</string>
+<string name="folder_exist">Zložka už existuje</string>
 <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Stlačte tu&lt;/a&gt;pre otvorenie koša v Cloude</string>
 <string name="ftp_account_req_notice">Užívateľské meno a heslo, 4~16 znakov, obsahovať čísla, písmena...</string>
 <string name="ftp_anonymous_login">Anonymné FTP</string>
@@ -102,6 +111,8 @@
 <string name="ftp_transfer_secure">Bezpečný prenos FTP</string>
 <string name="ftp_username_and_passworld">Meno a heslo</string>
 <string name="ftp_username_hint">Meno</string>
+<string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+<string name="garbage_item_path_format" formatted="false">%s %s</string>
 <string name="garbage_size_metric">"%s
 Nepotrebné súbory"</string>
 <string name="gbk_summary">Ak používate Windows Explorer, zvoľte tento typ šifrovania GBK pre zabránenie použitia čínskych znakov</string>
@@ -111,18 +122,18 @@ Nepotrebné súbory"</string>
 <string name="header_text_cleaning">Ostáva súborov</string>
 <string name="header_text_scanned">Nájdených súborov</string>
 <string name="header_text_scanning">Vyhľadávanie...</string>
-<string name="choose_upload_location">Zvoľte kam nahrať súbory</string>
-<string name="choose_send_type">Zvoľte typ odosielania</string>
 <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
 <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
 <string name="item_name">Bez mena</string>
+<string name="kuaipan_label">MiDrive</string>
 <string name="kuaipan_over_space">Váš MiDrive už nemá voľné miesto.</string>
 <string name="kuaipan_prompt">MiDrive Pomoc</string>
-<string name="kuaipan_prompt_message">"Server je momentálne nedostupný, skúste to opäť neskôr"</string>
+<string name="kuaipan_prompt_message">"
+Server je momentálne nedostupný, skúste to opäť neskôr
+"</string>
 <string name="kuaipan_tech_support">Technický poskytovateľ Kingsoft Kuaipan</string>
 <string name="load_err">Načítavanie zlyhalo</string>
 <string name="loading">Načítavam...</string>
-<string name="local_cache">Lokálna medzipamäť/cache</string>
 <string name="local_cache_size">Veľkosť lokálnej cache: %s</string>
 <string name="login_reg_content">S MiDrive môžete synchronizovať súbory.</string>
 <string name="login_reg_content0">MiDrive je Váš Cloud</string>
@@ -146,6 +157,9 @@ Nepotrebné súbory"</string>
 <string name="no_app_cache_indication">Žiadna cache aplikácií</string>
 <string name="no_app_garbage_indication">Žiaden odpad z aplikácií</string>
 <string name="no_empty_dir_indication">Žiadne prázdne zložky</string>
+<string name="no_enough_space">Nie je dostatok miesta na úložisku</string>
+<string name="no_enough_storage_indication">Nie je dostatok miesta na úložisku. Vymažte nepotrené súbory a skúste to znova alebo použite Čistenie nepotrebných súborov.</string>
+<string name="no_enough_storage_title">Nie je dostatok miesta</string>
 <string name="no_file">Žiadne súbory</string>
 <string name="no_more_space">Nie je voľné miesto</string>
 <string name="no_tasks">Žiadne úlohy</string>
@@ -170,10 +184,11 @@ Nepotrebné súbory"</string>
 <string name="operation_create_folder_message">Vložte meno zložky</string>
 <string name="operation_decompressing">Rozbaľujem...</string>
 <string name="operation_delete">Vymazať</string>
-<string name="operation_deleting_detail">Mazanie (%1$d/%2$d)</string>
 <string name="operation_delete_confirm_message">Naozaj chcete tieto súbory odstrániť?</string>
-<string name="operation_delete_confirm_message_folder">"Vymazanie zložky odstráni aj všetky súbory v nej."</string>
+<string name="operation_delete_confirm_message_folder">"Vymazanie zložky odstráni aj všetky súbory v nej.
+"</string>
 <string name="operation_deleting">Vymazávam...</string>
+<string name="operation_deleting_detail">Mazanie (%1$d/%2$d)</string>
 <string name="operation_download_link">Vygenerovať link na stiahnutie</string>
 <string name="operation_favorite">Obľúbené</string>
 <string name="operation_hide_sys">Skryť systémové súbory</string>
@@ -199,7 +214,7 @@ Nepotrebné súbory"</string>
 <string name="rename_description">Premenovávam...</string>
 <string name="rename_failed">Premenovanie na %1$s zlyhalo</string>
 <string name="restart_cleaning">Reštart</string>
-<string name="scanning">Prehľadávanie...</string>
+<string name="scanning" formatted="false">Kontrola %d aplikácie... (celkovo %d)</string>
 <string name="scanning_on_going">Prehľadávanie...</string>
 <string name="sd_card_available">Voľné miesto: %1$s</string>
 <string name="sd_card_size">SD karta: %1$s</string>
@@ -241,8 +256,10 @@ Nepotrebné súbory"</string>
 <string name="transing">Prenos dát...</string>
 <string name="trash_box_capacity">Kôš %1$s</string>
 <string name="trash_box_link">Prejdite na <b>pan.xiaomi.com</b> a vyprázdnite kôš</string>
-<string name="trash_box_message1">Môžete odstrániť zbytočné súbory a uvoľniť tak miesto</string>
-<string name="trash_box_message2">Môžete odstrániť súbory a vyprázdnite kôš, aby ste urobili miesto</string>
+<string name="trash_box_message1">Môžete odstrániť zbytočné súbory 
+a uvoľniť tak miesto</string>
+<string name="trash_box_message2">Môžete odstrániť súbory a vyprázdnite kôš, 
+aby ste urobili miesto</string>
 <string name="ui_bar_txt_download_progress">Ostáva stiahnuť ešte %1$d súbor(ov)</string>
 <string name="ui_bar_txt_upload_progress">Ostáva nahrať ešte %1$d súbor(ov)</string>
 <string name="ui_filechange_btn_download">Stiahnuť súbory</string>
@@ -252,6 +269,7 @@ Nepotrebné súbory"</string>
 <string name="ui_main_toast_favorite_removed">Odstránené(ý) obľúbené(ý)</string>
 <string name="ui_main_toast_operation_failed">Odstránenie obľúbených %1$s zlyhalo</string>
 <string name="uninstall_app_data">Vymazať aplikáciu a jej dáta</string>
+<string name="unmount_inform_text">USB úložisko bude odpojené.</string>
 <string name="upload_failed">Nahrávanie zlyhalo!</string>
 <string name="upload_file_toolarge_message">"%1$d súborov väčších ako 300M nemôže byť odoslaných. Prosím skontrolujte Správcu prenosu pre viac informácií."</string>
 <string name="uploading">Odosielam...</string>
@@ -259,9 +277,9 @@ Nepotrebné súbory"</string>
 <string name="user_guide">Užívateľský manuál</string>
 <string name="user_guide_download_other_version">"Môžete si stiahnuť MiDrive aj do Vášho PC"</string>
 <string name="user_guide_kuaipan_copy">"Kopírujte svoje súbory na MiDrive"</string>
-<string name="user_guide_other_version" />
+<string name="user_guide_other_version"/>
 <string name="user_guide_summary">Ako používať MiDrive</string>
-<string name="user_guide_upload_to_kuaipan" />
+<string name="user_guide_upload_to_kuaipan"/>
 <string name="utf8_summary">Predvolené kódovanie FTP</string>
 <string name="version_text">Verzia %1$s</string>
 <string name="wait_net">Čakanie na sieť</string>
