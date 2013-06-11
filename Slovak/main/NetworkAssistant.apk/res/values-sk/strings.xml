@@ -51,7 +51,7 @@
     <string name="edit_frame_free_traffic_title">Predplatený objem dát</string>
     <string name="edit_frame_month_start_title">Monitorovať od dňa:</string>	
     <string name="edit_frame_warning_title">"Varovná hodnota "</string>
-    <string name="empty" />
+    <string name="empty"/>
     <string name="finish_traffic_settings_hint">Nastavenie balíčku dokončené</string>	
     <string name="finish_traffic_settings_message">"Využité dáta sú %s. Súhlasia dáta? Môžete ich upraviť."</string>	
     <string name="finish_traffic_settings_title">Upraviť dáta</string>	
@@ -90,7 +90,7 @@
     <string name="plate_traffic_already_used">Využité</string>	
     <string name="plate_traffic_exceed">Prekročenie</string>	
     <string name="plate_traffic_remain">Ostáva</string>	
-    <string name="powered_by" />	
+    <string name="powered_by"/>	
     <string name="pref_category_adjust_traffic">Prispôsobenie prevádzky</string>	
     <string name="pref_connect_settings_enable_backgroung">Auto. prip. na pozadí</string>	
     <string name="pref_connect_settings_enable_backgroung_hint">Povoliť aplikáciám automatické pripojovanie k internetu na pozadí</string>	
@@ -125,7 +125,7 @@
     <string name="sync_traffic_no_cmd_detail">"Napíšte Vašu krajinu a operátora na naše fórum MIUI: http://www.miui.com/forum-172-1.html. Ďakujeme."</string>
     <string name="sync_traffic_no_cmd_title">Nie je dostupná vzorová SMS</string>	
     <string name="sync_traffic_success">"Získané dáta od operátora, prevádzka upravená"</string>	
-    <string name="text_day" />
+    <string name="text_day"/>
     <string name="text_done">Hotovo</string>
     <string name="text_save">Uložiť</string>
     <string name="traffic_none">Žiadne</string>	

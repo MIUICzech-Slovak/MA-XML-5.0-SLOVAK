@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="FMRecording_reach_storage_threshold">Nahrávanie bolo ukončené, dochádza voľné miesto pre zápis.</string>
     <string name="access_sd_fail">Nie je možné sa pripojiť k SD karte</string>
     <string name="alert_dialog_cancel">Zrušiť</string>
     <string name="alert_dialog_ok">Ok</string>
@@ -19,7 +20,7 @@
     <string name="button_text_stop">Zastaviť</string>
     <string name="default_audio">Stereo</string>
     <string name="default_band">United States</string>
-    <string name="default_blank" />
+    <string name="default_blank"/>
     <string name="default_station">FM</string>
     <string name="delete_station_title">Odstrániť</string>
     <string name="dialog_sleep_title">Čas do automatického vypnutia</string>
@@ -38,12 +39,11 @@
     <string name="fm_command_timeout_title">Čas vypršal</string>
     <string name="fm_tune_timeout_msg">Problém s ladením stanice. Pokiaľ problém pretrvá, skúste reštartovať rádio.</string>
     <string name="fmradio_clear_confirm_msg">Uložené stanice budú odstránené, pokračovať v hľadaní?</string>
-    <string name="FMRecording_reach_storage_threshold">Nahrávanie bolo ukončené, dochádza voľné miesto pre zápis.</string>
     <string name="fmtx_autoselect_name">Automatický výber odstráni všetky súčasné stanice, pokračovať?</string>
     <string name="frequency_already_exist">Frekvencia už existuje</string>
     <string name="frequency_out_of_range">(%1$s~%2$s) Frekvencia je mimo povolený rozsah</string>
     <string name="frequency_should_not_null">Frekvencia musí byť zadaná</string>
-    <string name="frequency_string" />
+    <string name="frequency_string"/>
     <string name="hint_station_name">Vložte názov stanice</string>
     <string name="input_station">Frekvencia (MHz)</string>
     <string name="menu_add_list">Pridať zoznam</string>
@@ -116,5 +116,5 @@
     <string name="toast_save_station">%s MHz uložené</string>
     <string name="toast_sleep_mode">Rádio sa ukončí o %s</string>
     <string name="transmit_msg_string">Vysielam na:</string>
-    <string name="type_rd" />
+    <string name="type_rd"/>
 </resources>

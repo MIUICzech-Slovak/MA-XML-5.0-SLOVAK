@@ -10,11 +10,11 @@
     <string name="other_service_google_location_use">Poloha a vyhľadávanie Google</string>
     <string name="other_service_google_location_use_help">"Povoliť posielanie anon. údajov polohy spol. Google a umožniť povoleným aplikáciám určiť približnú polohu podľa mobilnej siete a Wi-Fi. Toto nastavenie môžete zmeniť v nastaveniach Polohy a vyhľadávania Google"</string>
     <string name="other_service_google_location_use_summary">Povoliť systému Google použiť polohu na vylepšenie výsledkov vyhľadávania a ďalších služieb</string>
-    <string name="other_service_permission_manager">Správa práv aplikácií</string>
-    <string name="other_service_permission_manager_summary">Sledovanie aplikácií kvôli bezpečnosti a súkromiu</string>
     <string name="other_service_label">Ostatné služby</string>
     <string name="other_service_location">Zisťovanie polohy</string>
     <string name="other_service_location_summary">Zisťovanie polohy umožňuje mapám a ostatným aplikáciam získať Vašu presnú polohu pomocou GPS</string>
+    <string name="other_service_permission_manager">Správa práv aplikácií</string>
+    <string name="other_service_permission_manager_summary">Sledovanie aplikácií kvôli bezpečnosti a súkromiu</string>
     <string name="other_service_user_experience">Odoslať spätnú väzbu</string>
     <string name="other_service_user_experience_summary0">"Sme radi, že využívate náš produkt a dúfame, že nám pomôžete ho zlepšovať zaslaním spätnej väzby. Vaša spätná väzba bude zabezpečená prostredníctvom našich "</string>
     <string name="other_service_user_experience_summary1">Zásady ochrany osobných údajov</string>

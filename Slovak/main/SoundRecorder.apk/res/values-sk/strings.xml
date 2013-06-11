@@ -44,8 +44,8 @@
     <string name="preference_led_indicator_prompt">Blikať LED a zobraziť v oznamovacej lište počas nahrávania s uzamknutým telefónom</string>
 	<string name="preference_silent_mode">Nahrávanie v tichom režime</string>
     <string name="record_list">Zoznam nahrávok</string>	
-    <string name="record_name_hour">.</string>
     <string name="record_loading">Načítavanie nahrávky...</string>
+    <string name="record_name_hour">.</string>
     <string name="record_picker_title">Zvoľte nahrávku</string>
     <string name="record_saving">Ukladanie nahrávky...</string>
     <string name="recording">Nahrávam...</string>	

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="FMRecording_reach_storage_threshold">Nahrávanie bolo ukončené, dochádza voľné miesto pre zápis.</string>
     <string name="access_sd_fail">Nie je možné sa pripojiť k SD karte</string>
     <string name="alert_dialog_cancel">Zrušiť</string>
     <string name="alert_dialog_ok">Ok</string>
@@ -8,7 +9,6 @@
     <string name="alert_title_new_station">Nová stanica</string>
     <string name="alert_title_save_station">Uložiť stanicu - %s</string>
     <string name="app_name">FM Rádio</string>
-    <string name="aud_output_mode">Audio výstup</string>
     <string name="audio_db_album_name">Nahrávky z rádia</string>
     <string name="audio_db_artist_name">z rádia</string>
     <string name="audio_db_playlist_name">Nahrávky z rádia</string>
@@ -20,7 +20,7 @@
     <string name="button_text_stop">Zastaviť</string>
     <string name="default_audio">Stereo</string>
     <string name="default_band">United States</string>
-    <string name="default_blank" />
+    <string name="default_blank"/>
     <string name="default_station">FM</string>
     <string name="delete_station_title">Odstrániť</string>
     <string name="dialog_sleep_title">Čas do automatického vypnutia</string>
@@ -39,12 +39,11 @@
     <string name="fm_command_timeout_title">Čas vypršal</string>
     <string name="fm_tune_timeout_msg">Problém s ladením stanice. Pokiaľ problém pretrvá, skúste reštartovať rádio.</string>
     <string name="fmradio_clear_confirm_msg">Uložené stanice budú odstránené, pokračovať v hľadaní?</string>
-    <string name="FMRecording_reach_storage_threshold">Nahrávanie bolo ukončené, dochádza voľné miesto pre zápis.</string>
     <string name="fmtx_autoselect_name">Automatický výber odstráni všetky súčasné stanice, pokračovať?</string>
     <string name="frequency_already_exist">Frekvencia už existuje</string>
     <string name="frequency_out_of_range">(%1$s~%2$s) Frekvencia je mimo povolený rozsah</string>
     <string name="frequency_should_not_null">Frekvencia musí byť zadaná</string>
-    <string name="frequency_string" />
+    <string name="frequency_string"/>
     <string name="hint_station_name">Vložte názov stanice</string>
     <string name="input_station">Frekvencia (MHz)</string>
     <string name="menu_add_list">Pridať zoznam</string>
@@ -75,7 +74,6 @@
     <string name="msg_searching">Hľadám dostupné stanice pre vytvorenie zoznamu</string>
     <string name="msg_searching_title">Hľadanie staníc</string>
     <string name="msg_seeking">Hľadanie stanice</string>
-    <string name="msg_unable_start_fm_title">Nie je možné spustiť rádio</string>
     <string name="msg_weak_searching">Hľadám alternatívnu frekvenciu</string>
     <string name="no_storage">Pripojte SD kartu pred nahrávaním</string>
     <string name="preparing_sd">Pripravujem SD kartu</string>
@@ -90,16 +88,13 @@
     <string name="record_file_location_format">Stlač pre zobrazenie súboru %s</string>
     <string name="record_sucess">Nahrávanie dokončené</string>
     <string name="regional_band">Rozsah frekvencie (vymaže staníce)</string>
-    <string name="revert_to_fac">Obnoviť tovarné nastavenia</string>
     <string name="search_dialog_title">Vyhľadať stanice</string>
-    <string name="sel_audio_output">Zvoľte typ výstupu</string>
     <string name="sel_band_menu">Vyberte </string>
     <string name="set">OK</string>
     <string name="set_rmmsi_delta">Nastaviť RMSSI Delta</string>
     <string name="set_sigth">Nastaviť Signál Th</string>
     <string name="settings_menu">Nastavenie</string>
     <string name="settings_revert_confirm_msg">Táto možnosť odstráni všetky nastavenia vrátane uložených staníc.</string>
-    <string name="settings_revert_confirm_title">Obnovenie predvoleného nastavenia</string>
     <string name="settings_revert_defaults_title">Obnoviť predvolené nastavenia</string>
     <string name="spaceIsLow_content">Dochádza voľné miesto v telefóne. Znížte kvalitu nahrávania alebo odstráňte nepotrebné súbory</string>
     <string name="stat_notif_frequency">Frekvencia: %1$s MHz</string>
@@ -121,5 +116,5 @@
     <string name="toast_save_station">%s MHz uložené</string>
     <string name="toast_sleep_mode">Rádio sa ukončí o %s</string>
     <string name="transmit_msg_string">Vysielam na:</string>
-    <string name="type_rd" />
+    <string name="type_rd"/>
 </resources>

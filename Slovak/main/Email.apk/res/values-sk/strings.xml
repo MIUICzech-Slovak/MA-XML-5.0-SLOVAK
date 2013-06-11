@@ -76,6 +76,9 @@
     <string name="account_setup_basics_manual_setup_action">Ručné nastavenie</string>
     <string name="account_setup_basics_password_label">Heslo</string>
     <string name="account_setup_basics_title">Nastavenie účtu</string>
+    <string name="account_setup_check_settings_check_incoming_msg">Kontrola nastavení servera prichádzajúcej pošty...</string>
+    <string name="account_setup_check_settings_check_outgoing_msg">Kontrola nastavení servera odchádzajúcej pošty...</string>
+    <string name="account_setup_check_settings_retr_info_msg">Získavanie informácií o účte...</string>
     <string name="account_setup_exchange_certificate_title">Certifikát klienta</string>
     <string name="account_setup_exchange_device_id_label">ID mobilného zariadenia</string>
     <string name="account_setup_exchange_headline">Nastavenia servera</string>
@@ -92,26 +95,23 @@
     <string name="account_setup_failed_auth_required">Metódy overovania totožnosti nie sú na tomto serveri podporované.</string>
     <string name="account_setup_failed_certificate_inaccessible">Certifikát je neplatný alebo neprístupný.</string>
     <string name="account_setup_failed_certificate_required">Vyžaduje sa certifikát klienta. Pripojiť sa k serveru pomocou certifikátu klienta?</string>
+    <string name="account_setup_failed_check_credentials_message">Server ohlásil chybu. Skontrolujte svoje užívateľské meno a heslo a skúste to znova.</string>
     <string name="account_setup_failed_dlg_auth_message">Používateľské meno alebo heslo nie je správne.</string>
     <string name="account_setup_failed_dlg_auth_message_fmt">"Používateľské meno alebo heslo nie je správne.
 (%s)"</string>
     <string name="account_setup_failed_dlg_certificate_message">Nepodarilo sa bezpečne pripojiť k serveru.</string>
     <string name="account_setup_failed_dlg_certificate_message_fmt">"Nepodarilo sa bezpečne pripojiť k serveru.
 (%s)"</string>
-    <string name="account_setup_failed_dlg_edit_details_action">Upraviť podrobnosti</string>
+    <string name="account_setup_failed_dlg_edit_details_action">Upraviť podrobnosti</string>  
     <string name="account_setup_failed_dlg_server_message">Nepodarilo sa pripojiť k serveru.</string>
     <string name="account_setup_failed_dlg_server_message_fmt">"Nepodarilo sa pripojiť k serveru.
 (%s)"</string>
     <string name="account_setup_failed_dlg_title">Nepodarilo sa dokončiť</string>
-    <string name="account_setup_failed_check_credentials_message">Server ohlásil chybu. Skontrolujte svoje užívateľské meno a heslo a skúste to znova.</string>  
     <string name="account_setup_failed_ioerror">Pripojenie k serveru sa nepodarilo otvoriť.</string>
     <string name="account_setup_failed_protocol_unsupported">Zadali ste nesprávnu adresu servera alebo server vyžaduje verziu protokolu, ktorú aplikácia E-mail nepodporuje.</string>
     <string name="account_setup_failed_security">Pripojenie k serveru sa nepodarilo otvoriť kvôli chybe zabezpečenia.</string>
     <string name="account_setup_failed_security_policies_unsupported">"Tento server vyžaduje bezpečnostné funkcie, ktoré vaše zariadenie so systémom Android nepodporuje, vrátane: %s."</string>
     <string name="account_setup_failed_tls_required">Vyžaduje sa služba TLS, ale server ju nepodporuje.</string>
-    <string name="account_setup_check_settings_check_incoming_msg">Kontrola nastavení servera prichádzajúcej pošty...</string>
-    <string name="account_setup_check_settings_check_outgoing_msg">Kontrola nastavení servera odchádzajúcej pošty...</string>
-    <string name="account_setup_check_settings_retr_info_msg">Získavanie informácií o účte...</string>
     <string name="account_setup_incoming_delete_policy_delete_label">Pri odstránení z Doručenej pošty</string>
     <string name="account_setup_incoming_delete_policy_label">Odstraňovať e-maily zo servera</string>
     <string name="account_setup_incoming_delete_policy_never_label">Nikdy</string>
@@ -130,9 +130,9 @@
     <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (akceptovať všetky certifikáty)</string>
     <string name="account_setup_incoming_title">Nastavenie účtu</string>
     <string name="account_setup_incoming_username_label">Používateľské meno</string>
-    <string name="account_setup_index_title">Nastavenie účtu</string>
     <string name="account_setup_index_label">Zvoľte emailový účet ktorý chcete pridať:</string>
     <string name="account_setup_index_other_mails">Iný email</string>
+    <string name="account_setup_index_title">Nastavenie účtu</string>
     <string name="account_setup_names_account_name_label">Pomenovať tento účet (nepovinné)</string>
     <string name="account_setup_names_headline">Váš účet je nastavený, e-mail je na ceste!</string>
     <string name="account_setup_names_title">Nastavenie účtu</string>
@@ -211,8 +211,10 @@
     <string name="cannot_move_special_mailboxes_toast">Správy v priečinkoch Koncepty, Pošta na odoslanie a Odoslané nie je možné presunúť.</string>
     <string name="category_general_preferences">Aplikácia</string>
     <string name="cc">Kópia</string>
-    <string name="close_action">Zavrieť</string>
+    <string name="choose_attachment_dialog_title">Vyberte prílohu</string>
+    <string name="choosertitle_sharevia">Zdieľať cez..</string>
     <string name="cleared_trusted_senders_message">"Obrázky v správach sa nebudú automaticky zobrazovať."</string>
+    <string name="close_action">Zavrieť</string>
     <string name="completed_no_file">Súbor sa nenašiel</string>
     <string name="compose_action">Napísať správu</string>
     <string name="compose_title">Napísať správu</string>
@@ -252,9 +254,9 @@
     <string name="dialog_sync_all_preparing">Prebieha príprava fotografií (%1$d) a videí (%2$d) na odoslanie...</string>
     <string name="dialog_sync_all_scanning">Prebieha vyhľadávanie súborov...</string>
     <string name="dialog_sync_all_server_error">Pri komunikácii so serverom sa vyskytol problém. Skúste to znova neskôr.</string>
-    <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>
+    <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>    
     <string name="discard_action">Zahodiť</string>
-    <string name="done">Návrat</string>    
+    <string name="done">Návrat</string>
     <string name="done_action">Hotovo</string>
     <string name="edit_quick_response_dialog">Upraviť rýchlu odpoveď</string>
     <string name="eml_view_title">Zobraz. súbor: %s</string>
@@ -289,9 +291,7 @@
     <string name="general_preference_text_zoom_tiny">Veľmi malé</string>
     <string name="general_preferences_clear_trusted_senders_summary">Obrázky sa v správach nebudú zobrazovať automaticky</string>
     <string name="general_preferences_clear_trusted_senders_title">Opýtať sa, či zobraziť obrázky</string>
-    <string name="header_label_general_preferences">Všeobecné</string>
-    <string name="choose_attachment_dialog_title">Vyberte prílohu</string>
-    <string name="choosertitle_sharevia">Zdieľať cez..</string>   
+    <string name="header_label_general_preferences">Všeobecné</string>   
     <string name="login_failed_ticker">Prihlásenie do účtu %s zlyhalo.</string>
     <string name="login_failed_title">Prihlásenie sa nepodarilo</string>
     <string name="long_string">------------------------------------------------------------------------</string>   
@@ -366,7 +366,7 @@ Kópia: %4$s
     <string name="message_compose_subject_hint">Predmet</string>
     <string name="message_compose_to_hint">Komu</string>
     <string name="message_decode_error">Pri dekódovaní správy sa vyskytla chyba.</string>
-    <string name="message_delete_dialog_title" />
+    <string name="message_delete_dialog_title"/>
     <string name="message_discarded_toast">Správa bola zahodená.</string>
     <string name="message_is_empty_description">Bez predmetu</string>
     <string name="message_list_load_more_messages_action">Načítať ďalšie správy</string>
@@ -438,8 +438,8 @@ Kópia: %4$s
     <string name="password_expired_ticker">Platnosť kódu PIN alebo hesla na uzamknutie obrazovky vypršala.</string>
     <string name="pause_state_low_battery">pozastavené – slabá batéria</string>
     <string name="pause_state_manually_paused">ručne pozastavené</string>
-    <string name="pause_state_need_connectivity">pozastavené – čakanie na pripojenie</string>
     <string name="pause_state_need_charger">pozastavené – odložené až do nabitia</string>
+    <string name="pause_state_need_connectivity">pozastavené – čakanie na pripojenie</string>
     <string name="pause_state_need_media">pozastavené – karta SD nie je k dispozícii</string>
     <string name="pause_state_need_photos_quota">pozastavené - kvóta Webových albumov programu Picasa bola prekročená</string>
     <string name="pause_state_need_wifi">pozastavené – čakanie na sieť Wi-Fi</string>
@@ -560,7 +560,7 @@ Kópia: %4$s
     <string name="upload">Odovzdať</string>
     <string name="upload_state_completed">Dokončené</string>
     <string name="upload_state_failed">Zlyhanie</string>
-    <string name="upload_state_queued" />
+    <string name="upload_state_queued"/>
     <string name="upload_state_uploading">Prebieha odovzdávanie</string>
     <string name="upload_state_waiting_retry">Čakanie na opakovanie</string>
     <string name="upload_state_waiting_wifi">Čakanie na sieť Wi-Fi</string>

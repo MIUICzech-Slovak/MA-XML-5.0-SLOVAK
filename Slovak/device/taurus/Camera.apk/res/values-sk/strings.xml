@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="Import">Import</string>
   <string name="access_sd_fail">"Nie je možný prístup na SD kartu."</string>
   <string name="accessibility_camera_picker">Výber prednej alebo zadnej kamery</string>
   <string name="accessibility_review_thumbnail">Najnovšie fotografie</string>
@@ -97,7 +98,6 @@
   <string name="hdr_exit_button_text">Ukončiť HDR</string>
   <string name="height">Výška</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
-  <string name="Import">Import</string>
   <string name="import_complete">Import dokončený</string>
   <string name="import_contact">Import kontaktu</string>
   <string name="import_fail">Import zlyhal!</string>
@@ -220,6 +220,7 @@
   <string name="pref_camera_picturesize_entry_1920x1080">2MP</string>
   <string name="pref_camera_picturesize_entry_3200x1800">6MP 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x2400">8MP 4:3</string>
+  <string name="pref_camera_picturesize_entry_4208x2368">Širokouhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_4208x3120">13MP</string>
   <string name="pref_camera_picturesize_professional_entry_1024x768">0.8MP (1024x768)</string>
   <string name="pref_camera_picturesize_professional_entry_1280x720">0.9MP (1280x720)</string>
@@ -231,7 +232,6 @@
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6MP (3264x1836)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208x2368)</string>
-  <string name="pref_camera_picturesize_entry_4208x2368">Širokouhlý 16:9</string>
   <string name="pref_camera_picturesize_title">Veľkosť fotografie</string>
   <string name="pref_camera_picturesize_title_simple_mode">Veľkosť fotografie</string>
   <string name="pref_camera_preview_entry_1000">1 sekunda</string>
@@ -383,13 +383,13 @@
   <string name="show_images_only">Zobraziť fotografie</string>
   <string name="show_on_map">Zobraziť na mape</string>
   <string name="show_videos_only">Zobraziť videá</string>
-  <string name="simple_mode_title">Základný režim</string>
   <string name="simple_mode_button_text_audio_capture">Ukončiť spúšť zvukom</string>
   <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
   <string name="simple_mode_button_text_panorama">Ukončiť panorámu</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť spomalenú kameru</string>
+  <string name="simple_mode_title">Základný režim</string>
   <string name="slideshow">Prezentácia</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
   <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>

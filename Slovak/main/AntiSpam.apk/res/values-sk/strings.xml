@@ -109,7 +109,7 @@
     <string name="fw_whitelist">Biela listina</string>
     <string name="fw_whitelist_hint">Členovia z bielej listiny nebudú blokovaní</string>
     <string name="mark_number_dialog_maintitle">Označiť neznáme číslo a uložiť ako:</string>
-    <string name="mark_number_dialog_subtitle" />
+    <string name="mark_number_dialog_subtitle"/>
     <string formatted="false" name="member_firewall_log">Blokované: %d, SMS: %d</string>
     <string name="menu_edit">Upraviť</string>
     <string name="mms_log_tab_title">Správy</string>

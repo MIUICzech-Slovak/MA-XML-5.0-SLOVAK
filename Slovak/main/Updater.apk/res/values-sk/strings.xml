@@ -21,6 +21,11 @@
     <string name="best_update">Najlepšia aktualizácia</string>    
     <string name="boot_recovery">Reštart do Recovery</string>
     <string name="cancel_download_buton_text">Zrušiť</string>
+    <string name="check_update">Skontrolovať aktualizácie</string>
+    <string name="check_update_policy">Skontrolovať nastavenia aktualizácie</string>
+    <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wi-Fi pripojenie</string>
+    <string name="checking_for_updates">Kontrola aktualizácií...</string>
+    <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
     <string name="confirm_download_cancelation_dialog_message">Ste si istý že chcete zrušiť vybrané sťahovanie?</string>
     <string name="copy_install_log">Skopírovať</string>
     <string name="current_version_text">Súčasná verzia\u0020</string>
@@ -41,11 +46,6 @@
     <string name="finish">Dokončiť</string>
     <string name="finish_download">Sťahovanie dokončené</string>
     <string name="get_update_error">Získanie informácií o aktualizácii zlyhalo</string>
-    <string name="check_update">Skontrolovať aktualizácie</string>
-    <string name="check_update_policy">Skontrolovať nastavenia aktualizácie</string>
-    <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wi-Fi pripojenie</string>
-    <string name="checking_for_updates">Kontrola aktualizácií...</string>
-    <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
     <string name="install_email">Nainštalovať e-mailový softvér</string>
     <string name="install_file_explorer">prosím nainštalujte správcu súborov</string>
     <string name="install_qq">Inštalovať QQ app</string>
@@ -53,8 +53,8 @@
     <string name="install_sina">Inštalovať Sina app</string>
     <string name="install_whole_rom">Odporúča sa stiahnuť celú ROM</string>
     <string name="internal_build">Neverejná verzia</string>
-    <string name="kernel_upgrade_link" />
-    <string name="kernel_upgrade_version" />
+    <string name="kernel_upgrade_link"/>
+    <string name="kernel_upgrade_version"/>
     <string name="loading">Pripojenie na MIUI server</string>
     <string name="md5_check_cancelled">Kontrola MD5 súčtu zrušená.</string>
     <string name="mione_update_fail_description">Prosím aktualizujte znova</string>
@@ -122,8 +122,8 @@
     <string name="system_backup_cancel_text">Reštartuj kvôli aktualizácií</string>
     <string name="system_backup_download_helper">Telefón sa po stiahnutí automaticky reštartuje pre aplikovanie aktualizácie.</string>
     <string name="system_backup_error_message">MIUI záloha nebola nájdená, prosím zálohujte manuálne.</string>
-    <string name="system_backup_ok_text">Zálohovať</string>
     <string name="system_backup_helper">Aktualizácia nevymaže vaše užívateľské dáta. Avšak odporúča sa v rámci bezpečnosti tieto dáta zálohovať.</string>
+    <string name="system_backup_ok_text">Zálohovať</string>
     <string name="top_secret_build">Tajná verzia</string>
     <string name="update_comment_hint">(voliteľné)</string>
     <string name="update_comment_title">Mám čo povedať</string>
