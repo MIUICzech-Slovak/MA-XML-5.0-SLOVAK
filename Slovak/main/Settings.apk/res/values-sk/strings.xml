@@ -36,6 +36,7 @@ Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na u
     <string name="accessibility_menu_item_settings">Nastavenie</string>	
     <string name="accessibility_no_services_installed">Žiadna služba nie je nainštalovaná</string>	
     <string name="accessibility_power_button_ends_call_title">Tlač. zapínania ukončí hovor</string>	
+    <string name="accessibility_power_button_ends_call_prerefence_title">Tlač. zapínania ukončí hovor</string>
 	<string name="accessibility_screen_magnification_summary">"Keď je táto funkcia zapnutá, môžete približovať alebo odďalovať trojitým klepnutím na obrazovku.
 
 Počas priblíženia môžete:
@@ -45,6 +46,7 @@ Počas priblíženia môžete:
 Obsah pod prstom môžete tiež dočasne priblížiť trojitým klepnutím a podržaním. V stave priblíženia môžete posúvaním prsta preskúmavať rôzne časti obrazovky. Odtiahnutím prsta sa vrátite do predchádzajúceho stavu.
 
 Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>
+    <string name="accessibility_screen_magnification_title">Gestá priblíženia</string>
     <string name="accessibility_script_injection_allowed">Povolené</string>	
     <string name="accessibility_script_injection_button_allow">Povoliť</string>	
     <string name="accessibility_script_injection_button_disallow">Nepovoliť</string>	
