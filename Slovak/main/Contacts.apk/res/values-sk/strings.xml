@@ -2,6 +2,7 @@
 <resources>
     <string name="account_abnormal_state">Chyba v informácií o účte, skúste sa prihlásiť opäť.</string>
     <string name="account_container_title">Z tohto účtu</string>
+    <string name="account_default">Telefón</string>
     <string name="account_phone">Iba v telefóne (nesynchronizované)</string>
     <string name="account_sim">Iba na SIM karte (nesynchronizované)</string>
     <string name="account_type_format">%1$s kontakt</string>
@@ -252,7 +253,8 @@
     <string name="device_bluetooth_title">preparatory work</string>
     <string name="device_brand_title">Zvoľte značku telefónu</string>
     <string name="device_import_account_dialog_title">Zvoľte účet pre import</string>
-    <string name="device_import_account_dialog_title_suffix">"(nájdených %1$s kontaktov)"</string>
+    <string name="device_import_account_dialog_title_suffix">"
+(nájdených %1$s kontaktov)"</string>
     <string name="device_import_done_toast">%1$d importovaných kontaktov</string>
     <string name="device_import_failed_message">Import zlyhal!</string>
     <string name="device_import_local_account">Lokálny účet</string>
@@ -331,7 +333,8 @@
     <string name="export_to_sim">Exportovať na SIM kartu</string>
     <string name="export_to_sim_title">Exportovanie na SIM kartu...</string>
     <string name="export_vcard_description">Exportovať vCard na SD kartu</string>
-    <string name="exporting_contact_failed_message">"Export dát kontaktov sa nepodaril. Príčina chyby: \"%s\""</string>
+    <string name="exporting_contact_failed_message">"Export dát kontaktov sa nepodaril. 
+Chyba: \"%s\""</string>
     <string name="exporting_contact_failed_title">Export dát kontaktov sa nepodaril</string>
     <string name="exporting_contact_list_message">Prebieha export dát kontaktov do súboru: %s.</string>
     <string name="exporting_contact_list_progress" formatted="false">%s z %s kontaktov</string>
@@ -413,7 +416,6 @@
     <string name="import_vcard_description">Importovať kontakty z SD karty</string>
     <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
     <string name="import_weibo_fetch_followers">Získavanie Sina Weibo priateľov...</string>
-    <string name="import_weibo_notification_title">Importovanie kontaktov z sina weibo...</string>
     <string name="import_weibo_notification_title_done">Import kompletný</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
@@ -550,6 +552,7 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
 "</string>
+    <string name="noContactsHelpTextForCreateShortcut">"Žiaden kontakt na zobrazenie."</string>
     <string name="noContactsHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú Vaše kontakty.)
 
 Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
@@ -563,7 +566,8 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
 "</string>
-    <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
+     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiaden kontakt na zobrazenie. (Ak ste práve pridali Váš účet, môže to chvíľu trvať kým sa všetko zosynchronizuje.)"</string>
+     <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
 
 Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
  
@@ -587,6 +591,7 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
 "</string>
+    <string name="noContactsWithPhoneNumbers">Žiadne kontakty s telefónnym číslom.</string>
     <string name="noFavoritesHelpText">"Nemáte žiadne obľúbené kontakty. 
 
 Pre pridanie kontaktu do obľúbených: 
@@ -595,12 +600,16 @@ Pre pridanie kontaktu do obľúbených:
 "</li>" 
 "<li>"Vyberte kontakt, ktorý má byť pridaný do Obľúbených 
 "</li>" 
-"<li>"Vyberte hviezdičku pri mene kontaktu "</li>" 
+"<li>"Vyberte hviezdičku pri mene kontaktu "
+</li>" 
 "</string>
     <string name="noGroups">Žiadne skupiny.</string>
     <string name="noMatchingContacts">Nenájdené žiadne zodpovedajúce kontakty.</string>
     <string name="noRecentContacts">žiadne posledné kontakty</string>
-    <string name="no_account_prompt">"Kontakty pracujú najlepšie s účtom Google. Majte k ním prístup kdekoľvek. Synchronizujte ich teraz."</string>
+    <string name="no_account_prompt">"Kontakty pracujú najlepšie s účtom Google. 
+
+Majte k ním prístup kdekoľvek. 
+Synchronizujte ich teraz."</string>
     <string name="no_contact_details">Žiadne ďalšie informácie o tomto kontakte.</string>
     <string name="no_contact_in_other_phone">Žiadne kontakty vo Vašom telefóne</string>
     <string name="no_contacts_dialog_message">Vo Vašich kontaktoch sa nič nenašlo. Možno sú uložené na SIM karte, importujte ich do telefónu.</string>
@@ -717,16 +726,17 @@ Pre pridanie kontaktu do obľúbených:
     <string name="preference_tone_title">Tón</string>
     <string name="prepare_import">Pripraviť import</string>
     <string name="preview_contact_card_title">Importovať vizitku</string>
+    <string name="previous">predcházajúci</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="processing">Spracovávanie...</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
     <string name="progress_notifier_message" formatted="false">Importujem %s/%s: %s</string>
     <string name="quickcontact_missing_app">Aplikácia potrebná na túto akciu nebola nájdená</string>
     <string name="quit_dialog_confirm_title">Chcete ukončiť zlučovanie kontaktov?</string>
-    <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, 
-		ale nebudú vymazané.</string>
+    <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, ale nebudú vymazané.</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" obsahuje dáta z viacerých účtov.</string>
     <string name="readOnlyContactWarning">Z účtu len na čítanie, nie je možné kontakty zmazať, môžete ich však v zoznamoch kontaktov skryť.</string>
+    <string name="reading_vcard_canceled_title">Načítanie dát vCard bolo prerušené</string>
     <string name="reading_vcard_failed_title">Načítanie dát vCard sa nepodarilo</string>
     <string name="rebuild_t9_index_dialog_message">Obnovovanie indexu T9...</string>
     <string name="recent">Nedávne</string>
@@ -742,6 +752,8 @@ Pre pridanie kontaktu do obľúbených:
     <string name="recent_contacts_label">Nedávne</string>
     <string name="recent_number">Nedávne</string>
     <string name="recent_updates">Nedávne</string>
+    <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+    <string name="redirect_calls_to_vm_confirm_text">Zapnúť</string>
     <string name="relationLabelsGroup">Príbuzné</string>
     <string name="remind_btn_ignore">Ignorovať</string>
     <string name="remind_btn_sync_now">Synchronizovať teraz</string>
@@ -784,19 +796,23 @@ Pre pridanie kontaktu do obľúbených:
     <string name="resource_tip_select_ringtone">Žiadne zvonenie nebolo vybrané</string>
     <string name="resource_title">Podrobnosti</string>
     <string name="resource_title_select_ringtone">Zvoliť zvonenie</string>
+    <string name="resource_update">Aktualizovať</string>
     <string name="resource_waiting_download">Čaká na sťahovanie...</string>
     <string name="restore_nickname">Obnoviť</string>
-    <string name="ret_sign">" "</string>
+    <string name="ret_sign">" 
+"</string>
     <string name="returnCall">Volať späť</string>
     <string name="ringLabelsGroup">Vyzváňací tón</string>
     <string name="save_photo_progress">Ukladám fotku...</string>
     <string name="savingContact">Ukladanie kontaktu...</string>
     <string name="savingDisplayGroups">Ukladám nastavenia zobrazenia …</string>
+    <string name="scan">Prehľadať zariadenie</string>
     <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
     <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
     <string name="scanning_sdcard_failed_message">"Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: \"%s\")</string>
     <string name="scanning_sdcard_failed_title">Vyhľadávanie na karte SD sa nepodarilo</string>
-    <string name="sdcard_status_changed_dialog_message">"Ukončujem. \nProsím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
+    <string name="sdcard_status_changed_dialog_message">"Ukončujem. 
+Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="sdcard_status_changed_dialog_title">Stav SD karty sa zmenil</string>
     <string name="searchHint">Vyhľadať kontakty</string>
     <string name="search_results_searching">Vyhľadávanie...</string>
@@ -903,7 +919,11 @@ Pre pridanie kontaktu do obľúbených:
     <string name="unknown">Neznámy</string>
     <string name="unknown_contact_name">Neznámy kontakt</string>
     <string name="upgrade_in_progress">"Aktualizácia zoznamu kontaktov</string>
-    <string name="upgrade_out_of_memory">Prebieha aktualizácia kontaktov. Aktualizácia vyžaduje približne %s MB vnútornej pamäte telefónu. Zvoľte jednu z nasledujúcich možností:</string>
+    <string name="upgrade_out_of_memory">Prebieha aktualizácia kontaktov. 
+
+Aktualizácia vyžaduje približne %s MB vnútornej pamäte telefónu. 
+
+Zvoľte jednu z nasledujúcich možností:</string>
     <string name="upgrade_out_of_memory_retry">Skúsiť upgradovať znovu</string>
     <string name="upgrade_out_of_memory_uninstall">Odinštalovať niektoré aplikácie</string>
     <string name="use_photo_as_primary">Použiť túto fotku</string>
