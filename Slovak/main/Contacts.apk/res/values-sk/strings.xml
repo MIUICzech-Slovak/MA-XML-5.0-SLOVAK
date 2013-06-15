@@ -198,7 +198,7 @@
     <string name="date_year_toggle">Zadajte rok</string>
     <string name="default_ringtone">Predvolené zvonenie</string>
     <string name="deleteConfirmation">Tento kontakt bude vymazaný.</string>
-    <string name="deleteConfirmationDetail">\"%s\" bude vymazaných.</string>
+    <string name="deleteConfirmationDetail">Vymazať kontakt \"%s\" ?</string>
     <string name="deleteConfirmation_title">Vymazať</string>
     <string name="delete_call_log_title">Vymazať vybrané logy hovorov?</string>
     <string name="delete_contact_calllog_title">Chcete vymazať všetky záznamy o volaní kontaktu?</string>
