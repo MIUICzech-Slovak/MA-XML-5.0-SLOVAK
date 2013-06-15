@@ -69,7 +69,7 @@
     <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Pokiaľ je bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Slúchadlá alebo bluetooth</string>
     <string name="auto_answer_scenario_enteries_headset_only_miui">Pokiaľ sú slúchadlá</string>
-    <string name="auto_answer_scenario_title_miui">Scenár pre automatické prijatie</string>
+    <string name="auto_answer_scenario_title_miui">Automaticky prijať hovor</string>
     <string name="auto_answer_setting_title_miui">Nastavenie automatického prijatia</string>
     <string name="auto_answer_summary_delay">(oneskorenie:%ss)</string>
     <string name="auto_answer_summary_not_enabled">Nie je povolené</string>
