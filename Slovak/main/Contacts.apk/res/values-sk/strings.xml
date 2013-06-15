@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="account_abnormal_state">Chyba v informácií o účte, skúste sa prihlásiť opäť.</string>
-    <string name="account_container_title">Z tohto účtu</string>
+    <string name="account_container_title">V tomto účte</string>
     <string name="account_default">Telefón</string>
     <string name="account_phone">Iba v telefóne (nesynchronizované)</string>
     <string name="account_sim">Iba na SIM karte (nesynchronizované)</string>
