@@ -98,7 +98,7 @@
     <string name="callrecordview_menu_delete_all">Vymazať všetky záznamy o hovoroch</string>
     <string name="callrecordview_menu_delete_called">Vymazať volané</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
-	<string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
+    <string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
     <string name="callrecordview_menu_delete_new">Vymazať Nové Kontakty</string>
     <string name="callrecordview_menu_delete_one">Vymazať záznam o hovore</string>
     <string name="callrecordview_menu_delete_stranger">Vymazať neznáme čísla</string>
@@ -108,7 +108,7 @@
     <string name="callrecordview_menu_show_accepted">Zobraziť prijaté</string>
     <string name="callrecordview_menu_show_all">Všetky hovory</string>
     <string name="callrecordview_menu_show_called">Zobraziť volané</string>
-	<string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
+    <string name="callrecordview_menu_show_missed">Zmeškané hovory</string>
     <string name="callrecordview_menu_show_new">Nové Kontakty</string>
     <string name="callrecordview_menu_show_stranger">Neznáme čísla</string>
     <string name="callrecordview_menu_show_title">Výber kategórie</string>
@@ -378,10 +378,10 @@ Chyba: \"%s\""</string>
     <string name="group_edit_field_hint_text">Meno skupiny</string>
     <string name="group_member_remove_toast">Kontakt bol úspešne odobraný zo skupiny</string>
     <string name="group_name_hint">Názov skupiny</string>
-	<string name="group_read_only">Na tomto zariadení nemožno upraviť</string>
+    <string name="group_read_only">Na tomto zariadení nemožno upraviť</string>
     <string name="group_rename_dialog_title">Premenovať skupinu</string>
     <string name="group_rename_fail_toast">Premenovanie skupiny zlyhalo</string>
-	<string name="group_rename_success_toast">Skupina je premenovaná</string>
+    <string name="group_rename_success_toast">Skupina je premenovaná</string>
     <string name="group_sms_progress_msg">Príprava na skupinovú SMS...</string>
     <string name="groupsLabel">Skupiny</string>
     <string name="groups_list_empty">Žiadne skupiny</string>
@@ -691,7 +691,7 @@ Synchronizujte ich teraz."</string>
     <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
     <string name="preference_auto_ip_title">Auto IP</string>
     <string name="preference_contacts">Kontakt</string>
-    <string name="preference_contacts_display">Zobrazenie kontaktu</string>
+    <string name="preference_contacts_display">Zobrazenie kontaktov</string>
     <string name="preference_contacts_filter">Kontakty na zobrazenie</string>
     <string name="preference_contacts_more">Viac nastavení kontaktu</string>
     <string name="preference_dial_pad_touch_tone_default">Predvolené</string>
@@ -831,7 +831,7 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="separatorJoinAggregateSuggestions">Navrhované kontakty</string>
     <string name="service_provider">Poskytovateľ</string>
     <string name="set_default">Nastaviť predvolené</string>
-	<string name="set_photo_failed_msg">Nastavenie avatara zlyhalo</string>
+    <string name="set_photo_failed_msg">Nastavenie avatara zlyhalo</string>
     <string name="share_error">Tento kontakt nemôže byť zdieľaný.</string>
     <string name="share_via">Zdieľať cez</string>
     <string name="share_visible_contacts">Zdielať viditeľné kontakty</string>
