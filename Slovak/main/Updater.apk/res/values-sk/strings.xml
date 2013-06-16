@@ -17,7 +17,7 @@
     <string name="apply_upload_info_message">Kliknutím na Aktualizuj teraz sa automaticky telefón reštartuje aby prebehla aktualizácia.</string>
     <string name="apply_upload_info_message_manually">Po vypnutí, spustite Recovery a aplikovať aktualizáciu %s na SD karte. Ak chcete zálohovať svoje dáta, zálohujte ich a potom sa vráťte k aktualizácii systému.</string>
     <string name="applying_rom_message">Použiť aktualizáciu</string>
-    <string name="applying_update">Aktualizujem... %s</string>
+    <string name="applying_update">Prebieha aktualizácia... %s</string>
     <string name="best_update">Najlepšia aktualizácia</string>    
     <string name="boot_recovery">Reštart do Recovery</string>
     <string name="cancel_download_buton_text">Zrušiť</string>
