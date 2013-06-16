@@ -82,7 +82,7 @@
     <string name="bookmark_to_readmodelist_saved">Uložené do Zoznamu zaujímavých.</string>	
     <string name="bookmark_url">Url</string>	
     <string name="bookmark_url_not_valid">"Táto URL nie je platná."</string>	
-	<string name="bookmarks">Záložky</string>
+    <string name="bookmarks">Záložky</string>
     <string name="bookmarks_content_is_null">Prázdne</string>	
     <string name="bookmarks_management">Upraviť záložky</string>	
     <string name="bookmarks_root_folder">Root zložka</string>	
@@ -96,7 +96,7 @@
     <string name="cancel">Zrušiť</string>	
     <string name="cannot_download">Sťahovať možno iba \"http\" alebo \"https\" URL.</string>	
     <string name="choose_upload">Vyber súbor pre nahranie</string>
-	<string name="choosertitle_sharevia">Zdieľať cez</string>
+    <string name="choosertitle_sharevia">Zdieľať cez</string>
     <string name="clear">Vyčistiť</string>
     <string name="clear_history">Vymazať históriu</string>
     <string name="clear_history_group">Vymazať históriu</string>	
@@ -154,7 +154,7 @@
     <string name="exit_browser_warning">Ukončiť prehliadač?</string>	
     <string name="export_bookmark">Exportovať záložky</string>	
     <string name="export_bookmark_failure">Záložky neboli exportované na SD kartu!</string>
-	<string name="export_bookmark_sucess">Záložky boli úspešne exportované na SD kartu!</string>
+    <string name="export_bookmark_sucess">Záložky boli úspešne exportované na SD kartu!</string>
     <string name="exported_bookmark_file_name">Moje obľúbené</string>
     <string name="file_dir">Zložka</string>	
     <string name="file_name">Súbor</string>	
@@ -182,7 +182,7 @@
     <string name="google_bookmarks">"Google: "</string>
     <string name="goto_dot">Choď</string>
     <string name="have_sent_bookmark_to_home_screen">Záložka odoslaná na plochu</string>
-	<string name="history">História</string>
+    <string name="history">História</string>
     <string name="history_browsed">História</string>	
     <string name="history_most_visited">Často navštívené</string>	
     <string name="history_saved_webpage">Uložiť stránku</string>
@@ -218,7 +218,7 @@
     <string name="loadSuspended">"Prehliadač nemôže načítať stránku, žiadne pripojenie na Internet."</string>	
     <string name="loadSuspendedTitle">Žiadne pripojenie</string>
     <string name="loading_video">Načítavanie videa...</string>	
-    <string name="local_bookmarks">Lokálna</string>
+    <string name="local_bookmarks">Lokálne</string>
     <string name="location">Adresa</string>	
     <string name="max_tabs_warning">Ďalšie karty sú nedostupné</string>	
     <string name="menu_disable_night_mode">Vypnúť nočný mód</string>	
@@ -245,7 +245,7 @@
     <string name="open_all_bookmarks">Otvoriť všetko</string>	
     <string name="open_all_in_new_window">Otvoriť všetko na nových kartách</string>	
     <string name="open_bookmark">Otvoriť</string>	
-	<string name="open_history_group_in_new_window">Otvoriť celú históriu v novom okne</string>
+    <string name="open_history_group_in_new_window">Otvoriť celú históriu v novom okne</string>
     <string name="open_history_most_visited_group_in_new_window">Otvoriť všetky v novom okne</string>
     <string name="other_bookmarks">Ostatné Záložky</string>
     <string name="page_info">Informácie o stránke</string>	
@@ -357,7 +357,7 @@
     <string name="pref_privacy_clear_geolocation_access_dlg">Vymazať prístup stránok k umiestneniu?</string>	
     <string name="pref_privacy_clear_geolocation_access_summary">Vymazať prístup k umiestneniu pre všetky stránky?</string>	
     <string name="pref_privacy_clear_history">Vymazať históriu</string>	
-	<string name="pref_privacy_clear_history_by_group_dlg">Vymazať históriu prehliadania?</string>
+    <string name="pref_privacy_clear_history_by_group_dlg">Vymazať históriu prehliadania?</string>
     <string name="pref_privacy_clear_history_dlg">Vymazať históriu prehliadania?</string>	
     <string name="pref_privacy_clear_history_summary">Vymazať históriu prehliadania.</string>	
     <string name="pref_privacy_clear_passwords">Vymazať heslá</string>	
