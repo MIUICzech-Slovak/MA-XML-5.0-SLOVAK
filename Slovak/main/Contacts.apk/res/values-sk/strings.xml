@@ -408,11 +408,11 @@ Chyba: \"%s\""</string>
     <string name="import_name">Meno</string>
     <string name="import_one_vcard_string">Importovať vizitku</string>
     <string name="import_percent">0%</string>
-    <string name="import_to_xiaomi_account_confirm">Kopírovanie</string>
-    <string name="import_to_xiaomi_account_progress_finish">Kopírovanie ukončené</string>
-    <string name="import_to_xiaomi_account_progress_message">Kopírovanie...</string>
-    <string name="import_to_xiaomi_account_progress_title">Kopírovanie kontaktov na konto Xiaomi</string>
-    <string name="import_to_xiaomi_account_title">Skopírovať kontakty na konto Xiaomi?</string>
+    <string name="import_to_xiaomi_account_confirm">Presunúť</string>
+    <string name="import_to_xiaomi_account_progress_finish">Presun ukončený</string>
+    <string name="import_to_xiaomi_account_progress_message">Presúvanie kontaktov...</string>
+    <string name="import_to_xiaomi_account_progress_title">Presúvanie kontaktov na Xiaomi účet</string>
+    <string name="import_to_xiaomi_account_title">Presunúť kontakty na Xiaomi účet?</string>
     <string name="import_vcard_description">Importovať kontakty z SD karty</string>
     <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
     <string name="import_weibo_fetch_followers">Získavanie Sina Weibo priateľov...</string>
