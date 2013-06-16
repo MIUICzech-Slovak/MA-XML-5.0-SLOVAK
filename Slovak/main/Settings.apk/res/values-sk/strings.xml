@@ -1287,7 +1287,7 @@ skúste:
     <string name="perm_hips_location_source_network">Zdroj: sieť</string>
     <string name="perm_hips_mobile_network">Mobilná sieť</string>
     <string name="perm_hips_mobile_network_desc">Prístup k Internetu cez mobilné dáta (3G atď.)</string>
-    <string name="perm_hips_mobile_network_hint">%1$s aplikácie majú povolenie pre prístup na Internet cez mobilnú sieť</string>
+    <string name="perm_hips_mobile_network_hint">%1$s aplikácií má povolenie pre prístup na Internet cez mobilnú sieť</string>
     <string name="perm_hips_network_accept">Prijať pripojenie od %1$s</string>
     <string name="perm_hips_network_connect">Pripojiť k %1$s</string>
     <string name="perm_hips_network_listen">Sledovať port %1$s</string>
@@ -1307,7 +1307,7 @@ skúste:
     <string name="perm_hips_root">ROOT</string>
     <string name="perm_hips_root_desc">Požadovať práva ROOT</string>
     <string name="perm_hips_root_desc_stable">Nedostupné v stabilnej verzii MIUI</string>
-    <string name="perm_hips_root_hint">%1$s aplikácie majú povolenie pre ROOT prístup</string>
+    <string name="perm_hips_root_hint">%1$s aplikácií má povolené práva ROOT</string>
     <string name="perm_hips_root_title">Získať práva ROOT</string>
     <string name="perm_hips_safe">Bežné práva (%1$d)</string>
     <string name="perm_hips_security_prompt_accept">Povoliť (%d)</string>
