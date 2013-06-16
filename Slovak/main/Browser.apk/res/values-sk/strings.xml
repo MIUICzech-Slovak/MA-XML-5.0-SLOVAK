@@ -129,7 +129,7 @@
     <string name="delete_bookmark_warning">Vymazať záložku „%s”?</string>	
     <string name="delete_folder">Vymazať priečinok</string>	
     <string name="delete_multi_bookmarks_alert_title">Ste si istý, že chcete vymazať %1$s položiek?</string>	
-    <string name="disable_autofill">Zapnúť automatické vypĺňanie</string>	
+    <string name="disable_autofill">Vypnúť automatické vypĺňanie</string>	
     <string name="do_not_save">Zrušiť</string>	
     <string name="download_no_sdcard_dlg_msg">Na stiahnutie %s sa vyžaduje USB úložisko.</string>	
     <string name="download_no_sdcard_dlg_title">USB úložisko nedostupné</string>	
