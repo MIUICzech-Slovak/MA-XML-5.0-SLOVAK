@@ -392,6 +392,7 @@
   <string name="too_many_recipients">Počet príjemcov tejto správy je príliš vysoký (%1$s). Počet príjemcov je obmedzený na %2$s.</string>
   <string name="too_many_unsent_mms">Nemožno odoslať správu hneď. Existuje príliš mnoho neodoslaných mms správ.</string>
   <string name="try_to_send">Pokúsiť sa odoslať</string>
+  <string name="type_attachment">príloha</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">obrázok</string>
   <string name="type_to_compose_text_enter_to_send">Sem napíšte správu</string>
