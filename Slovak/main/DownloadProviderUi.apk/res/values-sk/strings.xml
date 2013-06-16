@@ -27,7 +27,7 @@
     <string name="download_complete">Stiahnuté</string>
     <string name="download_error">Neúspešné</string>
     <string name="download_error_insufficient_space">Nedostatok miesta</string>	
-    <string name="download_in_process">Sťahovanie...</string>	
+    <string name="download_in_process">Sťahované</string>	
     <string name="download_info_count_deleted_tasks">Úspešne vymazané sťahovania %s</string>	
     <string name="download_info_start_deleted_tasks">Pripravujem vymazanie sťahovania</string>	
     <string name="download_no_application_title">Súbor nie je možné otvoriť</string>	
@@ -42,8 +42,8 @@
     <string name="download_title_sorted_by_size">Prevzatia – zoradené podľa veľkosti</string>	
     <string name="download_when_network_connected">Wi-Fi + Mobilné dáta</string>	
     <string name="downloads_operating">Pracujem...</string>
-	<string name="editmode_menu_delete">Vymazať</string>
-	<string name="editmode_menu_share">Zdieľať</string>	
+    <string name="editmode_menu_delete">Vymazať</string>
+    <string name="editmode_menu_share">Zdieľať</string>	
     <string name="keep_queued_download">Zachovať</string>	
     <string name="menu_enter_edit_mode">Editor</string>	
     <string name="menu_preferences">Nastavenie</string>	
@@ -67,7 +67,7 @@
     <string name="prefDefault_max_bytes_limit">1048576</string>	
     <string name="preferences_title">Nastavenia</string>	
     <string name="remove_download">Odstrániť</string>
-	<string name="retry_after_network_available">Prosím, skúste to opäť keď bude dostupná sieť</string>	
+    <string name="retry_after_network_available">Prosím, skúste to opäť keď bude dostupná sieť</string>	
     <string name="restart_download">Reštart</string>	
     <string name="resume_download">Obnoviť</string>	
     <string name="retry_download">Skúsiť znova</string>	
