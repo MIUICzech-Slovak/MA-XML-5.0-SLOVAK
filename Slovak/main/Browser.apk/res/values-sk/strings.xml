@@ -28,10 +28,10 @@
     <string name="account">Účet</string>	
     <string name="account_chooser_dialog_title">Vyber účet</string>	
     <string name="action">Prihlásenie</string>	
-    <string name="add_bookmark">Pridať záložku</string>	
+    <string name="add_bookmark">Nová záložka</string>	
     <string name="add_bookmark_short">Pridať</string>	
-    <string name="add_folder">Pridať zložku</string>	
-    <string name="add_new_bookmark">Pridať záložku</string>	
+    <string name="add_folder">Nová zložka</string>	
+    <string name="add_new_bookmark">Nová záložka</string>	
     <string name="add_to_bookmarks_menu_option">Záložky</string>	
     <string name="add_to_homescreen_menu_option">Domáca obrazovka</string>	
     <string name="add_to_other_folder_menu_option">Iný priečinok</string>	
