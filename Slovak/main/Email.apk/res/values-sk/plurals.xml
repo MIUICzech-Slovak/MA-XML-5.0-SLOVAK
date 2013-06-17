@@ -22,8 +22,8 @@
         <item quantity="one">%d účet</item>
     </plurals>
     <plurals name="message_view_selected_message_count">
-        <item quantity="other">Počet vybratých správ: %d</item>
-        <item quantity="one">Počet vybratých správ: %d</item>
+        <item quantity="other">Počet vybraných správ: %d</item>
+        <item quantity="one">Počet vybraných správ: %d</item>
     </plurals>
     <plurals name="message_view_show_attachments_action">
         <item quantity="other">Prílohy (%1$d)</item>
