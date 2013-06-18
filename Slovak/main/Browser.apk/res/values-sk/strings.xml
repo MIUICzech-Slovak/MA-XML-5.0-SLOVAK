@@ -450,7 +450,7 @@
     <string name="ssl_warnings_header">Vyskytli sa problémy s bezpečnostným certifikátom pre túto stránku.</string>	
     <string name="stop">Zastaviť</string>	
     <string name="stop_loading">Zastaviť</string>
-    <string name="stopping">Zastavovanie...</string>	
+    <string name="stopping">Načítavanie zastavené</string>	
     <string name="storage_internal">Interné úložisko</string>
     <string name="storage_sd_card">SD karta</string>
     <string name="storage_usb">USB úložisko</string>

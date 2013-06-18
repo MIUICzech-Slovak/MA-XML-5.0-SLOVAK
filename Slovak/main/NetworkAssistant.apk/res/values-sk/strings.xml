@@ -24,11 +24,11 @@
     <string name="app_detail_internet_control_category">Typ siete</string>	
     <string name="app_detail_title">Detail aplikácie</string>	
     <string name="app_detail_version">Verzia:\u0020%s</string>	
-    <string name="app_name">Spotreba dát</string>
+    <string name="app_has_deleted">Aplikácia %s bola vymazaná</string>
+    <string name">Spotreba dát</string>
     <string name="app_traffic_detail">"\u0020spotreba (%s)"</string>	
     <string name="apply_rules_failed">"Nepodarilo sa použiť bránu firewall, prosím skúste znovu. 
-    (%s)"
-    </string>	
+    (%s)"</string>	
     <string name="apply_rules_failed_known">OK</string>	
     <string name="batch_connect_control">Aplikácie</string>	
     <string name="cancel_txt">Zrušiť</string>	
@@ -55,7 +55,8 @@
     <string name="edit_frame_warning_title">"Varovná hodnota "</string>
     <string name="empty"/>
     <string name="finish_traffic_settings_hint">Nastavenie balíčku dokončené</string>	
-    <string name="finish_traffic_settings_message">"Využité dáta sú %s. Súhlasia dáta? Môžete ich upraviť."</string>	
+    <string name="finish_traffic_settings_message">"Využité dáta sú %s. Súhlasia dáta? 
+Môžete ich upraviť."</string>	
     <string name="finish_traffic_settings_title">Upraviť dáta</string>	
     <string name="fire_rule_program_list">Zoznam aplikácií</string>
     <string name="fire_wall_is_closed">Firewall nie je aktívny</string>

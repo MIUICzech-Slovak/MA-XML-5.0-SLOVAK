@@ -52,6 +52,7 @@
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Záznam videa nie je podporovaný v režime špeciálnych efektov.</string>
   <string name="download_by_browser">Sťiahnuť pomocou prehliadača</string>
+  <string name="download_wechat">Stiahnuť WeChat</string>
   <string name="duration">Dĺžka</string>
   <string name="edit">Upraviť</string>
   <string name="effect_backdropper_disco">Disco</string>
@@ -103,6 +104,7 @@
   <string name="import_fail">Import zlyhal!</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Spustiť Google Play</string>
+  <string name="launch_wechat">Spustiť WeChat</string>
   <string name="loading">Načítavanie...</string>
   <string name="loading_video">Načítavanie videa...</string>
   <string name="location">Poloha</string>

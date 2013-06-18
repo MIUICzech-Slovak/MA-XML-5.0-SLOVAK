@@ -13,6 +13,8 @@ Váš účet bude dočasne zablokovaný,
 <string name="app_name">Súbory</string>
 <string name="application_size_label">Aplikácia</string>
 <string name="background">Stiahnuť na pozadí</string>
+<string name="big5_summary">Predvolené kódovanie pre Windows s tradičnou čínštinou</string>
+<string name="big5_title">BIG5</string>
 <string name="bind_account">Pripojenie k MiDrive účtu</string>
 <string name="bind_account_summary">Ak už máte MiDrive účet, môžete ho pridať pre načítanie Vašich osobných dát</string>
 <string name="binded_accout_description">Účty sú prepojené, môžete sa prihlásiť buď Xiaomi účtom alebo MiDrive účtom</string>
@@ -135,7 +137,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
 <string name="load_err">Načítavanie zlyhalo</string>
 <string name="loading">Načítavam...</string>
 <string name="local_cache_size">Veľkosť lokálnej cache: %s</string>
-<string name="login_reg_content">S MiDrive môžete synchronizovať súbory.</string>
+<string name="login_reg_content">S MiDrive môžete synchronizovať súbory medzi rôznými zariadeniami.</string>
 <string name="login_reg_content0">MiDrive je Váš Cloud</string>
 <string name="menu_item_cleanup">Vyčistiť súbory</string>
 <string name="menu_item_ftp">FTP</string>

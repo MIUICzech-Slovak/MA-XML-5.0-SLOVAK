@@ -21,7 +21,7 @@
     <string name="bt_enable_line1">Najskôr zapnite Bluetooth.</string>	
     <string name="bt_enable_line2">Zapnúť Bluetooth teraz?</string>	
     <string name="bt_enable_ok">Zapnúť</string>	
-    <string name="bt_enable_title">Bluetooth</string>	
+    <string name="bt_enable_title"/>
     <string name="bt_error_btn_ok">OK</string>	
     <string name="bt_share_picker_label">Bluetooth</string>	
     <string name="bt_sm_2_1">Nie je dostatok miesta na SD karte k uloženiu súboru od \"%1$s\"</string>	
@@ -70,7 +70,9 @@
 	<string name="incoming_file_confirm_Notification_caption">Potvrďte pre prijatie súboru</string>
 	<string name="incoming_file_confirm_Notification_title">Bluetooth zdieľanie: prichádzajúci súbor</string>	
     <string name="incoming_file_confirm_cancel">Odmietnuť</string>	
-    <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" vám chce poslať %2$s (%3$s). \nPrijať súbor?"</string> 	
+    <string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" vám chce poslať %2$s (%3$s). 
+
+Prijať súbor?"</string> 	
     <string name="incoming_file_confirm_ok">Prijať</string>	
     <string name="incoming_file_confirm_timeout_content">Pri prijímaní súboru od \%1$s\ bola zistená odozva</string>	
     <string name="incoming_file_confirm_timeout_ok">Ok</string>	
@@ -88,9 +90,13 @@
     <string name="map_notif_title">Vyžaduje sa bezpečnostný kľúč pre MAP</string>
     <string name="map_session_key_dialog_header">Vyžaduje sa bezpečnostný kľúč</string>
     <string name="map_session_key_dialog_title">Vložte bezpečnostný kľúč pre %1$s</string>
+    <string name="miui_transfer_history_title">Prenosy Bluetooth</string>
+    <string name="miui_transfer_inbound_title">Príjem</string>
+    <string name="miui_transfer_outbound_title">Odosielanie</string>
     <string name="no_transfers">História prenosov je prázdna.</string>	
     <string name="not_exist_file">Súbor neexistuje</string>	
-    <string name="not_exist_file_desc">"Súbor neexistuje!"</string>	
+    <string name="not_exist_file_desc">"Súbor neexistuje!
+"</string>	
     <string name="noti_caption" formatted="false">%1$s úspešné, %2$s zlyhalo.</string>	
     <string name="notification_received">Bluetooth zdieľanie: prijaté %1$s</string>	
     <string name="notification_received_fail">Bluetooth zdieľanie: súbor %1$s nebol prijatý</string>	
@@ -155,7 +161,8 @@
     <string name="unknownNumber">Neznáme</string>	
     <string name="unknown_device">Neznáme zariadenie</string>
     <string name="unknown_file">Neznámy súbor</string>	
-    <string name="unknown_file_desc">Nie je aplikácia na spustenie tohto typu súboru.</string>    	
+    <string name="unknown_file_desc">"Nie je aplikácia na spustenie tohto typu súboru.
+"</string>    	
     <string name="update_record">Potvrďte záznam</string>	
     <string name="upload_fail_cancel">Zavrieť</string>	
     <string name="upload_fail_line1">Súbor nebol odoslaný do \"%1$s\".</string>	

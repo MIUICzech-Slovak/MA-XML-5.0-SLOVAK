@@ -398,7 +398,8 @@
   <string name="type_to_compose_text_enter_to_send">Sem napíšte správu</string>
   <string name="type_to_compose_text_or_leave_blank">Zadajte text nebo nechajte prázdne</string>
   <string name="type_video">video</string>
-  <string name="undelivered_msg_dialog_body">"Správu sa nepodarilo odoslať. Pokus: %s."</string>
+  <string name="undelivered_msg_dialog_body">"Správu sa nepodarilo odoslať. 
+Pokus: %s."</string>
   <string name="undelivered_msg_dialog_title">Nedoručená správa</string>
   <string name="undelivered_sms_dialog_body">Správu sa nepodarilo odoslať.</string>
   <string name="unknown_num">Neznáme číslo</string>

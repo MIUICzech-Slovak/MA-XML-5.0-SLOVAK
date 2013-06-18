@@ -59,8 +59,6 @@
     <string name="delete_playlist_menu">Zmazať</string>
     <string name="delete_song_desc">%s budú nenávratne vymazané z SD karty.</string>
     <string name="deselect_all">Odznačiť všetko</string>
-    <string name="dirac_disabled">Dirac Deaktivovaný</string>
-    <string name="dirac_enabled">Dirac Aktivovaný</string>
     <string name="download">Stiahnuť</string>
     <string name="download_album_settings">Sťahovať obrázky albumov</string>
     <string name="download_album_summary">Môže sťahovať väčšie množstvo dát, zvážte použitie Wi-Fi</string>
@@ -74,7 +72,6 @@
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
     <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-    <string name="edit_playlist_menu">Upraviť</string>
     <string name="empty_edit_hint">Informácie o skladbe nie sú dostupné</string>
     <string name="emptyplaylist">Vybraný playlist je prázdny.</string>
     <string name="enter_sleep_mode">Režim spánku</string>
@@ -162,8 +159,8 @@
     <string name="no_effect">Bez efektu</string>
     <string name="no_song_downloaded">Nie je možné stiahnuť skladbu.</string>
     <string name="not_selected">Zvoľte pesničku</string>
-    <string name="notification_artist_album">"%2$s %1$s"</string>
-	<string name="online_music">Online hudba</string>
+    <string name="notification_artist_album">"%2$s 
+%1$s"</string>
     <string name="online_search_hint">Hľadať hudbu online</string>
     <string name="online_title">Online</string>
     <string name="other_settings">Ostatné</string>
@@ -181,7 +178,6 @@
     <string name="playlist_deleted_message">Playlist vymazaný.</string>
     <string name="playlist_favorite">Obľúbené</string>
     <string name="playlist_frequently_played">Často prehrávané</string>
-    <string name="playlist_new">Vytvoriť nový playlist</string>
     <string name="playlist_recently_added">Nedávno pridané</string>
     <string name="playlist_recently_played">Nedávno prehrávané</string>
     <string name="playlist_renamed_message">Playlist premenovaný.</string>
@@ -204,6 +200,7 @@
     <string name="rename_playlist_menu">Premenovať</string>
     <string name="retry">Skúsiť znova</string>
     <string name="ringtone_menu">Použiť ako vyzváňanie telefónu</string>
+    <string name="ringtone_not_support">Tento formát nie je podporovaný pre zvonenie.</string>
     <string name="ringtone_set">\"%s\" nastavené ako vyzváňanie telefónu.</string>
     <string name="save">Uložiť</string>
     <string name="scanning">Prehľadávam úložisko…</string>
