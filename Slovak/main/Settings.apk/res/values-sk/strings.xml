@@ -2466,6 +2466,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wps_connect_title">Pripojiť pomocou WPS</string>
     <string name="xiaomi_account">Xiaomi účet</string>   
     <string name="xiaomi_cloud_service">Služby Xiaomi Cloudu</string>
+    <string name="xiaomi_money_service">Mi Kredity</string>
     <string name="yes">Áno</string>	
     <string name="zone_auto">Automatické čas. pásmo</string>	
     <string name="zone_auto_summaryOff">Použiť časové pásmo zo siete</string>	

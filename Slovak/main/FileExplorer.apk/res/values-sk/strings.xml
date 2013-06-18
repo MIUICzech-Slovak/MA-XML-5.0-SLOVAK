@@ -117,7 +117,7 @@ Váš účet bude dočasne zablokovaný,
 <string name="garbage_item_path_format" formatted="false">%s %s</string>
 <string name="garbage_size_metric">"%s
 Nepotrebné súbory"</string>
-<string name="gbk_summary">Ak používate Windows Explorer, zvoľte tento typ šifrovania GBK pre zabránenie použitia čínskych znakov</string>
+<string name="gbk_summary">Predvolené kódovanie pre Windows s tradičnou čínštinou</string>
 <string name="gbk_title">GBK</string>
 <string name="give_up_cleaning">Zrušiť čistenie</string>
 <string name="header_text_cleaned">Vymazané súbory</string>
