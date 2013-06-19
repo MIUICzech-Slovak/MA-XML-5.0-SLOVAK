@@ -42,6 +42,8 @@
     <string name="overwrite_dialog_message" formatted="false">%s už existuje. Chcete ho prepísať?</string>
     <string name="preference_led_indicator">Indikácia nahrávania</string>
     <string name="preference_led_indicator_prompt">Blikať LED a zobraziť v oznamovacej lište počas nahrávania s uzamknutým telefónom</string>
+    <string name="preference_record_type_dialog_title">Zvoliť typ nahrávky</string>
+    <string name="preference_record_type_title">Typ nahrávky</string>
 	<string name="preference_silent_mode">Nahrávanie v tichom režime</string>
     <string name="record_list">Zoznam nahrávok</string>	
     <string name="record_loading">Načítavanie nahrávky...</string>
