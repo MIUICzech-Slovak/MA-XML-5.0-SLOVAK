@@ -53,4 +53,9 @@
         <item>"Iba na Wi-Fi. "</item>
         <item>"Vždy. "</item>
     </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Nikdy</item>
+        <item>Iba na Wi-Fi</item>
+        <item>Vždy</item>
+    </string-array>
 </resources>
