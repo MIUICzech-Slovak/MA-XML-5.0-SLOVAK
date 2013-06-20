@@ -294,8 +294,7 @@
     <string name="pref_data_preload_title">Prednačítavanie výsledkov hľadania</string>	
     <string name="pref_data_title">Kontrola prenesených dát</string>	
     <string name="pref_data_preload_value_never_summary">Never Allow browser to preload high confidence search results in the background</string>
-    <string name="pref_data_title">Správa dátového prenosu</string> 
-   <string name="pref_default_text_encoding">Enkódovanie textu</string>	
+    <string name="pref_default_text_encoding">Enkódovanie textu</string>	
     <string name="pref_default_text_encoding_default">Latin-1</string>  
     <string name="pref_default_text_encoding_dialogtitle">Enkódovanie textu</string>	
     <string name="pref_default_zoom">Predvolené priblíženie</string>	
