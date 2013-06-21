@@ -515,7 +515,7 @@ Kópia: %4$s
     <string name="save_action">Uložiť</string>
     <string name="save_draft_action">Uložiť koncept</string>
     <string name="search_action">Hľadať</string>
-    <string name="search_header_text_fmt">Výsledky \"%1$s\"</string>
+    <string name="search_header_text_fmt">Nájdené</string>
     <string name="search_hint">Hľadať e-mail</string>
     <string name="search_mailbox_hint">Hľadať v priečinku %1$s</string>
     <string name="search_slow_warning_message">Niektorým serverom môže tento proces trvať dlho</string>
