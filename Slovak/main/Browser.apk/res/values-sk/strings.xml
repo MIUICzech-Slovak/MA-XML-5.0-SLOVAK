@@ -354,7 +354,7 @@
     <string name="pref_lab_quick_controls_summary">Potiahnite prst z ľavého alebo pravého okraja obrazovky, aby ste otvorili rýchle ovládanie a skryli URL a app lišty.</string>	
     <string name="pref_lab_title">Labs</string>
     <string name="pref_link_prefetch_dialogtitle">Prednačítanie webstránky</string>
-    <string name="pref_link_prefetch_summary">". Povoliť prehliadaču prednačítať webstránky v pozadí"</string>
+    <string name="pref_link_prefetch_summary">" Povoliť prehliadaču prednačítať webstránky v pozadí"</string>
     <string name="pref_link_prefetch_title">Prednačítanie webstránky</string>
     <string name="pref_link_prefetch_value_never_summary">Nepovoliť prehliadaču prednačítať webstránky v pozadí</string>
     <string name="pref_min_font_size">Minimálna veľkosť písma</string>	
