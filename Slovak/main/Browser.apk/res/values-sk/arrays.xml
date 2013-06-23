@@ -32,7 +32,7 @@
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Nikdy</item>
-        <item>Len Wi-Fi</item>
+        <item>Len na Wi-Fi</item>
         <item>Vždy</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
@@ -50,12 +50,12 @@
     </string-array>
     <string-array name="pref_video_preload_choices">
         <item>Nikdy</item>
-        <item>Iba na Wi-Fi</item>
+        <item>Len na Wi-Fi</item>
         <item>Vždy</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Nikdy</item>
-        <item>Iba na Wi-Fi</item>
+        <item>Len na Wi-Fi</item>
         <item>Vždy</item>
     </string-array>
 </resources>
