@@ -149,9 +149,9 @@
     <string name="edit">Upraviť</string>	
     <string name="edit_bookmark">Upraviť záložku</string>	
     <string name="edit_folder">Upraviť priečinok</string>	
-    <string name="empty_bookmarks_folder">Žiadne záložky.</string>	
-    <string name="empty_history">Žiadna história prehliadania.</string>	
-    <string name="empty_snapshots_folder">Žiadne uložené stránky.</string>	
+    <string name="empty_bookmarks_folder">Žiadne záložky</string>	
+    <string name="empty_history">Žiadna história prehliadania</string>	
+    <string name="empty_snapshots_folder">Žiadne uložené stránky</string>	
     <string name="error_console_eval_button_text">Vyhodnotiť</string>	
     <string name="error_console_eval_text_hint">Vyhodnotiť JavaScript</string>	
     <string name="error_console_header_text_maximized">JavaScript konzola</string>	
@@ -257,7 +257,7 @@
     <string name="page_info_address">Adresa:</string>	
     <string name="page_info_view">Zobraz informácie o stránke</string>	
     <string name="password">Heslo</string>	
-    <string name="permission_preload_label">Preload results</string>	
+    <string name="permission_preload_label">Prednačítať výsledky</string>	
     <string name="picasa">Picasa</string>	
     <string name="please_select_a_file_to_import">Prosím vyberte dátový súbor</string>	
     <string name="popup_window_attempt">Povoliť tejto stránke otvoriť pop-up okno?</string>	
@@ -287,13 +287,13 @@
     <string name="pref_content_plugins">Povoliť pluginy</string>	
     <string name="pref_content_preload_title">Prednačítať obsah</string>
     <string name="pref_content_search_engine">Nastaviť vyhľadávanie</string>	
-    <string name="pref_content_search_engine_summary">Vybrať vyhľadávací engine</string>	
+    <string name="pref_content_search_engine_summary">Vybrať vyhľadávaciu službu</string>	
     <string name="pref_content_title">Obsah stránky</string>	
     <string name="pref_data_preload_dialogtitle">Prednačítavanie výsledkov vyhľadávania.</string>	
-    <string name="pref_data_preload_summary">Povoliť prehliadaču prednahrávať výsledky vyhľadávania s vysokou spoľahlivosťou na pozadí.</string>	
+    <string name="pref_data_preload_summary">". Povoliť prehliadaču prednačítavať výsledky vyhľadávania s vysokou spoľahlivosťou na pozadí."</string>	
     <string name="pref_data_preload_title">Prednačítavanie výsledkov hľadania</string>	
     <string name="pref_data_title">Kontrola prenesených dát</string>	
-    <string name="pref_data_preload_value_never_summary">Never Allow browser to preload high confidence search results in the background</string>
+    <string name="pref_data_preload_value_never_summary">Nikdy nepovoliť prednačítavať výsledky vyhľadávania s vysokou spoľahlivosťou na pozadí</string>
     <string name="pref_default_text_encoding">Enkódovanie textu</string>	
     <string name="pref_default_text_encoding_default">Latin-1</string>  
     <string name="pref_default_text_encoding_dialogtitle">Enkódovanie textu</string>	
@@ -301,7 +301,7 @@
     <string name="pref_default_zoom_dialogtitle">Predvolené priblíženie</string>	
     <string name="pref_developer_options">Možnosti pre vývojára</string>	
     <string name="pref_developer_options_summary">Debugging alebo oznámenie chyby</string>	
-    <string name="pref_development_cpu_upload_path">Povoliť Cpu Upload Path</string>	
+    <string name="pref_development_cpu_upload_path">Povoliť CPU Upload Path</string>	
     <string name="pref_development_error_console">Zobraziť Konzolu JavaScript</string>	
     <string name="pref_development_hardware_accel">Povoliť OpenGL Renderovanie</string>	
     <string name="pref_development_hardware_accel_skia">Povoliť HW Akcelerovanie Skia</string>	
@@ -354,7 +354,7 @@
     <string name="pref_lab_quick_controls_summary">Potiahnite prst z ľavého alebo pravého okraja obrazovky, aby ste otvorili rýchle ovládanie a skryli URL a app lišty.</string>	
     <string name="pref_lab_title">Labs</string>
     <string name="pref_link_prefetch_dialogtitle">Prednačítanie webstránky</string>
-    <string name="pref_link_prefetch_summary">" Povoliť prehliadaču prednačítať webstránky v pozadí"</string>
+    <string name="pref_link_prefetch_summary">". Povoliť prehliadaču prednačítať webstránky v pozadí"</string>
     <string name="pref_link_prefetch_title">Prednačítanie webstránky</string>
     <string name="pref_link_prefetch_value_never_summary">Nepovoliť prehliadaču prednačítať webstránky v pozadí</string>
     <string name="pref_min_font_size">Minimálna veľkosť písma</string>	
