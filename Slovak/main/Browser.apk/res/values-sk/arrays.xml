@@ -11,7 +11,7 @@
     <string-array name="pref_content_plugins_choices">
         <item>Vždy zapnuté</item>
         <item>Spýtať sa</item>
-		<item>Vždy vypnuté</item>
+	<item>Vždy vypnuté</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Štartovacia stránka</item>
@@ -19,7 +19,7 @@
         <item>Iná</item>
     </string-array>		
     <string-array name="pref_text_size_choices">
-	    <item>Veľmi malý</item>
+	<item>Veľmi malý</item>
         <item>Malý</item>
         <item>Normálny</item>
         <item>Veľký</item>
@@ -31,9 +31,9 @@
         <item>Blízko</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>"Nikdy. "</item>
-        <item>"Len Wi-Fi. "</item>
-        <item>"Vždy. "</item>
+        <item>Nikdy</item>
+        <item>Len Wi-Fi</item>
+        <item>Vždy</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Stránka hore/dole</item>
@@ -44,14 +44,14 @@
         <item>Prepnutie karty</item>
     </string-array>    
     <string-array name="pref_link_prefetch_choices">
-       <item>"Nikdy. "</item>
-       <item>"Iba na Wi-Fi. "</item>
-       <item>"Vždy. "</item>
+       <item>Nikdy</item>
+       <item>Iba na Wi-Fi</item>
+       <item>Vždy</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
-        <item>"Nikdy. "</item>
-        <item>"Iba na Wi-Fi. "</item>
-        <item>"Vždy. "</item>
+        <item>Nikdy</item>
+        <item>Iba na Wi-Fi</item>
+        <item>Vždy</item>
     </string-array>
     <string-array name="pref_images_preload_choices">
         <item>Nikdy</item>
