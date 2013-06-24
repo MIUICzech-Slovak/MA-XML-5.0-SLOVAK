@@ -402,7 +402,7 @@
     <string name="pref_ua_title">Identifikácia zariadenia</string>	
     <string name="pref_use_instant_search">Google Instant</string>	
     <string name="pref_use_instant_search_summary">Použiť Google Instant pri používaní Google Search pre zobrazenie výsledkov počas písania (toto môže zvýšiť použitie dát).</string>	
-    <string name="pref_video_preload_dialogtitle">Načítavanie videa...</string>
+    <string name="pref_video_preload_dialogtitle">Načítavanie videa</string>
     <string name="pref_video_preload_summary">Povoliť prehliadaču načítať video ešte pred prehrávaním ak to server podporuje</string>
     <string name="pref_video_preload_title">Načítavanie videa</string>
     <string name="pref_video_preload_value_never_summary">Nepovoliť prehliadaču načítať video ešte pred prehrávaním</string>
