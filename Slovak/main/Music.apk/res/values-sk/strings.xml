@@ -39,7 +39,7 @@
     <string name="channel_postfix">MHZ</string>    
     <string name="click_to_shuffle">Stlačte tu pre spustenie náhodného prehrávania</string>
     <string name="complete">Dokončené</string>
-	<string name="confirm">Potvrdiť</string>
+    <string name="confirm">Potvrdiť</string>
     <string name="correct_id3_by_internet">Automaticky opraviť ID3 pomocou internetu</string>
     <string name="correct_id3_failed">Oprava ID3 zlyhala!</string>
     <string name="correct_id3_in_processing">Opravovanie ID3 informácií</string>
@@ -183,6 +183,8 @@
     <string name="playlist_renamed_message">Playlist premenovaný.</string>
     <string name="playlists_title">Playlisty</string>
     <string name="powered_by">Poskytuje</string>
+    <string name="project_device">Xiaomi Box</string>
+    <string name="project_device_mobile">Mobilný telefón</string>
     <string name="queue">Aktuálny playlist</string>
     <string name="quit_player">Ukončiť</string>
     <string name="quit_warining">Prehrávač zastaví prehrávanie o %d minút</string>

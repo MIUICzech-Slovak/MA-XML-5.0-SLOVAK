@@ -10,6 +10,7 @@
     <string name="cancel_receive">Ukončiť</string>
     <string name="cancel_send">Ukončiť</string>
     <string name="canceling">Ukončovanie...</string>
+    <string name="choose_title">Vyberte súbor</string>
     <string name="connect_confirm">%1$s sa chce pripojiť</string>
     <string name="connecting">Pripojovanie</string>
     <string name="continue_to_send">Pokračovať v odosielaní</string>
@@ -18,9 +19,16 @@
     <string name="device_name_tip">Choďte do Nastavenia - Info o telefóne a upravte názov zariadenia.</string>
     <string name="editmode_menu_delete">Vymazať</string>
     <string name="editmode_menu_share">Zdieľať</string>
+    <string name="error_bad_file">Chybný súbor</string>
+    <string name="error_download">Chyba pri sťahovaní</string>
+    <string name="error_general">Chyba</string>
+    <string name="error_network">Chyba siete</string>
+    <string name="error_not_enough_space">Na úložisku nie je dostatok miesta</string>
     <string name="error_not_selected">Nebol vybraný žiaden súbor</string>
+    <string name="error_peer_disconnected">Prepojenie sa ukončilo</string>
     <string name="error_select">Chyba súboru alebo nebol vybraný žiaden súbor</string>
     <string name="error_transmit">Chyba prenosu</string>
+    <string name="error_upload">Chyba odosielania</string>
     <string name="fail">Chyba</string>
     <string name="failed">Zlyhalo</string>
     <string name="finish">Dokončené</string>
@@ -31,7 +39,6 @@
     <string name="history_all">Celá história</string>
     <string name="history_receive">História prijatia súborov</string>
     <string name="history_send">História odosielania súborov</string>
-    <string name="choose_title">Vyberte súbor</string>
     <string name="input_device_name">Vložiť názov zariadenia</string>
     <string name="input_device_name_tip">Používajte Prenos súborov pre odosielanie alebo prijímanie súborov medzi dvoma zariadeniami pomocou zdieľaného Wi-Fi hot-spotu. Ostatné zariadenia zobrazia názov Vášho zariadenia.</string>
     <string name="miui_device_default_name">Android</string>
@@ -62,17 +69,22 @@
     <string name="receive_tip">Pre rýchle spárovanie a prijímanie súborov.</string>
     <string name="receive_uncompleted">Prijímanie zlyhalo</string>
     <string name="received">Prijaté</string>
+    <string name="recv_sound">Zvuk pri prijatí</string>
     <string name="resend">Znova odoslať</string>
-    <string name="scan_tip">"Uistite sa prosím, že na druhom zariadení 
-        je povolené prijímanie súborov"</string>
+    <string name="scan_2d_code">QR kód</string>
+    <string name="scan_tip">"Uistite sa prosím, že na druhom zariadení je povolené prijímanie súborov"</string>
+    <string name="scan_title">Zamerajte QR kód</string>
     <string name="scanning">Vyhľadávanie</string>
     <string name="sdcard_unavailable">SD karta je nedostupná</string>
     <string name="send">Odoslať</string>
+    <string name="send_2d_code">Odoslať pomocou QR kódu</string>
     <string name="send_cancel_tip">Odosielanie nie je dokončené. Ste si istý, že chcete zastaviť prenos súborov?</string>
     <string name="send_cancel_tip2">Odosielanie zrušené. Odoslaných %1$d / %2$d súborov</string>
     <string name="send_files">Odosielanie %1$d súborov</string>
     <string name="send_finish">Súbor odoslaný!</string>
     <string name="send_finish_tip">Odoslaných %1$d súborov do:</string>
+    <string name="send_nfc">Odoslať pomocou NFC</string>
+    <string name="send_sound">Odoslať pomocou zvuku</string>
     <string name="send_tip">Dávkové odosielanie obrázkov, hudby, kontaktov a iných súborov.</string>
     <string name="send_to">Odosolať do:</string>
     <string name="send_uncompleted">Odosielanie zlyhalo</string>
@@ -89,6 +101,7 @@
     <string name="settings_receive_confirm_title">Povolenie prijatia</string>
     <string name="share">Zdieľať</string>
     <string name="share_text">MIUIv5 podporuje prenos súborov bez spotreby mobilných dát. Užívatelia ktorí nemajú MIUIv5 si musia stiahnuť: %1$s</string>
+    <string name="shortmessage">Krátka správa</string>
     <string name="summary_step_one">Odosielajte obrázky, hudbu, kontakty a ostatné súbory</string>
     <string name="summary_step_two">Pozvať priateľov na inštalovanie AnyShare</string>
     <string name="support_tip">Pripojenie je kompatibilné s AnyShare</string>
