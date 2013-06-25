@@ -40,7 +40,17 @@
     <string name="carrier_settings_button">Nastavenie operátora</string>
     <string name="close_txt">Zavrieť</string>	
     <string name="control_app_internet">Využitie siete</string>	
-    <string name="current_warning_value">Varovná hodnota:\u0020%s</string>	
+    <string name="current_warning_value">Varovná hodnota:\u0020%s</string>
+    <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
+    <string name="custom_adjust_title">Vlastné nastavenie</string>
+    <string name="custom_adjust_sender">Číslo odosielateľa</string>
+    <string name="custom_adjust_command">Obsah správy</string>
+    <string name="custom_adjust_receiver">Číslo príjmateľa</string>
+    <string name="custom_adjust_sender_hint">číslo ktoré slúži na zistenie informácií o spotrebe užívateľa</string>
+    <string name="custom_adjust_command_hit">obsah správy</string>
+    <string name="custom_adjust_receiver_hint">číslo operátora na zistenie spotreby.</string>
+    <string name="custom_adjust_recevier_same_with_sender">väčšinou sú tieto čísla rovnaké</string>
+    <string name="custom_adjust_is_empty">%s je prázdne!</string>	
     <string name="daily_limit_dialog_disconnect_hint">Odpojiť internet po prekr.</string>	
     <string name="daily_limit_dialog_hint">Denný limit dát (prázdne alebo 0 znamená bez obmedzení)</string>	
     <string name="daily_limit_result">Upozorniť ma a odpojiť internet, ak denná prevádzka prekročí %dMB</string>	
@@ -126,6 +136,7 @@ Môžete ich upraviť."</string>
     <string name="sync_traffic_fail_title">Dotaz zlyhal</string>	
     <string name="sync_traffic_ing">Získavam od operátora, prosím čakajte...</string>
     <string name="sync_traffic_no_cmd_detail">"Napíšte Vašu krajinu a operátora na naše fórum MIUI: http://www.miui.com/forum-172-1.html. Ďakujeme."</string>
+    <string name="sync_traffic_no_cmd_detail_custom_config">"Môžete nastaviť manuálne v Nastavenia >> Nastaviť manuálne >> Zadať využité dáta"</string>
     <string name="sync_traffic_no_cmd_title">Nie je dostupná vzorová SMS</string>	
     <string name="sync_traffic_success">"Získané dáta od operátora, prevádzka upravená"</string>	
     <string name="text_day"/>
