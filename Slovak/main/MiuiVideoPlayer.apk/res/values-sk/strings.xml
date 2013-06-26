@@ -37,10 +37,10 @@
     <string name="nowifi_alert_dialog_title">Upozornenie spotreby</string>
     <string name="temp_play_history_button_label">Zobraziť históriu</string>
     <string name="to_be_play_label_v5">Začina sa prehrávanie</string>
-    <string name="toast_back_key_pressed_notice">Stlačte znovu pre ukončenie.</string>
-    <string name="toast_message_continue_play_from">Pokračovať v prehrávaní od</string>
-    <string name="toast_message_continue_play_hour">h</string>
-    <string name="toast_message_continue_play_minute">m</string>
+    <string name="toast_back_key_pressed_notice">Stlačte znovu pre ukončenie</string>
+    <string name="toast_message_continue_play_from">Prehrávannie pokračuje od</string>
+    <string name="toast_message_continue_play_hour">"h "</string>
+    <string name="toast_message_continue_play_minute">"m "</string>
     <string name="toast_message_continue_play_second_and_play">s</string>
     <string name="top_status_local_media">Lokálne média</string>
     <string name="top_status_online_media">Online média</string>
