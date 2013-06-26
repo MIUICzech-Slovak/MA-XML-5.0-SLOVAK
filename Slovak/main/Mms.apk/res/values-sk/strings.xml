@@ -87,7 +87,7 @@
   <string name="delete_phrase">Odstrániť frázy</string>
   <string name="delete_unlocked">Odstrániť zamknuté</string>
   <string name="delivery_report_activity">Potvrdenie o doručení</string>
-  <string name="delivery_toast_body">Správa bola doručená %s</string>
+  <string name="delivery_toast_body">Správa pre %s bola doručená</string>
   <string name="disable_notifications_dialog_message">Neduplikovať notifikácie z predvolenej aplikácií SMS Správ?</string>
   <string name="discard">Zrušiť</string>
   <string name="discard_message">Zrušiť</string>
