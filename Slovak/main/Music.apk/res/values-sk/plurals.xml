@@ -76,4 +76,8 @@
         <item quantity="other">%d skladieb bude stiahnutých.</item>
         <item quantity="one">1 skladba bude stiahnutá.</item>
     </plurals>
+        <plurals name="Nhot_tracks_total">
+        <item quantity="other">hitov: %d</item>
+        <item quantity="one">%d hit</item>
+    </plurals>
 </resources>
