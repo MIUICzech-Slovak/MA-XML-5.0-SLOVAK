@@ -45,7 +45,7 @@
     <string name="custom_adjust_title">Vlastné nastavenie</string>
     <string name="custom_adjust_sender">Číslo odosielateľa</string>
     <string name="custom_adjust_command">Obsah správy</string>
-    <string name="custom_adjust_receiver">Číslo príjmateľa</string>
+    <string name="custom_adjust_receiver">Číslo príjemcu</string>
     <string name="custom_adjust_sender_hint">číslo ktoré slúži na zistenie informácií o spotrebe užívateľa</string>
     <string name="custom_adjust_command_hit">obsah správy</string>
     <string name="custom_adjust_receiver_hint">číslo operátora na zistenie spotreby.</string>
