@@ -78,10 +78,10 @@
             "favicon":""
         },
         {
-            "title":"SHMU",
-            "url":"http://www.shmu.sk/",
-            "thumbnail":"shmu.png",
-            "logobg":"bg10.9.png",
+            "title":"facebook",
+            "url":"https://www.facebook.com/MiuiCzechSlovakXiaomi/",
+            "thumbnail":"face.png",
+            "logobg":"bg11.9.png",
             "favicon":""
         }
     ]
