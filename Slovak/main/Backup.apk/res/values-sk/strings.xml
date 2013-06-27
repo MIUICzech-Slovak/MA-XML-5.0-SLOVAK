@@ -102,7 +102,7 @@
 <string name="miliao_account_guide">Účet MiTalk bol povýšený na účet Xiaomi.\n Užite si všetky dostupné online služby</string>
 <string name="miliao_account_login">Prihlásiť k MiTalk</string>
 <string name="mms_title">Multimediálne správy</string>
-<string name="multi_select_title">Vybratých %1$s položiek</string>
+<string name="multi_select_title">Vybraných položiek: %1$s</string>
 <string name="no_encrypt_password">Žiadne heslo pre šifrovanie</string>
 <string name="no_network">Pripojenie k sieti nie je k dispozícii.\nOverte prosím pripojenie a skúste to znova</string>
 <string name="note_title">Poznámky</string>
