@@ -5,9 +5,9 @@
         <item quantity="one">Odstrániť vybratú položku?</item>
     </plurals>
     <plurals name="number_of_items_selected">
-        <item quantity="other">Počet vybratých položiek: %1$d</item>
-        <item quantity="zero">Počet vybratých položiek: %1$d</item>
-        <item quantity="one">Počet vybratých položiek: %1$d</item>
+        <item quantity="other">Počet vybraných položiek: %1$d</item>
+        <item quantity="zero">Počet vybraných položiek: %1$d</item>
+        <item quantity="one">Počet vybraných položiek: %1$d</item>
     </plurals>
     <plurals name="number_of_albums_selected">
         <item quantity="other">Počet vybraných albumov: %1$d</item>
