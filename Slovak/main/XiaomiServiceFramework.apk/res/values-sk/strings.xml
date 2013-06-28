@@ -57,7 +57,7 @@ Skontrolujte si svoje údaje a skúste to znova.</string>
     <string name="error_common_summary">Chyba systému, skúste to neskôr</string>
     <string name="error_common_title">Chyba systému</string>
     <string name="error_dup_phone">Telefón bol zaregistrovaný</string>
-	<string name="error_expired_summary">Vaša objednávka vypršala</string>
+    <string name="error_expired_summary">Vaša objednávka vypršala</string>
     <string name="error_frozen_summary">Váš účet je zablokovaný</string>	
     <string name="error_frozen_title">Zablokovaný účet!</string>	
     <string name="error_giftcard_summary">Nie je možné získať informácie o poukážke</string>	
@@ -157,7 +157,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="micloud_via_sms_alert">Na overenie Vášho telefónneho čísla sa odošle SMS správa. Ste si istý, že chcete pokračovať?</string>
     <string name="micloud_welcome_skip_login"><u>Preskočiť</u></string>	
     <string name="mili_center">Mi kredity</string>	
-	<string name="my_mili_record">Moje Mi kredity</string>
+    <string name="my_mili_record">Moje Mi kredity</string>
     <string name="my_xiaomi_account">Môj Xiaomi účet</string>
     <string name="next">Ďalšie</string>	
     <string name="nobind">Neprepojený</string>	
@@ -261,7 +261,7 @@ Vložte Vaše heslo"</string>
     <string name="sync_on">Zap</string>	
     <string name="sync_sub_dspt">Odošle sa SMS pre aktiváciu služby</string>	
     <string name="sync_sub_int_dspt">Bude odoslaná medzinárodná SMS pre aktiváciu služby</string>
-    <string name="title_mili_center">Centrum Mi kreditov</string>	
+    <string name="title_mili_center">Mi kredity</string>	
     <string name="title_pay">Zaplatiť Mi kreditmi</string>
     <string name="title_pay_record">%1$s histórie platieb</string>	
     <string name="title_paytool">Navýšiť pomocou %1$s</string>	
@@ -285,7 +285,7 @@ Vložte Vaše heslo"</string>
     <string name="voucher_edit_hint">Heslo:</string>
     <string name="voucher_edit_limit">Upraviť limit</string>
     <string name="voucher_error_code">Nastala chyba pri kontrole čísla kupónu</string>
-	<string name="voucher_input_password_prompt">vložte heslo</string>
+    <string name="voucher_input_password_prompt">vložte heslo</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmpp_server_addr"/>
 </resources>
