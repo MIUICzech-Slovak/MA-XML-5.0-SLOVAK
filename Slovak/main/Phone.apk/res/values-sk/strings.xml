@@ -799,7 +799,7 @@
     <string name="regional_disable">Regionálne správy zakázané</string>
     <string name="regional_enable">Regionálne správy povolené</string>
     <string name="register_automatically">Automatická registrácia...</string>
-    <string name="register_network_failed_message_miui">"Ne je možné sa registrovať do siete, ktorú ste vybrali. Chcete vybrať preferovanú sieť automaticky?"</string>
+    <string name="register_network_failed_message_miui">"Nie je možné sa registrovať do siete, ktorú ste vybrali. Chcete vybrať preferovanú sieť automaticky?"</string>
     <string name="register_network_failed_title_miui">Služba nie je dostupná</string>
     <string name="register_on_network">Prebieha registrácia do siete %s...</string>
     <string name="registration_done">Prihlásenie do siete bolo úspešné.</string>
@@ -876,7 +876,7 @@
     <string name="search_networks">Vyhľadávanie siete</string>
     <string name="selectContact">Vybrať kontakt</string>
     <string name="select_automatically">Vybrať automaticky</string>
-    <string name="select_network_automatic_hint_miui">"Ne je možné sa registrovať do siete, ktorú ste vybrali. Chcete vybrať preferovanú sieť automaticky?"</string>
+    <string name="select_network_automatic_hint_miui">"Nie je možné sa registrovať do siete, ktorú ste vybrali. Chcete vybrať preferovanú sieť automaticky?"</string>
     <string name="sendSms">Odoslať SMS</string>
     <string name="send_button">Odoslať</string>
     <string name="send_keepalive">sendKeepAlive</string>
