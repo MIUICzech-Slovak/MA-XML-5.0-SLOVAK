@@ -31,6 +31,8 @@
     <string name="aggregation_suggestion_join_dialog_message">Zlúčiť aktuálny kontakt s vybraným kontaktom?</string>
     <string name="all_list_empty">Žiadne kontakty</string>
     <string name="all_resources">Všetko</string>
+    <string name="antispam_mark_my_contribution">Moje označenia</string>
+    <string name="antispam_provider_format">Označenia sú poskytnuté %s</string>
     <string name="attach_photo_dialog_title">Fotka kontaktu</string>
     <string name="audio_chat">Audio chat</string>
     <string name="auto_nickname">Auto</string>
@@ -147,8 +149,6 @@
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_file_prefix"/>
     <string name="config_export_file_suffix"/>
-    <string name="config_export_vcard_type">default</string>
-    <string name="config_import_vcard_type">default</string>
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_contact_all_call_logs">"Ste si istý, že chcete vymazať všetky záznamy %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Ste si istý, že chcete vymazať všetky záznamy o hovoroch tohto kontaktu?"</string>
@@ -172,6 +172,7 @@
     <string name="contact_editor_prompt_multiple_accounts">Synchronizovať nový kontakt s niektorým z týchto účtov.</string>
     <string name="contact_editor_prompt_one_account">Váš nový kontakt bude synchronizovaný s %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">Váš nový kontakt nebude zálohovaný. Chcete pridať účet, ktorý zálohuje kontakty online?</string>
+    <string name="contact_is_readOnly">Kontakt nie je možné upraviť</string>
     <string name="contact_list_loading">Načítavanie...</string>
     <string name="contact_pick_photo">Fotka</string>
     <string name="contact_read_only">Kontaktné informácie zo zdroja %1$s nie je možné na tomto zariadení upraviť.</string>
@@ -414,6 +415,11 @@ Chyba: \"%s\""</string>
     <string name="import_to_xiaomi_account_progress_title">Presúvanie kontaktov na Xiaomi účet</string>
     <string name="import_to_xiaomi_account_title">Presunúť kontakty na Xiaomi účet?</string>
     <string name="import_vcard_description">Importovať kontakty z SD karty</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
+    <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
+    <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
+    <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
+    <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
     <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
     <string name="import_weibo_fetch_followers">Získavanie Sina Weibo priateľov...</string>
     <string name="import_weibo_notification_title_done">Import kompletný</string>
@@ -470,6 +476,7 @@ Chyba: \"%s\""</string>
     <string name="menu_bar_group_delete">Vymazať</string>
     <string name="menu_bar_group_rename">Premenovať</string>
     <string name="menu_bar_group_ringtone">Zvonenie</string>
+    <string name="menu_bar_group_ringtone_largeui">Zvonenie</string>
     <string name="menu_bar_group_sms">Skupinová SMS</string>
     <string name="menu_call">Volať kontakt</string>
     <string name="menu_callNumber">Volať kontakt: %s</string>
@@ -730,6 +737,7 @@ Synchronizujte ich teraz."</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="processing">Spracovávanie...</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
+    <string name="profile_name">Môj profil</string>
     <string name="progress_notifier_message" formatted="false">Importujem %s/%s: %s</string>
     <string name="quickcontact_missing_app">Aplikácia potrebná na túto akciu nebola nájdená</string>
     <string name="quit_dialog_confirm_title">Chcete ukončiť zlučovanie kontaktov?</string>
@@ -834,7 +842,7 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="set_photo_failed_msg">Nastavenie avatara zlyhalo</string>
     <string name="share_error">Tento kontakt nemôže byť zdieľaný.</string>
     <string name="share_via">Zdieľať cez</string>
-    <string name="share_visible_contacts">Zdielať viditeľné kontakty</string>
+    <string name="share_visible_contacts">Zdielať kontakty</string>
     <string name="shortcutActivityTitle">Výber skratky kontaktu</string>
     <string name="shortcutContact">Kontakty</string>
     <string name="shortcutDialContact">Priama voľba</string>
