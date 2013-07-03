@@ -10,10 +10,10 @@
     <string name="apply_lockscreen_paper_tips">Obrazovka uzamknutia v súčasnej dobe nepodporuje zmenu tapety obrazovky uzamknutia, nové tapety obrazovky uzamknutie nemusia byť viditeľné.</string>	
     <string name="apply_theme_no_select_message">Prosím, vyberte komponenty.</string>	
     <string name="backup_preference_title">Zálohovanie aktuálnej témy</string>	
-    <string name="backup_theme_dialog_message">Zálohovanie aktuálnej témy %1$s</string>	
+    <string name="backup_theme_dialog_message">Zálohovanie aktuálnej témy</string>	
     <string name="backup_theme_dialog_ok">Zálohovanie"</string>	
     <string name="backup_theme_name">Moje zálohy</string>	
-    <string name="backup_theme_progress_message">Zálohovanie aktuálnej témy, \nčakajte prosím...</string>	
+    <string name="backup_theme_progress_message">Zálohovanie aktuálnej témy, čakajte prosím...</string>	
     <string name="backup_theme_success_message">Téma úspešne zálohovaná..</string>	
     <string name="change_wallpaper">Zmena tapety</string>	
     <string name="close">Zatvoriť</string>
@@ -145,8 +145,10 @@
     <string name="theme_component_title_ringtone">Zvonenie</string>	
     <string name="theme_component_title_statusbar">Oznam. lišta</string>	
     <string name="theme_component_title_wallpaper">Tapeta</string>	
+    <string name="theme_current_using_has_update">Aktuálna téma bola aktualizovaná, dotknite sa tu pre jej aplikovanie</string>
     <string name="theme_description_title_customized">Vlastné</string>	
     <string name="theme_description_title_default">Predvolené</string>	
+    <string name="theme_immediately_apply_tip">Téma bola aktualizovaná, chcete ju teraz aplikovať?</string>
     <string name="theme_import_activity_label">Aktualizovať tému</string>
     <string name="theme_import_data">Importovanie témy</string>
     <string name="theme_import_fail">Importovanie %1$s zlyhalo</string>

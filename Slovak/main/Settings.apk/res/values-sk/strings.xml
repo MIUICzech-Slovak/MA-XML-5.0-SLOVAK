@@ -503,6 +503,8 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="cdma_security_settings_summary">Nastavenie funkcie Moja poloha, odomknutie obrazovky a zamknutie úložiska poverení</string>	
     <string name="cell_broadcast_settings">Cell broadcasts</string>
     <string name="cell_broadcast_settings_summary">Zvoliť typ zobrazenia núdzových upozornení.</string>
+    <string name="change_password">Zmeniť heslo</string>
+    <string name="change_security_lock">Iný spôsob odomknutia</string>
     <string name="checkbox_notification_same_as_incoming_call">Použiť hlasitosť zvonenia aj pre notifikácie</string>	
     <string name="choose_timezone">Zvoliť časovú zónu</string>
     <string name="clear_activities">Vymazať predvolené nastavenie</string>	
@@ -1022,6 +1024,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="lock_intro_message">"Svoj telefón môžete chrániť pred neoprávneným použitím pomocou osobného gesta pre odomknutie obrazovky. Body na nasledujúcej obrazovke spojte prstom v akomkoľvek poradí. Spojiť je nutné aspoň štyri body. Ako náhle budete pripravení začať, dotknite sa tlačidlá Ďalší."</string>	
     <string name="lock_screen_unlock_show">Zobraziť heslo displeja okamžite</string>	
     <string name="lock_screen_unlock_show_summary">"Nepoužívať iné uzamykanie displeja"</string>	
+    <string name="lock_settings_common_title">Nastavenie zámku</string>
     <string name="lock_settings_picker_settings">Nastaviť zámok obrazovky</string>	
     <string name="lock_settings_picker_title">Vybrať zámok obrazovky</string>	
     <string name="lock_settings_title">Zabezpečenie obrazovky</string>	
@@ -1948,6 +1951,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="tts_settings_changed_demo">Nastavenie sa zmenilo. Toto je príklad súčasného znenia.</string>	
     <string name="tts_settings_title">Výstup prevodu textu na reč</string>	
     <string name="turn_off_radio">Vypnúť rádio</string>	
+    <string name="turn_off_security_lock">Vypnúť zámok</string>
     <string name="turn_on_radio">Zapnúť rádio</string>	
     <string name="under_keyguard">Na uzamykacej obrazovke</string>
     <string name="uninstall_all_users_text">Odinštalovať pre všetkých používateľov</string>	
@@ -2465,7 +2469,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wps_connect_summary">Uistite sa, že Váš router podporuje WPS</string>
     <string name="wps_connect_title">Pripojiť pomocou WPS</string>
     <string name="xiaomi_account">Xiaomi účet</string>   
-    <string name="xiaomi_cloud_service">Služby Xiaomi Cloudu</string>
+    <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xiaomi_money_service">Mi kredity</string>
     <string name="yes">Áno</string>	
     <string name="zone_auto">Automatické čas. pásmo</string>	

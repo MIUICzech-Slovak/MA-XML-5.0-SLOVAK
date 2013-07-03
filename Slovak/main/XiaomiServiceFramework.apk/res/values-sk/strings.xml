@@ -10,7 +10,7 @@ kontakty, fotky, atď"</string>
     <string name="account_name">Účet: %1$s</string>	
     <string name="activating">Aktivácia...</string>
     <string name="add_weibo_account">Pridať účet</string>	
-    <string name="alert_title_remove_account">Vymazať účet</string>	
+    <string name="alert_title_remove_account">Odhlásiť sa</string>	
     <string name="app_name">Xiaomi Service Framework</string>	
     <string name="available_functionality">Dostupné služby</string>
     <string name="bad_authentication">Overenie sa nepodarilo, zle zadané užívateľské meno alebo heslo</string>	
@@ -95,6 +95,7 @@ Skontrolujte si svoje údaje a skúste to znova.</string>
     <string name="find_password_on_web_msg">Navštívte account.xiaomi.com pre obnovu hesla</string>
     <string name="forget_password"><u>Zabudnuté heslo</u></string>
     <string name="frozen">(Zmrazené)</string>
+    <string name="get_back_pwd">Obnoviť heslo</string>
     <string name="giftcard_acitivity_and_denomination">%2$s Mi kreditov z poukážky %1$s</string>
     <string name="giftcard_denom">Mi kredit(ov)</string>
     <string name="giftcard_denom_available">Mi kredit(ov) dostupných</string>
@@ -114,7 +115,8 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="label_order_name">Názov produktu:</string>	
     <string name="label_order_price">Množstvo:</string>	
     <string name="login">Prihlásiť sa</string>	
-    <string name="login_failed">Prihlásenie sa nepodarilo</string>	
+    <string name="login_failed">Prihlásenie sa nepodarilo</string>
+    <string name="login_instead_reg">Prihlásiť sa pomocou telefónneho čísla</string>
     <string name="login_notice">Prihlasovanie...</string>	
     <string name="memu_refresh">Obnoviť</string>
     <string name="mibi_license_message">Xiaomi Mi Kredity. Kliknutím na OK súhlasíte s %1$s.</string>	
@@ -130,7 +132,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="micloud_activing_account">Aktivujem Váš účet</string>	
     <string name="micloud_click_email">Klikníte na odkaz v emaily pre aktiváciu svojho účtu Xiaomi</string>	
     <string name="micloud_click_email_to_valid">Kliknite na aktivačný odkaz v doručenom emaily</string>	
-    <string name="micloud_delete_account">Zrušiť účet</string>	
+    <string name="micloud_delete_account">Odhlásiť sa</string>	
     <string name="micloud_dspt">Cloudové služby MiCloud umožňujú odosielať správy, synchronizáciu, vyhľadávanie zariadenia a mnoho ďalších služieb. Taktiež môžete upravovať svoje dáta kedykoľvek online.</string>
     <string name="micloud_email">Emailová adresa</string>	
     <string name="micloud_error_email">Chybný email</string>	
@@ -220,7 +222,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
 2. Vaše sériové číslo: %2$s"</string>	
     <string name="progress_warning_waiting">Zmeny na Vašom účte sa stále aktualizujú. Skúste to opäť neskôr.</string>
     <string name="quick_login_title">"Je vyžadované overenie. 
-Vložte Vaše heslo"</string>	
+Zadajte Vaše heslo"</string>	
     <string name="recharge_alipay_summary">Alipay navýšenie</string>	
     <string name="recharge_alipay_title">Alipay</string>	
     <string name="recharge_denomination">%1$s RMB</string>
@@ -244,9 +246,9 @@ Vložte Vaše heslo"</string>
     <string name="reging">Registrácia, čakajte prosím...</string>
     <string name="relogin">Znovu prihlásiť</string>
     <string name="remove_account_notice">Čo si prajete vykonať so synchronizovanými správami, kontaktmi, históriou volaní, a poznámkami vo Vašom zariadení?</string>	
-    <string name="remove_confirm">Vymazať</string>
-    <string name="remove_unactivated_account_notice">Xiaomi účet nie je aktivovaný, chcete ho odstrániť?</string>
-    <string name="removing_account">Odstraňovanie účtu...</string>
+    <string name="remove_confirm">Odhlásiť</string>
+    <string name="remove_unactivated_account_notice">Xiaomi účet nie je aktivovaný, chcete sa odhlásiť?</string>
+    <string name="removing_account">Odhlasovanie z účtu...</string>
     <string name="send_int_sms_for_sync_notice">Na aktiváciu Vášho telefónneho čísla sa odošle SMS správa. Ste si istý, že chcete pokračovať?</string>
     <string name="send_sms_for_sync_notice">Je potrebné zaslať aktivačnú sms, pokračovať?</string>	
     <string name="send_sms_for_sync_title">Sync service nie je aktivovaný</string>	
