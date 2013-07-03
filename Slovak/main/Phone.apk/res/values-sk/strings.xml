@@ -594,6 +594,7 @@
     <string name="name">Meno</string>
     <string name="national_disable">Národné správy zakázané</string>
     <string name="national_enable">Národné správy povolené</string>
+    <string name="network_forbidden_miui">%s (zakázaná)</string>
     <string name="network_manage_settings">Nastavenie siete</string>
     <string name="network_message">Správa sietí</string>
     <string name="network_query_error">Vyhľadávanie sietí neúspešné.</string>
@@ -875,6 +876,7 @@
     <string name="search_networks">Vyhľadávanie siete</string>
     <string name="selectContact">Vybrať kontakt</string>
     <string name="select_automatically">Vybrať automaticky</string>
+    <string name="select_network_automatic_hint_miui">"Ne je možné sa registrovať do siete, ktorú ste vybrali. Chcete vybrať preferovanú sieť automaticky?"</string>
     <string name="sendSms">Odoslať SMS</string>
     <string name="send_button">Odoslať</string>
     <string name="send_keepalive">sendKeepAlive</string>
