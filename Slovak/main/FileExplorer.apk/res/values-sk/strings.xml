@@ -53,7 +53,7 @@ Váš účet bude dočasne zablokovaný,
 <string name="confirm">OK</string>
 <string name="confirm_know">OK</string>
 <string name="copy_failed">Kopírovanie zlyhalo</string>
-<string name="count_down_time">Začať o %d sekúnd</string>
+<string name="count_down_time">Začne o %d sekundy</string>
 <string name="create_kuaipan_shortcut_pref">Vytvoriť ikonu na ploche</string>
 <string name="create_new_folder_desctiption">Vytváranie novej zložky...</string>
 <string name="create_new_folder_failed">Nie je možné vytvoriť zložku %1$s</string>
