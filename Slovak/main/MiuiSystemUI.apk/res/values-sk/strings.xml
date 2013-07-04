@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_airplane_mode">Lietadlo.</string>	
+    <string name="accessibility_airplane_mode">Lietadlo</string>	
     <string name="accessibility_back">Späť</string>	
     <string name="accessibility_battery_level">%d percent.</string>	
     <string name="accessibility_bluetooth_connected">Bluetooth pripojený.</string>	
