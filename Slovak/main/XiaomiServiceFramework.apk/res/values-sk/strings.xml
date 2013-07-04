@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="access_denied">Prístup zamietnutý</string>	
+    <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
+    <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
     <string name="account">Účet</string>	
-    <string name="account_detail">Xiaomi účet:
-%1$s</string>
+    <string name="account_detail">"Xiaomi účet:
+%1$s"</string>
     <string name="account_dspt">"Účet Xiaomi môže synchronizovať a zálohovať Vaše správy, 
 kontakty, fotky, atď"</string>	
     <string name="account_hint_text">Email/Telefónne číslo</string>	
     <string name="account_name">Účet: %1$s</string>	
+    <string name="activate_phone_failed_notif_title">Nastavenie MiCloud zlyhalo</string>
+    <string name="activate_phone_send_sms_fail">Odoslanie aktivačnej SMS zlyhalo, nie je možné spustiť synchronizáciu</string>
+    <string name="activate_phone_send_sms_failed_notif">Odoslanie aktivačnej SMS zlyhalo</string>
+    <string name="activate_phone_server_error">Chyba servera，nie je možné synchronizovať</string>
+    <string name="activate_phone_server_error_notif">Chyba servera</string>
     <string name="activating">Aktivácia...</string>
     <string name="add_weibo_account">Pridať účet</string>	
     <string name="alert_title_remove_account">Odhlásiť sa</string>	
@@ -46,6 +53,7 @@ kontakty, fotky, atď"</string>
     <string name="data_sync_notice">Použite svoj účet Xiaomi na synchronizáciu správ, kontaktov a ďalších údajov.</string>	
     <string name="data_wipe_from_phone">Vymazať z môjho telefónu</string>	
     <string name="disable_find_device_error">%1$s, vypnutie zisťovania polohy zariadenia zlyhalo</string>
+    <string name="disable_micloud"><u>Zakázať MiCloud</u></string>
     <string name="email_already_be_used">Emailová adresa už je použitá</string>
     <string name="enable_find_device_error">%1$s, zapnutie zisťovania polohy zariadenia zlyhalo</string>	
     <string name="enable_micloud">Povoliť služby cloudu</string>
@@ -105,7 +113,7 @@ Skontrolujte si svoje údaje a skúste to znova.</string>
     <string name="giftcard_hint">"Mi kredity z poukážky sa použijú 
 ako prvé a nemôžu byť použité po vypršaní platnosti"</string>	
     <string name="giftcard_record">Získaných Mi kreditov</string>	
-    <string name="giftcard_value">(Poukážka %1$s Mi kreditov)</string>	
+    <string name="giftcard_value">(Poukážka na %1$s Mi kreditov)</string>	
     <string name="header_data_and_synchronization">Dáta a synchronizácia</string>	
     <string name="i_know">OK</string>
     <string name="input_password_hint">Vložte heslo</string>	
@@ -126,10 +134,20 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="micloud_account_label">Účet: %1$s</string>	
     <string name="micloud_account_name">Xiaomi</string>	
     <string name="micloud_account_not_actived">Účet nie je aktivovaný</string>	
+    <string name="micloud_activate_account_fail_notify_title">Aktivácia Vášho Xiaomi účtu zlyhala</string>
+    <string name="micloud_activate_account_success_notify_title">Aktivácia Vášho Xiaomi účtu bola úspešná</string>
+    <string name="micloud_activate_back_btn">Zrušiť</string>
+    <string name="micloud_activate_retry_btn">Skúsiť znovu</string>
+    <string name="micloud_activating_account_notify_info">Aktivujete Váš Xiaomi účet</string>
+    <string name="micloud_activating_account_notify_title">Aktivácia Vášho Xiaomi účtu...</string>
+    <string name="micloud_active_alert_title">Aktivovať Váš účet</string>
     <string name="micloud_active_email_sent_1">Zaslať aktivačný email na adresu:</string>	
     <string name="micloud_active_email_sent_2"/>	
     <string name="micloud_active_email_visit">Navštívte %s</string>	
-    <string name="micloud_activing_account">Aktivujem Váš účet</string>	
+    <string name="micloud_activing_account">Aktivujem Váš účet...</string>	
+    <string name="micloud_activing_account_delayed">"Aktivácia bude trvať zhruba 30 sekúnd.
+Môžete ďalej pracovať s Vaším telefónom..."</string>
+    <string name="micloud_activing_account_failed">Aktivácia Vášho účtu zlyhala</string>
     <string name="micloud_click_email">Klikníte na odkaz v emaily pre aktiváciu svojho účtu Xiaomi</string>	
     <string name="micloud_click_email_to_valid">Kliknite na aktivačný odkaz v doručenom emaily</string>	
     <string name="micloud_delete_account">Odhlásiť sa</string>	
@@ -151,6 +169,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="micloud_password_confirm_hint">Potvrďte heslo</string>	
     <string name="micloud_password_error_inconsistent">Heslá sa nezhodujú</string>	
     <string name="micloud_password_req_notice">8~16 znakov, číslice, písmená abecedy, veľké a malé písmena</string>	
+    <string name="micloud_proceed">Pokračovať</string>
     <string name="micloud_reg_new">Vytvoriť nový</string>	
     <string name="micloud_resend_active_email">Znovu poslať aktivačný email</string>	
     <string name="micloud_summary">Prihláste sa na Xiaomi účet pre synchronizáciu kontaktov, fotografií a mnoho iných funkcií.</string>
@@ -182,7 +201,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="prepaid_china_mobile">China Mobile</string>
     <string name="prepaid_china_telcom">China Telecom</string>	
     <string name="prepaid_china_unicom">China Unicom</string>	
-    <string name="prepaid_edit_limit">digits</string>	
+    <string name="prepaid_edit_limit">čísla</string>	
     <string name="prepaid_error_card_length">Vložte správne číslo predplatenej karty alebo heslo</string>	
     <string name="prepaid_error_card_number">Zadajte správnu sumu navýšenia</string>	
     <string name="prepaid_error_carrier">Zvoľte svojho operátora (iba čína)</string>	
@@ -241,6 +260,8 @@ Zadajte Vaše heslo"</string>
     <string name="recharge_voucher_title">Kupóny Mi kredit</string>	
     <string name="reg_by_email_failure">Registrácia sa nepodarila: %1$s</string>	
     <string name="reg_failed">Registrácia sa nepodarila</string>	
+    <string name="reg_success">Registrácia úspešná</string>
+    <string name="reg_success_summary">Vaše telefónne číslo %1$s už je prepojené s MiLock. Pomocou neho sa môžete prihlásiť a obnoviť Vaše heslo.</string>
     <string name="reg_type_email">Registrovať cez email</string>
     <string name="reg_type_phone">Registrovať cez číslo telefónu (odporúčané)</string>
     <string name="reging">Registrácia, čakajte prosím...</string>
@@ -251,7 +272,9 @@ Zadajte Vaše heslo"</string>
     <string name="removing_account">Odhlasovanie z účtu...</string>
     <string name="send_int_sms_for_sync_notice">Na aktiváciu Vášho telefónneho čísla sa odošle SMS správa. Ste si istý, že chcete pokračovať?</string>
     <string name="send_sms_for_sync_notice">Je potrebné zaslať aktivačnú sms, pokračovať?</string>	
-    <string name="send_sms_for_sync_title">Sync service nie je aktivovaný</string>	
+    <string name="send_sms_for_sync_title">Synchronizácia nie je aktivovaný</string>	
+    <string name="service_error">Chyba služby</string>
+    <string name="show_password">Zobraziť heslo</string>
     <string name="sim_changed_notification_content">SIM nie je aktivovaná. Aktivujte ju, prosím.</string>	
     <string name="sina_weibo">Sina Weibo</string>
     <string name="skip_login">Preskočiť prihlásenie</string>
@@ -278,12 +301,12 @@ Zadajte Vaše heslo"</string>
     <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>	
     <string name="updated_contacts">Aktualizovaných %s kontaktov</string>
     <string name="user_agreement_p1">"Prihlásením sa, súhlasíte 
-"</string>	
+s "</string>	
     <string name="user_agreement_p2">s podmienkami služby Xiaomi</string>	
     <string name="user_agreement_p3"> a </string>	
     <string name="user_agreement_p4">Podmienkami súkromia</string>	
     <string name="user_agreement_p5">"Prihlásením sa, súhlasíte 
-"</string>
+s "</string>
     <string name="voucher_edit_hint">Heslo:</string>
     <string name="voucher_edit_limit">Upraviť limit</string>
     <string name="voucher_error_code">Nastala chyba pri kontrole čísla kupónu</string>
