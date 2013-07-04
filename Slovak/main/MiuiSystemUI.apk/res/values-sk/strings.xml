@@ -107,7 +107,7 @@
     <string name="invalid_charger">"Nabíjanie z USB nie je podporované. Použite sieťovú nabíjačku."</string>	
     <string name="key_position_custom">Vlastná pozícia tlačidla</string>	
     <string name="label_view">Zobraziť</string>	
-    <string name="lockscreen_carrier_default">Bez signálu</string>	
+    <string name="lockscreen_carrier_default">Žiaden signál</string>	
     <string name="mdb_entering">Pristupovanie k MDB</string>
     <string name="mdb_restore_cancel">Zrušiť</string>
     <string name="mdb_restore_info1">"Obnoví dáta Vášho telefónu"</string>
