@@ -308,7 +308,7 @@ s "</string>
     <string name="user_agreement_p5">"Prihlásením sa, súhlasíte 
 s "</string>
     <string name="voucher_edit_hint">Heslo:</string>
-    <string name="voucher_edit_limit">Upraviť limit</string>
+    <string name="voucher_edit_limit"/>
     <string name="voucher_error_code">Nastala chyba pri kontrole čísla kupónu</string>
     <string name="voucher_input_password_prompt">vložte heslo</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
