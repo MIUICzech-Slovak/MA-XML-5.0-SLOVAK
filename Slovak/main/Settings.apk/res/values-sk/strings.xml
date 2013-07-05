@@ -2222,6 +2222,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_advanced_titlebar">Rozšírené nastavenie Wi-Fi</string>	
 	<string name="wifi_and_mobile_skipped_message">UPOZORNENIE: Telefón nebude môcť overiť, či je váš softvér aktuálny.</string>
     <string name="wifi_api_test">Wi-Fi API</string>	
+    <string name="wifi_auto_connect">Auto pripojenie</string>
     <string name="wifi_cancel">Zrušiť</string>	
     <string name="wifi_certificate">Certifikát</string>
     <string name="wifi_config_info">Wi-Fi konfig</string>	
