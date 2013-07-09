@@ -1143,6 +1143,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="memory_media_usage">Média</string>	
     <string name="memory_music_usage">Audio súbory</string>	
     <string name="memory_size">Celková pamäť</string>	
+    <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkom: %2$s</string>
     <string name="menu_cancel">Zrušiť</string>	
     <string name="menu_delete">Zmazať názov prístupového bodu</string>	
 	<string name="menu_key">Tlačidlo Menu</string>    
