@@ -961,7 +961,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="intent_sender_resource_label">Zdroj:</string>	
     <string name="intent_sender_sendbroadcast_text">Odoslať broadcast</string>	
     <string name="intent_sender_startactivity_text">Spustiť činnosť activity</string>	
-	<string name="internal_format">Formátovať internú pamäť</string>
+	<string name="internal_format">Formátovať interné úložisko</string>
 	<string name="internal_format_summary">Vymazanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>
 	<string name="internal_media_format_button_text">Vymazať Interné</string>
 	<string name="internal_media_format_desc">Vymazať interné úložisko? Stratíte všetky vaše dáta ako napr. fotky a hudbu.</string>
