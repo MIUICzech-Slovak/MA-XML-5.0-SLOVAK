@@ -16,7 +16,7 @@
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakty</item>
-        <item>Záznam hovorov</item>
+        <item>Zoznam hovorov</item>
         <item>Správy</item>
         <item>MMS</item>
         <item>Nastavenia systému</item>
@@ -34,7 +34,7 @@
     </string-array>
     <string-array name="cloud_data_label">
         <item>Kontakty</item>
-        <item>Záznam hovorov</item>
+        <item>Zoznam hovorov</item>
         <item>Správy</item>
         <item>Nastavenia Wi-Fi</item>
         <item>Poznámky</item>
@@ -45,7 +45,7 @@
         <item>Poznámky</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Záznamy hovorov</item>
+        <item>Zoznam hovorov</item>
         <item>Správy (SMS)</item>
     </string-array>
 </resources>

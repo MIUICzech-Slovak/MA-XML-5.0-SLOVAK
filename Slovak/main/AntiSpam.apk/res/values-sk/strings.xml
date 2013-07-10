@@ -32,12 +32,12 @@
     <string name="black_white_list_tab_title">Filtre</string>
     <string name="blacklist_tab_title">Čierna listina</string>
     <string name="call_log_tab_title">Hovory</string>
-    <string name="calllog">Záznam hovorov</string>
+    <string name="calllog">Zoznam hovorov</string>
     <string name="cancel_button">Zrušiť</string>
     <string name="check_all">Vybrať všetko</string>
     <string name="check_nothing">Odznačiť všetko</string>   
-    <string name="clear_all_calllog">Vymazať záznam hovorov</string>
-    <string name="clear_all_mslog">Vymazať záznam správ</string>
+    <string name="clear_all_calllog">Vymazať zoznam hovorov</string>
+    <string name="clear_all_mslog">Vymazať zoznam správ</string>
     <string name="close_rule">Zrušiť všetky pravidlá</string>
     <string name="confirm">OK</string>
     <string name="confirm_clear_blacklist">Ste si istý, že chcete vymazať čiernu listinu?</string>
@@ -66,7 +66,7 @@
     <string name="fw_blocked">Blokované</string>
     <string formatted="false" name="fw_blocked_count">Hovory: %d, SMS: %d.</string>
     <string formatted="false" name="fw_call">Čas hovoru: %s (%d)</string>
-    <string name="fw_call_imported">Importovať zo záznamu volaní</string>
+    <string name="fw_call_imported">Importovať zo zoznamu volaní</string>
     <string name="fw_call_muted">Hovory stíšené</string>
     <string name="fw_call_rejected">Hovory odmietané</string>
     <string name="fw_clear_all_keyword">Vymazať všetky kľúčové slová</string>
@@ -120,12 +120,12 @@
     <string name="opt_reject_blacklist_stranger_summary">Hovory budú odmietnuté z čiernej listiny, ale prijaté z bielej listiny</string>
     <string name="remove">Odstrániť</string>
     <string name="remove_all_keywords">Ste si istý, že chcete odstrániť všetky kľúčové slová?</string>
-    <string name="remove_call_log">Vymazať všetky záznamy o volaní?</string>
+    <string name="remove_call_log">Vymazať všetky zoznamy volaní?</string>
     <string name="remove_contact">Vymazať všetky zvolené kontakty?</string>
     <string name="remove_delete">Vymazať</string>
     <string name="remove_inf">Vymazať vybrané informácie?</string>
     <string name="remove_keyword">Ste si istý, že chcete odstrániť toto kľúčové slovo?</string>
-    <string name="remove_sms">Vymazať všetky záznamy o správach?</string>
+    <string name="remove_sms">Vymazať všetky zoznamy správ?</string>
     <string name="save_button">Uložiť</string>
     <string name="show_firewall_notification">Zobraziť upozornenie firewallu</string>
     <string name="show_notification">Zobraziť upozornenie</string>

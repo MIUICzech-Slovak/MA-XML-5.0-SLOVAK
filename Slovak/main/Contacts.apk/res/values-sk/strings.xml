@@ -156,7 +156,7 @@
     <string name="confirm_export_title">Exportovať?</string>
     <string name="connections">Prepojenie</string>
     <string name="contactDetailAbout">O kontakte</string>
-    <string name="contactDetailCalllog">Záznam hovorov</string>
+    <string name="contactDetailCalllog">Zoznam hovorov</string>
     <string name="contactDetailUpdates">Aktualizácie</string>
     <string name="contactMultiPickerActivityTitle">Vybrať kontakty</string>
     <string name="contactPickerActivityTitle">Vyberte kontakt</string>
@@ -751,7 +751,7 @@ Synchronizujte ich teraz."</string>
     <string name="recentCallsIconLabel">Výpis hovorov</string>
     <string name="recentCalls_addToContact">Pridať do kontaktov</string>
     <string name="recentCalls_callNumber">Volať %s</string>
-    <string name="recentCalls_deleteAll">Vyčistiť záznam hovorov</string>
+    <string name="recentCalls_deleteAll">Vyčistiť zoznam hovorov</string>
     <string name="recentCalls_editNumberBeforeCall">Upraviť číslo pred volaním</string>
     <string name="recentCalls_empty">Zoznam hovorov je prázdny.</string>
     <string name="recentCalls_removeFromRecentList">Odstrániť z hovorov</string>
@@ -913,7 +913,7 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="title_paired_devices">Spárované zariadenia</string>
     <string name="toast_call_detail_error">Nemôžem prečítať detaily hovoru.</string>
     <string name="toast_displaying_all_contacts">Zobrazenie všetkých kontaktov</string>
-    <string name="toast_finish_delete_call_log">Záznamy o hovore boli vymazané</string>
+    <string name="toast_finish_delete_call_log">Zoznam hovorov bol vymazaný</string>
     <string name="toast_for_failed_saving_nickname">Nepodarilo sa uložiť prezývku!</string>
     <string name="toast_for_saving_nickname">Prezývka uložená</string>
     <string name="toast_join_with_empty_contact">Prosím zadajte meno kontaktu pred spojením s ďalším kontaktom.</string>

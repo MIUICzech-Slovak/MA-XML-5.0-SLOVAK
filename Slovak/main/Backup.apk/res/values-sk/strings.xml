@@ -44,7 +44,7 @@
 <string name="button_next">Ďalší</string>
 <string name="button_ok">OK</string>
 <string name="button_return">Späť</string>
-<string name="call_title">Záznamy hovorov</string>
+<string name="call_title">Zoznam hovorov</string>
 <string name="cancel">Zrušiť</string>
 <string name="cancel_backup">Zrušiť zálohovanie</string>
 <string name="cancel_restore">Zrušiť obnovu</string>

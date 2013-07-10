@@ -75,10 +75,10 @@
     <string name="HIPS_Perm_AllowAll">Povoliť všetko</string>
     <string name="HIPS_Perm_AnswerCall">prijať prichádzajúci hovor</string>
     <string name="HIPS_Perm_Call">Telefónny hovor</string>
-    <string name="HIPS_Perm_CallLog">Záznamy o volaní</string>
-    <string name="HIPS_Perm_CallLog_Access">prístup k záznamom o volaní</string>
-    <string name="HIPS_Perm_CallLog_Desc">Prístup k záznamom o volaní</string>
-    <string name="HIPS_Perm_CallLog_Hint">%1$s aplikácií má povolenie pre prístup k záznamom o volaní</string>
+    <string name="HIPS_Perm_CallLog">Zoznamy hovorov</string>
+    <string name="HIPS_Perm_CallLog_Access">Prístup k zoznamu volaní</string>
+    <string name="HIPS_Perm_CallLog_Desc">Prístup k zoznamu volaní</string>
+    <string name="HIPS_Perm_CallLog_Hint">%1$s aplikácií má povolenie pre prístup k zoznamu hovorov</string>
     <string name="HIPS_Perm_CallMonitor">Monitorovanie hovoru</string>
     <string name="HIPS_Perm_CallMonitor_Desc">Monitorovanie prichádzajúcich a odchádzajúcich hovorov, kontrola hlasitosti atď.</string>
     <string name="HIPS_Perm_CallMonitor_Hint">%1$s aplikácií má povolenie k monitorovaniu prichádzajúcich a odchádzajúcich hovorov, kontrole hlasitosti atď.</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">Úložisko kontaktov</string>
-    <string name="call_log_provider_label">Záznam hovorov</string>
+    <string name="call_log_provider_label">Zoznam hovorov</string>
     <string name="create_contact">Nový kontakt</string>
     <string name="debug_dump_database_message">Idete urobiť 1) kópiu všetkých Vaších kontaktov vrátane informácií o nich, záznamov o hovoroch na internú pamáť telefónu, a 2) odoslať ich emailom. Nezabudnite potom túto zálohu ihneď po odoslaní a overení kvoli Vašej bezpečnosti vymazať z telefónu.</string>
     <string name="debug_dump_delete_button">Vymazať</string>

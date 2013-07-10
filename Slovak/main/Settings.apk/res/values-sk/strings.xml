@@ -827,7 +827,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="erase_internal_storage_description">Vymazanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>	
     <string name="erase_optional">Voliteľné vymazanie</string>	
     <string name="erase_personal_data">Osobné údaje</string>	
-    <string name="erase_personal_data_description">Vrátane účtov, kontaktov, záznamu hovorov a iných údajov.</string>	
+    <string name="erase_personal_data_description">Vrátane účtov, kontaktov, zoznamu hovorov a iných údajov.</string>	
     <string name="erase_sure">Vymazať</string>	
     <string name="error_apn_empty">Názov prístupového bodu (APN) nesmie byť prázdny.</string>	
     <string name="error_mcc_not3">Pole MCC musí obsahovať aspoň 3 číslice.</string>	
@@ -1264,7 +1264,7 @@ skúste:
     <string name="perm_hips_allow_all">Povoliť všetko</string>
     <string name="perm_hips_answer_call">Odpovedať na prichádzajúci hovor</string>
     <string name="perm_hips_call_number">Volať %1$s</string>
-    <string name="perm_hips_calllog_access">Čítať záznam hovorov</string>
+    <string name="perm_hips_calllog_access">Čítať zoznam hovorov</string>
     <string name="perm_hips_cancel_missed_calls">Vymazať upozornenie na zmeškaný hovor</string>
     <string name="perm_hips_contact_access">Čítať Váš zoznam kontaktov</string>
     <string name="perm_hips_desc">Sledovanie %1$d aplikácií kvôli bezp. a súkromiu</string>
@@ -1439,7 +1439,7 @@ skúste:
     <string name="preferred_launcher_warning_title">Nahradenie predvoleného launcheru</string>
 	<string name="preferred_launcher_warning_use_system">Použiť predvolený launcher</string>	
     <string name="preferred_media_app_summary">Vybrať hudobný prehrávač</string>	
-    <string name="privacy_mode_enable_sum">Skryť záznamy hovorov, správy a ostatné dáta pri aktivovanom súkromnom režime</string>	
+    <string name="privacy_mode_enable_sum">Skryť zoznam hovorov, správy a ostatné dáta pri aktivovanom súkromnom režime</string>	
 	<string name="privacy_mode_enable_title">Režim súkromia</string>
     <string name="privacy_protect_title">Ochrana súkromia</string>	
     <string name="privacy_relative">Súkromie</string>
