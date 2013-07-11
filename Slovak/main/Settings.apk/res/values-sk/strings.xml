@@ -715,7 +715,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="disableNetwork">Vypnúť sieť</string>
     <string name="disable_overlays">Vypnúť HW prekrývanie</string>	
     <string name="disable_overlays_summary">Vždy použiť GPU pre zobrazovanie</string>	
-    <string name="disable_power_key_long_press_under_keyguard">Vypnúť pri zamknutí</string>	
+    <string name="disable_power_key_long_press_under_keyguard">Deaktiv. tlačidlo zapínania</string>	
     <string name="disable_text">Zakázať</string>	
     <string name="disabled">Zakázané</string>	
     <string name="disconnect">Odpojiť</string>	
@@ -806,7 +806,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>
     <string name="enable_drive_mode">Povoliť režim AUTO</string>
     <string name="enable_opengl_traces_title">Povoliť trasovanie OpenGL</string>
-    <string name="enable_snapshot_screenlock">Fotografia zo zamyk. obr.</string>
+    <string name="enable_snapshot_screenlock">Rýchle zhotovenie fotografie</string>
     <string name="enable_text">Povoliť</string>
     <string name="enable_traces_dialog_title">Zvoľte zapnuté stopy</string>
     <string name="enable_traces_summary_all">Všetky stopy sú povolené</string>
