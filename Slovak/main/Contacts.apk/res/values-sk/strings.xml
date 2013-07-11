@@ -95,9 +95,9 @@
     <string name="callrecordview_item_op_time_rejected">Odmietnuté</string>
     <string name="callrecordview_item_op_time_short_incoming">"Prichádzajúce: "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"Odchádzajúce: "</string>
-    <string name="callrecordview_menu_delete">Vymazať záznamy o hovoroch</string>
+    <string name="callrecordview_menu_delete">Vymazať zoznam hovorov</string>
     <string name="callrecordview_menu_delete_accepted">Vymazať prijaté</string>
-    <string name="callrecordview_menu_delete_all">Vymazať všetky záznamy o hovoroch</string>
+    <string name="callrecordview_menu_delete_all">Vymazať zoznam hovorov</string>
     <string name="callrecordview_menu_delete_called">Vymazať volané</string>
     <string name="callrecordview_menu_delete_confirm">%s?</string>
     <string name="callrecordview_menu_delete_missed">Vymazať zmeškané hovory</string>
