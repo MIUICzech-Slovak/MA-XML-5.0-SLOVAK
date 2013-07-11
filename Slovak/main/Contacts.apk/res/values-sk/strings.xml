@@ -463,7 +463,7 @@ Chyba: \"%s\""</string>
     <string name="local_profile_title">Môj miestny profil</string>
     <string name="local_search_label">Všetky kontakty</string>
     <string name="locale_change_in_progress">Zoznam kontaktov sa aktualizuje, aby sa zohľadnila zmena jazyka.</string>
-    <string name="lunarBirthdayLabelsGroup">Narodeniny</string>
+    <string name="lunarBirthdayLabelsGroup">Udalosť</string>
     <string name="make_primary">Pamätať si túto voľbu</string>
     <string name="map_custom">Zobraziť adresu %s</string>
     <string name="map_home">Zobraziť adresu domov</string>
@@ -762,7 +762,7 @@ Synchronizujte ich teraz."</string>
     <string name="recent_updates">Nedávne</string>
     <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
     <string name="redirect_calls_to_vm_confirm_text">Zapnúť</string>
-    <string name="relationLabelsGroup">Príbuzné</string>
+    <string name="relationLabelsGroup">Príbuzný</string>
     <string name="remind_btn_ignore">Ignorovať</string>
     <string name="remind_btn_sync_now">Synchronizovať teraz</string>
     <string name="removePhoto">Odstrániť fotku</string>
