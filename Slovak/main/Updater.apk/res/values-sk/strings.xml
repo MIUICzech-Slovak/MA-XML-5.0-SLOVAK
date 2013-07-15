@@ -22,7 +22,7 @@
     <string name="boot_recovery">Reštart do Recovery</string>
     <string name="cancel_download_buton_text">Zrušiť</string>
     <string name="check_update">Skontrolovať aktualizácie</string>
-    <string name="check_update_policy">Skontrolovať nastavenia aktualizácie</string>
+    <string name="check_update_policy">Nastavenie aktualizácie</string>
     <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wi-Fi pripojenie</string>
     <string name="checking_for_updates">Kontrola aktualizácií...</string>
     <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
