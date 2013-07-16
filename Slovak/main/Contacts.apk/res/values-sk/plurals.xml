@@ -58,4 +58,9 @@
         <item quantity="other">%d ľudí</item>
         <item quantity="one">1 človek</item>
     </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d vybraných"</item>
+        <item quantity="zero">%1$d vybraných</item>
+        <item quantity="one">%1$d vybraný</item>
+    </plurals>
 </resources>

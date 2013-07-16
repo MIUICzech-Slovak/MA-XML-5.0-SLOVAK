@@ -44,8 +44,6 @@
     <string name="long_ringtone_resource">Dlhé</string>	
     <string name="menu_refresh">Obnoviť</string>
     <string name="mi_wallpaper">Mi-tapeta</string>
-    <string name="mi_wallpaper_loading">Načítavanie Mi-tapety...</string>
-    <string name="mi_wallpaper_title">Mi-tapeta</string>
     <string name="online_no_network">Sieť je nedostupná</string>
     <string name="online_search_hint">Vyhľadať online informácie</string>
     <string name="processing">Spracovávanie...</string>

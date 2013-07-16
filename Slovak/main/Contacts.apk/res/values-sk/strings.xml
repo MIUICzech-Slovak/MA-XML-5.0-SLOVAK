@@ -8,6 +8,7 @@
     <string name="account_type_format">%1$s kontakt</string>
     <string name="actionIncomingCall">Prichádzajúce hovory</string>
     <string name="action_menu_overflow_description">Viac možností</string>
+    <string name="activity_not_found_uri">Nie je možné nájsť pre to aplikáciu</string>
     <string name="activity_title_confirm_add_detail">Pridať do kontaktu</string>
     <string name="activity_title_contacts_filter">Kontakty na zobrazenie</string>
     <string name="activity_title_settings">Nastavenia</string>
@@ -81,8 +82,8 @@
     <string name="call_telex">Volať na číslo Telex</string>
     <string name="call_tty_tdd">Volať na číslo TTY/TDD</string>
     <string name="call_type_and_date">%1$s %2$s</string>
-    <string name="call_work">Volať do práce</string>
-    <string name="call_work_mobile">Volať na pracovný mobil</string>    
+    <string name="call_work">Volať do práce</string>    
+    <string name="call_work_mobile">Volať na pracovný mobil</string>
     <string name="call_work_pager">Volať na pracovný pager</string>
     <string name="calllog_menu_blacklist">Pridať na čiernu listinu</string>
     <string name="calllog_menu_edit_before_call">Upraviť pred volaním</string>
@@ -119,8 +120,8 @@
     <string name="cancel_import_confirmation_message">Skutočne chcete prerušiť import %s?</string>
     <string name="cancel_import_dialog_message">Ste si istý, že chcete zastaviť import kontaktov?</string>
     <string name="cancel_import_dialog_title">Zastaviť import</string>
-    <string name="cancel_vcard_import_or_export_failed">Rušenie importu/exportu vizitiek zlyhalo</string>
-    <string name="chat">Chat</string>  
+    <string name="cancel_vcard_import_or_export_failed">Rušenie importu/exportu vizitiek zlyhalo</string>  
+    <string name="chat">Chat</string>
     <string name="chat_aim">Chatovat pomocou AIM</string>
     <string name="chat_gtalk">Chatovat pomocou Google Talk</string>
     <string name="chat_icq">Chatovat pomocou ICQ</string>
@@ -152,6 +153,7 @@
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_contact_all_call_logs">"Ste si istý, že chcete vymazať všetky záznamy %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Ste si istý, že chcete vymazať všetky záznamy o hovoroch tohto kontaktu?"</string>
+    <string name="confirm_delete_sim_entry_miui">Potvrďte vymazanie %d zvolených kontaktov na SIM karte.</string>
     <string name="confirm_export_message">Zoznam kontaktov bude exportovaný do súboru: %s.</string>
     <string name="confirm_export_title">Exportovať?</string>
     <string name="connections">Prepojenie</string>
@@ -207,7 +209,11 @@
     <string name="delete_duplicate_message">"Zlučujem..."</string>
     <string name="delete_group_dialog_message">"Skutočne chcete odstrániť skupinu \"%1$s\"? (Kontakty v skupine nebudú vymazané.)"</string>
     <string name="delete_group_dialog_title">Vymazať skupinu</string>
+    <string name="delete_selected_sim_entry_miui">Vymazať vybrané kontakty</string>
+    <string name="delete_sim_entries_finish">Vymazanie kontaktov na SIM karte dokončené</string>
+    <string name="delete_sim_entry_miui">Vymazať</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdiť vymazanie volaní na neznáme čísla?</string>
+    <string name="deleting_sim_entry_miui">Mazanie kontaktov na SIM karte...</string>
     <string name="description_add_contact">Pridať kontakt</string>
     <string name="description_author">Autor:</string>
     <string name="description_call">Volať %1$s</string>
@@ -232,13 +238,13 @@
     <string name="description_image_button_pound">libra</string>
     <string name="description_image_button_seven">sedem</string>
     <string name="description_image_button_six">šesť</string>
-    <string name="description_image_button_star">hviezdička</string>
+    <string name="description_image_button_star">hviezdička</string>    
     <string name="description_image_button_three">tri</string>
     <string name="description_image_button_two">dva</string>
     <string name="description_image_button_zero">nula</string>
     <string name="description_minus_button">mínus</string>
     <string name="description_plus_button">plus</string>
-    <string name="description_quick_contact_for">Rýchly kontakt pre %1$s</string>    
+    <string name="description_quick_contact_for">Rýchly kontakt pre %1$s</string>
     <string name="description_search_button">Hľadať</string>
     <string name="description_send_message">Poslať správu %1$s</string>
     <string name="description_send_text_message">Poslať SMS %1$s</string>
@@ -351,13 +357,13 @@ Chyba: \"%s\""</string>
     <string name="fail_reason_io_error">Chyba I/O</string>
     <string name="fail_reason_low_memory_during_import">Nedostatok pamäti ( súbor je pravdepodobne príliš veľký )</string>
     <string name="fail_reason_no_exportable_contact">Nemožno exportovať žiadny kontakt</string>
-    <string name="fail_reason_not_supported">Formát súboru nie je podporovaný.</string>
+    <string name="fail_reason_not_supported">Formát súboru nie je podporovaný.</string>    
     <string name="fail_reason_too_long_filename">Požadovaný názov súboru („%s”) je príliš dlhý</string>
     <string name="fail_reason_too_many_vcard">Na karte SD je príliš veľa súborov vCard</string>
     <string name="fail_reason_unknown">Neznáma chyba</string>
     <string name="fail_reason_vcard_parse_error">"Nie je možné načítať vizitku."</string>
     <string name="favoritesFrequentCalled">Často volaní</string>
-    <string name="favoritesFrequentContacted">Často kontaktovaní</string>    
+    <string name="favoritesFrequentContacted">Často kontaktovaní</string>
     <string name="favorites_list_empty">Žiadne obľúbené</string>
     <string name="foundTooManyContacts">Nájdených viac ako %d</string>
     <string name="frequency_none">Neupozorňuj ma</string>
@@ -399,6 +405,7 @@ Chyba: \"%s\""</string>
     <string name="ic_menu_done">Hotovo</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
+    <string name="import_all_sim_entries_miui">Importovanie všetkých kontaktov</string>
     <string name="import_all_vcard_string">Importovať všetky vizitky</string>
     <string name="import_contact_card_button">Import</string>
     <string name="import_failure_no_vcard_file">Na SD karte nebola nájdená žiadna vizitka</string>
@@ -409,22 +416,26 @@ Chyba: \"%s\""</string>
     <string name="import_name">Meno</string>
     <string name="import_one_vcard_string">Importovať vizitku</string>
     <string name="import_percent">0%</string>
+    <string name="import_selected_sim_entries_miui">Importovať vybrané kontakty</string>
+    <string name="import_sim_entries_finish">Import kontaktov zo SIM karty dokončený</string>
+    <string name="import_sim_entry_miui">Import</string>
     <string name="import_to_xiaomi_account_confirm">Presunúť</string>
     <string name="import_to_xiaomi_account_progress_finish">Presun ukončený</string>
     <string name="import_to_xiaomi_account_progress_message">Presúvanie kontaktov...</string>
     <string name="import_to_xiaomi_account_progress_title">Presúvanie kontaktov na Xiaomi účet</string>
     <string name="import_to_xiaomi_account_title">Presunúť kontakty na Xiaomi účet?</string>
     <string name="import_vcard_description">Importovať kontakty z SD karty</string>
-    <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
+    <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
     <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
     <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
-    <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
     <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
-    <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
+    <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
     <string name="import_weibo_fetch_followers">Získavanie Sina Weibo priateľov...</string>
     <string name="import_weibo_notification_title_done">Import kompletný</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
+    <string name="importing_sim_contacts_miui">Importovanie kontaktov zo SIM...</string>
     <string name="importing_vcard_canceled_title">Import %s bol prerušený</string>
     <string name="importing_vcard_description">Import %s</string>
     <string name="importing_vcard_finished_title">Import vCard %s dokončený</string>
@@ -439,7 +450,7 @@ Chyba: \"%s\""</string>
     <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefón (SIP)</string>
     <string name="launcherDialer">Telefón</string>
-    <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>
+    <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>   
     <string name="listFoundAllContactsZero">Nenájdené</string>
     <string name="listSingleContact">Jediný kontakt</string>
     <string name="listTotalAllContactsZero">Žiadne kontakty.</string>
@@ -450,7 +461,7 @@ Chyba: \"%s\""</string>
     <string name="list_filter_all_accounts">Všetky kontakty</string>
     <string name="list_filter_all_starred">Obľúbené</string>
     <string name="list_filter_custom">Vlastné</string>
-    <string name="list_filter_customize">Vlastné...</string>   
+    <string name="list_filter_customize">Vlastné...</string>
     <string name="list_filter_phones">Všetky kontakty s telefónnymi číslami</string>
     <string name="list_filter_single">Kontakt</string>
     <string name="loading">Načítavanie...</string>
@@ -540,8 +551,8 @@ Chyba: \"%s\""</string>
     <string name="next">Ďalej</string>
     <string name="next_birthday">Ďalšie narodeniny: %s</string>
     <string name="nfc_vcard_file_name">Kontakt získaný cez NFC</string>
-    <string name="nicknameLabelsGroup">Meno kontaktu</string>
-    <string name="nickname_editor_title">Upraviť prezývku</string>
+     <string name="nicknameLabelsGroup">Meno kontaktu</string>
+     <string name="nickname_editor_title">Upraviť prezývku</string>
     <string name="nickname_picker_name_column">Meno kontaktu</string>
     <string name="nickname_picker_nickname_column">Titul</string>
     <string name="noAccounts">Aby bolo možné vytvoriť skupiny, musí byť vytvorený účet</string>
@@ -573,8 +584,8 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
 "</string>
-     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiaden kontakt na zobrazenie. (Ak ste práve pridali Váš účet, môže to chvíľu trvať kým sa všetko zosynchronizuje.)"</string>
-     <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiaden kontakt na zobrazenie. (Ak ste práve pridali Váš účet, môže to chvíľu trvať kým sa všetko zosynchronizuje.)"</string>
+    <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
 
 Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>", vyberte:
  
@@ -597,7 +608,7 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
-"</string>
+"</string>    
     <string name="noContactsWithPhoneNumbers">Žiadne kontakty s telefónnym číslom.</string>
     <string name="noFavoritesHelpText">"Nemáte žiadne obľúbené kontakty. 
 
@@ -621,7 +632,7 @@ Synchronizujte ich teraz."</string>
     <string name="no_contact_in_other_phone">Žiadne kontakty vo Vašom telefóne</string>
     <string name="no_contacts_dialog_message">Vo Vašich kontaktoch sa nič nenašlo. Možno sú uložené na SIM karte, importujte ich do telefónu.</string>
     <string name="no_contacts_dialog_title">Kontakt sa nenašiel</string>
-    <string name="no_contacts_selected">Žiaden vybraný kontakt.</string>    
+    <string name="no_contacts_selected">Žiaden vybraný kontakt.</string>
     <string name="no_sdcard_message">Žiadne úložisko sa nenašlo.</string>
     <string name="non_phone_add_to_contacts">Pridať do kontaktov</string>
     <string name="non_phone_caption">Telefónne číslo</string>
@@ -674,7 +685,7 @@ Synchronizujte ich teraz."</string>
     <string name="picker_groups_list_empty">Žiadne skupiny</string>
     <string name="picker_join_title">Zvoľte kontakt na prepojenie s %s</string>
     <string name="picker_number_title">Vyberte číslo</string>
-    <string name="picker_postal_title">Vyberte poštu</string>
+    <string name="picker_postal_title">Vyberte poštu</string> 
     <string name="picker_recent_list_empty">Žiadne posledné kontakty</string>
     <string name="pkgLabel">Kontakty a Volanie</string>
     <string name="postalLabelsGroup">Adresa</string>
@@ -682,10 +693,10 @@ Synchronizujte ich teraz."</string>
     <string name="postal_city">Mesto</string>
     <string name="postal_country">Krajina</string>
     <string name="postal_neighborhood">Štvrť</string>
-    <string name="postal_pobox">PO BOX</string>
+    <string name="postal_pobox">PO BOX</string>   
     <string name="postal_postcode">PSČ</string>
     <string name="postal_region">Štát</string>
-    <string name="postal_street">Ulica</string> 
+    <string name="postal_street">Ulica</string>
     <string name="pref_key_photo">Fotka</string>
     <string name="pref_key_photo_word_summary">Automaticky zvoliť fotku pre kontakty ktoré ju nemajú.</string>
     <string name="pref_key_photo_word_title">Automatická fotka kontaktu</string>
@@ -693,7 +704,7 @@ Synchronizujte ich teraz."</string>
     <string name="pref_key_rebuild_t9_index_title">Obnoviť T9 index</string>
     <string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Xiaomi</string>
     <string name="pref_title_account_import">Kopírovanie z účtu</string>
-    <string name="pref_title_import_from_account">Kopírovanie na účet Xiaomi</string>   
+    <string name="pref_title_import_from_account">Kopírovanie na účet Xiaomi</string>
     <string name="preference_auto_ip_summary_disable">Nie je povolené</string>
     <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
     <string name="preference_auto_ip_title">Auto IP</string>
@@ -738,12 +749,14 @@ Synchronizujte ich teraz."</string>
     <string name="processing">Spracovávanie...</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
     <string name="profile_name">Môj profil</string>
+    <string name="profile_name_photo">Ja</string>
     <string name="progress_notifier_message" formatted="false">Importujem %s/%s: %s</string>
     <string name="quickcontact_missing_app">Aplikácia potrebná na túto akciu nebola nájdená</string>
     <string name="quit_dialog_confirm_title">Chcete ukončiť zlučovanie kontaktov?</string>
     <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, ale nebudú vymazané.</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" obsahuje dáta z viacerých účtov.</string>
     <string name="readOnlyContactWarning">Z účtu len na čítanie, nie je možné kontakty zmazať, môžete ich však v zoznamoch kontaktov skryť.</string>
+    <string name="readingSimContacts">Načítavanie informácií zo SIM karty...</string>
     <string name="reading_vcard_canceled_title">Načítanie dát vCard bolo prerušené</string>
     <string name="reading_vcard_failed_title">Načítanie dát vCard sa nepodarilo</string>
     <string name="rebuild_t9_index_dialog_message">Obnovovanie indexu T9...</string>
@@ -848,10 +861,14 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="shortcutDialContact">Priama voľba</string>
     <string name="shortcutMessageContact">Priama správa</string>
     <string name="showAllContactsJoinItem">Zobraziť všetky kontakty</string>
+    <string name="simContacts_airplaneMode">Pre importovanie kontaktov zo SIM karty, deaktivujte režim Lietadlo.</string>
+    <string name="simContacts_empty">Žiadne kontakty na Vašej SIM karte.</string>
     <string name="simContacts_emptyLoading">Načítavanie kontaktov na SIM...</string>
     <string name="simContacts_title">Kontakty na SIM</string>
     <string name="sim_card_no_free_space_message">Kapacita vašej SIM je vyčerpaná, nemôžete pridať ďalšie kontakty. Prosím uvoľnite miesto</string>
     <string name="sim_card_no_free_space_title">SIM karta je plná</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznačiť všetko</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Označiť všetko</string>
     <string name="sim_contact_search_error">Došlo k chybe pri hľadaní kontaktov na SIM karte</string>
     <string name="sim_contacts">SIM kontakty</string>
     <string name="sim_export_loading">Informácie o SIM karte sa načítavajú. Táto operácia môže trvať dlhšie.</string>
@@ -912,6 +929,8 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="title_other_devices">Ostatné dostupné zariadenia</string>
     <string name="title_paired_devices">Spárované zariadenia</string>
     <string name="toast_call_detail_error">Nemôžem prečítať detaily hovoru.</string>
+    <string name="toast_copy_done">Kopírovanie dokončené</string>
+    <string name="toast_copying">Kopírovanie...</string>
     <string name="toast_displaying_all_contacts">Zobrazenie všetkých kontaktov</string>
     <string name="toast_finish_delete_call_log">Zoznam hovorov bol vymazaný</string>
     <string name="toast_for_failed_saving_nickname">Nepodarilo sa uložiť prezývku!</string>

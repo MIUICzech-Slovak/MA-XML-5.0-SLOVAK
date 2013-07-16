@@ -769,6 +769,7 @@
     <string name="preferred_network_type_3g_only_warning_miui">"Vybrali ste možnosť Len 3G! pokiaľ vaša karta SIM nepodporuje 3G, nebudete mať signál! Potvrďte kliknutím na OK."</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
+    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferovaná</string>
     <string name="preferred_network_type_pref_entries_auto_miui">Automaticky</string>
     <string name="preferred_network_type_pref_entries_global_miui">Globálne</string>

@@ -20,6 +20,8 @@
     <string name="call_record_folder_name">Zoznam volaní</string>
     <string name="close">Zatvoriť</string>
     <string name="default_folder_name">Poznámky</string>
+    <string name="dlg_desc_confirm_alarm_silent">Budíky a upozornenia nebudú zvoniť v tichom režime ak je táto voľba vypnutá.</string>
+    <string name="dlg_title_confirm_alarm_silent">Chcete stíšiť budík v tichom režime?</string>
     <string name="enable_sync">Synchr.</string>
     <string name="enable_sync_desc">Poznámky sa môžu synchronizovať s Vašim Xiaomi účtom %1$s, synchronizovať?</string>
     <string name="error_note_empty_for_clock">Nie je možné nastaviť hodiny na prázdnej poznámke</string>
@@ -66,9 +68,11 @@
     <string name="notify_alarm_action_mute">Stíšiť</string>
     <string name="notify_alarm_action_view">Zobraziť</string>
     <string name="notify_alarm_title">Upozornenie</string>
+    <string name="pref_desc_alarm_when_silent">Budík a upozornenia budú zvoniť aj v tichom režime</string>
     <string name="pref_desc_mode_grid">Mriežka</string>
     <string name="pref_desc_mode_list">Zoznam</string>
-    <string name="pref_title_data_export">Export dát</string>
+    <string name="pref_title_alarm_when_silent">Budík v tichom režime</string>
+    <string name="pref_title_common">Časté nastavenia</string>
     <string name="pref_title_data_export_to_sdcard">Exportovať na SD kartu</string>
     <string name="pref_title_note_style">Typ poznámky</string>
     <string name="preferences_bg_random_appear_title">Náhodná farba poznámky</string>
