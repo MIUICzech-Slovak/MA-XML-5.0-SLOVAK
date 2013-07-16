@@ -129,10 +129,6 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="internet_message">MiCloud správy</string>
     <string name="label_order_name">Názov produktu:</string>	
     <string name="label_order_price">Množstvo:</string>	
-    <string name="login">Prihlásiť sa</string>	
-    <string name="login_failed">Prihlásenie sa nepodarilo</string>
-    <string name="login_instead_reg">Prihlásiť sa pomocou telefónneho čísla</string>
-    <string name="login_notice">Prihlasovanie...</string>
     <string name="linkpay_app_name">支付</string>
     <string name="linkpay_choose_pay_way">选择支付方式</string>
     <string name="linkpay_shenzhoufu">神州付</string>
