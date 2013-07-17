@@ -108,6 +108,7 @@ Skontrolujte si svoje údaje a skúste to znova.</string>
     <string name="error_has_bought_title">Opakovať nákup</string>	
     <string name="error_illegal_order_summary">Počas vybavovania objednávky sa vyskytla chyba, skúste to opäť neskôr.</string>	
     <string name="error_illegal_order_title">Chyba objednávky!</string>	
+    <string name="error_invalid_dev_id">Nesprávne ID zariadenia</string>
     <string name="error_mili_title">Nedostatočný Mi kredit</string>	
     <string name="error_network">Chyba siete</string>	
     <string name="error_network_summary">Nastala chyba siete. Skontrolujte či máte aktívne internetové pripojenie a skúste to opäť.</string>	
@@ -425,7 +426,7 @@ Skontrolujeme to do dvoch pracovných dní"</string>
 Zadajte Vaše heslo"</string>	
     <string name="recharge_alipay_summary">Navýšenie cez Alipay</string>	
     <string name="recharge_alipay_title">Alipay</string>
-    <string name="recharge_bankcall_title">Kreditná karta</string>
+    <string name="recharge_bankcall_title">Kreditná karta</string>	
     <string name="recharge_denomination">%1$s RMB</string>
     <string name="recharge_grid_edit_hint">Suma (RMB)</string>
     <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>

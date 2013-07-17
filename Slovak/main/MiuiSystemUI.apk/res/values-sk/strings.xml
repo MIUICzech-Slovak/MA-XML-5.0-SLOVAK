@@ -104,6 +104,9 @@
     <string name="ext_media_unmountable_notification_title">Poškodené USB úložisko</string>	
     <string name="gps_notification_found_text">Nastavená pozícia podľa GPS</string>	
     <string name="gps_notification_searching_text">Hľadanie GPS pozície</string>
+    <string name="headset_custom">Prispôsobiť</string>
+    <string name="headset_info">Upraviť funkciu tlačidiel</string>
+    <string name="headset_settings">Slúchadla pripojené</string>
     <string name="invalid_charger">"Nabíjanie z USB nie je podporované. Použite sieťovú nabíjačku."</string>	
     <string name="key_position_custom">Vlastná pozícia tlačidla</string>	
     <string name="label_view">Zobraziť</string>	
