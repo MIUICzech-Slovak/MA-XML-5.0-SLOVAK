@@ -130,11 +130,11 @@ Počkajte prosím 5 minút a skúste to opäť"</string>
     <string name="find_device">Poloha zariadenia</string>	
     <string name="find_device_check_phone_error_title">Zapnutie zisťovania polohy zariadenia zlyhalo</string>	
     <string name="find_device_disabled_notice">"Môžete opäť otvoriť cez Nastavenia - Účty - Synch. - Účet Xiaomi"</string>	
-    <string name="find_device_disabled_title">Ziťovanie polohy zariadenia je vypnuté</string>	
+    <string name="find_device_disabled_title">Zisťovanie polohy zariadenia je vypnuté</string>	
     <string name="find_device_disabling">Vypínanie...</string>	
     <string name="find_device_enabling">Zapínanie...</string>	
     <string name="find_device_error_network">Sieť je nedostupná</string>	
-    <string name="find_device_error_server">Server error</string>	
+    <string name="find_device_error_server">Chyba servera</string>	
     <string name="find_device_notice_p1">Ak neviete nájsť Váš telefón, môžete</string>	
     <string name="find_device_notice_p2">na i.xiaomi.com</string>
     <string name="find_device_notice_p3">zistiť jeho polohu, zablokovať alebo vymazať všetky dáta</string>	
