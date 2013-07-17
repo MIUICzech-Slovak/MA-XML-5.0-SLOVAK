@@ -424,7 +424,8 @@ Skontrolujeme to do dvoch pracovných dní"</string>
     <string name="quick_login_title">"Je vyžadované overenie. 
 Zadajte Vaše heslo"</string>	
     <string name="recharge_alipay_summary">Navýšenie cez Alipay</string>	
-    <string name="recharge_alipay_title">Alipay</string>	
+    <string name="recharge_alipay_title">Alipay</string>
+    <string name="recharge_bankcall_title">Kreditná karta</string>
     <string name="recharge_denomination">%1$s RMB</string>
     <string name="recharge_grid_edit_hint">Suma (RMB)</string>
     <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
