@@ -755,7 +755,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dolby_eq_enter_alert_title">Otvoriť Dolby EQ</string>
     <string name="dolby_ieq_flat">Vypnutý</string>
     <string name="dolby_ieq_focused">Centrovaný</string>
-    <string name="dolby_ieq_open">Otvoriť</string>
+    <string name="dolby_ieq_open">Otvorený</string>
     <string name="dolby_ieq_rich">Bohatý</string>
     <string name="dolby_mode_movie">Filmový režim</string>
     <string name="dolby_mode_music">Hudobný režim</string>
