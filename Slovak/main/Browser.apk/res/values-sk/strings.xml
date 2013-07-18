@@ -100,8 +100,8 @@
     <string name="choose_upload">Vyber súbor pre nahranie</string>
     <string name="choosertitle_sharevia">Zdieľať cez</string>
     <string name="clear">Vyčistiť</string>
-    <string name="clear_history">Vymazať všetkú históriu %s</string>
-    <string name="clear_history_group">Vymazať históriu</string>	
+    <string name="clear_history">Vymazať históriu</string>
+    <string name="clear_history_group">Vymazať všetkú históriu %s</string>	
     <string name="clip_dialog_title">Otvoriť skopírovanú URL adresu?</string>
     <string name="close_all_tab_alert_message">Ste si istý, že chcete zatvoriť všetky karty?</string>	
     <string name="close_all_tab_alert_title">Zatvoriť všetky karty</string>	
