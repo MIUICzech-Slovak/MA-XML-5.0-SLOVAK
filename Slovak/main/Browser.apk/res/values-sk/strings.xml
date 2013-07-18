@@ -106,10 +106,10 @@
     <string name="close_all_tab_alert_message">Ste si istý, že chcete zatvoriť všetky karty?</string>	
     <string name="close_all_tab_alert_title">Zatvoriť všetky karty</string>	
     <string name="common_use_phrase_bottom_bar_cn_txt">.cz</string>	
-    <string name="common_use_phrase_bottom_bar_com_txt">.com</string>	
+    <string name="common_use_phrase_bottom_bar_com_txt">.sk</string>	
     <string name="common_use_phrase_bottom_bar_down_analytic_txt">Zbaliť</string>	
     <string name="common_use_phrase_bottom_bar_https_txt">https://</string>	
-    <string name="common_use_phrase_bottom_bar_net_txt">.sk</string>	
+    <string name="common_use_phrase_bottom_bar_net_txt">.com</string>	
     <string name="common_use_phrase_bottom_bar_org_txt">.org</string>	
     <string name="common_use_phrase_bottom_bar_paste_analytic_txt">Vložiť</string>	
     <string name="common_use_phrase_bottom_bar_paste_txt">Vložiť</string>	
