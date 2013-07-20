@@ -217,7 +217,7 @@
     <string name="cit_tool_log_toast">Záznam o chybe je uložený do %s</string>
     <string name="cit_tool_log_file_not_exist">%s neexistuje</string>
     <string name="cit_tool_log_generate_bugreport">Vytváranie záznamu o chybe...</string>
-    <string name="cit_tool_log_toast_generate_bugreport">Vytvorenie záznamu o chybe môže trvať aj viac ako 10 sekúnd.</string>
+    <string name="cit_tool_log_toast_generate_bugreport">Vytvorenie záznamu o chybe môže trvať aj viac ako 1 minútu.</string>
     <string name="cit_tool_bluetooth">Nástroje Bluetooth</string>
     <string name="cit_tool_bluetooth_on">Zapnúť Bluetooth</string>
     <string name="cit_tool_bluetooth_mode">Testovanie Bluetooth</string>
