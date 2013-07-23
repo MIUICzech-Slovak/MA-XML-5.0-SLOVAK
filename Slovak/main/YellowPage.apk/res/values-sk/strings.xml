@@ -39,7 +39,8 @@
     <string name="delete">Delete</string>
     <string name="selected_category_format">%1$s(%2$d people have marked, click to agree)</string>
     <string name="smart_antispam">Identify unknown number smartly</string>
-    <string name="turn_on_smart_antispam_hint">After e    <string name="contact_detail_calllog_call_record_tips">Call record</string>
+    <string name="turn_on_smart_antispam_hint">After enabling, numbers will be identified. If not identified, you can mark it to help identify fraudulent calls.</string>
+  <string name="contact_detail_calllog_call_record_tips">Call record</string>
     <string name="contact_detail_calllog_call_note_tips">Call note</string>nabling, numbers will be identified. If not identified, you can mark it to help determine fraudulent calls.</string>
     <string name="turn_on_smart_antispam_title">Identify unknown numbers</string>
     <string name="turn_on_smart_antispam_summary_on">Identify unknown numbers and upload your marks</string>
