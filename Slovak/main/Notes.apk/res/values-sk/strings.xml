@@ -24,6 +24,7 @@
     <string name="dlg_title_confirm_alarm_silent">Chcete stíšiť budík v tichom režime?</string>
     <string name="enable_sync">Synchr.</string>
     <string name="enable_sync_desc">Poznámky sa môžu synchronizovať s Vašim Xiaomi účtom %1$s, synchronizovať?</string>
+    <string name="error_contact_not_exist">Kontakt neexistuje</string>
     <string name="error_note_empty_for_clock">Nie je možné nastaviť hodiny na prázdnej poznámke</string>
     <string name="error_note_empty_for_send_to_desktop">Nie je možné poslať prázdnu poznámku na plochu</string>
     <string name="error_note_not_exist">Poznámka neexistuje</string>

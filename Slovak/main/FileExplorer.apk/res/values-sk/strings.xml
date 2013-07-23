@@ -5,6 +5,7 @@ Váš účet bude dočasne zablokovaný,
 čakajte prosím..."</string>
 <string name="add_task">Pridať úlohu</string>
 <string name="adding_upload_tasks">Pridávanie súborov pre odosielanie.</string>
+<string name="already_signin_description">Prihlásiť sa môžete len raz za deň, skúste to opäť zajtra.</string>
 <string name="app_cache_cleanup_indication">%s cache</string>
 <string name="app_cache_title">Cache aplikácií</string>
 <string name="app_garbage_cleanup_indication">%s nepotrebné súbory aplikácií</string>
@@ -42,10 +43,10 @@ Váš účet bude dočasne zablokovaný,
 <string name="clean_message">Odstraňovanie %1$s</string>
 <string name="clean_title">Odstrániť z koša súbory staršie ako 30 dní</string>
 <string name="clean_trash_box">Vyprázdniť kôš</string>
-<string name="cleaning">Čistenie...</string>
 <string name="cleaned">Čistenie dokončené</string>
-<string name="cleanup_stopped">Čistenie zastavené</string>
+<string name="cleaning">Čistenie...</string>
 <string name="cleanup_complete">Ukončiť</string>
+<string name="cleanup_stopped">Čistenie zastavené</string>
 <string name="close">Zavrieť</string>
 <string name="compress_fail">Vytváranie .zip súboru zlyhalo, .zip súbor už existuje</string>
 <string name="compress_message">Zbaliť do:</string>
@@ -88,8 +89,8 @@ Váš účet bude dočasne zablokovaný,
 <string name="downloading">Sťahujem...</string>
 <string name="empty_dir_cleanup_indication">%s nepotrebné súbory</string>
 <string name="empty_dir_title">Prázdne zložky</string>
-<string name="enable_sd_card">Povoliť SD kartu</string>
-<string name="error_filename_too_long">Názov súboru je príliš dlhý</string>   
+<string name="enable_sd_card">Povoliť SD kartu</string>   
+<string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
 <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
 <string name="error_open_file_failed_no_app_found">Nenašla sa aplikácia pre otvorenie tohto súboru</string>
 <string name="fail_to_create_folder">Zložku nie je možné vytvoriť, zložka už existuje</string>
@@ -218,13 +219,15 @@ Server je momentálne nedostupný, skúste to opäť neskôr
 <string name="operation_unfavorite">Odobrať z obľúbených</string>
 <string name="pan_settting">MiDrive nastavenia</string>
 <string name="paused">Pozastavené</string>
+<string name="pull_to_signin">Potiahnite nadol pre prihlásenie sa a získanie ďalšieho voľného miesta.</string>
 <string name="query_bind_state">Načítavanie stavu prepojenia, čakajte prosím...</string>
+<string name="release_to_signin">Uvolnite pre prihlásenie sa.</string>
 <string name="rename_description">Premenovávam...</string>
 <string name="rename_failed">Premenovanie na %1$s zlyhalo</string>
 <string name="restart_cleaning">Reštart</string>
+<string name="scanned">Kontrola dokončená</string>
 <string name="scanning" formatted="false">Kontrola %d aplikácie... (celkovo %d)</string>
 <string name="scanning_on_going">Prehľadávanie...</string>
-<string name="scanned">Kontrola dokončená</string>
 <string name="sd_card_available">Voľné miesto: %1$s</string>
 <string name="sd_card_size">SD karta: %1$s</string>
 <string name="sd_full">SD karta je plná</string>
@@ -238,6 +241,10 @@ Server je momentálne nedostupný, skúste to opäť neskôr
 <string name="server_control_settings">Nastavenie</string>
 <string name="share_link_failed">Vytváranie odkazu pre zdieľanie zložky zlyhalo!</string>
 <string name="show_message">Súbor nie je možné otvoriť bez jeho stiahnutia</string>
+<string name="sign_description">Prihlasovanie...</string>
+<string name="signin_error">Žiadne pripojenie k sieti, skúste to neskôr.</string>
+<string name="signin_success">"Ste prihlásený！
+Získajte voľné miesto %1$s"</string>
 <string name="space_info">Kapacita: %1$s K dispozícii, Celkom: %2$s</string>
 <string name="space_usage">Využitie</string>
 <string name="start_cleanup">Vyčistiť nepotrebné súbory</string>
@@ -273,6 +280,7 @@ aby ste urobili miesto</string>
 <string name="ui_bar_txt_upload_progress">Ostáva nahrať ešte %1$d súbor(ov)</string>
 <string name="ui_filechange_btn_download">Stiahnuť súbory</string>
 <string name="ui_filechange_btn_upload">Odoslať súbory</string>
+<string name="ui_main_menu_option_sign_in">Prihlásiť sa</string>
 <string name="ui_main_menu_option_task_manage">Správa odosielania</string>
 <string name="ui_main_progress_txt_open_file">Sťahovanie...</string>
 <string name="ui_main_toast_favorite_removed">Odstránené(ý) obľúbené(ý)</string>
