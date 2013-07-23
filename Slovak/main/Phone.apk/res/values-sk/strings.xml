@@ -692,7 +692,7 @@
     <string name="ota_listen">Postupujte podľa hlasových pokynov, pokým nebudete informovaný o dokončení aktivácie.</string>
     <string name="ota_next">Ďalšie</string>
     <string name="ota_progress">Počkajte prosím, pokým nebude telefón pripravený.</string>
-    <string name="ota_skip_activation_dialog_message">Ak preskočíte aktiváciu, nebudete môcť telefonovať ani používať mobilné dáta. Výzva na aktiváciu sa bude zobrazovať pri každom zapnutí telefónu, pokým ho neaktivujete.</string>
+    <string name="ota_skip_activation_dialog_message" />
     <string name="ota_skip_activation_dialog_skip_label">Preskočiť</string>
     <string name="ota_skip_activation_dialog_title">Preskočiť aktiváciu?</string>
     <string name="ota_spc_failure">ZLYHANIE CERTIFIKÁTOV SPC</string>
