@@ -252,6 +252,7 @@
     <string name="status_bar_toggle_torch">Svietidlo</string>   
     <string name="status_bar_toggle_vibrate">Vibrácie</string>  
     <string name="status_bar_toggle_wifi">Wi-Fi</string> 
+    <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
     <string name="status_bar_use_physical_keyboard">Použiť fyzickú klávesnicu</string>	
     <string name="tab_notifications_lable">Notifikácie</string>	
     <string name="tab_toggles_lable">Prepínače</string>	

@@ -11,7 +11,17 @@
   <string name="add_to_cloud_folder">Pridať do Cloud zložky</string>
   <string name="adding_recipients">Pridávanie príjemcov...</string>
   <string name="album_name">Názov albumu</string>
+  <string name="album_quota_fulfiled">"Nie je možné vytvoriť album. Počet albumov presiahol limit."</string>
+  <string name="album_share_kicked">Boli ste odobraní z albumu: %1$s</string>
   <string name="album_share_stat_content">Pozvánky na Nový album</string>
+  <string name="album_share_subtitle_accepting">Príjmanie pozvania od %1$s...</string>
+  <string name="album_share_subtitle_denying">Odmietnutie pozvania od %1$s...</string>
+  <string name="album_share_subtitle_invited">Zdieľané %1$s, Prijať alebo odmietnuť?</string>
+  <string name="album_share_subtitle_normal">Zdieľané %1$s</string>
+  <string name="album_share_subtitle_not_ready">Informácie o albume nie sú dostupné. Stlačte pre ich stiahnutie.</string>
+  <string name="album_share_subtitle_quitting">Zrušenie pozvania od %1$s...</string>
+  <string name="album_share_subtitle_requesting">Sťahovanie informácií o albume...</string>
+  <string name="album_share_title_new_album">Nový zdieľaný album</string>
   <string name="albums">Albumov</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznam</string>
@@ -34,7 +44,7 @@
   <string name="camera_connected">Fotoaparát pripojený.</string>
   <string name="camera_disconnected">Fotoaparát odpojený.</string>
   <string name="camera_folder_display_name">Snímky z fotoaparátu</string>
-  <string name="camera_setas_wallpaper">Tapeta</string>
+  <string name="camera_setas_wallpaper">Tapeta</string> 
   <string name="camera_view_none_message">Tu budú zobrazené Vaše fotografie.</string>
   <string name="can_modified">Povoliť príjemcom pridávať fotografie</string>
   <string name="cancel">Zrušiť</string>
@@ -44,7 +54,7 @@
   <string name="cant_delete_system_album">%s je systémový album a nie je možné ho vymazať!</string>
   <string name="cleaning_cache">Odstraňovanie cache...</string>
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
-  <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string> 
+  <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string>
   <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
   <string name="close">Zatvoriť</string>
@@ -106,8 +116,11 @@
   <string name="email_picker_title">Pridať zdieľaný E-mail</string>
   <string name="empty_album">Žiadne obrázky/videá.</string>
   <string name="enter_email_hint">"Zadajte E-mail "</string>
+  <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
+  <string name="error_repeat_apply">Tento album je už zdieľaný</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>
+  <string name="error_socket_timeout">Chyba siete. Skúste to neskôr.</string>
   <string name="exit_share">Ukončiť album</string>
   <string name="exit_share_failed">Ukončenie albumu %1$s zlyhalo</string>
   <string name="exit_share_in_process">Ukončovanie...</string>
@@ -135,6 +148,7 @@
   <string name="frame_semicircle">Polkruh</string>
   <string name="frame_white">Biely</string>
   <string name="gallery_cloud_provider_name">Galéria</string>
+  <string name="gallery_setting">Nastavenia</string>
   <string name="global_setting">Nastavenia</string>
   <string name="grain">Filmové zrno</string>
   <string name="grayscale">ČB</string>
@@ -151,6 +165,7 @@
   <string name="how_many_pics">%d\u0020Snímkov</string>
   <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
   <string name="how_many_videos">%d\u0020Videí</string>
+  <string name="image_quota_fulfiled">"Nie je možné vytvoriť obrázok, Počet obrázkov presiahol limit."</string>
   <string name="import_complete">Import kompletný</string>
   <string name="import_fail">Import neúspešný</string>
   <string name="initial_cloud_button_text">Začnite používať Cloud album</string>
@@ -164,6 +179,7 @@
   <string name="kick_sharer">Odstrániť zdieľaných</string>
   <string name="kick_sharer_failed">Odstránenie zo zdieľaných zlyhalo</string>
   <string name="kick_sharer_successfully">Úspešne odstránené zo zdieľaných</string>
+  <string name="landscape_mode">Povoliť režim na šírku</string>
   <string name="loading">Nahrávam...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
@@ -282,6 +298,7 @@
   <string name="share_by_email_start">Pokus o zdieľanie %1$s na pozadí</string>
   <string name="share_by_email_successfully">Zdieľanie %1$s cez E-mail úspešné</string>
   <string name="share_user_name">Názov</string>
+  <string name="sharer_quota_fulfiled">"Nie je možné pridať na zdieľanie. Počet zdieľaných osôb pre tento album presiahol limit."</string>
   <string name="sharer_status_accepted">Akceptované</string>
   <string name="sharer_status_refused">Odmietnuté</string>
   <string name="sharer_status_waiting">Čaká</string>
@@ -294,7 +311,7 @@
   <string name="show_on_map">Ukáž na mape</string>
   <string name="show_videos_only">Iba videá</string>
   <string name="size_above">%1$s alebo väčšie</string>
-  <string name="size_below">%1$s alebo menšie</string>
+  <string name="size_below">%1$s alebo menšie</string> 
   <string name="size_between">%1$s do %2$s</string>
   <string name="slideshow">Prehliadka</string>
   <string name="slideshow_category">Prehliadka</string>
@@ -310,7 +327,7 @@
   <string name="sync_album">Synchronizovať album</string>
   <string name="sync_album_error">Nepodarilo sa stiahnuť snímky v tomto albume. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
-  <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string> 
+  <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string>
   <string name="sync_history_power_on">Synchronizovať fotografie len počas nabíjania.</string>
   <string name="sync_only_in_wifi">Iba cez Wi-Fi</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>

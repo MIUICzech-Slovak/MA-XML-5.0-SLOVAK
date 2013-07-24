@@ -1921,7 +1921,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="time_picker_title">Čas</string>	
     <string name="time_zone_auto_stub">Vyberte časovú zónu</string>	
     <string name="timezone_settings">Časová zóna</string>	
-    <string name="title_dolby_control">Nastavenia Dolby</string>	
+    <string name="title_dolby_control">Dolby Digital Plus</string>	
     <string name="title_font_size">Veľkosť písma</string>	
     <string name="total_size">%s Celkom</string>	
     <string name="total_size_label">Celkom</string>	
