@@ -1141,6 +1141,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
 	<string name="master_clear_summary">Vymaže všetky dáta v telefóne!</string>
     <string name="master_clear_title">Obnovenie predvolených dát</string>	
     <string name="media_button">Tlačidlo Média</string>	
+    <string name="media_feedback_enable_title">Vibrova5 v rytme</string>
     <string name="media_format_button_text">Zmazať SD kartu</string>	
     <string name="media_format_desc">Zmazať SD kartu? Stratíte všetky dáta na nej uložené.</string>	
     <string name="media_format_final_button_text">Odstrániť všetko</string>
