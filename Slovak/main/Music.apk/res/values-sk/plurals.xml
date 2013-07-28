@@ -21,8 +21,8 @@
         <item quantity="one">Skladby: %d</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other">Albumov: %d</item>
-        <item quantity="one">Albumov: %d</item>
+        <item quantity="other">Albumy: %d</item>
+        <item quantity="one">Albumy: %d</item>
     </plurals>
     <plurals name="Ntracks">
         <item quantity="other">" skladieb"</item>
