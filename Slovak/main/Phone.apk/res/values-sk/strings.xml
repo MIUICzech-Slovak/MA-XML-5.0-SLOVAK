@@ -177,8 +177,8 @@
     <string name="card_title_MOcall_forwarding">Odchádzajúce presmerované hovory</string>
     <string name="card_title_MTcall_forwarding">Prichádzajúci hovor je presmerovaný</string>
     <string name="card_title_call_deflected">Hovor odmietnutý</string>
-    <string name="card_title_call_ended">Hovor ukončeny</string>
-    <string name="card_title_callconnectedect">Hovor pripojeny ECT</string>
+    <string name="card_title_call_ended">Hovor ukončený</string>
+    <string name="card_title_callconnectedect">Hovor pripojený ECT</string>
     <string name="card_title_callconnectingect">Hovor sa pripája ECT</string>
     <string name="card_title_calliswaiting">Hovor čaká</string>
     <string name="card_title_callonhold">Pozastaviť</string>

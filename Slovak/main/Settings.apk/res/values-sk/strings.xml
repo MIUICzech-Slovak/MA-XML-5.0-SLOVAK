@@ -14,9 +14,9 @@
     <string name="access_control_need_password">"%s je zabezpečené/ý
     "</string>	
     <string name="access_control_need_to_unlock">Pre odomknutie je požadované heslo</string>	
-    <string name="access_control_no_back_footer">Stlačte [ikonu] pre ukončenie</string>	
+    <string name="access_control_no_back_footer">Stlačte [icon] pre ukončenie</string>	
     <string name="access_control_password_title">Povoliť heslo</string>	
-    <string name="access_control_recording_intro_header">Nakreslite odomykaciu kombináciu</string>	
+    <string name="access_control_recording_intro_header">Nakreslite kombináciu odomknutia</string>	
     <string name="access_control_reset_by_account">Pre odblokovanie sa prihláste na Váš Xiaomi účet</string>
     <string name="accessibility_enable">Povoliť prístup</string>
     <string name="accessibility_feature_state_off">Vyp</string>
@@ -184,7 +184,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="auto_punctuate_summary">Znak „.“ je možné vložiť dvojitým stlačením klávesy Medzerník.</string>	
     <string name="auto_replace">Automatické nahradenie</string>	
     <string name="auto_replace_summary">Opravovať pravopisné chyby</string>	
-    <string name="auto_restore_summary">Pri preinštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
+    <string name="auto_restore_summary">Pri opätovnej inštalácií aplikácie obnoviť zálohované nastavenia a ďalšie dáta</string>	
     <string name="auto_restore_title">Automatické obnovenie</string>	
     <string name="auto_startup_application_manage">Pri štarte</string>
     <string name="auto_startup_count">%d aplikácií sa spustí pri štarte</string>
@@ -389,7 +389,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="bluetooth_no_devices_found">V okolí nie sú žiadne zariadenia Bluetooth.</string>	
     <string name="bluetooth_not_discoverable">Prepne zariadenie do viditeľného režimu</string>	
     <string name="bluetooth_not_visible_to_other_devices">Neviditeľné pre ostatné zariadenia Bluetooth</string>	
-    <string name="bluetooth_notif_message">Klepnutím spárujete so zariadením %1$s</string>	
+    <string name="bluetooth_notif_message">Dotykom spárujete so zariadením %1$s</string>	
     <string name="bluetooth_notif_ticker">Požiadavka na párovanie zariadení Bluetooth</string>	
     <string name="bluetooth_notif_title">Požiadavka na párovanie</string>	
     <string name="bluetooth_on_time">Doba prevádzky siete Wi-Fi</string>	
@@ -535,8 +535,8 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="credentials_enabled">Úložisko poverení je aktivované.</string>	
     <string name="credentials_erased">Úložisko poverení je vymazané.</string>
     <string name="credentials_install">Inštalovať z úložiska</string>
-    <string name="credentials_install_gesture_explanation">Musíte nakresliť svoj odomykací vzor pre potvrdenie inštalácie.</string>	
-    <string name="credentials_install_gesture_prompt">Nakresliť odomykací vzor</string>	
+    <string name="credentials_install_gesture_explanation">Musíte nakresliť svoj vzor odomknutia pre potvrdenie inštalácie.</string>	
+    <string name="credentials_install_gesture_prompt">Nakresliť vzor odomknutia</string>	
     <string name="credentials_install_summary">Nainštalovať certifikáty z úložiska</string>	
     <string name="credentials_not_erased">Úložisko poverení nie je možné vymazať.</string>	
     <string name="credentials_old_password">Aktuálne heslo:</string>	
@@ -864,7 +864,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="font_size_medium">Stredné</string>
     <string name="font_size_normal">Normálne</string>	
     <string name="font_size_preview">MIUI</string>	
-    <string name="font_size_preview_text">Toto je ukážkový text pre MIUIAndroid.com ROM.</string>	
+    <string name="font_size_preview_text">Toto je ukážkový text pre MIUI CZ SK ROM.</string>	
     <string name="font_size_save">OK</string>	
     <string name="font_size_small">Malý</string>	
     <string name="font_size_summary">Nastaviť veľkosť písma a rozloženia aplikácií ako Telefón, SMS, Kontakty pre zjednodušenie používania.</string>
@@ -922,7 +922,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="headset_calibrate_hint">Stlačte horné tlačidlo</string>
     <string name="headset_calibrate_next_track">Nasledujúca skladba</string>
     <string name="headset_calibrate_prev_track">Predchádzajúca skladba</string>
-    <string name="headset_calibrate_success">Nastavenia použíté</string>
+    <string name="headset_calibrate_success">Nastavenia použité</string>
     <string name="headset_calibrate_volume_down">Znížiť hlasitosť</string>	
     <string name="headset_calibrate_volume_up">Pridať hlasitosť</string>	
     <string name="headset_calibrate_wrong_key">Stlačené tlačidlo je nesprávne. Stlačte opäť</string>
@@ -1593,8 +1593,8 @@ skúste:
     <string name="ringtone_summary"/>	
     <string name="ringtone_title">Vyzváňací tón telefónu</string>
     <string name="roaming">Dát. služby pri roamingu</string>
-    <string name="roaming_disable">Dátové služby sa môžu pripojovať pri roamingu</string>    	
-    <string name="roaming_enable">Dátové služby sa môžu pripojovať pri roamingu</string>	
+    <string name="roaming_disable">Dátové služby sa môžu pripájať pri roamingu</string>    	
+    <string name="roaming_enable">Dátové služby sa môžu pripájať pri roamingu</string>	
     <string name="roaming_reenable_message">Pripojenie dátových služieb bolo prerušené, pretože ste opustili domovskú sieť a dátové služby pri roamingu máte vypnuté.</string>
     <string name="roaming_reenable_title">Upozornenie</string>	
     <string name="roaming_turn_it_on_button">Zapnúť</string>	
@@ -1978,7 +1978,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="turn_off_radio">Vypnúť rádio</string>	
     <string name="turn_off_security_lock">Vypnúť zámok</string>	
     <string name="turn_on_radio">Zapnúť rádio</string>	
-    <string name="under_keyguard">Na uzamykacej obrazovke</string>	
+    <string name="under_keyguard">Na zamykacej obrazovke</string>	
     <string name="uninstall_all_users_text">Odinštalovať pre všetkých používateľov</string>	
     <string name="uninstall_text">Odinštalovať</string>	
     <string name="unknown">Neznáme</string>	
@@ -2356,8 +2356,8 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_poor_network_detection">Vyhýbať sa zlým pripojeniam</string>
     <string name="wifi_poor_network_detection_summary">"Nepoužívať Wi-Fi siete ak nemajú dobrý signál"</string>
     <string name="wifi_priority_settings_label">Nastavenie priority</string>
-    <string name="wifi_quick_toggle_summary">Zapnúť WiFi</string>
-    <string name="wifi_quick_toggle_title">WiFi</string>
+    <string name="wifi_quick_toggle_summary">Zapnúť Wi-Fi</string>
+    <string name="wifi_quick_toggle_title">Wi-Fi</string>
     <string name="wifi_remembered">Uložené</string>	
     <string name="wifi_required_info_text">Tablet potrebuje na dokončenie nastavení prístup k sieti Wi-Fi. Po nastavení môžete prepínať medzi mobilným dátovým pripojením a sieťou Wi-Fi.</string>	
     <string name="wifi_save">Uložiť</string>	
@@ -2368,11 +2368,9 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_security_WAPI_PSK">WAPI PSK</string>	
     <string name="wifi_security_eap">802.1x EAP</string>	
     <string name="wifi_security_none">Žiadne</string>	
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>	
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>	
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>	
     <string name="wifi_security_short_eap">802.1x</string>	
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>	
     <string name="wifi_security_short_wep">WEP</string>	
     <string name="wifi_security_short_wpa">WPA</string>	
     <string name="wifi_security_short_wpa2">WPA2</string>	
@@ -2429,7 +2427,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
 Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</string>
 	<string name="wifi_speed">Rýchlosť pripojenia</string>	
     <string name="wifi_ssid">SSID</string>	
-    <string name="wifi_starting">Zapinanie Wi-Fi...</string>
+    <string name="wifi_starting">Zapínanie Wi-Fi...</string>
 	<string name="wifi_state_disabled">Vypnutá</string>	
     <string name="wifi_state_disabling">Vypínanie</string>
 	<string name="wifi_state_enabled">Zapnuté</string>
@@ -2479,7 +2477,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_wps_connected">Pripojené k Wi-Fi sieti %s</string>	
     <string name="wifi_wps_failed_auth">Overovanie zlyhalo. Skúste ešte raz.</string>	
     <string name="wifi_wps_failed_generic">WPS zlyhalo. Skúste opäť neskôr.</string>	
-    <string name="wifi_wps_failed_overlap">Nolo nájdené iné WPS. Skúste opäť neskôr.</string>	
+    <string name="wifi_wps_failed_overlap">Bolo nájdené iné WPS. Skúste opäť neskôr.</string>	
     <string name="wifi_wps_failed_tkip">Bezpečnostné nastavenia Wi-Fi routeru (TKIP) niesú podporované</string>
     <string name="wifi_wps_failed_wep">Bezpečnostné nastavenia Wi-Fi routeru (WEP) niesú podporované</string>
     <string name="wifi_wps_in_progress">WPS prebieha a môže trvať desiatky sekúnd.</string>

@@ -383,7 +383,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
     <string name="prepaid_edit_limit">čísla</string>	
     <string name="prepaid_error_card_length">Vložte správne číslo predplatenej karty alebo heslo</string>	
     <string name="prepaid_error_card_number">Zadajte správnu sumu navýšenia</string>	
-    <string name="prepaid_error_carrier">Zvoľte svojho operátora (iba čína)</string>	
+    <string name="prepaid_error_carrier">Zvoľte svojho operátora (iba Čína)</string>	
     <string name="prepaid_error_denomination">Zvoľte o koľko navýšiť kredit</string>	
     <string name="prepaid_error_password">Zadajte správne číslo a heslo Vašej karty</string>	
     <string name="prepaid_number_edit_hint">Číslo: </string>	

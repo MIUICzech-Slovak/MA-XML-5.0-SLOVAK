@@ -55,8 +55,8 @@
     <string name="custom">Prispôsobiť</string>
     <string name="default_interval">30</string>
     <string name="delete_file_from_sdcard">Súčasne odstrániť súbory z SD karty</string>
-    <string name="delete_item">Zmazať</string>
-    <string name="delete_playlist_menu">Zmazať</string>
+    <string name="delete_item">Vymazať</string>
+    <string name="delete_playlist_menu">Vymazať</string>
     <string name="delete_song_desc">%s budú nenávratne vymazané z SD karty.</string>
     <string name="deselect_all">Odznačiť všetko</string>
     <string name="download">Stiahnuť</string>
@@ -76,11 +76,11 @@
     <string name="emptyplaylist">Vybraný playlist je prázdny.</string>
     <string name="enter_sleep_mode">Režim spánku</string>
     <string name="equalizer">Ekvalizér</string>
-    <string name="equalizer_delete">Zmazať</string>
+    <string name="equalizer_delete">Vymazať</string>
     <string name="equalizer_delete_success">Profil ekvalizéru bol odobraný</string>
     <string name="equalizer_save_success">Profil ekvalizéru bol uložený</string>
     <string name="fade_effect_settings">Prelínanie</string>
-    <string name="fade_effect_summary">Zapnúť prelínanie medzi jednotlivými skladbami</string>
+    <string name="fade_effect_summary">Povoliť prelínanie medzi jednotlivými skladbami</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="file_not_found">Súbor neexistuje</string>
     <string name="filter_by_duration">Filtrovať podľa dĺžky</string>

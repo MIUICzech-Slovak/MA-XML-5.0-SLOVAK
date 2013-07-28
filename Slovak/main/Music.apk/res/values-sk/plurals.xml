@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">Skladieb odstránených zo zoznamu: %d</item>
+        <item quantity="other">Skladby odstránených zo zoznamu: %d</item>
         <item quantity="one">1 skladba odstránená zo zoznamu</item>
     </plurals>
     <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d skladieb</item>
-        <item quantity="one">%d skladba</item>
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
     </plurals>
     <plurals name="Ntracks_total">
-        <item quantity="other">%d skladieb</item>
-        <item quantity="one">%d skladba</item>
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
     </plurals>
     <plurals name="Ntracks_string">
-        <item quantity="other">%d skladieb</item>
-        <item quantity="one">%d skladba</item>
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
     </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other">%d skladieb</item>
-        <item quantity="one">%d skladba</item>
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other">%d albumov</item>
-        <item quantity="one">%d album</item>
+        <item quantity="other">Albumov: %d</item>
+        <item quantity="one">Albumov: %d</item>
     </plurals>
     <plurals name="Ntracks">
         <item quantity="other">" skladieb"</item>
@@ -45,7 +45,7 @@
         <item quantity="one">" zložka"</item>
     </plurals>
     <plurals name="Ntracks_batch_selection">
-        <item quantity="other">%d vybraných skladieb</item>
+        <item quantity="other">Vybraných skladieb: %d</item>
         <item quantity="one">%d vybraná skladba</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
@@ -69,7 +69,7 @@
         <item quantity="one">%1$s, %2$d skladba</item>
     </plurals>
     <plurals name="NNNtracksdeleted">
-        <item quantity="other">%d skladieb vymazaných.</item>
+        <item quantity="other">Vymazaných skladieb: %d</item>
         <item quantity="one">1 skladba vymazaná.</item>
     </plurals>
     <plurals name="NTrackstoDownload">
@@ -77,7 +77,7 @@
         <item quantity="one">1 skladba bude stiahnutá.</item>
     </plurals>
         <plurals name="Nhot_tracks_total">
-        <item quantity="other">hitov: %d</item>
+        <item quantity="other">Hitov: %d</item>
         <item quantity="one">%d hit</item>
     </plurals>
 </resources>

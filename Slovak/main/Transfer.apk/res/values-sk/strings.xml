@@ -87,7 +87,7 @@
     <string name="send_nfc">Odoslať pomocou NFC</string>
     <string name="send_sound">Odoslať pomocou zvuku</string>
     <string name="send_tip">Dávkové odosielanie obrázkov, hudby, kontaktov a iných súborov.</string>
-    <string name="send_to">Odosolať do:</string>
+    <string name="send_to">Odoslať do:</string>
     <string name="send_uncompleted">Odosielanie zlyhalo</string>
     <string name="sent">Odoslané</string>
     <string name="settings_auto_pair_sender_summary">Automatické párovanie zariadení pre prijímanie alebo odosielanie súborov</string>
@@ -97,7 +97,7 @@
     <string name="settings_photo">Avatar</string>
     <string name="settings_photo_camera">Nová fotografia</string>
     <string name="settings_photo_pick">Vybrať z Galérie</string>
-    <string name="settings_photo_remove">Vymazať avatara</string>
+    <string name="settings_photo_remove">Vymazať avatar</string>
     <string name="settings_receive_confirm_summary">Vyžadovať Vaše povolenie pre prijímanie súborov</string>
     <string name="settings_receive_confirm_title">Povolenie prijatia</string>
     <string name="share">Zdieľať</string>
