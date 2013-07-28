@@ -290,7 +290,7 @@ aby ste urobili miesto</string>
 <string name="upload_failed">Nahrávanie zlyhalo!</string>
 <string name="upload_file_toolarge_message">"%1$d súborov väčších ako 300M nemôže byť odoslaných. Prosím skontrolujte Správcu prenosu pre viac informácií."</string>
 <string name="uploading">Odosielam...</string>
-<string name="used">Použité</string>
+<string name="used">"Použité "</string>
 <string name="user_guide">Užívateľský manuál</string>
 <string name="user_guide_download_other_version">"Môžete si stiahnuť MiDrive aj do Vášho PC"</string>
 <string name="user_guide_kuaipan_copy">"Kopírujte svoje súbory na MiDrive"</string>
