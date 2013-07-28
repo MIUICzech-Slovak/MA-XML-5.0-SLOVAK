@@ -116,9 +116,6 @@
     <string name="no_syncable_calendars">Žiadne kalendáre</string>
     <string name="no_title_label">(bez názvu)</string>
     <string name="not_synced">nie je synchronizovaný</string>
-    <string name="prefDefault_alerts_vibrateWhen">nikdy</string>
-    <string name="prefDefault_alerts_vibrate_false">nikdy</string>
-    <string name="prefDefault_alerts_vibrate_true">vždy</string>
     <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
     <string name="preferences_about_title">O programe</string>
     <string name="preferences_alerts_popup_title">Vyskakovacie upozornenie</string>

@@ -14,10 +14,10 @@
         <item quantity="one">%1$s výsledok na dotaz „%2$s”</item>
     </plurals>
     <plurals name="recipient_count">
-        <item quantity="other">%1$s ľudí</item>
+        <item quantity="other">ľudí: %1$s</item>
     </plurals>
     <plurals name="message_count">
-        <item quantity="other">%1$s správ</item>
+        <item quantity="other">správy: %1$s</item>
         <item quantity="one">%1$s správa</item>
     </plurals>
 </resources>

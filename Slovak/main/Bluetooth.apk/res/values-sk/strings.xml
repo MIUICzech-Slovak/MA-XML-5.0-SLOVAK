@@ -115,7 +115,7 @@ Prijať súbor?"</string>
     <string name="pbap_session_key_dialog_title">Vložte kľúč spárovania pre %1$s</string>	
     <string name="permdesc_bluetoothShareManager">Povoliť aplikácii prístup k BluetoothShare správcovi a použiť ju k prenosu súborov.</string>   
     <string name="permdesc_bluetoothWhitelist">Povoliť aplikácií prístup k Bluetooth bez potreby povolenia.</string>
-    <string name="permdesc_handoverStatus">Povoliť prístup k informáciam o stave cez Bluetooth.</string>
+    <string name="permdesc_handoverStatus">Povoliť prístup k informáciám o stave cez Bluetooth.</string>
     <string name="permlab_bluetoothShareManager">Prístup k Správcovi sťahovania.</string>
     <string name="permlab_bluetoothWhitelist">Povolené bluetooth zariadenia.</string>
     <string name="permlab_handoverStatus">Prijať BT handover transfer broadcasts.</string>

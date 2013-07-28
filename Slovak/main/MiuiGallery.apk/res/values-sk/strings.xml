@@ -14,7 +14,7 @@
   <string name="album_quota_fulfiled">"Nie je možné vytvoriť album. Počet albumov presiahol limit."</string>
   <string name="album_share_kicked">Boli ste odobraní z albumu: %1$s</string>
   <string name="album_share_stat_content">Pozvánky na Nový album</string>
-  <string name="album_share_subtitle_accepting">Príjmanie pozvania od %1$s...</string>
+  <string name="album_share_subtitle_accepting">Prijímanie pozvania od %1$s...</string>
   <string name="album_share_subtitle_denying">Odmietnutie pozvania od %1$s...</string>
   <string name="album_share_subtitle_invited">Zdieľané %1$s, Prijať alebo odmietnuť?</string>
   <string name="album_share_subtitle_normal">Zdieľané %1$s</string>
@@ -343,8 +343,8 @@
   <string name="to_count">%d celkovo</string>
   <string name="too_many_recipients">Správa má príliš mnoho príjemcov (%1$s), povolených je %2$s.</string>
   <string name="try_to_send">Pokúsiť sa odoslať</string>
-  <string name="turn_left">Otočiť do ľava</string>
-  <string name="turn_right">Otočiť do prava</string>
+  <string name="turn_left">Otočiť doľava</string>
+  <string name="turn_right">Otočiť doprava</string>
   <string name="unit_mm">mm</string>
   <string name="untagged">Neoznačené</string>
   <string name="video_err">"Nemožno prehrať video."</string>

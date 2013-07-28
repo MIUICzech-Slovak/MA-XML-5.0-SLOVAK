@@ -140,7 +140,7 @@ Nepotrebné súbory"</string>
 <string name="kuaipan_prompt_message">"
 Server je momentálne nedostupný, skúste to opäť neskôr
 "</string>
-<string name="kuaipan_tech_support">Technický poskytovateľ Kingsoft Kuaipan</string>
+<string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
 <string name="load_err">Načítavanie zlyhalo</string>
 <string name="loading">Načítavam...</string>
 <string name="local_cache_size">Veľkosť lokálnej cache: %s</string>

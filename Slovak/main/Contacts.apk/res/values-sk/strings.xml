@@ -27,7 +27,7 @@
     <string name="add_xiaomi_account_dialog_btn">Použiť účet Xiaomi</string>
     <string name="add_xiaomi_account_dialog_msg">Pre čo najväčšie pohodlie zvážte používanie účtu Xiaomi na synchronizáciu a zálohu Vaších kontaktov.</string>
     <string name="add_xiaomi_account_dialog_title">Zvoliť účet synchr.</string>
-    <string name="aggregation_suggestion_edit_dialog_message">Prepnúť do editácie zvoleného kontaktu? Doposiaľ zadané informácie budú skopírované.</string>
+    <string name="aggregation_suggestion_edit_dialog_message">Prepnúť do úpravy zvoleného kontaktu? Doposiaľ zadané informácie budú skopírované.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Upraviť vybrané kontakty</string>
     <string name="aggregation_suggestion_join_dialog_message">Zlúčiť aktuálny kontakt s vybraným kontaktom?</string>
     <string name="all_list_empty">Žiadne kontakty</string>

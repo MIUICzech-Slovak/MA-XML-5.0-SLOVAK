@@ -101,7 +101,7 @@
     <string name="choosertitle_sharevia">Zdieľať cez</string>
     <string name="clear">Vyčistiť</string>
     <string name="clear_history">Vymazať históriu</string>
-    <string name="clear_history_group">Vymazať všetkú históriu %s</string>	
+    <string name="clear_history_group">Vymazať všetku históriu %s</string>	
     <string name="clip_dialog_title">Otvoriť skopírovanú URL adresu?</string>
     <string name="close_all_tab_alert_message">Ste si istý, že chcete zatvoriť všetky karty?</string>	
     <string name="close_all_tab_alert_title">Zatvoriť všetky karty</string>	
@@ -130,10 +130,10 @@
     <string name="contextmenu_openlink">Otvoriť</string>	
     <string name="contextmenu_openlink_newwindow">Otvoriť na novej karte</string>	
     <string name="contextmenu_openlink_newwindow_background">Otvoriť na novej karte na pozadí</string>	
-    <string name="contextmenu_savelink">Uložiť link</string>	
+    <string name="contextmenu_savelink">Uložiť odkaz</string>	
     <string name="contextmenu_send_mail">Poslať e-mail</string>	
     <string name="contextmenu_set_wallpaper">Nastaviť ako tapetu</string>	
-    <string name="contextmenu_sharelink">Zdieľať link</string>	
+    <string name="contextmenu_sharelink">Zdieľať odkaz</string>	
     <string name="contextmenu_view_image">Zobraziť obrázok</string>
     <string name="copy_page_url">Skopírovať URL stránky</string>
     <string name="crash_recovcery_message">Prehliadač sa nečakane ukončil. Chcete obnoviť predchádzajúcu reláciu?</string>	
@@ -309,7 +309,7 @@
     <string name="pref_content_night_read_mode">Zapnúť Nočný Mód</string>	
     <string name="pref_content_open_in_background">Otvoriť na pozadí</string>	
     <string name="pref_content_open_in_background_summary">Otvoriť nové karty na pozadí aktuálnej karty</string>	
-    <string name="pref_content_plugins">Povoliť pluginy</string>	
+    <string name="pref_content_plugins">Povoliť doplnky</string>	
     <string name="pref_content_preload_title">Prednačítať obsah</string>	
     <string name="pref_content_search_engine">Nastaviť vyhľadávanie</string>	
     <string name="pref_content_search_engine_summary">Vybrať vyhľadávaciu službu</string>	

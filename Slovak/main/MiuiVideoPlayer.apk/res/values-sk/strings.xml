@@ -38,7 +38,7 @@
     <string name="temp_play_history_button_label">Zobraziť históriu</string>
     <string name="to_be_play_label_v5">Začina sa prehrávanie</string>
     <string name="toast_back_key_pressed_notice">Stlačte znovu pre ukončenie</string>
-    <string name="toast_message_continue_play_from">Prehrávannie pokračuje od</string>
+    <string name="toast_message_continue_play_from">Prehrávanie pokračuje od</string>
     <string name="toast_message_continue_play_hour">"h "</string>
     <string name="toast_message_continue_play_minute">"m "</string>
     <string name="toast_message_continue_play_second_and_play">s</string>

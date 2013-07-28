@@ -12,7 +12,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasmerujte svoj telefón nadol, 
   opustite na chvíľu náhľad"</string>
-  <string name="camera_disabled">Fotoaprát bol z dôvodu bezpečnosti deaktivovaný.</string>
+  <string name="camera_disabled">Fotoaparát bol z dôvodu bezpečnosti deaktivovaný.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
   <string name="camera_settings_label">Nastavenie fotoaparátu</string>
@@ -35,7 +35,7 @@
   <string name="contact_details">Kontakt:</string>
   <string name="contact_email">E-mail</string>
   <string name="contact_name">Meno</string>
-  <string name="contact_nickname">Prezívka</string>
+  <string name="contact_nickname">Prezývka</string>
   <string name="contact_note">Poznámka</string>
   <string name="contact_phone">Telefón</string>
   <string name="contact_title">Titul</string>
@@ -426,7 +426,7 @@
   <string name="video_err">"Video súbor sa nedá prehrať."</string>
   <string name="video_file_name_format">"'VID'_yyyyMMdd_HHmmss"</string>
   <string name="video_reach_size_limit">Bol dosiahnutý limit veľkosti súboru.</string>
-  <string name="video_snapshot_hint">Dotknutím sa displeja počas nahrávania videa vytvoríte fotografiu.</string>
+  <string name="video_snapshot_hint">Dotykom na displej počas nahrávania videa vytvoríte fotografiu.</string>
   <string name="videocamera_settings_label">Nastavenie videa</string>
   <string name="wait">Čakajte prosím...</string>
   <string name="web_url_apk_warning">Vybraný QR kód obsahuje aplikáciu ktorá môže ohroziť Vaše dáta. Pre overenie zabezpečenia vyhľadajte túto aplikáciu v obchode Google Play.</string>

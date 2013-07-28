@@ -66,7 +66,7 @@
     <string name="account_setup_account_type_pop_action">POP3</string>
     <string name="account_setup_account_type_title">Konfigurácia konta</string>
     <string name="account_setup_basic_description_label">Názov účtu (voliteľné)</string>
-    <string name="account_setup_basic_label">Vložte prosím informáciepre %s email:</string>
+    <string name="account_setup_basic_label">Vložte prosím informácie pre %s email:</string>
     <string name="account_setup_basic_name_label">Vaše meno (voliteľné)</string>
     <string name="account_setup_basics_default_label">V predvolenom nastavení odosielať e-maily z tohto účtu.</string>
     <string name="account_setup_basics_email_label">E-mailová adresa</string>
@@ -428,7 +428,7 @@ Kópia: %4$s
     <string name="notify_uploads">Okamžité odoslanie</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
-    <string name="password_expire_warning_content_title">Uzamykacie heslo čoskoro vyprší</string>
+    <string name="password_expire_warning_content_title">Heslo na uzamknutie čoskoro vyprší</string>
     <string name="password_expire_warning_dialog_content_fmt">Čoskoro musíte zmeniť kód PIN alebo heslo na uzamknutie obrazovky, inak budú údaje účtu %s vymazané. Chcete ho zmeniť teraz?</string>
     <string name="password_expire_warning_dialog_title">Heslo na uzamknutie obr. čoskoro vyprší</string>
     <string name="password_expire_warning_ticker_fmt">Účet \"%s\" požaduje, aby ste zmenili kód PIN alebo heslo uzamknutia obrazovky.</string>
@@ -569,7 +569,7 @@ Kópia: %4$s
     <string name="waitinf_for_sync_message_1">Prebieha synchronizácia</string>
     <string name="waitinf_for_sync_message_2">Váš e-mail sa čoskoro zobrazí.</string>
     <string name="widget_all_mail">Doručená pošta (všetky)</string>
-    <string name="widget_loading">Prebieha načítav.</string>
+    <string name="widget_loading">Načítavanie...</string>
     <string name="widget_no_accounts">Zatiaľ ste nevytvorili e-mailový účet.</string>
     <string name="widget_no_mailboxes">"Tento účet nie je synchronizovaný. Skúste to opäť neskôr."</string>
     <string name="widget_other_views">Zmeňte klep. na ikonu</string>
