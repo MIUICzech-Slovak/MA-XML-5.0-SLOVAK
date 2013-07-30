@@ -2424,8 +2424,8 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_share_action_turn_on">Zdieľať verejnú Wi-Fi sieť</string>
 	<string name="wifi_share_action_turn_on_summary">Prihláste sa svojim Xiaomi účtom</string>	
     <string name="wifi_share_add">Zdieľať moju verejnú Wi-Fi sieť</string>	
-    <string name="wifi_share_add_summary">"Ak zdieľate Vašu verejnú Wi-Fi sieť
-,môžete použiť inú sieť"</string>
+    <string name="wifi_share_add_summary">"Ak zdieľate Vašu verejnú Wi-Fi sieť,
+môžete použiť inú sieť"</string>
 	<string name="wifi_share_connect">Pripojiť</string>	
     <string name="wifi_share_connected_summary">"Ste pripojený k verejnej Wi-Fi sieti zdieľanej iným užívateľom MIUI"</string>
 	<string name="wifi_share_connected_title">Pripojené k Wi-Fi sieti zdieľanej MIUI</string>
