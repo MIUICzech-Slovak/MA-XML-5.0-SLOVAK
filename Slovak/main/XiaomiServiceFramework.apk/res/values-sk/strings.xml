@@ -156,7 +156,30 @@ Počkajte prosím 5 minút a skúste to opäť"</string>
 ako prvé a nemôžu byť použité po vypršaní platnosti"</string>	
     <string name="giftcard_record">Moje poukážky</string>	
     <string name="giftcard_value">(Poukážka na %1$s Mi kreditov)</string>	
-    <string name="header_data_and_synchronization">Dáta a synchronizácia</string>	
+    <string name="header_data_and_synchronization">Dáta a synchronizácia</string>
+    <string name="hfb_app_name">话付宝</string>
+    <string name="hfb_dialog_exit_content">交易尚未完成，确定放弃交易？</string>
+    <string name="hfb_fail_label">购买失败</string>
+    <string name="hfb_fail_result">"此手机号码暂时无法完成支付，请稍后再试或使用其他支付方式购买，感谢您的支持！
+客服电话：4006125880"</string>
+    <string name="hfb_goods_price_value_format">&lt;font color=red>%1$s&lt;/font>(不含通信费)</string>
+    <string name="hfb_network_progress">正在请求订单，请保持网络通畅</string>
+    <string name="hfb_order_confirm">确认支付</string>
+    <string name="hfb_order_pay">订单支付</string>
+    <string name="hfb_return">返 回</string>
+    <string name="hfb_sms1_progress_label">正在以短信提交订单，请稍候......</string>
+    <string name="hfb_sms2_progress_label">正在以短信形式确认支付，请稍候......</string>
+    <string name="hfb_sms_error">短信发送失败！</string>
+    <string name="hfb_sms_pay">您的订单已提交，点击“确认支付”即同意再次向10658008发送短信以完成购买。</string>
+    <string name="hfb_succ_label">购买成功</string>
+    <string name="hfb_succ_result">"感谢您使用通信账户支付服务。
+购买【%1$s】费用为【%2$s元】
+客服电话：%3$s"</string>
+    <string name="hfb_trans_error_label">未查到支付结果，请保持网络通畅</string>
+    <string name="hfb_trans_result_progress_label">正在查询支付结果....</string>
+    <string name="hfb_umpay_info">* 10658008是中国移动通信账户支付专用短信特服号码</string>
+    <string name="hfb_upgrade_download_fail">新版本下载失败，请稍后再试.</string>
+    <string name="hfb_upgrade_download_sucess">新版本下载成功,开始安装.</string>	
     <string name="i_know">OK</string>
     <string name="input_password_hint">Vložte heslo</string>	
     <string name="int_phone_user_notice">Ak sa registrujete s číslom mimo Čínu, zadajte ho prosím v medzinárodnom formáte +421xxxxxxxxx</string>
@@ -474,24 +497,26 @@ Zadajte Vaše heslo"</string>
     <string name="sync_on">Zap</string>	
     <string name="sync_sub_dspt">Odošle sa SMS pre aktiváciu služby</string>	
     <string name="sync_sub_int_dspt">Bude odoslaná medzinárodná SMS pre aktiváciu služby</string>
-    <string name="title_mili_center">Mi kredity</string>	
-    <string name="title_pay">Zaplatiť Mi kreditmi</string>
+    <string name="title">Názov</string>	
+    <string name="title_mili_center">Mi kredity</string>
+    <string name="title_pay">Zaplatiť Mi kreditmi</string>	
     <string name="title_pay_record">%1$s histórie platieb</string>	
     <string name="title_recharge">Navýšiť Mi kredit</string>	
-    <string name="title_recharge_record">História navýšení</string>	
+    <string name="title_recharge_record">História navýšení</string>
     <string name="title_reg">Zaregistrujte Xiaomi účet</string>
     <string name="unactivated_user">Neaktivovaný</string>
     <string name="unbind">Zrušiť autorizáciu</string>
-    <string name="update_contacts">Aktualizovať kontakty</string>
-    <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>	
-    <string name="updated_contacts">Aktualizovaných %s kontaktov</string>
+    <string name="update_contacts">Aktualizovať kontakty</string>	
+    <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>
+    <string name="updated_contacts">Aktualizovaných %s kontaktov</string>	
     <string name="user_agreement_p1">"Prihlásením sa, súhlasíte 
 s "</string>	
     <string name="user_agreement_p2">s podmienkami služby Xiaomi</string>	
     <string name="user_agreement_p3"> a </string>	
-    <string name="user_agreement_p4">Podmienkami súkromia</string>	
+    <string name="user_agreement_p4">Podmienkami súkromia</string>
     <string name="user_agreement_p5">"Prihlásením sa, súhlasíte 
 s "</string>
+    <string name="value">Hodnota</string>
     <string name="voucher_edit_hint">Heslo:</string>
     <string name="voucher_edit_limit"/>
     <string name="voucher_error_code">Nastala chyba pri kontrole čísla kupónu</string>

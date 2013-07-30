@@ -23,6 +23,7 @@
     <string name="component_lockstyle_personal_title">Nastavenia</string>	
     <string name="component_select_title">Vybraných (%1$s)</string>	
     <string name="component_settings_title">Prispôsobiť tému</string>
+    <string name="deleting">Odstraňovanie...</string>
     <string name="description_author">Autor:</string>
     <string name="description_designer">Dizajnér:</string>
     <string name="description_download">Stiahnutia:</string>
@@ -46,7 +47,6 @@
     <string name="mi_wallpaper">Mi-tapeta</string>
     <string name="online_no_network">Sieť je nedostupná</string>
     <string name="online_search_hint">Vyhľadať online informácie</string>
-    <string name="processing">Spracovávanie...</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prehliadač zdrojov</string>
     <string name="resource_apply">Použiť</string>
@@ -77,6 +77,8 @@
     <string name="resource_default_name">Zdroj</string>
     <string name="resource_delete_all">Ste si istý, že chcete vymazať %1$d zdrojov?</string>
     <string name="resource_delete_confirm">Ste si istý, že chcete vymazať zdroje?</string>
+    <string name="resource_delta_update_failed">Aktualizovanie rozdielov zlyhalo, stiahne sa celý balík</string>
+    <string name="resource_delta_update_successful">Aktualizovanie rozdielov dokončené，ušetrilo sa %1$s.</string>
     <string name="resource_detail">Podrobnosti</string>
     <string name="resource_download">Stiahnuť</string>
     <string name="resource_downloaded_title">Stiahnuť zdroje</string>
@@ -86,6 +88,7 @@
     <string name="resource_get_auth_exceed_max_limit_title">Autorizácia presiahla limit</string>
     <string name="resource_get_auth_missing">Táto téma nie je stiahnutá z oficiálneho obchodu.</string>
     <string name="resource_get_auth_retrieving">Získavanie autorizácie...</string>
+    <string name="resource_import_successful">Sťahovanie dokončené</string>
     <string name="resource_importing">Importovanie</string>
     <string name="resource_list_title">Posledné zvolené</string>
     <string name="resource_local">Lokálne %1$s</string>

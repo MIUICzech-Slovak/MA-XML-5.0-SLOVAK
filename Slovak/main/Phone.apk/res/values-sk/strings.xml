@@ -386,6 +386,8 @@
     <string name="empty_alert">%s musí byť vyplnené</string>
     <string name="empty_networks_list">Žiadna sieť nebola nájdená.</string>
     <string name="enable">Povoliť</string>
+    <string name="enable_antispam_strange_summary">>Stíšiť prvý hovor z neznámeho čísla</string>
+    <string name="enable_antispam_strange_title">Antispam hovorov</string>
     <string name="enable_disable_administrative">Administratívne</string>
     <string name="enable_disable_advertisements">Reklamy</string>
     <string name="enable_disable_atr">Dopravné správy</string>
@@ -717,6 +719,7 @@
     <string name="phone_entered_ecm_text">Bol aktivovaný režim núdzového spätného hovoru</string>
     <string name="phone_in_ecm_call_notification_text">Dátové spojenie zakázané</string>
     <string name="phone_in_ecm_notification_title">Režim núdzového spätného hovoru</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_numbers">Vložte čísla telefónu</string>
     <string name="pick_outgoing_call_phone_type">Uskutočniť hovor</string>
     <string name="pick_outgoing_sip_phone">Účet hovoru cez internet:</string>
@@ -769,12 +772,12 @@
     <string name="preferred_network_type_3g_only_warning_miui">"Vybrali ste možnosť Len 3G! pokiaľ vaša karta SIM nepodporuje 3G, nebudete mať signál! Potvrďte kliknutím na OK."</string>
     <string name="preferred_network_type_cdma_miui">CDMA</string>
     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferovaná</string>
     <string name="preferred_network_type_pref_entries_auto_miui">Automaticky</string>
     <string name="preferred_network_type_pref_entries_global_miui">Globálne</string>
     <string name="preferred_network_type_pref_entries_only_2g_miui">Len 2G (šetrí batériu)</string>
     <string name="preferred_network_type_pref_entries_only_3g_miui">Len 3G</string>
+    <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title_miui">Voľba typu siete</string>
     <string name="primary_account_summary_with">Primárny účet. %s</string>
     <string name="private_num">Súkromné číslo</string>

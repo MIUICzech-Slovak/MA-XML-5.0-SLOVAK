@@ -213,6 +213,7 @@
     <string name="delete_sim_entries_finish">Vymazanie kontaktov na SIM karte dokončené</string>
     <string name="delete_sim_entry_miui">Vymazať</string>
     <string name="delete_unknown_contact_calllog_title">Potvrdiť vymazanie volaní na neznáme čísla?</string>
+    <string name="deleting">Odstraňovanie...</string>
     <string name="deleting_sim_entry_miui">Mazanie kontaktov na SIM karte...</string>
     <string name="description_add_contact">Pridať kontakt</string>
     <string name="description_author">Autor:</string>
@@ -237,8 +238,8 @@
     <string name="description_image_button_one">jedna</string>
     <string name="description_image_button_pound">libra</string>
     <string name="description_image_button_seven">sedem</string>
-    <string name="description_image_button_six">šesť</string>
-    <string name="description_image_button_star">hviezdička</string>    
+    <string name="description_image_button_six">šesť</string>    
+    <string name="description_image_button_star">hviezdička</string>
     <string name="description_image_button_three">tri</string>
     <string name="description_image_button_two">dva</string>
     <string name="description_image_button_zero">nula</string>
@@ -314,6 +315,8 @@
     <string name="display_sim_contacts">Zobraziť kontakty zo SIM karty</string>
     <string name="display_ungrouped">Všetky ďalšie kontakty</string>
     <string name="display_warn_remove_ungrouped">"Odstránenie \"%s\" zo synchronizácie zároveň odstráni všetky nezoskupené kontakty."</string>
+    <string name="dlg_add_blacklist">Ste si istý, že chcete pridať toto číslo do čiernej listiny?</string>
+    <string name="dlg_remove_blacklist">Ste si istý, že chcete odstrániť toto číslo z čiernej listiny?</string>
     <string name="download_failed">Sťahovanie zlyhalo</string>
     <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
     <string name="duplicate_group_name">Táto skupina už existuje</string>
@@ -355,10 +358,10 @@ Chyba: \"%s\""</string>
     <string name="fail_reason_error_occurred_during_export">Pri exporte došlo k chybe: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">"Nie je možné načítať vizitku."</string>
     <string name="fail_reason_failed_to_read_files">"Jeden alebo viac súborov nebolo možné importovať (%s)."</string>
-    <string name="fail_reason_io_error">Chyba I/O</string>
+    <string name="fail_reason_io_error">Chyba I/O</string>    
     <string name="fail_reason_low_memory_during_import">Nedostatok pamäti ( súbor je pravdepodobne príliš veľký )</string>
     <string name="fail_reason_no_exportable_contact">Nemožno exportovať žiadny kontakt</string>
-    <string name="fail_reason_not_supported">Formát súboru nie je podporovaný.</string>    
+    <string name="fail_reason_not_supported">Formát súboru nie je podporovaný.</string>
     <string name="fail_reason_too_long_filename">Požadovaný názov súboru („%s”) je príliš dlhý</string>
     <string name="fail_reason_too_many_vcard">Na karte SD je príliš veľa súborov vCard</string>
     <string name="fail_reason_unknown">Neznáma chyba</string>
@@ -448,10 +451,10 @@ Chyba: \"%s\""</string>
     <string name="label_custom_type">Vlastné</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Gratulujem! Nemáte žiadne duplicitné kontakty</string>
-    <string name="label_notes">Poznámky</string>
+    <string name="label_notes">Poznámky</string>   
     <string name="label_sip_address">Internetový telefón (SIP)</string>
     <string name="launcherDialer">Telefón</string>
-    <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>   
+    <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>
     <string name="listFoundAllContactsZero">Nenájdené</string>
     <string name="listSingleContact">Jediný kontakt</string>
     <string name="listTotalAllContactsZero">Žiadne kontakty.</string>
@@ -549,11 +552,11 @@ Chyba: \"%s\""</string>
     <string name="name_phonetic_middle">Prostredné meno foneticky</string>
     <string name="name_prefix">Pred menom</string>
     <string name="name_suffix">Za menom</string>
-    <string name="next">Ďalej</string>
-    <string name="next_birthday">Ďalšie narodeniny: %s</string>
+     <string name="next">Ďalej</string>
+     <string name="next_birthday">Ďalšie narodeniny: %s</string>
     <string name="nfc_vcard_file_name">Kontakt získaný cez NFC</string>
-     <string name="nicknameLabelsGroup">Meno kontaktu</string>
-     <string name="nickname_editor_title">Upraviť prezývku</string>
+    <string name="nicknameLabelsGroup">Meno kontaktu</string>
+    <string name="nickname_editor_title">Upraviť prezývku</string>
     <string name="nickname_picker_name_column">Meno kontaktu</string>
     <string name="nickname_picker_nickname_column">Titul</string>
     <string name="noAccounts">Aby bolo možné vytvoriť skupiny, musí byť vytvorený účet</string>
@@ -584,7 +587,7 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
-"</string>
+"</string>    
     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiaden kontakt na zobrazenie. (Ak ste práve pridali Váš účet, môže to chvíľu trvať kým sa všetko zosynchronizuje.)"</string>
     <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
 
@@ -609,7 +612,7 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
-"</string>    
+"</string>
     <string name="noContactsWithPhoneNumbers">Žiadne kontakty s telefónnym číslom.</string>
     <string name="noFavoritesHelpText">"Nemáte žiadne obľúbené kontakty. 
 
@@ -683,18 +686,18 @@ Synchronizujte ich teraz."</string>
     <string name="picker_contact_title">Vyberte kontakt</string>
     <string name="picker_email_title">Vyberte email</string>
     <string name="picker_favorites_list_empty">Žiadne obľúbené</string>
-    <string name="picker_groups_list_empty">Žiadne skupiny</string>
+    <string name="picker_groups_list_empty">Žiadne skupiny</string> 
     <string name="picker_join_title">Zvoľte kontakt na prepojenie s %s</string>
     <string name="picker_number_title">Vyberte číslo</string>
-    <string name="picker_postal_title">Vyberte poštu</string> 
+    <string name="picker_postal_title">Vyberte poštu</string>
     <string name="picker_recent_list_empty">Žiadne posledné kontakty</string>
     <string name="pkgLabel">Kontakty a Volanie</string>
     <string name="postalLabelsGroup">Adresa</string>
     <string name="postal_address">Adresa</string>
-    <string name="postal_city">Mesto</string>
+    <string name="postal_city">Mesto</string>   
     <string name="postal_country">Krajina</string>
     <string name="postal_neighborhood">Štvrť</string>
-    <string name="postal_pobox">PO BOX</string>   
+    <string name="postal_pobox">PO BOX</string>
     <string name="postal_postcode">PSČ</string>
     <string name="postal_region">Štát</string>
     <string name="postal_street">Ulica</string>
@@ -747,7 +750,6 @@ Synchronizujte ich teraz."</string>
     <string name="preview_contact_card_title">Importovať vizitku</string>
     <string name="previous">predcházajúci</string>
     <string name="private_num">Súkromné číslo</string>
-    <string name="processing">Spracovávanie...</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
     <string name="profile_name">Môj profil</string>
     <string name="profile_name_photo">Ja</string>
@@ -780,6 +782,7 @@ Synchronizujte ich teraz."</string>
     <string name="remind_btn_ignore">Ignorovať</string>
     <string name="remind_btn_sync_now">Synchronizovať teraz</string>
     <string name="removePhoto">Odstrániť fotku</string>
+    <string name="remove_blacklist">Odstrániť z čiernej listiny</string>
     <string name="remove_duplicate">"MIUI Vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
     <string name="resource_alarm_default">Budík</string>
     <string name="resource_app_name">Prehliadač zdrojov</string>
@@ -790,6 +793,8 @@ Synchronizujte ich teraz."</string>
     <string name="resource_default_name">Zdroj</string>
     <string name="resource_delete_all">Ste si istý, že chcete vymazať %1$d zdrojov?</string>
     <string name="resource_delete_confirm">Ste si istý, že chcete vymazať zdroje?</string>
+    <string name="resource_delta_update_failed">Aktualizovanie rozdielov zlyhalo, stiahne sa celý balík</string>
+    <string name="resource_delta_update_successful">Aktualizovanie rozdielov dokončené，ušetrilo sa %1$s.</string>
     <string name="resource_detail">Podrobnosti</string>
     <string name="resource_download">Stiahnuť</string>
     <string name="resource_downloaded_title">Stiahnuť zdroje</string>
@@ -799,6 +804,7 @@ Synchronizujte ich teraz."</string>
     <string name="resource_get_auth_exceed_max_limit_title">Autorizácia presiahla limit</string>
     <string name="resource_get_auth_missing">Táto téma nie je stiahnutá z oficiálneho obchodu.</string>
     <string name="resource_get_auth_retrieving">Získavanie autorizácie...</string>
+    <string name="resource_import_successful">Sťahovanie dokončené.</string>
     <string name="resource_importing">Importovanie</string>
     <string name="resource_list_title">Posledné zvolené</string>
     <string name="resource_local">Lokálna</string>

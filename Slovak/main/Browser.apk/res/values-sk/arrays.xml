@@ -58,4 +58,13 @@
         <item>Len na Wi-Fi</item>
         <item>Vždy</item>
     </string-array>
+    <string-array name="menu_theme_setting">
+        <item>Biela</item>
+        <item>Žltá</item>
+        <item>Šedá</item>
+        <item>Hnedá</item>
+        <item>Zelená</item>
+        <item>Modrá</item>
+        <item>Tmavá</item>
+    </string-array>
 </resources>

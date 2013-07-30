@@ -83,6 +83,9 @@
     <string name="lockscreen_access_pattern_detected">Vzor kompletný</string>
     <string name="lockscreen_access_pattern_start">Vzor začatý</string>
     <string name="lockscreen_emergency_call">Núdzové volanie</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Zadali ste %d krát nesprávne Vaše heslo. Ostáva %d nesprávnych pokusov. Potom budete vyzvaný pre odblokovanie telefónu zadaním Vášho Xiaomi účtu.
+
+ Skúste to opäť o %d sekúnd."</string>
     <string name="lockscreen_forgot_pattern_button_text">Zabudli ste vzor?</string>
     <string name="lockscreen_pattern_instructions">Nakreslite vzor pre odomknutie</string>
     <string name="lockscreen_pattern_wrong">Skúste to opäť</string>
