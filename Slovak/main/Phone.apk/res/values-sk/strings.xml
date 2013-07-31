@@ -386,7 +386,7 @@
     <string name="empty_alert">%s musí byť vyplnené</string>
     <string name="empty_networks_list">Žiadna sieť nebola nájdená.</string>
     <string name="enable">Povoliť</string>
-    <string name="enable_antispam_strange_summary">>Stíšiť prvý hovor z neznámeho čísla</string>
+    <string name="enable_antispam_strange_summary">Stíšiť prvý hovor z neznámeho čísla</string>
     <string name="enable_antispam_strange_title">Antispam hovorov</string>
     <string name="enable_disable_administrative">Administratívne</string>
     <string name="enable_disable_advertisements">Reklamy</string>
