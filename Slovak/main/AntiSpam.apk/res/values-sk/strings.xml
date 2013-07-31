@@ -77,7 +77,7 @@
     <string name="qm_vip_call_button_title">Povoliť hovory z VIP</string>
     <string name="qm_vip_call_setting_title">Nastavenia VIP hovorov</string>
     <string name="qm_vip_call_summary_contact">Všetky kontakty</string>
-    <string name="qm_vip_call_summary_custom">VIP výnimiek: %d</string>
+    <string name="qm_vip_call_summary_custom">VIP výnimky: %d</string>
     <string name="qm_vip_call_summary_none">Nie je nastavené</string>
     <string name="qm_vip_list_contact">Všetky kontakty</string>
     <string name="qm_vip_list_custom">Moje VIP</string>
