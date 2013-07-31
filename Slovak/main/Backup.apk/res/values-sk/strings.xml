@@ -6,7 +6,7 @@
 <string name="already_enable_encrypt">Šifrovanie povolené</string>
 <string name="app_name">Záloha</string>
 <string name="auto_backup">Automatická záloha</string>
-<string name="auto_backup_all_user_apps">Všetky App</string>
+<string name="auto_backup_all_user_apps">Všetky</string>
 <string name="auto_backup_choose">Automatická záloha</string> 
 <string name="auto_backup_choose_empty">Žiadna záloha</string>
 <string name="auto_backup_choose_title">Automatická záloha</string>
@@ -14,12 +14,12 @@
 <string name="auto_backup_only_wifi">Použiť iba Wi-Fi</string>
 <string name="auto_backup_open">Povoliť automatické zálohovanie</string>
 <string name="auto_backup_progress">Prebieha automatická záloha, počkajte prosím...</string>
-<string name="auto_backup_select_user_apps">Vyberte App</string>
-<string name="auto_backup_selected_user_apps">Vybrané App</string>
+<string name="auto_backup_select_user_apps">Vyberte Aplikáciu</string>
+<string name="auto_backup_selected_user_apps">Vybrané</string>
 <string name="auto_backup_setting">Nastavenie auto. zálohy</string>
 <string name="auto_backup_system_data">Systém</string>
 <string name="auto_backup_time">Plán zálohovania</string>
-<string name="auto_backup_user_data">Aplik.</string>
+<string name="auto_backup_user_data">Aplikácie</string>
 <string name="backup">Záloha</string>
 <string name="backup_data">Zálohovať dáta</string>
 <string name="backup_delete">Zmazať:</string>
