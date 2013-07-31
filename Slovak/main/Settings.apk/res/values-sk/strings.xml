@@ -833,7 +833,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="erase_external_storage">Vymazať externú SD kartu</string>	
     <string name="erase_external_storage_description">Vymazať všetky dáta v telefóne, napríklad hudbu a fotografie.</string>
     <string name="erase_internal_storage">Vymazať interné úložisko</string>	
-    <string name="erase_internal_storage_description">Vymazanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>	
+    <string name="erase_internal_storage_description">Formátovanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>	
     <string name="erase_optional">Voliteľné vymazanie</string>	
     <string name="erase_personal_data">Osobné údaje</string>
     <string name="erase_personal_data_description">Vrátane účtov, kontaktov, zoznamu hovorov a iných údajov.</string>
