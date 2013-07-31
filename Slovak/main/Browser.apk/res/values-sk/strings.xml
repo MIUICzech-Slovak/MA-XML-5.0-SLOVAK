@@ -503,7 +503,7 @@
     <string name="send_to_desktop">Na plochu</string>	
     <string name="set_as_homepage">Nastaviť ako domovskú stránku</string>	
     <string name="share_link">Zdieľať odkaz</string>	
-    <string name="share_page">Zdieľať stránku</string>
+    <string name="share_page">Zdieľať</string>
     <string name="shortcut_bookmark">Záložka</string>
     <string name="shortcut_bookmark_title">Vyber záložku</string>
     <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>
