@@ -39,8 +39,8 @@
     <string name="menu_add_into_contact">Pridať do súčasného kontaktu</string>
     <string name="menu_add_new_contact">Nový kontakt</string>
     <string name="menu_add_vip_custom">Pridať VIP</string>
-    <string name="menu_bl_add_contact">Nedávne kontakty</string>
-    <string name="menu_bl_add_manual">Pridať ručne</string>
+    <string name="menu_bl_add_contact">Kontakty</string>
+    <string name="menu_bl_add_manual">Pridať</string>
     <string name="menu_bl_call_log">Skontrolovať blokované hovory</string>
     <string name="menu_bl_clear">Vymazať čiernu listinu</string>
     <string name="menu_bl_remove">Odobrať z čiernej listiny</string>
