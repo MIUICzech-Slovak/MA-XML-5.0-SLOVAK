@@ -10,7 +10,7 @@
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Vždy zapnuté</item>
-        <item>Spýtať sa</item>
+        <item>Opýtať sa</item>
 	<item>Vždy vypnuté</item>
     </string-array>
     <string-array name="pref_homepage_choices">
