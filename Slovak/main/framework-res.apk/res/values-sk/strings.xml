@@ -724,10 +724,13 @@
     <string name="keyguard_password_enter_puk_code">Zadajte kód PUK a nový kód PIN</string>
     <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
     <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Dotknutím zadajte heslo</font></string>
+    <string name="keyguard_password_entry_touch_hint">" "<font size="17">Dotknutím zadajte heslo</font>" "</string>
     <string name="keyguard_password_enter_password_code">Zadajte heslo na odomknutie</string>
     <string name="keyguard_password_enter_pin_password_code">Zadajte kód PIN na odomknutie</string>
     <string name="keyguard_password_wrong_pin_code">Nesprávny kód PIN.</string>
+    <string name="keyguard_password_wrong_puk_code">Nesprávny kód PUK!</string>
+    <string name="keyguard_password_pin_failed">PIN operation failed!</string>
+    <string name="keyguard_password_puk_failed">PUK operation failed!</string>
     <string name="keyguard_label_text">Ak chcete telefón odomknúť, stlačte Menu a následne 0.</string>
     <string name="emergency_call_dialog_number_for_display">Číslo tiesňového volania</string>
     <string name="lockscreen_carrier_default">Žiadny signál</string>
@@ -759,6 +762,11 @@ Ak chcete získať inú kartu SIM, kontaktujte svojho operátora."</string>
     <string name="lockscreen_transport_stop_description">Tlačidlo Zastaviť</string>
     <string name="emergency_calls_only">Len tiesňové volania</string>
     <string name="lockscreen_network_locked_message">Sieť je zablokovaná</string>
+	<string name="lockscreen_perso_locked_message">SIM/RUIM is Perso locked</string>
+    <string name="lockscreen_sim_error_message_short">Neplatná karta.</string>
+    <string name="lockscreen_sim_error_message">Karta SIM nie je platná.</string>
+	<string name="lockscreen_sim_pin_blocked">PIN1 Blokovaný! Zadajte PUK1 pre odblokovanie PIN1.</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 Blokovaný! Zadajte PUK1 pre odblokovanie PIN1.</string>
     <string name="lockscreen_sim_puk_locked_message">Karta SIM je uzamknutá pomocou kódu PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Prečítajte si Príručku používateľa alebo kontaktujte podporu zákazníka.</string>
     <string name="lockscreen_sim_locked_message">Karta SIM je uzamknutá.</string>
@@ -809,6 +817,7 @@ Navštívte stránky "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_not_system">Test FACTORY_TEST je možné uskutočniť iba pri balíčkoch nainštalovaných v priečinku /system/app.</string>
     <string name="factorytest_no_action">Nebol nájdený žiadny balíček umožňujúci test FACTORY_TEST.</string>
     <string name="factorytest_reboot">Reštartovať</string>
+	<string name="web_user_agent_target_content">"Mobilný "</string>
     <string name="js_dialog_title">Stránka „%s“ uvádza:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Chcete opustiť túto stránku?
@@ -1011,9 +1020,9 @@ Chcete ju zavrieť?"</string>
     <string name="date_time_done">Hotovo</string>
     <string name="default_permission_group">Predvolené</string>
     <string name="no_permissions">Nevyžadujú sa žiadne oprávnenia.</string>
-    <string name="perms_hide"><b>Skryť</b></string>
-    <string name="perms_show_all"><b>Zobraziť všetky</b></string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">NOVINKA: </font></string>
+    <string name="perms_hide">" "<b>Skryť</b>" "</string>
+    <string name="perms_show_all">" "<b>Zobraziť všetky</b>" "</string>
+    <string name="perms_new_perm_prefix">" "<font size="12" fgcolor="#ff900000">NOVINKA: </font>" "</string>
     <string name="perms_description_app">Poskytuje aplikácia %1$s.</string>
     <string name="usb_storage_activity_title">Veľkokapacitné úložisko USB</string>
     <string name="usb_storage_title">Zariadenie USB pripojené</string>
@@ -1050,7 +1059,7 @@ Chcete ju zavrieť?"</string>
     <string name="select_keyboard_layout_notification_message">Dotykom zvoľte rozloženie klávesnice.</string>
     <string name="fast_scroll_alphabet">" AÁÄBCČDĎDZDŽEÉFGHCHIÍJKLĽMNŇOÓÔPRŔSŠTŤUÚVWXYÝZŽ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style"><u>kandidáti</u></string>
+    <string name="candidates_style">" "<u>kandidáti</u>" "</string>
     <string name="ext_media_checking_notification_title">Príprava uklad. priestoru USB</string>
     <string name="ext_media_checking_notification_message">Kontrola chýb.</string>
     <string name="ext_media_nofs_notification_title">Prázdny ukladací priestor USB</string>
