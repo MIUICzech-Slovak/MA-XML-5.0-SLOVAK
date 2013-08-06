@@ -140,6 +140,7 @@
     <string name="call_ind_services">Call Independent Services</string>
     <string name="call_lost">Hovor bol stratený.</string>
     <string name="call_number">Pre:</string>
+	<string name="call_record_button_label">Nahrávanie %s</string>
     <string name="call_record_notification_message_low_space_miui">Nahrávanie bolo zastavené, nedostatok miesta na karte, stlačte pre zobrazenie %s.</string>
     <string name="call_record_notification_message_miui">Kliknite pre zobrazenie %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Nahrávanie bolo zastavené, SD karta bola odpojená.</string>

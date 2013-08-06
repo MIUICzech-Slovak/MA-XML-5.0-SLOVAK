@@ -110,6 +110,11 @@
     <string name="sign_in_info"/>
     <string name="sign_in_info_rank_more"/>
     <string name="sign_in_info_total_more"/>
+	<string name="sina_share_pendding">Sending...</string>
+    <string name="sina_share_success">Sending successful!</string>
+    <string name="sina_share_fail">Sending failed!</string>
+    <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
+    <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
     <string name="stable_build">Stabilné verzie</string>
     <string name="start_update">Aktualizovať</string>
     <string name="submit">Odoslať</string>
