@@ -13,6 +13,11 @@
     <string name="debug_tool_email_subject">Databáza kalendára pripojená</string>
     <string name="debug_tool_message">Chystáte sa 1) skopírovať databázu kalendára na SD kartu/USB úložisko, ktoré môže čítať každá aplikácia 2) a poslať ju emailom. Nezabudnite databázu vymazať zo zariadenia, hneď ako vám bude doručený email.</string>
     <string name="debug_tool_start_button">Spustiť</string>
+    <string name="holiday_data_no_network">Žiadna sieť, skúste to neskôr</string>
+    <string name="holiday_data_update_failed">Aktualizácia zlyhala, skúste to opäť neskôr.</string>
+    <string name="holiday_data_update_succeed">Aktualizácia dokončená</string>
+    <string name="holiday_data_updating">Aktualizovanie...</string>
+    <string name="holiday_update_summary">Skontrolovať aktualizácie</string>
     <string name="provider_label">Kalendár</string>
     <string name="upgrade_msg">Aktualizácia databázy kalendára.</string>
 </resources>

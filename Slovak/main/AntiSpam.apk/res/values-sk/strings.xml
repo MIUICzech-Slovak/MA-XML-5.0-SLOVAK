@@ -97,7 +97,9 @@
     <string name="st_mute_all">Stíšiť hovory a SMS</string>
     <string name="st_mute_block">Stíšiť hovor a blokovať SMS</string>
     <string name="st_mute_title">Nezvoní a nevibruje</string>
+	<string name="st_other_settings_group">Ostatné</string>
     <string name="st_settings_name">Nastavenia</string>
+	<string name="st_show_block_notification">Zobraziť upozornenia</string>
     <string name="st_sms_group">SMS</string>
     <string name="tab_blacklist">Čierna listina</string>
     <string name="tab_block_log">Blokované</string>
