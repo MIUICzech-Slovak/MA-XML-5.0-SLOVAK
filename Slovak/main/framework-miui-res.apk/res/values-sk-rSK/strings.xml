@@ -43,7 +43,7 @@
     <string name="find_device_sim_change_instructions_no_network">"Vaše zariadenie ma zablokovanú SIM, vložte originálnu SIM"</string>
     <string name="find_device_turn_off_flight_mode">Vypnúť režim lietadlo</string>    
     <string name="find_device_turn_off_flight_mode_instructions">"Vaše zariadenie bolo zablokované, vypnite režim lietadlo"</string>
-    <string name="firewall_setting">Firewall</string>
+    <string name="firewall_setting">AntiSpam</string>
     <string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla Späť? \nZapnete v Nastavenia> Systém> HW tlačidlá"</string>
     <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
     <string name="fools_day"/>
