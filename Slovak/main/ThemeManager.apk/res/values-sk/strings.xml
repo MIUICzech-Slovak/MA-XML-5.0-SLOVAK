@@ -187,7 +187,7 @@
     <string name="wallpaper_crop">Orezať</string>
     <string name="wallpaper_decoded_error">Nepodarilo sa dešifrovať!</string>	
     <string name="wallpaper_loading_text">Načítava sa...</string>	
-    <string name="wallpaper_set_as_both">Nastaviť ako oboje</string>	
+    <string name="wallpaper_set_as_both">Plocha a zámok</string>	
     <string name="wallpaper_set_as_destop">Nastaviť ako tapetu</string>	
     <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>	
     <string name="wallpaper_settings">Nastavenie tapety</string>	
