@@ -461,4 +461,9 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Potlačenie hluku (jeden mikrofón)</item>
         <item>Potlačenie hluku (dva mikrofóny)</item>
     </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Silná</item>
+        <item>Stredná</item>
+        <item>Jemná</item>
+    </string-array>
 </resources>

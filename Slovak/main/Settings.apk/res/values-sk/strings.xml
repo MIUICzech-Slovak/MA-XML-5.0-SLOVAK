@@ -2563,4 +2563,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
     <string name="hdmi_color_calibration_none">Native</string>
+    <string name="hdmi_3d_display_enable_title">3D Display</string>
+    <string name="hdmi_3d_display_enable_summary">Enable to support 3D game</string>
 </resources>
