@@ -1785,7 +1785,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="show_touches">Zobraziť dotyky</string>	
 	<string name="show_touches_summary">Zobraziť vizuálnu spätnú väzbu pre dotyky</string>
     <string name="show_user_info_on_lockscreen_label">Zobrazovať vlastníka na zamknutej obrazovke</string>
-    <string name="silent_mode_title">Tichý režim</string>
+    <string name="silent_mode_title">Stlmiť všetko</string>
     <string name="sim_absent">Žiadna SIM</string>	
     <string name="sim_bad_pin">Nesprávny PIN</string>	
     <string name="sim_change_failed">"Kód PIN sa nedá zmeniť. Možno ste zadali nesprávny kód PIN."</string>	
