@@ -994,4 +994,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Vymazať dáta</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
+    <string name="close_dial_pad">Zatvoriť číselník</string>
+    <string name="dial">Vytočiť</string>
+    <string name="delete_dial_input">Vymazať</string>
+    <string name="clear_digits">Vymazať telefónne číslo</string>
+    <string name="call_record_setting_miui">Nahrávanie hovoru</string>
 </resources>

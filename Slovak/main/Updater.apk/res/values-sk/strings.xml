@@ -154,4 +154,14 @@
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
     <string name="worst_update">Zlý update</string>
+    <string name="comment_publish">Odoslať</string>
+    <string name="edit_comment_title">Upraviť</string>
+    <string name="edit_comment">Komentovať</string>
+    <string name="edit_text_default">Napíšte svoj komentár</string>
+    <string name="comment_sending">Odosielanie...</string>
+    <string name="comment_upload_failed">Odosielanie zlyhalo</string>
+    <string name="comment_upload_hint">Ďakujeme!</string>
+    <string name="comment_upload_success">Odoslané!</string>
+    <string name="comment_invalid">Zvoľte počet hviezdičiek</string>
+    <string name="comment_upload_not_logined">Najskôr sa prihláste</string>
 </resources>

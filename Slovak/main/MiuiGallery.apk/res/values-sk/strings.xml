@@ -36,7 +36,7 @@
   <string name="auto_create_recent_album_confirm">Po vypnutí tejto funkcie, vymaže galéria údaje obľúbených albumov. Obľúbené albumy nastavené užívateľom to neovplyvní. Alternatívne to môžete nastaviť dlhým klikom na album.</string>
   <string name="auto_create_recent_album_over_ten_times">Automatické vytvorenie obľúbeného albumu(ov), keď je album otvorený viac ako 10 krát</string>
   <string name="autofix">Auto-fix</string>
-  <string name="big_screen_alertdialog_title">Projektor</string>
+  <string name="big_screen_alertdialog_title">Zariadenia</string>
   <string name="bigscrren_slide_exit">Ukončiť prezentáciu</string>
   <string name="browse_category">Prezeranie fotografií</string>
   <string name="by_email">E-mail</string>

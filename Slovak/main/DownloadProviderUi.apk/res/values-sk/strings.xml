@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all_downloads">Všetky sťahovania</string>
+    <string name="app_downloads">Sťahovanie z aplikácie %s</string>
     <string name="app_label">Sťahovanie</string>	
     <string name="button_sort_by_date">Zoradiť podľa dátumu</string>	
     <string name="button_sort_by_size">Zoradiť podľa veľkosti</string>	
@@ -12,13 +14,13 @@
     <string name="delete_downloads_records">Vymazať históriu</string>	
     <string name="delete_the_downloaded_file">Vymazať stiahnuté súbory</string>	
     <string name="deselect_all">Zrušiť výber všetkého</string>	
-    <string name="dialog_cannot_resume">Preberanie bolo prerušené a nie je možné v ňom pokračovať.</string>	
+    <string name="dialog_cannot_resume">Sťahovanie bolo prerušené a nie je možné v ňom pokračovať.</string>	
     <string name="dialog_failed_body">Chcete tento súbor skúsiť znova prevziať neskôr, alebo ho chcete zo zoznamu odstrániť?</string>	
     <string name="dialog_file_already_exists">Nepodarilo sa prevziať. Cieľový súbor už existuje.</string>	
     <string name="dialog_file_missing_body">Prevzatý súbor sa nepodarilo nájsť.</string>	
     <string name="dialog_file_missing_title">Otvorenie súboru zlyhalo</string>
-    <string name="dialog_insufficient_space_on_cache">Preberanie nie je možné dokončiť. V internom úložisku na prevzaté súbory nie je dostatok miesta.</string>	
-    <string name="dialog_insufficient_space_on_external">Preberanie nie je možné dokončiť. V externom úložisku nie je dostatok miesta.</string>	
+    <string name="dialog_insufficient_space_on_cache">Sťahovanie nie je možné dokončiť. V internom úložisku na prevzaté súbory nie je dostatok miesta.</string>	
+    <string name="dialog_insufficient_space_on_external">Sťahovanie nie je možné dokončiť. V externom úložisku nie je dostatok miesta.</string>	
     <string name="dialog_media_not_found">Nepodarilo sa prevziať. Externé médium nie je k dispozícii.</string>	
     <string name="dialog_queued_body">Súbor zatiaľ nie je k dispozícii, pretože je v poradí na budúce prevzatie.</string>	
     <string name="dialog_title_not_available">Nepodarilo sa prevziať</string>	
@@ -49,7 +51,7 @@
     <string name="menu_preferences">Nastavenie</string>	
     <string name="might_lead_to_mobile_charge">"Po zrušení, sa už nezobrazí upozornenie o mobilnom pripojení."</string>
     <string name="missing_title">Neznáme</string>	
-    <string name="no_downloads">Žiadne preberania</string>	
+    <string name="no_downloads">Žiadne sťahovanie</string>	
     <string name="open_download">Otvoriť</string>	
     <string name="pause_download">Pauza</string>	
     <string name="pause_download_when_wifi_disconnected">Sťahovať len cez Wi-Fi</string>

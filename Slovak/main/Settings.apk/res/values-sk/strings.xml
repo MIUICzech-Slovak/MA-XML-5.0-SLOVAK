@@ -156,7 +156,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="app_name_label">Aplikácie</string>	
     <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť na zoznamu nainštalovaných aplikácií.</string>
     <string name="app_not_found_dlg_title"/>	
-    <string name="app_notifications_switch_label">Zobraziť notifikácie</string>
+    <string name="app_notifications_switch_label">Prispôsobiť notifikácie</string>
     <string name="app_process_limit_title">Obmedzenie procesov na pozadí</string>
     <string name="app_special_disable_dlg_text">Ak zakážete vstavanú aplikáciu, ostatné aplikácie nemusia fungovať správne. Vaše údaje sa taktiež odstránia.</string>	
     <string name="app_special_disable_dlg_title">Odstrániť údaje a zakázať aplikáciu?</string>
@@ -1247,6 +1247,7 @@ skúste:
     <string name="no_nearby_wifi">Žiadna wifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte wifi ručne</string>
     <string name="no_running_services">Nič nie je spustené.</string>
     <string name="no_services">Neaktívne</string>
+    <string name="noise_suppression">Potlačenie hluku</string>
     <string name="normal_date_format">Regionálne (%s)</string>
     <string name="not_installed">Nenainštalované</string>
     <string name="notification_pulse_title">Blikať kontrolkou oznámení</string>
@@ -1426,6 +1427,7 @@ skúste:
     <string name="permission_manage_title">%s podrobností práv</string>	
     <string name="permissions_label">Oprávnenia</string>
     <string name="personal_data_section_title">Osobné údaje</string>	
+    <string name="phone_call_noise_suppression">Potlačenie hluku pri hovore</string>
     <string name="phone_info_label">Info o telefóne</string>	
     <string name="phone_language">Jazyk</string>	
     <string name="phone_language_summary"/>	

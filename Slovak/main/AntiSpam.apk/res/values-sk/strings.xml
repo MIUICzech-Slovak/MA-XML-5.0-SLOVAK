@@ -13,7 +13,7 @@
     <string name="dlg_clear_all_call">Ste si istý, že chcete vymazať všetky blokované hovory?</string>
     <string name="dlg_clear_all_ok">Vymazať všetko</string>
     <string name="dlg_clear_all_sms">Ste si istý, že chcete vymazať všetky blokované SMS?</string>
-    <string name="dlg_clear_blacklist">Ste si istý, že chcete vymazať čiernu listinu?</string>
+    <string name="dlg_clear_blacklist">Ste si istý, že chcete vymazať čiernu listinu a obnoviť všetky SMS?</string>
     <string name="dlg_clear_blacklist_ok">Vymazať</string>
     <string name="dlg_clear_current_call">Ste si istý, že chcete vymazať všetky blokované hovory z tohto čísla?</string>
     <string name="dlg_clear_current_ok">Vymazať</string>
@@ -108,6 +108,7 @@
     <string name="tab_title">AntiSpam</string>
     <string name="toast_keyword_blank">Kľúčové slovo je prázdne</string>
     <string name="toast_keyword_exist">Kľúčové slovo: %s už existuje</string>
+    <string name="toast_keyword_invalid">Neplatné slovo</string>
     <string name="twelve_hour_time_format">a h:mm</string>
     <string name="twenty_four_hour_time_format">HH:mm</string>
 </resources>

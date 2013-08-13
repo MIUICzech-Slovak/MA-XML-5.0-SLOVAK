@@ -457,4 +457,8 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>sRGB</item>
         <item>Prirodzené</item>
     </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Potlačenie hluku (jeden mikrofón)</item>
+        <item>Potlačenie hluku (dva mikrofóny)</item>
+    </string-array>
 </resources>
