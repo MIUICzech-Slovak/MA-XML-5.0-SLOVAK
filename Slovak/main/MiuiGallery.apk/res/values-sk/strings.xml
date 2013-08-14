@@ -361,4 +361,16 @@
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
+  <string name="screensaver_category">Šetrič displeja</string>
+  <string name="screensaver_activate_mode">Prezentácia</string>
+  <string name="screensaver_activate_only_charging">Len počas nabíjania</string>
+  <string name="screensaver_path">Album:</string>
+  <string name="screensaver_path_not_set">Nenastavené</string>
+  <string name="set_screensaver_path_title">Prezentácia</string>
+  <string name="set_screensaver_path_message">Fotografie v tomto albume budú zobrazené ako šetrič 5 sekúnd po zhasnutí displeja. Toto upozornenie sa už viackrát nezobrazí.</string>
+  <string name="screensaver_no_data">Žiadne obrázky v albume.</string>
+  <string name="slideshow_time_select_title">Zvoľte čas prezentácie</string>
+  <string name="slideshow_time_title">Čas prezentácie</string>
+  <string name="operation_set_as_screensaver">Nastaviť ako šetrič displeja</string>
+  <string name="operation_unset_as_screensaver">Zrušiť šetrič displeja</string>
 </resources>
