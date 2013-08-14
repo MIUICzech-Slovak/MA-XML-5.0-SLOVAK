@@ -1929,7 +1929,10 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="title_dolby_control">Dolby Digital Plus</string>	
     <string name="title_font_size">Veľkosť písma</string>	
     <string name="total_size">%s Celkom</string>	
-    <string name="total_size_label">Celkom</string>	
+    <string name="total_size_label">Celkom</string>
+    <string name="touch_title">Dotyky</string>
+    <string name="touch_sensitive_title">Režim rukavíc</string>
+    <string name="touch_sensitive_summary">Nastaviť citlivosť na dotyky pre ovládanie telefónu v rukaviciach</string>
     <string name="track_frame_time">Profil vykresľovania GPU</string>	
     <string name="track_frame_time_summary">Merať čas na vykreslenie adb shell dumpsys gfxinfo</string>	
     <string name="trackball_settings">Trackball</string>	
