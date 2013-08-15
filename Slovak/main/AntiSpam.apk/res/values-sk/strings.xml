@@ -70,7 +70,7 @@
     <string name="qm_repeated_call_summary_3min">Druhý hovor z rovnakáho čísla v priebehu 3 minút nebude stíšený</string>
     <string name="qm_repeated_call_summary_none">Blokovať aj opakujúce sa hovory</string>
     <string name="qm_special_call_setting_group">Výnimky</string>
-    <string name="qm_summary">Ak je aktivovaný Tichý režim, prichádzajúce hovory a SMS budú pri zamknutom telefóne stíšené.</string>
+    <string name="qm_summary">Ak je aktivovaný Tichý režim, všetky notifikácie budú pri zamknutom telefóne stíšené.</string>
     <string name="qm_vip_call_button_title">Povoliť hovory z VIP</string>
     <string name="qm_vip_call_setting_title">Nastavenia VIP hovorov</string>
     <string name="qm_vip_call_summary_contact">Všetky kontakty</string>
@@ -94,12 +94,12 @@
     <string name="st_filter_keywords_setting_title">Nastaviť filter slov</string>
     <string name="st_filter_keywords_title">Filtrovať kľúčové slova v SMS</string>
     <string name="st_filter_sms_button">Filtrovať SMS</string>
-    <string name="st_mute_all">Stíšené hovory a SMS</string>
+    <string name="st_mute_all">Všetky notifikácie stíšené</string>
     <string name="st_mute_block">Stíšené hovory a blokované SMS</string>
     <string name="st_mute_title">Nezvoní a nevibruje</string>
-	<string name="st_other_settings_group">Ostatné</string>
+    <string name="st_other_settings_group">Ostatné</string>
     <string name="st_settings_name">Nastavenia</string>
-	<string name="st_show_block_notification">Zobraziť upozornenia</string>
+    <string name="st_show_block_notification">Zobraziť upozornenia</string>
     <string name="st_sms_group">SMS</string>
     <string name="tab_blacklist">Čierna listina</string>
     <string name="tab_block_log">Blokované</string>
