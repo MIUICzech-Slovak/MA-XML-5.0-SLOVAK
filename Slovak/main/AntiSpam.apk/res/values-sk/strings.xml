@@ -70,7 +70,7 @@
     <string name="qm_repeated_call_summary_3min">Druhý hovor z rovnakáho čísla v priebehu 3 minút nebude stíšený</string>
     <string name="qm_repeated_call_summary_none">Blokovať aj opakujúce sa hovory</string>
     <string name="qm_special_call_setting_group">Výnimky</string>
-    <string name="qm_summary">Ak je aktivovaný Tichý režim, všetky notifikácie budú pri zamknutom telefóne stíšené.</string>
+    <string name="qm_summary">Ak je aktivovaný Tichý režim, všetky notifikácie a hovory budú stíšené.</string>
     <string name="qm_vip_call_button_title">Povoliť hovory z VIP</string>
     <string name="qm_vip_call_setting_title">Nastavenia VIP hovorov</string>
     <string name="qm_vip_call_summary_contact">Všetky kontakty</string>
