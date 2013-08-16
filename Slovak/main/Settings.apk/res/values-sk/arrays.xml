@@ -458,8 +458,8 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Prirodzené</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
-        <item>Deaktivovať potlačenie hluku</item>
-        <item>Aktivovať potlačenie hluku</item>
+        <item>Deaktivované potlačenie hluku</item>
+        <item>Aktivované potlačenie hluku</item>
     </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Silná</item>
