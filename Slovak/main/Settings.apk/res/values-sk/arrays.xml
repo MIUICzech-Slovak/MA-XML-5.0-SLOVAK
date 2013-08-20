@@ -306,9 +306,9 @@
         <item>Subscription 2</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Slabé</item>
-        <item>Stredné</item>
         <item>Silné</item>
+        <item>Stredné</item>
+        <item>Slabé</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Grafická</item>
@@ -465,5 +465,10 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Silná</item>
         <item>Stredná</item>
         <item>Jemná</item>
+    </string-array>
+    <string-array name="security_settings_premium_sms_values">
+        <item>Opýtať sa</item>
+        <item>Zakázať</item>
+        <item>Vždy povoliť</item>
     </string-array>
 </resources>

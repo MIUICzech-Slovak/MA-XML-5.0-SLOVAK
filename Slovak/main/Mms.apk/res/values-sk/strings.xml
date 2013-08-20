@@ -2,6 +2,7 @@
 <resources>
   <string name="activity_not_found">Program pre zobrazenie prílohy sa nenašiel</string>
   <string name="activity_not_found_uri">Pre túto akciu sa nenašiel program</string>
+  <string name="add_attachment">Príloha</string>
   <string name="add_bookmark">Obľúbené</string>
   <string name="add_contact">Pridať kontakt</string>
   <string name="add_festival">Sviatok</string>
@@ -28,6 +29,7 @@
   <string name="attach_subject">Predmet</string>
   <string name="attach_take_photo">Odfotiť obrázok</string>
   <string name="attach_video">Videá</string>
+  <string name="back_to_message_list">Zoznam správ</string>
   <string name="batch_delete_confirm_dialog_message">Vymazať %1$s vybrané správy</string>
   <string name="batch_deleting_message_progress_message">Vymazanie označených správ(y)</string>
   <string name="batch_deleting_progress_message">Odstrániť celé vlákno správ</string>
@@ -81,6 +83,7 @@
   <string name="converting_to_picture_message">Prebieha konvertovanie na multimediálnu správu...</string>
   <string name="converting_to_text_message">Prebieha konvertovanie na textovú správu...</string>
   <string name="copy_message_text">Kopírovať text správy</string>
+  <string name="copy_message_text_success">Text skopírovaný</string>
   <string name="copy_to_sdcard">Uložiť prílohu</string>
   <string name="copy_to_sdcard_fail">Uložiť prílohu</string>
   <string name="copy_to_sdcard_success">Príloha bola uložená ako %s</string>
@@ -339,10 +342,12 @@
   <string name="select_link_title">Vybrať akciu</string>
   <string name="select_local_audio">Vybrať zvuk</string>
   <string name="select_local_video">Vybrať video</string>
+  <string name="select_recipient">Príjemca</string>
   <string name="select_top_text">Text hore</string>
   <string name="send">Poslať</string>
   <string name="send_signature_confirm_dialog_message">Nezadali ste žiaden text. Naozaj chcete takto správu odoslať?</string>
   <string name="send_signature_confirm_dialog_title">Poslať podpis</string>
+  <string name="send_sms">Odoslať</string>
   <string name="send_to">"Komu: "</string> 
   <string name="send_to_count">Poslať %1$s správu(y)</string>
   <string name="send_to_index_contact">Posielam %2$s z %1$s..</string>

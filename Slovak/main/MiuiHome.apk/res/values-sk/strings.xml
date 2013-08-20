@@ -78,10 +78,12 @@
     <string name="loading_desktop">Načítavanie launcheru...</string>
     <string name="menu_add">Pridať</string>
     <string name="menu_back_desktop">Späť na plochu</string>
+    <string name="menu_customize">Nastavenia</string>
     <string name="menu_edit">Upraviť widgety</string>
     <string name="menu_exit_scene">Opustiť Free Desktop</string>
     <string name="menu_item_add_item">Pridať na plochu</string>
     <string name="menu_launcher_setting">Nastavenie MIUI launcher</string>
+    <string name="menu_picktheme">Zvoliť tému</string>
     <string name="menu_reset_scene">Obnoviť na predvolenú scénu</string>
     <string name="menu_search">Hľadať</string>
     <string name="menu_settings">Nastavenie</string>
@@ -122,6 +124,7 @@
     <string name="screen_button_disabled_message">Tlačidlá pod displejom sú deaktivované. Môžete ich aktivovať stlačením \"Domov\" a \"Zapínanie\"</string>
     <string name="screen_button_enabled_message">Tlačidlá pod displejom sú aktivované</string>
     <string name="screen_rotation_freeze_message">Rotácia obrazovky je uzamknutá v horizontálnej polohe</string>
+    <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikácií</string>
     <string name="select_frame">Rámček</string>
     <string name="select_photo">Fotka</string>
     <string name="sharedUserId"/>
@@ -147,7 +150,7 @@
     <string name="status_bar_toggle_power_mid">Normálny</string>	
     <string name="status_bar_toggle_power_mode">Výkon</string>
     <string name="status_bar_toggle_privacy_mode">Návštevník</string>	
-	<string name="status_bar_toggle_quiet_mode">Nerušiť</string>
+    <string name="status_bar_toggle_quiet_mode">Nerušiť</string>
     <string name="status_bar_toggle_reboot">Reštart</string>
     <string name="status_bar_toggle_ring">Zvuk</string>
     <string name="status_bar_toggle_ringtone">Tón zvonenia</string>
