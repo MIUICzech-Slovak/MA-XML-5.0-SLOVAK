@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="prefEntries_max_bytes_limit">
-        <item>Neobmedzene</item>
+        <item>100MB</item>
         <item>50MB</item>
         <item>20MB</item>
         <item>10MB</item>
@@ -11,9 +11,10 @@
         <item>500KB</item>
         <item>200KB</item>
         <item>100KB</item>
+        <item>Vždy</item>
     </string-array>
     <string-array name="prefValues_max_bytes_limit">
-        <item>0</item>
+        <item>104857600</item>
         <item>52428800</item>
         <item>20971520</item>
         <item>10485760</item>
@@ -23,5 +24,6 @@
         <item>512000</item>
         <item>204800</item>
         <item>102400</item>
+        <item>0</item>
     </string-array>
 </resources>
