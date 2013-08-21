@@ -5,11 +5,9 @@
     <string name="app_label">Sťahovanie</string>	
     <string name="button_sort_by_date">Zoradiť podľa dátumu</string>	
     <string name="button_sort_by_size">Zoradiť podľa veľkosti</string>	
-    <string name="cancel_download_notice">Zrušiť upozornenie</string>
     <string name="cancel_running_download">Zrušiť</string>	
     <string name="confirm_delete_downloads_message">Vybrané %d stiahnutia budú vymazané</string>	
     <string name="confirm_delete_the_download_item_message">Potvrďte odstránenie</string>	
-    <string name="confirm_disable_download_only_in_wifi_message">Vypnutím funkcie Sťahovať iba pomocou Wi-Fi sa môžu zvýšiť náklady na mobilný internet. Skutočne chcete funkciu vypnúť?</string>	
     <string name="delete_download">Odstrániť</string>	
     <string name="delete_downloads_records">Vymazať históriu</string>	
     <string name="delete_the_downloaded_file">Vymazať stiahnuté súbory</string>	
@@ -25,7 +23,6 @@
     <string name="dialog_queued_body">Súbor zatiaľ nie je k dispozícii, pretože je v poradí na budúce prevzatie.</string>	
     <string name="dialog_title_not_available">Nepodarilo sa prevziať</string>	
     <string name="dialog_title_queued_body">Súbor v poradí</string>	
-    <string name="disable_download_only_in_wifi_title">Vypnúť â€śStiahnuť len cez Wi-Fiâ€ť</string>
     <string name="download_complete">Stiahnuté</string>
     <string name="download_error">Neúspešné</string>
     <string name="download_error_insufficient_space">Nedostatok miesta</string>	
@@ -49,12 +46,10 @@
     <string name="keep_queued_download">Zachovať</string>	
     <string name="menu_enter_edit_mode">Editor</string>	
     <string name="menu_preferences">Nastavenie</string>	
-    <string name="might_lead_to_mobile_charge">"Po zrušení, sa už nezobrazí upozornenie o mobilnom pripojení."</string>
     <string name="missing_title">Neznáme</string>	
     <string name="no_downloads">Žiadne sťahovanie</string>	
     <string name="open_download">Otvoriť</string>	
     <string name="pause_download">Pauza</string>	
-    <string name="pause_download_when_wifi_disconnected">Sťahovať len cez Wi-Fi</string>
     <string name="paused_by_app">Pozastavené aplikáciou</string>	
     <string name="paused_queued_for_wifi">Pozastavené, čakám na Wi-Fi pripojenie</string>	
     <string name="paused_unknown">Pozastavené</string>	
@@ -63,7 +58,8 @@
     <string name="pref_dialog_title_max_bytes_limit">Limit veľkosti súboru</string>	
     <string name="pref_download_settings_title">Využitie dát</string>	
     <string name="pref_summary_enable_max_bytes_popup">"Pri sťahovaní dát pomocou mobilného internetu sa opýtať ak súbor presahuje povolený limit"</string>	
-    <string name="pref_summary_max_bytes_limit_format">Opýtať sa ak je súbor väčší ako %s</string>	
+    <string name="pref_summary_max_bytes_limit_format">Stiahnuť cez Wi-Fi ak je súbor väčší ako %s</string>	
+    <string name="pref_summary_any_bytes_popup">Sťahovať len cez Wi-Fi</string>
     <string name="pref_title_enable_max_bytes_popup">Opýtať sa pri sťahovaní dát</string>	
     <string name="pref_title_max_bytes_limit">Limit veľkosti súboru</string>	
     <string name="prefDefault_max_bytes_limit">1048576</string>	

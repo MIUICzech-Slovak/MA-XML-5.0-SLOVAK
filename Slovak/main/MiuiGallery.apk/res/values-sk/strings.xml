@@ -180,7 +180,7 @@
   <string name="kick_sharer">Odstrániť zdieľaných</string>
   <string name="kick_sharer_failed">Odstránenie zo zdieľaných zlyhalo</string>
   <string name="kick_sharer_successfully">Úspešne odstránené zo zdieľaných</string>
-  <string name="landscape_mode">Povoliť režim na šírku</string>
+  <string name="photo_page_always_rotate">Automaticky otočiť</string>
   <string name="loading">Nahrávam...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
