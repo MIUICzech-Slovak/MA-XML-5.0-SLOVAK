@@ -714,7 +714,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dirac_mode_earbuds">Špunty</string>
     <string name="dirac_mode_in_ear">Slúchadlá</string>
     <string name="dirac_mode_off">Dirac Vypnutý</string>
-    <string name="dirac_mode_piston_100">Xiaomi slúchadla</string>
+    <string name="dirac_mode_piston_100">Xiaomi slúchadlá</string>
     <string name="disableNetwork">Vypnúť sieť</string>	
     <string name="disable_overlays">Vypnúť HW prekrývanie</string>	
     <string name="disable_overlays_summary">Vždy použiť GPU pre zobrazovanie</string>	
