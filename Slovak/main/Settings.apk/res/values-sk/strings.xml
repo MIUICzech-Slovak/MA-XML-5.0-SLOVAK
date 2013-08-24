@@ -1907,6 +1907,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, nech ste kdekoľvek."</string>	
     <string name="sync_settings">Účty a synchronizácia</string>	
     <string name="sync_wifi_label">Nastavenie Wi-Fi synch.</string>	
+    <string name="sync_wifi_only">Iba na Wi-Fi</string>
     <string name="system">Systém</string>
     <string name="system_package">Aktualizácia systému nie je možné nainštalovať na SD kartu.</string>
     <string name="system_update_settings_list_item_summary"/>	
