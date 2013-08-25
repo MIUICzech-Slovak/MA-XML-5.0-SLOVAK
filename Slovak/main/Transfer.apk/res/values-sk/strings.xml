@@ -13,14 +13,14 @@
     <string name="choose_title">Vyberte súbor</string>
     <string name="connect_confirm">%1$s sa chce pripojiť</string>
     <string name="connecting">Pripojovanie</string>
-    <string name="continue_to_send">Pokračovať v odosielaní</string>
+    <string name="continue_to_send">Ďalší súbor</string>
     <string name="device_default_name">Xiaomi telefón</string>
     <string name="device_name">Názov zariadenia</string>
     <string name="device_name_tip">Choďte do Nastavenia - Info o telefóne a upravte názov zariadenia.</string>
     <string name="editmode_menu_delete">Vymazať</string>
     <string name="editmode_menu_share">Zdieľať</string>
     <string name="error_bad_file">Chybný súbor</string>
-	<string name="error_connect_service">Nie je možné sa pripojiť k službe prenosu</string>
+    <string name="error_connect_service">Nie je možné sa pripojiť k službe prenosu</string>
     <string name="error_download">Chyba pri sťahovaní</string>
     <string name="error_general">Chyba</string>
     <string name="error_network">Chyba siete</string>
@@ -32,9 +32,9 @@
     <string name="error_upload">Chyba odosielania</string>
     <string name="fail">Chyba</string>
     <string name="failed">Zlyhalo</string>
-    <string name="finish">Dokončené</string>
+    <string name="finish">Dokončiť</string>
     <string name="first_in_tip">Prvé použitie Prenosu súborov</string>
-    <string name="goback">Návrat</string>
+    <string name="goback">Späť</string>
     <string name="guide_label">Návod k Prenosu súborov</string>
     <string name="history">História prenosu súborov</string>
     <string name="history_all">Celá história</string>
@@ -106,7 +106,7 @@
     <string name="shortmessage">Krátka správa</string>
     <string name="summary_step_one">Odosielajte obrázky, hudbu, kontakty a ostatné súbory</string>
     <string name="summary_step_two">Pozvať priateľov na inštalovanie AnyShare</string>
-    <string name="support_tip">Pripojenie je kompatibilné s AnyShare</string>
+    <string name="support_tip">Pripojenie je kompatibilné s aplikáciou AnyShare z Google Play</string>
     <string name="title_step_one">1. Súbory môžu byť prenesené rýchlo a bez použitia mobilných dát</string>
     <string name="title_step_three">3. Nekonečné zdieľanie  s Vašimi priateľmi</string>
     <string name="title_step_two">2. Užívatelia bez MIUI môžu využiť AnyShare na prenos súborov medzi rôznymi systémami</string>
