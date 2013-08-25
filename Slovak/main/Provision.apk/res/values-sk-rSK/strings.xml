@@ -2,7 +2,7 @@
 <resources>
     <string name="continues"><u>Pokračovať</u></string>
     <string name="data_usage_summary">Ak nemáte predplatený mobilný internet, odporúča sa dáta deaktivovať. Inak sa môžu výrazne zvýšiť Vaše poplatky.</string>
-	<string name="default_gprs_sim_name">Vložte \"%s\" predplatené dáta</string>
+    <string name="default_gprs_sim_name">Vložte \"%s\" predplatené dáta</string>
     <string name="input_method">Metóda vstupu</string>	
     <string name="input_method_category">Vybrať predvolenú metódu vstupu</string>
     <string name="next">Ďalší</string>
@@ -17,8 +17,8 @@
     <string name="other_service_permission_manager_summary">Sledovanie aplikácií kvôli bezpečnosti a súkromiu</string>
     <string name="other_service_user_experience">Odoslať spätnú väzbu</string>
     <string name="other_service_user_experience_summary0">"Sme radi, že využívate náš produkt a dúfame, že nám pomôžete ho zlepšovať zaslaním spätnej väzby. Vaša spätná väzba bude zabezpečená prostredníctvom našich "</string>
-    <string name="other_service_user_experience_summary1">Zásady ochrany osobných údajov</string>
-    <string name="setup_complete_info">Systém zaznamená čas začatia používania tohto telefónu ako čas začatia Vašich popredajných služieb</string>
+    <string name="other_service_user_experience_summary1">Zásad ochrany osobných údajov</string>
+    <string name="setup_complete_info">Systém zaznamená čas začiatku používania tohto telefónu ako čas začiatku Vašich popredajných služieb</string>
     <string name="setup_complete_label">Ďakujeme</string>
     <string name="setup_complete_start">Začať používať Váš telefón</string>
     <string name="setup_complete_summary">Nastavenia dokončené! Užite si MIUI!</string>
