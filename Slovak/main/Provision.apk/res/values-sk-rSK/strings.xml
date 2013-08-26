@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="continues"><u>Pokračovať</u></string>
+    <string name="continues">Pokračovať</string>
     <string name="data_usage_summary">Ak nemáte predplatený mobilný internet, odporúča sa dáta deaktivovať. Inak sa môžu výrazne zvýšiť Vaše poplatky.</string>
     <string name="default_gprs_sim_name">Vložte \"%s\" predplatené dáta</string>
     <string name="input_method">Metóda vstupu</string>	
     <string name="input_method_category">Vybrať predvolenú metódu vstupu</string>
-    <string name="next">Ďalší</string>
+    <string name="next">Ďalej</string>
     <string name="other_service_google_location">Služba určovania polohy Google</string>
     <string name="other_service_google_location_use">Poloha a vyhľadávanie Google</string>
     <string name="other_service_google_location_use_help">"Povoliť posielanie anon. údajov polohy spol. Google a umožniť povoleným aplikáciám určiť približnú polohu podľa mobilnej siete a Wi-Fi. Toto nastavenie môžete zmeniť v nastaveniach Polohy a vyhľadávania Google"</string>
@@ -20,11 +20,11 @@
     <string name="other_service_user_experience_summary1">Zásad ochrany osobných údajov</string>
     <string name="setup_complete_info">Systém zaznamená čas začiatku používania tohto telefónu ako čas začiatku Vašich popredajných služieb</string>
     <string name="setup_complete_label">Ďakujeme</string>
-    <string name="setup_complete_start">Začať používať Váš telefón</string>
+    <string name="setup_complete_start">Dokončiť</string>
     <string name="setup_complete_summary">Nastavenia dokončené! Užite si MIUI!</string>
     <string name="shutdown">Vypnúť</string>
-    <string name="sim_card_detection_dialog_message">Vyhľadávanie SIM karty. Čakajte prosím.</string>
-    <string name="sim_card_detection_info">"Bez SIM karty nie je možné nastaviť účet Xiaomi. Potrebujete SIM kartu ak chcete využívať všetky naše služby ako synchronizáciu kontaktov, fotografií, atď."</string>
+    <string name="sim_card_detection_dialog_message">Vyhľadávanie SIM karty...</string>
+    <string name="sim_card_detection_info">"Potrebujete SIM kartu ak chcete využívať všetky naše služby ako synchronizáciu kontaktov, fotografií, atď."</string>
     <string name="sim_card_detection_label">Vyhľadanie SIM karty</string>
     <string name="sim_card_detection_status_absent">SIM karta nenájdená. Vložte SIM kartu a reštartujte telefón alebo pokračujte.</string>
     <string name="traffic_protection_label">Ochrana spotreby mobilných dát</string>
