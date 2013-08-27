@@ -50,7 +50,7 @@
     <string name="no_downloads">Žiadne sťahovanie</string>	
     <string name="open_download">Otvoriť</string>	
     <string name="pause_download">Pauza</string>	
-    <string name="paused_by_app">Pozastavené aplikáciou</string>	
+    <string name="paused_by_app">Pozastavené</string>	
     <string name="paused_queued_for_wifi">Pozastavené, čakám na Wi-Fi pripojenie</string>	
     <string name="paused_unknown">Pozastavené</string>	
     <string name="paused_waiting_for_network">Pozastavené, čakám na pripojenie k sieti</string>	
