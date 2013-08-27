@@ -752,7 +752,6 @@ Synchronizujte ich teraz."</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
     <string name="profile_name">Môj profil</string>
     <string name="profile_name_photo">Ja</string>
-    <string name="progress_notifier_message" formatted="false">Importujem %s/%s: %s</string>
     <string name="quickcontact_missing_app">Aplikácia potrebná na túto akciu nebola nájdená</string>
     <string name="quit_dialog_confirm_title">Chcete ukončiť zlučovanie kontaktov?</string>
     <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, ale nebudú vymazané.</string>

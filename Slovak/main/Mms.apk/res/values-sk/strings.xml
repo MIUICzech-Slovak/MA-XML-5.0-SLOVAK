@@ -62,9 +62,10 @@
   <string name="confirm_dialog_title">Vymazať</string>
   <string name="confirm_export_dialog_description">Odstrániť vybraný súkromný kontakt, konverzácie budú premiestnené do bežných SMS. Chcete pokračovať?</string>
   <string name="confirm_export_dialog_title">Odstrániť súkromný kontakt</string>
-  <string name="confirm_no_block_positive">Neblokovať a obnoviť</string>
+  <string name="confirm_no_block_positive">Neblokovať</string>
   <string name="confirm_no_block_title">Neblokovať toto číslo a obnoviť všetky správy?</string>
   <string name="confirm_rate_limit">Odosielate veľké množstvo MMS správ. Je to v poriadku?</string>
+  <string name="confirm_restore_all_title">Obnoviť všetky správy z tohto čísla?</string>
   <string name="confirm_restore_positive">Obnoviť</string>
   <string name="confirm_restore_title">Obnoviť všetky vybrané správy?</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
@@ -322,6 +323,7 @@
   <string name="replace_image">Nahradiť fotografiu</string>
   <string name="resent_message">Znova odoslať</string>
   <string name="resize_image_error_information">Veľkosť fotografie bola prispôsobená. Napriek tomu je príliš veľká a nemožno ju odoslať.</string>
+  <string name="restore_all_button_msg">Obnoviť všetky správy z tohto čísla</string>
   <string name="restore_blocked_message">Obnoviť správy</string>
   <string name="save">Uložiť</string>
   <string name="save_ringtone">Uložiť ako vyzváňanie</string>
