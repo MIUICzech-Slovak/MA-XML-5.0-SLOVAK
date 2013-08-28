@@ -7,12 +7,11 @@
   <string name="accessibility_camera_flash_closemode">Bez blesku</string>
   <string name="accessibility_camera_flashmode">Vždy s bleskom</string>
   <string name="accessibility_camera_picker">Výber prednej alebo zadnej kamery</string>
-  <string name="accessibility_camera_picker">Prepínanie prednej a zadnej kamery</string>
-  <string name="accessibility_camera_switch_back_state">Prepínanie prednej a zadnej kamery, teraz je aktívna zadná kamera</string>
-  <string name="accessibility_camera_switch_front_state">Prepínanie prednej a zadnej kamery, teraz je aktívna predná kamera</string>
+  <string name="accessibility_camera_switch_back_state">Výber prednej a zadnej kamery, teraz je aktívna zadná kamera</string>
+  <string name="accessibility_camera_switch_front_state">Výber prednej a zadnej kamery, teraz je aktívna predná kamera</string>
   <string name="accessibility_close_more_ptions">zatvoriť nastavenia</string>
-  <string name="accessibility_more_ptions_closed">viac nastavení zatvorené</string>
-  <string name="accessibility_more_ptions_opened">viac nastavení otvorené</string>
+  <string name="accessibility_more_ptions_closed">nastavenia zatvorené</string>
+  <string name="accessibility_more_ptions_opened">nastavenia otvorené</string>
   <string name="accessibility_open_more_ptions">otvoriť viac nastavení</string>
   <string name="accessibility_review_thumbnail">Najnovšie fotografie</string>
   <string name="accessibility_shutter_button">Tlačidlo spúšte</string>
