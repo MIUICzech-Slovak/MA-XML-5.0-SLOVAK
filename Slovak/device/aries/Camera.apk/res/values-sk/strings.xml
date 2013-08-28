@@ -75,7 +75,7 @@
   <string name="error_app_unsupported_hfr_720p">720P podporuje až 90 FPS</string>
   <string name="error_app_unsupported_hfr_codec">Ak je povolené HFR, je možné použiť iba H264 kódek</string>
   <string name="error_app_unsupported_raw_wavelet">Odstránenie šumu nie je možné použiť v režime RAW</string>
-  <string name="error_fail_to_start_audio_capture">Záznam zvuku zlyhal: Mikrofón je zrejme používaný inou aplikáciou.</string>
+  <string name="error_fail_to_start_audio_capture">Záznam zvuku zlyhal.</string>
   <string name="exposure_time">Čas expozície</string>
   <string name="file_size">Veľkosť súboru</string>
   <string name="find_market_qrcode">Vyhľadať QR kód obchodu</string>
@@ -162,7 +162,7 @@
   <string name="pref_camera_coloreffect_entry_none">Žiadny</string>
   <string name="pref_camera_coloreffect_entry_posterize">Poster</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
-  <string name="pref_camera_coloreffect_title">Efekt farieb</string>
+  <string name="pref_camera_coloreffect_title">Filtre</string>
   <string name="pref_camera_contrast_entry_level0">Úroveň 0</string>
   <string name="pref_camera_contrast_entry_level1">Úroveň 1</string>
   <string name="pref_camera_contrast_entry_level10">Úroveň 10</string>
@@ -325,7 +325,7 @@
   <string name="pref_camera_zsl_title">ZSL (uzávierka bez omeškania)</string>
   <string name="pref_captrue_mirror_entry_off">Vypnuté</string>
   <string name="pref_captrue_mirror_entry_on">Zapnuté</string>
-  <string name="pref_captrue_mirror_title">Zrkadliť prednú kameru</string>
+  <string name="pref_captrue_mirror_title">Predná kamera</string>
   <string name="pref_exposure_title">Expozícia</string>
   <string name="pref_grp_advanced_settings">Rozšírené Nastavenia</string>
   <string name="pref_grp_capture_settings">Nastavenia Záznamu</string>
@@ -444,4 +444,22 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="accessibility_camera_switch_front_state">Prepínanie prednej a zadnej kamery, teraz je aktívna predná kamera</string>
+  <string name="accessibility_camera_switch_back_state">Prepínanie prednej a zadnej kamery, teraz je aktívna zadná kamera</string>
+  <string name="accessibility_switch_to_front_view">predná kamera</string>
+  <string name="accessibility_switch_to_back_view">zadná kamera</string>
+  <string name="accessibility_camera_picker">Prepínanie prednej a zadnej kamery</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Prepínanie prednej a zadnej kamery, teraz je aktívna</string>
+  <string name="accessibility_camera_flashmode">Vždy s bleskom</string>
+  <string name="accessibility_camera_auto_flashmode">Automatický blesk</string>
+  <string name="accessibility_camera_flash_closemode">Bez blesku</string>
+  <string name="accessibility_open_more_ptions">otvoriť viac nastavení</string>
+  <string name="accessibility_close_more_ptions">zatvoriť nastavenia</string>
+  <string name="accessibility_more_ptions_opened">viac nastavení otvorené</string>
+  <string name="accessibility_more_ptions_closed">viac nastavení zatvorené</string>
+  <string name="accessibility_skin_beautify_opened">Vylepšenie pleti otvorené</string>
+  <string name="accessibility_skin_beautify_closed">Vylepšenie pleti zatvorené</string>
+  <string name="cloud_album_details">Cloud album:</string>
+  <string name="visit_cloud_album">Otvoriť cloud album</string>
+  <string name="find_cloud_album">Nájsť QR kód cloud albumu</string>
 </resources>
