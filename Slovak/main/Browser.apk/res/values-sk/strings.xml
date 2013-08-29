@@ -205,6 +205,7 @@
     <string name="filename_illegal_alert_message">Názov súboru obsahuje nepovolené znaky ktoré boli odstránené.</string>	
     <string name="find_on_page">Nájsť na stránke</string>	
     <string name="folder_name">Názov zložky</string>	
+    <string name="folder_name_too_long">Názov zložky je príliš dlhý</string>
     <string name="forward">Dopredu</string>	
     <string name="geolocation_permissions_prompt_dont_share">Odmietnuť</string>	
     <string name="geolocation_permissions_prompt_message">%s chce zistiť vašu polohu</string>	
