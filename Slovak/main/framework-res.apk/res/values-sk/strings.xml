@@ -738,7 +738,7 @@
     <string name="lockscreen_instructions_when_pattern_enabled">Ak chcete odomknúť telefón alebo uskutočniť tiesňové volanie, stlačte Menu.</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Telefón odomknete stlačením tlačidla Menu.</string>
     <string name="lockscreen_pattern_instructions">Odomknite nakreslením vzoru</string>
-    <string name="lockscreen_emergency_call">Tiesňové volanie</string>
+    <string name="lockscreen_emergency_call">SOS</string>
     <string name="lockscreen_return_to_call">Zavolať späť</string>
     <string name="lockscreen_pattern_correct">Správne!</string>
     <string name="lockscreen_pattern_wrong">Skúsiť znova</string>
