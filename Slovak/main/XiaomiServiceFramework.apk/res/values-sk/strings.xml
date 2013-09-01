@@ -526,9 +526,9 @@ Zadajte Vaše heslo"</string>
     <string name="updated_contacts">Aktualizovaných %s kontaktov</string>
     <string name="user_agreement_p1">"Prihlásením sa, súhlasíte 
 s "</string>
-    <string name="user_agreement_p2">s podmienkami služby Xiaomi</string>
+    <string name="user_agreement_p2">podmienkami služieb Xiaomi</string>
     <string name="user_agreement_p3">" a "</string>
-    <string name="user_agreement_p4">Podmienkami súkromia</string>
+    <string name="user_agreement_p4">podmienkami súkromia</string>
     <string name="user_agreement_p5">"Prihlásením sa, súhlasíte 
 s "</string>
     <string name="value">Hodnota</string>
