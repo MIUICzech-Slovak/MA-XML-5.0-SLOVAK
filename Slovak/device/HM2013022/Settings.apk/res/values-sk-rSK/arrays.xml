@@ -91,13 +91,13 @@
         <item>PIN</item>
     </string-array>
     <string-array name="wifi_ap_max_connection_entries">
-        <item>1 užívateľ</item>
-        <item>2 užívatelia</item>
-        <item>3 užívatelia</item>
-        <item>4 užívatelia</item>
-        <item>5 užívatelia</item>
-        <item>6 užívatelia</item>
-        <item>7 užívatelia</item>
-        <item>8 užívatelia</item>
+        <item>1 pripojený</item>
+        <item>2 pripojení</item>
+        <item>3 pripojení</item>
+        <item>4 pripojení</item>
+        <item>5 pripojení</item>
+        <item>6 pripojení</item>
+        <item>7 pripojení</item>
+        <item>8 pripojení</item>
     </string-array>
 </resources>
