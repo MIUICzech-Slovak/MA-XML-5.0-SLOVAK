@@ -153,6 +153,7 @@
   <string name="importing_progress_private_message">Importovanie správ do súkromnej schránky</string>
   <string name="in_sms">Správa</string>
   <string name="insufficient_drm_rights">Nemáte dostatočné práva DRM.</string>
+  <string name="invalid_conversation">Chybná konverzácia</string>
   <string name="invalid_destination">Zadali ste neplatnú adresu.</string>
   <string name="invalid_recipient_message">Správu nemožno doručiť, opravte zadané údaje príjemcov.</string> 
   <string name="kilobyte">kB</string>
