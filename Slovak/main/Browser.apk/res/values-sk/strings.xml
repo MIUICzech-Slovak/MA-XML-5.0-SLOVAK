@@ -69,7 +69,8 @@
     <string name="back">Späť</string>	
     <string name="block"> Blokovať</string>	
     <string name="bookmark_add_to">Pridať do</string>	
-    <string name="bookmark_cannot_save_url">"Túto URL nemožno uložiť medzi záložky."</string>	
+    <string name="bookmark_cannot_save_url">"Túto URL nemožno uložiť medzi záložky."</string>
+    <string name="bookmark_folder_needs_title">Zložka musí mať názov.</string>	
     <string name="bookmark_list_view">Zoznam</string>	
     <string name="bookmark_needs_title">Záložka musí mať názov.</string>	
     <string name="bookmark_needs_url">Záložka musí mať umiestnenie.</string>	
