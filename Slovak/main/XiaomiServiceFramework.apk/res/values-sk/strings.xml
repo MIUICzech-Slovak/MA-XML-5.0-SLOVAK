@@ -524,6 +524,7 @@ Zadajte Vaše heslo"</string>
     <string name="update_contacts">Aktualizovať kontakty</string>
     <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>
     <string name="updated_contacts">Aktualizovaných %s kontaktov</string>
+    <string name="updated_nothing">Žiadna aktualizácia</string>
     <string name="user_agreement_p1">"Prihlásením sa, súhlasíte 
 s "</string>
     <string name="user_agreement_p2">podmienkami služieb Xiaomi</string>
