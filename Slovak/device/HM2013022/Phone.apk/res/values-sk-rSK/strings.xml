@@ -185,7 +185,7 @@ hovoru aktivované"</string>
     <string name="mt_code_call_retrieved">Hovor obnovený</string>
     <string name="mt_code_cug_call">Uzavretá skupina užívateľov</string>
     <string name="mt_code_deflected_call">Presmerovaný hovor</string>
-    <string name="mt_code_forward_check_received">Prijata správa SS o presmerovaní hovoru</string>
+    <string name="mt_code_forward_check_received">Prijatá správa SS o presmerovaní hovoru</string>
     <string name="mt_code_forwarded_call">Presmerovaný hovor</string>
     <string name="mt_code_forwarded_cf">Hovor presmerovaný</string>
     <string name="mt_code_forwarded_cf_busy">Prebieha iný hovor, hovor je presmerovaný</string>
