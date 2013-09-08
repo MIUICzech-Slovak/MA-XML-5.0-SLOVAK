@@ -32,7 +32,7 @@
     <string name="billboard">Hitparáda</string>
     <string name="buffering">Načítavanie...</string>
     <string name="cancel">Zrušiť</string>
-    <string name="cancel_sleep_mode">Zastavť časovač</string>
+    <string name="cancel_sleep_mode">Zastaviť časovač</string>
     <string name="cancle_warining">Režim spánku zrušený</string>    
     <string name="channel">FM</string>
     <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
