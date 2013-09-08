@@ -183,7 +183,7 @@ Please try again in %d seconds."</string>
     <string name="sim_card_swapped">SIM card swapped.</string>
     <string name="sim_close">SIM card close</string>
     <string name="sim_missing">Žiadna SIM karta</string>
-    <string name="sim_missing_detail">Please check if SIM card is ready</string>
+    <string name="sim_missing_detail">Skontrolujte SIM kartu</string>
     <string name="sim_missing_slot1">Slot 1: Žiadna SIM karta</string>
     <string name="sim_missing_slot2">Slot 2: Žiadna SIM karta</string>
     <string name="sim_permanently_locked">Entering incorrect PUK code more than 10 times,SIM card has been permanently locked.</string>

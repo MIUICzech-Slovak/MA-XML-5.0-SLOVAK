@@ -226,11 +226,11 @@
     <string name="unlockscreen_low_battery">Pripojte nabíjačku</string>
     <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
     <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
-    <string name="user_agreement1">Budete používať systém a služby poskytované spoločnosťou Xiaomi, prosím prečítajte si </string>
-    <string name="user_agreement2">podmienky používania</string>
+    <string name="user_agreement1">Budete používať systém a služby poskytované spoločnosťou Xiaomi, prosím prečítajte si</string>
+    <string name="user_agreement2">" podmienky používania"</string>
     <string name="user_agreement3">" a "</string>
-    <string name="user_agreement4">ochrane osobných údajov</string>
-    <string name="user_agreement5">,Stlačte OK pokiaľ súhlasíte s nasledujúcimi podmienkami, stlačením na Zrušiť akciu ukončíte.</string>
+    <string name="user_agreement4">"ochrane osobných údajov. "</string>
+    <string name="user_agreement5">Stlačte OK pokiaľ súhlasíte s nasledujúcimi podmienkami, stlačením na Zrušiť akciu ukončíte.</string>
     <string name="v5_date_picker_label_day"/>
     <string name="v5_date_picker_label_month"/>
     <string name="v5_date_picker_label_year"/>
