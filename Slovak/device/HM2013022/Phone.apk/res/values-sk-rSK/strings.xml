@@ -402,6 +402,6 @@ unavailable"</string>
     <string name="vt_vocie_answer">Voice answer</string>
     <string name="vt_voice_connecting">Voice call connecting</string>
     <string name="vt_wait_voice">Waiting for voice call connecting</string>
-    <string name="which_call_to_activate">Which call to activate?</string>    
-    <string name="wrong_password">Password error</string>
+    <string name="which_call_to_activate">Ktorý hovor aktivovať?</string>    
+    <string name="wrong_password">Nesprávne heslo</string>
 </resources>
