@@ -83,7 +83,7 @@
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s je systémový album, skutočne vymazať?</string>
   <string name="confirm_delete_videos">%s</string>
-  <string name="contact_photo">Obrázok kontraktu</string>
+  <string name="contact_photo">Obrázok kontaktu</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_copy">Kopírovať</string>
   <string name="context_menu_copy_notice">Skopírované do schránky</string>
