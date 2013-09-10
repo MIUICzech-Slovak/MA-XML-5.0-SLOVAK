@@ -191,4 +191,6 @@
     <string name="wallpaper_set_as_destop">Tapeta plochy</string>	
     <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>	
     <string name="wallpaper_settings">Nastavenie tapety</string>	
+    <string name="maml_component_customization_title">Nastavenia</string>
+    <string name="default_name">Predvolené</string>
 </resources>

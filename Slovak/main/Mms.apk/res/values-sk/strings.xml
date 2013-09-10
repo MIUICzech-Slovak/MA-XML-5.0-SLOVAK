@@ -428,4 +428,8 @@ Pokus: %s."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
+  <string name="file_share_message_description">Zdieľam s Vami súbory</string>
+  <string name="addBlackList">Pridať na čiernu listinu</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Pridať číslo na čiernu listinu?</string>
+  <string name="batch_adding_progress_message">Pridávanie...</string>
 </resources>
