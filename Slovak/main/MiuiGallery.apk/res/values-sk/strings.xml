@@ -10,7 +10,6 @@
   <string name="add_to_cloud_album">Pridať do Cloudu</string>
   <string name="add_to_cloud_exceeded_the_size_message">Súbor je príliš veľký.</string>
   <string name="add_to_cloud_fail_too_many_items">Operáciu nie je možne dokončiť, je zvolených príliš mnoho položiek</string>
-  <string name="add_to_cloud_failed_message_with_count">%s položiek(u) nie je možné pridať do albumov v cloude</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s súborov nie je možné pridať do cloudu: %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Fotografia už existuje v tomto albume.</string>
   <string name="add_to_cloud_file_not_exist_message">Súbor neexistuje.</string>
@@ -25,9 +24,7 @@
   <string name="album_name">Názov albumu</string>
   <string name="album_quota_fulfiled">"Nie je možné vytvoriť album. Počet albumov presiahol limit."</string>
   <string name="album_share_exit_confirm">Ste si istý, že chcete opustiť tento album?</string>
-  <string name="album_share_kicked">Boli ste odobraní z albumu: %1$s</string>
   <string name="album_share_kicked">%1$s je zamknutý.</string>
-  <string name="album_share_stat_content">Pozvánky na Nový album</string>
   <string name="album_share_stat_content">Pozvánky</string>
   <string name="album_share_subtitle_accepting">Prijímanie pozvania od %1$s...</string>
   <string name="album_share_subtitle_denying">Odmietnutie pozvania od %1$s...</string>
@@ -69,8 +66,6 @@
   <string name="camera_folder_display_name">Fotografie</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
   <string name="camera_view_none_message">Tu budú zobrazené Vaše fotografie.</string>
-  <string name="camera_view_none_message">Zhotovte fotografiu alebo video.</string>
-  <string name="can_modified">Povoliť príjemcom pridávať fotografie</string>
   <string name="can_modified">Povoliť užívateľom pridať fotografie</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_hint">Operácia je zrušená</string>
@@ -169,7 +164,6 @@ spoločne!"</string>
   <string name="error_cloud_not_active">Cloud album sa nepoužíva</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
-  <string name="error_repeat_apply">Tento album už je zdieľaný.</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>
   <string name="error_socket_timeout">Chyba siete. Skúste to neskôr.</string>
@@ -229,7 +223,6 @@ spoločne!"</string>
   <string name="initial_cloud_button_text">Začnite používať Cloud album</string>
   <string name="initial_cloud_text">Kedykoľvek a kdekoľvek môžete mať Vaše fotografie vždy pri sebe</string>
   <string name="initializing_cloud">Vytváranie Cloud Albumu...</string>
-  <string name="initializing_cloud">Vytváranie...</string>
   <string name="input_cloudfolder_name">Meno zložky v Cloude</string>
   <string name="internal_camera_folder_display_name">Interné fotografie</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interné screenshoty</string>
@@ -293,10 +286,8 @@ spoločne!"</string>
   <string name="no_storage_disable_cloud_albums">Cloudové albumy sú nedostupné, prosím skúste znovu keď bude externé úložisko dostupné.</string>
   <string name="no_such_item">"Nemôžem nájsť položku."</string>
   <string name="no_thumbnail">Žiaden náhľad</string>
-  <string name="none_picture">V galérií sa nenašli žiadne fotky</string>
   <string name="none_picture">Žiadne obrázky.</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
-  <string name="not_show_hidden_albums">Nezobrazovať skryté albumy</string>
   <string name="not_show_hidden_albums">"Nezobraziť skryté albumy"</string>
   <string name="open">Otvoriť</string>
   <string name="open_public_message">Vytvoriť URL a odoslať ostatným</string>
@@ -420,7 +411,6 @@ spoločne!"</string>
   <string name="show_all">Obrázky a videá</string>
   <string name="show_hidden_album">Zobraziť skryté albumy</string>
   <string name="show_hidden_albums">Zobraziť skryté albumy</string>
-  <string name="show_hidden_albums">Zobraziť skryté albumy</string>
   <string name="show_images_only">Iba obrázky</string>
   <string name="show_on_map">Ukáž na mape</string>
   <string name="show_videos_only">Iba videá</string>
@@ -448,10 +438,8 @@ spoločne!"</string>
   <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string>
   <string name="sync_history_power_on">Synchronizovať fotografie len počas nabíjania.</string>
   <string name="sync_only_in_wifi">Iba cez Wi-Fi</string>
-  <string name="sync_only_in_wifi">Nahrať iba cez Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Deaktivovanie synchronizácie len cez Wi-Fi môže zvýšiť Vaše poplatky za mobilne dáta. Chcete deaktivovať?</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
-  <string name="sync_only_in_wifi_summary">Ak je deaktivované, použije sa mobilný internet na prenos dát.</string>
   <string name="system_album">Systémový album</string>
   <string name="tab_all_text">Všetko</string>
   <string name="tab_lockscreen_text">Tapeta zámku</string>
