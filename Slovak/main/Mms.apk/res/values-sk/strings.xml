@@ -271,7 +271,7 @@
   <string name="pref_summary_notification_body_enabled">Zobraziť správu na zamykacej obrazovke a v notif. lište</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Náhľad správy je v chránenom režime vypnutý</string>
   <string name="pref_summary_off_system_mms_priority">Ostatné Mms aplikácie dostanú správu skôr</string>
-  <string name="pref_summary_on_system_mms_priority">Systémová MMS aplikácia dostane správu ako prvá</string>
+  <string name="pref_summary_on_system_mms_priority">Systémová SMS aplikácia dostane správu ako prvá</string>
   <string name="pref_summary_show_recent_contacts">Zobraziť zoznam častých kontaktov počas písania správy</string>
   <string name="pref_summary_wake_up_screen">Pri obdŕžaní správy rozsvietiť displej</string>
   <string name="pref_system_title">Systém</string>
@@ -290,7 +290,7 @@
   <string name="pref_title_ringtone_repeat">Opakovať upozornenie</string>
   <string name="pref_title_show_recent_contacts">Posledné kontakty</string>
   <string name="pref_title_sms_delete">Limit textových správ</string>
-  <string name="pref_title_system_mms_priority">Systém. MMS aplik. má prioritu</string>
+  <string name="pref_title_system_mms_priority">Systém. SMS aplik. má prioritu</string>
   <string name="pref_title_wake_up_screen">Rozsvietiť displej</string>
   <string name="preferences_title">Nastavenia</string>
   <string name="prepare_send">Pripravené na odoslanie...</string>
