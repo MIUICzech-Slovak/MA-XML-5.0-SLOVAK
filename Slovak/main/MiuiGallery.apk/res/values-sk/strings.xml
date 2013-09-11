@@ -20,7 +20,7 @@
   <string name="add_to_cloud_type_not_support_message">Typ súboru nie je podporovaný.</string>
   <string name="add_to_cloud_unknow_reasons">Neznáma chyba</string>
   <string name="adding_recipients">Pridávanie príjemcov...</string>
-  <string name="album_member">Člen albumu %s</string>
+  <string name="album_member">Osoby %s</string>
   <string name="album_name">Názov albumu</string>
   <string name="album_quota_fulfiled">"Nie je možné vytvoriť album. Počet albumov presiahol limit."</string>
   <string name="album_share_exit_confirm">Ste si istý, že chcete opustiť tento album?</string>
@@ -354,9 +354,9 @@ spoločne!"</string>
   <string name="scan_barcode_guide">Pre zobrazenie QR kódu, stlačte tlačidlo zdieľať v pravom hornom rohu.</string>
   <string name="scan_barcode_to_join">Načítať QR kód pre vstup do albumu.</string>
   <string name="scan_qr_code">Povoliť ostatným oskenovať QR kód pre zobrazenie tohto albumu</string>
-  <string name="scan_qr_code_buttom_text">Načítať QR kód pre zobrazenie tohto albumu.</string>
+  <string name="scan_qr_code_buttom_text">QR kód pre zobrazenie tohto albumu.</string>
   <string name="scan_qr_code_failure">Skenovanie zlyhalo.</string>
-  <string name="scan_qr_code_top_text">Členovia môžu prehliadať a pridávať fotografie.</string>
+  <string name="scan_qr_code_top_text">Môžu prezerať a pridávať fotografie.</string>
   <string name="screensaver_activate_mode">Prezentácia</string>
   <string name="screensaver_activate_only_charging">Len počas nabíjania</string>
   <string name="screensaver_category">Šetrič displeja</string>
@@ -465,7 +465,7 @@ spoločne!"</string>
   <string name="unpublish_succeeded">Album nie je zverejnený.</string>
   <string name="unpublishing">Ruší sa zverejnenie...</string>
   <string name="untagged">Neoznačené</string>
-  <string name="user_alias_self">Moje</string>
+  <string name="user_alias_self">Ja</string>
   <string name="video_err">"Nemožno prehrať video."</string>
   <string name="view_sharers">Zdieľané s</string>
   <string name="vignette">Portrét</string>
