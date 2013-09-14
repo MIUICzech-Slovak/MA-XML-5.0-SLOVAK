@@ -42,7 +42,7 @@
     <string name="Network_Used">Network Used</string>
     <string name="Phone_vibrate_summary">Vibrate devices for incoming calls</string>
     <string name="USER_RESPONSE_TIMEOUT">Waiting verification timeout</string>
-    <string name="WiFiNetwork_on_title">WLAN is Active</string>
+    <string name="WiFiNetwork_on_title">Wi-Fi is Active</string>
     <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) is the system that can improve the startup performance and time-to-first-fix (TTFF) of GPS satellites. 
 \u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
 \u0009 Notice that the data traffic may cause extra fees under network roaming conditions. Please contact with your operators for the details."</string>
@@ -174,7 +174,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
     <string name="data_enabler_summary">Enable data access over Mobile network</string>
     <string name="data_enabler_title">Data enabled</string>
     <string name="data_enabler_waiting_message">Please wait…</string>
-    <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network.
+    <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a Wi-Fi network.
 
 This setting affects all users on this phone."</string>
     <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
@@ -221,7 +221,7 @@ This setting affects all users on this phone."</string>
     <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
     <string name="enable_sim">Enable</string>
     <string name="enable_wifi_display">Enable Wireless display</string>
-    <string name="enable_wifi_tether">Enable WLAN hotspot</string>
+    <string name="enable_wifi_tether">Enable Wi-Fi hotspot</string>
     <string name="epo_about_message">"\u0009EPO (Extended Prediction Orbit) is one of MediaTek's innovative proprietary off-line server based A-GPS technology. 
 \u0009It supports up to 30 days satellite orbit prediction, which can be used to greatly enhance user experience by improving GPS Time To First Fix (TTFF)."</string>
     <string name="epo_about_title">About EPO</string>
@@ -268,7 +268,7 @@ This setting affects all users on this phone."</string>
     <string name="gadget_state_turning_off">turning off</string>
     <string name="gadget_state_turning_on">turning on</string>
     <string name="gadget_sync">Sync</string>
-    <string name="gadget_wifi">WLAN</string>
+    <string name="gadget_wifi">Wi-Fi</string>
     <string name="gemini_3g_disable_warning">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless &amp; networks > Mobile networks.</string>
     <string name="gemini_3g_disable_warning_case0">You must enable data roaming for this SIM first which may incur significant roaming charges! Are you sure to enable data roaming and select this SIM?</string>
     <string name="gemini_3g_disable_warning_case1">3G service is not available with this selected SIM. This may load data slower. You can change the 3G service setting under Settings > Wireless &amp; networks > Mobile networks. Are you sure to select this SIM?</string>
@@ -355,7 +355,7 @@ Are you sure to enable GPS now and wait for GPS provided time?"</string>
     <string name="gps_time_sync_attention_gps_on">"It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.
 
 Are you sure to use GPS provided time?"</string>
-    <string name="gsm_to_wifi_connect_type_title">Cellular->WLAN</string>
+    <string name="gsm_to_wifi_connect_type_title">Cellular->Wi-Fi</string>
     <string name="hdmi_3d_display_enable_summary">Enable to support 3D game</string>
     <string name="hdmi_3d_display_enable_title">3D Display</string>
     <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
@@ -566,7 +566,7 @@ This setting affects all users on this phone."</string>
     <string name="usb_ums_summary">XP recommended. Lets you transfer files between your computer and your Android device.</string>
     <string name="usb_ums_title">USB storage</string>
     <string name="user_account_title">Account for content</string>
-    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi-Fi that affect everyone.
 
 After you create a new user, that person needs to go through a setup process.
 
@@ -649,7 +649,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_channel_width">Channel Width</string>
     <string name="wifi_configured_ap_list">Remembered access point list</string>
     <string name="wifi_connect_ap_summary">Specify network connection type</string>
-    <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
+    <string name="wifi_connect_failed_message">The phone was unable to connect to this Wi-Fi network.</string>
     <string name="wifi_connect_type_title">Auto connect type</string>
     <string name="wifi_disconnect">Disconnect</string>
     <string name="wifi_display_available_devices">Available devices</string>
@@ -664,7 +664,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_display_paired_devices">Paired displays</string>
     <string name="wifi_display_search_for_devices">Search for displays</string>
     <string name="wifi_display_searching_for_devices">Searching…</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is offH</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because Wi-Fi is offH</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">To see devices, turn wireless display on.</string>
     <string name="wifi_display_settings_title">Wireless display</string>
     <string name="wifi_display_status_available">Available</string>
@@ -674,7 +674,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_display_summary_off">Off</string>
     <string name="wifi_display_summary_on">On</string>
     <string name="wifi_dont_skip">"Don't skip"</string>
-    <string name="wifi_failover_gprs_content">WLAN is unavailable, try to connect to mobile network?</string>
+    <string name="wifi_failover_gprs_content">Wi-Fi is unavailable, try to connect to mobile network?</string>
     <string name="wifi_gprs_selector_title">Network selector</string>
     <string name="wifi_hex_password">Hexadecimal password.</string>
     <string name="wifi_ipv4_address">IPv4 address</string>
@@ -690,26 +690,26 @@ Any user can accept updated app permissions on behalf of all other users."</stri
     <string name="wifi_priority_settings_title">AP priority settings</string>
     <string name="wifi_priority_type_summary">Allow to set priority for each access point manually</string>
     <string name="wifi_priority_type_title">Set AP priority manually</string>
-    <string name="wifi_required_info_text">To complete setup, your tablet needs access to WLAN. After setup, you can switch between mobile data and WLAN.</string>
-    <string name="wifi_security_wapi_certificate">WAPI Certificate</string>
+    <string name="wifi_required_info_text">To complete setup, your tablet needs access to Wi-Fi. After setup, you can switch between mobile data and Wi-Fi.</string>
+    <string name="wifi_security_wapi_certificate">WAPI Certifikát</string>
     <string name="wifi_security_wapi_psk">WAPI PSK</string>
-    <string name="wifi_signal_found_msg">Current connection signal is weak, would you like to use another WLAN network?</string>
-    <string name="wifi_skip_anyway">Skip anyway</string>
-    <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
+    <string name="wifi_signal_found_msg">Súčasné pripojenie ma slabý signál, chcete použiť inú Wi-Fi sieť?</string>
+    <string name="wifi_skip_anyway">Preskočiť</string>
+    <string name="wifi_skipped_message">"VAROVANIE: Môže sa zvýšiť spotreba mobilných dát.
 
-Phone setup can require significant network activity."</string>
-    <string name="wifi_suspend_optimizations">WLAN optimization</string>
-    <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
+Nastavenie telefónu môže vyžadovať zvýšené nároky na prenos dát."</string>
+    <string name="wifi_suspend_optimizations">Optimalizácia Wi-Fi</string>
+    <string name="wifi_suspend_optimizations_summary">Znížiť spotrebu energie ak je Wi-Fi aktivovaná</string>
     <string name="wifi_tether_auto_channel_text">Auto</string>
     <string name="wifi_tether_auto_channel_width_text">Auto 20/40 MHz</string>
-    <string name="wifi_tether_auto_disable_title">Keep WLAN hotspot on</string>
+    <string name="wifi_tether_auto_disable_title">Ponechať Wi-Fi hotspot zapnutý</string>
     <string name="wifi_tether_fix_channel_width_text">20 MHz</string>
-    <string name="wifi_tether_setting_title">Basic settings</string>
-    <string name="wifi_tether_starting">Turning hotspot on…</string>
-    <string name="wifi_tether_stopping">Turning off hotspot…</string>
-    <string name="wifi_tether_wps_connect_summary">Selected WLAN protected setup mode to proceed</string>
-    <string name="wifi_tether_wps_connect_title">WPS connect</string>
-    <string name="wifi_tether_wps_pin_error">Invalid PIN</string>
-    <string name="wifi_tethering_title">WLAN hotspot</string>    
-    <string name="wifi_wps_fail_error">WLAN protected setup failed, try again.</string>
+    <string name="wifi_tether_setting_title">Základné nastavenia</string>
+    <string name="wifi_tether_starting">Aktivovanie Wi-Fi hotspot...</string>
+    <string name="wifi_tether_stopping">Deaktivovanie Wi-Fi hotspot...</string>
+    <string name="wifi_tether_wps_connect_summary">Nastavenie pripojenia k chránenej Wi-Fi sieti</string>
+    <string name="wifi_tether_wps_connect_title">WPS pripojenie</string>
+    <string name="wifi_tether_wps_pin_error">Nesprávny PIN</string>
+    <string name="wifi_tethering_title">Wi-Fi hotspot</string>    
+    <string name="wifi_wps_fail_error">Nastavenie chránenej Wi-Fi siete zlyhalo, skúste to opäť.</string>
 </resources>
