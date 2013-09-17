@@ -2572,8 +2572,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="dndm_notification">Režim Nerušiť je povolený.</string>
     <string name="dndm_open">Režim Nerušiť</string>
     <string name="dndm_summary">Ak je aktivovaný tichý režim, všetky notifikácie a hovory budú stíšené okrem výnimiek.</string>
-    <string name="dndm_auto_setting_group">Naplánované</string>
-    <string name="dndm_auto_button_title">Čas</string>
+    <string name="dndm_auto_setting_group">Naplánovať aktiváciu</string>
+    <string name="dndm_auto_button_title">Naplánovať</string>
     <string name="dndm_auto_time_setting">Nastavenie času</string>
     <string name="dndm_auto_time_setting_summary">Od %1$s do %2$s</string>
     <string name="dndm_auto_time_turn_on">Od</string>
@@ -2587,7 +2587,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="dndm_special_call_setting_group">Výnimky</string>
     <string name="dndm_vip_call_setting_title">Nastavenie výnimiek</string>
     <string name="dndm_vip_call_summary_none">Nastavenie</string>
-    <string name="dndm_vip_call_summary_custom">%d výnimiek</string>
+    <string name="dndm_vip_call_summary_custom">Výnimky: %d</string>
     <string name="dndm_vip_call_summary_contact">Všetky kontakty</string>
     <string name="dndm_vip_call_button_title">Povoliť hovory z výnimiek</string>
     <string name="dndm_vip_list_group">Zoznam výnimiek</string>
