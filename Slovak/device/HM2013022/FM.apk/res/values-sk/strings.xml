@@ -66,6 +66,7 @@
     <string name="menu_sleep_cancel">Zrušiť automatické vypnutie rádia</string>
     <string name="menu_stats">FM RF štatistika</string>
     <string name="msg_callactive">FM Tx nie je dostupné pri aktívnom hovore</string>
+    <string name="msg_do_not_support_fm">FM nie je podporované na Vašom zariadení.</string>
     <string name="msg_headsetpluggedin">Odpojte slúchadlá pre používanie FM Tx</string>
     <string name="msg_noantenna_message">Telefón využíva slúchadlá ako anténu pre rádio. Ak chcete počúvať rádio, pripojte slúchadlá.</string>
     <string name="msg_scanning">Vyhľadávanie dostupných staníc</string>
@@ -127,4 +128,18 @@
     <string name="next_station">Nasledujúca</string>
     <string name="reduce_af">Znížiť citlivosť</string>
     <string name="increase_af">Zvýšiť citlivosť</string>
+    <string name="new_frequency">Nová frekvencia</string>
+    <string name="alert_invalid_frequency">Nesprávna frekvencia.</string>
+    <string name="hint_frequency">Frekvencia: %1$s ~ %2$s</string>
+    <string name="hint_label">Názov</string>
+    <string name="frequency_mhz_fomart">%sMHZ</string>
+    <string name="context_menu_title">%sMHZ</string>
+    <string name="context_menu_item_edit">Upraviť</string>
+    <string name="context_menu_item_delete">Vymazať</string>
+    <string name="context_menu_item_favorite">Pridať</string>
+    <string name="context_menu_item_unfavorite">Odobrať</string>
+    <string name="toast_channel_searched">Nájdených %1$d staníc.</string>
+    <string name="label_recording">Nahrávanie: %s</string>
+    <string name="toast_added_to_presets">Pridané</string>
+    <string name="toast_removed_from_presets">Odobrané</string>
 </resources>
