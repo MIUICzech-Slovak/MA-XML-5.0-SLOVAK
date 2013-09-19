@@ -121,7 +121,7 @@
     <string name="toast_fm_seeking">Vyhľadávanie staníc...</string>
     <string name="transmit_msg_string">Vysielam na:</string>
     <string name="type_rd"/>
-	<string name="record_error_file_removed">Nahrávanie bolo zastavené. Nahrávka sa neuložila.</string>
+    <string name="record_error_file_removed">Nahrávanie bolo zastavené. Nahrávka sa neuložila.</string>
     <string name="turn_on_fm">Zapnúť FM</string>
     <string name="turn_off_fm">Vypnúť FM</string>
     <string name="turn_on_speaker_phone">Zapnúť reproduktor</string>
@@ -131,7 +131,7 @@
     <string name="next_station">Nasledujúca</string>
     <string name="reduce_af">Znížiť citlivosť</string>
     <string name="increase_af">Zvýšiť citlivosť</string>
-    <string name="new_frequency">Nová frekvencia</string>
+    <string name="new_frequency">Nová stanica</string>
     <string name="alert_invalid_frequency">Nesprávna frekvencia.</string>
     <string name="hint_frequency">Frekvencia: %1$s ~ %2$s</string>
     <string name="hint_label">Názov</string>
@@ -139,8 +139,8 @@
     <string name="context_menu_title">%sMHZ</string>
     <string name="context_menu_item_edit">Upraviť</string>
     <string name="context_menu_item_delete">Vymazať</string>
-    <string name="context_menu_item_favorite">Pridať</string>
-    <string name="context_menu_item_unfavorite">Odobrať</string>
+    <string name="context_menu_item_favorite">Pridať k obľúbeným</string>
+    <string name="context_menu_item_unfavorite">Odobrať z obľúbených</string>
     <string name="toast_channel_searched">Nájdených %1$d staníc.</string>
     <string name="label_recording">Nahrávanie: %s</string>
     <string name="toast_added_to_presets">Pridané</string>
