@@ -116,6 +116,9 @@
     <string name="toast_edit_station">Úspešne uložené</string>
     <string name="toast_save_station">%s MHz uložené</string>
     <string name="toast_sleep_mode">Rádio sa ukončí o %s</string>
+    <string name="toast_fm_starting">Spúšťa sa FM，čakajte prosím...</string>
+    <string name="toast_fm_stoping">Ukončuje sa FM, čakajte prosím...</string>
+    <string name="toast_fm_seeking">Vyhľadávanie staníc...</string>
     <string name="transmit_msg_string">Vysielam na:</string>
     <string name="type_rd"/>
 	<string name="record_error_file_removed">Nahrávanie bolo zastavené. Nahrávka sa neuložila.</string>
