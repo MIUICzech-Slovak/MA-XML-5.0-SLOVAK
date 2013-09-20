@@ -3,6 +3,7 @@
     <string name="accessibility_add_attendee">Pridať účastníka</string>
     <string name="accessibility_add_reminder">Pridať upozornenie</string>
     <string name="accessibility_all_day">Celodenná udalosť</string>
+    <string name="accessibility_email_notification">Email hostí</string>
     <string name="accessibility_pick_end_date">Dátum konca</string>
     <string name="accessibility_pick_end_time">Čas konca</string>
     <string name="accessibility_pick_start_date">Dátum začiatku</string>
@@ -70,6 +71,7 @@
     <string name="edit_event_to_label">Do</string>
     <string name="edit_label">Upraviť</string>
     <string name="email_guests_label">Hosťovský Email</string>
+    <string name="email_organizer_label">Organizér Emailov</string>
     <string name="email_picker_label">Email z</string>
     <string name="email_subject_prefix">"Re: "</string>
     <string name="empty_event">Prázdna udalosť sa nevytvorila</string>
@@ -80,6 +82,7 @@
     <string name="event_info_reminders_label">Pripomienka</string>
     <string name="event_info_title">Zobraziť udalosť</string>
     <string name="event_info_title_invite">Pozvánka na schôdzku</string>
+    <string name="event_not_found">Udalosť sa nenašla.</string>
     <string name="event_view">Zobraziť udalosť</string>
     <string name="every_weekday">Každý pracovný deň (po–pia)</string>
     <string name="gadget_no_events">Žiadne nadchádzajúce udalosti</string>
