@@ -274,4 +274,24 @@
     <string name="cit_tool_wifi_rx_ap_type_error">Chyba pripojenia, znova vložte nastavenia bss / adhoc</string>
     <string name="cit_tool_wifi_rx_ap_not_null">Názov Wi-Fi siete nemôže byť prázdny</string>
     <string name="cit_tool_wifi_exit">Ukončiť</string>
+    <string name="cit_touch_calib_title">触屏校准</string>
+    <string name="cit_touch_calib_summary">下面的步骤将完成触屏的校准，请在点击确定后不要触碰屏幕，直到校准成功提示出现</string>
+    <string name="cit_touch_calib_pass">触屏校准成功，请正常使用</string>
+    <string name="cit_touch_calib_fail">触屏校准失败，请重新校准</string>
+    <string name="cit_touch_calib_instruction">开始校准</string>
+    <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
+    <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
+    <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
+    <string name="cit_tool_wifi_rxn_test">Rx:N</string>
+    <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+    <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
+    <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
+    <string name="cit_tool_wifi_band_24">band: 2.4G</string>
+    <string name="cit_tool_wifi_band_5">band: 5G</string>
+    <string name="cit_tool_wifi_band_change">下一个</string>
+    <string name="cit_tool_modem">MODEM测试工具</string>
+    <string name="cit_tool_modem_offline_log">打开/关闭Offline Log</string>
+    <string name="cit_tool_modem_pcap_switch">打开/关闭DATA输出</string>
+    <string name="cit_tool_modem_pcm_switch">打开/关闭PCM输出</string>
+    <string name="cit_tool_modem_bugreport">强制MODEM Coredump</string>
 </resources>
