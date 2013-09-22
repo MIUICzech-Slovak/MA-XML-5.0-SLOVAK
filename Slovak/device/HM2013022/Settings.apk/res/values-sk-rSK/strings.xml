@@ -434,14 +434,6 @@ Are you sure to use GPS provided time?"</string>
     <string name="nfc_tag_mode_category">Tag mode</string>
     <string name="not_installed">Not installed</string>
     <string name="ok">OK</string>
-    <string name="oldman_mode_confirm_title">elder mode confirm</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">disable elder mode ?</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">enable elder mode ?</string>
-    <string name="oldman_mode_enabled_name">enable elder mode</string>
-    <string name="oldman_mode_entry_name">elder mode settings</string>
-    <string name="oldman_mode_entry_title">elder mode</string>
-    <string name="oldman_mode_settings_caption">elder mode settings</string>
-    <string name="oldman_mode_summary">enable or disable elder mode, will reboot!</string>
     <string name="outdoor_settings_title">Outdoor</string>
     <string name="outdoor_summary">Loudest ring and vibrate</string>
     <string name="overlay_display_devices_title">Simulate secondary displays</string>

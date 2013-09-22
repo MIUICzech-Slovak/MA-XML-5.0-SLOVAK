@@ -80,11 +80,11 @@
  3. Click on picture list
  4. Click the OK button, this will automatically save the image
  5. Check picture is displayed correctly and then delete"</string>
-    <string name="cit_front_camera_check_summary">"Test steps:
-1. Click camera button to open system camera
-2. Click on camera
-3. Click on the system camera OK button, the system will automatically save the image
-4. Preview the picture, when happy you can delete it."</string>
+    <string name="cit_front_camera_check_summary">"Kroky testovania:
+1. Stlačte tlačidlo fotoaparátu pre otvorenie aplikácie
+2. Stlačte spúšť
+3. Stlačte OK, systém automaticky uloží fotografiu
+4. Zobrazte fotografiu a môžte ju vymazať."</string>
     <string name="cit_camera_sdcard_error">SD karta je plná. Nie je možné uložiť obrázky.</string>
     <string name="cit_gps_check_summary">Tento test zobrazí informácie o GPS</string>
     <string name="cit_fm_check_summary">Tento test skontroluje FM Rádio</string>
@@ -274,11 +274,11 @@
     <string name="cit_tool_wifi_rx_ap_type_error">Chyba pripojenia, znova vložte nastavenia bss / adhoc</string>
     <string name="cit_tool_wifi_rx_ap_not_null">Názov Wi-Fi siete nemôže byť prázdny</string>
     <string name="cit_tool_wifi_exit">Ukončiť</string>
-    <string name="cit_touch_calib_title">触屏校准</string>
-    <string name="cit_touch_calib_summary">下面的步骤将完成触屏的校准，请在点击确定后不要触碰屏幕，直到校准成功提示出现</string>
-    <string name="cit_touch_calib_pass">触屏校准成功，请正常使用</string>
-    <string name="cit_touch_calib_fail">触屏校准失败，请重新校准</string>
-    <string name="cit_touch_calib_instruction">开始校准</string>
+    <string name="cit_touch_calib_title">Kalibrácia dotykov</string>
+    <string name="cit_touch_calib_summary">Nasledujúce kroky dokončia kalibráciu dotykov, stlačte OK, nedotýkajte sa displeja kým sa kalibrácia nedokončí</string>
+    <string name="cit_touch_calib_pass">Kalibrácia je úspešne dokončená</string>
+    <string name="cit_touch_calib_fail">Kalibrácia zlyhala</string>
+    <string name="cit_touch_calib_instruction">Kalibrovať</string>
     <string name="cit_tool_wifi_rxbg_test">Rx:B/G</string>
     <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
     <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
@@ -286,12 +286,12 @@
     <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
     <string name="cit_tool_wifi_rxn_test_mcs">MCS:</string>
     <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
-    <string name="cit_tool_wifi_band_24">band: 2.4G</string>
-    <string name="cit_tool_wifi_band_5">band: 5G</string>
-    <string name="cit_tool_wifi_band_change">下一个</string>
-    <string name="cit_tool_modem">MODEM测试工具</string>
-    <string name="cit_tool_modem_offline_log">打开/关闭Offline Log</string>
-    <string name="cit_tool_modem_pcap_switch">打开/关闭DATA输出</string>
-    <string name="cit_tool_modem_pcm_switch">打开/关闭PCM输出</string>
-    <string name="cit_tool_modem_bugreport">强制MODEM Coredump</string>
+    <string name="cit_tool_wifi_band_24">sieť: 2.4G</string>
+    <string name="cit_tool_wifi_band_5">sieť: 5G</string>
+    <string name="cit_tool_wifi_band_change">Ďalej</string>
+    <string name="cit_tool_modem">MODEM Test</string>
+    <string name="cit_tool_modem_offline_log">Otvoriť/Zatvoriť Offline Log</string>
+    <string name="cit_tool_modem_pcap_switch">Otvoriť/Zatvoriť DATA Export</string>
+    <string name="cit_tool_modem_pcm_switch">Otvoriť/Zatvoriť PCM Export</string>
+    <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
 </resources>
