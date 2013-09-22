@@ -47,22 +47,22 @@
     <string name="cit_version_check_summary">Boli nájdené tieto verzie hardwaru a softwaru</string>
     <string name="cit_proximity_sensor_check_summary">Zakryte senzor priblíženia Vaším prstom, zobrazená informácia je od 0.0 (zakrytý) a zvyšuje sa pri odkrytí senzoru</string>
     <string name="cit_magnetic_sensor_check_summary">Nižšie sú aktuálne hodnoty magnetometra v osiach X, Y, Z.</string>
-    <string name="cit_light_sensor_check_summary">Boli nájdené tieto The following light sensor DAC information was found</string>
-    <string name="cit_gyroscope_sensor_check_summary">Gyroscope Sensor values for X, Y, Z coordinates</string>
-    <string name="cit_pressure_sensor_check_summary">Check Pressure sensor value</string>
-    <string name="cit_leds_check_summary">Test will check backlight, power and flash LEDs</string>
-    <string name="cit_vibrator_check_summary">Test will perform a check on vibration(long and short)</string>
-    <string name="cit_wifi_address_check_summary">Test will display current Wi-Fi state</string>
-    <string name="cit_wifi_ap_scan_check_summary">Test will display a list of all available Wi-Fi access points</string>
-    <string name="cit_blue_tooth_address_check_summary">Test will display the devices current Bluetooth MAC address</string>
-    <string name="cit_blue_tooth_scan_check_summary">Test will display a list of all available Bluetooth devices</string>
-    <string name="cit_accelermeter_sensor_check_summary">The screen will display X, Y, Z three directions of acceleration (Note: When the phone is turned round the values will change based on screen orientation</string>
-    <string name="cit_headset_plug_detect_summary">Test will check headset socket, headset must be inserted before testing</string>
-    <string name="cit_headset_button_check_summary">Test will display the currently selected key from the headset below when pressed</string>
-    <string name="cit_headset_pull_detect_summary">Test will check that the headset is when unplugged successfully</string>
-    <string name="cit_sim_check_summary">Checks the SIM card status details</string>
-    <string name="cit_reset_check_summary">This test performs a system reboot</string>
-    <string name="cit_audio_loopback_check_summary_first">Test will perform loopback test of the main microphone</string>
+    <string name="cit_light_sensor_check_summary">Boli nájdené tieto DAC svetelného senzora</string>
+    <string name="cit_gyroscope_sensor_check_summary">Hodnoty gyroskopu pre X, Y, Z</string>
+    <string name="cit_pressure_sensor_check_summary">Skontrolovať hodnoty tlakového senzoru</string>
+    <string name="cit_leds_check_summary">Test skontroluje podsvietenie, napájanie a LED blesku</string>
+    <string name="cit_vibrator_check_summary">Test skontroluje vibrácie(dlhé a krátke)</string>
+    <string name="cit_wifi_address_check_summary">Test zobrazí informácie o súčasnej Wi-Fi sieti</string>
+    <string name="cit_wifi_ap_scan_check_summary">Test zobrazí zoznam všetkých dostupných Wi-Fi AP</string>
+    <string name="cit_blue_tooth_address_check_summary">Test zobrazí Bluetooth MAC adresu</string>
+    <string name="cit_blue_tooth_scan_check_summary">Test zobrazí zoznam všetkých dostupných Bluetooth zariadení</string>
+    <string name="cit_accelermeter_sensor_check_summary">Zobrazia sa X, Y, Z osy zrýchlenia (Poznámka: Keď je telefón nakláňa, hodnoty sa budú meniť podľa orientácie displeja)</string>
+    <string name="cit_headset_plug_detect_summary">Test skontroluje konektor slúchadiel. Slúchadlá musia byť pripojené</string>
+    <string name="cit_headset_button_check_summary">Test zobrazí stlačené tlačidlo hands-free</string>
+    <string name="cit_headset_pull_detect_summary">Test skontroluje, že hands-free je odpojené</string>
+    <string name="cit_sim_check_summary">Skontroluje stav SIM karty</string>
+    <string name="cit_reset_check_summary">Tento test reštartuje systém</string>
+    <string name="cit_audio_loopback_check_summary_first">Test skontroluje loopback mikrofónu</string>
     <string name="cit_audio_loopback_check_summary_second">Turn the phone over and test the other microphones loopback</string>
     <string name="cit_audio_loopback_summary_dualmic_earpiece">Call test, speak using phone will output via main microphone and voicew will be heard directly from handset.</string>
     <string name="cit_headset_loopback_check_summary">Test will perform headphone and microphone loopback test</string>
@@ -85,10 +85,10 @@
 2. Click on camera
 3. Click on the system camera OK button, the system will automatically save the image
 4. Preview the picture, when happy you can delete it."</string>
-    <string name="cit_camera_sdcard_error">SD card is full. Unable to save pictures</string>
-    <string name="cit_gps_check_summary">This test will display GPS information</string>
-    <string name="cit_fm_check_summary">This test will check FM Radio</string>
-    <string name="cit_power_check_summary">This test shows the amount of power available</string>
+    <string name="cit_camera_sdcard_error">SD karta je plná. Nie je možné uložiť obrázky.</string>
+    <string name="cit_gps_check_summary">Tento test zobrazí informácie o GPS</string>
+    <string name="cit_fm_check_summary">Tento test skontroluje FM Rádio</string>
+    <string name="cit_power_check_summary">Test zobrazí hodnotu dostupnej energie</string>
     <string name="cit_OTG_plugin_check_summary">Tento test zistí zariadenie OTG.</string>
     <string name="cit_OTG_plugout_check_summary">Tento test zistí či je zariadenie OTG pripojené.</string>
     <string name="cit_vibrator_short">Krátke vibrácie</string>
