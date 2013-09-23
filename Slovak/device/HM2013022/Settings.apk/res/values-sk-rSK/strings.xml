@@ -29,38 +29,36 @@
     <string name="MobileNetwork_SIM2_Active">SIM2 je aktívna</string>
     <string name="MobileNetwork_SIM_Active">SIM%1$s je aktívna</string>
     <string name="MobileNetwork_off_Summary">Zapnite mobilne dáta pred použitím A-GPS</string>
-    <string name="MobileNetwork_on_Summary">A-GPS vyžaduje prístup k mobilnym dátam</string>
+    <string name="MobileNetwork_on_Summary">A-GPS vyžaduje prístup k mobilným dátam</string>
     <string name="NI_Request_ClientName">Meno klienta</string>
     <string name="NI_Request_ID">Requestor ID</string>
-    <string name="Network_Initiate">Network Request</string>
-    <string name="Network_Initiate_Summary_off">Deny network to request position</string>
-    <string name="Network_Initiate_Summary_on">Allow network to request position</string>
-    <string name="Network_Local_and_Roaming_Summary">Use A-GPS both under home and roaming network</string>
-    <string name="Network_Only_Local_Summary">Use A-GPS only under home network</string>
-    <string name="Network_Roaming_dialog_content">If the network under roaming condition, A-GPS data traffic may cause extra roaming fees.</string>
-    <string name="Network_Roaming_dialog_title">Attention</string>
-    <string name="Network_Used">Network Used</string>
-    <string name="Phone_vibrate_summary">Vibrate devices for incoming calls</string>
-    <string name="USER_RESPONSE_TIMEOUT">Waiting verification timeout</string>
-    <string name="WiFiNetwork_on_title">Wi-Fi is Active</string>
-    <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) is the system that can improve the startup performance and time-to-first-fix (TTFF) of GPS satellites. 
-\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
-\u0009 Notice that the data traffic may cause extra fees under network roaming conditions. Please contact with your operators for the details."</string>
-    <string name="about_agps_title">About A-GPS</string>
-    <string name="accessibility_feature_state_off">Off</string>
-    <string name="accessibility_feature_state_on">On</string>
-    <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+    <string name="Network_Initiate">Požiadavka siete</string>
+    <string name="Network_Initiate_Summary_off">Nepovoliť sieti získať polohu</string>
+    <string name="Network_Initiate_Summary_on">Povoliť sieti získať polohu</string>
+    <string name="Network_Local_and_Roaming_Summary">Použiť A-GPS v domácej sieti a roamingu</string>
+    <string name="Network_Only_Local_Summary">Použiť A-GPS len v domácej sieti</string>
+    <string name="Network_Roaming_dialog_content">Ak sa nachádzate v roamingu, A-GPS dáta môžu zvýšiť vaše poplatky.</string>
+    <string name="Network_Roaming_dialog_title">Upozornenie</string>
+    <string name="Network_Used">Použitá sieť</string>
+    <string name="Phone_vibrate_summary">Vibrovať pri prichádzajúcom hovore</string>
+    <string name="USER_RESPONSE_TIMEOUT">Čas pre potvrdenie vypršal</string>
+    <string name="WiFiNetwork_on_title">Wi-Fi je zapnutá</string>
+    <string name="about_agps_message">"A-GPS (Assisted-GPS) je systém ktorý zlepšuje prvý nábeh (TTFF) GPS satelitov."</string>
+    <string name="about_agps_title">Čo je A-GPS</string>
+    <string name="accessibility_feature_state_off">Vypnuté</string>
+    <string name="accessibility_feature_state_on">Zapnuté</string>
+    <string name="accessibility_global_gesture_preference_description">"Ak je táto funkcia povolená, môžte rýchlo a jednoducho povoliť jej funkcie v dvoch krokoch:
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Krok 1: Stlačte a podržte tlačidlo zapínania kým nezaznie zvuk a vibrácie.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Krok 2: Dotknite sa a podržte dva prsty kým nezaznie zvukové potvrdenie.
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-    <string name="accessibility_global_gesture_preference_summary_on">On</string>
-    <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-    <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
+Ak má zariadenie viacero užívateľov, použitie tejto skratky na zamykacej obrazovke dočasne povolí prístup."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vypnuté</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Zapnuté</string>
+    <string name="accessibility_global_gesture_preference_title">Skratka dostupnosti</string>
+    <string name="accessibility_long_press_timeout_preference_title">Oneskorenie dotyku a podržania</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Tlačidlo zapínania ukončí hovor</string>
     <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
 
 While zoomed in, you can:
