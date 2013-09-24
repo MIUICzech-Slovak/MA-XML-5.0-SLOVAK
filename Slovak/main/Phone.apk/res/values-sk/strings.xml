@@ -1101,4 +1101,23 @@
     <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
     <string name="xdivert_summary">CFNRc Settings</string>
     <string name="xdivert_title">X-Divert</string>
+    <string name="lable_call_barring">Blokovanie hovorov</string>
+    <string name="lable_all_outgoing">Všetky odchádzajúce hovory</string>
+    <string name="lable_all_outgoing_international">Medzinárodné hovory</string>
+    <string name="lable_all_out_except">Medzinárodné hovory okrem domácich</string>
+    <string name="lable_all_incoming">Všetky prichádzajúce hovory</string>
+    <string name="lable_incoming_calls_except">Prichádzajúce hovory v roamingu</string>
+    <string name="deactivate_all">Zrušiť všetko</string>
+    <string name="change_password">Zmeniť heslo blokovania hovorov</string>
+    <string name="call_barring_sum">Nastavenie blokovania hlasových hovorov</string>
+    <string name="lable_disable">Deaktivované</string>
+    <string name="lable_enable">Aktivované</string>
+    <string name="old_password_label">Staré heslo (4 čísla)</string>
+    <string name="new_password_label">Nové heslo (4 čísla)</string>
+    <string name="invalid_password">Zadajte heslo (4 čísla).</string>
+    <string name="confirm_password_label">Potvrdiť nové heslo</string>
+    <string name="mismatch_password">Heslo ktoré ste zadali sa nezhoduje. Skúste to opäť.</string>
+    <string name="password_changed">Heslo je úspešne zmenené</string>
+    <string name="enter_callbarring_password">Zadajte heslo blokovania hovorov (4 čísla)</string>
+    <string name="wrong_password">Nesprávne heslo</string>
 </resources>

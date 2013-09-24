@@ -21,7 +21,7 @@
     <string name="cold_dews"/>
     <string name="contact_carrier_message">Obráťte sa na Vášho operátora</string>
     <string name="day_of_month">" %d"</string>
-    <string name="days">dni</string>
+    <string name="days">%d dni</string>
     <string name="delete">Vymazať</string>
     <string name="deprecated_alarm_message_12_hour_formate"/>
     <string name="device_xiaomi">Xiaomi telefón</string>
@@ -240,7 +240,7 @@
     <string name="v5_icon_menu_bar_more_item_label">Viac</string>
     <string name="v5_select_all">Označiť všetko</string>
     <string name="v5_time_picker_label_hour">H</string>
-    <string name="v5_time_picker_label_minute">M</string>
+    <string name="v5_time_picker_label_minute">Min</string>
     <string name="valentines_day"/>
     <string name="vernal_equinox"/>
     <string name="volume_alarm">Budík</string>
