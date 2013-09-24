@@ -321,6 +321,7 @@
     <string name="pref_autofill_profile_editor">Vypĺňanie textu</string>	
     <string name="pref_autofill_profile_editor_summary">Nastaviť automatické vypĺňanie textu vo formulároch</string>	
     <string name="pref_autologin_progress">Prihlasovanie na stránky Google cez %s</string>	
+    <string name="pref_autologin_progress_in_background">Prihlasovanie na Google pomocou %s na pozadí</string>
     <string name="pref_autologin_title">Automatické prihlásenie do Google</string>	
     <string name="pref_clear_cache_for_exit">Vymazať vyrovnávaciu pamäť</string>	
     <string name="pref_clear_history_for_exit">Vymazať históriu</string>	
@@ -472,6 +473,7 @@
     <string name="progress_dialog_setting_wallpaper">Nastavovanie tapety...</string>	
     <string name="quicklinks_management">Užitočné stránky</string>	
     <string name="readmode_already_add_to_bookshelf">Has joined bookshelf</string>	
+    <string name="readmode_battery">Batéria </string>
     <string name="readmode_login">Prihlásiť</string>
     <string name="readmode_login_message">subsequent chapters need to log in before mobile reading base account View</string>	
     <string name="readmode_page_load_error">Načítavanie stránky zlyhalo. Stlačte tlačidlo obnoviť pre opätovné načitanie stránky.</string>	

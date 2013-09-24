@@ -14,6 +14,7 @@
   <string name="add_to_cloud_file_exist_message">Fotografia už existuje v tomto albume.</string>
   <string name="add_to_cloud_file_not_exist_message">Súbor neexistuje.</string>
   <string name="add_to_cloud_folder">Pridať do Cloud zložky</string>
+  <string name="add_to_cloud_local_space_full_message">Úložisko je plné.</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Cloud album je plný.</string>
   <string name="add_to_cloud_successfully_message">Pridané do cloudu.</string>
@@ -200,6 +201,7 @@ spoločne!"</string>
   <string name="frame_white">Biely</string>
   <string name="gallery_cloud_provider_name">Galéria</string>
   <string name="gallery_setting">Nastavenia</string>
+  <string name="get_album_info_in_process">"Získavanie informácií o zdielanom albume. Čakajte prosím..."</string>
   <string name="global_setting">Nastavenia</string>
   <string name="grain">Filmové zrno</string>
   <string name="grayscale">ČB</string>

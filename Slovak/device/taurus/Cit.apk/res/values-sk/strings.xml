@@ -213,6 +213,7 @@
     <string name="cit_tool_log_dmesg">DMESG</string>
     <string name="cit_tool_log_modem">Záznam Modemu</string>
     <string name="cit_tool_log_kmsg">Posledný záznam Kernelu</string>
+    <string name="cit_tool_log_no_sdcard">Operácia zlyhala, vložte SD kartu.</string>
     <string name="cit_tool_log_bugreport">Záznam o chybe</string>
     <string name="cit_tool_log_toast">Záznam o chybe je uložený do %s</string>
     <string name="cit_tool_log_file_not_exist">%s neexistuje</string>
