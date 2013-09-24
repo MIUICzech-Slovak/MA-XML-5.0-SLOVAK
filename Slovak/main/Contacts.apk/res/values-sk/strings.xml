@@ -77,11 +77,12 @@
     <string name="call_other_fax">Volať fax</string>
     <string name="call_pager">Volať pager</string>
     <string name="call_radio">Volať rádiostanicu</string>
+    <string name="call_record_setting_miui">Nahrávanie hovoru</string>
     <string name="call_settings">Nastavenia</string>
     <string name="call_telex">Volať na číslo Telex</string>
     <string name="call_tty_tdd">Volať na číslo TTY/TDD</string>
-    <string name="call_type_and_date">%1$s %2$s</string>
-    <string name="call_work">Volať do práce</string>    
+    <string name="call_type_and_date">%1$s %2$s</string>    
+    <string name="call_work">Volať do práce</string>
     <string name="call_work_mobile">Volať na pracovný mobil</string>
     <string name="call_work_pager">Volať na pracovný pager</string>
     <string name="calllog_menu_blacklist">Pridať na čiernu listinu</string>
@@ -118,8 +119,8 @@
     <string name="cancel_export_confirmation_message">Skutočne chcete prerušiť export %s?</string>
     <string name="cancel_import_confirmation_message">Skutočne chcete prerušiť import %s?</string>
     <string name="cancel_import_dialog_message">Ste si istý, že chcete zastaviť import kontaktov?</string>
-    <string name="cancel_import_dialog_title">Zastaviť import</string>
-    <string name="cancel_vcard_import_or_export_failed">Rušenie importu/exportu vizitiek zlyhalo</string>  
+    <string name="cancel_import_dialog_title">Zastaviť import</string>  
+    <string name="cancel_vcard_import_or_export_failed">Rušenie importu/exportu vizitiek zlyhalo</string>
     <string name="chat">Chat</string>
     <string name="chat_aim">Chatovat pomocou AIM</string>
     <string name="chat_gtalk">Chatovat pomocou Google Talk</string>
@@ -138,7 +139,9 @@
     <string name="clearFrequentsConfirmation_title">Vymazať zoznam častých kontaktov?</string>
     <string name="clearFrequentsProgress_title">Mazanie zoznamu častých kontaktov...</string>
     <string name="clear_default">Vymazať predvolené</string>
+    <string name="clear_digits">Vymazať telefónne číslo</string>
     <string name="click_close">Kliknite pre zatvorenie</string>
+    <string name="close_dial_pad">Zatvoriť číselník</string>
     <string name="cloud_antispam_mark">Spam</string>
     <string name="cloud_antispam_title">Anti-Spam</string>
     <string name="composer_failed_to_get_database_infomation">Načítanie informácií z databázy sa nepodarilo</string>
@@ -204,6 +207,7 @@
     <string name="deleteConfirmation_title">Vymazať kontakt</string>
     <string name="delete_call_log_title">Vymazať vybrané logy hovorov?</string>
     <string name="delete_contact_calllog_title">Chcete vymazať všetky záznamy o volaní kontaktu?</string>
+    <string name="delete_dial_input">Vymazať</string>
     <string name="delete_duplicate">Zlúčiť</string>
     <string name="delete_duplicate_message">"Zlučujem..."</string>
     <string name="delete_group_dialog_message">"Skutočne chcete odstrániť skupinu \"%1$s\"? (Kontakty v skupine nebudú vymazané.)"</string>
@@ -233,11 +237,11 @@
     <string name="description_image_button_eight">osem</string>
     <string name="description_image_button_five">päť</string>
     <string name="description_image_button_four">štyri</string>
-    <string name="description_image_button_nine">deväť</string>
+    <string name="description_image_button_nine">deväť</string>    
     <string name="description_image_button_one">jedna</string>
     <string name="description_image_button_pound">libra</string>
     <string name="description_image_button_seven">sedem</string>
-    <string name="description_image_button_six">šesť</string>    
+    <string name="description_image_button_six">šesť</string>
     <string name="description_image_button_star">hviezdička</string>
     <string name="description_image_button_three">tri</string>
     <string name="description_image_button_two">dva</string>
@@ -281,6 +285,7 @@
     <string name="device_version_header_bluetooth">Otvorte Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Importovať kontakty so SIM kartou</string>
     <string name="device_version_title">Zvoľte verziu telefónu</string>
+    <string name="dial">Vytočiť</string>
     <string name="dialerDialpadHintText">Vytočte pre pridanie hovoru</string>
     <string name="dialerIconLabel">Posledné</string>
     <string name="dialerKeyboardHintText">Použiť klávesnicu pre vytočenie</string>
@@ -352,12 +357,12 @@ Chyba: \"%s\""</string>
     <string name="exporting_vcard_canceled_title">Export %s bol prerušený</string>
     <string name="exporting_vcard_finished_title">Export %s dokončený</string>
     <string name="external_profile_title">Môj profil %1$s</string>
-    <string name="fail_reason_could_not_initialize_exporter">Nemožno spustiť exportný program: \"%s\".</string>
+    <string name="fail_reason_could_not_initialize_exporter">Nemožno spustiť exportný program: \"%s\".</string>    
     <string name="fail_reason_could_not_open_file">Súbor \"%s\" nemožno otvoriť</string>
     <string name="fail_reason_error_occurred_during_export">Pri exporte došlo k chybe: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">"Nie je možné načítať vizitku."</string>
     <string name="fail_reason_failed_to_read_files">"Jeden alebo viac súborov nebolo možné importovať (%s)."</string>
-    <string name="fail_reason_io_error">Chyba I/O</string>    
+    <string name="fail_reason_io_error">Chyba I/O</string>
     <string name="fail_reason_low_memory_during_import">Nedostatok pamäti ( súbor je pravdepodobne príliš veľký )</string>
     <string name="fail_reason_no_exportable_contact">Nemožno exportovať žiadny kontakt</string>
     <string name="fail_reason_not_supported">Formát súboru nie je podporovaný.</string>
@@ -445,12 +450,12 @@ Chyba: \"%s\""</string>
     <string name="insertContactDescription">Vytvoriť kontakt</string>
     <string name="insertGroupDescription">Vytvoriť skupinu</string>
     <string name="invalidContactMessage">Kontakt neexistuje.</string>
-    <string name="keep_local">Miestny</string>
+    <string name="keep_local">Miestny</string>   
     <string name="keep_local_btn">Uložiť len do telefónu</string>
     <string name="label_custom_type">Vlastné</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Gratulujem! Nemáte žiadne duplicitné kontakty</string>
-    <string name="label_notes">Poznámky</string>   
+    <string name="label_notes">Poznámky</string>
     <string name="label_sip_address">Internetový telefón (SIP)</string>
     <string name="launcherDialer">Telefón</string>
     <string name="listCustomView">Kontakty vo vlastnom zobrazení</string>
@@ -546,20 +551,20 @@ Chyba: \"%s\""</string>
     <string name="name_given">Krstné meno</string>
     <string name="name_middle">Prostredné meno</string>
     <string name="name_phonetic">Meno foneticky</string>
-    <string name="name_phonetic_family">Priezvisko foneticky</string>
-    <string name="name_phonetic_given">Krstné meno foneticky</string>
+     <string name="name_phonetic_family">Priezvisko foneticky</string>
+     <string name="name_phonetic_given">Krstné meno foneticky</string>
     <string name="name_phonetic_middle">Prostredné meno foneticky</string>
     <string name="name_prefix">Pred menom</string>
     <string name="name_suffix">Za menom</string>
-     <string name="next">Ďalej</string>
-     <string name="next_birthday">Ďalšie narodeniny: %s</string>
+    <string name="next">Ďalej</string>
+    <string name="next_birthday">Ďalšie narodeniny: %s</string>
     <string name="nfc_vcard_file_name">Kontakt získaný cez NFC</string>
     <string name="nicknameLabelsGroup">Meno kontaktu</string>
     <string name="nickname_editor_title">Upraviť prezývku</string>
     <string name="nickname_picker_name_column">Meno kontaktu</string>
     <string name="nickname_picker_nickname_column">Titul</string>
     <string name="noAccounts">Aby bolo možné vytvoriť skupiny, musí byť vytvorený účet</string>
-    <string name="noContactHelpTextAccountsInfo">Synchronizujte Google alebo Exchange kontakty.</string>
+    <string name="noContactHelpTextAccountsInfo">Synchronizujte Google alebo Exchange kontakty.</string>    
     <string name="noContactHelpTextImportXiaomiAccountInfo">Obnoví dáta zálohované na účte Xiaomi</string>
     <string name="noContacts">žiadne kontakty</string>
     <string name="noContactsHelpText">"Nemáte žiadne kontakty na zobrazenie.
@@ -586,7 +591,7 @@ Pre pridanie kontaktov, stlačte "<font fgcolor="#ffffffff"><b>Menu</b></font>",
 "</b></font></li>" 
 "<li><font fgcolor="#ffffffff"><b>"Import/Export pre importovanie kontaktov zo SIM alebo SD karty
 "</b></font></li>"
-"</string>    
+"</string>
     <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiaden kontakt na zobrazenie. (Ak ste práve pridali Váš účet, môže to chvíľu trvať kým sa všetko zosynchronizuje.)"</string>
     <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
 
@@ -680,20 +685,20 @@ Synchronizujte ich teraz."</string>
     <string name="pick_recent_contacts_list_title">Celkom z %1$d posledných kontaktov</string>
     <string name="pick_recent_list_title">Celkom %1$d nedávno použitých kontaktov</string>
     <string name="pickerNewContactHeader">Vytvoriť nový kontakt</string>
-    <string name="pickerNewContactText">Vytvoriť nový kontakt</string>
+    <string name="pickerNewContactText">Vytvoriť nový kontakt</string> 
     <string name="picker_all_list_empty">Žiadne kontakty</string>
     <string name="picker_contact_title">Vyberte kontakt</string>
     <string name="picker_email_title">Vyberte email</string>
     <string name="picker_favorites_list_empty">Žiadne obľúbené</string>
-    <string name="picker_groups_list_empty">Žiadne skupiny</string> 
+    <string name="picker_groups_list_empty">Žiadne skupiny</string>
     <string name="picker_join_title">Zvoľte kontakt na prepojenie s %s</string>
     <string name="picker_number_title">Vyberte číslo</string>
-    <string name="picker_postal_title">Vyberte poštu</string>
+    <string name="picker_postal_title">Vyberte poštu</string>   
     <string name="picker_recent_list_empty">Žiadne posledné kontakty</string>
     <string name="pkgLabel">Kontakty a Volanie</string>
     <string name="postalLabelsGroup">Adresa</string>
     <string name="postal_address">Adresa</string>
-    <string name="postal_city">Mesto</string>   
+    <string name="postal_city">Mesto</string>
     <string name="postal_country">Krajina</string>
     <string name="postal_neighborhood">Štvrť</string>
     <string name="postal_pobox">PO BOX</string>
@@ -993,9 +998,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Vymazať dáta</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
-    <string name="close_dial_pad">Zatvoriť číselník</string>
-    <string name="dial">Vytočiť</string>
-    <string name="delete_dial_input">Vymazať</string>
-    <string name="clear_digits">Vymazať telefónne číslo</string>
-    <string name="call_record_setting_miui">Nahrávanie hovoru</string>
 </resources>

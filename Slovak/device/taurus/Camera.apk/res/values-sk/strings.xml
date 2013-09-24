@@ -235,6 +235,9 @@
   <string name="pref_camera_movie_solid_entry_off">Vypnutá</string>
   <string name="pref_camera_movie_solid_entry_on">Zapnutá</string>
   <string name="pref_camera_movie_solid_title">Stabilizácia filmu</string>
+  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuté</string>
+  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuté</string>
+  <string name="pref_camera_multiple_face_beauty_title">Vylepšenie dvoch tvári</string>
   <string name="pref_camera_panoramamode_title">Panoráma</string>
   <string name="pref_camera_picture_format_entry_jpeg">Jpeg</string>
   <string name="pref_camera_picture_format_entry_raw">Raw</string>
@@ -257,9 +260,6 @@
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208x2368)</string>
   <string name="pref_camera_picturesize_title">Veľkosť fotografie</string>
   <string name="pref_camera_picturesize_title_simple_mode">Veľkosť fotografie</string>
-  <string name="pref_camera_multiple_face_beauty_title">Vylepšenie dvoch tvári</string>
-  <string name="pref_camera_multiple_face_beauty_entry_off">Zapnuté</string>
-  <string name="pref_camera_multiple_face_beauty_entry_on">Vypnuté</string>
   <string name="pref_camera_preview_entry_1000">1 sekunda</string>
   <string name="pref_camera_preview_entry_2000">2 sekundy</string>
   <string name="pref_camera_preview_entry_5000">5 sekúnd</string>
@@ -271,9 +271,9 @@
   <string name="pref_camera_redeyereduction_entry_disable">Vypnutá</string>
   <string name="pref_camera_redeyereduction_entry_enable">Zapnutá</string>
   <string name="pref_camera_redeyereduction_title">Redukcia červených očí</string>
-  <string name="pref_camera_referenceline_title">Referenčná čiara</string>
   <string name="pref_camera_referenceline_entry_off">Vypnutá</string>
   <string name="pref_camera_referenceline_entry_on">Zapnutá</string>
+  <string name="pref_camera_referenceline_title">Referenčná čiara</string>
   <string name="pref_camera_saturation_entry_level0">Úroveň 0</string>
   <string name="pref_camera_saturation_entry_level1">Úroveň 1</string>
   <string name="pref_camera_saturation_entry_level10">Úroveň 10</string>
