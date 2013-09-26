@@ -393,7 +393,6 @@
     <string name="pref_general_sync_title">Synchronizácia</string>	
     <string name="pref_general_title">Všeobecné</string>	
     <string name="pref_gesture_title">Akcia gestá</string>	
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>	
     <string name="pref_images_preload_dialogtitle">Prednačítať obrázky</string>	
     <string name="pref_images_preload_summary">". Povoliť prehliadaču prednačítať obrázky"</string>	
     <string name="pref_images_preload_title">Prednačítavanie obrázkov</string>	
