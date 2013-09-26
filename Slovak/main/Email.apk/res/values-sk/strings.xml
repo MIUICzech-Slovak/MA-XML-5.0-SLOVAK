@@ -419,7 +419,7 @@ Kópia: %4$s
     <string name="move_action">Presunúť</string>
     <string name="move_to_folder_dialog_title">Presunúť do</string>
     <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
-    <string name="newer_action">Nikdy</string>
+    <string name="newer_action">Novšie</string>
     <string name="next_action">Ďalej</string>
     <string name="notification_multiple_new_messages_fmt">Nové správy: %1$d</string>
     <string name="notification_to_account">adresát: %1$s</string>
