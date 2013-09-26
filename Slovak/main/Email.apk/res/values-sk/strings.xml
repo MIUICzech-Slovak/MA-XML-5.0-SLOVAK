@@ -419,6 +419,7 @@ Kópia: %4$s
     <string name="move_action">Presunúť</string>
     <string name="move_to_folder_dialog_title">Presunúť do</string>
     <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
+    <string name="newer_action">Nikdy</string>
     <string name="next_action">Ďalej</string>
     <string name="notification_multiple_new_messages_fmt">Nové správy: %1$d</string>
     <string name="notification_to_account">adresát: %1$s</string>
@@ -428,6 +429,7 @@ Kópia: %4$s
     <string name="notify_uploads">Okamžité odoslanie</string>
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
+    <string name="older_action">Staršie</string>
     <string name="password_expire_warning_content_title">Heslo na uzamknutie čoskoro vyprší</string>
     <string name="password_expire_warning_dialog_content_fmt">Čoskoro musíte zmeniť kód PIN alebo heslo na uzamknutie obrazovky, inak budú údaje účtu %s vymazané. Chcete ho zmeniť teraz?</string>
     <string name="password_expire_warning_dialog_title">Heslo na uzamknutie obr. čoskoro vyprší</string>
