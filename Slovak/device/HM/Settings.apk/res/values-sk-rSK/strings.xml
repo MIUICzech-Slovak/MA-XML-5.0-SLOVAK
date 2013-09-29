@@ -29,128 +29,126 @@
     <string name="MobileNetwork_SIM2_Active">SIM2 je aktívna</string>
     <string name="MobileNetwork_SIM_Active">SIM%1$s je aktívna</string>
     <string name="MobileNetwork_off_Summary">Zapnite mobilne dáta pred použitím A-GPS</string>
-    <string name="MobileNetwork_on_Summary">A-GPS vyžaduje prístup k mobilnym dátam</string>
+    <string name="MobileNetwork_on_Summary">A-GPS vyžaduje prístup k mobilným dátam</string>
     <string name="NI_Request_ClientName">Meno klienta</string>
     <string name="NI_Request_ID">Requestor ID</string>
-    <string name="Network_Initiate">Network Request</string>
-    <string name="Network_Initiate_Summary_off">Deny network to request position</string>
-    <string name="Network_Initiate_Summary_on">Allow network to request position</string>
-    <string name="Network_Local_and_Roaming_Summary">Use A-GPS both under home and roaming network</string>
-    <string name="Network_Only_Local_Summary">Use A-GPS only under home network</string>
-    <string name="Network_Roaming_dialog_content">If the network under roaming condition, A-GPS data traffic may cause extra roaming fees.</string>
-    <string name="Network_Roaming_dialog_title">Attention</string>
-    <string name="Network_Used">Network Used</string>
-    <string name="Phone_vibrate_summary">Vibrate devices for incoming calls</string>
-    <string name="USER_RESPONSE_TIMEOUT">Waiting verification timeout</string>
-    <string name="WiFiNetwork_on_title">Wi-Fi is Active</string>
-    <string name="about_agps_message">"\u0009 A-GPS (Assisted-GPS) is the system that can improve the startup performance and time-to-first-fix (TTFF) of GPS satellites. 
-\u0009 An A-GPS capable device can connect to location servers to acquire the assist data through mobile network data connection. 
-\u0009 Notice that the data traffic may cause extra fees under network roaming conditions. Please contact with your operators for the details."</string>
-    <string name="about_agps_title">About A-GPS</string>
-    <string name="accessibility_feature_state_off">Off</string>
-    <string name="accessibility_feature_state_on">On</string>
-    <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+    <string name="Network_Initiate">Požiadavka siete</string>
+    <string name="Network_Initiate_Summary_off">Nepovoliť sieti získať polohu</string>
+    <string name="Network_Initiate_Summary_on">Povoliť sieti získať polohu</string>
+    <string name="Network_Local_and_Roaming_Summary">Použiť A-GPS v domácej sieti a roamingu</string>
+    <string name="Network_Only_Local_Summary">Použiť A-GPS len v domácej sieti</string>
+    <string name="Network_Roaming_dialog_content">Ak sa nachádzate v roamingu, A-GPS dáta môžu zvýšiť vaše poplatky.</string>
+    <string name="Network_Roaming_dialog_title">Upozornenie</string>
+    <string name="Network_Used">Použitá sieť</string>
+    <string name="Phone_vibrate_summary">Vibrovať pri prichádzajúcom hovore</string>
+    <string name="USER_RESPONSE_TIMEOUT">Čas pre potvrdenie vypršal</string>
+    <string name="WiFiNetwork_on_title">Wi-Fi je zapnutá</string>
+    <string name="about_agps_message">"A-GPS (Assisted-GPS) je systém ktorý zlepšuje prvý nábeh (TTFF) GPS satelitov."</string>
+    <string name="about_agps_title">Čo je A-GPS</string>
+    <string name="accessibility_feature_state_off">Vypnuté</string>
+    <string name="accessibility_feature_state_on">Zapnuté</string>
+    <string name="accessibility_global_gesture_preference_description">"Ak je táto funkcia povolená, môžete rýchlo a jednoducho povoliť jej funkcie v dvoch krokoch:
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Krok 1: Stlačte a podržte tlačidlo zapínania kým nezaznie zvuk a vibrácie.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Krok 2: Dotknite sa a podržte dva prsty kým nezaznie zvukové potvrdenie.
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-    <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-    <string name="accessibility_global_gesture_preference_summary_on">On</string>
-    <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-    <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
-    <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
-    <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+Ak má zariadenie viacero užívateľov, použitie tejto skratky na zamykacej obrazovke dočasne povolí prístup."</string>
+    <string name="accessibility_global_gesture_preference_summary_off">Vypnuté</string>
+    <string name="accessibility_global_gesture_preference_summary_on">Zapnuté</string>
+    <string name="accessibility_global_gesture_preference_title">Skratka dostupnosti</string>
+    <string name="accessibility_long_press_timeout_preference_title">Oneskorenie dotyku a podržania</string>
+    <string name="accessibility_power_button_ends_call_prerefence_title">Tlačidlo zapínania ukončí hovor</string>
+    <string name="accessibility_screen_magnification_summary">"Ak je táto funckia povolená, je možné priblížiť a oddialiť obraz trojitým poklepaním na displej.
 
-While zoomed in, you can:
-"<li><ul>"Pan: Drag two or more fingers across the screen.
-"<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></ul></li>"
+Ak máte priblížený obraz:
+"<li><ul>"Posúvanie: Potiahnite dvoma prstami po displeji.
+"<li>Zmena priblíženia: Potiahnite dva prsty k sebe alebo od seba.</li></ul></li>"
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+Taktiež je možné dočasne priblížiť obraz pod prstami trojitým poklepaním a podržaním prstu na displeji.
 
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar."</string>
-    <string name="accessibility_screen_magnification_title">Magnification gestures</string>
-    <string name="accessibility_toggle_large_text_preference_title">Large text</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
-    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
-    <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
-    <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
-    <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
-    <string name="activity_not_found">Application is not installed on your phone.</string>
-    <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
+Poznámka: Trojité poklepanie funguje všade okrem klávesnice."</string>
+    <string name="accessibility_screen_magnification_title">Gesta priblíženia</string>
+    <string name="accessibility_toggle_large_text_preference_title">Veľký text</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Obnoviť priblíženie obrazu so zmenou aplikácie</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Automaticky obnoviť priblíženie obrazu</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Priblíženie obrazu</string>
+    <string name="accessibility_toggle_script_injection_preference_title">Zlepšiť dostupnosť webstránky</string>
+    <string name="accessibility_toggle_speak_password_preference_title">Hovoriť heslá</string>
+    <string name="activity_not_found">Aplikácia nie je nainštalovaná.</string>
+    <string name="adjust_3d_depth_title">"Nastaviť 3D hĺbku v hrách"</string>
     <string name="agps_OK">OK</string>
-    <string name="agps_disable_on_reboot">Disable after Reboot</string>
-    <string name="agps_disable_on_reboot_summary">Disable A-GPS capability after reboot</string>
-    <string name="agps_enable_confirm">A-GPS needs a wireless data connection to acquire the assistant data that may cause extra fees. Are you sure to turn on the A-GPS?</string>
-    <string name="agps_enable_confirm_allow">Continue</string>
-    <string name="agps_enable_confirm_deny">Cancel</string>
-    <string name="agps_enable_confirm_title">A-GPS Enable Confirm</string>
-    <string name="agps_profile_SLP_address_editbox_title">SLP Address</string>
-    <string name="agps_profile_select">Profile Selector</string>
-    <string name="agps_profile_select_Title">SUPL Profile</string>
+    <string name="agps_disable_on_reboot">Deaktivovať po reštarte</string>
+    <string name="agps_disable_on_reboot_summary">Deaktivovať A-GPS po reštarte</string>
+    <string name="agps_enable_confirm">A-GPS vyžaduje internetová pripojenie pre stiahnutie potrebných dát, čo môže zvýšiť vaše mesačné poplatky. Chcete pokračovať?</string>
+    <string name="agps_enable_confirm_allow">Pokračovať</string>
+    <string name="agps_enable_confirm_deny">Zrušiť</string>
+    <string name="agps_enable_confirm_title">Povoliť A-GPS</string>
+    <string name="agps_profile_SLP_address_editbox_title">SLP Adresa</string>
+    <string name="agps_profile_select">Výber profilu</string>
+    <string name="agps_profile_select_Title">SUPL Profil</string>
     <string name="agps_settings_enable">A-GPS</string>
-    <string name="agps_settings_enable_off">Use assistant data to speed up the fixed time of location with GPS</string>
-    <string name="agps_settings_enable_on">GPS can speed up the fixed time of location with assistant data via wireless data connection</string>
-    <string name="agps_settings_eng_enable">A-GPS settings</string>
-    <string name="agps_settings_eng_summary">Set up A-GPS settings</string>
-    <string name="agps_settings_title">A-GPS Settings</string>
-    <string name="agps_str_allow">ALLOW</string>
-    <string name="agps_str_deny">DENY</string>
-    <string name="agps_str_error">Error</string>
-    <string name="agps_str_notify">Notification</string>
-    <string name="agps_str_verify">Verification</string>
-    <string name="akp_installer_settings_summary">Install your APK from Phone storage and SD card</string>
-    <string name="akp_installer_settings_title">APK installer</string>
-    <string name="alarm_app_name">Alarm</string>
-    <string name="alarm_command_summary_format">You can say %1$s or %2$s to control the alarm.</string>
-    <string name="allow">Allow</string>
-    <string name="apn_list_category_title">Access point list</string>
-    <string name="apn_predefine_change_dialog_notice">Are you sure to save? Modifications to default APNs may cause connection problems!</string>
-    <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
-    <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
-    <string name="audio_profile_add">Add</string>
-    <string name="audio_profile_category_custom_title">User defined profiles</string>
-    <string name="audio_profile_category_predefine_title">Predefined profiles</string>
-    <string name="audio_profile_delete">Delete</string>
-    <string name="audio_profile_enable">Enable</string>
-    <string name="audio_profile_error">Error</string>
-    <string name="audio_profile_message_delete">Profile %s will be deleted</string>
-    <string name="audio_profile_message_name_error">The name input is already existed</string>
-    <string name="audio_profile_message_name_length_wrong">Name must contain at least one character</string>
-    <string name="audio_profile_message_overflow">You are only allowed to add 6 custom profiles</string>
-    <string name="audio_profile_message_rename">Please input the new profile name</string>
-    <string name="audio_profile_message_reset">All the audio profile settings will be reset to default</string>
-    <string name="audio_profile_rename">Rename</string>
-    <string name="audio_profile_reset">Reset</string>
-    <string name="audio_profile_settings_title">Audio profiles</string>
-    <string name="auto_backlight_summary">Automatically adapt backlight to save power</string>
-    <string name="auto_backlight_title">Economical backlight</string>
-    <string name="battery_desc_users">Battery used by user</string>
-    <string name="battery_info_power_wireless">wireless</string>
-    <string name="battery_info_status_charging_wireless">(wireless)</string>
+    <string name="agps_settings_enable_off">Použite A-GPS dáta pre zrýchlenie nájdenia GPS pozície</string>
+    <string name="agps_settings_enable_on">GPS fix môže byť výrazne urýchlený ak použijete A-GPS</string>
+    <string name="agps_settings_eng_enable">Nastavenia A-GPS</string>
+    <string name="agps_settings_eng_summary">Nastaviť A-GPS</string>
+    <string name="agps_settings_title">Nastavenia A-GPS</string>
+    <string name="agps_str_allow">POVOLIŤ</string>
+    <string name="agps_str_deny">ZAKÁZAŤ</string>
+    <string name="agps_str_error">Chyba</string>
+    <string name="agps_str_notify">Notifikácia</string>
+    <string name="agps_str_verify">Overenie</string>
+    <string name="akp_installer_settings_summary">Inštalovať APK súbory z interného úložiska alebo SD karty</string>
+    <string name="akp_installer_settings_title">Inštalátor APK</string>
+    <string name="alarm_app_name">Budík</string>
+    <string name="alarm_command_summary_format">Môžete povedať %1$s alebo %2$s pre ovládanie budíku.</string>
+    <string name="allow">Povoliť</string>
+    <string name="apn_list_category_title">Zoznam prístupových bodov</string>
+    <string name="apn_predefine_change_dialog_notice">Chcete uložiť? Zmena predvolených APN môže spôsobiť problémy s dátovým pripojením!</string>
+    <string name="app_special_disable_dlg_text">Ak deaktivujete systémovú aplikáciu, ostatné aplikácie môžu mať neočakávané správanie. Vaše dáta budú vymazané.</string>
+    <string name="app_special_disable_dlg_title">Vymazať dáta a deaktivovať aplikáciu?</string>
+    <string name="audio_profile_add">Pridať</string>
+    <string name="audio_profile_category_custom_title">Užívateľské profily</string>
+    <string name="audio_profile_category_predefine_title">Prednastavené profily</string>
+    <string name="audio_profile_delete">Vymazať</string>
+    <string name="audio_profile_enable">Povoliť</string>
+    <string name="audio_profile_error">Chyba</string>
+    <string name="audio_profile_message_delete">Profil %s bude vymazaný</string>
+    <string name="audio_profile_message_name_error">Tento názov už existuje</string>
+    <string name="audio_profile_message_name_length_wrong">Názov musí obsahovať aspoň jeden znak</string>
+    <string name="audio_profile_message_overflow">Najviac je možné pridať len 6 profilov</string>
+    <string name="audio_profile_message_rename">Zadajte názov nového profilu</string>
+    <string name="audio_profile_message_reset">Všetky nastavenia profilu budú obnovené do továrnych nastavení</string>
+    <string name="audio_profile_rename">Premenovať</string>
+    <string name="audio_profile_reset">Obnoviť</string>
+    <string name="audio_profile_settings_title">Zvukové profily</string>
+    <string name="auto_backlight_summary">Automaticky prispôsobiť podsvietenie pre úsporu energie</string>
+    <string name="auto_backlight_title">Ekonomické podsvietenie</string>
+    <string name="battery_desc_users">Spotreba batérie užívateľom</string>
+    <string name="battery_info_power_wireless">bezdrôtové</string>
+    <string name="battery_info_status_charging_wireless">(bezdrôtové)</string>
     <string name="battery_level">%s%%</string>
-    <string name="battery_percent">Battery Percentage</string>
-    <string name="beam_mgmt_tab_download_title">RECEIVED</string>
-    <string name="beam_mgmt_tab_upload_title">SENT</string>
-    <string name="beam_share_clear_confirm_dialog_message">Clear all history?</string>
-    <string name="beam_share_clear_confirm_dialog_title">Clear all</string>
-    <string name="beam_share_clear_item_dailog_message">The item will be deleted.</string>
-    <string name="beam_share_clear_item_dailog_title">Delete</string>
-    <string name="beam_share_history_title">Beam share history</string>
-    <string name="beam_share_mgmt_notification_message">Select to view Beam share history.</string>
-    <string name="beam_share_mgmt_notification_ticker">Beam share history</string>
-    <string name="beam_share_mgmt_notification_title">Beam share history</string>
-    <string name="beam_share_mgmt_tab_menu_clear">Clear all</string>
-    <string name="beam_share_open_file_dialog_title">"Can't open the file"</string>
-    <string name="beam_share_open_file_not_found_message">File not found: %1$s</string>
-    <string name="beam_share_open_file_unsupported_message">The file format is not supported.</string>
-    <string name="beam_share_receive_fail_dialog_message">%1$s was not received successfully.</string>
-    <string name="beam_share_resend_dialog_message">%1$s was not sent successfully.</string>
-    <string name="beam_share_resend_dialog_ok_button">Try again</string>
-    <string name="beam_share_show_received_files_menu">Show received files</string>
-    <string name="beam_share_transfer_fail_dialog_title">Beam failed</string>
-    <string name="bluetooth_advanced_settings">Advanced settings</string>
+    <string name="battery_percent">Percentá batérie</string>
+    <string name="beam_mgmt_tab_download_title">PRIJATÉ</string>
+    <string name="beam_mgmt_tab_upload_title">ODOSLANÉ</string>
+    <string name="beam_share_clear_confirm_dialog_message">Vymazať históriu?</string>
+    <string name="beam_share_clear_confirm_dialog_title">Vymazať všetko</string>
+    <string name="beam_share_clear_item_dailog_message">Položka bude vymazaná.</string>
+    <string name="beam_share_clear_item_dailog_title">Vymazať</string>
+    <string name="beam_share_history_title">História Beam share</string>
+    <string name="beam_share_mgmt_notification_message">Zvoľte pre zobrazenie histórie Beam share.</string>
+    <string name="beam_share_mgmt_notification_ticker">História Beam share</string>
+    <string name="beam_share_mgmt_notification_title">História Beam share</string>
+    <string name="beam_share_mgmt_tab_menu_clear">Vymazať všetko</string>
+    <string name="beam_share_open_file_dialog_title">"Nie je možné otvoriť súbor"</string>
+    <string name="beam_share_open_file_not_found_message">Súbor sa nenašiel: %1$s</string>
+    <string name="beam_share_open_file_unsupported_message">Formát súboru nie je podporovaný.</string>
+    <string name="beam_share_receive_fail_dialog_message">Prijímanie %1$s nebolo dokončené.</string>
+    <string name="beam_share_resend_dialog_message">Odosielanie %1$s nebolo dokončené.</string>
+    <string name="beam_share_resend_dialog_ok_button">Znova</string>
+    <string name="beam_share_show_received_files_menu">Prijaté súbory</string>
+    <string name="beam_share_transfer_fail_dialog_title">Beam share zlyhalo</string>
+    <string name="bluetooth_advanced_settings">Rozšírené nastavenia</string>
     <string name="bugreport_in_power">Power menu bug reports</string>
     <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
     <string name="bugreport_tool_log_toast">Log saved to %s</string>
@@ -434,14 +432,6 @@ Are you sure to use GPS provided time?"</string>
     <string name="nfc_tag_mode_category">Tag mode</string>
     <string name="not_installed">Not installed</string>
     <string name="ok">OK</string>
-    <string name="oldman_mode_confirm_title">elder mode confirm</string>
-    <string name="oldman_mode_confirm_will_normal_mode_text">disable elder mode ?</string>
-    <string name="oldman_mode_confirm_will_oldman_mode_text">enable elder mode ?</string>
-    <string name="oldman_mode_enabled_name">enable elder mode</string>
-    <string name="oldman_mode_entry_name">elder mode settings</string>
-    <string name="oldman_mode_entry_title">elder mode</string>
-    <string name="oldman_mode_settings_caption">elder mode settings</string>
-    <string name="oldman_mode_summary">enable or disable elder mode, will reboot!</string>
     <string name="outdoor_settings_title">Outdoor</string>
     <string name="outdoor_summary">Loudest ring and vibrate</string>
     <string name="overlay_display_devices_title">Simulate secondary displays</string>
