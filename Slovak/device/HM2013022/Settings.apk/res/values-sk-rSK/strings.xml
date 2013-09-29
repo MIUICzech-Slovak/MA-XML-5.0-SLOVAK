@@ -109,7 +109,7 @@ Poznámka: Trojité poklepanie funguje všade okrem klávesnice."</string>
     <string name="app_special_disable_dlg_title">Vymazať dáta a deaktivovať aplikáciu?</string>
     <string name="audio_profile_add">Pridať</string>
     <string name="audio_profile_category_custom_title">Užívateľské profily</string>
-    <string name="audio_profile_category_predefine_title">Prednastavené profily</string>
+    <string name="audio_profile_category_predefine_title">Predvolené profily</string>
     <string name="audio_profile_delete">Vymazať</string>
     <string name="audio_profile_enable">Povoliť</string>
     <string name="audio_profile_error">Chyba</string>
