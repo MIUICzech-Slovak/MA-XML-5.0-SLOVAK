@@ -59,10 +59,10 @@ Ak má zariadenie viacero užívateľov, použitie tejto skratky na zamykacej ob
     <string name="accessibility_global_gesture_preference_title">Skratka dostupnosti</string>
     <string name="accessibility_long_press_timeout_preference_title">Oneskorenie dotyku a podržania</string>
     <string name="accessibility_power_button_ends_call_prerefence_title">Tlačidlo zapínania ukončí hovor</string>
-    <string name="accessibility_screen_magnification_summary">"Ak je táto funckia povolená, je možné priblížiť a oddialiť obraz trojitým poklepaním na displej.
+    <string name="accessibility_screen_magnification_summary">"Ak je táto funkcia povolená, je možné priblížiť a oddialiť obraz trojitým poklepaním na displej.
 
 Ak máte priblížený obraz:
-"<li><ul>"Posúvanie: Potiahnite dvoma prstami po displeji.
+"<li><ul>" Posúvanie: Potiahnite dvoma prstami po displeji.
 "<li>Zmena priblíženia: Potiahnite dva prsty k sebe alebo od seba.</li></ul></li>"
 
 Taktiež je možné dočasne priblížiť obraz pod prstami trojitým poklepaním a podržaním prstu na displeji.
