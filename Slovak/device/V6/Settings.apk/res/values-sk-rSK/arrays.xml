@@ -100,22 +100,14 @@
         <item>7 pripojení</item>
         <item>8 pripojení</item>
     </string-array>
-	<string-array name="led_color_entries">
+    <string-array name="led_color_entries">
         <item>Modrá</item>
         <item>Červená</item>
-		<item>Žltá</item>
         <item>Zelená</item>
-		<item>Tyrkysová</item>
-		<item>Biela</item>
-		<item>Fialová</item>
     </string-array>
     <string-array name="led_color_values">
         <item>blue</item>
         <item>red</item>
-        <item>yellow</item>
         <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
     </string-array>
 </resources>
