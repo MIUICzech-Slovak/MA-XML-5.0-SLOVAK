@@ -326,30 +326,30 @@ Toto nastavenie sa zmení pre všetkých užívateľov tohto zariadenia."</strin
     <string name="gemini_sim_tether_info_title">Kontakty a SIM</string>
     <string name="gemini_sim_tether_no_assc_contacts">Kontakty sú úspešne prepojené</string>
     <string name="gemini_sim_tether_nocontact_confirm">OK</string>
-    <string name="gemini_sim_tether_nocontacts">No available contacts on your phone. Please add new contact or import contacts first</string>
-    <string name="gemini_sim_tether_norecord">"You don't have any contact number associated with current SIM.
+    <string name="gemini_sim_tether_nocontacts">Nie sú dostupné žiadne kontakty vo Vašom telefóne. Zadajte nový kontakt alebo ich importujte.</string>
+    <string name="gemini_sim_tether_norecord">"S touto SIM nemáte spojené žiadne číslo kontaktu.
 
-Touch the Add contacts button to select the contacts you want to bind to this SIM"</string>
-    <string name="gemini_sim_tether_revert_message">Your configurations were changed and have not been saved. Are you sure to leave without saving?</string>
-    <string name="gemini_sim_tether_revert_title">Attention</string>
-    <string name="gemini_sim_tether_select_all">Select All</string>
-    <string name="gemini_sim_tether_select_cancel">Cancel</string>
-    <string name="gemini_sim_tether_select_ok">Save</string>
-    <string name="gemini_sim_tether_unselect_all">Unselect all</string>
-    <string name="gemini_tether_saving_progress_message">Saving...</string>
-    <string name="gemini_video_call">Video call</string>
-    <string name="gemini_voice_call">Voice call</string>
-    <string name="gemini_wap_push_permission">Auto-push service</string>
-    <string name="gemini_wap_push_permission_head">After enabling Auto-push service, you can receive pushed messages, incur local application running and produce data traffic. The usual auto-push services include email notification, device management, service indication, service loading and provisioning push.</string>
-    <string name="gemini_wap_push_permission_tail">Accept this agreement?</string>
-    <string name="gemini_wap_push_permission_title">Auto-push service agreement</string>
-    <string name="general_settings_title">General</string>
-    <string name="global_change_warning">This setting affects all users on this phone.</string>
-    <string name="global_font_change_title">Change font size</string>
-    <string name="global_locale_change_title">Change language</string>
-    <string name="gps_time_sync_attention_gps_off">"To use GPS provided time, you must enable GPS first. It then take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal. 
+Stlačte tlačidlo Pridať pre výber kontaktov ktoré chcete spojiť s touto SIM"</string>
+    <string name="gemini_sim_tether_revert_message">Vaše nastavenia boli zmenené ale nie sú uložené. Chcete ukončiť nastavenia bez uloženia Vaších zmien?</string>
+    <string name="gemini_sim_tether_revert_title">Upozornenie</string>
+    <string name="gemini_sim_tether_select_all">Všetko</string>
+    <string name="gemini_sim_tether_select_cancel">Zrušiť</string>
+    <string name="gemini_sim_tether_select_ok">Uložiť</string>
+    <string name="gemini_sim_tether_unselect_all">Odznačiť</string>
+    <string name="gemini_tether_saving_progress_message">Ukladanie...</string>
+    <string name="gemini_video_call">Video hovor</string>
+    <string name="gemini_voice_call">Hlasový hovor</string>
+    <string name="gemini_wap_push_permission">Auto-push služby</string>
+    <string name="gemini_wap_push_permission_head">Po aktivácií služieb Auto-push, môžete dostávať push správy, ktoré zahŕňajú aplikácie a navýši sa spotreba dát. Obyčajne auto-push služby sú notifikácie emailu, správa zariadenia, upozornenie na služby, atď...</string>
+    <string name="gemini_wap_push_permission_tail">Súhlasíte s podmienkami?</string>
+    <string name="gemini_wap_push_permission_title">Podmienky služieb Auto-push</string>
+    <string name="general_settings_title">Všeobecné</string>
+    <string name="global_change_warning">Toto nastavenie je pre všetkých užívateľov tohto zariadenia.</string>
+    <string name="global_font_change_title">Zmeniť veľkosť písma</string>
+    <string name="global_locale_change_title">Zmeniť jazyk</string>
+    <string name="gps_time_sync_attention_gps_off">"Pre použitie času z GPS, je potrebné aktivovať GPS. Následne trvá približne 1 minútu kým sa načítajú GPS dáta. Taktiež, GPS nemusí poskytnúť správny čas v závislosti na signál v okolí. 
 
-Are you sure to enable GPS now and wait for GPS provided time?"</string>
+Chcete aktivovať GPS a počkať na načítanie času z GPS?"</string>
     <string name="gps_time_sync_attention_gps_on">"It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.
 
 Are you sure to use GPS provided time?"</string>
