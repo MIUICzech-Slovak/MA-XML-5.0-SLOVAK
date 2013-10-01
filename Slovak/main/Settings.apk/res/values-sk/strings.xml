@@ -1307,7 +1307,7 @@ skúste:
     <string name="multi_touch_points_category_title">Multidotykové body</string>
     <string name="multi_touch_points_preference">Reštartovať pre zapnutie</string>
     <string name="musicfx_title">Hudobné efekty</string>
-    <string name="nearby_wifi">Vyberte wifi sieť</string>
+    <string name="nearby_wifi">Vyberte wi-fi sieť</string>
     <string name="network_detail">Detail siete %s</string>
     <string name="network_settings_title">Mobilné siete</string>
     <string name="network_state_label">Stav siete:</string>
@@ -2424,7 +2424,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_menu_scan">Vyhľadať</string>	
     <string name="wifi_menu_wfd">Wi-Fi Displej</string>	
     <string name="wifi_menu_wps_pbc">WPS Tlačidlo</string>	
-    <string name="wifi_menu_wps_pin">WPS Pin</string>	
+    <string name="wifi_menu_wps_pin">WPS PIN</string>	
     <string name="wifi_more">Viac</string>	
     <string name="wifi_network_prefix_length">Dĺžka sieťovej predpony</string>
     <string name="wifi_network_prefix_length_hint">24</string>
