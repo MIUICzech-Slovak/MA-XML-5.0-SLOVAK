@@ -314,7 +314,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="bluetooth_connected_no_a2dp">Pripojené (žiadne média)</string>	
     <string name="bluetooth_connected_no_headset">Pripojené (žiadny telefón)</string>	
     <string name="bluetooth_connected_no_headset_no_a2dp">Pripojené (žiadny telefón alebo média)</string>	
-    <string name="bluetooth_connecting">Pripojovanie...</string>	
+    <string name="bluetooth_connecting">Pripájanie...</string>	
     <string name="bluetooth_connecting_error_message">Pri pripojovaní k zariadeniu %1$s došlo k problémom.</string>	
     <string name="bluetooth_connection_dialog_text">Chcete sa pripojiť k zariadeniu „%1$s”?</string>	
     <string name="bluetooth_connection_notif_message">Klepnutím sa pripojíte k zariadeniu „%1$s”.</string>	
@@ -917,7 +917,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="force_stop">Vynútiť ukončenie</string>
     <string name="force_stop_dlg_text">Vynútené zastavenie môže spôsobiť neočakávané správanie aplikácie.</string>
     <string name="force_stop_dlg_title">Chcete vynútiť zastavenie?</string>
-    <string name="forget_wifi_message">Môžete vypnúť automatické pripojovanie k sieti a možno budete musieť pri opätovnom pripojení znova zadávať heslo.</string>
+    <string name="forget_wifi_message">Môžete vypnúť automatické pripojenie k sieti a možno budete musieť pri opätovnom pripojení znova zadávať heslo.</string>
     <string name="frequently_fragment_delete">Vymazať</string>
     <string name="frequently_fragment_tempty">Často používané položky budú zobrazené tu</string>
     <string name="gadget_bluetooth">Bluetooth</string>
@@ -1596,7 +1596,7 @@ skúste:
     <string name="quick_launch_title">Rýchle spustenie</string>    	
     <string name="radioInfo_cid">CID</string>	
     <string name="radioInfo_data_connected">Pripojené</string>
-    <string name="radioInfo_data_connecting">Pripojovanie</string>	
+    <string name="radioInfo_data_connecting">Pripájanie</string>	
     <string name="radioInfo_data_disconnected">Odpojené</string>	
     <string name="radioInfo_data_suspended">Pozastavené</string>
     <string name="radioInfo_display_asu">asu</string>
@@ -2494,7 +2494,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_setup_cancel">Zrušiť</string>	
     <string name="wifi_setup_connect">Pripojiť</string>	
     <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavení, dotknite sa možnosti <b>Ďalej</b>. Dotknite sa možnosti <b>Späť</b>, ak sa chcete pripojiť k inej sieti Wi-Fi."</string>
-    <string name="wifi_setup_description_connecting">Pripojovanie môže trvať niekoľko minút...</string>
+    <string name="wifi_setup_description_connecting">Pripájanie môže trvať niekoľko minút...</string>
     <string name="wifi_setup_detail">Podrobnosti siete</string>
     <string name="wifi_setup_eap_not_supported">Pripojenie Wi-Fi EAP nie je možné nakonfigurovať pri inštalácií. Môžete to vykonať po dokončení inštalácie v ponuke Nastavenie v časti Bezdrôtové pripojenie a siete.</string>
     <string name="wifi_setup_forget">Odstrániť</string>
@@ -2503,7 +2503,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_setup_refresh_list">Aktualizovať zoznam</string>
     <string name="wifi_setup_save">Uložiť</string>
     <string name="wifi_setup_skip">Preskočiť</string>
-    <string name="wifi_setup_status_connecting">Pripojovanie...</string>
+    <string name="wifi_setup_status_connecting">Pripájanie...</string>
     <string name="wifi_setup_status_eap_not_supported">Protokol EAP nie je podporovaný.</string>
     <string name="wifi_setup_status_edit_network">Zadajte konfiguráciu siete</string>
     <string name="wifi_setup_status_existing_network">Pripojiť k existujúcej sieti</string>
@@ -2515,7 +2515,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_setup_title">Nastavenie Wi-Fi</string>
     <string name="wifi_setup_title_add_network">Pridať sieť</string>
     <string name="wifi_setup_title_connected_network">Pripojené k sieti Wi-Fi %s</string>
-    <string name="wifi_setup_title_connecting_network">Pripojovanie k sieti Wi-Fi %s...</string>
+    <string name="wifi_setup_title_connecting_network">Pripájanie k sieti Wi-Fi %s...</string>
     <string name="wifi_setup_title_editing_network">Pripojiť k sieti Wi-Fi %s</string>
     <string name="wifi_setup_wizard_title">Vybrať Wi-Fi</string>
     <string name="wifi_setup_wps">Automatické nastavenie (WPS)</string>
