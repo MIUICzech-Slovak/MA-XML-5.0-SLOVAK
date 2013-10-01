@@ -548,7 +548,7 @@ Toto nastavenie ovplyvní všetkých užívateľov na tomto zariadení."</string
     <string name="usb_sharing_summary">Sharing Windows PC internet via USB cable</string>
     <string name="usb_sharing_title">USB Internet</string>
     <string name="usb_tether_type_title">USB tethering type</string>
-    <string name="usb_ums_summary">XP recommended. Lets you transfer files between your computer and your Android device.</string>
+    <string name="usb_ums_summary">Odporúčané pre Windows XP. Dovolí presúvať súbory medzi PC a telefónom.</string>
     <string name="usb_ums_title">USB úložisko</string>
     <string name="user_account_title">Account for content</string>
     <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like Wi-Fi that affect everyone.
