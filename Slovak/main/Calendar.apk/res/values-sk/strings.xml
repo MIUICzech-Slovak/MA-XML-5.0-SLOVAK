@@ -70,7 +70,7 @@
     <string name="edit_event_show_all">Zobraziť všetko</string>
     <string name="edit_event_to_label">Do</string>
     <string name="edit_label">Upraviť</string>
-    <string name="email_guests_label">Hosťovský Email</string>
+    <string name="email_guests_label">Odpoveď účastníkom</string>
     <string name="email_organizer_label">Organizér Emailov</string>
     <string name="email_picker_label">Email z</string>
     <string name="email_subject_prefix">"Re: "</string>
@@ -144,7 +144,7 @@
     <string name="preferences_use_home_tz_title">Použiť domáci čas</string>
     <string name="preferences_week_start_day_default">-1</string>
     <string name="preferences_week_start_day_dialog">Začiatok týždňa</string>
-    <string name="preferences_week_start_day_title">Začiatok týždňa</string>
+    <string name="preferences_week_start_day_title">Začiatok týždňa</string>
     <string name="presence_label">Zobraziť ma ako</string>
     <string name="privacy_label">Súkromná/Verejná</string>
     <string name="quick_response_custom_msg">Vlastná odpoveď...</string>
