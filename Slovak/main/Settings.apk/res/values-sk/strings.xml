@@ -108,9 +108,10 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="android_beam_disabled_summary">Nie je k dispozícií, pretože je vypnutá funkcia NFC</string>	
     <string name="android_beam_explained">"Pokiaľ je funkcia zapnutá, môžete prenášať obsah aplikácie do iného zariadenia s funkciou NFC tým, že podržíte zariadenia blízko seba. Môžete napríklad prenášať stránky prehliadača, videá YouTube, kontakty a ďalšie. Priložte zariadenia k sebe (spravidla zadnou stranou) a dotknite sa obrazovky. Aplikácia určí, aký obsah sa bude prenášať."</string>	
     <string name="android_beam_label">Android Beam</string>	
-    <string name="android_beam_off_summary">Vypnuté</string>	
-    <string name="android_beam_on_summary">Prenos obsahu aplikácie prostredníctvom NFC je pripravený</string>
+    <string name="android_beam_off_summary">Prenos obsahu pomocou NFC je vypnuté</string>	
+    <string name="android_beam_on_summary">Prenos obsahu pomocou NFC je zapnuté</string>
     <string name="android_beam_settings_title">Android Beam</string>
+    <string name="android_beam_tips">Uistite sa, že sa zariadenia navzájom dotýkajú a dotknite sa obsahu ktorý chcete preniesť.</string>
     <string name="android_beam_witch_label">Povoliť Android Beam</string>	
     <string name="animator_duration_scale_title">Doba trvania animácií</string>	
     <string name="antispam_quiet_mode_title">Tichý režim</string>	
@@ -1076,7 +1077,9 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="led_pulse_summary">Pri novej notifikácii blikať LED</string>	
     <string name="led_settings">LED</string>	
     <string name="legal_information">Právne informácie</string>	
-    <string name="license_title">Licencia</string>	
+    <string name="license_title">Licencia</string>
+    <string name="line_breaking_title">Optimalizácia odseku textu</string>
+    <string name="line_breaking_summary">Optimalizovať zalamovanie textu</string>
     <string name="link_speed_label">Rýchlosť:</string>	
     <string name="local_backup_password_summary_change">Túto možnosť vyberte, ak chcete zmeniť alebo odobrať heslo pre úplné zálohy v počítači.</string>	
     <string name="local_backup_password_summary_none">Úplné zálohy v počítači nie sú v súčasnej dobe chránené.</string>	
