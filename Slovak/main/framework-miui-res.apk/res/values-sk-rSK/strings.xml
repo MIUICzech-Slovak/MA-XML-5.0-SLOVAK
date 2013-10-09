@@ -52,7 +52,7 @@
     <string name="fools_day"/>
     <string name="force_exit_message">Úspešne ukončená aplikácia \"%1$s\"</string>
     <string name="forget_password_string">Pomoc</string>
-    <string name="format_time_in_12_hours">%1$s %2$s</string>
+    <string name="format_time_in_12_hours">hh:mma</string>
     <string name="global_action_privacy_mode_dialog_message">V režime Strážca sú hovory, poznámky, galéria a SMS skryté a plochu nie je možno upravovať.</string>
     <string name="global_action_toggle_privacy_mode">Strážca</string>
     <string name="grain_buds"/>

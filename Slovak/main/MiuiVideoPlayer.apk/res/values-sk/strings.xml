@@ -15,6 +15,8 @@
     <string name="app_name">Video</string>
     <string name="buffering">Ukladanie do vyrovnávacej pamäte...</string>
     <string name="buffering_video_netplay_label_v5">Ukladanie do vyrovnávacej pamäte...</string>
+    <string name="episode_prefix">epizóda</string>
+    <string name="episode_suffix">séria</string>
     <string name="loading_video_netplay_label">Načítavanie, čakajte prosím...</string>
     <string name="loading_video_netplay_label_v5">Načítava sa video, čakajte prosím...</string>
     <string name="menu_item_about_label">O aplikácií</string>
