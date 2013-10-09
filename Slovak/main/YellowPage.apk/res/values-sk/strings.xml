@@ -12,12 +12,12 @@
   <string name="callrecordview_item_op_time_short_incoming">"Prichádzajúce: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Odchádzajúce: "</string>
   <string name="check_network">zobraziť nastavenia siete</string>
-  <string name="confirm_delete_all_call_log_title">Skutočne vymazať všetky záznamy o volaní?</string>
-  <string name="confirm_delete_call_log_title">Vymazať záznamy volaní?</string>
+  <string name="confirm_delete_all_call_log_title">Skutočne vymazať všetky zoznamy hovorov?</string>
+  <string name="confirm_delete_call_log_title">Vymazať zoznam hovorov?</string>
   <string name="confirm_to_add_blacklist">Pridať na čiernu listinu?</string>
   <string name="confirm_to_remove_blacklist">Odstrániť z čiernej listiny?</string>
   <string name="contact_detail_calllog_call_note_tips">Poznámky o hovore</string>
-  <string name="contact_detail_calllog_call_record_tips">Záznam o volaní</string>
+  <string name="contact_detail_calllog_call_record_tips">Zoznam hovorov</string>
   <string name="correction">Upraviť</string>
   <string name="custom_mark_category">Vlastná</string>
   <string name="data_error">Prepáčte, služba je momentálne nedostupná. Skúste to opäť neskôr.</string>
@@ -37,8 +37,8 @@
   <string name="menu_add_black_list">Pridať na čiernu listinu</string>
   <string name="menu_call_ip_number">Vytočiť IP hovor (vytočiť %s)</string>
   <string name="menu_copy_text">Skopírovať</string>
-  <string name="menu_delete_call_log">Vymazať záznamy o volaní</string>
-  <string name="menu_delete_one">Odstrániť zo záznamu o volaní</string>
+  <string name="menu_delete_call_log">Vymazať zoznam hovorov</string>
+  <string name="menu_delete_one">Odstrániť zo zoznamu hovorov</string>
   <string name="menu_refresh">Obnoviť</string>
   <string name="menu_remove_black_list">Odstrániť z čiernej listiny</string>
   <string name="mishop_web_payment_title">MiStore</string>
@@ -82,7 +82,7 @@ Total sumou: RMB%3$s"</string>
   <string name="sms_send_failed">Odosielanie SMS správy zlyhalo!</string>
   <string name="sms_sending">Odosielanie...</string>
   <string name="title_about_yellow_page">Čo je to</string>
-  <string name="toast_finish_delete_call_log">Záznam hovoru bol vymazaný</string>
+  <string name="toast_finish_delete_call_log">Zoznam hovorov bol vymazaný</string>
   <string name="toast_text_copied">Text skopírovaný</string>
   <string name="try_again">Skúsiť opôť</string>
   <string name="turn_on_smart_antispam_hint">Po povolení, neznáme čísla budú identifikované. Ak sa číslo nenájde, môžete ho priradiť do správnej kategórie alebo si vytvoriť vlastnú.</string>
@@ -93,7 +93,7 @@ Total sumou: RMB%3$s"</string>
   <string name="user_notice_identify_summary_format">Identifikovanie neznámych čísel je online služba. Prečítajte si %1$s a %2$s pred jej použitím.</string>
   <string name="user_notice_yp_detail_summary_format">Niektoré informácie v tomto zozname potrebujú byť aktualizované online. Prečítajte si %1$s a %2$s, stlačte \"Súhlasím\" ak súhlasíte s podmienkami, stlačte \"Zrušiť\" pre načítanie údajov len z lokálnej cache.</string>
   <string name="voicemail">Hlasová schránka</string>
-  <string name="yellow_page_call_log_title">Záznam volaní</string>
+  <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
 </resources>
