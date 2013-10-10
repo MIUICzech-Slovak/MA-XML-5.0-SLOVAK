@@ -48,8 +48,8 @@
     <string name="overwrite_dialog_message" formatted="false">Nahrávka s týmto názvom už existuje. Chcete ju prepísať?</string>
     <string name="pause">Pauza</string>
     <string name="play_record">Prehrať</string>
-    <string name="preference_enable_earpiece_title">Použiť prijímač pre prehrávanie zvuku</string>
-    <string name="preference_enable_earpiece_summary">Použiť prijímač pre prehrávanie na externom zariadení</string>
+    <string name="preference_enable_earpiece_title">Externý výstup</string>
+    <string name="preference_enable_earpiece_summary">Použiť sluchátkový výstup pre prehrávanie na externom zariadení</string>
     <string name="preference_led_indicator">Indikácia nahrávania</string>
     <string name="preference_led_indicator_prompt">Blikať LED a zobraziť v oznamovacej lište počas nahrávania s uzamknutým telefónom</string>	
     <string name="preference_record_scenes_dialog_title">Zvoľte typ nahrávaného zvuku</string>
