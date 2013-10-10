@@ -1843,7 +1843,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="show_hw_screen_updates_summary">Blikať v okne zobrazenom GPU</string>	
     <string name="show_magnifier_when_input">Ukázať lupu</string>	
     <string name="show_owner_info_on_lockscreen_label">Zobrazovať vlastníka na zamknutej obrazovke</string>	
-    <string name="show_password">Zobraziť hesla</string>	
+    <string name="show_password">Zobraziť heslá</string>	
     <string name="show_password_summary"/>
     <string name="show_rounded_corners">Zobraziť zaoblené rohy</string>
     <string name="show_running_services">Zobraziť spustené služby</string>
@@ -2081,7 +2081,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   	<string name="unlock_set_unlock_mode_biometric_weak">Odomknutie tvárou</string>
 	<string name="unlock_set_unlock_mode_none">Posunutím</string>
     <string name="unlock_set_unlock_mode_off">Nič</string>
-    <string name="unlock_set_unlock_mode_password">Hesla</string>
+    <string name="unlock_set_unlock_mode_password">Heslo</string>
     <string name="unlock_set_unlock_mode_pattern">Gesto</string>
 	<string name="unlock_set_unlock_mode_pin">PIN</string>
     <string name="unlock_set_unlock_none_summary">Žiadne</string>
