@@ -180,7 +180,7 @@
 <string name="task_stopped_exception">Operácia bola zastavená</string>
 <string name="total_num">Celkom záznamov: %d</string>
 <string name="unit_byte">\u0020Bytov</string>
-<string name="unit_piece">\u0020Položka(y)</string>
+<string name="unit_piece">\u0020Položiek</string>
 <string name="unknown_hint">Neznámy</string>
 <string name="wifi_title">Wi-Fi nastavenia</string>
 </resources>
