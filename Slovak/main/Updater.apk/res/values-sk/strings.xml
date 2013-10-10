@@ -45,6 +45,9 @@
     <string name="file_not_found_error_message">Požadovaný súbor nebol nájdený na serveri</string>
     <string name="finish">Dokončiť</string>
     <string name="finish_download">Sťahovanie dokončené</string>
+    <string name="fourgrid_hint_text">Ďakujeme za používanie MIUI ROM. Prosím dajte nám vedieť čo si o nej myslíte a pomôžte nám ju ešte viac vylepšíť.</string>
+    <string name="fourgrid_notificaiont">Zobraziť v notif. lište</string>
+    <string name="fourgrid_no_notificaiont">"Nezobrazovať v notif. lište"</string>
     <string name="get_update_error">Získanie informácií o aktualizácii zlyhalo</string>
     <string name="install_email">Nainštalovať e-mailový softvér</string>
     <string name="install_file_explorer">prosím nainštalujte správcu súborov</string>

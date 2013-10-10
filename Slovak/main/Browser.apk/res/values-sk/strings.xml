@@ -90,6 +90,9 @@
     <string name="bookmarks_management">Upraviť záložky</string>	
     <string name="bookmarks_root_folder">Root zložka</string>	
     <string name="bookmarks_search">Prehliadač</string>	
+    <string name="bottom_bar_tabs_long_click_up_tip_txt">Potiahnutím nahor zatvoríte</string>
+    <string name="bottom_bar_tabs_long_click_down_tip_txt">Potiahnutím nadol zatvoríte</string>
+    <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Posledná karta</string>
     <string name="browserFrameFileErrorLabel">Problém so súborom</string>	
     <string name="browserFrameFormResubmitLabel"/>
     <string name="browserFrameFormResubmitMessage">"Stránka, ktorú sa snažíte zobraziť, obsahuje údaje ktoré už boli odoslané.(\"POSTDATA\"). \nAk znovu odošlete údaje, každá akcia, ktorú formulár na stránke prináša ( hľadanie alebo online nákup ) bude zopakovaná."</string>
@@ -208,7 +211,11 @@
     <string name="find_on_page">Nájsť na stránke</string>	
     <string name="folder_name">Názov zložky</string>	
     <string name="folder_name_too_long">Názov zložky je príliš dlhý</string>
-    <string name="forward">Dopredu</string>	
+    <string name="forward">Dopredu</string>
+    <string name="general_set_default_browser_title">Predvolený prehliadač</string>
+    <string name="general_set_default_browser_dialog_summary">Pre najlepší výkon používajte MIUI aplikácie</string>
+    <string name="general_set_default_browser_dialog_close_txt">Zatvoriť</string>
+    <string name="general_set_default_browser_dialog_ok_txt">Potvrdiť</string>
     <string name="geolocation_permissions_prompt_dont_share">Odmietnuť</string>	
     <string name="geolocation_permissions_prompt_message">%s chce zistiť vašu polohu</string>	
     <string name="geolocation_permissions_prompt_remember">Zapamätať výber</string>	
@@ -578,4 +585,11 @@
     <string name="webstorage_origin_summary_mb_stored">MB uložené v tvojom telefóne</string>
     <string name="webstorage_outofspace_notification_text">Klikni pre uvoľnenie miesta.</string>
     <string name="webstorage_outofspace_notification_title">Úložisko prehliadača zaplnené</string>
+    <string name="user_defined_webpage">Vlastná URL</string>
+    <string name="quicklink_user_define_webpage_title">Názov</string>
+    <string name="quicklink_user_define_webpage_url">URL</string>
+    <string name="user_defined_webpage_title">Pridať vlastné stránky</string>
+    <string name="quicklinks_most_visited">Často navštívené</string>
+    <string name="quicklinks_most_visited_subtitle">História navštívených stránok na úvodnej obrazovke</string>
+    <string name="quicklinks_group_default_subtitle">Nebola pridaná žiadna stránka</string>
 </resources>

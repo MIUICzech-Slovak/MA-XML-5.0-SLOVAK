@@ -464,6 +464,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="bluetooth_visibility_timeout_summary">Nastaviť dobu, po ktorú bude zariadenie vo viditeľnom režime</string>	
     <string name="breathing_light_color_summary">Farba LED pri novej notifikácii</string>	
     <string name="breathing_light_color_title">" LED"</string>	
+    <string name="breathing_light_color_menu_title">Farba</string>
     <string name="breathing_light_freq_summary">Pauza LED pred blikaním</string>	
     <string name="breathing_light_freq_title">Frekvencia blikania LED</string>
     <string name="brightness">Jas</string>
@@ -2514,7 +2515,7 @@ môžete použiť inú sieť"</string>
     <string name="wifi_share_connected_title">Pripojené k Wi-Fi sieti zdieľanej MIUI</string>
     <string name="wifi_share_count">Zdieľate %d sietí</string>
     <string name="wifi_share_current_network">Súčasná sieť</string>
-    <string name="wifi_share_know">Viem</string>
+    <string name="wifi_share_know">OK</string>
     <string name="wifi_share_list_empty">Žiadna verejná Wi-Fi sieť</string>
     <string name="wifi_share_login">Zdieľať heslo k tejto verejnej Wi-Fi sieti</string>
     <string name="wifi_share_login_summary">Ak je táto Wi-Fi sieť verejná, môžete ju zdieľať s ostatnými užívateľmi MIUI.</string>
