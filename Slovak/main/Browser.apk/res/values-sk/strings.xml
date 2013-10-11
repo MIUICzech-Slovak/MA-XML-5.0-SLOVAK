@@ -404,7 +404,6 @@
     <string name="pref_images_preload_dialogtitle">Prednačítať obrázky</string>	
     <string name="pref_images_preload_summary">". Povoliť prehliadaču prednačítať obrázky"</string>	
     <string name="pref_images_preload_title">Prednačítavanie obrázkov</string>	
-    <string name="pref_images_preload_default_value">@string/pref_images_preload_value_always</string>
     <string name="pref_images_preload_value_always_summary">Vždy povoliť prehliadaču prednačítať obrázky</string>	
     <string name="pref_images_preload_value_never_summary">Nikdy nepovoliť prehliadaču prednačítať obrázky</string>	
     <string name="pref_images_preload_value_wifi_only_summary">Povoliť prehliadaču prednačítať obrázky len na Wi-Fi</string>	
