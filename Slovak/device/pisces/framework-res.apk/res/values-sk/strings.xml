@@ -1319,10 +1319,10 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho
     <string name="storage_external_usb">Externé USB úložisko</string>
     <string name="zz_keyguard_accessibility_voice_unlock">Odomknutie hlasom.</string>
     <string name="reboot_title">Reštartovať telefón?</string>
-    <string name="reboot_confirm">Restarting your phone will clear temporary files out of memory.Would you like to restart your phone now?</string>
-    <string name="global_action_reboot_summary">Close all apps and restart phone</string>
-    <string name="gps_assistance_enable_title">Alert</string>
-    <string name="gps_assistance_enable_message">GPS assistance has been turned on to speed up GPS positioning, that may cause extra fees.</string>
+    <string name="reboot_confirm">Reštart telefónu vymaže dočasné dáta v pamäti. Chcete reštartovať telefón?</string>
+    <string name="global_action_reboot_summary">Ukončiť všetky aplikácie a reštartovať</string>
+    <string name="gps_assistance_enable_title">Upozornenie</string>
+    <string name="gps_assistance_enable_message">Pre zlepšenie GPS pozície bolo aktivované A-GPS, čo môže zvýšiť Vaše mesačné poplatky.</string>
     <string name="reboot_progress">Reštartujem...</string>
     <string name="factoryMode">Továrenský režim</string>
     <string name="permlab_nvidiaCPUPower">adjust Nvidia Tegra CPU</string>
