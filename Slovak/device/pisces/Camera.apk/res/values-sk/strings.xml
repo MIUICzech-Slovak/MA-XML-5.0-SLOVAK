@@ -406,7 +406,7 @@
   <string name="pref_camera_whitebalance_entry_measure">Odmerať</string>
   <string name="pref_camera_whitebalance_k_value_title">Hodnota K</string>
   <string name="pref_camera_whitebalance_title">Vyváženie bielej</string>
-  <string name="pref_camera_zsl_entry_off">Vypnutá</string>
+  <string name="pref_camera_zsl_entry_off">Vypnutá (Odporúčané)</string>
   <string name="pref_camera_zsl_entry_on">Zapnutá</string>
   <string name="pref_camera_zsl_title">ZSL (uzávierka bez omeškania)</string>
   <string name="pref_captrue_mirror_entry_off">Vypnuté</string>
