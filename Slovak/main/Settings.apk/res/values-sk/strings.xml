@@ -2617,4 +2617,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
     <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+    <string name="nfc_se_route_title">Secure element position</string>
+    <string name="current_use_uicc_se">Using secure element on SIM card</string>
+    <string name="current_use_ese">Using embedded secure element</string>
+    <string name="sound_switch">Ovládanie zvuku</string>
 </resources>

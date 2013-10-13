@@ -286,4 +286,6 @@
     <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>	
     <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>	
     <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>	
+    <string name="settings_statusbar_style">Nastavenie stavovej lišty</string>
+    <string name="center_clock_title">Hodiny v strede</string>
 </resources>
