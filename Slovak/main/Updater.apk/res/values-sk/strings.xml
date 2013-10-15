@@ -135,12 +135,12 @@
     <string name="top_secret_build">Tajná verzia</string>
     <string name="unstable_build">Nestabilná verzia</string>
     <string name="update_comment_hint">(voliteľné)</string>
-    <string name="update_comment_title">Mám čo povedať</string>
+    <string name="update_comment_title">Komentovať</string>
     <string name="update_feedback">Hodnotenie aktualizácie</string>
     <string name="update_feedback_expired">"Zmeškali ste hodnotenie aktualizácie! \nVyplnite ho prosím nasledujúci utorok"</string>
     <string name="update_feel">Čo si o tom myslíte?</string>
     <string name="update_general">Dá sa</string>
-    <string name="update_happy">Super</string>
+    <string name="update_happy"/>
     <string name="update_monthly_build_only">Aktualizácia iba mesačných verzií</string>
     <string name="update_sad">Nič moc</string>
     <string name="update_success">Aktualizácia bola úspešná!</string>

@@ -19,6 +19,7 @@
     <string name="read_write_all_voicemail_label">Prístup k všetkým hlasovým správam</string>
     <string name="send_sms">Odoslať správu</string>
     <string name="sharedUserLabel">Android Core Apps</string>
+    <string name="third_party_delete_contact_info">\"%s\" vymaže Vaše Xiaomi kontakty. Použite systémovú aplikáciu Kontakty pre zabezpečenie Vašich kontaktov.</string>
     <string name="upgrade_msg">Aktualizácia databázy kontaktov.</string>
     <string name="upgrade_out_of_memory_notification_text">Výberom tejto možnosti dokončíte upgrade.</string>
     <string name="upgrade_out_of_memory_notification_ticker">Upgrade kontaktu vyžaduje viac pamäti</string>

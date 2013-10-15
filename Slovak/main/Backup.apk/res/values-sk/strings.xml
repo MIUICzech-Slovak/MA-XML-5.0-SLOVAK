@@ -24,7 +24,7 @@
 <string name="backup_data">Zálohovať dáta</string>
 <string name="backup_delete">Zmazať:</string>
 <string name="backup_empty">Žiadna záloha nebola nájdená</string> 
-<string name="backup_empty_info">Zálohujte svoje dáta, nastavenia a aplikácie</string>
+<string name="backup_empty_info">" Zálohujte svoje dáta, nastavenia a aplikácie"</string>
 <string name="backup_error">Chyba zálohy</string>
 <string name="backup_failed">Zálohovanie zlyhalo! Skúsiť znova</string>
 <string name="backup_file_error">Nastal problém so zálohou, operácia nie je dokončená.</string>
@@ -37,7 +37,7 @@
 <string name="backup_recently">\u0020(Posledné)</string>
 <string name="backup_report">Hlásenie zálohovania</string>
 <string name="backup_update">Aktualizácia</string>
-<string name="batch_delete_backup_confirm">Zvolená záloha bude odstránená. Naozaj chcete pokračovať?</string>
+<string name="batch_delete_backup_confirm">Vymazať zálohy (%d)?</string>
 <string name="button_backup">Nová záloha</string>
 <string name="button_cancel">Zrušiť</string>
 <string name="button_finish">Hotovo</string>
@@ -85,8 +85,8 @@
 <string name="fail">Zlyhalo</string>
 <string name="findlost_contact">Obnoviť vymazané kontakty</string>
 <string name="findlost_contact_online">Obnoviť vymazané kontakty z cloudu</string>
-<string name="guarded_mode_dialog_message">V chránenom režime nie je možné vytvárať alebo obnovovať zálohy</string>
-<string name="guarded_mode_dialog_title">Chránený režim</string>
+<string name="guarded_mode_dialog_message">V režime Návštevník nie je možné vytvárať alebo obnovovať zálohy</string>
+<string name="guarded_mode_dialog_title">Režim Návštevník</string>
 <string name="import_from_xiaomi_account_hint1">1.Inštalujte MiTalk a prihláste sa.\n http://www.miliao.com\n\n3. Prejdite na nastavenia MiTalk a zvoľte "Zálohovať na účet Xiaomi"</string>
 <string name="import_from_xiaomi_account_hint2">Poznámka: Prejdite k ďalšiemu kroku pokiaľ už existuje záloha</string> 
 <string name="import_from_xiaomi_account_hint_title">Pre zálohovanie kontaktov používajte MiTalk</string>

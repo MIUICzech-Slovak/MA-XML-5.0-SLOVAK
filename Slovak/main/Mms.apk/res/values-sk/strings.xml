@@ -433,4 +433,21 @@ Pokus: %s."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
+  <string name="set_smsc_address_title_miui">Nastaviť číslo SMS centra</string>
+  <string name="sim_card1">SIM Karta 1</string>
+  <string name="sim_card2">SIM Karta 2</string>
+  <string name="sim_card_cloud">%s (Cloudová správa)</string>
+  <string name="forward_from">Preposlané od:</string>
+  <string name="pref_forward_title">Preposlať</string>
+  <string name="pref_title_fwd_sender_info">Kto preposlal</string>
+  <string name="saved_to_sim">Uložené</string>
+  <string name="save_to_sim_failed">Ukladanie zlyhalo</string>
+  <string name="restored_to_phone_memory">"Obnovené do pamäte telefónu"</string>
+  <string name="restore_to_phone_memory_failed">Obnovenie zlyhalo</string>
+  <string name="pref_title_card_format">Formát vizitky</string>
+  <string name="pref_title_miui_card">Odoslať ako MIUI vizitku</string>
+  <string name="pref_title_vcard">Odoslať ako vCard</string>
+  <string name="type_vcard">vCard</string>
+  <string name="add_slide_before">Pridať stránku (pred)</string>
+  <string name="context_menu_add_to_browser_favorite">Pridať do obľúbených v prehliadači</string>
 </resources>

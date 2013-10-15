@@ -150,4 +150,8 @@
     <string name="menu_exit">Odísť</string>
     <string name="toast_added_to_list">Pridané do zoznamu</string>
     <string name="station_check_favorite">Pridať do predvolieb</string>
+    <string name="toast_sleep_mode_exit">Automatické vypnutie rádia zrušené.</string>
+    <string name="toast_fm_recorder_internal_error">Chyba nahrávania FM.</string>
+    <string name="toast_fm_recorder_storage_full">Úložisko je plné, nie je možné nahrávať</string>
+    <string name="toast_fm_not_stated">FM nie je nastavené</string>
 </resources>

@@ -197,8 +197,8 @@ Prosím otvorte túto aplikáciu znovu pre obnovenie zdrojov."</string>
     <string name="sort_by_not_defined">Neradiť</string>
     <string name="start_activity_failed">Aplikáciu sa nepodarilo spustiť, skúste to prosím znovu.</string>
     <string name="starting_preset_app">Spúšťanie</string> 
-    <string name="status_bar_toggle_ac">Kontrola prístupu</string>
-    <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
+    <string name="status_bar_toggle_ac">Prístup</string>
+    <string name="status_bar_toggle_auto_brightness">Auto</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Jas</string>
     <string name="status_bar_toggle_data">Dáta</string>
@@ -223,8 +223,8 @@ Prosím otvorte túto aplikáciu znovu pre obnovenie zdrojov."</string>
     <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_shutdown">Vypnúť</string>
     <string name="status_bar_toggle_sync">Synchro.</string>
-    <string name="status_bar_toggle_sync_auto">Auto Synchr.</string>
-    <string name="status_bar_toggle_sync_manual">Manuálna Synchr.</string>
+    <string name="status_bar_toggle_sync_auto">Synchr.</string>
+    <string name="status_bar_toggle_sync_manual">Synchr.</string>
     <string name="status_bar_toggle_syncing">Synchronizujem</string>
     <string name="status_bar_toggle_torch">Svietidlo</string>	
     <string name="status_bar_toggle_vibrate">Vibrácie</string>

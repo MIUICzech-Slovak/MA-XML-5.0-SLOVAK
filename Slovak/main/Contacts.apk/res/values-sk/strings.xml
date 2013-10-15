@@ -710,6 +710,7 @@ Synchronizujte ich teraz."</string>
     <string name="pref_key_photo_word_title">Automatická fotka kontaktu</string>
     <string name="pref_key_rebuild_t9_index_message">Opraviť index vyhľadávania kontaktov</string>
     <string name="pref_key_rebuild_t9_index_title">Obnoviť T9 index</string>
+    <string name="pref_key_sim_manage">Správa SIM kariet</string>
     <string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Xiaomi</string>
     <string name="pref_title_account_import">Kopírovanie z účtu</string>
     <string name="pref_title_import_from_account">Kopírovanie na účet Xiaomi</string>
@@ -752,7 +753,7 @@ Synchronizujte ich teraz."</string>
     <string name="preference_tone_title">Tón</string>
     <string name="prepare_import">Pripraviť import</string>
     <string name="preview_contact_card_title">Importovať vizitku</string>
-    <string name="previous">predcházajúci</string>
+    <string name="previous">Späť</string>
     <string name="private_num">Súkromné číslo</string>
     <string name="profile_display_name">Nastaviť môj profil</string>
     <string name="profile_name">Môj profil</string>
@@ -998,4 +999,19 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Vymazať dáta</string>
     <string name="zero_items_selected">Nič nie je vybrané</string>
+    <string name="accessibility_calllog_detail">Podrobnosti</string>
+    <string name="select_groups">Zvoliť skupinu</string>
+    <string name="sim_capacity">Zobraziť kapacitu SIM karty</string>
+    <string name="sim_capacity_content" formatted="false">Celkovo %d, využité %d</string>
+    <string name="sim_contact_existing">Kontakt na SIM karte už existuje.</string>
+    <string name="sim_contact_number_missing">Chýba číslo kontaktu na SIM karte.</string>
+    <string name="sim_error_generic_failure">Zlyhalo.</string>
+    <string name="sim_error_storage_full">Úložisko je plné.</string>
+    <string name="sim_error_not_ready">Načítavanie kontaktov na SIM, čakajte...</string>
+    <string name="sim_error_text_too_long">Meno je príliš dlhé.</string>
+    <string name="sim_error_number_too_long">Číslo je príliš dlhé.</string>
+    <string name="sim_error_email_too_long">Email je príliš dlhý.</string>
+    <string name="sim_error_email_full">Úložisko pre email je plné.</string>
+    <string name="sim_error_anr_full">Úložisko pre čísla je plné.</string>
+    <string name="sim_error_password_error">Nesprávne heslo.</string>
 </resources>
