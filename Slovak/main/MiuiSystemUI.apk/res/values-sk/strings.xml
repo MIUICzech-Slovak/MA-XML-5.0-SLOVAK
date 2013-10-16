@@ -215,8 +215,8 @@
     <string name="status_bar_style_settings">Nastavenia</string>	
     <string name="status_bar_time_format_12">h:mma</string>	
     <string name="status_bar_time_format_24">HH:mm</string>	
-    <string name="status_bar_toggle_ac">Prístup</string>
-    <string name="status_bar_toggle_auto_brightness">Auto</string>
+    <string name="status_bar_toggle_ac">Kontrola prístupu</string>
+    <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
     <string name="status_bar_toggle_bluetooth">BT</string>
     <string name="status_bar_toggle_brightness">Jas</string>
     <string name="status_bar_toggle_data">Dáta</string>
@@ -241,8 +241,8 @@
     <string name="status_bar_toggle_screenshot">Screenshot</string>
     <string name="status_bar_toggle_shutdown">Vypnúť</string>
     <string name="status_bar_toggle_sync">Synchro.</string>
-    <string name="status_bar_toggle_sync_auto">Synchr.</string>
-    <string name="status_bar_toggle_sync_manual">Synchr.</string>
+    <string name="status_bar_toggle_sync_auto">Auto Synchr.</string>
+    <string name="status_bar_toggle_sync_manual">Manuálna Synchr.</string>
     <string name="status_bar_toggle_syncing">Synchronizujem</string>
     <string name="status_bar_toggle_torch">Svietidlo</string>	
     <string name="status_bar_toggle_vibrate">Vibrácie</string>
