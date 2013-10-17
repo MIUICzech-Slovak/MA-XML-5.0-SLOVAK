@@ -147,7 +147,7 @@
     <string name="toast_removed_from_presets">Odobrané</string>
     <string name="menu_save_station_list">Pridať do zoznamu</string>
     <string name="menu_save_station_presets">Pridať do predvolieb</string>
-    <string name="menu_exit">Odísť</string>
+    <string name="menu_exit">Ukončiť</string>
     <string name="toast_added_to_list">Pridané do zoznamu</string>
     <string name="station_check_favorite">Pridať do predvolieb</string>
     <string name="toast_sleep_mode_exit">Automatické vypnutie rádia zrušené.</string>

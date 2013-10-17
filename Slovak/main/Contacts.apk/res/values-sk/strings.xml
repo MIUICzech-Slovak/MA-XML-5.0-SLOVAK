@@ -890,10 +890,10 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
     <string name="smart_group_company_label">Podľa firmy</string>
     <string name="smart_group_company_unavailable">Neznáma firma</string>
-    <string name="smart_group_frequency_1">Posledný mes.</string>
-    <string name="smart_group_frequency_2">Posledné 3 mes.</string>
-    <string name="smart_group_frequency_3">Posledných 6 mes.</string>
-    <string name="smart_group_frequency_4">Nekontakt. 6 mes.</string>
+    <string name="smart_group_frequency_1">Posledný mesiac</string>
+    <string name="smart_group_frequency_2">Posledné 3 mesiace</string>
+    <string name="smart_group_frequency_3">Posledných 6 mesiace</string>
+    <string name="smart_group_frequency_4">Nekontaktovaní 6 mesiacov</string>
     <string name="smart_group_frequency_label">Naposledy kontaktovaní</string>
     <string name="smart_group_label">Inteligentné skupiny</string>
     <string name="smart_group_loading">Načítavanie inteligentných skupín...</string>
