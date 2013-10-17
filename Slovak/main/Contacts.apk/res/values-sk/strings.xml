@@ -892,7 +892,7 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="smart_group_company_unavailable">Neznáma firma</string>
     <string name="smart_group_frequency_1">Posledný mesiac</string>
     <string name="smart_group_frequency_2">Posledné 3 mesiace</string>
-    <string name="smart_group_frequency_3">Posledných 6 mesiace</string>
+    <string name="smart_group_frequency_3">Posledných 6 mesiacov</string>
     <string name="smart_group_frequency_4">Nekontaktovaní 6 mesiacov</string>
     <string name="smart_group_frequency_label">Naposledy kontaktovaní</string>
     <string name="smart_group_label">Inteligentné skupiny</string>
