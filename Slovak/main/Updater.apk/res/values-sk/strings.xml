@@ -145,7 +145,7 @@
     <string name="update_sad">Nič moc</string>
     <string name="update_success">Aktualizácia bola úspešná!</string>
     <string name="update_success_body">na verziu %s</string>
-    <string name="update_success_title">MIUI aktualizovaná</string>
+    <string name="update_success_title">MIUI je aktualizovaná</string>
     <string name="upgrade_close">Zavrieť</string>
     <string name="upgrade_kernel">Kernel je potrebné aktualizovať</string>
     <string name="upgrade_kernel_msg">"Verzia kernelu nesúhlasí s MIUI ROM. Musíte aktualizovať kernel manuálne. Postup aktualizácie nájdete tu:"</string>
