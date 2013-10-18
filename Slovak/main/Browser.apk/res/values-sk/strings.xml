@@ -589,7 +589,7 @@
     <string name="quicklink_user_define_webpage_title">Názov</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
     <string name="user_defined_webpage_title">Pridať na úvodnú stránku</string>
-    <string name="quicklinks_most_visited">Pridať často navštívené stránky na úvodnú stránku</string>
-    <string name="quicklinks_most_visited_subtitle">História navštívených stránok na úvodnej stránke</string>
+    <string name="quicklinks_most_visited">Pridať na úvodnú stranu</string>
+    <string name="quicklinks_most_visited_subtitle">Pridať vlastný odkaz na úvodnú stranu</string>
     <string name="quicklinks_group_default_subtitle">Prázdne</string>
 </resources>
