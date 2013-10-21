@@ -158,7 +158,7 @@
     <string name="do_not_save">Zrušiť</string>	
     <string name="download">Stiahnuť</string>	
     <string name="download_complete">Sťahovanie dokončené</string>	
-    <string name="download_default_path_txt">Nastaviť ako predvolenú cestu uloženia a viac sa nepýtať</string>
+    <string name="download_default_path_txt">Nastaviť a viac sa nepýtať</string>
     <string name="download_dialog_default_path_invalid">Zadaná cesta neexistuje, použiť predvolené miesto uloženia</string>	
     <string name="download_dialog_file_length_hint_txt">Veľkosť:</string>	
     <string name="download_dialog_file_length_lessthan1kb">Menej ako 1Kb</string>	
