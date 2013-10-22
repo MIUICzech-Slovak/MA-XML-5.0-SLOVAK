@@ -795,7 +795,6 @@ Synchronizujte ich teraz."</string>
     <string name="resource_can_not_selected">%1$s sa nedá vybrať!</string>
     <string name="resource_default">Predvolené zvonenie</string>
     <string name="resource_default_name">Zdroj</string>
-    <string name="resource_delete_all">Ste si istý, že chcete vymazať %1$d zdrojov?</string>
     <string name="resource_delete_confirm">Vymazať tieto zdroje?</string>
     <string name="resource_delta_update_failed">Aktualizovanie rozdielov zlyhalo, stiahne sa celý balík</string>
     <string name="resource_delta_update_successful">Aktualizácia dokončená</string>
@@ -822,7 +821,6 @@ Synchronizujte ich teraz."</string>
     <string name="resource_ringtone_default">Zvonenia</string>
     <string name="resource_see_more">Viac</string>
     <string name="resource_select">Zvoliť</string>
-    <string name="resource_server_out_of_service">Služba je nedostupná, skúste neskôr.</string>
     <string name="resource_switch_account">Zmeniť</string>
     <string name="resource_system_title">Systémové zdroje</string>
     <string name="resource_tip_select_ringtone">Žiadne vybrané</string>
