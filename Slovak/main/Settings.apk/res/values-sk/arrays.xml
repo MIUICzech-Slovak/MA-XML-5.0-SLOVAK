@@ -476,4 +476,9 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Štandard</item>
         <item>Lepšia kvalita</item>
     </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automaticky pripojiť</item>
+        <item>Manuálne pripojiť</item>
+        <item>Vždy sa opýtať</item>
+    </string-array>
 </resources>

@@ -2006,8 +2006,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="total_size_label">Celkom</string>	
     <string name="touch_sensitive_summary">Nastaviť citlivosť na dotyky pre ovládanie telefónu v rukaviciach</string>	
     <string name="touch_sensitive_title">Režim rukavíc</string>	
-    <string name="touch_sensitive_turn_off_summary">Deaktivovať Režim rukavíc?</string>	
-    <string name="touch_sensitive_turn_off_title">Deaktivovať Režim rukavíc</string>	
+    <string name="touch_sensitive_turn_off_summary">Chcete deaktivovať Režim rukavíc?</string>	
+    <string name="touch_sensitive_turn_off_title">Deaktivovaný Režim rukavíc</string>	
     <string name="touch_title">Dotyky</string>	
     <string name="track_frame_time">Profil vykresľovania GPU</string>	
     <string name="track_frame_time_summary">Merať čas na vykreslenie adb shell dumpsys gfxinfo</string>	
@@ -2624,4 +2624,19 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="current_use_uicc_se">Using secure element on SIM card</string>
     <string name="current_use_ese">Using embedded secure element</string>
     <string name="sound_switch">Ovládanie zvuku</string>
+    <string name="touch_sensitive_turn_off_confirm">Potvrdiť</string>
+    <string name="touch_sensitive_turn_off_cancel">Zrušiť</string>
+    <string name="select_ssid_type_title">Výber SSID</string>
+    <string name="gsm_to_wifi_connect_type_title">Mobilný->Wi-Fi</string>
+    <string name="wifi_priority_settings_label">Nastavenie priority</string>
+    <string name="wifi_priority_type_title">Nastaviť prioritu AP manuálne</string>
+    <string name="wifi_priority_type_summary">Povoliť manuálne nastavenie priority pre každý AP zvlášť</string>
+    <string name="wifi_priority_settings_title">Nastavenie priority AP</string>
+    <string name="wifi_priority_settings_summary">Nastavenie priority pre každý AP</string>
+    <string name="wifi_priority_changed" formatted="false">Stará priorita value=%s,nová value=%s</string>
+    <string name="wifi_configured_ap_list">Zoznam zapamätaných AP</string>
+    <string name="wifi_priority_label">Priorita</string>
+    <string name="wifi_available_title">Pripojiť k Wi-Fi</string>
+    <string name="msg_wlan_signal_found">Našiel sa Wi-Fi AP %s, chcete sa pripojiť k tejto sieti? Použitie tejto siete dočasne preruší dátové pripojenie.</string>
+    <string name="wifi_signal_found_msg">Našiel sa Wi-Fi AP, pripojiť？</string>
 </resources>
