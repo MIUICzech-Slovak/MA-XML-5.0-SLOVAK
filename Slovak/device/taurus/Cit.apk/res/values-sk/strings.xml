@@ -295,4 +295,5 @@
     <string name="cit_wifi_ap_scanning">Vyhľadávanie Wi-Fi siete...</string>
     <string name="cit_wifi_fail_to_scan">Nie je možné nájsť žiadnu sieť Wi-Fi</string>
     <string name="cit_wifi_state_refresh">Obnoviť</string>
+    <string name="cit_tool_modem_cta_test">Open / Close Protocol Conformance Test</string>
 </resources>
