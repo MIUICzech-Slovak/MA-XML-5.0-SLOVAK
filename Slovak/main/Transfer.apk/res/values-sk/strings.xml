@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="about_to_receive">Príjmanie...</string>
+    <string name="about_to_receive">Príjímanie...</string>
     <string name="about_to_send">Odoslať</string>
     <string name="app_name">Prenos</string>
     <string name="button_last">Dokončiť</string>
@@ -9,7 +9,7 @@
     <string name="cancel">Ukončiť</string>
     <string name="cancel_receive">Ukončiť</string>
     <string name="cancel_send">Ukončiť</string>
-    <string name="canceling">Ukončovanie...</string>
+    <string name="canceling">Ukončenie...</string>
     <string name="choose_title">Vyberte súbor</string>
     <string name="connect_confirm">%1$s sa chce pripojiť</string>
     <string name="connecting">Pripojovanie...</string>
