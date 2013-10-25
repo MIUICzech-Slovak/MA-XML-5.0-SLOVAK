@@ -135,14 +135,14 @@
     <string name="confirm">Potvrdiť</string>
     <string name="error_info_cant_send_folder">Zložky nie je možné odosielať!</string>
     <string name="error_nofile_selected">Nie je vybraný žiaden súbor</string>
-    <string name="share_msg_model">"Zdieľam s vami súbory 
-[Adresa na stiahnutie] %1$s"</string>
+    <string name="share_msg_model">"Zdieľam s vami súbory. 
+Odkaz na stiahnutie: %1$s"</string>
     <string name="send_share_link">Odoslať adresu</string>
     <string name="generate_share_link_failed">Vytváranie adresy pre zdieľané súbory zlyhalo!</string>
     <string name="generating_share_link">Vytváranie adresy pre zdieľané súbory...</string>
     <string name="network_not_connected">Pripojenie je nedostupné, skúste to opäť neskôr.</string>
     <string name="login_failed">Prihlásenie zlyhalo!</string>
-    <string name="select_file_to_share">Zdieľať súbory</string>
+    <string name="select_file_to_share">Vybrať súbory</string>
     <string name="sdcard_invalid">SD karta je nedostupná!</string>
     <string name="back">Späť</string>
     <string name="all_history">Všetko</string>
@@ -176,8 +176,8 @@
     <string name="wait_net">Čaká sa na sieť</string>
     <string name="wait_sdcard">Čaká sa na SD kartu</string>
     <string name="wait_wifi">Čaká sa na Wi-Fi</string>
-    <string name="wait_wifi_to_upload">Čakať na Wi-Fi pre automatické odoslanie súborov</string>
-    <string name="wait_wifi_to_download">Čakať na Wi-Fi pre automatické prijatie súborov</string>
+    <string name="wait_wifi_to_upload">Čaká sa na Wi-Fi pre odoslanie súborov</string>
+    <string name="wait_wifi_to_download">Čaká sa na Wi-Fi pre prijatie súborov</string>
     <string name="save_to_kuaipan">Do MiDrive</string>
     <string name="download">Stiahnuť</string>
     <string name="trans_failed">Prenos zlyhal!</string>
