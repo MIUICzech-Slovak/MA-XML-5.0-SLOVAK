@@ -162,9 +162,9 @@
     <string name="share_message">Zdielaný súbor %1$s</string>
     <string name="press_to_view">Zobraziť</string>
     <string name="press_to_view_send_history">História odoslaných</string>
-    <string name="file_share_upload_complete">Zdieľaný súbor sa úspešne odoslal</string>
-    <string name="press_to_view_receive_history">História prijatých </string>
-    <string name="file_share_download_complete">Zdieľaný súbor je úspešne stiahnutý</string>
+    <string name="file_share_upload_complete">Zdieľaný súbor odoslaný</string>
+    <string name="press_to_view_receive_history">História prijatých</string>
+    <string name="file_share_download_complete">Zdieľaný súbor stiahnutý</string>
     <string name="please_select_share">Zvoľte súbory ktoré chcete zdieľať</string>
     <string name="only_support_single_share">Je podporované zdieľanie len jedného súboru</string>
     <string name="file_downloading">Súbor sa sťahuje</string>
