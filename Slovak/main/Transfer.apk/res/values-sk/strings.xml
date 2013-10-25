@@ -136,20 +136,20 @@
     <string name="error_info_cant_send_folder">Zložky nie je možné odosielať!</string>
     <string name="error_nofile_selected">Nie je vybraný žiaden súbor</string>
     <string name="share_msg_model">"Zdieľam s vami súbory 
-[Stiahnuť] %1$s"</string>
+[Adresa na stiahnutie] %1$s"</string>
     <string name="send_share_link">Odoslať adresu</string>
     <string name="generate_share_link_failed">Vytváranie adresy pre zdieľané súbory zlyhalo!</string>
     <string name="generating_share_link">Vytváranie adresy pre zdieľané súbory...</string>
     <string name="network_not_connected">Pripojenie je nedostupné, skúste to opäť neskôr.</string>
     <string name="login_failed">Prihlásenie zlyhalo!</string>
-    <string name="select_file_to_share">Vybrať súbory na zdieľanie</string>
+    <string name="select_file_to_share">Zdieľať súbory</string>
     <string name="sdcard_invalid">SD karta je nedostupná!</string>
     <string name="back">Späť</string>
     <string name="all_history">Všetko</string>
     <string name="share_history">Zdieľané súbory</string>
     <string name="receive_history">Prijaté súbory</string>
     <string name="init_xiaomi_account">Inicializácia Xiaomi účtu...</string>
-    <string name="send_file_to_friends_by_net">Zdieľať súbory cez sieť</string>
+    <string name="send_file_to_friends_by_net">Zdieľať súbory cez internet</string>
     <string name="select_all">Všetko</string>
     <string name="unselect_all">Odznačiť</string>
     <string name="delete">Vymazať</string>
