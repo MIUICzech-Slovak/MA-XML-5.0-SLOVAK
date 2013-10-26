@@ -181,7 +181,7 @@
     <string name="resource_ranking">Populárne</string>
     <string name="resource_ranking_free">Zdarma</string>
     <string name="resource_ranking_purchase">Platené</string>
-    <string name="resource_category">Categórie</string>
+    <string name="resource_category">Kategórie</string>
     <string name="resource_my">Lokálne</string>
     <string name="resource_pack_price_info">%1$s Originál</string>
     <string name="resource_pack_discount_info">%1$s Uložené!</string>
