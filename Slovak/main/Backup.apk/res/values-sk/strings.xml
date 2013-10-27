@@ -188,7 +188,7 @@
 <string name="cloud_app_mine">Stiahnuté aplikácie</string>
 <string name="cloud_app_backup_summary">Automaticky zálohovať aplikácie a užívateľské dáta počas nabíjania telefónu a pripojení k Wi-Fi sieti.</string>
 <string name="cloud_app_function_summary">Ak zálohujete vaše dáta do cloudu, môžete ich obnoviť na ktoromkoľvek zariadení.</string>
-<string name="cloud_app_restore_action_bar_title">Zálohovaných %1$s dát</string>
+<string name="cloud_app_restore_action_bar_title">Zálohované dáta %1$s</string>
 <string name="cloud_app_current_device">Súčasné zariadenie</string>
 <string name="cloud_app_other_devices">Ostatné zariadenia</string>
 <string name="cloud_app_delete_data">Vymazať zálohu</string>
