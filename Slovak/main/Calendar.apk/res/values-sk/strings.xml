@@ -159,7 +159,7 @@
     <string name="response_maybe">Možno</string>
     <string name="response_no">Nie</string>
     <string name="response_yes">Áno</string>
-	<string name="rest_day_indication" />
+	<string name="rest_day_indication"/>
     <string name="save_label">Uložiť</string>
     <string name="saving_event">Udalosť bola uložená.</string>
     <string name="saving_event_with_guest">Aktualizácie boli odoslané.</string>
@@ -188,10 +188,10 @@
     <string name="view_event_response_label">Zúčastníte sa?</string>
     <string name="week_view">Týždeň</string>
     <string name="weekly">Týždenne (vždy %s)</string>
-	<string name="work_day_indication" />
-    <string name="what_label">Čo</string>
+	<string name="what_label">Čo</string>
     <string name="when_label">Kedy</string>
     <string name="where_label">Kde</string>
+    <string name="work_day_indication"/>
     <string name="yearly">Ročne (%s)</string>
     <string name="yearly_plain">Ročne</string>
 </resources>

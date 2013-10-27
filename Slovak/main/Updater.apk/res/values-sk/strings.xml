@@ -26,6 +26,13 @@
     <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wi-Fi pripojenie</string>
     <string name="checking_for_updates">Kontrola aktualizácií...</string>
     <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
+    <string name="comment_invalid">Zvoľte počet hviezdičiek</string>
+    <string name="comment_publish">Odoslať</string>
+    <string name="comment_sending">Odosielanie...</string>
+    <string name="comment_upload_failed">Odosielanie zlyhalo</string>
+    <string name="comment_upload_hint">Ďakujeme!</string>
+    <string name="comment_upload_not_logined">Najskôr sa prihláste</string>
+    <string name="comment_upload_success">Odoslané!</string>
     <string name="confirm_download_cancelation_dialog_message">Ste si istý že chcete zrušiť vybrané sťahovanie?</string>
     <string name="copy_install_log">Skopírovať</string>
     <string name="current_version_text">Súčasná verzia\u0020</string>
@@ -38,6 +45,9 @@
     <string name="download_ota_rom">Stiahnuť (%s)</string>
     <string name="download_whole_rom">Stiahnuť celú ROM (%s)</string>
     <string name="downloading_description">Sťahovanie...</string>
+    <string name="edit_comment">Komentovať</string>
+    <string name="edit_comment_title">Upraviť</string>
+    <string name="edit_text_default">Napíšte svoj komentár</string>
     <string name="emegency_build">Verzia:</string>
     <string name="exception_while_downloading">Chyba pri sťahovaní aktualizácie</string>
     <string name="expect">4.Očakávania</string>
@@ -46,8 +56,8 @@
     <string name="finish">Dokončiť</string>
     <string name="finish_download">Sťahovanie dokončené</string>
     <string name="fourgrid_hint_text">Ďakujeme za používanie MIUI ROM. Prosím dajte nám vedieť čo si o nej myslíte a pomôžte nám ju ešte viac vylepšíť.</string>
-    <string name="fourgrid_notificaiont">Zobraziť v notif. lište</string>
     <string name="fourgrid_no_notificaiont">"Nezobrazovať v notif. lište"</string>
+    <string name="fourgrid_notificaiont">Zobraziť v notif. lište</string>
     <string name="get_update_error">Získanie informácií o aktualizácii zlyhalo</string>
     <string name="install_email">Nainštalovať e-mailový softvér</string>
     <string name="install_file_explorer">prosím nainštalujte správcu súborov</string>
@@ -103,7 +113,7 @@
     <string name="send_install_log">Odoslať</string>
     <string name="send_install_log_error">Nepodarilo sa odoslať inštalačný log</string>
     <string name="share">Zdieľať</string>
-    <string name="share_qq">Zverejniť cez Tencent weibo</string>
+	<string name="share_qq">Zverejniť cez Tencent weibo</string>
     <string name="share_sina">Zverejniť cez Sina weibo</string>
     <string name="share_update">Zdieľať informácie o aktualizácii</string>
     <string name="share_update_content_sign">MIUI bola aktualizovaná na %1$s! Moje umiestnenie v rebríčku aktualizovania je %2$s. Pre detailný zoznam zmien, prosím navštívte %3$s.</string>
@@ -113,9 +123,9 @@
     <string name="sign_in_info"/>
     <string name="sign_in_info_rank_more"/>
     <string name="sign_in_info_total_more"/>
-	<string name="sina_share_pendding">Sending...</string>
-    <string name="sina_share_success">Sending successful!</string>
     <string name="sina_share_fail">Sending failed!</string>
+    <string name="sina_share_pendding">Sending...</string>
+    <string name="sina_share_success">Sending successful!</string>
     <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
     <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
     <string name="stable_build">Stabilné verzie</string>
@@ -157,14 +167,4 @@
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
     <string name="worst_update">Zlý update</string>
-    <string name="comment_publish">Odoslať</string>
-    <string name="edit_comment_title">Upraviť</string>
-    <string name="edit_comment">Komentovať</string>
-    <string name="edit_text_default">Napíšte svoj komentár</string>
-    <string name="comment_sending">Odosielanie...</string>
-    <string name="comment_upload_failed">Odosielanie zlyhalo</string>
-    <string name="comment_upload_hint">Ďakujeme!</string>
-    <string name="comment_upload_success">Odoslané!</string>
-    <string name="comment_invalid">Zvoľte počet hviezdičiek</string>
-    <string name="comment_upload_not_logined">Najskôr sa prihláste</string>
 </resources>

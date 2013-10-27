@@ -82,11 +82,11 @@
     <string name="qm_vip_list_group">Zoznam VIP</string>
     <string name="quiet_mode">Tichý režim</string>
     <string name="st_advanced_setting_group">Rozšírené</string>
-    <string name="st_block_setting_title">Spôsob blokovania</string>
-    <string name="st_block_setting_group">Nastavenia čiernej listiny</string>
     <string name="st_block_all">Blokovať hovory a SMS</string>
     <string name="st_block_mute">Blokovať hovory a stlmiť SMS</string>
     <string name="st_block_private_call_button">Blokovať hovory zo skrytého čísla</string>
+    <string name="st_block_setting_group">Nastavenia čiernej listiny</string>
+    <string name="st_block_setting_title">Spôsob blokovania</string>
     <string name="st_block_title">Blokovať a zobraziť v zázname</string>
     <string name="st_block_unknown_call">Blokovať hovory z neznámeho čísla</string>
     <string name="st_block_unknown_sms">Blokovať SMS z neznámeho čísla</string>
