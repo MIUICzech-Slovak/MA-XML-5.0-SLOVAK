@@ -77,7 +77,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="accessibility_toggle_screen_magnification_preference_title">Priblíženie obrazovky</string>
     <string name="accessibility_toggle_script_injection_preference_title">Zjednodušenie prístupu k webu</string>
     <string name="accessibility_toggle_speak_password_preference_title">Hovorené heslá</string>
-    <string name="account_settings">účty</string>
+    <string name="account_settings">Účty</string>
     <string name="account_sync_settings_title">Synchr.</string>
     <string name="activating">Aktivujem...</string>	
     <string name="active_device_admin_msg">Správca zariadenia</string>	
