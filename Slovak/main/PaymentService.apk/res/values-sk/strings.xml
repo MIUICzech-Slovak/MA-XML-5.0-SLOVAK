@@ -293,7 +293,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Za každé navýšenie cez SMS, si operátor účtuje 0.1 RMB poplatok</string>
     <string name="msg_picker_hint_3_1">3.</string>
-    <string name="msg_picker_hint_3_2">Maximálne je možné navýšiť 300 RMB za mesiac</string>	
+    <string name="msg_picker_hint_3_2">Maximálne je možné navýšiť %1$s RMB za mesiac</string>	
     <string name="msg_send_no_net_error">Failed to send message: cannot connect to your network provider.</string>	
     <string name="msg_send_no_sim_error">Failed to send message: try reinserting your network provider card.</string>	
     <string name="msg_send_send_fail_error">Odosielanie správy zlyhalo</string>	
@@ -350,7 +350,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="progress_submit_pay_summary">Platba: %1$s RMB</string>
     <string name="progress_submit_recharge_summary">Navýšenie: %1$s Mi kreditov</string>
     <string name="progress_submit_title">Objednávka odoslaná</string>
-    <string name="progress_success_pay_summary">Platba dokončená! :)</string>
+    <string name="progress_success_pay_summary">%1$s Mi Kreditov navýšených，%2$s Mi Kreditov zaplatených</string>
     <string name="progress_success_pay_title">Platba %1$s Mi kreditov dokončená</string>
     <string name="progress_success_recharge_summary">Stav konta: %1$s Mi kreditov</string>
     <string name="progress_success_recharge_title">Navýšenie %1$s Mi kreditov dokončené</string>
@@ -393,4 +393,46 @@ Skontrolujeme to do dvoch pracovných dní"</string>
     <string name="voucher_edit_limit">čísla</string>
     <string name="voucher_error_password_empty">Prázdne.</string>
     <string name="voucher_input_password_prompt">Vložte kód</string>
+    <string name="button_recharge_pay">Potvrdiť</string>
+    <string name="recharge_novalid_method">Žiaden možný spôsob navýšenia.</string>
+    <string name="security_setting">Zabezpečenie</string>
+    <string name="lockscreen_forgot_pattern_button_text"><u>Zabudol som vzor</u></string>
+    <string name="lockpattern_recording_intro_header">Nakreslite odomykací vzor:</string>
+    <string name="lockpattern_settings_help_how_to_record">Ako nakresliť odomykací vzor</string>
+    <string name="lockpattern_recording_incorrect_too_short">Spojte %d body. Skúste to znova:</string>
+    <string name="lockpattern_pattern_entered_header">Vzor uložený.</string>
+    <string name="lockpattern_need_to_confirm">Nakreslite opäť pre potvrdenie:</string>
+    <string name="lockpattern_need_to_confirm_wrong">Nie je zhodný s predchádzajúcim vzorom, zadajte ho znovu:</string>
+    <string name="lockpattern_need_to_unlock_wrong">&lt;font color=red>Nesprávne heslo. Môžete ho zadať ešte %d krát&lt;/font></string>
+    <string name="lockpattern_pattern_confirmed_header">Váš nový odomykací vzor:</string>
+    <string name="lockpattern_recording_inprogress">Oddiaľte prst keď skončíte.</string>
+    <string name="lockpattern_retry_text"><u>Obnoviť odomykací vzor</u></string>
+    <string name="forget_password"><u>Zabudol som heslo</u></string>
+    <string name="login">Prihlásiť</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="change_security_lock">Viac možností zamykania</string>
+    <string name="lockpassword_confirm_your_pattern_header">Potvrďte Váš vzor</string>
+    <string name="lockpassword_input_your_pattern_header">Potvrďte Váš vzor</string>
+    <string name="lockpassword_choose_your_pattern_header">Zvoľte Váš vzor</string>
+    <string name="lockpattern_continue_button_text">Pokračovať</string>
+    <string name="lockpattern_confirm_button_text">Potvrdiť</string>
+    <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>
+    <string name="lockpattern_tutorial_continue_label">Ďalej</string>
+    <string name="lockpattern_need_to_unlock_wrong_footer" />
+    <string name="lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Príliš mnoho nesprávnych pokusov!&lt;/font></string>
+    <string name="lockpattern_need_to_unlock_footer" />
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Skúste to znova o %d sekúnd.</string>
+    <string name="title_myaccount">Môj účet: %s</string>
+    <string name="title_gesture">Vzor</string>
+    <string name="title_lockpattern">Vyžadovať odomykací vzor</string>
+    <string name="title_visible_pattern">Zobraziť vzor</string>
+    <string name="summary_lockpattern">Vyžadovať odomykací vzor pre Mi Kredity</string>
+    <string name="title_change_lockpattern">Nastaviť odomykací vzor</string>
+    <string name="title_password">Heslo</string>
+    <string name="title_nopassword">"Nevyžadovať pre malé platby"</string>
+    <string name="title_password_threshold">Denný limit = ￥%1$s</string>
+    <string name="title_nopassword_dialog">Denný limit</string>
+    <string name="onemore_click_exit">Stlačte ešte raz pre ukončenie</string>
+    <string name="progress_error_pay_summary">%1$s Mi Kreditov nabitých ale platba zlyhala, skúste to opäť neskôr.</string>
+    <string name="progress_error_recharge_summary">Navýšenie zlyhalo, skúste to opäť neskôr.</string>
 </resources>

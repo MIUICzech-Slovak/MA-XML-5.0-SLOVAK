@@ -592,4 +592,19 @@
     <string name="quicklinks_most_visited">Pridať na úvodnú stranu</string>
     <string name="quicklinks_most_visited_subtitle">Pridať vlastný odkaz na úvodnú stranu</string>
     <string name="quicklinks_group_default_subtitle">Prázdne</string>
+    <string name="already_in_top_level">Záložka už je v najvyššej úrovni</string>
+    <string name="webapp_app_name">Obchod aplikácií</string>
+    <string name="webapp_dialog_title">Pridať aplikáciu na plochu</string>
+    <string name="webapp_add_to_desktop">Pridať na plochu</string>
+    <string name="webapp_web_goback">Dozadu</string>
+    <string name="webapp_web_forward">Dopredu</string>
+    <string name="webapp_bottom_bar_addtodesk">Pridať na plochu</string>
+    <string name="webapp_bottom_bar_hidebar">Skryť spodnú lištu</string>
+    <string name="webapp_bottom_bar_showbar">Zobraziť spodnú lištu</string>
+    <string name="webapp_bottom_bar_openbrowser">Otvoriť z Prehliadača</string>
+    <string name="webapp_bottom_bar_exit">Ukončiť</string>
+    <string name="webapp_splashview_loading">Načítavanie...</string>
+    <string name="webapp_addtodeskpop_append">Pridané</string>
+    <string name="dialog_geolocation_reject">Odmietnuť</string>
+    <string name="dialog_geolocation_share">Súhlasím</string>
 </resources>
