@@ -800,11 +800,11 @@ Synchronizujte ich teraz."</string>
     <string name="resource_buy">"Kúpiť "</string>
     <string name="resource_can_not_selected">%1$s sa nedá vybrať!</string>
     <string name="resource_category">Categórie</string>
-    <string name="resource_comment_1_star">1 Hviezdička</string>
-    <string name="resource_comment_2_star">2 Hviezdičky</string>
-    <string name="resource_comment_3_star">3 Hviezdičky</string>
-    <string name="resource_comment_4_star">4 Hviezdičky</string>
-    <string name="resource_comment_5_star">5 Hviezdičiek</string>
+    <string name="resource_comment_1_star">*</string>
+    <string name="resource_comment_2_star">**</string>
+    <string name="resource_comment_3_star">***</string>
+    <string name="resource_comment_4_star">****</string>
+    <string name="resource_comment_5_star">*****</string>
     <string name="resource_comment_account_need_activitied">Aktivovať Xiaomi účet.</string>
     <string name="resource_comment_all_comments">Všetko</string>
     <string name="resource_comment_average_score">Priemerné</string>
