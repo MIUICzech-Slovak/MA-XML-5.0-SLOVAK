@@ -62,7 +62,6 @@
     <string name="pref_summary_any_bytes_popup">Sťahovať len cez Wi-Fi</string>
     <string name="pref_title_enable_max_bytes_popup">Opýtať sa pri sťahovaní dát</string>	
     <string name="pref_title_max_bytes_limit">Limit veľkosti súboru</string>	
-    <string name="prefDefault_max_bytes_limit">1048576</string>	
     <string name="preferences_title">Nastavenia</string>	
     <string name="remove_download">Odstrániť</string>
     <string name="retry_after_network_available">Prosím, skúste to opäť keď bude dostupná sieť</string>	
