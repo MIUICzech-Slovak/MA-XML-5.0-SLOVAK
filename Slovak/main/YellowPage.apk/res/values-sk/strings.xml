@@ -105,4 +105,23 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
+    <string name="packages_pay">Kúpiť</string>
+    <string name="packages_pay_confirm">Potvrdiť</string>
+    <string name="packages_title">Preferential flow of packages</string>
+    <string name="select_package_before_buy">Please select the package you want to buy</string>
+    <string name="packages_select_to_buy_title">You choose to buy:</string>
+    <string name="packages_pay_hint">Send text message, it is free</string>
+    <string name="packages_pay_success">Message sent</string>
+    <string name="packages_wait_for_op_reply">"Please wait for operator's confirmation message"</string>
+    <string name="packages_select_sim_cards_title">Please select SIM card</string>
+    <string name="packages_select_sim_cards_summmary">System will recommend traffic packages according to your choice</string>
+    <string name="packages_no_package">No suitable traffic packages</string>
+    <string name="express_inquiry_serial_number_indication">Tracking number</string>
+    <string name="express_inquiry_logistics_indication">Courier company</string>
+    <string name="express_inqiury_select_logistics">Courier company</string>
+    <string name="expresss_inquiry_frequently_used_logistics">Common</string>
+    <string name="expresss_inquiry_all_logistics">All</string>
+    <string name="balance_inquiry_title">Balance inquiry</string>
+    <string name="balance_inquiry_default_sp_name">Operator</string>
+    <string name="balance_inquiry_send_sms_hint">A free SMS message will be sent to operator to query balance</string>
 </resources>

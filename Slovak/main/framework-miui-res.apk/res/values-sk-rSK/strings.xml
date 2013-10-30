@@ -263,4 +263,9 @@
     <string name="winter_solstice"/>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">"Včera "</string>
+    <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
+    <string name="yellow_page_module_sms_sent">SMS správa odoslaná.</string>
+    <string name="yellow_page_sms_send_failed">Odosielanie SMS správy zlyhalo.</string>
+    <string name="yellow_page_sms_sending">Odosielanie...</string>
+    <string name="yellow_page_sms_disabled_in_privacy_mode">"Nie je možné odoslať SMS správu v režime Návštevník."</string>
   </resources>

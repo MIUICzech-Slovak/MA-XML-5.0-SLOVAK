@@ -8,7 +8,7 @@
 %1$s"</string>
     <string name="account_dspt">"Účet Xiaomi môže synchronizovať a zálohovať Vaše správy, 
 kontakty, fotky, atď"</string>	
-    <string name="account_hint_text">Email/Telefónne číslo</string>	
+    <string name="account_hint_text">Email alebo telefónne číslo</string>	
     <string name="account_name">Účet: %1$s</string>	
     <string name="activate_phone_failed_notif_title">Nastavenie MiCloud zlyhalo</string>
     <string name="activate_phone_send_sms_fail">Odoslanie aktivačnej SMS zlyhalo, nie je možné spustiť synchronizáciu</string>
@@ -20,7 +20,7 @@ kontakty, fotky, atď"</string>
     <string name="alert_title_remove_account">Odhlásiť sa</string>	
     <string name="app_name">Xiaomi Service Framework</string>	
     <string name="available_functionality">Dostupné služby</string>
-    <string name="bad_authentication">Overenie sa nepodarilo, zle zadané užívateľské meno alebo heslo</string>	
+    <string name="bad_authentication">Nesprávne meno alebo heslo</string>	
     <string name="balance">Zostatok: %1$s Mi kreditov</string>
     <string name="bankcall_bank_account">Kreditná karta:</string>
     <string name="bankcall_call_hint">"Budete mať hovor z banky Union pay (020-96585). 
@@ -91,11 +91,11 @@ Postupujte podľa inštrukcií pre dokončenie objednávky."</string>
     <string name="data_keep_in_phone">Ponechať v mojom telefóne</string>
     <string name="data_sync_notice">Použite svoj účet Xiaomi na synchronizáciu správ, kontaktov a ďalších údajov.</string>
     <string name="data_wipe_from_phone">Vymazať z môjho telefónu</string>
-    <string name="disable_find_device_error">%1$s, vypnutie zisťovania polohy zariadenia zlyhalo</string>	
+    <string name="disable_find_device_error">Chyba: %1$s</string>	
     <string name="disable_micloud"><u>Zakázať MiCloud</u></string>
-    <string name="email_already_be_used">Emailová adresa už je použitá</string>	
-    <string name="enable_find_device_error">%1$s, zapnutie zisťovania polohy zariadenia zlyhalo</string>	
-    <string name="enable_micloud">Povoliť služby cloudu</string>	
+    <string name="email_already_be_used">Emailová adresa už je použitá s iným účtom.</string>	
+    <string name="enable_find_device_error">Chyba: %1$s</string>	
+    <string name="enable_micloud">Registrovať alebo prihlásiť</string>	
     <string name="error_account_changed_summary">Váš účet Xiaomi bol aktualizovaný. 
 Skontrolujte si svoje údaje a skúste to znova.</string>	
     <string name="error_account_changed_title">Účet aktualizovaný</string>
@@ -135,15 +135,15 @@ Počkajte prosím 5 minút a skúste to opäť"</string>
     <string name="fee">%1$s Mi kreditov</string>	
     <string name="find_device">Poloha zariadenia</string>	
     <string name="find_device_check_phone_error_title">Zapnutie zisťovania polohy zariadenia zlyhalo</string>	
-    <string name="find_device_disabled_notice">"Môžete opäť otvoriť cez Nastavenia - Účty - Synch. - Účet Xiaomi"</string>	
+    <string name="find_device_disabled_notice">"Toto nastavenie môžete zmeniť v Nastavenia - Účty - MiCloud"</string>	
     <string name="find_device_disabled_title">Zisťovanie polohy zariadenia je vypnuté</string>	
     <string name="find_device_disabling">Vypínanie...</string>	
     <string name="find_device_enabling">Zapínanie...</string>	
     <string name="find_device_error_network">Sieť je nedostupná</string>
     <string name="find_device_error_server">Chyba servera</string>	
-    <string name="find_device_notice_p1">Ak neviete nájsť Váš telefón, môžete</string>
-    <string name="find_device_notice_p2">na i.xiaomi.com</string>
-    <string name="find_device_notice_p3">zistiť jeho polohu, zablokovať alebo vymazať všetky dáta</string>
+    <string name="find_device_notice_p1">Navštívte</string>
+    <string name="find_device_notice_p2">i.xiaomi.com</string>
+    <string name="find_device_notice_p3">pre získanie polohy, zablokovať, vymazať alebo obnoviť všetky dáta.</string>
     <string name="find_device_success_title">Zisťovanie polohy je zapnuté</string>
     <string name="find_password_on_web_msg">Navštívte account.xiaomi.com pre obnovu hesla</string>
     <string name="forget_password"><u>Zabudnuté heslo</u></string>
@@ -342,7 +342,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="micloud_activating_account_notify_info">Aktivujete Váš Xiaomi účet</string>	
     <string name="micloud_activating_account_notify_title">Aktivácia Vášho Xiaomi účtu...</string>	
     <string name="micloud_active_alert_title">Aktivovať Váš účet</string>	
-    <string name="micloud_active_email_sent_1">Zaslať aktivačný email na adresu:</string>	
+    <string name="micloud_active_email_sent_1">Aktivačný email zaslať na adresu:</string>	
     <string name="micloud_active_email_sent_2"/>
     <string name="micloud_active_email_visit">Navštívte %s</string>
     <string name="micloud_activing_account">Aktivujem Váš účet...</string>	
@@ -352,18 +352,20 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
     <string name="micloud_click_email">Klikníte na odkaz v emaily pre aktiváciu svojho účtu Xiaomi</string>
     <string name="micloud_click_email_to_valid">Kliknite na aktivačný odkaz v doručenom emaily</string>	
     <string name="micloud_delete_account">Odhlásiť sa</string>	
-    <string name="micloud_dspt">Cloudové služby MiCloud umožňujú odosielať správy, synchronizáciu, vyhľadávanie zariadenia a mnoho ďalších služieb. Taktiež môžete upravovať svoje dáta kedykoľvek online.</string>	
+    <string name="micloud_dspt">Používajte MiCloud na synchronizáciu dát, lokalizáciu strateného telefónu a zdieľanie súborov so svojími priateľmi...</string>	
     <string name="micloud_email">Emailová adresa</string>	
     <string name="micloud_error_email">Chybný email</string>	
-    <string name="micloud_error_empty_pwd">Prosím vyplňte heslo</string>	
-    <string name="micloud_error_empty_username">Prosím vyplňte Email/Číslo</string>
+    <string name="micloud_error_empty_pwd">Zadajte heslo</string>
+    <string name="micloud_error_empty_captcha_code">Zadajte Captcha kód.</string>
+    <string name="micloud_error_empty_vcode">Zadajte overovací kód.</string>	
+    <string name="micloud_error_empty_username">Zadajte užívateľské meno</string>
     <string name="micloud_error_illegal_pwd">Nepovolené heslo</string>
     <string name="micloud_input_password_prompt">Vložte heslo</string>
-    <string name="micloud_intro_01_part_01">Ušetrite za SMS správy</string>
-    <string name="micloud_intro_01_part_02">MIUI Vám umožňuje odosielať Cloudové správy zdarma cez internet</string>
-    <string name="micloud_intro_02_part_01">Nemusíte nič urobiť</string>
-    <string name="micloud_intro_02_part_02">Služby Cloudu Vám pomáhajú synchronizovať kontakty, správy, fotografie a ostatné dáta medzi rôznymi zariadeniami.</string>
-    <string name="micloud_intro_03_part_01">Svoje dáta už nikdy nestratíte a budú v bezpečí</string>
+    <string name="micloud_intro_01_part_01">Ušetrite za mobilné dáta!</string>
+    <string name="micloud_intro_01_part_02">Cloudové správy zdarma cez internet</string>
+    <string name="micloud_intro_02_part_01">Už nemusíte používať USB kľúč na prenášanie svojich dát!</string>
+    <string name="micloud_intro_02_part_02">Synchronizovať kontakty, správy, fotografie a ostatné dáta medzi rôznymi zariadeniami.</string>
+    <string name="micloud_intro_03_part_01">Vzdialene zabezpečiť svoje dáta v zariadení</string>
     <string name="micloud_intro_03_part_02">Taktiež môžete nájsť, zablokovať a vymazať svoje zariadenie na i.xiaomi.com</string>	
     <string name="micloud_is_what">Čo je MiCloud?</string>	
     <string name="micloud_more">Zistiť viac</string>	
@@ -374,9 +376,9 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
     <string name="micloud_reg_new">Vytvoriť nový</string>	
     <string name="micloud_resend_active_email">Znovu poslať aktivačný email</string>
     <string name="micloud_summary">Prihláste sa na Xiaomi účet pre synchronizáciu kontaktov, fotografií a mnoho iných funkcií.</string>
-    <string name="micloud_use_existing">Existujúci</string>	
-    <string name="micloud_via_int_sms_alert">Odošle sa SMS správa ktorá bude spoplatnená podľa cenníka Vášho mobilného operátora. Ste si istý, že chcete pokračovať?</string>	
-    <string name="micloud_via_sms_alert">Na overenie Vášho telefónneho čísla sa odošle SMS správa. Ste si istý, že chcete pokračovať?</string>
+    <string name="micloud_use_existing">Existujúci účet</string>	
+    <string name="micloud_via_int_sms_alert">Odošle sa SMS správa ktorá bude spoplatnená podľa cenníka Vášho mobilného operátora.</string>	
+    <string name="micloud_via_sms_alert">Na overenie Vášho telefónneho čísla sa odošle medzinárodná SMS správa.</string>
     <string name="micloud_welcome_skip_login"><u>Preskočiť</u></string>
     <string name="mili_center">Mi kredity</string>
     <string name="msg_denomination_type">Mi kredity</string>
@@ -402,7 +404,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
     <string name="my_mili_record">Moje Mi kredity</string>	
     <string name="my_xiaomi_account">Môj Xiaomi účet</string>
     <string name="next">Ďalšie</string>	
-    <string name="nobind">Neprepojený</string>	
+    <string name="nobind">Neprepojené</string>	
     <string name="order_price">%1$s Mi kreditov</string>	
     <string name="other_settings">Ďalšie nastavenia</string>	
     <string name="password">Heslo</string>	
@@ -501,10 +503,11 @@ Zadajte Vaše heslo"</string>
     <string name="send_sms_for_sync_title">Synchronizácia nie je aktivovaný</string>
     <string name="service_error">Chyba služby</string>	
     <string name="show_password">Zobraziť heslo</string>	
-    <string name="sim_changed_notification_content">SIM nie je aktivovaná. Aktivujte ju, prosím.</string>	
+    <string name="sim_changed_notification_content">SIM nie je aktivovaná.</string>	
     <string name="sina_weibo">Sina Weibo</string>
     <string name="skip_login">Preskočiť prihlásenie</string>
-    <string name="skip_setup_account_msg">Svoj účet Xiaomi môžete použiť na synchronizáciu správ, kontaktov a ďalších údajov. Chcete pokračovať neskôr?</string>
+    <string name="skip_login_u"><u>Preskočiť</u></string>
+    <string name="skip_setup_account_msg">Svoj účet môžete nastaviť aj neskôr v Nastaveniach telefónu.</string>
     <string name="skip_setup_account_title">Preskočiť nastavenie účtu</string>
     <string name="start_micloud">Štart</string>	
     <string name="sync_dspt">Použite svoj Xiaomi účet pre synchronizáciu dát</string>
@@ -539,4 +542,71 @@ s "</string>
     <string name="voucher_input_password_prompt">vložte heslo</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmpp_server_addr"/>
+    <string name="captcha">Captcha</string>
+    <string name="vcode">Overovací kód</string>
+    <string name="error_user_name">Nesprávne užívateľské meno.</string>
+    <string name="quick_login_title">Heslo</string>
+    <string name="quick_login_step2_title">Zabezpečenie prihlásenia</string>
+    <string name="input_captcha_hint">Zadajte k z obrázku</string>
+    <string name="input_vcode_hint">Zadajte overovací kód</string>
+    <string name="master_alert_notif_title">Dáta nie sú synchronizované %s dní</string>
+    <string name="sub_alert_notif_title">Synchronizácia nie je povolená</string>
+    <string name="alert_notif_title_dspt">Odporúčame obnoviť synchronizáciu pre zaistenie bezpečnosti vašich dát</string>
+    <string name="noRemind">Nepripomínať</string>
+    <string name="restoreSync">Obnoviť</string>
+    <string name="enableAll">Povoliť všetko</string>
+    <string name="master_alert_notif_dspt" formatted="false">"Za tento čas bolo pridaných %s kontaktov, %s SMS, %s fotografií, %s poznámok a ostatných dát. 
+
+ Ak sa váš telefón stratí alebo nechtiac vymaže, tieto dáta budú nenávratne stratené. Odporúča sa obnoviť synchronizáciu pre zabezpečenie vašich dát"</string>
+    <string name="sub_alert_notif_dspt" formatted="false">"Máte %s lokálnych kontaktov, %s SMS, %s fotografií, %s poznámok a ostatných nesynchronizovaných dát. 
+
+ Ak sa váš telefón stratí alebo nechtiac vymaže, tieto dáta budú nenávratne stratené. Odporúča sa povoliť synchronizáciu pre zabezpečenie vašich dát"</string>
+    <string name="wipe_data_dialog_title">"Niektoré položky neboli synchronizované."</string>
+    <string name="wipe_data_dialog_msg">%s nebolo synchronizované (tieto dáta sa stratia ak budete pokračovať).</string>
+    <string name="dirty_contacts_count">kontaktov: %d</string>
+    <string name="dirty_mms_count">správ: %d</string>
+    <string name="dirty_note_count">poznámok: %d</string>
+    <string name="wipe_data_dialog_msg_separator">, </string>
+    <string name="wrong_captcha">Nesprávny captcha kód</string>
+    <string name="wrong_vcode">Nesprávny kód</string>
+    <string name="input_vcode_prompt">Zadajte overovací kód</string>
+    <string name="trust_device">Verím tomuto zariadeniu</string>
+    <string name="vcode_prompt_long">Zadajte overovací kód vygenerovaný Xiaomi</string>
+    <string name="vcode_notification_title">Overenie prihlásenia nie je úplné</string>
+    <string name="activate_phone_failed_notif_title_msim">Aktivácia MiCloud pre SIM %s zlyhalo</string>
+    <string name="activate_status_title_activating">Aktivácia vašej SIM karty</string>
+    <string name="activate_status_title_activating_msim">Aktivácia vašej SIM karty %s</string>
+    <string name="activate_status_desc_getting_device_info">Načítavanie informácií o zariadení</string>
+    <string name="activate_status_desc_failed_getting_device_info">Načítavanie informácií o zariadení zlyhalo</string>
+    <string name="activate_status_desc_getting_sim_info">Načítavanie informácií o SIM karty</string>
+    <string name="activate_status_desc_failed_getting_sim_info">Načítavanie informácií o SIM karty zlyhalo</string>
+    <string name="activate_status_desc_getting_gateway">Načítavanie SMS brány</string>
+    <string name="activate_status_desc_failed_getting_gateway">Načítavanie SMS brány zlyhalo</string>
+    <string name="activate_status_desc_prepare_sending_sms">Pripraviť odoslanie aktivačnej SMS</string>
+    <string name="activate_status_desc_sending_sms">Odosielanie aktivačnej SMS...</string>
+    <string name="activate_status_desc_sms_sent">Aktivačná SMS bola odoslaná</string>
+    <string name="activate_status_desc_sim_absent">SIM karta je odpojená</string>
+    <string name="activate_status_desc_acquire_phone_number">Načítavanie čísla telefónu zo servera</string>
+    <string name="activate_status_desc_acquire_phone_number_server_error_wait">Chyba servera počas načítavania čísla telefónu. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Nedostupný server počas načítavania čísla telefónu. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Nie je možné načítať číslo telefónu. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_phone_number_server_error">Chyba servera počas načítavania čísla telefónu.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_io_error">Nedostupný server počas načítavania čísla telefónu.</string>
+    <string name="activate_status_desc_acquire_phone_number_server_no_info">Nie je možné načítať číslo telefónu.</string>
+    <string name="activate_status_desc_acquire_sim_user_id">Načítavanie informácií o registrácií zo servera</string>
+    <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Chyba servera počas načítavania informácií o registrácií. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Nedostupný server počas načítavania informácií o registrácií. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Nie je možné získať informácie o registrácií. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_sim_user_id_server_error">Chyba servera počas načítavania informácií o registrácií</string>
+    <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Nedostupný server počas načítavania informácií o registrácií</string>
+    <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Nie je možné načítať informácie o registrácií</string>
+    <string name="activate_status_desc_acquire_sim_pass_token">Načítavanie informácií zo servera</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Chyba servera počas načítavania bezpečnostných informácií. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Nedostupný server počas načítavania bezpečnostných informácií. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Nie je možné získať bezpečnostné informácie. Opakuje sa pokus...</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_error">Chyba servera počas načítavania bezpečnostných informácií</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Nedostupný server počas načítavania bezpečnostných informácií</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Nie je možné načítať bezpečnostné informácie</string>
+    <string name="activate_status_desc_acquire_sim_pass_token_password_error">Nesprávne heslo. Nie je možné načítať bezpečnostné informácie.</string>
+    <string name="checking_input">Kontrola...</string>
 </resources>
