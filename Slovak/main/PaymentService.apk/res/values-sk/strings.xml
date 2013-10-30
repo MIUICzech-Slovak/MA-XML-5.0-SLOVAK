@@ -92,7 +92,7 @@ Počkajte prosím 5 minút a skúste to opäť"</string>
     <string name="giftcard_denom_available">Mi kredit(ov) dostupných</string>
     <string name="giftcard_denom_frozen">Mi kredit(ov) zmrazených</string>	
     <string name="giftcard_empty">Žiadna poukážka</string>	
-    <string name="giftcard_expire">%1$s-%2$s-%3$s vypršala platnosť</string>	
+    <string name="giftcard_expire">%1$s vypršala platnosť</string>	
     <string name="giftcard_hint">"Mi kredity z poukážky sa použijú 
 ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="giftcard_push_notification_prime_title">"Dostali ste darčekovú poukážku"</string>
