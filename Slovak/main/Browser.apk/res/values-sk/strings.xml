@@ -73,7 +73,7 @@
     <string name="bookmark_folder_needs_title">Zložka musí mať názov.</string>	
     <string name="bookmark_list_view">Zoznam</string>	
     <string name="bookmark_needs_title">Záložka musí mať názov.</string>	
-    <string name="bookmark_needs_url">Záložka musí mať umiestnenie.</string>	
+    <string name="bookmark_needs_url">Záložka musí mať adresu.</string>	
     <string name="bookmark_not_saved">"Záložku nemožno uložiť."</string>	
     <string name="bookmark_page">Uložiť poslednú prezeranú stránku medzi záložky.</string>	
     <string name="bookmark_saved">Uložené medzi záložky.</string>
@@ -444,10 +444,10 @@
     <string name="pref_privacy_clear_passwords_dlg">Vymazať všetky uložené heslá?</string>
     <string name="pref_privacy_clear_passwords_summary">Vymazať všetky uložené heslá</string>
     <string name="pref_privacy_cookies_title">Cookies</string>
-    <string name="pref_privacy_enable_geolocation">Povoliť umiestnenie</string>
-    <string name="pref_privacy_enable_geolocation_summary">Povoliť stránkam požadovať vaše umiestnenie.</string>	
+    <string name="pref_privacy_enable_geolocation">Povoliť polohu</string>
+    <string name="pref_privacy_enable_geolocation_summary">Povoliť stránkam požadovať vašu polohu.</string>	
     <string name="pref_privacy_formdata_title">Údaje formulára</string>
-    <string name="pref_privacy_location_title">Umiestnenie</string>
+    <string name="pref_privacy_location_title">Poloha</string>
     <string name="pref_privacy_security_title">Súkromie a bezpečnosť</string>	
     <string name="pref_reading_mode_enabled_title">Čítací režim</string>
     <string name="pref_reading_mode_enabled_title_summary">Je potrebné zapnúť JavaScript</string>
