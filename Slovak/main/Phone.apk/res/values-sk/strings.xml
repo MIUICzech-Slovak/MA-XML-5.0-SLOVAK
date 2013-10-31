@@ -1120,7 +1120,7 @@
     <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
     <string name="xdivert_summary">CFNRc Settings</string>
     <string name="xdivert_title">X-Divert</string>
-    <string name="auto_record_unknown_miui">Neznáme čísla</string>
-    <string name="auto_record_yellowpage_miui">Zlaté stránky</string>
-    <string name="auto_record_scenario_enteries_whitelist_miui">Vlastné</string>
+    <string name="auto_record_unknown_miui">Neznáme číslo</string>
+    <string name="auto_record_yellowpage_miui">Zlaté stránky (Iba Čína)</string>
+    <string name="auto_record_scenario_enteries_whitelist_miui">Prispôsobiť</string>
 </resources>
