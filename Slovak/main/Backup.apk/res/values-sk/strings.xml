@@ -65,7 +65,7 @@
 <string name="cloud_app_find_backup_prompt_2">Ak odmietnete, vaše súčasné dáta sa prepíšu počas obnovy.</string>
 <string name="cloud_app_function_summary">Ak zálohujete vaše dáta do cloudu, môžete ich obnoviť na ktoromkoľvek zariadení.</string>
 <string name="cloud_app_invalid_op">"Nie je možné zobraziť dáta v cloude počas zálohovania alebo obnovy."</string>
-<string name="cloud_app_just_show_in_current_device">Zobraziť iba aplikácie v tomto zariadeni</string>
+<string name="cloud_app_just_show_in_current_device">Iba aplikácie v tomto zariadeni</string>
 <string name="cloud_app_mine">Stiahnuté aplikácie</string>
 <string name="cloud_app_name">Online zálohovanie</string>
 <string name="cloud_app_no_data">Žiadne dáta.</string>
