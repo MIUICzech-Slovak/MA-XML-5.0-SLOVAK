@@ -89,7 +89,7 @@
     <string name="auto_record_scenario_enteries_always_miui">Všetky čísla</string>
     <string name="auto_record_scenario_title_miui">Režim nahrávania hovoru</string>
     <string name="auto_record_whitelist_miui">Nastaviť zvolené čísla</string>
-    <string name="auto_record_whitelist_no_item_miui">Kliknite na spodné tlačidlo pre pridanie čísiel na automatické nahrávanie hovoru</string>
+    <string name="auto_record_whitelist_no_item_miui">Pridajte čísla pre automatické nahrávanie hovoru</string>
     <string name="auto_record_whitelist_summary_for_one_miui">1 číslo</string>
     <string name="auto_record_whitelist_summary_miui">%d čísiel</string>
     <string name="auto_redial_pref_summary_miui">Automaticky volať späť pokiaľ je linka obsadená</string>
