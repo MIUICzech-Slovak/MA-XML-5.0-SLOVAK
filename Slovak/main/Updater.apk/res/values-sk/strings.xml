@@ -33,7 +33,7 @@
     <string name="comment_upload_hint">Ďakujeme!</string>
     <string name="comment_upload_not_logined">Najskôr sa prihláste</string>
     <string name="comment_upload_success">Odoslané!</string>
-    <string name="confirm_download_cancelation_dialog_message">Ste si istý že chcete zrušiť vybrané sťahovanie?</string>
+    <string name="confirm_download_cancelation_dialog_message">Zrušiť sťahovanie aktualizácie?</string>
     <string name="copy_install_log">Skopírovať</string>
     <string name="current_version_text">Súčasná verzia\u0020</string>
     <string name="current_version_update_monthly_build">Súčasná verzia (Aktualizácia mesačných verzií)</string>
