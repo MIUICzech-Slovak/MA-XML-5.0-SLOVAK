@@ -64,7 +64,7 @@
     <string name="install_qq">Inštalovať QQ app</string>
     <string name="install_rom_from_sd">Vybrať ZIP s novou verziou MIUI</string>
     <string name="install_sina">Inštalovať Sina app</string>
-    <string name="install_whole_rom">Stiahnite celú ROM alebo zip súbor je poškodený</string>
+    <string name="install_whole_rom">Nie je stiahnutá správna ROM alebo zip súbor je poškodený</string>
     <string name="internal_build">Neverejná verzia</string>
     <string name="kernel_upgrade_link"/>
     <string name="kernel_upgrade_version"/>
