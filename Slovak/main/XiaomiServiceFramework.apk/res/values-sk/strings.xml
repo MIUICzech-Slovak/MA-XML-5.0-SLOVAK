@@ -545,7 +545,7 @@ s "</string>
     <string name="error_user_name">Nesprávne užívateľské meno.</string>
     <string name="quick_login_title">Heslo</string>
     <string name="quick_login_step2_title">Zabezpečenie prihlásenia</string>
-    <string name="input_captcha_hint">Zadajte k z obrázku</string>
+    <string name="input_captcha_hint">Zadajte kód z obrázka</string>
     <string name="input_vcode_hint">Zadajte overovací kód</string>
     <string name="master_alert_notif_title">Dáta nie sú synchronizované %s dní</string>
     <string name="sub_alert_notif_title">Synchronizácia nie je povolená</string>
