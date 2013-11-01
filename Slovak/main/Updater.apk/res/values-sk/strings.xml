@@ -60,11 +60,11 @@
     <string name="fourgrid_notificaiont">Zobraziť v notif. lište</string>
     <string name="get_update_error">Získanie informácií o aktualizácii zlyhalo</string>
     <string name="install_email">Nainštalovať e-mailový softvér</string>
-    <string name="install_file_explorer">prosím nainštalujte správcu súborov</string>
+    <string name="install_file_explorer">Prosím nainštalujte správcu súborov</string>
     <string name="install_qq">Inštalovať QQ app</string>
     <string name="install_rom_from_sd">Vybrať ZIP s novou verziou MIUI</string>
     <string name="install_sina">Inštalovať Sina app</string>
-    <string name="install_whole_rom">Odporúča sa stiahnuť celú ROM</string>
+    <string name="install_whole_rom">Stiahnite celú ROM alebo zip súbor je poškodený</string>
     <string name="internal_build">Neverejná verzia</string>
     <string name="kernel_upgrade_link"/>
     <string name="kernel_upgrade_version"/>
@@ -92,7 +92,7 @@
     <string name="next">Ďalej</string>
     <string name="no_proper_updates">Žiadna aktualizácia sa nenašla pre vašu verziu ROM</string>
     <string name="no_updatecheck_executed">Kontrola aktualizácie nebola vykonaná</string>
-    <string name="no_updates_found">Už máte nainštalovanú najnovšiu verziu.</string>
+    <string name="no_updates_found">Už máte nainštalovanú najnovšiu verziu</string>
     <string name="no_updates_warning">Žiadne nové aktualizácie pre Váš telefón neboli nájdené.</string>
     <string name="no_updates_warning2">Táto aplikácia Vás upozorní na nové aktualizácie.</string>
     <string name="not_recommend">"Neodporúčam"</string>
