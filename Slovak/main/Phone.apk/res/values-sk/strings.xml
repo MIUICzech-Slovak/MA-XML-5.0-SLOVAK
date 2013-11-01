@@ -80,7 +80,7 @@
     <string name="auto_ip_exception_summary_miui">%d celkom</string>
     <string name="auto_ip_exception_summary_more_miui">,... %d celkom</string>
     <string name="auto_ip_no_exceptions_miui">"Zadajte čísla, ktoré nepotrebujú IP predčíslie"</string>
-    <string name="auto_ip_remove_exception_numbers_confirm_miui">Naozaj chcete zmazať %d čísiel?</string>
+    <string name="auto_ip_remove_exception_numbers_confirm_miui">Vymazať tieto čísla (%d)?</string>
     <string name="auto_ip_setting_miui">Automaticky nastavené IP</string>
     <string name="auto_ip_summary_not_enabled">Nie je povolené</string>
     <string name="auto_ip_support_local_numbers">Podpora lokálnych čísiel</string>
