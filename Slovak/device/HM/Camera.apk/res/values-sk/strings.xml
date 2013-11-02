@@ -536,4 +536,22 @@
   <string name="pref_camera_hdr_type_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_normal">Normálne</string>
   <string name="pref_camera_hdr_type_entry_live">Živé</string>
+  <string name="open">Áno</string>
+  <string name="skip">Nie</string>
+  <string name="pref_camera_coloreffect_title_simple_mode">Filter</string>
+  <string name="pref_camera_jpegquality_entry_superfine">Veľmi dobrá</string>
+  <string name="pref_camera_jpegquality_entry_fine">Dobrá</string>
+  <string name="pref_camera_jpegquality_entry_normal">Normálna</string>
+  <string name="pref_camera_saturation_entry_low">Nízka</string>
+  <string name="pref_camera_saturation_entry_middle">Stredná</string>
+  <string name="pref_camera_saturation_entry_high">Vysoká</string>
+  <string name="pref_camera_sharpness_entry_low">Nízka</string>
+  <string name="pref_camera_sharpness_entry_middle">Stredná(Predvolené)</string>
+  <string name="pref_camera_sharpness_entry_high">Vysoká</string>
+  <string name="pref_camera_contrast_entry_low">Nízky</string>
+  <string name="pref_camera_contrast_entry_middle">Stredný(Predvolené)</string>
+  <string name="pref_camera_contrast_entry_high">Vysoký</string>
+  <string name="pref_video_continuous_focus">Kontinuálne ostrenie</string>
+  <string name="pref_video_continuous_focus_entry_off">Vypnuté</string>
+  <string name="pref_video_continuous_focus_entry_on">Zapnuté</string>
 </resources>
