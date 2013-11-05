@@ -50,6 +50,9 @@
     <string name="always_use_accessory">Použiť ako predvolené pre toto USB príslušenstvo</string>	
     <string name="always_use_device">Použiť ako predvolené pre toto USB zariadenie</string>	
     <string name="app_label">System UI</string>	
+    <string name="audio_effect_settings">Nastaviť typ slúchadiel</string>
+    <string name="audio_effect_info">Optimalizovať zvuk</string>
+    <string name="audio_effect_custom">Nastavenia</string>
     <string name="battery_low_percent_format">ostáva %d%%</string>	
     <string name="battery_low_subtitle">Batéria je skoro vybitá</string>	
     <string name="battery_low_title">Pripojte nabíjačku</string>	

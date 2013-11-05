@@ -450,4 +450,5 @@ Pokus: %s."</string>
   <string name="type_vcard">vCard</string>
   <string name="add_slide_before">Pridať stránku (pred)</string>
   <string name="context_menu_add_to_browser_favorite">Pridať do obľúbených v prehliadači</string>
+  <string name="invalid_private_contact">Chyba súkromného kontaktu</string>
 </resources>
