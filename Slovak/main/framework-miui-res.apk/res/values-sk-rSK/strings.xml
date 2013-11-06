@@ -225,6 +225,7 @@
     <string name="the_mid_autumn_festival"/>
     <string name="the_rains"/>
     <string name="the_spring_festival"/>
+    <string name="toast_lockscreen_glogin_empty_password">Vyžaduje sa heslo.</string>
     <string name="today">"Dnes "</string>
     <string name="tomorrow">"Zajtra "</string>
     <string name="unknown">Neznáme číslo</string>
