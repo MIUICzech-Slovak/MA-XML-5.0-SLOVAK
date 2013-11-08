@@ -403,7 +403,7 @@
   <string name="timed_message_in_total">... (%d celkovo)</string>
   <string name="timed_message_to">Komu</string>
   <string name="title_date_type">Časová značka</string>
-  <string name="title_timed_message_dialog">Nastavte prosím čas odoslania tejto správy</string>
+  <string name="title_timed_message_dialog">Čas odoslania správy</string>
   <string name="to_address_label">"Komu: "</string>
   <string name="to_count">%d ľudí</string>
   <string name="to_label">"Komu "</string>
