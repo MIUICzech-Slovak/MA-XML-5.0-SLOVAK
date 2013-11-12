@@ -81,7 +81,7 @@
     <string name="stop_recording">Zastaviť</string>
     <string name="storage_is_full">Nie je dostatok voľného miesta</string>
     <string name="timer_format" formatted="false">%02d:%02d</string>
-    <string name="toast_max_record_time">Dosiahnutá maximálna dĺžka nahrávky: %1$s podporuje maximálne %2$s pripojených nahrávok</string>
+    <string name="toast_max_record_time">%1$s môže nahrať okolo %2$s</string>
     <string name="toast_uninstall_fileexplorer">Správca súborov nie je nainštalovaný</string>
     <string name="unknown_caller">Neznáme číslo</string>
     <string name="view_list_of_recordings">Zoznam nahrávok</string>

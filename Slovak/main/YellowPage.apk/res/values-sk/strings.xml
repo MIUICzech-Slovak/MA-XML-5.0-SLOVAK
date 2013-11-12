@@ -124,4 +124,12 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
     <string name="balance_inquiry_title">Balance inquiry</string>
     <string name="balance_inquiry_default_sp_name">Operator</string>
     <string name="balance_inquiry_send_sms_hint">A free SMS message will be sent to operator to query balance</string>
+    <string name="mark_title_null_hint">Input should not be empty</string>
+    <string name="recharge_history_empty">No history</string>
+    <string name="express_inquiry_internal_failure">"Error occurred.
+Please check tracking number"</string>
+    <string name="express_inquiry_history">History</string>
+    <string name="express_inquiry_delivered">Delivered</string>
+    <string name="express_inquiry_no_history">No history</string>
+
 </resources>

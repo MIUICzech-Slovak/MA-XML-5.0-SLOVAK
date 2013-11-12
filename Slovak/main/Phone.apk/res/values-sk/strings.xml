@@ -45,6 +45,7 @@
     <string name="antispam_marked_count">Odmietlo %1$d ľudí</string>
     <string name="antispam_marked_title">%1$s</string>
     <string name="antispam_notification_title">Zistené neznáme číslo</string>
+    <string name="antispam_provider">Označené %s</string>
     <string name="apn_settings">Názvy prístupových bodov (APN)</string>
     <string name="areacode_required_accept_miui">OK</string>
     <string name="areacode_required_for_emergency_number_miui">Miestne núdzové číslo</string>

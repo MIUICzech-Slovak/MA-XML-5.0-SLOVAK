@@ -485,4 +485,14 @@ spoločne!"</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
+  <string name="pick_too_much_tips">"Vybraných príliš mnoho položiek (maximum je %d)."</string>
+  <string name="operation_add_picture">Vybrať obrázky</string>
+  <string name="preparing_data_to_delete">Príprava obrázkov na vymazanie.</string>
+  <string name="picker_tab_camera">Fotoaparát</string>
+  <string name="picker_no_items_selected">Žiadne položky</string>
+  <string name="picker_select_album_title_empty">Vyberte album</string>
+  <string name="picker_no_album_selected">Žiaden vybraný album</string>
+  <string name="video_download_start">Začať sťahovať video</string>
+  <string name="video_download_in_process">Sťahovanie videa</string>
+  <string name="video_not_exist">Video sa nenašlo</string>
 </resources>
