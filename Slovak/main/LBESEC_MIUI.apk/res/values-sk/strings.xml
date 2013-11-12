@@ -153,7 +153,7 @@
     <string name="HIPS_SecurityPrompt_Accept">Povolené (%d)</string>
     <string name="HIPS_SecurityPrompt_AcceptRoot">Povoliť</string>
     <string name="HIPS_SecurityPrompt_Caption">Bezpečnostné varovanie</string>
-    <string name="HIPS_SecurityPrompt_Next">Ďalší</string>
+    <string name="HIPS_SecurityPrompt_Next">Ďalej</string>
     <string name="HIPS_SecurityPrompt_ROOT_Caption">Dôležité upozornenie!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step1">Prajete si, aby aplikácia %1$s získala práva ROOT?</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step2">Práva ROOT môžu spôsobiť nestabilitu systému</string>
