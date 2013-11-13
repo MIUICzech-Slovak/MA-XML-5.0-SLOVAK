@@ -452,8 +452,8 @@ Pokus: %s."</string>
   <string name="context_menu_add_to_browser_favorite">Pridať do obľúbených v prehliadači</string>
   <string name="invalid_private_contact">Chyba súkromného kontaktu</string>
   <string name="sp_conversation_title">Notifikačné správy</string>
-  <string name="title_collapse_sp_messages">Spájať správy o poskytovaní služieb</string>
-  <string name="pref_collapse_sp_messages_summary">Spájať do vlákna správy o poskytovaní služieb</string>
+  <string name="title_collapse_sp_messages">Spájať správy služieb</string>
+  <string name="pref_collapse_sp_messages_summary">Spájať do vlákna správy od Banky, operátora, atď.</string>
   <string name="sp_mark_as_read_title">Označiť všetko ako prečítané</string>
   <string name="sp_mark_as_read">Označiť všetky správy ako prečítané?</string>
   <string name="sp_mark_as_read_progress">Označenie všetkých správ ako prečítané...</string>
