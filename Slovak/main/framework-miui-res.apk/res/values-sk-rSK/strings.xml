@@ -269,6 +269,6 @@
     <string name="yellow_page_sms_send_failed">Odosielanie SMS správy zlyhalo.</string>
     <string name="yellow_page_sms_sending">Odosielanie...</string>
     <string name="yellow_page_sms_disabled_in_privacy_mode">"Nie je možné odoslať SMS správu v režime Návštevník."</string>
-    <string name="grant_permissions_apps">Povolenie na prístup aplikácií</string>
-    <string name="grant_permissions_account">Povolenie na prístup k účtu</string>
+    <string name="grant_permissions_apps">Povoliť prístup aplikácií</string>
+    <string name="grant_permissions_account">Povoliť prístup k účtu</string>
   </resources>

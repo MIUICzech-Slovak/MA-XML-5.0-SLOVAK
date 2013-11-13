@@ -73,4 +73,8 @@
     <string name="unknown_apps_dlg_text">Telefón je z dôvodu zabezpečenia nastavený tak, aby blokoval inštalácie aplikácií z neznámych zdrojov.</string>
     <string name="unknown_apps_dlg_title">Inštalácia bola zablokovaná</string>
     <string name="install_failed_system_incompatible">Táto aplikácia nie je kompatibilná s MIUI.</string>
+    <string name="virus_scan_install">" "<u>Pokračovať</u>" "</string>
+    <string name="virus_scan_is_virus">Táto aplikácia je VÍRUS a odporúča sa ju okamžite vymazať!</string>
+    <string name="virus_scan_is_risk">Táto aplikácia je podozrivá a neodporúča sa ju inštalovať!</string>
+    <string name="virus_scan_clear">Vyčistiť</string>
 </resources>

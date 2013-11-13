@@ -109,6 +109,8 @@ Môžete ich upraviť."</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Povoliť aplikáciám automatické pripojovanie k internetu na pozadí</string>	
     <string name="pref_connect_settings_exceed_limit">Odpojiť internet pri prekročení</string>	
     <string name="pref_connect_settings_exceed_limit_hint">Upozorniť ma a odpojiť internet, ak dôjde k prekročeniu limitu dát</string>	
+    <string name="pref_connect_settings_monitor_running_app">Zobraziť blokované aplikácie</string>
+    <string name="pref_connect_settings_monitor_running_app_summary">Zobraziť oznámenia o blokovaní pripojenia aplikáciam</string>
     <string name="pref_connect_settings_notify_in_statusbar">Zobraziť spotrebu dát</string>	
     <string name="pref_connect_settings_title">Nastavenie monitorovania siete</string>	
     <string name="pref_network_speed_internal_title">Interval aktualizácie</string>	
@@ -128,7 +130,7 @@ Môžete ich upraviť."</string>
     <string name="sms_template_match_fail">SMS vzor nesúhlasí</string>	
     <string name="sms_template_updated_label">"Aktualizované:\u0020"</string>
     <string name="sort_dialog_title">Zoradiť</string>	
-    <string name="sorted_flux">Rebríček prevádzky</string>	
+    <string name="sorted_flux">Rebríček spotreby</string>	
     <string name="stop_app_button">Zavrieť</string>	
     <string name="sync_fail_notify_detail">Spätná podpora od operátora nebola prijatá, skúste to znovu</string>	
     <string name="sync_fail_notify_title">Dotaz zlyhal</string>
@@ -167,4 +169,10 @@ Využité"</string>
     <string name="warning_title">Upozornenie</string>	
     <string name="wifi_traffic">Wi-Fi: %s</string>
     <string name="wifi_type">Wi-Fi</string>	
+    <string name="running_apps_activity_title">Spustené aplikácie</string>
+    <string name="network_control_service_notification_text">Kontrola pripojenia</string>
+    <string name="network_control_service_notification_title_single">%1$s bolo zamietnuté pripojenie cez %2$s</string>
+    <string name="network_control_service_notification_title_mutiple">%1$d aplikáciam bolo zamietnuté pripojenie cez %2$s</string>
+    <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+    <string name="network_control_service_notification_title_nettype_mobile">Mobilné dáta</string>
 </resources>
