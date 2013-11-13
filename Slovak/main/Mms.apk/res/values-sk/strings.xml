@@ -153,7 +153,7 @@
   <string name="guild_add_recipients">Kliknite sem pre pridanie príjemcov z adresára</string>
   <string name="has_invalid_recipient">%1$s Neplatných príjemcov</string>
   <string name="hidden_sender_address">Adresa skrytého odosielateľa</string>
-  <string name="hint_search_sms">%d sms</string>
+  <string name="hint_search_sms">%d SMS</string>
   <string name="importing_progress_private_message">Importovanie správ do súkromnej schránky</string>
   <string name="in_sms">Správa</string> 
   <string name="insufficient_drm_rights">Nemáte dostatočné práva DRM.</string>
