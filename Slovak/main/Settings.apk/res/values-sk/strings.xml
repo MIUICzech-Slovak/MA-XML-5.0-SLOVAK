@@ -2918,7 +2918,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_center_battery_full">Batéria je nabitá</string>
     <string name="power_center_charge_time">Nabíjanie bude dokončené o %1$s</string>
     <string name="power_center_consume_rank">Spotreba</string>
-    <string name="power_center_consume_time">%1$s ostáva</string>
+    <string name="power_center_consume_time">Ostáva %1$s</string>
     <string name="power_center_custom_summary_default">Optimalizovať nastavenia, šetriť batériu</string>
     <string name="power_center_custom_title">Šetriť batériu</string>
     <string name="power_center_low_battery_summary_default">Prepnúť režim ak je slabá batéria</string>
@@ -3023,7 +3023,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_mode_wifi">Wi-Fi</string>
     <string name="power_perm_logs_empty">Žiadne záznamy</string>
     <string name="power_save_choose_mode">Vyberte profil</string>
-    <string name="power_save_low_battery_auto_save_title">Úsporný režim ak je nízka kapacita batérie</string>
+    <string name="power_save_low_battery_auto_save_title">Úsporný režim slabej batérie</string>
     <string name="power_save_low_battery_option_summary">Ak je kapacita batérie nad stanoveným limitom, zariadenie sa vráti do naposledy použitého profilu.</string>
     <string name="power_save_low_battery_option_title">Ak je nízka kapacita batérie, prepnúť na</string>
     <string name="power_save_low_battery_percentage_fifty">50%</string>
@@ -3032,7 +3032,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_save_low_battery_percentage_thirty">30%</string>
     <string name="power_save_low_battery_percentage_twenty">20%</string>
     <string name="power_save_low_battery_seekbar_title">Kapacita batérie je nízka ak má menej ako: %1$d%%</string>
-    <string name="power_save_low_battery_title">Úsporný režim ak je nízka kapacita batérie</string>
+    <string name="power_save_low_battery_title">Úsporný režim slabej batérie</string>
     <string name="power_save_on_time_auto_save_title">Naplánované</string>
     <string name="power_save_on_time_default_time">00:00</string>
     <string name="power_save_on_time_end_time_summary">Koniec</string>
