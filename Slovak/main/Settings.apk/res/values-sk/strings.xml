@@ -2824,7 +2824,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="item_virus_lib">Aktualizovať vírusovú databázu automaticky</string>
     <string name="just_checked">Všetko vyzerá byť v poriadku!</string>
     <string name="last_check_canceled">Odporúča sa kontrola: Predchádzajúca kontrola bola zrušena pred dokončením</string>
-    <string name="last_check_date_today">Posledná kontrola: Dnes</string>
+    <string name="last_check_date_today">"Posledná kontrola: Dnes "</string>
     <string name="last_check_date_yesterday">Posledná kontrola: Včera</string>
     <string name="last_check_never_checked">Odporúča sa spustiť kontrolu</string>
     <string name="last_checked_date">Odporúča sa kontrola: Naposledy pred 30 dňami</string>
@@ -2850,7 +2850,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="opt_disabled_autorun">Deaktivovaných %d aplikácií</string>
     <string name="opt_done_desc">Dokončiť</string>
     <string name="opt_freed_ram">Voľné %d MB</string>
-    <string name="opt_garbage_size">Nepotrebné súbory</string>
+    <string name="opt_garbage_size">Zostatky</string>
     <string name="opt_item_app_perm">Kontrola práv</string>
     <string name="opt_item_autorun">Autoštart</string>
     <string name="opt_item_cache_clean">Žiadne nepotrebné súbory</string>
@@ -2892,7 +2892,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="optimize_tips_cache">icon Cache súbory sú vytvárané procesmi ktoré ich potrebujú len dočasne (napr. náhľady obrázkov).</string>
     <string name="optimize_tips_residual">"icon Nepotrebné súbory (napr. videá, tapety, hudba atď.) ktoré boli stiahnuté do Vášho zariadenia aplikáciami ktoré už nie sú nainštalované."</string>
     <string name="optimize_tips_title">Pomoc</string>
-    <string name="optimize_title_ad">Reklamné súbory</string>
+    <string name="optimize_title_ad">Reklama</string>
     <string name="optimize_title_apk">Balíčky</string>
     <string name="optimize_title_cache">Cache</string>
     <string name="optimize_title_residual">Nepotrebné súbory</string>
@@ -2910,13 +2910,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_autorun_control_desc">"Vyšší počet povolených aplikácií pri štarte môže zvýšiť spotrebu energie zariadenia"</string>
     <string name="power_autorun_control_title">Autoštart</string>
     <string name="power_autorun_empty">Žiadne aplikácie</string>
-    <string name="power_battery_history_days">%1$d Dní %2$d h %3$d m</string>
-    <string name="power_battery_history_hours">%1$d h %2$d m</string>
-    <string name="power_battery_history_minutes">%1$d m</string>
+    <string name="power_battery_history_days">%1$dDní %2$dh %3$dmin</string>
+    <string name="power_battery_history_hours">%1$dh %2$dmin</string>
+    <string name="power_battery_history_minutes">%1$dmin</string>
     <string name="power_battery_history_zero_minutes">0 minút</string>
     <string name="power_center_battery_full">Batéria je nabitá</string>
     <string name="power_center_charge_time">Nabíjanie bude dokončené o %1$s</string>
-    <string name="power_center_consume_rank">Spotreba energie</string>
+    <string name="power_center_consume_rank">Spotreba/string>
     <string name="power_center_consume_time">%1$s ostáva</string>
     <string name="power_center_custom_summary_default">Optimalizovať nastavenia, šetriť batériu</string>
     <string name="power_center_custom_title">Šetriť batériu</string>
@@ -2986,7 +2986,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_mgr">Výkon</string>
     <string name="power_mode_airplane_mode">Režim Lietadlo</string>
     <string name="power_mode_auto_clean_memery_lock_screen">Uzamknúť displej po %1$d min</string>
-    <string name="power_mode_auto_clean_memory">Vyčistiť pamäť automaticky</string>
+    <string name="power_mode_auto_clean_memory">Vyčistiť pamäť</string>
     <string name="power_mode_auto_clean_memory_in_five_minutes">Po 5 minútach</string>
     <string name="power_mode_auto_clean_memory_in_one_minute">Po 1 minúte</string>
     <string name="power_mode_auto_clean_memory_in_ten_minutes">Po 10 minútach</string>
@@ -3012,7 +3012,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_mode_sleep_never">Nikdy</string>
     <string name="power_mode_switch_off">Vypnutý</string>
     <string name="power_mode_switch_on">Zapnutý</string>
-    <string name="power_mode_synchronization">Synchr.</string>
+    <string name="power_mode_synchronization">Synchronizácia</string>
     <string name="power_mode_touch_with_ring">Zvuky pri dotyku</string>
     <string name="power_mode_touch_with_vibration">Vibrovať pri dotyku</string>
     <string name="power_mode_vibration">Vibrácie</string>
@@ -3099,7 +3099,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="start_optimize_memory">Začiatok optimalizácie pamäte...</string>
     <string name="start_optimize_protection">Začiatok optimalizácie ochrany v reálnom čase...</string>
     <string name="start_optimize_trash">Začiatok optimalizácie cache aplikácií...</string>
-    <string name="storage_size_content">%1$s Využité | %2$s Dostupné</string>
+    <string name="storage_size_content">%1$s Celkovo | %2$s Dostupné</string>
     <string name="storage_size_title">Úložisko</string>
     <string name="summary_install_virus">Kontrolovať prítomnosť vírusov v aplikáciách pred inštaláciou</string>
     <string name="summary_mms">Filtrovať nechcené správy (predajcovia, reklamy, atď.)</string>
@@ -3134,7 +3134,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="valuation">Odporúča sa čistenie</string>
     <string name="virus_activity_title">Vírus</string>
     <string name="virus_button_clear">Vyčistiť</string>
-    <string name="virus_scan">Kontrola vírusov</string>
+    <string name="virus_scan">AntiVírus</string>
     <string name="virus_scan_app_solve">Všetky</string>
     <string name="virus_scan_app_stop">Zastaviť kontrolu</string>
     <string name="virus_scan_can_use_wifi">Použiť online databázu vírusov</string>
