@@ -25,9 +25,12 @@
 
 Krok 1: Stlačte tlačidlo zapnutia a podržte ho, dokým nezaznie zvukový signál alebo nezacítite vibrácie.
 
+
 Krok 2: Dotknite sa obrazovky dvoma prstami a podržte ju, dokým nezaznie zvuk potvrdenia.
 
+
 Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na uzamknutej obrazovke dočasne povoliť zjednodušenie ovládania, dokým sa zariadenie neodomkne."</string>
+
     <string name="accessibility_global_gesture_preference_summary_off">Vyp</string>
     <string name="accessibility_global_gesture_preference_summary_on">Zap</string>
     <string name="accessibility_global_gesture_preference_title">Skratka zjednodušeného ovládania</string>
@@ -43,7 +46,11 @@ Počas priblíženia môžete:
 "<li><ul>"Posúvať: Ťahajte dvoma alebo viacerými prstami po obrazovke.
 "<li>Prispôsobiť úroveň priblíženia: Priblížte dva alebo viacero prstov k sebe alebo ich od seba odtiahnite.</li></ul></li>"
 
+
+
+
 Obsah pod prstom môžete tiež dočasne priblížiť trojitým klepnutím a podržaním. V stave priblíženia môžete posúvaním prsta preskúmavať rôzne časti obrazovky. Odtiahnutím prsta sa vrátite do predchádzajúceho stavu.
+
 
 Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>
     <string name="accessibility_screen_magnification_title">Gestá priblíženia</string>
@@ -636,6 +643,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="data_usage_restrict_background_multiuser">"Ak obmedzíte mobilné údaje na pozadí, niektoré aplikácie a služby nebudú fungovať, pokiaľ nebudete mať pripojenie k sieti Wi-Fi.
 
 Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>	
+
     <string name="data_usage_restrict_background_title">Obmedzenie dátových prenosov na pozadí?</string>	
     <string name="data_usage_restrict_denied_dialog">Obmedzenie dát na pozadí je k dispozícii iba v prípade, že ste nastavili limit prenosu mobilných dát.</string>	
     <string name="data_usage_summary_title">Prenesené dáta</string>
@@ -1276,15 +1284,20 @@ uż obsahuje MTP ovládač.
     <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
 Try the following:
 "<li>"Do a computer search for
+
+
 Android File Transfer
 for MAC"</li>"
 "<li>Disconnect the MI 2 to computer USB cable and reconnect.</li>"
+
 "<li>Re-install the driver.</li></string>
     <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi Mi2,
 skúste:
+
 "<li>Odpojiť telefón z USB a pripojiť opäť.</li></string>
     <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi Mi2,
 skúste:
+
 "<li>Odpojiť telefón z USB a pripojiť opäť.</li></string>
     <string name="msd_install_status_done">Ovládač už je nainštalovaný</string>
     <string name="msd_install_status_undo">Inštalovať ovládač</string>
@@ -1315,6 +1328,7 @@ skúste:
     <string name="no_device_admins">Nie je k dispozícií žiadny správca zariadenia</string>
     <string name="no_media_button_receiver">Nie</string>
     <string name="no_nearby_wifi">Žiadna wifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte wifi ručne</string>
+
     <string name="no_running_services">Nič nie je spustené.</string>
     <string name="no_services">Neaktívne</string>
     <string name="noise_suppression">Potlačenie hluku</string>
@@ -1660,9 +1674,11 @@ skúste:
  "<li>vypnuté aplikácie,</li>"
  "<li>vypnuté upozornenia aplikácií,</li>"
  "<li>predvolená aplikácie pre dané akcie,</li>"
+
  "<li>obmedzenia týkajúce sa použitia dát na pozadí v aplikáciách.</li>"
 
  Žiadne aplikácie sa nevymažú."</string>	
+
 	<string name="reset_app_preferences_title">Obnoviť nastavenia aplikácie?</string>
     <string name="restore_default_apn">Obnovenie predvolených nastavení názvu prístupového bodu (APN)</string>	
     <string name="restore_default_apn_completed">Obnovenie predvolených nastavení názvu prístupového bodu (APN) bolo dokončené.</string>	
@@ -1680,6 +1696,7 @@ skúste:
     <string name="roaming_warning_multiuser">"Ak povolíte dátové služby pri roamingu, môžu sa účtovať vysoké poplatky za roaming!
 
 Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>	
+
     <string name="rssi_label">RSSI:</string>	
     <string name="running_process_item_removed_user_label">Odstránený používateľ</string>	
     <string name="running_process_item_user_label">Používateľ: %1$s</string>
@@ -1818,6 +1835,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="service_stop">Zastaviť</string>
     <string name="service_stop_description">Táto služba bola spustená svojou aplikáciou. Pokiaľ ju zastavíte, môže dôjsť k zlyhaniu aplikácie.</string>
     <string name="set_data_subscription_progress">Set data subscription in progress</string>
+
 	<string name="set_dds_error">Error in set data subscription.</string>
     <string name="set_dds_failed">Error in set data subscription. Clean up any existing data connection and try again.</string>
     <string name="set_dds_success">Set data subscription success</string>
@@ -2156,16 +2174,21 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="user_add_user_menu">Pridať užívateľa</string>	
     <string name="user_add_user_message_long">"Toto zariadenie môžete zdieľať aj s inými ľuďmi. Stačí vytvoriť ďalších používateľov. Každý používateľ má svoj vlastný priestor, ktorý si môže prispôsobiť pomocou aplikácií, tapety a pod. Používatelia si môžu prispôsobiť aj nastavenia tabletu, ktoré majú vplyv na ostatných (napr. nastavenia siete Wi-Fi).
 
+
 Keď vytvoríte nového používateľa, táto osoba musí prejsť procesom nastavenia.
 
+
 Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikácií v mene všetkých ostatných používateľov."</string>	
+
     <string name="user_add_user_message_short">"Keď vytvoríte nového používateľa, táto osoba musí prejsť procesom nastavenia.
 
 Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikácií v mene všetkých ostatných používateľov."</string>	
+
     <string name="user_add_user_title">Pridať nového používateľa</string>	
     <string name="user_adding_new_user">Pridáv. nového používateľa...</string>	
 	<string name="user_cannot_manage_message">Používateľov môže spravovať iba vlastník telefónu.</string>
     <string name="user_confirm_remove_message">Miesto v pamäti a údaje používateľa sa z telefónu odstránia. Táto akcia sa nedá vrátiť späť.</string>	
+
     <string name="user_confirm_remove_self_message">Prídete o miesto v pamäti a údaje v tomto telefóne. Táto akcia sa nedá vrátiť späť.</string>	
     <string name="user_confirm_remove_self_title">Chcete odstrániť svoj profil?</string>
     <string name="user_confirm_remove_title">Odstrániť používateľa?</string>	
@@ -2463,6 +2486,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   	<string name="wifi_priority_type_title">Nastaviť prioritu AP manuálne</string>
     <string name="wifi_quick_toggle_summary">Zapnúť Wi-Fi</string>	
     <string name="wifi_quick_toggle_title">Wi-Fi</string>    
+
 	<string name="wifi_remembered">Uložené</string>	
     <string name="wifi_required_info_text">Tablet potrebuje na dokončenie nastavení prístup k sieti Wi-Fi. Po nastavení môžete prepínať medzi mobilným dátovým pripojením a sieťou Wi-Fi.</string>	
     <string name="wifi_save">Uložiť</string>	
@@ -2561,6 +2585,7 @@ môžete použiť inú sieť"</string>
     <string name="wifi_skipped_message">"UPOZORNENIE: Operátor môže účtovať ďalšie poplatky za dáta.
 
 Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</string>
+
     <string name="wifi_speed">Rýchlosť pripojenia</string>
     <string name="wifi_ssid">SSID</string>
     <string name="wifi_starting">Zapínanie Wi-Fi...</string>
@@ -2680,49 +2705,49 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="apk_status_uninstalled">Nie je nainštalovaná</string>
     <string name="app_log_tab_title">Záznam oprávnení</string>
     <string name="app_manage_tab_title">Aplikácie</string>
-    <string name="app_name">Bezpečnosť</string>
+    <string name="app_name">Optimalizácia</string>
     <string name="app_uninstall_residual">Vyčistiť nepotrebné súbory?</string>
-    <string name="auto_start_summary">%1$d apps enabled autorun</string>
-    <string name="auto_start_title">Autorun Managment</string>
-    <string name="battery_desc_other_apps">Total power being consumed by other apps</string>
-    <string name="black_white_list_tab_title">Filters</string>
-    <string name="blacklist_tab_title">Blocklist</string>
-    <string name="button_start_optimize">Check</string>
-    <string name="button_text_a_key_clean_up">Clean up</string>
-    <string name="button_text_a_key_optimize">Optimize now</string>
-    <string name="button_text_cancel">Cancel</string>
-    <string name="button_text_delete">Delete</string>
-    <string name="button_text_done">Done</string>
-    <string name="button_text_fix">Fix</string>
-    <string name="button_text_security">Security</string>
-    <string name="button_text_view">View</string>
-    <string name="cache_garbage">Cache files</string>
-    <string name="cache_list_empty_hints">No cached files.</string>
-    <string name="cache_manage_title">Clear %1$d cached file(s), free %2$s of space</string>
-    <string name="cache_manager_actionbar_title">System cache</string>
-    <string name="call_log_tab_title">Call log</string>
-    <string name="calllog">Call log</string>
-    <string name="cancel_button">Cancel</string>
-    <string name="cancel_optimize">Cancel</string>
-    <string name="cancel_scan">Cancel</string>
-    <string name="check_all">Select all</string>
-    <string name="check_nothing">Deselect all</string>
-    <string name="checking">Checking</string>
-    <string name="clean_confirm_title">Delete these files?</string>
-    <string name="cleaner">Cleaner</string>
-    <string name="clear_all_calllog">Clear call log</string>
-    <string name="clear_all_mslog">Clear message log</string>
-    <string name="close_rule">Disable firewall rules</string>
-    <string name="comfirm">Confirm</string>
-    <string name="comfirm_exit">Exit?</string>
+    <string name="auto_start_summary">%1$d apl. má povolený autoštart</string>
+    <string name="auto_start_title">Autoštart</string>
+    <string name="battery_desc_other_apps">Celková spotreba batérie aplikáciami</string>
+    <string name="black_white_list_tab_title">Filtre</string>
+    <string name="blacklist_tab_title">Blokovanie</string>
+    <string name="button_start_optimize">Kontrola</string>
+    <string name="button_text_a_key_clean_up">Vyčistiť</string>
+    <string name="button_text_a_key_optimize">Optimalizovať</string>
+    <string name="button_text_cancel">Zrušiť</string>
+    <string name="button_text_delete">Vymazať</string>
+    <string name="button_text_done">Hotovo</string>
+    <string name="button_text_fix">Opraviť</string>
+    <string name="button_text_security">Bezpečnosť</string>
+    <string name="button_text_view">Zobraziť</string>
+    <string name="cache_garbage">Cache súborov</string>
+    <string name="cache_list_empty_hints">Žiadna cache súborov.</string>
+    <string name="cache_manage_title">Vyčistiť %1$d cache súborov a uvolniť %2$s miesta</string>
+    <string name="cache_manager_actionbar_title">Systémova cache</string>
+    <string name="call_log_tab_title">Zoznam hovorov</string>
+    <string name="calllog">Zoznam hovorov</string>
+    <string name="cancel_button">Zrušiť</string>
+    <string name="cancel_optimize">Zrušiť</string>
+    <string name="cancel_scan">Zrušiť</string>
+    <string name="check_all">Všetko</string>
+    <string name="check_nothing">Odznačiť</string>
+    <string name="checking">Kontrola...</string>
+    <string name="clean_confirm_title">Vymazať tieto súbory?</string>
+    <string name="cleaner">Čistič</string>
+    <string name="clear_all_calllog">Vymazať zoznam hovorov</string>
+    <string name="clear_all_mslog">Vymazať zoznam správ</string>
+    <string name="close_rule">Deaktivovať firewall</string>
+    <string name="comfirm">Potvrdiť</string>
+    <string name="comfirm_exit">Ukončiť?</string>
     <string name="confirm">OK</string>
-    <string name="confirm_clear_blacklist">Clear blocklist?</string>
-    <string name="confirm_clear_whitelist">Clear exceptions?</string>
-    <string name="context_add_contact">Add to existing contact</string>
-    <string name="context_call">Call</string>
-    <string name="context_ms">Send SMS</string>
-    <string name="context_new_contact">New contact</string>
-    <string name="custom_mark_category">Custom</string>
+    <string name="confirm_clear_blacklist">Vymazať zoznam blokovania?</string>
+    <string name="confirm_clear_whitelist">Vymazať výnimky?</string>
+    <string name="context_add_contact">Pridať do existujúceho kontaktu</string>
+    <string name="context_call">Volať</string>
+    <string name="context_ms">Odoslať SMS</string>
+    <string name="context_new_contact">Nový kontakt</string>
+    <string name="custom_mark_category">Vlastné</string>
     <string name="deep_clean_tips_cache">"iconSome apps use cache files to download additional resources (e.g. song lyrics, music, images etc.). Be careful when you're cleaning up these files."</string>
     <string name="deep_clean_tips_large_file">iconCleanup merely points out large files (i.e. bigger than 10MB) that are currently stored on your device. Only you can decide whether or not you still need them.</string>
     <string name="deep_clean_tips_residual">"iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps that have since been uninstalled. Be careful when you're cleaning up, as some of these files may still be of use to you."</string>
@@ -2750,6 +2775,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="examination_score_80_100">Some items can be optimized...</string>
     <string name="examination_score_80_60">Some items can be optimized...</string>
     <string name="examination_score_has_virus">We detected some suspicious apps...</string>
+
+
     <string name="finish_checking_memory">Finish checking memory condition...</string>
     <string name="finish_checking_protection">Finish checking realtime protection...</string>
     <string name="finish_checking_trash">Finish checking application cache...</string>
@@ -2831,6 +2858,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="last_checked_date2">Most recent scan was %d days ago</string>
     <string name="last_checked_date_mark">pts</string>
     <string name="last_checked_default">Scan recommended: Most recent scan was %s ago</string>
+
     <string name="mark_number_dialog_maintitle">Block and report number</string>
     <string name="mark_number_dialog_subtitle">Developed in part with Sogou</string>
     <string name="mem_lock">Lock</string>
@@ -2889,8 +2917,11 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="optimize_residual_list_empty_content">No residuals found.</string>
     <string name="optimize_tips_ad">iconAd files are images, text, and other advertisement-related data which third-party service providers store on your phone.</string>
     <string name="optimize_tips_apk">"iconInstall packages are used to install apps on your device, however they don't do anything except take up space once you've installed the app."</string>
+
+
     <string name="optimize_tips_cache">iconCache files are generated by processes that only require them temporarily (e.g. thumbnails).</string>
     <string name="optimize_tips_residual">"iconResiduals are files (e.g. videos, wallpapers, music, etc.) that have been downloaded on to your device's SD card by apps which have since been uninstalled. As some of these files may still be of use to you, we recommend that you use the Advanced feature when cleaning up residual files."</string>
+
     <string name="optimize_tips_title">Help</string>
     <string name="optimize_title_ad">Ad files</string>
     <string name="optimize_title_apk">Packages</string>
@@ -2898,6 +2929,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="optimize_title_residual">Residuals</string>
     <string name="optimizing">Optimizing</string>
     <string name="optimizing_virus">Removing viruses...</string>
+
     <string name="perm_app_enable">Monitor permission requests</string>
     <string name="perm_app_header">Permission Manager</string>
     <string name="perm_app_title">Manage App Permissions</string>
@@ -2972,8 +3004,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_dialog_delete_dialog_cannot_delete_default">"Can't delete: you're currently using this profile."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Can't delete: Your device is set to switch to this profile when battery is low, 
  You need to change this configuration before you can delete this profile."</string>
+
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Can't delete: Your device is scheduled to switch to this profile, 
  You need to change this configuration before you can delete this profile."</string>
+
     <string name="power_dialog_delete_dialog_delete">"Delete custom profile and associated settings data? You can't reverse this action!"</string>
     <string name="power_dialog_delete_dialog_title">Delete custom profile</string>
     <string name="power_dialog_ok">OK</string>
@@ -3044,6 +3078,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_settings_category_title">Battery indicator</string>
     <string name="power_settings_number">Percentage</string>
     <string name="power_settings_shape">Graphical</string>
+
     <string name="power_settings_top">Top bar</string>
     <string name="power_usage_sort_desc">Sort programs by power-consumption</string>
     <string name="power_usage_sort_title">View power consumption</string>
@@ -3104,6 +3139,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="score">Score</string>
     <string name="score_good_state">Phone is optimized</string>
     <string name="score_need_optimize">Sweep recommended</string>
+
     <string name="show_firewall_notification">Show block notifications</string>
     <string name="show_notification">Show notifications</string>
     <string name="smart_antispam">Identify unknown numbers</string>
