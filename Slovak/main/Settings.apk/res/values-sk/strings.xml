@@ -2917,7 +2917,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_battery_history_zero_minutes">0 minút</string>
     <string name="power_center_battery_full">Batéria je nabitá</string>
     <string name="power_center_charge_time">Nabíjanie bude dokončené o %1$s</string>
-    <string name="power_center_consume_rank">Spotreba/string>
+    <string name="power_center_consume_rank">Spotreba</string>
     <string name="power_center_consume_time">%1$s ostáva</string>
     <string name="power_center_custom_summary_default">Optimalizovať nastavenia, šetriť batériu</string>
     <string name="power_center_custom_title">Šetriť batériu</string>
