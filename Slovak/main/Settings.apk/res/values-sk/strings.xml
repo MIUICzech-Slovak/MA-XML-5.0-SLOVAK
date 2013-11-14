@@ -3025,7 +3025,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_save_choose_mode">Vyberte profil</string>
     <string name="power_save_low_battery_auto_save_title">Úsporný režim slabej batérie</string>
     <string name="power_save_low_battery_option_summary">Ak je kapacita batérie nad stanoveným limitom, zariadenie sa vráti do naposledy použitého profilu.</string>
-    <string name="power_save_low_battery_option_title">Ak je nízka kapacita batérie, prepnúť na</string>
+    <string name="power_save_low_battery_option_title">Pri slabej batérií, prepnúť na</string>
     <string name="power_save_low_battery_percentage_fifty">50%</string>
     <string name="power_save_low_battery_percentage_forty">40%</string>
     <string name="power_save_low_battery_percentage_ten">10%</string>
