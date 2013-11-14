@@ -191,7 +191,8 @@
     <string name="settings_toggle_position_divider_page">%1$d prepínačov nad čiarou je aktívnych</string>
     <string name="settings_toggle_position_reset">Obnoviť predvolené nastavenia</string>	
     <string name="share">Zdieľať</string>	
-    <string name="status_bar_date_format">d.MMMM yyyy</string>	
+    <string name="status_bar_date_format">"EEEE
+d.MMMM yyyy"</string>	
     <string name="status_bar_date_formatter">%2$s</string>	
     <string name="status_bar_input_method_settings_configure_input_methods">Nastavenie vstupu</string>	
     <string name="status_bar_network_flow">"Dnes: %1$s | Ostáva: %2$s | Balíček: %3$s"</string>	
@@ -218,8 +219,6 @@
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi pripojené</string>	
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>	
     <string name="status_bar_style_settings">Nastavenia</string>	
-    <string name="status_bar_time_format_12">h:mma</string>
-    <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_toggle_ac">Kontrola prístupu</string>
     <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
     <string name="status_bar_toggle_bluetooth">BT</string>

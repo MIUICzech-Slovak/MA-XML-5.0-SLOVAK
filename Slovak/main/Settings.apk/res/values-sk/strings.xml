@@ -37,6 +37,7 @@ Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na u
     <string name="accessibility_no_services_installed">Žiadna služba nie je nainštalovaná</string>	
     <string name="accessibility_power_button_ends_call_prerefence_title">Tlač. zapínania ukončí hovor</string>	
     <string name="accessibility_power_button_ends_call_title">Tlač. zapínania ukončí hovor</string>
+    <string name="accessibility_screen_magnification_enable">Gestá zväčšenia</string>
     <string name="accessibility_screen_magnification_summary">"Keď je táto funkcia zapnutá, môžete približovať alebo odďalovať trojitým klepnutím na obrazovku.
 
 Počas priblíženia môžete:
