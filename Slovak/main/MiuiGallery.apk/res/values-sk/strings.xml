@@ -81,8 +81,8 @@
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string>
-  <string name="click_top_right">Stlač ikonu vpravo hore</string>
   <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
+  <string name="click_top_right">Stlač ikonu vpravo hore</string>
   <string name="close">Zatvoriť</string>
   <string name="cloud_album_more_settings">Cloud album(y) a auto upload</string>
   <string name="cloud_album_set_create">Nový</string>
@@ -298,6 +298,7 @@ spoločne!"</string>
   <string name="open_public_title">Zdieľať verejne</string>
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
   <string name="open_sync_title">Vyžaduje sa Synchronizácia</string>
+  <string name="operation_add_picture">Vybrať obrázky</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
 "</string>
   <string name="operation_failed">Operácia zlyhala.</string>
@@ -311,8 +312,8 @@ spoločne!"</string>
   <string name="operation_unset_as_screensaver">Zrušiť šetrič displeja</string>
   <string name="orientation">Orientácia</string>
   <string name="other_category">Ďalšie nastavenia</string>
-  <string name="owner_album_subtitle">Zdieľané s %1$s členmi</string>
-  <string name="path">Cesta</string> 
+  <string name="owner_album_subtitle">Zdieľané s %1$s členmi</string> 
+  <string name="path">Cesta</string>
   <string name="people">Ľudia</string>
   <string name="photo_page_always_rotate">Automaticky otočiť</string>
   <string name="photo_page_save_image">Uložiť</string>
@@ -322,8 +323,14 @@ spoločne!"</string>
   <string name="photoeditor_name">Foto štúdio</string>
   <string name="photos">"Snímkov"</string>
   <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string>
+  <string name="pick_too_much_tips">"Vybraných príliš mnoho položiek (maximum je %d)."</string>
+  <string name="picker_no_album_selected">Žiaden vybraný album</string>
+  <string name="picker_no_items_selected">Žiadne položky</string>
+  <string name="picker_select_album_title_empty">Vyberte album</string>
+  <string name="picker_tab_camera">Fotoaparát</string>
   <string name="posterize">Posterizovať</string>
   <string name="ppmm_gallery">PPMM</string>
+  <string name="preparing_data_to_delete">Príprava obrázkov na vymazanie.</string>
   <string name="projection">Projekcia</string>
   <string name="public_url_descript">Ktokoľvek má prístup k albumu cez túto URL</string>
   <string name="publish_failed">Zverejnenie zlyhalo.</string>
@@ -471,7 +478,10 @@ spoločne!"</string>
   <string name="unpublishing">Ruší sa zverejnenie...</string>
   <string name="untagged">Neoznačené</string>
   <string name="user_alias_self">Ja</string>
+  <string name="video_download_in_process">Sťahovanie videa</string>
+  <string name="video_download_start">Začať sťahovať video</string>
   <string name="video_err">"Nemožno prehrať video."</string>
+  <string name="video_not_exist">Video sa nenašlo</string>
   <string name="view_sharers">Zdieľané s</string>
   <string name="vignette">Portrét</string>
   <string name="wallpaper">Tapeta</string>
@@ -485,14 +495,4 @@ spoločne!"</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
-  <string name="pick_too_much_tips">"Vybraných príliš mnoho položiek (maximum je %d)."</string>
-  <string name="operation_add_picture">Vybrať obrázky</string>
-  <string name="preparing_data_to_delete">Príprava obrázkov na vymazanie.</string>
-  <string name="picker_tab_camera">Fotoaparát</string>
-  <string name="picker_no_items_selected">Žiadne položky</string>
-  <string name="picker_select_album_title_empty">Vyberte album</string>
-  <string name="picker_no_album_selected">Žiaden vybraný album</string>
-  <string name="video_download_start">Začať sťahovať video</string>
-  <string name="video_download_in_process">Sťahovanie videa</string>
-  <string name="video_not_exist">Video sa nenašlo</string>
 </resources>
