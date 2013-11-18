@@ -113,9 +113,9 @@
     <string name="send_install_log">Odoslať</string>
     <string name="send_install_log_error">Nepodarilo sa odoslať inštalačný log</string>
     <string name="share">Zdieľať</string>
-	<string name="share_qq">Zverejniť cez Tencent weibo</string>
+    <string name="share_qq">Zverejniť cez Tencent weibo</string>
     <string name="share_sina">Zverejniť cez Sina weibo</string>
-    <string name="share_update">Zdieľať informácie o aktualizácii</string>
+    <string name="share_update">Zdieľať</string>
     <string name="share_update_content_sign">MIUI bola aktualizovaná na %1$s! Moje umiestnenie v rebríčku aktualizovania je %2$s. Pre detailný zoznam zmien, prosím navštívte %3$s.</string>
     <string name="share_update_content_unsign">MIUI bola aktualizovaná na %1$s! Pre detailný zoznam zmien, prosím navštívte %2$s</string>
     <string name="sign_in_add_account">Aktivujte Xiaomi účet</string>
