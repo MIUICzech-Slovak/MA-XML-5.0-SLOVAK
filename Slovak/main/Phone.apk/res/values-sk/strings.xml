@@ -479,7 +479,7 @@
     <string name="hac_mode_summary_miui">Zapne podporu pre načúvací prístroj</string>
     <string name="hac_mode_title">Načúvací prístroj</string>
     <string name="hac_mode_title_miui">Načúvací prístroj</string>
-    <string name="handon_ringer_summary_miui">Nefunguje pokiaľ sú zapnuté vibrácie pre prichádzajúce hovory</string>
+    <string name="handon_ringer_summary_miui">Telefón nebude vibrovať pri prichádzajúcom hovore</string>
     <string name="handon_ringer_title_miui">Zdvihnutím stíšiť</string>
     <string name="hangup_sms_miui">Odpovedať pomocou SMS</string>
     <string name="ignore_miui">Ignorovať</string>
