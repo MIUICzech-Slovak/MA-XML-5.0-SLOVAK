@@ -3,9 +3,9 @@
     <string name="account_detail">"Xiaomi účet:
 %1$s"</string>
     <string name="app_name">Platby</string>
-    <string name="balance">Zostatok: %1$s Mi kreditov</string>
-    <string name="balance_giftcard_payment">%1$s Mi kreditov（%2$s-Mi kreditov darčeková poukážka）</string>
-    <string name="balance_payment">%1$s Mi kreditov</string>
+    <string name="balance">Zostatok: %1$s MiKreditov</string>
+    <string name="balance_giftcard_payment">%1$s MiKreditov（%2$s-MiKreditov darčeková poukážka）</string>
+    <string name="balance_payment">%1$s MiKreditov</string>
     <string name="bankcall_bank_account">Kreditná karta:</string>
     <string name="bankcall_call_hint">"Budete mať hovor z banky Union pay (020-96585). 
 Postupujte podľa inštrukcií pre dokončenie objednávky."</string>
@@ -36,7 +36,7 @@ Postupujte podľa inštrukcií pre dokončenie objednávky."</string>
     <string name="btn_call">Hovor</string>	
     <string name="btn_count_down_auto">%1$s sekúnd</string>	
     <string name="btn_delete_record">Vymazať</string>
-    <string name="btn_mili_center_recharge">Navýšiť Mi kredit</string>
+    <string name="btn_mili_center_recharge">Navýšiť MiKredit</string>
     <string name="btn_net_connection_retry">Znova</string>
     <string name="btn_next">Ďalej</string>
     <string name="btn_other_bankcard">Použiť inú kartu</string>
@@ -85,20 +85,20 @@ Počkajte prosím 5 minút a skúste to opäť"</string>
     <string name="error_user_id_mismatch_title">Chyba prihlásenia!</string>	
     <string name="error_verify_summary">Aplikácia nemá práva na túto službu</string>
     <string name="error_verify_title">Nemáte povolenie</string>	
-    <string name="fee">%1$s Mi kreditov</string>
+    <string name="fee">%1$s MiKreditov</string>
     <string name="frozen">(Zmrazené)</string>
-    <string name="giftcard_acitivity_and_denomination">%2$s Mi kreditov z poukážky od %1$s</string>
-    <string name="giftcard_denom">Mi kredit(ov)</string>
-    <string name="giftcard_denom_available">Mi kredit(ov) dostupných</string>
-    <string name="giftcard_denom_frozen">Mi kredit(ov) zmrazených</string>	
+    <string name="giftcard_acitivity_and_denomination">%2$s MiKreditov z poukážky od %1$s</string>
+    <string name="giftcard_denom">MiKredit(ov)</string>
+    <string name="giftcard_denom_available">MiKredit(ov) dostupných</string>
+    <string name="giftcard_denom_frozen">MiKredit(ov) zmrazených</string>	
     <string name="giftcard_empty">Žiadna poukážka</string>	
     <string name="giftcard_expire">%1$s vypršala platnosť</string>	
-    <string name="giftcard_hint">"Mi kredity z poukážky sa použijú 
+    <string name="giftcard_hint">"MiKredity z poukážky sa použijú 
 ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="giftcard_push_notification_prime_title">"Dostali ste darčekovú poukážku"</string>
-    <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi kreditov.</string>
+    <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKreditov.</string>
     <string name="giftcard_record">Moje poukážky</string>
-    <string name="giftcard_value">(%1$s-Mi kreditov)</string>
+    <string name="giftcard_value">(%1$s-MiKreditov)</string>
     <string name="hfb_app_name">话付宝</string>
     <string name="hfb_commit">提交订单</string>
     <string name="hfb_complete">购买完成</string>
@@ -282,14 +282,14 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="linkpay_yuan">元</string>
     <string name="linkpay_zhifubao">支付宝</string>
     <string name="memu_refresh">Obnoviť</string>
-    <string name="mibi_license_message">Xiaomi Mi Kredity. Kliknutím na OK súhlasíte s %1$s.</string>	
-    <string name="mibi_license_message_span">Podmienky používania Mi kreditov</string>
-    <string name="mibi_license_title">Podmienky používania Mi kreditov</string>
-    <string name="mili_center">Mi Kredity</string>
-    <string name="msg_denomination_type">Mi Kredity</string>
+    <string name="mibi_license_message">Xiaomi MiKredity. Kliknutím na OK súhlasíte s %1$s.</string>	
+    <string name="mibi_license_message_span">Podmienky používania Mikreditov</string>
+    <string name="mibi_license_title">Podmienky používania MiKreditov</string>
+    <string name="mili_center">MiKredity</string>
+    <string name="msg_denomination_type">MiKredity</string>
     <string name="msg_error">Navýšenie zlyhalo</string>
     <string name="msg_picker_hint_1_1">1.</string>
-    <string name="msg_picker_hint_1_2">Cena navýšenia cez SMS je väčšia ako za iné spôsoby 2 RMB (0,24€) = 1 Mi kredit</string>
+    <string name="msg_picker_hint_1_2">Cena navýšenia cez SMS je väčšia ako za iné spôsoby 2 RMB (0,24€) = 1 MiKredit</string>
     <string name="msg_picker_hint_2_1">2.</string>
     <string name="msg_picker_hint_2_2">Za každé navýšenie cez SMS, si operátor účtuje %1$s RMB poplatok</string>
     <string name="msg_picker_hint_3_1">3.</string>
@@ -306,7 +306,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>	
     <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>	
     <string name="msg_telecom_sending">Contacting your network provider…</string>	
-    <string name="order_price">%1$s Mi kreditov</string>
+    <string name="order_price">%1$s MiKreditov</string>
     <string name="password_error">Zadajte heslo</string>	
     <string name="password_hint">Zadajte heslo Xiaomi účtu:</string>
     <string name="pay_record_empty">Žiadne platby</string>
@@ -348,16 +348,16 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="progress_querying">Spracovávanie platby...</string>	
     <string name="progress_submit_hint">Navýšenie sa prejaví na účte asi o 3 minúty</string>
     <string name="progress_submit_pay_summary">Platba: %1$s RMB</string>
-    <string name="progress_submit_recharge_summary">Navýšenie: %1$s Mi kreditov</string>
+    <string name="progress_submit_recharge_summary">Navýšenie: %1$s MiKreditov</string>
     <string name="progress_submit_title">Objednávka odoslaná</string>
-    <string name="progress_success_pay_summary">%1$s Mi Kreditov navýšených，%2$s Mi Kreditov zaplatených</string>
-    <string name="progress_success_pay_title">Platba %1$s Mi kreditov dokončená</string>
-    <string name="progress_success_recharge_summary">Stav konta: %1$s Mi kreditov</string>
-    <string name="progress_success_recharge_title">Navýšenie %1$s Mi kreditov dokončené</string>
-    <string name="progress_voucher_creating">Aktualizovanie Mi kreditov...</string>
-    <string name="progress_warning_check">"Stále nie je navýšený Mi kredit. 
+    <string name="progress_success_pay_summary">%1$s MiKreditov navýšených，%2$s MiKreditov zaplatených</string>
+    <string name="progress_success_pay_title">Platba %1$s MiKreditov dokončená</string>
+    <string name="progress_success_recharge_summary">Stav konta: %1$s MiKreditov</string>
+    <string name="progress_success_recharge_title">Navýšenie %1$s MiKreditov dokončené</string>
+    <string name="progress_voucher_creating">Aktualizovanie MiKreditov...</string>
+    <string name="progress_warning_check">"Stále nie je navýšený MiKredit. 
 Skontrolujeme to do dvoch pracovných dní"</string>
-    <string name="progress_warning_contact_server">"Stále nie je navýšený Mi kredit: 
+    <string name="progress_warning_contact_server">"Stále nie je navýšený MiKredit: 
 1. Kontaktujte zákaznícku podporu na: %1$s 
 2. Vaše sériové číslo: %2$s"</string>
     <string name="progress_warning_waiting">Zmeny na Vašom účte sa stále aktualizujú. Skúste to opäť neskôr.</string>	
@@ -372,21 +372,21 @@ Skontrolujeme to do dvoch pracovných dní"</string>
     <string name="recharge_group_favorite">Použiť predchádzajúci spôsob navýšenia</string>
     <string name="recharge_group_others">Ostatné spôsoby navýšenia</string>
     <string name="recharge_message_title">SMS (Iba Čína)</string>
-    <string name="recharge_notification">Navýšenie o %1$s Mi kreditov</string>
+    <string name="recharge_notification">Navýšenie o %1$s MiKreditov</string>
     <string name="recharge_other">Ostatné spôsoby</string>	
     <string name="recharge_pcpay_title">Navýšenie cez PC</string>
     <string name="recharge_prepaid_title">Predplatené karty</string>
-    <string name="recharge_push_notification_prime_title">%1$d odoslal %2$s Mi Kreditov na váš účet</string>
+    <string name="recharge_push_notification_prime_title">%1$d odoslal %2$s MiKreditov na váš účet</string>
     <string name="recharge_push_notification_sub_title">Navýšenie dokončené.</string>
     <string name="recharge_record_empty">Žiadne navýšenia.</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_voucher_title">Poukážka</string>
     <string name="title_discounts">Zľavy</string>
     <string name="title_giftcard">Akcie</string>
-    <string name="title_mili_center">Mi kredity</string>
-    <string name="title_pay">Zaplatiť Mi kreditmi</string>
+    <string name="title_mili_center">MiKredity</string>
+    <string name="title_pay">Zaplatiť MiKreditmi</string>
     <string name="title_pay_record">História platieb</string>
-    <string name="title_recharge">Navýšiť Mi kredit</string>
+    <string name="title_recharge">Navýšiť MiKredit</string>
     <string name="title_recharge_record">História navýšení</string>
     <string name="title_transaction">Transakcie</string>
     <string name="voucher_edit_hint">Kód</string>
@@ -426,13 +426,13 @@ Skontrolujeme to do dvoch pracovných dní"</string>
     <string name="title_gesture">Vzor</string>
     <string name="title_lockpattern">Vyžadovať odomykací vzor</string>
     <string name="title_visible_pattern">Zobraziť vzor</string>
-    <string name="summary_lockpattern">Vyžadovať odomykací vzor pre Mi Kredity</string>
+    <string name="summary_lockpattern">Vyžadovať odomykací vzor pre MiKredity</string>
     <string name="title_change_lockpattern">Nastaviť odomykací vzor</string>
     <string name="title_password">Heslo</string>
     <string name="title_nopassword">"Nevyžadovať pre malé platby"</string>
     <string name="title_password_threshold">Denný limit = ￥%1$s</string>
     <string name="title_nopassword_dialog">Denný limit</string>
     <string name="onemore_click_exit">Stlačte ešte raz pre ukončenie</string>
-    <string name="progress_error_pay_summary">%1$s Mi Kreditov nabitých ale platba zlyhala, skúste to opäť neskôr.</string>
+    <string name="progress_error_pay_summary">%1$s MiKreditov nabitých ale platba zlyhala, skúste to opäť neskôr.</string>
     <string name="progress_error_recharge_summary">Navýšenie zlyhalo, skúste to opäť neskôr.</string>
 </resources>

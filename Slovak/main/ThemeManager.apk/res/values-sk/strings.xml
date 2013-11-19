@@ -132,7 +132,7 @@
     <string name="resource_preview">Náhľad</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
-    <string name="resource_price_unit">MI Kreditov</string>
+    <string name="resource_price_unit">MiKreditov</string>
     <string name="resource_ranking">Populárne</string>
     <string name="resource_ranking_free">Zdarma</string>
     <string name="resource_ranking_purchase">Platené</string>
@@ -240,7 +240,7 @@
     <string name="wallpaper_settings">Nastavenie tapety</string>
     <string name="basic_info">Informácie</string>
     <string name="account_info">Môj účet</string>
-    <string name="payment_info">Mi Kredity</string>
+    <string name="payment_info">MiKredity</string>
     <string name="apply_theme_with_ringtones">Použiť tému so zvonením</string>
     <string name="settings">Nastavenia</string>
     <string name="resource_unable_to_access">"Prepáčte 

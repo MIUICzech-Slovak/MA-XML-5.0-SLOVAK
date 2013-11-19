@@ -872,7 +872,7 @@ Synchronizujte ich teraz."</string>
     <string name="resource_pack_warning">Upozornenie, Už ste zakúpili %1$d položiek, ale súčasná cena nie je stále výhodnejšia ako ich zakúpenie jednotlivo.</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Zdarma</string>
-    <string name="resource_price_unit">" Mi Kredity"</string>
+    <string name="resource_price_unit">" MiKredity"</string>
     <string name="resource_ranking">Populárne</string>
     <string name="resource_ranking_free">Zdarma</string>
     <string name="resource_ranking_purchase">Platené</string>
