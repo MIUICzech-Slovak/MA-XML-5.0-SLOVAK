@@ -291,7 +291,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="msg_picker_hint_1_1">1.</string>
     <string name="msg_picker_hint_1_2">Cena navýšenia cez SMS je väčšia ako za iné spôsoby 2 RMB (0,24€) = 1 Mi kredit</string>
     <string name="msg_picker_hint_2_1">2.</string>
-    <string name="msg_picker_hint_2_2">Za každé navýšenie cez SMS, si operátor účtuje 0.1 RMB poplatok</string>
+    <string name="msg_picker_hint_2_2">Za každé navýšenie cez SMS, si operátor účtuje %1$s RMB poplatok</string>
     <string name="msg_picker_hint_3_1">3.</string>
     <string name="msg_picker_hint_3_2">Maximálne je možné navýšiť %1$s RMB za mesiac</string>	
     <string name="msg_send_no_net_error">Failed to send message: cannot connect to your network provider.</string>	

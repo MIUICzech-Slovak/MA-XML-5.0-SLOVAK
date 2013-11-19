@@ -131,5 +131,6 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
     <string name="yellow_page_call_log_title">Zoznam hovorov</string>
     <string name="yellow_page_detail_title">Čo je to</string>
     <string name="yellow_page_website">Oficiálna stránka</string>
-
+    <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
+    <string name="express_inquiry_delete_warning_multiple">Delete %d selected history entries?</string>
 </resources>

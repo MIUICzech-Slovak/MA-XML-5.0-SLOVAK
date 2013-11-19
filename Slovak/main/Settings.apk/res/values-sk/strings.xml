@@ -1901,7 +1901,7 @@ skúste:
     <string name="power_perm_logs_empty">Žiadne záznamy</string>	
     <string name="power_phone">Hlasové hovory</string>
     <string name="power_save_choose_mode">Vyberte profil</string>	
-    <string name="power_save_low_battery_auto_save_title">Úsporný režim slabej batérie</string>	
+    <string name="power_save_low_battery_auto_save_title">Auto. prepnutie</string>	
     <string name="power_save_low_battery_option_summary">Ak je kapacita batérie nad stanoveným limitom, zariadenie sa vráti do naposledy použitého profilu.</string>	
     <string name="power_save_low_battery_option_title">Pri slabej batérií, prepnúť na</string>	
     <string name="power_save_low_battery_percentage_fifty">50%</string>	

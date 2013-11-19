@@ -216,6 +216,9 @@
   <string name="mx_activate_int_hint_malformed_info">Nastala chyba. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud Správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_int_hint_server">Aktivácia servera pre Cloud Správy zlyhala. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud Správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_int_hint_sim_change">Bola zmenená SIM karta. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud Správ. Chcete ich aktivovať teraz?</string>
+  <string name="mx_activate_popup_msg">Cloud správy umožňujú užívateľom MIUI odosielať správy medzi sebou bez použitia mobilných dát.</string>
+  <string name="mx_activate_int_popup_msg">Správy umožňujú užívateľom MIUI odosielať správy medzi sebou bez použitia mobilných dát.</string>
+  <string name="mx_btn_enable_now">Povoliť</string>
   <string name="mx_activation_done">Cloud správy sú povolené</string>
   <string name="mx_auto_resend_mms">Auto. odoslanie MMS</string>
   <string name="mx_auto_resend_mms_summary">Odoslať ako MMS ak Cloud Správy niesú dostupné. Bude spoplatnené Vaším operátorom.</string>

@@ -271,4 +271,9 @@
     <string name="yellow_page_sms_disabled_in_privacy_mode">"Nie je možné odoslať SMS správu v režime Návštevník."</string>
     <string name="grant_permissions_apps">Povoliť prístup aplikácií</string>
     <string name="grant_permissions_account">Povoliť prístup k účtu</string>
+    <string name="hksar_establishment_day"/>
+    <string name="the_first_weekday_after_christmas"/>
+    <string name="good_friday"/>
+    <string name="day_following_good_friday"/>
+    <string name="easter"/>
   </resources>
