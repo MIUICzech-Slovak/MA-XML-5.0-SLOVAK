@@ -278,6 +278,7 @@ d.MMMM yyyy"</string>
     <string name="usb_notification_ptp_info">Prístup k fotkám cez pripojenie k počítaču</string>
     <string name="usb_notification_ptp_ticker_text">USB Pripojené (PTP)</string>	
     <string name="usb_ptp_text">Fotky</string>	
+    <string name="usb_share_net_info">Použiť internet z PC</string>
     <string name="usb_storage_error_message">Vyskytol sa problém pri použití USB úložiska ako USB mass storage.</string>	
     <string name="usb_storage_message">Ste pripojení k počítaču cez USB. Stlačte tlačidlo nižšie, ak chcete kopírovať súbory medzi počítačom a Android USB úložiskom.</string>	
     <string name="usb_storage_notification_message">Vyberte súbory pre skopírovanie do/z vášho počítača.</string>	
