@@ -1094,10 +1094,10 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
     <string name="resource_send">Odoslať</string>
     <string name="resource_save_to_note">Uložiť do Poznámok</string>
     <string name="resource_present">Darček</string>
-    <string name="resource_exchange">Zaplatiť</string>
+    <string name="resource_exchange">Zaplatiť poukážkou</string>
     <string name="resource_exchange_confirm">Potvrdiť</string>
     <string name="resource_exchange_hint">Zadajte kód</string>
-    <string name="resource_exchange_window_title">Zaplatiť</string>
+    <string name="resource_exchange_window_title">Zaplatiť poukážkou</string>
     <string name="resource_exchange_universal_goon">Tento kód môže byť použitý na nákup ktorejkoľvek témy.</string>
     <string name="resource_exchange_universal_finish">Použite tento kód na stiahnutie ktorejkoľvek témy.</string>
     <string name="resource_exchange_empty_format">Zadajte kód!</string>
