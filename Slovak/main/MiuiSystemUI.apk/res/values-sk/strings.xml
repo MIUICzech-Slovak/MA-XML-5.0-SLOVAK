@@ -291,4 +291,6 @@ d.MMMM yyyy"</string>
     <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>	
     <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
     <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
+    <string name="cust_carrier_label_title">Zmeniť názov operátora</string>
+    <string name="cust_carrier_label_text_title">Prispôsobiť názov operátora</string>
 </resources>
