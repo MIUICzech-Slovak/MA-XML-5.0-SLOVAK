@@ -520,4 +520,11 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Aktualizujte databázu vírusov</item>
         <item>Obmedzte aplikácie na pozadí</item>
     </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minút</item>
+        <item>15 minút</item>
+        <item>30 minút</item>
+        <item>1 hodina</item>
+        <item>Bez obmedzenia</item>
+    </string-array>
 </resources>

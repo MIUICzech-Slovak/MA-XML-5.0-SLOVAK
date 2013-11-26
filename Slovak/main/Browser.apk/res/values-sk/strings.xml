@@ -31,7 +31,8 @@
     <string name="add_bookmark">Nová záložka</string>	
     <string name="add_bookmark_short">Pridať</string>	
     <string name="add_folder">Nová zložka</string>	
-    <string name="add_new_bookmark">Nová záložka</string>	
+    <string name="add_new_bookmark">Nová záložka</string>
+    <string name="add_quicklink_to_popular">Pridať na Úvodnú stránku</string>	
     <string name="add_to_bookmarks_menu_option">Záložky</string>	
     <string name="add_to_homescreen_menu_option">Domáca obrazovka</string>	
     <string name="add_to_other_folder_menu_option">Iný priečinok</string>	
@@ -484,6 +485,7 @@
     <string name="preview">Náhľad</string>	
     <string name="progress_dialog_setting_wallpaper">Nastavovanie tapety...</string>	
     <string name="quicklinks_management">Užitočné stránky</string>	
+    <string name="quicklink_saved_before">Stránka bola prídaná</string>
     <string name="readmode_already_add_to_bookshelf">Has joined bookshelf</string>	
     <string name="readmode_battery">Batéria </string>
     <string name="readmode_login">Prihlásiť</string>
@@ -534,6 +536,7 @@
     <string name="selection_all">Vybrať všetko</string>
     <string name="send_bookmark_to_home_screen">Odoslať na plochu</string>
     <string name="send_to_desktop">Na plochu</string>
+    <string name="send_to_popular">Populárne</string>
     <string name="set_as_homepage">Nastaviť ako domovskú stránku</string>
     <string name="share_link">Zdieľať odkaz</string>
     <string name="share_page">Zdieľať</string>

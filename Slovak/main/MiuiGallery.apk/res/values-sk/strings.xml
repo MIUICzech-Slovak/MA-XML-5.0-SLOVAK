@@ -179,8 +179,8 @@ spoločne!"</string>
   <string name="exit_share_in_process">Ukončovanie...</string>
   <string name="exit_share_successfully">Úspešné ukončenie albumu %1$s</string>
   <string name="exposure_time">Expozičný čas</string>
-  <string name="external_sd_card">SD karta int.</string>
-  <string name="external_usb_device">SD karta ext.</string>
+  <string name="external_sd_card">SD karta</string>
+  <string name="external_usb_device">Externé USB úložisko</string>
   <string name="facelift">Zosvetlenie tváre</string>
   <string name="facetan">Stmavenie tváre</string>
   <string name="fail_hint">Operácia zlyhala.</string>
@@ -232,7 +232,7 @@ spoločne!"</string>
   <string name="input_cloudfolder_name">Meno zložky v Cloude</string>
   <string name="internal_camera_folder_display_name">Interné fotografie</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interné screenshoty</string>
-  <string name="internal_sd_card">Interná SD karta</string>
+  <string name="internal_sd_card">Interné úložisko</string>
   <string name="invalid_invition_url">Chybná URL adresa pozvánky.</string>
   <string name="invalid_recipient_message">"Opravte príjemcov inak nedostanú správu."</string>
   <string name="iso">ISO</string>

@@ -3204,4 +3204,15 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
     <string name="select_memory">Predvolené úložisko</string>
     <string name="default_sdcard_select_msg">"Ak zvolíte %1$s, aplikácie nainštalované na %2$s nebude možné používať a zariadenie sa reštartuje, zmeniť na %3$s?"</string>
+    <string name="miui_screensaver_state_on">On</string>
+    <string name="miui_screensaver_state_off">Off</string>
+    <string name="miui_screensaver_title">Screensaver</string>
+    <string name="activate_miui_screensaver">Screensaver during sleep</string>
+    <string name="picture_source">Picture source</string>
+    <string name="only_when_charging">Only while charging</string>
+    <string name="miui_screensaver_show_time">Duration</string>
+    <string name="miui_screensaver_show_time_select_title">Set slideshow duration</string>
+    <string name="miui_screensaver_usage">Once activated, pictures in the screensaver album will be shown repeately 5 seconds after the screen shuts down.</string>
+    <string name="alert_show_screensaver_when_not_charging_title">Attention</string>
+    <string name="alert_show_screensaver_when_not_charging_msg">Power will be consumed more quickly if showing screensaver when not charging. Are you sure to close this option?</string>
 </resources>

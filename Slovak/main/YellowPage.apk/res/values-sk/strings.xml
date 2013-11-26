@@ -43,7 +43,7 @@ Please check tracking number"</string>
   <string name="express_inquiry_serial_number_prefix">"Sériové číslo: "</string>
   <string name="expresss_inquiry_all_logistics">All</string>
   <string name="expresss_inquiry_frequently_used_logistics">Common</string>
-  <string name="login_before_recharging">Pred navýšením sa musíte prihlásiť.</string>
+  <string name="login_before_use">Pred navýšením sa musíte prihlásiť.</string>
   <string name="login_ok">Prihlásiť</string>
   <string name="mark_number_custom_dialog_maintitle">Súhlasíte alebo chcete upraviť označenie</string>
   <string name="mark_number_dialog_maintitle">Označiť ako spam a odoslať</string>
