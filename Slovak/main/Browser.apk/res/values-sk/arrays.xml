@@ -14,8 +14,7 @@
 	<item>Vždy vypnuté</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Štartovacia stránka</item>
-        <item>Najčastejšie stránky</item>
+        <item>Úvodná stránka</item>
         <item>Iná</item>
     </string-array>		
     <string-array name="pref_text_size_choices">

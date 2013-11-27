@@ -593,11 +593,12 @@
     <string name="webstorage_origin_summary_mb_stored">MB uložené v tvojom telefóne</string>
     <string name="webstorage_outofspace_notification_text">Klikni pre uvoľnenie miesta.</string>
     <string name="webstorage_outofspace_notification_title">Úložisko prehliadača zaplnené</string>
-    <string name="user_defined_webpage">Vlastná URL</string>
+    <string name="user_defined_webpage">Pridať na úvodnú stránku</string>
     <string name="quicklink_user_define_webpage_title">Názov</string>
     <string name="quicklink_user_define_webpage_url">URL</string>
     <string name="user_defined_webpage_title">Pridať na úvodnú stránku</string>
     <string name="quicklinks_most_visited">Pridať na úvodnú stranu</string>
+    <string name="quicklinks_most_visited_title">Pridať na úvodnú stránku</string>
     <string name="quicklinks_most_visited_subtitle">Pridať vlastný odkaz na úvodnú stranu</string>
     <string name="quicklinks_group_default_subtitle">Prázdne</string>
     <string name="already_in_top_level">Záložka už je v najvyššej úrovni</string>
