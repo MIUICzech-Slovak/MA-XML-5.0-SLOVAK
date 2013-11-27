@@ -35,7 +35,7 @@
   <string name="confirm_change_mode_title">Prepnúť režim</string>
   <string name="confirm_change_to_expert_mode_message">Prepnúť na rozšírený režim?</string>
   <string name="confirm_change_to_simple_mode_message">Prepnúť na základný režim?</string>
-  <string name="confirm_location_message">Mi2 môže zaznamenať Vašu polohu vo fotografií. Chcete otvoriť nastavenia polohy?</string>
+  <string name="confirm_location_message">Mi3 môže zaznamenať Vašu polohu vo fotografií. Chcete otvoriť nastavenia polohy?</string>
   <string name="confirm_restore_message">Chcete obnoviť predvolené nastavenia?</string>
   <string name="confirm_restore_title">Obnoviť predvolené</string>
   <string name="connect_wifi">Pripojiť k tejto Wi-Fi</string>
