@@ -1,117 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="send_item">
-        <item>Text message</item>
+        <item>Správa</item>
         <item>Email</item>
     </string-array>
-    <string-array name="act_weather_main_listview_json_key">
-        <item>wind1</item>
-        <item>紫外线指数</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
-    </string-array>
     <string-array name="act_weather_main_listview_key">
-        <item>Wind speed:</item>
+        <item>Rýshlosť vetra:</item>
         <item>UV index:　</item>
-        <item>Clothing:</item>
-        <item>Comfort:</item>
-        <item>Car wash index:</item>
-        <item>Drying index:</item>
-        <item>Morning exercise:</item>
-        <item>Leisure:</item>
+        <item>Oblečenie:</item>
+        <item>Pocit:</item>
+        <item>Index umývania auta:</item>
+        <item>Index sušenia:</item>
+        <item>Ranné cvičenie:</item>
+        <item>Voľný čas:</item>
     </string-array>
     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rain storms</item>
-        <item>Rain storm</item>
-        <item>Heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Showers</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snow storm</item>
-        <item>Patches of snow fall</item>
-        <item>Heavy snow fall</item>
-        <item>Snow fall</item>
-        <item>Light snow fall</item>
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Hmlisto</item>
+        <item>Hmla</item>
+        <item>Niekoľko búriek</item>
+        <item>Búrky</item>
+        <item>Prietrž</item>
+        <item>Búrka s bleskami</item>
+        <item>Prehánky</item>
+        <item>Silné zrážky</item>
+        <item>Dážď</item>
+        <item>Mrholenie</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Snehové jazyky</item>
+        <item>Husté sneženie</item>
+        <item>Sneženie</item>
+        <item>Snehové prehánky</item>
         <item>Strong sand storm</item>
-        <item>Sand storm</item>
+        <item>Piesočná búrka</item>
         <item>Light sand storms</item>
         <item>Sand storm</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
+        <item>Krupobitie</item>
+        <item>Prach</item>
+        <item>Hmla</item>
     </string-array>
     <string-array name="weather_details_key">
-        <item>Unavailable</item>
-        <item>Suitable</item>
-        <item>Good</item>
-        <item>Avoid if possible</item>
-        <item>Not recommended</item>
-        <item>Ideal</item>
-        <item>Moderate</item>
-        <item>Weak</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Very strong</item>
-        <item>Cool</item>
-        <item>Comfortable</item>
-        <item>Very hot</item>
-        <item>Hot</item>
-        <item>Warm</item>
-        <item>Cool</item>
-        <item>Cooler</item>
-        <item>Cold</item>
-        <item>Freezing</item>
-        <item>High</item>
-        <item>Middle</item>
-        <item>Low</item>
-        <item>Clear skies</item>
-        <item>Cloudy</item>
-        <item>Rain</item>
-        <item>Sand storm</item>
-        <item>Snow</item>
-        <item>Relatively suitable conditions</item>
-        <item>Suitable conditions</item>
-        <item>Cloudy</item>
-        <item>Less than ideal</item>
-        <item>Ideal conditions</item>
-        <item>Poor conditions</item>
-        <item>Average conditions</item>
+        <item>Nedostupné</item>
+        <item>Vhodné</item>
+        <item>Dobré</item>
+        <item>Vyhýbajte sa ak je to možné</item>
+        <item>Nedoporučuje sa</item>
+        <item>Ideálné</item>
+        <item>Primerané</item>
+        <item>Slabé</item>
+        <item>Stredné</item>
+        <item>Silné</item>
+        <item>Veľmi silné</item>
+        <item>Chladno</item>
+        <item>Prijemne</item>
+        <item>Veľmi horúco</item>
+        <item>Horúco</item>
+        <item>Teplo</item>
+        <item>Chladno</item>
+        <item>Chladnejšie</item>
+        <item>Zima</item>
+        <item>Mráz</item>
+        <item>Vysoko</item>
+        <item>Stredne</item>
+        <item>Nízko</item>
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Dážď</item>
+        <item>Snežná búrka</item>
+        <item>Sneh</item>
+        <item>Relatívne vhodné podmienky</item>
+        <item>Vyhovujúce podmienky</item>
+        <item>Oblačno</item>
+        <item>Menej ako vhodné</item>
+        <item>Vhodné podmienky</item>
+        <item>Slabé podmienky</item>
+        <item>Priemerné podmienky</item>
     </string-array>
     <string-array name="weather_image_tips">
         <item></item>
         <item></item>
         <item></item>
         <item></item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>"It's raining heavily, remember to bring an umbrella."</item>
-        <item>If you are going out, remember to bring an umbrella!</item>
-        <item>If you are going out, remember to bring an umbrella!</item>
-        <item>If you are going out, remember to bring an umbrella!</item>
-        <item>"It's going to rain today, remember to bring an umbrella!"</item>
-        <item>"It's drizzling outside, recommend to bring an umbrella!"</item>
-        <item>"There's a mix of rain and snow outside, remember to bring an umbrella!"</item>
-        <item>"It's snowing heavily, remember to wear a hat and scarf!"</item>
-        <item>"It's going to snow today, remember to bring a hat and scarf!"</item>
-        <item>"It's snowing a lot, remember to wear a hat and scarf!"</item>
-        <item>"It's snowing quite a bit, remember to wear a hat and scarf!"</item>
-        <item>There is a light snowfall, remember to wear a hat and scarf.</item>
+        <item>"Prší, nezabudnite si dáždník."</item>
+        <item>"Prší, nezabudnite si dáždník."</item>
+        <item>"Prší, nezabudnite si dáždník."</item>
+        <item>Ak pôjdete vonku, vezmite si dáždník!</item>
+        <item>Ak pôjdete vonku, vezmite si dáždník!</item>
+        <item>Ak pôjdete vonku, vezmite si dáždník!</item>
+        <item>"Bude pršať, vezmite si dáždník!"</item>
+        <item>"Mrholenie, odporúča sa vziať si dáždník!"</item>
+        <item>"Vonku je dážď so snehom, odporúča sa vziať si dáždník!"</item>
+        <item>"Sneží, vezmite si čiapku a šál!"</item>
+        <item>"Dnes bude snežiť, vezmite si čiapku a šál!"</item>
+        <item>"Veľmi sneží, vezmite si čiapku a šál!"</item>
+        <item>"Sneží, vezmite si čiapku a šál!"</item>
+        <item>There is a light snowfall, vezmite si čiapku a šál.</item>
         <item>There is a very strong sand storm, remember to wear a face mask.</item>
-        <item>"It's raining quite a bit, remember to bring an umbrella."</item>
+        <item>Vonku prší, vezmite si dáždník.</item>
         <item>There is a very strong sand storm, remember to wear a face mask.</item>
         <item>There is a very strong sand storm, remember to wear a face mask.</item>
-        <item>"It's not everyday you see hail! Walk carefully!"</item>
+        <item>Vonku je krupobitie! Buďte opatrní!</item>
     </string-array>
     <string-array name="weather_sms_content">
         <item>Remember to wear sunscreen.</item>
@@ -272,26 +262,26 @@
     </string-array>
     <string-array name="weather_info_travel">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Nedostupné</item>
         <item>32</item>
-        <item>Clear and sunny with good temperatures.</item>
+        <item>Jasno a slnečno s prijemnými teplotami.</item>
         <item>2</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Mierne oblačno so stálymi teplotami.</item>
         <item>1</item>
-        <item>Mild and stable temperatures.</item>
+        <item>Mierne oblačno so stálymi teplotami.</item>
         <item>3</item>
-        <item>"Today's weather will be volatile."</item>
+        <item>Dnešné počasie bude premenlivé.</item>
         <item>33</item>
-        <item>"Today's weather will be volatile."</item>
+        <item>Dnešné počasie bude premenlivé</item>
         <item>34</item>
-        <item>Clear skies, mild wind.</item>
+        <item>Jasno s premenlivým vetrom.</item>
     </string-array>
     <string-array name="weather_info_fl">
         <item></item>
-        <item>Wear layers!</item>
+        <item>Oblečte sa!</item>
         <item>微风</item>
-        <item>Comfortable</item>
+        <item>Prijemné</item>
         <item>暂缺</item>
-        <item>Unavailable</item>
+        <item>Nedostupné</item>
     </string-array>
 </resources>
