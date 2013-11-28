@@ -579,7 +579,8 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="checking">Kontrola...</string>
     <string name="choose_timezone">Zvoliť časovú zónu</string>
     <string name="clean_confirm_title">Vymazať tieto súbory?</string>	
-    <string name="cleaner">Čistič</string>	
+    <string name="cleaner">Čistič</string>
+    <string name="cleaner_support_hints">Poskytuje Clean Master</string>
     <string name="clear_activities">Vymazať predvolené nastavenie</string>	
     <string name="clear_activities_summary">Povoliť túto aplikáciu ako predvolenú</string>	
     <string name="clear_all_calllog">Vymazať zoznam hovorov</string>
