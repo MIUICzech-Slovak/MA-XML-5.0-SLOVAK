@@ -62,7 +62,7 @@
     <string-array name="wifi_status">
         <item></item>
         <item>Vyhľadávanie...</item>
-        <item>Pripojovanie...</item>
+        <item>Pripájanie...</item>
         <item>Overovanie...</item>
         <item>Načítavanie adresy IP…</item>
         <item>Pripojené</item>
