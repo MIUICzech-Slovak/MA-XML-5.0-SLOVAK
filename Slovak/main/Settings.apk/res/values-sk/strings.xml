@@ -1014,7 +1014,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="font_size_preview">MIUI</string>	
     <string name="font_size_preview_text">Toto je ukážkový text pre MIUI CZ SK ROM.</string>	
     <string name="font_size_save">OK</string>
-    <string name="font_size_small">Malý</string>	
+    <string name="font_size_small">Malé</string>	
     <string name="font_size_summary">Nastaviť veľkosť písma a rozloženia aplikácií ako Telefón, SMS, Kontakty pre zjednodušenie používania.</string>	
     <string name="force_hw_ui">Vykresľovanie pomocou GPU</string>	
     <string name="force_hw_ui_summary">Použitie 2D hardvérovej akcelerácie v aplikáciách</string>	
