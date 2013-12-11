@@ -497,4 +497,12 @@ spoločne!"</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
+  <string name="file_not_exist_message">Súbor neexistuje.</string>
+  <string name="download">Stiahnuť</string>
+  <string name="confirm_download">"Potrebujete stiahnuť %s. Toto okno sa už viac nezobrazí."</string>
+  <string name="download_fail">Sťahovanie zlyhalo</string>
+  <string name="download_fail_confirm_continue">Sťahovanie %s zlyhalo. Pokračovať?</string>
+  <string name="make_download_dir_fail">Vytvorenie zložky pre súbory zlyhalo</string>
+  <string name="delete_smb_file_fail">Vymazanie smb súboru zlyhalo</string>
+  <string name="new_device_tips">Našlo sa nové zariadenie. Stlačte pre jeho zobrazenie</string>
 </resources>

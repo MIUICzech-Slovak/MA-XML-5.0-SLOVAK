@@ -3222,4 +3222,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string> 
     <string name="bt_trace_log">Povoliť Bluetooth Trace log</string>
     <string name="bt_trace_log_summary">Povoliť Bluetooth Trace log</string>
+    <string name="preferred_application_title">Preferovaný %s</string>
+    <string name="preferred_application_warning_title">Nahradiť predvolené %s</string>
+    <string name="preferred_application_warning_message">Nahradenie predvoleného "%1$s" môže zvýšiť spotrebu batérie, spomaliť chod systému, a ohroziť obsah zariadenia. Odporúča sa použiť "%2$s".</string>
+    <string name="preferred_application_warning_replace">Nahradiť</string>
+    <string name="preferred_application_warning_use_system">Použiť predvolený "%s"</string>
+    <string name="preferred_app_settings">Nastavenie predvolenej aplikácie</string>
+    <string name="preferred_app_settings_default">Predvolený</string>
+    <string name="preferred_app_settings_reset">Obnoviť predvolené</string>
+    <string name="preferred_app_settings_reset_message">Obnoviť nastavenia predvolenej aplikácie?</string>
 </resources>

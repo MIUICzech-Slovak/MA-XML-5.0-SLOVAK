@@ -527,4 +527,15 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>1 hodina</item>
         <item>Bez obmedzenia</item>
     </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Volanie</item>
+        <item>Správy</item>
+        <item>Prehliadač</item>
+        <item>Fotoaparát</item>
+        <item>Galéria</item>
+        <item>Hudba</item>
+        <item>Video</item>
+        <item>Email</item>
+    </string-array>
 </resources>
