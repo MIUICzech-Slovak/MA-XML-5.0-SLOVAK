@@ -226,4 +226,27 @@
 <string name="unit_piece">\u0020Položiek</string>
 <string name="unknown_hint">Neznámy</string>
 <string name="wifi_title">Wi-Fi nastavenia</string>
+<string name="button_continue">Pokračovať</string>
+<string name="cloud_app_invalid_op_when_removing">"Dáta boli vymazané a nie je možné ich zobraziť"</string>
+<string name="cloud_app_backup_cancel">Zrušiť zálohu</string>
+<string name="cloud_app_restore_cancel">Zrušiť obnovu</string>
+<string name="cloud_app_remove_cancel">Zrušiť mazanie</string>
+<string name="cloud_app_backup_cancel_prompt_title">Zastaviť zálohu</string>
+<string name="cloud_app_restore_cancel_prompt_title">Zastaviť obnovu</string>
+<string name="cloud_app_remove_cancel_prompt_title">Zastaviť mazanie</string>
+<string name="cloud_app_backup_cancel_prompt_message">"Záloha nie je dokončená
+Ok pre zrušenie zálohy"</string>
+<string name="cloud_app_restore_cancel_prompt_message">"Obnova nie je dokončená
+Ok pre zrušenie obnovy"</string>
+<string name="cloud_app_remove_cancel_prompt_message">"Mazanie nie je dokončené
+Ok pre zrušenie mazania"</string>
+<string name="cloud_app_check_data">Kontrola dát v cloude...</string>
+<string name="cloud_app_check_data_timeout">Čas na kontrolu dát z cloudu vypršal</string>
+<string name="cloud_app_load_data">Kontrola zoznamu zálohovaných dát...</string>
+<string name="cloud_app_load_data_timeout">Čas na kontrolu dát z cloudu vypršal</string>
+<string name="cloud_app_check_data_fail">Kontrola dát z cloudu zlyhala</string>
+<string name="cloud_app_no_network">Sieť nie je dostupná</string>
+<string name="cloud_app_no_wifi">Wi-Fi nie je dostupné</string>
+<string name="cloud_app_no_wifi_connect">Žiadna Wi-Fi</string>
+<string name="cloud_app_loading_with_mobile_network_prompt">"Použijú sa mobilné dáta, pokračovať?"</string>
 </resources>
