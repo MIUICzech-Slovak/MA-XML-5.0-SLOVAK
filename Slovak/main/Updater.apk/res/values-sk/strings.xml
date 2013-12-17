@@ -13,7 +13,7 @@
     <string name="apply_update_dialog_cancel_button">Zrušiť</string>
     <string name="apply_update_dialog_update_button">Aktualizovať</string>
     <string name="apply_update_fail">Aktualizácia systému zlyhala</string>
-    <string name="apply_update_timer">Aktualizácia je dokončená, telefón sa reštartuje o %d sekúnd</string>
+    <string name="apply_update_timer">Reštartujte</string>
     <string name="apply_upload_info_message">Kliknutím na Aktualizuj teraz sa automaticky telefón reštartuje aby prebehla aktualizácia.</string>
     <string name="apply_upload_info_message_manually">Po vypnutí, spustite Recovery a aplikovať aktualizáciu %s na SD karte. Ak chcete zálohovať svoje dáta, zálohujte ich a potom sa vráťte k aktualizácii systému.</string>
     <string name="applying_rom_message">Použiť aktualizáciu</string>
@@ -72,7 +72,7 @@
     <string name="md5_check_cancelled">Kontrola MD5 súčtu zrušená.</string>
     <string name="mione_update_fail_description">Prosím aktualizujte znova</string>
     <string name="mione_update_fail_title">Aktualizácia sa nepodarila</string>
-    <string name="mione_update_success_title">Aktualizácia ukončená</string>
+    <string name="mione_update_success_title">Aktualizované</string>
     <string name="monthly_build">Mesačná verzia</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Nie je dostatok miesta na SD karte na presun %dMB dát.</string>
     <string name="move_data_to_sdcard_title">Presunúť dáta na SD kartu</string>
@@ -150,10 +150,10 @@
     <string name="update_feedback_expired">"Zmeškali ste hodnotenie aktualizácie! \nVyplnite ho prosím nasledujúci utorok"</string>
     <string name="update_feel">Čo si o tom myslíte?</string>
     <string name="update_general">Dá sa</string>
-    <string name="update_happy"/>
+    <string name="update_happy">Výborný</string>
     <string name="update_monthly_build_only">Aktualizácia iba mesačných verzií</string>
     <string name="update_sad">Nič moc</string>
-    <string name="update_success">Aktualizácia bola úspešná!</string>
+    <string name="update_success">Aktualizácia prebehla úspešne!</string>
     <string name="update_success_body">na verziu %s</string>
     <string name="update_success_title">MIUI je aktualizovaná</string>
     <string name="updater_finish_download">Sťahovanie ROM je dokončené</string>

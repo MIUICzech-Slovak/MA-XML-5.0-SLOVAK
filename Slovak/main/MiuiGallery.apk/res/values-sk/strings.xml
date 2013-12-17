@@ -505,4 +505,10 @@ spoločne!"</string>
   <string name="make_download_dir_fail">Vytvorenie zložky pre súbory zlyhalo</string>
   <string name="delete_smb_file_fail">Vymazanie smb súboru zlyhalo</string>
   <string name="new_device_tips">Našlo sa nové zariadenie. Stlačte pre jeho zobrazenie</string>
+  <string name="confirm_delete_this_picture">Vymazať tento obrázok?</string>
+  <string name="confirm_delete_this_video">Vymazať toto video?</string>
+  <string name="loading_members">Načítavanie členov...</string>
+  <string name="video_download_start">Začať sťahovanie</string>
+  <string name="video_download_in_process">Video je stiahnuté</string>
+  <string name="video_not_exist">"Video neexistuje"</string>
 </resources>

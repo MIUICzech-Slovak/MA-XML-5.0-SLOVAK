@@ -340,7 +340,7 @@
     <string name="email_other">E-mail</string>
     <string name="email_work">E-mail do práce</string>
     <string name="emptyGroup">Žiadne kontakty v tejto skupine.</string>
-    <string name="empty_divider_title">Môžete</string>
+    <string name="empty_divider_title" />
     <string name="enter_contact_name">Napíšte meno osoby</string>
     <string name="eventLabelsGroup">Udalosti</string>
     <string name="event_edit_field_hint_text">Dátum</string>
@@ -1015,6 +1015,8 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="success_message_import_from_account">Import bol úspešný</string>
     <string name="summary_kind_title">Súhrn</string>
     <string name="t9_search_guide">Inteligentné vyhľadávanie mien a čísel</string>
+    <string name="t9_search_guide_pinyin">Stlačte 7 a 8 pre vyhľadanie Svokry</string>
+    <string name="t9_search_guide_zhuyin">Stlačte 7 a 8 pre vyhľadanie Svokry</string>
     <string name="take_new_photo">Urobiť novú fotku</string>
     <string name="take_photo">Urobiť fotku</string>
     <string name="titleJoinContactDataWith">Spojiť kontakty</string>
@@ -1121,4 +1123,15 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
     <string name="resource_user_know">OK</string>
     <string name="resource_hint">Výstraha</string>
     <string name="resource_ringtone_volume_mute">Zvonenia sú stíšené.</string>
+    <string name="yellowPageNavigationLabel">Directory</string>
+    <string name="yellowPageNavigationIconLabel">Directory</string>
+    <string name="login_ok">Prihlásiť</string>
+    <string name="login_before_recharging">Najskôr sa musíte prihlásiť.</string>
+    <string name="yellowpage_navigation_search_hint">Vyhľadať</string>
+    <string name="yellowpage_navigation_no_content">Nič sa nenašlo</string>
+    <string name="yellowpage_navigation_search_offline_hint">Žiadne pripojenie</string>
+    <string name="refresh">Obnoviť</string>
+    <string name="yellowpage_navigation_search_city_name_hint">Mesto</string>
+    <string name="yellowpage_navigation_search_select_city">Zvoľte mesto</string>
+    <string name="sim_contact_invalid">Chybný kontakt SIM</string>
 </resources>

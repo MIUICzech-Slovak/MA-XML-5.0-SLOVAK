@@ -88,6 +88,7 @@
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Stlač pre zobrazenie súboru %s</string>
     <string name="record_sucess">Nahrávanie dokončené</string>
+    <string name="record_completed">Nahrávanie dokončené</string>
     <string name="regional_band">Rozsah frekvencie (vymaže staníce)</string>
     <string name="search_dialog_title">Vyhľadať stanice</string>
     <string name="sel_band_menu">Vyberte </string>

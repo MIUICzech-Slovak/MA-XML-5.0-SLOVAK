@@ -7,6 +7,7 @@
         <item>Alarm</item>
     </string-array>    
     <string-array name="reminder_minutes_labels">
+	<item>Nikdy</item>
         <item>0 minút</item>
 	<item>1 minúta</item>
         <item>5 minút</item>
@@ -187,5 +188,9 @@
         <item>Vždy</item>
         <item>Len v tichom režime</item>
         <item>Nikdy</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Čierny priehľadný</item>
+        <item>Bielé pozadie</item>
     </string-array>
 </resources>

@@ -240,6 +240,7 @@
     <string name="user_agreement3">" a "</string>
     <string name="user_agreement4">"ochrane osobných údajov. "</string>
     <string name="user_agreement5">Stlačte OK pokiaľ súhlasíte s nasledujúcimi podmienkami, stlačením na Zrušiť akciu ukončíte.</string>
+    <string name="v5_date_time_picker_dialog_title">Čas upozornenia</string>
     <string name="v5_date_picker_label_day"/>
     <string name="v5_date_picker_label_month"/>
     <string name="v5_date_picker_label_year"/>

@@ -567,9 +567,9 @@
     <string name="tab_most_visited">Najnavštevovanejšie</string>
     <string name="tab_opened_background">Karta otvorená na pozadí.</string>
     <string name="tab_opened_background_in_incognito">Nové okno inkognito otvorené</string>
-    <string name="tab_quicklinks">Rýchle odkazy</string>
+    <string name="tab_quicklinks">Užitočné</string>
     <string name="tab_snapshots">Uložené stránky</string>
-    <string name="tab_yellowpage">Stránky</string>
+    <string name="tab_yellowpage">Populárne</string>
     <string name="title_bar_loading">Načítavanie...</string>
     <string name="too_many_subwindows_dialog_message">Súčasne môže byť otvorené len jedno pop-up okno.</string>
     <string name="too_many_subwindows_dialog_title">Pop-up je už otvorený</string>
