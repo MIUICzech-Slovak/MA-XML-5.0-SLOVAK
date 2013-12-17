@@ -482,7 +482,7 @@ spoločne!"</string>
   <string name="user_alias_self">Ja</string>
   <string name="video_download_in_process">Sťahovanie videa</string>
   <string name="video_download_start">Začať sťahovať video</string>
-  <string name="video_err">"Nemožno prehrať video."</string>
+  <string name="video_err">"Nie je možné prehrať video."</string>
   <string name="video_not_exist">Video sa nenašlo</string>
   <string name="view_sharers">Zdieľané s</string>
   <string name="vignette">Portrét</string>
@@ -508,7 +508,4 @@ spoločne!"</string>
   <string name="confirm_delete_this_picture">Vymazať tento obrázok?</string>
   <string name="confirm_delete_this_video">Vymazať toto video?</string>
   <string name="loading_members">Načítavanie členov...</string>
-  <string name="video_download_start">Začať sťahovanie</string>
-  <string name="video_download_in_process">Video je stiahnuté</string>
-  <string name="video_not_exist">"Video neexistuje"</string>
 </resources>
