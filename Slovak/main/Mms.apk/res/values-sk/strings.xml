@@ -461,4 +461,13 @@ Pokus: %s."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
+  <string name="toast_feedback_start">Vytváranie záznamu...</string>
+  <string name="toast_feedback_finish">Váš report bude automaticky odoslaný keď sa pripojíte na Wi-Fi</string>
+  <string name="toast_feedback_max">Môžete odoslať len 3 hlásenia za deň</string>
+  <string name="toast_description_required">"Nie je možné odoslať prázdnu správu"</string>
+  <string name="pref_key_mx_feedback">Odoslať report</string>
+  <string name="pref_summary_mx_feedback">"Pomôžte zlepšiť MIUI! 
+Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
+  <string name="feedback_description_hint">Napíšte Váš názor (povinné v Angličtine)</string>
+  <string name="feedback_submit">Odoslať</string>
 </resources>

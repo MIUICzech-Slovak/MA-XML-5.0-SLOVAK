@@ -435,4 +435,27 @@ Skontrolujeme to do dvoch pracovných dní"</string>
     <string name="onemore_click_exit">Stlačte ešte raz pre ukončenie</string>
     <string name="progress_error_pay_summary">%1$s MiKreditov nabitých ale platba zlyhala, skúste to opäť neskôr.</string>
     <string name="progress_error_recharge_summary">Navýšenie zlyhalo, skúste to opäť neskôr.</string>
+    <string name="button_confirm">Potvrdiť</string>
+    <string name="button_next">Ďalej</string>
+    <string name="scan_prompt_number">Načítať %1$s číslo predplatenej karty</string>
+    <string name="scan_prompt_password">Načítať %1$s heslo predplatenej karty</string>
+    <string name="scan_prompt_voucher">Načítať heslo MiKreditov</string>
+    <string name="detail_recharge_title">Záznamy o navýšení</string>
+    <string name="detail_recharge_order">Číslo objednávky navýšenia</string>
+    <string name="detail_recharge_account">ID navýšenia</string>
+    <string name="detail_pay_account">ID platby</string>
+    <string name="detail_recharge_method">Spôsob</string>
+    <string name="detail_recharge_amount">Suma</string>
+    <string name="detail_recharge_time">Čas</string>
+    <string name="detail_consume_title">Záznamy o platbe</string>
+    <string name="detail_consume_order">ID platby</string>
+    <string name="detail_consume_account">ID užívateľa</string>
+    <string name="detail_consume_name">Produkt</string>
+    <string name="detail_consume_amount">Suma</string>
+    <string name="detail_consume_time">Čas</string>
+    <string name="detail_giftcard_title">Podrobnosti o poukážke</string>
+    <string name="detail_giftcard_total">Poukážky celkovo</string>
+    <string name="detail_giftcard_activity">Akcia</string>
+    <string name="detail_giftcard_expired_time">Dátum ukončenia</string>
+    <string name="detail_giftcard_theme">Zakúpenie tém</string>
 </resources>
