@@ -277,7 +277,4 @@
     <string name="good_friday"/>
     <string name="day_following_good_friday"/>
     <string name="easter"/>
-    <string name="app_notificaiton_on_statusBar_and_notificationBar">Stavová lišta a roletka</string>
-    <string name="app_no_notification">žiadne</string>
-    <string name="app_notificaiton_on_notificationBar">Roletka</string>
   </resources>
