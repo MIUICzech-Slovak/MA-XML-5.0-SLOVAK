@@ -293,7 +293,7 @@
     <string name="where_is_barcode">"Kde je QR kód?"</string>
     <string name="i_know">OK</string>
     <string name="ktv_alert_title">Len pre podporované zariadenia</string>
-    <string name="ktv_alert_message">"Zvoľte Použiť telefón pre pridanie skladby na stránku KTV konzoly"</string>
+    <string name="ktv_alert_message">"Len pre Čínu"</string>
     <string name="ktv_and_room">%1$s %2$s</string>
     <string name="ktv_connected_alert_titel">Pripojené k %1$s</string>
     <string name="ktv_connected_alert_message">Skladby ktoré vyberiete, budú pridané do playlistu Moje KTV</string>
@@ -325,4 +325,5 @@
     <string name="vip_recommend_summary">Streamujte alebo sťahujte všetky Vaše obľúbené skladby z Baidu Music s kvalitou 320 kbps.</string>
     <string name="vip_recommend_buy">Zakúpiť (5 RMB na 1 mesiac)</string>
     <string name="vip_recommend_exchange">Darčekový kupón</string>
+    <string name="find_ktv">Vyhľadať KTV</string>
 </resources>
