@@ -3231,4 +3231,22 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="preferred_app_settings_default">Predvolený MIUI</string>
     <string name="preferred_app_settings_reset">Obnoviť predvolené</string>
     <string name="preferred_app_settings_reset_message">Obnoviť nastavenie predvolenej aplikácie?</string>
+    <string name="button_text_quick_scan">Kontrola</string>
+    <string name="deep_clean_tips_cache_content">"Niektoré aplikácie využívajú cache súbory pre sťahovanie doplnkov. Buďte opatrný pri čistení týchto súborov."</string>
+    <string name="deep_clean_tips_cache_title">Súbory Cache</string>
+    <string name="deep_clean_tips_large_file_content">Veľké súbory (10MB+) ktoré zaberajú veľa miesta vo Vašom zariadení.</string>
+    <string name="deep_clean_tips_large_file_title">Veľké súbory</string>
+    <string name="deep_clean_tips_residual_content">"Zvyškové súbory (napr. videá, tapety, hudba atď.) ktoré boli stiahnuté do Vášho zariadenia aplikáciami ktoré už nemáte nainštalované."</string>
+    <string name="deep_clean_tips_residual_title">Zvyškové súbory</string>
+    <string name="optimize_tips_ad_content">Obrázky, text a iné reklamné súbory stiahnuté aplikáciami do Vášho zariadenia.</string>
+    <string name="optimize_tips_ad_title">Reklama</string>
+    <string name="optimize_tips_apk_content">"Inštalačné súbory .apk ktoré sa používajú na priamu inštaláciu aplikácií."</string>
+    <string name="optimize_tips_apk_title">Aplikácie</string>
+    <string name="optimize_tips_cache_content">Dočasné súbory vytvorené aplikáciami a procesmi (napr. náhľady obrázkov).</string>
+    <string name="optimize_tips_cache_title">Cache</string>
+    <string name="optimize_tips_residual_content">Zvyškové súbory vytvorené aplikáciami ktoré už nemáte nainštalované. Niektoré súbory môžete ešte stále potrebovať. Odporúčame použiť rozšírený režim čistenia pre odstránenie týchto súborov.</string>
+    <string name="optimize_tips_residual_title">Zvyškové súbory</string>
+    <string name="perm_app_manage_empty">Žiadne aplikácie</string>
+    <string name="perm_root_manage_empty">Žiadne aplikácie s ROOT právami</string>
+    <string name="quick_scan_done_title">Dokončené!</string>
 </resources>
