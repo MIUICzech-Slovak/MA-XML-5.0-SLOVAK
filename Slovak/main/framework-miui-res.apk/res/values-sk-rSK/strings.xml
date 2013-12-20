@@ -277,4 +277,6 @@
     <string name="good_friday"/>
     <string name="day_following_good_friday"/>
     <string name="easter"/>
+    <string name="text_copied">Text bol skopírovaný</string>
+    <string name="text_cut">Text bol vystrihnutý</string>
   </resources>
