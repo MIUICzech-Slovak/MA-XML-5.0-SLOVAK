@@ -199,14 +199,14 @@
     <string name="account_and_calendar">Účet a kalendár</string>
     <string name="account_and_calendar_to_display">Zobraziť účet a kalendár</string>
     <string name="default_reminder_mode">Predvolené upozornenie</string>
-    <string name="time_zone">Časová zóna</string>
-    <string name="show_all_lunar">Zobraziť všetky lunárne</string>
+    <string name="time_zone">Zóna</string>
+    <string name="show_all_lunar">Lunárny (Čína)</string>
     <string name="event_lunar_month"/>
     <string name="huangli_good_type"/>
     <string name="huangli_bad_type"/>
     <string name="event_all_day_label">Celý deň</string>
-    <string name="event_account">Účet kalendára</string>
-    <string name="event_show_more">Zobraziť</string>
+    <string name="event_account">Účet</string>
+    <string name="event_show_more">Viac</string>
     <string name="event_hide_more">Skryť</string>
     <string name="event_info_when">"Kedy: "</string>
     <string name="event_info_repeat">"Opakovanie: "</string>
@@ -224,5 +224,5 @@
     <string name="widget_no_events">Žiadne udalosti</string>
     <string name="activity_title" />
     <string name="activity_summary" />
-    <string name="show_almanac">Show almanac</string>
+    <string name="show_almanac">Almanach (Čína)</string>
 </resources>
