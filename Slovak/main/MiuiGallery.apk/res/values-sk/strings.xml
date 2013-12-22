@@ -119,7 +119,10 @@ spoločne!"</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s je systémový album, skutočne vymazať?</string>
+  <string name="confirm_delete_this_picture">Vymazať tento obrázok?</string>
+  <string name="confirm_delete_this_video">Vymazať toto video?</string>
   <string name="confirm_delete_videos">%s</string>
+  <string name="confirm_download">"Potrebujete stiahnuť %s. Toto okno sa už viac nezobrazí."</string>
   <string name="contact_photo">Obrázok kontaktu</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_copy">Kopírovať</string>
@@ -145,6 +148,7 @@ spoločne!"</string>
   <string name="delete_file">Ste si istý, že chcete vymazať tieto súbory (%1$d)?</string>
   <string name="delete_files_and_folders">Ste si istý, že chcete vymazať tieto súbory (%1$d) a zložky (%2$d)?</string>
   <string name="delete_folder">Ste si istý, že chcete vymazať tieto zložky (%1$d)?</string>
+  <string name="delete_smb_file_fail">Vymazanie smb súboru zlyhalo</string>
   <string name="deleting_files">Odstraňujem súbory...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Odmietnuť</string>
@@ -157,6 +161,9 @@ spoločne!"</string>
   <string name="done">Hotovo</string>
   <string name="doodle">Čmáranica</string>
   <string name="doodle_tooltip">Kresli na snímku čmáranicu</string>
+  <string name="download">Stiahnuť</string>
+  <string name="download_fail">Sťahovanie zlyhalo</string>
+  <string name="download_fail_confirm_continue">Sťahovanie %s zlyhalo. Pokračovať?</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Trvanie</string>
   <string name="edit">Upraviť</string>
@@ -188,6 +195,7 @@ spoločne!"</string>
   <string name="fail_to_apply">Pripojenie k albumu zlyhalo.</string>
   <string name="fail_to_pick_email">Nie je vybraný žiaden E-mail</string>
   <string name="fail_to_sync_album">Nastala chyba pri synchronizácií so serverom. Skontrolujte nastavenie siete.</string>
+  <string name="file_not_exist_message">Súbor neexistuje.</string>
   <string name="file_size">Veľkosť súboru</string>
   <string name="filllight">Osvetliť</string>
   <string name="fisheye">Rybie oko</string>
@@ -243,11 +251,13 @@ spoločne!"</string>
   <string name="kick_sharer_successfully">Úspešne odstránené zo zdieľaných</string>
   <string name="loading">Nahrávam...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
+  <string name="loading_members">Načítavanie členov...</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
   <string name="local_albums">Lokálne Albumy</string>
   <string name="location">Poloha</string>
   <string name="locations">Miesta</string>
   <string name="lomoish">Lomo</string>
+  <string name="make_download_dir_fail">Vytvorenie zložky pre súbory zlyhalo</string>
   <string name="maker">Tvorca</string>
   <string name="manual">Manuál</string>
   <string name="me">Ja</string>
@@ -282,6 +292,7 @@ spoločne!"</string>
   <string name="must_pick_file">Vyber obrázok</string>
   <string name="negative">Negatív</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="new_device_tips">Našlo sa nové zariadenie. Stlačte pre jeho zobrazenie</string>
   <string name="no">Nie</string>
   <string name="no_albums_alert">Žiadne dostupné albumy.</string>
   <string name="no_connectivity">"Niektoré polohy nemožno identifikovať kvôli problémom so sieťou."</string>
@@ -303,7 +314,7 @@ spoločne!"</string>
   <string name="operation_add_picture">Vybrať obrázky</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
 "</string>
-  <string name="operation_failed">Operácia zlyhala.</string>
+  <string name="operation_failed">Operácia zlyhala.</string> 
   <string name="operation_in_process">Spracovávanie...</string>
   <string name="operation_refresh">Obnoviť</string>
   <string name="operation_rename">Premenovať</string>
@@ -314,7 +325,7 @@ spoločne!"</string>
   <string name="operation_unset_as_screensaver">Zrušiť šetrič displeja</string>
   <string name="orientation">Orientácia</string>
   <string name="other_category">Ďalšie nastavenia</string>
-  <string name="owner_album_subtitle">Zdieľané s %1$s členmi</string> 
+  <string name="owner_album_subtitle">Zdieľané s %1$s členmi</string>
   <string name="path">Cesta</string>
   <string name="people">Ľudia</string>
   <string name="photo_page_always_rotate">Automaticky otočiť</string>
@@ -497,15 +508,4 @@ spoločne!"</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
-  <string name="file_not_exist_message">Súbor neexistuje.</string>
-  <string name="download">Stiahnuť</string>
-  <string name="confirm_download">"Potrebujete stiahnuť %s. Toto okno sa už viac nezobrazí."</string>
-  <string name="download_fail">Sťahovanie zlyhalo</string>
-  <string name="download_fail_confirm_continue">Sťahovanie %s zlyhalo. Pokračovať?</string>
-  <string name="make_download_dir_fail">Vytvorenie zložky pre súbory zlyhalo</string>
-  <string name="delete_smb_file_fail">Vymazanie smb súboru zlyhalo</string>
-  <string name="new_device_tips">Našlo sa nové zariadenie. Stlačte pre jeho zobrazenie</string>
-  <string name="confirm_delete_this_picture">Vymazať tento obrázok?</string>
-  <string name="confirm_delete_this_video">Vymazať toto video?</string>
-  <string name="loading_members">Načítavanie členov...</string>
 </resources>

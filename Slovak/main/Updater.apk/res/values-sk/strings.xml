@@ -68,6 +68,7 @@
     <string name="internal_build">Neverejná verzia</string>
     <string name="kernel_upgrade_link"/>
     <string name="kernel_upgrade_version"/>
+    <string name="later">Neskôr</string>
     <string name="loading">Pripojenie na MIUI server</string>
     <string name="md5_check_cancelled">Kontrola MD5 súčtu zrušená.</string>
     <string name="mione_update_fail_description">Prosím aktualizujte znova</string>
@@ -96,6 +97,7 @@
     <string name="no_updates_warning">Žiadne nové aktualizácie pre Váš telefón neboli nájdené.</string>
     <string name="no_updates_warning2">Táto aplikácia Vás upozorní na nové aktualizácie.</string>
     <string name="not_recommend">"Neodporúčam"</string>
+    <string name="now">Teraz</string>
     <string name="paused_queued_for_network">Čakanie na internetové pripojenie</string>
     <string name="paused_queued_for_wifi">Čakanie na Wi-Fi pripojenie</string>
     <string name="previous">Predchádzajúci</string>
@@ -168,6 +170,4 @@
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
     <string name="worst_update">Zlý update</string>
-    <string name="now">Teraz</string>
-    <string name="later">Neskôr</string>
 </resources>
