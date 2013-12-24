@@ -222,6 +222,7 @@
     <string name="overwrite_confirm">Prepísať</string>
     <string name="pay_service_guide_dowload">Kvalita sťahovania</string>
     <string name="pay_service_guide_listen">Kvalita streamu</string>
+	<string name="pay_service_guide_new">Vyššia kvalita nie je dostupná</string>
     <string name="payment_fail">Platba zlyhala</string>
     <string name="payment_success">Platba dokončená</string>
     <string name="play_all">Prehrať všetko</string>

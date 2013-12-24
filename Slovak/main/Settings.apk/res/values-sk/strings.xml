@@ -827,6 +827,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dialog_title_hdmi_color_calibration">Nastavenie farieb</string>
     <string name="dirac_control">Dirac Ovládanie</string>	
     <string name="dirac_mode_earbuds">Špunty</string>	
+	<string name="dirac_mode_general">Bežné</string>
     <string name="dirac_mode_in_ear">Slúchadlá</string>	
     <string name="dirac_mode_off">Dirac Vypnutý</string>	
     <string name="dirac_mode_piston_100">Xiaomi Piston slúchadlá</string>	

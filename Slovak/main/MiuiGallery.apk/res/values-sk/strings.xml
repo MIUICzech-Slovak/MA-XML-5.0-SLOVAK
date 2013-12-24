@@ -508,4 +508,14 @@ spoločne!"</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
+  <string name="loading_thumbnail">Sťahovanie náhľadu...</string>
+  <string name="video_not_exist">"Video nie je dostupné"</string>
+  <string name="loading_video">Sťahovanie videa...</string>
+  <string name="loading_image">Sťahovanie obrázku...</string>
+  <string name="loading_suspend">Sťahovanie pozastavené: Bude obnovené keď sa pripojíte na Wi-Fi.</string>
+  <string name="confirm_download_video_title">Stiahnuť video</string>
+  <string name="confirm_download_video_message">Nie je možné video prehrať ak nie je dokončené jeho sťahovanie. Sťahovanie bude obnovené keď sa pripojíte na Wi-Fi.</string>
+  <string name="image_download_item_title">Sťahovanie obrázka(%s)</string>
+  <string name="time_line_view">Časová línia</string>
+  <string name="folder_holder_file">Mali by ste vymazať tento súbor</string>
 </resources>

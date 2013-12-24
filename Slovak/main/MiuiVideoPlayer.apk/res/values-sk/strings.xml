@@ -61,4 +61,7 @@
     <string name="menu_item_enable_audio_enhance">Otvoriť vylepšenie zvuku</string>
     <string name="menu_item_disable_audio_enhance">Zatvoriť vylepšenie zvuku</string>
     <string name="toast_message_set_misound">Nastavovanie...</string>
+	<string name="menu_item_enable_audio_enhance">Povoliť vylepšenie zvuku</string>
+    <string name="menu_item_disable_audio_enhance">Zakázať vylepšenie zvuku</string>
+    <string name="toast_message_set_misound">Nastavovanie...</string>
 </resources>
