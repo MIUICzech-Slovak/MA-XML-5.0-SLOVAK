@@ -151,6 +151,7 @@ Môžete ich upraviť."</string>
     <string name="text_day"/>	
     <string name="text_done">Hotovo</string>	
     <string name="text_save">Uložiť</string>	
+	<string name="traffic_bought">Navýšiť</string>
     <string name="traffic_none">Žiadne</string>	
     <string name="traffic_remain">Ostávajúce</string>
     <string name="traffic_settings_error">Chyba nastavenia balíčku. Vami nastavený dátový balíček je %1$s, ale správa od operátora udáva, že ostáva %2$s.</string>	

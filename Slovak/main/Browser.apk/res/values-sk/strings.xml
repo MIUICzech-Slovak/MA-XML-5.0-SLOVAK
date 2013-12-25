@@ -358,6 +358,7 @@
     <string name="pref_content_open_in_background">Otvoriť na pozadí</string>  
     <string name="pref_content_open_in_background_summary">Otvoriť nové karty na pozadí aktuálnej karty</string>	
     <string name="pref_content_plugins">Povoliť doplnky</string>	
+	<string name="pref_content_block_float_popups">Blokovať vyskakovacie okná</string>
     <string name="pref_content_search_engine">Nastaviť vyhľadávanie</string>	
     <string name="pref_content_search_engine_summary">Vybrať vyhľadávaciu službu</string>
     <string name="pref_content_title">Obsah stránky</string>
