@@ -186,7 +186,7 @@
   <string name="message_details_title">Podrobnosti o správe</string>
   <string name="message_download_failed_title">Správa nebola stiahnutá</string>
   <string name="message_failed">Neúspešné</string>
-  <string name="message_failed_body">Vyberte pre preskúmanie správy a skúste to znova.</string>
+  <string name="message_failed_body">Skúste to znova</string>
   <string name="message_pending">Odosielanie...</string>
   <string name="message_queued">V súčasnej dobe nie je možné správu odoslať. Bude odoslaná, akonáhle bude služba k dispozícií.</string>
   <string name="message_readed">Prečítajte si</string>
