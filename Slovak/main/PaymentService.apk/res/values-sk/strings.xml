@@ -420,7 +420,7 @@ Skontrolujeme to do dvoch pracovných dní"</string>
     <string name="recharge_grid_edit_upper_limit">"Nie viac ako %1$s RMB"</string>
     <string name="recharge_grid_error_denomination">Vložte správnu sumu</string>
     <string name="recharge_grid_picker_hint">Zvoľte hodnotu</string>
-    <string name="recharge_group_favorite">Použiť predchádzajúci spôsob navýšenia</string>
+    <string name="recharge_group_favorite">Naposledy použitý spôsob</string>
     <string name="recharge_group_others">Ostatné spôsoby navýšenia</string>
     <string name="recharge_message_title">SMS (Iba Čína)</string>
     <string name="recharge_notification">Navýšenie o %1$s MiKreditov</string>
@@ -434,8 +434,8 @@ Skontrolujeme to do dvoch pracovných dní"</string>
     <string name="recharge_tenpay_title">Tenpay</string>
     <string name="recharge_voucher_title">Poukážka</string>
     <string name="scan_prompt_number">Načítať %1$s číslo predplatenej karty</string>
-    <string name="scan_prompt_password">Načítať %1$s heslo predplatenej karty</string>
-    <string name="scan_prompt_voucher">Načítať heslo MiKreditov</string>
+    <string name="scan_prompt_password">Načítať %1$s číslo predplatenej karty</string>
+    <string name="scan_prompt_voucher">Načítať číslo MiKreditov</string>
     <string name="security_setting">Zabezpečenie</string>
     <string name="summary_lockpattern">Vyžadovať odomykací vzor pre MiKredity</string>
     <string name="title_change_lockpattern">Nastaviť odomykací vzor</string>
