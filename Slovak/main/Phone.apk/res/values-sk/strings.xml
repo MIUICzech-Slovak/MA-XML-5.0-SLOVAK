@@ -785,6 +785,7 @@
     <string name="preferred_network_mode_dialogtitle">Preferovaný režim siete</string>
     <string name="preferred_network_mode_evdo_only_summary">Preferovaný režim siete: Len EvDo</string>
     <string name="preferred_network_mode_global_summary">Preferovaný režim siete: Globálny</string>
+	<string name="preferred_network_type_group_title_miui">Mobilná sieť (%s)</string>
     <string name="preferred_network_mode_gsm_only_summary">Preferovaný režim siete: Len GSM</string>
     <string name="preferred_network_mode_gsm_wcdma_summary">Preferovaný režim siete: GSM / WCDMA</string>
     <string name="preferred_network_mode_lte_cdma_evdo_summary">Preferred network mode: CDMA+LTE/EVDO</string>
@@ -947,6 +948,10 @@
     <string name="sim_lock_off_miui">Zadajte PIN pre použite telefónu</string>
     <string name="sim_lock_on_miui">Zadajte PIN pre použite telefónu</string>
     <string name="sim_lock_title_miui">Nastavenie zámku SIM</string>
+	<string name="sim_slot_alert_title">Slot na SIM kartu</string>
+    <string name="sim_slot_alert_message">Vložte %s SIM kartu do prvého slotu, ktorý podporuje 3G siete.</string>
+    <string name="sim_slot_alert_shutdown">Vypnúť</string>
+    <string name="sim_slot_alert_cancel">Používať ďalej</string>
     <string name="sim_ndp_dismiss_text">Zrušiť</string>
     <string name="sim_ndp_unlock_text">Odblokovať</string>
     <string name="sim_pin_change_miui">Zmeniť PIN</string>
