@@ -2770,7 +2770,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_button_clear">Vyčistiť</string>
     <string name="virus_scan">AntiVírus</string>
     <string name="virus_scan_app_continue">Pokračovať v skenovaní</string>
-    <string name="virus_scan_app_find_risk">%d je podozrivých, odporúča sa ich okamžite odinštalovať.</string>
+    <string name="virus_scan_app_find_risk">Podozrivých: %d, odporúča sa okamžite odinštalovať!</string>
     <string name="virus_scan_app_finish">Zatvoriť</string>
     <string name="virus_scan_app_force_stop">Skenovanie pozastavené!</string>
     <string name="virus_scan_app_is_stop_scan">Chcete zastaviť AntiVírus?</string>
@@ -2794,7 +2794,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scan_file_type_risk_installed">Podozrivá aplikácia (nainštalovaná)</string>
     <string name="virus_scan_file_type_virus_apk">Vírus (.apk balíček)</string>
     <string name="virus_scan_file_type_virus_installed">Vírus (nainštalovaná)</string>
-    <string name="virus_scan_find">Našlo sa %d rizík</string>
+    <string name="virus_scan_find">Nájdených rizík: %d</string>
     <string name="virus_scan_finish">Hotovo</string>
     <string name="virus_scan_finish_text">Všetko je vyčistené!</string>
     <string name="virus_scan_guard_provider_missed">Antivírus zlyhal. Je nutné urobiť formát telefónu a návrat do továrnych nastavení.</string>
@@ -2825,7 +2825,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scan_parpare">Začínam...</string>
     <string name="virus_scan_risk_button_name">Riziko</string>
     <string name="virus_scan_risk_list_empty">Žiadne riziká.</string>
-    <string name="virus_scan_risk_title">%d podozrivých aplikácií</string>
+    <string name="virus_scan_risk_title">Podozrivých aplikácií: %d</string>
     <string name="virus_scan_safe">Vyčistiť</string>
     <string name="virus_scan_settings">Nastavenia</string>
     <string name="virus_scan_settings_title">Nastavenia vírusovej databázy</string>
@@ -2838,7 +2838,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scan_update_now">Aktualizovať</string>
     <string name="virus_scan_use_cloud">Online vírusová databáza</string>
     <string name="virus_scan_virus_list_empty">Žiadne vírusy.</string>
-    <string name="virus_scan_virus_title">%d vírusov!</string>
+    <string name="virus_scan_virus_title">Vírusov: %d!</string>
     <string name="virus_scan_viruslib_version">Verzia vírusovej databázy: %s</string>
     <string name="virus_scanner_auto_update">Aktualizovať automaticky</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
