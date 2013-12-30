@@ -159,7 +159,7 @@ Môžete ich upraviť."</string>
     <string name="this_month_wlan">Wi-Fi tento mesiac</string>
     <string name="today_mobile_format">%s Prevádzka za dnešok</string>
     <string name="today_total_traffic_format">%s Prevádzka za dnešok</string>
-    <string name="today_wlan">Today WLAN</string>
+    <string name="today_wlan">Wi-Fi dnes</string>
 	<string name="traffic_bought">Navýšiť</string>
     <string name="traffic_none">Žiadne</string>	
     <string name="traffic_remain">Ostávajúce</string>
