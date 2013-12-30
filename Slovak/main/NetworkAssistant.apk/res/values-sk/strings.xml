@@ -103,7 +103,8 @@ Môžete ich upraviť."</string>
     <string name="network_control_service_notification_title_single">%1$s bolo zamietnuté pripojenie cez %2$s</string>
     <string name="notify_carrier_settings_format">"%s Nebol nastavený Váš poskytovateľ služieb. Chcete ho nastaviť?"</string>
     <string name="notify_carrier_settings_title">Nemáte nastaveného svojho operátora. Nastaviť teraz?</string>
-    <string name="notify_traffic_settings_cancel_hint">Notifikácie a monitorovanie spotreby dát bude deaktivované. Ukončiť?</string>	
+    <string name="notify_traffic_settings_cancel_hint">Notifikácie a monitorovanie spotreby dát bude deaktivované. Ukončiť?</string>
+    <string name="notify_traffic_settings_format">"%s Nebol nastavený limit dát. Chcete ho nastaviť?"</string>	
     <string name="notify_traffic_settings_title">Nemáte nastavený Váš limit dát. Chcete ho nastaviť?</string>	
     <string name="overseas_menu_traffic_adjust">Nastaviť manuálne</string>	
     <string name="overseas_menu_traffic_settings">Limit dát</string>	
