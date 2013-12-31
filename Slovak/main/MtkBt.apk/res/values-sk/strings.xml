@@ -83,8 +83,8 @@
 <string name="bt_opps_push_toast_invalid_request">Chybná zdieľaná požiadavka z ovládacieho zariadenia.</string>
 <string name="bt_opps_toast_storage_unavailable">Nie je SD karta alebo dostatok miesta na úložisku.</string>
 <string name="bt_share_mgmt_notification_message">Zobraziť históriu bluetooth.</string>
-<string name="bt_share_mgmt_notification_ticker">Zdieľaná história bluetooth</string>
-<string name="bt_share_mgmt_notification_title">Zdieľaná história bluetooth</string>
+<string name="bt_share_mgmt_notification_ticker">História zdieľania bluetooth</string>
+<string name="bt_share_mgmt_notification_title">História zdieľania bluetooth</string>
 <string name="bt_share_mgmt_tab_dialog_message_recfail">Súbor %1$s od %2$s nebol prijatý.</string>
 <string name="bt_share_mgmt_tab_dialog_message_resend">Súbor %1$s nebol odoslaný %2$s.</string>
 <string name="bt_share_mgmt_tab_dialog_message_sent">Súbor %1$s bol odoslaný %2$s.</string>
