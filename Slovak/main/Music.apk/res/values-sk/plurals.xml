@@ -88,4 +88,11 @@
         <item quantity="other">%d skladieb odstránených z playlistu.</item>
         <item quantity="one">1 skladba odstránená z playlistu.</item>
     </plurals>
+	<plurals name="Nexpiration_reminder">
+        <item quantity="other">Skončí o %d dní</item>
+        <item quantity="one">Skončí o %d deň</item>
+    </plurals>
+	<plurals name="Nvip_expired_remind">
+        <item quantity="other">Váš prístup k vysokej kvalite hudby čoskoro skončí (ostáva %d dní)</item>
+    </plurals>
 </resources>

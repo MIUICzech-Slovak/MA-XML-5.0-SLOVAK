@@ -188,6 +188,7 @@ spoločne!"</string>
   <string name="exposure_time">Expozičný čas</string>
   <string name="external_sd_card">SD karta</string>
   <string name="external_usb_device">Externé USB úložisko</string>
+  <string name="external_usb_device_hm">Externé USB úložisko</string>
   <string name="facelift">Zosvetlenie tváre</string>
   <string name="facetan">Stmavenie tváre</string>
   <string name="fail_hint">Operácia zlyhala.</string>
@@ -241,9 +242,11 @@ spoločne!"</string>
   <string name="internal_camera_folder_display_name">Interné fotografie</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interné screenshoty</string>
   <string name="internal_sd_card">Interné úložisko</string>
+  <string name="internal_sd_card_hm">Interné úložisko</string>
   <string name="invalid_invition_url">Chybná URL adresa pozvánky.</string>
   <string name="invalid_recipient_message">"Opravte príjemcov inak nedostanú správu."</string>
   <string name="iso">ISO</string>
+  <string name="item_not_sync">Tento súbor nebol synchronizovaný do cloudu a nie je možné ho stiahnuť</string>
   <string name="kick_owner_user_positive_button_text">Odstrániť</string>
   <string name="kick_owner_user_title">Odstrániť tohto člena?</string>
   <string name="kick_sharer">Odstrániť zdieľaných</string>
@@ -285,6 +288,7 @@ spoločne!"</string>
   <string name="modify_allow_hint">Je povolené pridávanie nových fotografií</string>
   <string name="modify_disallow_hint">Nie je povolené pridávanie nových fotografií</string>
   <string name="more">Viac</string>
+  <string name="move">Presunúť</string>
   <string name="move_to_cloud_album">Premiestniť do Cloudu</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>

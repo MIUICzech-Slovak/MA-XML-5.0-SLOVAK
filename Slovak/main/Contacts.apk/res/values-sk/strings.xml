@@ -1130,6 +1130,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="yellowPageNavigationIconLabel">Directory</string>
     <string name="yellowPageNavigationLabel">Directory</string>
     <string name="yellowpage_navigation_no_content">Nič sa nenašlo</string>
+	<string name="yellowpage_navigation_menu_order">Moja objednávka</string>
     <string name="yellowpage_navigation_search_city_name_hint">Mesto</string>
     <string name="yellowpage_navigation_search_hint">Vyhľadať</string>
     <string name="yellowpage_navigation_search_offline_hint">Žiadne pripojenie</string>
