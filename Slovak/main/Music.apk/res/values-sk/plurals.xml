@@ -95,4 +95,8 @@
 	<plurals name="Nvip_expired_remind">
         <item quantity="other">Váš prístup k vysokej kvalite hudby čoskoro skončí (ostáva %d dní)</item>
     </plurals>
+	<plurals name="Nexpired_remind">
+        <item quantity="other">Ostáva %d dní</item>
+        <item quantity="one">Ostáva %d deň</item>
+    </plurals>
 </resources>
