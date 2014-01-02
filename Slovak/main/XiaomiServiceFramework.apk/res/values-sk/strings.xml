@@ -607,4 +607,38 @@ s "</string>
     <string name="wrong_vcode">Nesprávny kód</string>
     <string name="xiaomi_cloud_service">MiCloud</string>
     <string name="xmpp_server_addr"/>
+	<string name="enable_sync">Povoliť synchr.</string>
+    <string name="enable_sync_dspt">Synchr. je deaktivovaná</string>
+	<string name="micloud_account_details">Podrobnosti</string>
+	<string name="micloud_app_data">MiCloud záloha apl.</string>
+	<string name="micloud_data_loading">Načítavanie...</string>
+	<string name="micloud_full_influence_dspt">"Všetky fotografie, videá, poznámky a aplikácie budú zálohované do MiCloud.
+ 
+ Ak stratíte telefón alebo sa poškodí, Vaše dáta budú stále v bezpečí.
+ 
+ Ak je MiCloud už plný, Vaše staré dáta nebudú automaticky odstránené ale nebude možné zálohovať nové dáta.
+ 
+ V tomto prípade môžete buď vymazať staré dáta alebo si zakúpiť viac miesta v úložisku MiCloud."</string>
+   <string name="micloud_full_influence_title">Ak je MiCloud už plný</string>
+   <string name="micloud_gallery_image">MiCloud obrázky</string>
+   <string name="micloud_gallery_video">MiCloud videá</string>
+   <string name="micloud_none">Žiadne</string>
+   <string name="micloud_space_full_influence">Čo sa stane ak zaplním voľné miesto?</string>
+   <string name="micloud_storage_space">Úložisko MiCloud</string>
+   <string name="micloud_title_dspt" formatted="false">"Celkovo %s
+  použité %s | ostáva %s"</string>
+   <string name="micloud_title_full_dspt">Úložisko je plné!</string>
+   <string name="micloud_user_base_info">Info o užívateľovi</string>
+   <string name="micloud_user_email">E-mail</string>
+   <string name="micloud_user_id">Xiaomi ID</string>
+   <string name="micloud_user_name">Meno</string>
+   <string name="micloud_user_phone">Tel. číslo</string>
+   <string name="micloud_user_space_usage">Využité</string>
+   <string name="micloud_warn_full_msg">Zaplnili ste Vaše úložisko!</string>
+   <string name="micloud_warn_full_sum">"Nové dáta nebude možné synchronizovať do MiCloud."</string>
+   <string name="micloud_warn_full_title">MiCloud úložisko je plné!</string>
+   <string name="micloud_warn_low_sum">Zaplnili ste už 90% úložiska.</string>
+   <string name="micloud_warn_low_title">Dochádza voľné miesto v úložisku!</string>
+   <string name="micloud_web_discription_01">Prihláste sa na http://i.xiaomi.com</string>
+   <string name="micloud_web_discription_02">pre ukladanie a prístup k Vaším súborom</string>
 </resources>
