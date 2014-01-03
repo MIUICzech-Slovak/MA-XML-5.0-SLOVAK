@@ -626,7 +626,7 @@ s "</string>
    <string name="micloud_space_full_influence">Čo sa stane ak zaplním voľné miesto?</string>
    <string name="micloud_storage_space">Úložisko MiCloud</string>
    <string name="micloud_title_dspt" formatted="false">"Celkovo %s
-  použité %s | ostáva %s"</string>
+Využité %s | Ostáva %s"</string>
    <string name="micloud_title_full_dspt">Úložisko je plné!</string>
    <string name="micloud_user_base_info">Info o užívateľovi</string>
    <string name="micloud_user_email">E-mail</string>
