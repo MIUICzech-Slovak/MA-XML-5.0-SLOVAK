@@ -2802,7 +2802,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scan_is_cloud_scanning">Kontrola Cloudu...</string>
     <string name="virus_scan_is_scanning">Kontrola...</string>
     <string name="virus_scan_judge_is_virus">Kontrolovať aplikácie pred inštaláciou</string>
-    <string name="virus_scan_last_risk">Počas poslednej kontroly boli nájdené podozrivé aplikácie a neboli ešte odstránené.</string>
+    <string name="virus_scan_last_risk">Boli nájdené podozrivé aplikácie a neboli odstránené.</string>
     <string name="virus_scan_last_scan_date">Posledná kontrola pred %d dňami</string>
     <string name="virus_scan_last_scan_today">"Posledná kontrola: Dnes "</string>
     <string name="virus_scan_last_scan_yesterday">>"Posledná kontrola: Včera "</string>
