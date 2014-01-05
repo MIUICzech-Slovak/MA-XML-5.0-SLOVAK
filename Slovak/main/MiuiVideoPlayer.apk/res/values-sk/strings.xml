@@ -58,7 +58,7 @@
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Prepáčte ale vybrané video nie je možné streamovať do zariadenia</string>
     <string name="vp_VideoView_error_text_unknown">Prepáčte ale vybraný formát súboru nie je možné prehrať</string>
     <string name="vp_VideoView_error_title">Chyba prehrávania videa!</string>
-    <string name="menu_item_enable_audio_enhance">Otvoriť vylepšenie zvuku</string>
-    <string name="menu_item_disable_audio_enhance">Zatvoriť vylepšenie zvuku</string>
     <string name="toast_message_set_misound">Nastavovanie...</string>
+	<string name="menu_item_enable_audio_enhance">Povoliť vylepšenie zvuku</string>
+    <string name="menu_item_disable_audio_enhance">Zakázať vylepšenie zvuku</string>
 </resources>

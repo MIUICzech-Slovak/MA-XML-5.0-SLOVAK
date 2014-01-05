@@ -31,6 +31,8 @@
   <string name="express_inquiry">Sledovanie</string>
   <string name="express_inquiry_button_text">Sledovať</string>
   <string name="express_inquiry_data_owner">Sledovanie zabezpečené %s</string>
+  <string name="express_inquiry_delete_warning_multiple">Delete %d selected history entries?</string>
+  <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
   <string name="express_inquiry_delivered">Delivered</string>
   <string name="express_inquiry_history">History</string>
   <string name="express_inquiry_indication">Sledovanie čísla</string>
@@ -102,8 +104,8 @@ Please check tracking number"</string>
   <string name="recharge_user_confirm_summary">"Váš účet bude navýšený %1$s pre RMB%2$s 
 Total sumou: RMB%3$s"</string>
   <string name="recharge_user_confirm_title">Potvrdiť</string>
-  <string name="remind_another_time">Nepýtať sa na toto číslo</string>
-  <string name="remind_user_confirm">OK</string>
+    <string name="remind_another_time">Nepýtať sa na toto číslo</string>
+    <string name="remind_user_confirm">OK</string>
     <string name="remind_user_suspect_number_message">"Podvodníci môžu zneužiť telefónne číslo inej osoby na obťažovanie. Ak sa nebojíte, môžte zavolať naspäť.
 
 Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýtať na heslo alebo PIN k účtu v banke."</string>
@@ -131,6 +133,4 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
     <string name="yellow_page_call_log_title">Zoznam hovorov</string>
     <string name="yellow_page_detail_title">Čo je to</string>
     <string name="yellow_page_website">Oficiálna stránka</string>
-    <string name="express_inquiry_delete_warning_single">Delete this entry?</string>
-    <string name="express_inquiry_delete_warning_multiple">Delete %d selected history entries?</string>
 </resources>

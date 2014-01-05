@@ -20,6 +20,7 @@
     <string name="adjust_traffic_sms_template_update">Vzor SMS o stave</string>
     <string name="adjust_traffic_title">Upraviť prenos dát</string>
     <string name="adjust_traffic_update">Obnoviť</string>	
+    <string name="another_sim_card_adjusting">Nastavuje sa druhá SIM karta.</string>
     <string name="app_detail_internet_background">Beh na pozadí</string>	
     <string name="app_detail_internet_background_traffic">"V popredí: %1$s | Na pozadí: %2$s"</string>	
     <string name="app_detail_internet_control_category">Typ siete</string>	
@@ -100,8 +101,10 @@ Môžete ich upraviť."</string>
     <string name="network_control_service_notification_title_nettype_mobile">Mobilné dáta</string>
     <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
     <string name="network_control_service_notification_title_single">%1$s bolo zamietnuté pripojenie cez %2$s</string>
+    <string name="notify_carrier_settings_format">"%s Nebol nastavený Váš poskytovateľ služieb. Chcete ho nastaviť?"</string>
     <string name="notify_carrier_settings_title">Nemáte nastaveného svojho operátora. Nastaviť teraz?</string>
-    <string name="notify_traffic_settings_cancel_hint">Notifikácie a monitorovanie spotreby dát bude deaktivované. Ukončiť?</string>	
+    <string name="notify_traffic_settings_cancel_hint">Notifikácie a monitorovanie spotreby dát bude deaktivované. Ukončiť?</string>
+    <string name="notify_traffic_settings_format">"%s Nebol nastavený limit dát. Chcete ho nastaviť?"</string>	
     <string name="notify_traffic_settings_title">Nemáte nastavený Váš limit dát. Chcete ho nastaviť?</string>	
     <string name="overseas_menu_traffic_adjust">Nastaviť manuálne</string>	
     <string name="overseas_menu_traffic_settings">Limit dát</string>	
@@ -151,6 +154,13 @@ Môžete ich upraviť."</string>
     <string name="text_day"/>	
     <string name="text_done">Hotovo</string>	
     <string name="text_save">Uložiť</string>	
+    <string name="this_month_mobile_format">%s Prevádzka za mesiac</string>
+    <string name="this_month_total_traffic_format">%s Prevádzka za mesiac</string>
+    <string name="this_month_wlan">Wi-Fi tento mesiac</string>
+    <string name="today_mobile_format">%s Prevádzka za dnešok</string>
+    <string name="today_total_traffic_format">%s Prevádzka za dnešok</string>
+    <string name="today_wlan">Wi-Fi dnes</string>
+	<string name="traffic_bought">Navýšiť</string>
     <string name="traffic_none">Žiadne</string>	
     <string name="traffic_remain">Ostávajúce</string>
     <string name="traffic_settings_error">Chyba nastavenia balíčku. Vami nastavený dátový balíček je %1$s, ale správa od operátora udáva, že ostáva %2$s.</string>	
@@ -176,4 +186,7 @@ Využité"</string>
     <string name="warning_title">Upozornenie</string>
     <string name="wifi_traffic">Wi-Fi: %s</string>
     <string name="wifi_type">Wi-Fi</string>
+    <string name="yesterday_mobile_format">%s Prevádzka za včerajšok</string>
+    <string name="yesterday_total_traffic_format">%s Prevádzka za včerajšok</string>
+    <string name="yesterday_wlan">Wi-Fi včera</string>
 </resources>
