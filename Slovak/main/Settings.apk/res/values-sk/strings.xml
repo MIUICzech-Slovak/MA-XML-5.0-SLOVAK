@@ -2800,7 +2800,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scan_guard_provider_missed">Antivírus zlyhal. Je nutné urobiť formát telefónu a návrat do továrnych nastavení.</string>
     <string name="virus_scan_installed_package">%s (nainštalovaná)</string>
     <string name="virus_scan_is_cloud_scanning">Kontrola Cloudu...</string>
-    <string name="virus_scan_is_scanning">Kontrola...</string>
+    <string name="virus_scan_is_scanning">"Kontrola: "</string>
     <string name="virus_scan_judge_is_virus">Kontrolovať aplikácie pred inštaláciou</string>
     <string name="virus_scan_last_risk">Boli nájdené podozrivé aplikácie a neboli odstránené.</string>
     <string name="virus_scan_last_scan_date">Posledná kontrola pred %d dňami</string>
