@@ -27,8 +27,6 @@
     <string name="hour_minute_24" formatted="false">%H:%M</string>
     <string name="hour_minute_ampm" formatted="false">%-l:%M %p</string>
     <string name="hour_minute_cap_ampm" formatted="false">%-l:%M %p</string>
-    <string name="twelve_hour_time_format">h:mm a</string>
-    <string name="twenty_four_hour_time_format">HH:mm</string>
     <string name="numeric_date" formatted="false">%-e.%-m.%Y</string>
     <string name="numeric_date_format">d.M.yyyy</string>
     <string name="numeric_date_template" formatted="false">%s.%s.%s</string>
@@ -182,9 +180,9 @@
     <string name="contentServiceSync">Synchronizovať</string>
     <string name="contentServiceSyncNotificationTitle">Synchronizovať</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Príliš veľa odstránených položiek služby %s.</string>
-    <string name="low_memory">Pamäť telefónu je plná. Odstráňte niektoré súbory a uvoľnite miesto.</string>
+    <string name="low_memory">Ukladací priestor tabletu je plný. Odstráňte niektoré súbory a uvoľnite miesto.</string>
     <string name="me">Ja</string>
-    <string name="power_dialog">Možnosti telefónu</string>
+    <string name="power_dialog">Možnosti tabletu</string>
     <string name="silent_mode">Tichý režim</string>
     <string name="turn_on_radio">Zapnúť bezdrôtové pripojenie</string>
     <string name="turn_off_radio">Vypnúť bezdrôtové pripojenie</string>
@@ -194,13 +192,13 @@
     <string name="silent_mode_vibrate">Vibračné zvonenie</string>
     <string name="silent_mode_ring">Zvonenie je zapnuté</string>
     <string name="shutdown_progress">Prebieha vypínanie...</string>
-    <string name="shutdown_confirm">Váš telefón bude vypnutý.</string>
+    <string name="shutdown_confirm">Váš tablet bude vypnutý.</string>
     <string name="shutdown_confirm_question">Chcete zariadenie vypnúť?</string>
     <string name="reboot_safemode_title">Reštartovať do núdzového režimu</string>
     <string name="reboot_safemode_confirm">Chcete zariadenie reštartovať do núdzového režimu? Zakážu sa tým všetky aplikácie tretích strán, ktoré ste nainštalovali. Tieto aplikácie budú obnovené po ďalšom reštartovaní.</string>
     <string name="recent_tasks_title">Najnovšie</string>
     <string name="no_recent_tasks">Žiadne nedávne aplikácie</string>
-    <string name="global_actions">Možnosti telefónu</string>
+    <string name="global_actions">Možnosti tabletu</string>
     <string name="global_action_lock">Uzamknutie obrazovky</string>
     <string name="global_action_power_off">Vypnúť</string>
     <string name="global_action_bug_report">Správa o chybe</string>
@@ -248,6 +246,8 @@
     <string name="permgroupdesc_microphone">Priamy prístup k mikrofónu na záznam zvuku.</string>
     <string name="permgrouplab_camera">Fotoaparát</string>
     <string name="permgroupdesc_camera">Priamy prístup k fotoaparátu na nasnímanie fotografií alebo natočenie videí.</string>
+    <string name="permgrouplab_screenlock">Uzamknúť obrazovku</string>
+    <string name="permgroupdesc_screenlock">Možnosť ovplyvniť správanie zámky obrazovky na vašom zariadení.</string>
     <string name="permgrouplab_appInfo">Informácie o vašich aplikáciách</string>
     <string name="permgroupdesc_appInfo">Schopnosť ovplyvniť správanie ďalších aplikácií na vašom zariadení.</string>
     <string name="permgrouplab_wallpaper">Tapeta</string>
@@ -272,6 +272,16 @@
     <string name="permgroupdesc_display">Vplyv na používateľské rozhranie ďalších aplikácií.</string>
     <string name="permgrouplab_storage">Ukladací priestor</string>
     <string name="permgroupdesc_storage">Prístup do ukl. priestoru USB.</string>
+    <string name="permgrouplab_accessibilityFeatures">Funkcie zjednodušenia ovládania</string>
+    <string name="permgroupdesc_accessibilityFeatures">Funkcie, ktoré môže vyžadovať nápomocná technológia.</string>
+    <string name="capability_title_canRetrieveWindowContent">Načítať obsah okna</string>
+    <string name="capability_desc_canRetrieveWindowContent">Preskúmať obsah okna s ktorým interagujete.</string>
+    <string name="capability_title_canRequestTouchExploration">Zapnúť funkciu Preskúmanie dotykom</string>
+    <string name="capability_desc_canRequestTouchExploration">Po dotyku na položku sa vysloví jej názov a obrazovku je možné preskúmať pomocou gest.</string>
+    <string name="capability_title_canRequestEnhancedWebAccessibility">Zapnúť vylepšenú dostupnosť na webe</string>
+    <string name="capability_desc_canRequestEnhancedWebAccessibility">Môže nainštalovať skripty na sprístupnenie obsahu aplikácie.</string>
+    <string name="capability_title_canRequestFilterKeyEvents">Sledovať vami zadávaný text</string>
+    <string name="capability_desc_canRequestFilterKeyEvents">Obsahuje osobné údaje ako sú čísla kreditných kariet a heslá.</string>
     <string name="permlab_statusBar">zakázanie alebo zmeny stavového riadka</string>
     <string name="permdesc_statusBar">Umožňuje aplikácii vypnúť stavový riadok alebo pridať a odstrániť systémové ikony.</string>
     <string name="permlab_statusBarService">stavový riadok</string>
@@ -290,12 +300,12 @@
     <string name="permdesc_readCellBroadcasts">Umožňuje aplikácii čítať správy Cell Broadcast prijaté vaším zariadením. Upozornenia Cell Broadcast sú doručované na určitých miestach a upozorňujú na núdzové situácie. Škodlivé aplikácie môžu pri prijatí núdzovej správy Cell Broadcast narušiť výkonnosť alebo prevádzku vášho zariadenia.</string>
     <string name="permlab_sendSms">odosielať správy SMS</string>
     <string name="permdesc_sendSms">Umožňuje aplikácii odosielať správy SMS. Môže to mať za následok účtovanie neočakávaných poplatkov. Škodlivé aplikácie vám môžu spôsobiť výdavky odosielaním správ bez vášho potvrdenia.</string>
-    <string name="permlab_sendSmsNoConfirmation">posielať správy SMS bez potvrdenia</string>
-    <string name="permdesc_sendSmsNoConfirmation">Umožňuje aplikácii odosielať správy SMS. Môže to mať za následok účtovanie neočakávaných poplatkov. Škodlivé aplikácie vám môžu spôsobiť výdavky odosielaním správ bez vášho potvrdenia.</string>
+    <string name="permlab_sendRespondViaMessageRequest">odosielanie udalostí typu „odpovedzte správou“</string>
+    <string name="permdesc_sendRespondViaMessageRequest">Umožňuje aplikácii odosielať žiadosti ostatným aplikáciám na posielanie správ s cieľom spracovania udalostí typu „odpovedzte správou“ pre prichádzajúce hovory.</string>
     <string name="permlab_readSms">čítať textové správy (SMS alebo MMS)</string>
-    <string name="permdesc_readSms">Umožňuje aplikácii čítať správy SMS uložené v telefóne alebo na karte SIM. Toto povolenie umožňuje aplikácii čítať správy SMS bez ohľadu na ich obsah alebo dôvernosť.</string>
+    <string name="permdesc_readSms">Umožňuje aplikácii čítať správy SMS uložené v tablete alebo na karte SIM. Toto povolenie umožňuje aplikácii čítať správy SMS bez ohľadu na ich obsah alebo dôvernosť.</string>
     <string name="permlab_writeSms">upraviť textové správy (SMS alebo MMS)</string>
-    <string name="permdesc_writeSms">Umožňuje aplikácii písať do správ SMS uložených v telefóne alebo na karte SIM. Škodlivé aplikácie môžu vaše správy odstrániť.</string>
+    <string name="permdesc_writeSms">Umožňuje aplikácii písať správy SMS uložené v tablete alebo na karte SIM. Škodlivé aplikácie môžu vaše správy odstrániť.</string>
     <string name="permlab_receiveWapPush">prijímať textové správy (WAP)</string>
     <string name="permdesc_receiveWapPush">Umožňuje aplikácii prijímať a spracovávať správy WAP. Toto povolenie zahŕňa možnosť sledovať vaše správy alebo ich odstrániť bez toho, aby sa vám zobrazili.</string>
     <string name="permlab_getTasks">načítať spustené aplikácie</string>
@@ -344,6 +354,8 @@
     <string name="permdesc_shutdown">Uvedie správcu činností do vypnutého stavu. Úplné vypnutie však nenastane.</string>
     <string name="permlab_stopAppSwitches">zabrániť prepínaniu aplikácií</string>
     <string name="permdesc_stopAppSwitches">Zabráni používateľovi prepnúť na inú aplikáciu.</string>
+    <string name="permlab_getTopActivityInfo">získať informácie o aktuálnej aplikácii</string>
+    <string name="permdesc_getTopActivityInfo">Umožňuje držiteľovi povolenia načítať súkromné ​​informácie o aktuálnej aplikácii v popredí obrazovky.</string>
     <string name="permlab_runSetActivityWatcher">sledovať a ovládať všetky spustenia aplikácií</string>
     <string name="permdesc_runSetActivityWatcher">Umožňuje aplikácii sledovať a ovládať spúšťanie aktivít systémom. Škodlivé aplikácie môžu systém úplne ovládnuť. Toto povolenie je potrebné len na účely vývoja, nikdy nie na bežné používanie.</string>
     <string name="permlab_broadcastPackageRemoved">odoslanie vysielania o odstránení balíčka</string>
@@ -360,6 +372,10 @@
     <string name="permdesc_batteryStats">Umožňuje aplikácii čítať aktuálne údaje nízkej úrovne o používaní batérie. Pomocou tejto funkcie môže aplikácia zistiť podrobnosti o tom, ktoré aplikácie používate.</string>
     <string name="permlab_updateBatteryStats">zmena štatistických údajov o batérii</string>
     <string name="permdesc_updateBatteryStats">Umožňuje aplikácii zmeniť zhromaždené štatistické údaje o batérii. Bežné aplikácie toto nastavenie nepoužívajú.</string>
+    <string name="permlab_getAppOpsStats">získať štatistické údaje o fungovaní aplikácií</string>
+    <string name="permdesc_getAppOpsStats">Umožňuje aplikácii získať zhromaždené štatistické údaje o fungovaní aplikácií. Bežné aplikácie toto nastavenie nepoužívajú.</string>
+    <string name="permlab_updateAppOpsStats">upraviť štatistické údaje o fungovaní aplikácií</string>
+    <string name="permdesc_updateAppOpsStats">Umožňuje aplikácii zmeniť zhromaždené štatistické údaje o fungovaní aplikácií. Bežné aplikácie toto nastavenie nepoužívajú.</string>
     <string name="permlab_backup">Ovládať zálohovanie a obnovu systému</string>
     <string name="permdesc_backup">Umožňuje aplikácii ovládať mechanizmus na zálohovanie a obnovu údajov systému. Bežné aplikácie toto nastavenie nepoužívajú.</string>
     <string name="permlab_confirm_full_backup">potvrdenie operácie úplnej zálohy alebo úplného obnovenia</string>
@@ -375,7 +391,7 @@
     <string name="permlab_freezeScreen">zmraziť obrazovku</string>
     <string name="permdesc_freezeScreen">Umožňuje aplikácii dočasne zmraziť obrazovku na prechod v režime celej obrazovky.</string>
     <string name="permlab_injectEvents">používanie kláves a tlačidiel</string>
-    <string name="permdesc_injectEvents">Umožňuje aplikácii doručiť vlastné udalosti vstupu (stlačenie tlačidiel atď.) ďalším aplikáciám. Škodlivé aplikácie môžu pomocou tohto nastavenia prevziať kontrolu nad telefónom.</string>
+    <string name="permdesc_injectEvents">Umožňuje aplikácii doručiť vlastné udalosti vstupu (stlačenie tlačidiel atď.) ďalším aplikáciám. Škodlivé aplikácie môžu pomocou toho prevziať kontrolu nad tabletom.</string>
     <string name="permlab_readInputState">zaznamenanie písaného textu a realizovaných akcií</string>
     <string name="permdesc_readInputState">Umožňuje aplikácii sledovať, ktoré klávesy stlačíte, dokonca aj keď pracujete s inou aplikáciou (napr. zadávanie hesla). Bežné aplikácie by toto nastavenie nemali nikdy potrebovať.</string>
     <string name="permlab_bindInputMethod">väzba na metódu vstupu</string>
@@ -401,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">odoslať aplikáciám signály systému Linux</string>
     <string name="permdesc_signalPersistentProcesses">Umožňuje aplikácii vyžiadať odoslanie poskytnutého signálu všetkým trvalým procesom.</string>
     <string name="permlab_persistentActivity">nastaviť, aby bola aplikácia neustále spustená</string>
-    <string name="permdesc_persistentActivity">Umožňuje aplikácii uložiť niektoré svoje časti natrvalo do pamäte. Môže to obmedziť pamäť dostupnú pre ostatné aplikácie a spomaliť tak telefón.</string>
+    <string name="permdesc_persistentActivity">Umožňuje aplikácii uložiť niektoré svoje časti natrvalo do pamäte. Môže to obmedziť pamäť dostupnú pre ostatné aplikácie a spomaliť tak tablet.</string>
     <string name="permlab_deletePackages">odstrániť aplikácie</string>
     <string name="permdesc_deletePackages">Umožňuje aplikácii odstrániť balíky systému Android. Škodlivé aplikácie môžu použiť toto nastavenie na odstránenie dôležitých aplikácií.</string>
     <string name="permlab_clearAppUserData">odstrániť údaje iných aplikácií</string>
@@ -413,17 +429,17 @@
     <string name="permlab_installPackages">priamo inštalovať aplikácie</string>
     <string name="permdesc_installPackages">Umožňuje aplikácii nainštalovať nové alebo aktualizované balíky systému Android. Škodlivé aplikácie môžu použiť toto nastavenie na pridanie nových aplikácií s ľubovoľnými povoleniami.</string>
     <string name="permlab_clearAppCache">odstrániť všetky údaje vyrovnávacej pamäte aplikácie</string>
-    <string name="permdesc_clearAppCache">Umožňuje aplikácii uvoľniť ukladací priestor v telefóne odstránením súborov v adresároch iných aplikácií vo vyrovnávacej pamäti. To môže viesť k pomalšiemu spúšťaniu iných aplikácií, pretože musia znovu načítať svoje údaje.</string>
+    <string name="permdesc_clearAppCache">Umožňuje aplikácii uvoľniť ukladací priestor v tablete odstránením súborov v adresároch iných aplikácií vo vyrovnávacej pamäti. To môže viesť k pomalšiemu spúšťaniu iných aplikácií, pretože musia znovu načítať svoje údaje.</string>
     <string name="permlab_movePackage">presúvať prostriedky aplikácií</string>
     <string name="permdesc_movePackage">Umožňuje aplikácii presúvať prostriedky aplikácií medzi internými a externými médiami.</string>
     <string name="permlab_readLogs">čítať citlivé údaje denníkov</string>
-    <string name="permdesc_readLogs">Umožňuje aplikácii čítať rôzne systémové súbory denníkov. Toto nastavenie aplikácii umožňuje získať všeobecné informácie o činnostiach s telefónom, ktoré by mohli obsahovať osobné alebo súkromné informácie.</string>
+    <string name="permdesc_readLogs">Umožňuje aplikácii čítať rôzne systémové súbory denníkov. Toto nastavenie aplikácie umožňuje získať všeobecné informácie o činnostiach s tabletom, ktoré by mohli obsahovať osobné alebo súkromné informácie.</string>
     <string name="permlab_anyCodecForPlayback">použiť ľubovoľný dekódovač médií na reprodukciu</string>
     <string name="permdesc_anyCodecForPlayback">Umožňuje aplikácii používať na reprodukciu ľubovoľný nainštalovaný dekódovač na dekódovanie.</string>
     <string name="permlab_diagnostic">čítanie alebo zápis do prostriedkov funkcie diag</string>
     <string name="permdesc_diagnostic">Umožňuje aplikácii čítať ľubovoľné prostriedky v skupine diag, napr. súbory v priečinku /dev, a zapisovať do nich. Môže dôjsť k ovplyvneniu stability a bezpečnosti systému. Toto nastavenie by mal používať IBA výrobca či operátor na diagnostiku hardvéru.</string>
     <string name="permlab_changeComponentState">povoliť alebo zakázať súčasti aplikácie</string>
-    <string name="permdesc_changeComponentState">Umožňuje aplikácii zmeniť to, či je súčasť inej aplikácie povolená alebo zakázaná. Škodlivé aplikácie môžu pomocou tohto nastavenia zakázať dôležité funkcie telefónu. S týmto povolením musíte zaobchádzať opatrne, pretože súčasti aplikácie môžete dostať do nepoužiteľného, nekonzistentného alebo nestabilného stavu.</string>
+    <string name="permdesc_changeComponentState">Umožňuje aplikácii zmeniť to, či je súčasť inej aplikácie povolená alebo zakázaná. Škodlivé aplikácie môžu pomocou tohto nastavenia zakázať dôležité funkcie tabletu. S týmto povolením musíte zaobchádzať opatrne, pretože súčasti aplikácie môžete dostať do nepoužiteľného, nekonzistentného alebo nestabilného stavu.</string>
     <string name="permlab_grantRevokePermissions">povoliť alebo zakázať povolenia</string>
     <string name="permdesc_grantRevokePermissions">Umožňuje aplikácii povoliť alebo zakázať konkrétne povolenia pre seba alebo iné aplikácie. Škodlivé aplikácie môžu použiť túto možnosť na pristupovanie k funkciám, ktoré ste im nepovolili.</string>
     <string name="permlab_setPreferredApplications">nastaviť preferované aplikácie</string>
@@ -435,17 +451,17 @@
     <string name="permlab_writeGservices">zmeny mapy služieb Google</string>
     <string name="permdesc_writeGservices">Umožňuje aplikácii upraviť mapu služieb Google. Bežné aplikácie toto nastavenie nepoužívajú.</string>
     <string name="permlab_receiveBootCompleted">spustiť pri štarte</string>
-    <string name="permdesc_receiveBootCompleted">Umožňuje aplikácii okamžité spustenie po spustení systému. Toto nastavenie môže spomaliť spustenie tabletu a tiež celkový výkon tabletu, pretože aplikácia bude neustále zapnutá.</string>
+    <string name="permdesc_receiveBootCompleted">Umožňuje aplikácii spustiť sa hneď po spustení systému. Toto nastavenie môže spomaliť spustenie tabletu a tiež jeho celkový výkon, pretože aplikácia bude neustále spustená.</string>
     <string name="permlab_broadcastSticky">odoslanie trvalého vysielania</string>
-    <string name="permdesc_broadcastSticky">Umožňuje aplikácii odosielať trvalé vysielania, ktoré pretrvávajú aj po skončení vysielania. Nadmerné používanie môže telefón spomaliť alebo spôsobiť jeho nestabilitu, pretože bude používať príliš veľa pamäte.</string>
+    <string name="permdesc_broadcastSticky">Umožňuje aplikácii odosielať trvalé vysielania, ktoré pretrvávajú aj po skončení vysielania. Nadmerné používanie môže tablet spomaliť alebo spôsobiť jeho nestabilitu, pretože bude používať príliš veľa pamäte.</string>
     <string name="permlab_readContacts">čítať kontakty</string>
-    <string name="permdesc_readContacts">Umožňuje aplikácii čítať údaje o kontaktoch uložených v telefóne vrátane informácií o frekvencii vašich telefonátov, odoslaných e-mailov alebo iných foriem komunikácie s konkrétnymi osobami. Toto povolenie umožňuje aplikáciám ukladať údaje o kontaktoch. Škodlivé aplikácie môžu zdieľať údaje o kontaktoch bez vášho vedomia.</string>
+    <string name="permdesc_readContacts">Umožňuje aplikácii čítať údaje o kontaktoch uložených v tablete vrátane informácií o frekvencii vašich telefonátov, odoslaných e-mailov alebo iných foriem komunikácie s konkrétnymi osobami. Toto povolenie umožňuje aplikáciám ukladať údaje o kontaktoch. Škodlivé aplikácie môžu zdieľať údaje o kontaktoch bez vášho vedomia.</string>
     <string name="permlab_writeContacts">upraviť kontakty</string>
-    <string name="permdesc_writeContacts">Umožňuje aplikácii upraviť údaje o kontaktoch uložených v telefóne vrátane informácií o frekvencii vašich telefonátov, odoslaných e-mailov alebo iných foriem komunikácie s konkrétnymi osobami. Toto povolenie umožňuje aplikáciám odstraňovať údaje o kontaktoch.</string>
+    <string name="permdesc_writeContacts">Umožňuje aplikácii upraviť údaje o kontaktoch uložených v tablete vrátane informácií o frekvencii vašich telefonátov, odoslaných e-mailov alebo iných foriem komunikácie s konkrétnymi osobami. Toto povolenie umožňuje aplikáciám odstraňovať údaje o kontaktoch.</string>
     <string name="permlab_readCallLog">čítať denník hovorov</string>
-    <string name="permdesc_readCallLog">Umožňuje aplikácii čítať denník hovorov vášho telefónu vrátane údajov o prichádzajúcich a odchádzajúcich hovoroch. Toto povolenie umožňuje aplikáciám ukladať údaje o hovoroch. Škodlivé aplikácie môžu zdieľať údaje o hovoroch bez vášho vedomia.</string>
+    <string name="permdesc_readCallLog">Umožňuje aplikácii čítať denník hovorov vášho tabletu vrátane údajov o prichádzajúcich a odchádzajúcich hovoroch. Toto povolenie umožňuje aplikáciám ukladať údaje o hovoroch. Škodlivé aplikácie môžu zdieľať údaje o hovoroch bez vášho vedomia.</string>
     <string name="permlab_writeCallLog">zapisovať do denníka hovorov</string>
-    <string name="permdesc_writeCallLog">Umožňuje aplikácii upravovať denník hovorov vo vašom telefóne vrátane údajov o prichádzajúcich a odchádzajúcich hovoroch. Škodlivé aplikácie to môžu zneužiť na vymazanie alebo úpravu vášho denníka hovorov.</string>
+    <string name="permdesc_writeCallLog">Umožňuje aplikácii upravovať denník hovorov vo vašom tablete vrátane údajov o prichádzajúcich a odchádzajúcich hovoroch. Škodlivé aplikácie to môžu zneužiť na vymazanie alebo úpravu vášho denníka hovorov.</string>
     <string name="permlab_readProfile">čítať vlastnú kartu kontaktu</string>
     <string name="permdesc_readProfile">Umožňuje aplikácii čítať informácie v osobnom profile uložené v zariadení, ako je vaše meno a kontaktné informácie. Znamená to, že vás ostatné aplikácie môžu identifikovať a odoslať informácie o vašom profile iným aplikáciám.</string>
     <string name="permlab_writeProfile">upraviť vlastnú kartu kontaktu</string>
@@ -455,9 +471,9 @@
     <string name="permlab_writeSocialStream">písať do vášho sociálneho streamu</string>
     <string name="permdesc_writeSocialStream">Umožňuje aplikácii zobraziť sociálne aktualizácie od vašich priateľov. Pri zdieľaní informácií dávajte pozor – toto povolenie umožňuje aplikácii vytvárať správy, ktoré zdanlivo pochádzajú od vašich priateľov. Poznámka: Toto povolenie nie je možné vynucovať v prípade všetkých sociálnych sietí.</string>
     <string name="permlab_readCalendar">čítať udalosti v kalendári a dôverné informácie</string>
-    <string name="permdesc_readCalendar">Umožňuje aplikácii čítať všetky udalosti kalendára uložené v telefóne vrátane udalostí priateľov alebo spolupracovníkov. Aplikácii to umožní zdieľať alebo ukladať údaje kalendára bez ohľadu na dôvernosť či citlivosť týchto údajov.</string>
+    <string name="permdesc_readCalendar">Umožňuje aplikácii čítať všetky udalosti kalendára uložené v tablete vrátane udalostí priateľov alebo spolupracovníkov. Aplikácii to umožní zdieľať alebo ukladať údaje kalendára bez ohľadu na dôvernosť či citlivosť týchto údajov.</string>
     <string name="permlab_writeCalendar">pridať alebo upraviť udalosti v kalendári a odoslať e-mail hosťom bez vedomia vlastníka</string>
-    <string name="permdesc_writeCalendar">Umožňuje aplikácii pridávať, odstraňovať alebo meniť udalosti, ktoré môžete v telefóne upravovať, a to vrátane udalostí priateľov a spolupracovníkov. Toto povolenie umožňuje aplikácii odosielať správy, ktoré budú zdanlivo prichádzať od vlastníkov kalendára, alebo upravovať udalosti bez vedomia vlastníkov.</string>
+    <string name="permdesc_writeCalendar">Umožňuje aplikácii pridávať, odstraňovať alebo meniť udalosti, ktoré môžete v tablete upravovať, a to vrátane udalostí priateľov a spolupracovníkov. Toto povolenie umožňuje aplikácii odosielať správy, ktoré budú zdanlivo prichádzať od vlastníkov kalendára, alebo upravovať udalosti bez vedomia vlastníkov.</string>
     <string name="permlab_accessMockLocation">simulácia zdrojov polohy na účely testovania</string>
     <string name="permdesc_accessMockLocation">Vytváranie simulovaných zdrojov polohy na testovanie alebo inštalácia nového poskytovateľa informácií o polohe. Aplikácii to umožní nahradiť polohu a stav, ktoré vracajú iné zdroje informácií o polohe, ako sú napríklad systém GPS alebo poskytovatelia informácií o polohe.</string>
     <string name="permlab_accessLocationExtraCommands">prístup k ďalším príkazom poskytovateľa polohy</string>
@@ -482,10 +498,12 @@
     <string name="permdesc_recordAudio">Umožňuje aplikácii zaznamenávať zvuk pomocou mikrofónu. Toto povolenie umožňuje aplikácii zaznamenávať zvuk kedykoľvek bez vášho potvrdenia.</string>
     <string name="permlab_camera">snímanie fotografií a natáčanie videí</string>
     <string name="permdesc_camera">Umožňuje aplikácii fotografovať a nahrávať videá pomocou fotoaparátu. Toto povolenie umožňuje aplikácii používať fotoaparát kedykoľvek a bez vášho potvrdenia.</string>
-    <string name="permlab_brick">trvalé vypnutie telefónu</string>
-    <string name="permdesc_brick">Umožňuje aplikácii natrvalo zakázať celý telefón. Ide o veľmi nebezpečné nastavenie.</string>
-    <string name="permlab_reboot">vynútenie reštartovania telefónu</string>
-    <string name="permdesc_reboot">Umožňuje aplikácii vynútiť reštartovanie telefónu.</string>
+    <string name="permlab_cameraDisableTransmitLed">Zakázať indikátor LED prenosu pri používaní fotoaparátu</string>
+    <string name="permdesc_cameraDisableTransmitLed">Umožňuje v predinštalovanej systémovej aplikácii zakázať indikátor LED používania fotoaparátu.</string>
+    <string name="permlab_brick">trvalé zakázanie tabletu</string>
+    <string name="permdesc_brick">Umožňuje aplikácii natrvalo zakázať celý tablet. Toto je veľmi nebezpečné nastavenie.</string>
+    <string name="permlab_reboot">vynútené reštartovanie tabletu</string>
+    <string name="permdesc_reboot">Umožňuje aplikácii vynútiť reštartovanie tabletu.</string>
     <string name="permlab_mount_unmount_filesystems">pristup. do systému súbor. USB</string>
     <string name="permdesc_mount_unmount_filesystems">Umožňuje aplikácii pripojiť a odpojiť súborové systémy vo vymeniteľných ukladacích priestoroch.</string>
     <string name="permlab_mount_format_filesystems">vymazať ukladací priestor USB</string>
@@ -514,7 +532,7 @@
     <string name="permdesc_callPhone">Umožňuje aplikácii volať telefónne čísla bez vášho zásahu. V dôsledku toho sa môžu účtovať neočakávané poplatky alebo sa môžu uskutočniť neočakávané hovory. Toto povolenie neumožňuje aplikácii volať na čísla tiesňového volania.</string>
     <string name="permlab_callPrivileged">priame volanie na ľubovoľné telefónne čísla</string>
     <string name="permdesc_callPrivileged">Umožňuje aplikácii volať na akékoľvek telefónne číslo (bez vášho zásahu) vrátane čísiel tiesňového volania. Škodlivé aplikácie môžu uskutočňovať zbytočné a nezákonné volania na tiesňové linky.</string>
-    <string name="permlab_performCdmaProvisioning">priamo spustiť nastavenie telefónu CDMA</string>
+    <string name="permlab_performCdmaProvisioning">priamo spustiť nastavenie tabletu CDMA</string>
     <string name="permdesc_performCdmaProvisioning">Umožňuje aplikácii spustiť poskytovanie CDMA. Škodlivé aplikácie môžu spustiť poskytovanie CDMA samovoľne.</string>
     <string name="permlab_locationUpdates">ovládanie upozornení na aktualizáciu polohy</string>
     <string name="permdesc_locationUpdates">Umožňuje aplikácii povoliť alebo zakázať upozornenia s aktualizáciami polohy z rádia. Bežné aplikácie toto nastavenie nepoužívajú.</string>
@@ -526,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Umožňuje aplikácii ovládať telefónne funkcie zariadenia. Aplikácia s týmto povolením môže prepínať siete alebo zapnúť a vypnúť rádio bez toho, aby vás na to upozornila.</string>
     <string name="permlab_readPhoneState">čítať stav a identitu telefónu</string>
     <string name="permdesc_readPhoneState">Umožňuje aplikácii pristupovať k telefónnym funkciám zariadenia. Aplikácia s týmto povolením môže určiť telefónne číslo a ID zariadenia, či práve prebieha hovor, a vzdialené číslo, s ktorým je prostredníctvom hovoru nadviazané spojenie.</string>
-    <string name="permlab_wakeLock">zabránenie prechodu telefónu do režimu spánku</string>
-    <string name="permdesc_wakeLock">Umožňuje aplikácii zabrániť prechodu telefónu do režimu spánku.</string>
-    <string name="permlab_devicePower">zapnutie a vypnutie telefónu</string>
-    <string name="permdesc_devicePower">Umožňuje aplikácii zapnúť a vypnúť telefón.</string>
+    <string name="permlab_wakeLock">zabránenie prechodu tabletu do režimu spánku</string>
+    <string name="permdesc_wakeLock">Umožňuje aplikácii zabrániť prechodu tabletu do režimu spánku.</string>
+    <string name="permlab_devicePower">zapnutie a vypnutie tabletu</string>
+    <string name="permdesc_devicePower">Umožňuje aplikácii zapnúť a vypnúť tablet.</string>
     <string name="permlab_factoryTest">spustenie v režime továrenského testu</string>
-    <string name="permdesc_factoryTest">Umožňuje aplikácii spustenie v režime nízkoúrovňového testu výrobcu a povolí úplný prístup k hardvéru telefónu. K dispozícii iba vtedy, keď je telefón spustený v režime testovania výrobcu.</string>
+    <string name="permdesc_factoryTest">Umožňuje aplikácii spustenie v režime nízkoúrovňového testu výrobcu a povolí úplný prístup k hardvéru tabletu. K dispozícii iba vtedy, keď je tablet spustený v režime testovania výrobcu.</string>
     <string name="permlab_setWallpaper">nastavenie tapety</string>
     <string name="permdesc_setWallpaper">Umožňuje aplikácii nastaviť tapetu systému.</string>
     <string name="permlab_setWallpaperHints">upraviť veľkosť tapety</string>
@@ -539,13 +557,13 @@
     <string name="permlab_masterClear">obnovenie továrenských nastavení systému</string>
     <string name="permdesc_masterClear">Umožňuje aplikácii úplne obnoviť továrenské nastavenia systému a vymazať všetky údaje, konfiguráciu a nainštalované aplikácie.</string>
     <string name="permlab_setTime">nastaviť čas</string>
-    <string name="permdesc_setTime">Umožňuje aplikácii zmeniť čas hodín v telefóne.</string>
+    <string name="permdesc_setTime">Umožňuje aplikácii zmeniť časové pásmo tabletu.</string>
     <string name="permlab_setTimeZone">nastavenie časového pásma</string>
-    <string name="permdesc_setTimeZone">Umožňuje aplikácii zmeniť časové pásmo telefónu.</string>
+    <string name="permdesc_setTimeZone">Umožňuje aplikácii zmeniť časové pásmo tabletu.</string>
     <string name="permlab_accountManagerService">rola služby AccountManagerService</string>
     <string name="permdesc_accountManagerService">Umožňuje aplikácii volať funkcie AccountAuthenticator.</string>
     <string name="permlab_getAccounts">nájsť účty na zariadení</string>
-    <string name="permdesc_getAccounts">Umožňuje aplikácii získať zoznam účtov v telefóne. Môžu sem patriť akékoľvek účty vytvorené aplikáciami, ktoré ste nainštalovali.</string>
+    <string name="permdesc_getAccounts">Umožňuje aplikácii získať zoznam účtov v tablete. Môžu sem patriť akékoľvek účty vytvorené aplikáciami, ktoré ste nainštalovali.</string>
     <string name="permlab_authenticateAccounts">vytvoriť účty a nastaviť heslá</string>
     <string name="permdesc_authenticateAccounts">Umožňuje aplikácii využiť možnosti overovania účtu aplikácie AccountManager vrátane vytvárania účtov a získavania a nastavovania ich hesiel.</string>
     <string name="permlab_manageAccounts">pridať alebo odstrániť účty</string>
@@ -569,15 +587,15 @@
     <string name="permlab_changeWifiState">pripojiť a odpojiť od siete Wi-Fi</string>
     <string name="permdesc_changeWifiState">Umožňuje aplikácii pripojiť sa na prístupové body siete Wi-Fi, odpojiť sa od nich a meniť konfiguráciu zariadení pre siete Wi-Fi.</string>
     <string name="permlab_changeWifiMulticastState">Povoliť príjem viacsmerového vysielania Wi-Fi</string>
-    <string name="permdesc_changeWifiMulticastState">Umožňuje aplikácii prijímať pakety odoslané na všetky zariadenia v sieti Wi-Fi pomocou viacsmerových adries, nielen pomocou vášho telefónu. Spotrebuje viac energie ako režim bez viacsmerového vysielania.</string>
+    <string name="permdesc_changeWifiMulticastState">Umožňuje aplikácii prijímať pakety odoslané na všetky zariadenia v sieti Wi-Fi pomocou viacsmerových adries, nielen pomocou vášho tabletu. Spotrebuje viac energie ako režim bez viacsmerového vysielania.</string>
     <string name="permlab_bluetoothAdmin">pristupovať k nastaveniam Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Umožňuje aplikácii konfigurovať miestny telefón s rozhraním Bluetooth, vyhľadávať a spárovať vzdialené zariadenia.</string>
+    <string name="permdesc_bluetoothAdmin">Umožňuje aplikácii konfigurovať miestny tablet s rozhraním Bluetooth a vyhľadávať a spárovať vzdialené zariadenia.</string>
     <string name="permlab_accessWimaxState">pripojiť a odpojiť od WiMAX</string>
     <string name="permdesc_accessWimaxState">Umožňuje aplikácii určiť, či je povolený štandard WiMAX, a tiež informácie o všetkých pripojených sieťach WiMAX.</string>
     <string name="permlab_changeWimaxState">Zmeniť stav siete WiMAX</string>
-    <string name="permdesc_changeWimaxState">Umožňuje aplikácii pripojiť telefón k sieťam WiMAX a odpojiť ho od nich.</string>
+    <string name="permdesc_changeWimaxState">Umožňuje aplikácii pripojiť tablet k sieťam WiMAX a odpojiť ho od nich.</string>
     <string name="permlab_bluetooth">párovať so zariadeniami Bluetooth</string>
-    <string name="permdesc_bluetooth">Umožňuje aplikácii zobraziť informácie o konfigurácii Bluetooth na telefóne. Taktiež jej umožňuje nadväzovať a akceptovať spojenia so spárovanými zariadeniami.</string>
+    <string name="permdesc_bluetooth">Umožňuje aplikácii zobraziť informácie o konfigurácii Bluetooth na tablete. Taktiež jej umožňuje nadväzovať a akceptovať spojenia so spárovanými zariadeniami.</string>
     <string name="permlab_nfc">ovládať technológiu Near Field Communication</string>
     <string name="permdesc_nfc">Umožňuje aplikácii komunikovať so značkami, kartami a čítačkami s podporou technológie Near Field Communication (NFC).</string>
     <string name="permlab_disableKeyguard">zakázať uzamknutie obrazovky</string>
@@ -614,16 +632,20 @@
     <string name="permdesc_manageNetworkPolicy">Umožňuje aplikácii spravovať pravidlá siete a definovať pravidlá pre konkrétnu aplikáciu.</string>
     <string name="permlab_modifyNetworkAccounting">zmeniť kontrolu používania siete</string>
     <string name="permdesc_modifyNetworkAccounting">Umožňuje aplikácii upraviť používanie siete jednotlivými aplikáciami. Bežné aplikácie toto nastavenie nepoužívajú.</string>
+    <string name="permlab_accessNotifications">prístup k upozorneniam</string>
+    <string name="permdesc_accessNotifications">Umožňuje aplikácii načítať, zobrazovať a mazať upozornenia vrátane tých, ktoré boli uverejnené inými aplikáciami.</string>
+    <string name="permlab_bindNotificationListenerService">naviazanie sa na službu na počúvanie upozornení</string>
+    <string name="permdesc_bindNotificationListenerService">Umožňuje držiteľovi naviazať sa na najvyššiu úroveň služby na počúvanie upozornení. Bežné aplikácie by toto nastavenie nemali nikdy požadovať.</string>
     <string name="policylab_limitPassword">Nastaviť pravidlá pre heslo</string>
     <string name="policydesc_limitPassword">Ovládanie dĺžky hesiel na odomknutie obrazovky a v nich používané znaky.</string>
     <string name="policylab_watchLogin">Sledovať pokusy o odomknutie obrazovky</string>
-    <string name="policydesc_watchLogin">Sledovať počet nesprávnych hesiel zadaných pri odomykaní obrazovky a zamknúť telefón alebo vymazať všetky údaje v telefóne v prípade príliš veľkého počtu neplatných pokusov o zadanie hesla.</string>
+    <string name="policydesc_watchLogin">Sledovať počet nesprávnych hesiel zadaných pri odomykaní obrazovky a zamknúť tablet alebo vymazať všetky údaje tabletu v prípade príliš veľkého počtu neplatných pokusov o zadanie hesla.</string>
     <string name="policylab_resetPassword">Zmeniť heslo na odomknutie obrazovky</string>
     <string name="policydesc_resetPassword">Zmena hesla na odomknutie obrazovky.</string>
     <string name="policylab_forceLock">Uzamknúť obrazovku</string>
     <string name="policydesc_forceLock">Ovládať, ako a kedy sa obrazovka uzamkne.</string>
     <string name="policylab_wipeData">Vymazanie všetkých údajov</string>
-    <string name="policydesc_wipeData">Bez predchádzajúceho upozornenia zmazať všetky údaje tým, že sa obnovia továrenské nastavenia telefónu.</string>
+    <string name="policydesc_wipeData">Bez predchádzajúceho upozornenia zmazať všetky údaje tým, že sa obnovia továrenské nastavenia tabletu.</string>
     <string name="policylab_setGlobalProxy">Nastaviť globálny server proxy zariadenia</string>
     <string name="policydesc_setGlobalProxy">Vyberte globálny server proxy, ktorý sa bude používať po aktivácii pravidiel. Platný globálny server proxy nastavuje iba prvý správca zariadenia.</string>
     <string name="policylab_expirePassword">Nastav. koniec platnosti hesla</string>
@@ -635,7 +657,7 @@
     <string name="policylab_disableKeyguardFeatures">Zákaz funkcie v zámke kláves.</string>
     <string name="policydesc_disableKeyguardFeatures">Zabrániť používaniu niektorých funkcií v zámke klávesov.</string>
     <string name="phoneTypeCustom">Vlastné</string>
-    <string name="phoneTypeHome">Domovská stránka</string>
+    <string name="phoneTypeHome">Domov</string>
     <string name="phoneTypeMobile">Mobil</string>
     <string name="phoneTypeWork">Práca</string>
     <string name="phoneTypeFaxWork">Fax do práce</string>
@@ -660,16 +682,16 @@
     <string name="eventTypeAnniversary">Výročie</string>
     <string name="eventTypeOther">Iné</string>
     <string name="emailTypeCustom">Vlastné</string>
-    <string name="emailTypeHome">Domovská stránka</string>
+    <string name="emailTypeHome">Domov</string>
     <string name="emailTypeWork">Práca</string>
     <string name="emailTypeOther">Iné</string>
     <string name="emailTypeMobile">Mobil</string>
     <string name="postalTypeCustom">Vlastné</string>
-    <string name="postalTypeHome">Domovská stránka</string>
+    <string name="postalTypeHome">Domov</string>
     <string name="postalTypeWork">Práca</string>
     <string name="postalTypeOther">Iné</string>
     <string name="imTypeCustom">Vlastné</string>
-    <string name="imTypeHome">Domovská stránka</string>
+    <string name="imTypeHome">Domov</string>
     <string name="imTypeWork">Práca</string>
     <string name="imTypeOther">Iné</string>
     <string name="imProtocolCustom">Vlastné</string>
@@ -701,7 +723,7 @@
     <string name="relationTypeSister">Sestra</string>
     <string name="relationTypeSpouse">Manžel(-ka)</string>
     <string name="sipAddressTypeCustom">Vlastné</string>
-    <string name="sipAddressTypeHome">Domovská stránka</string>
+    <string name="sipAddressTypeHome">Domov</string>
     <string name="sipAddressTypeWork">Práca</string>
     <string name="sipAddressTypeOther">Iné</string>
     <string name="keyguard_password_enter_pin_code">Zadajte kód PIN</string>
@@ -719,7 +741,7 @@
     <string name="lockscreen_instructions_when_pattern_enabled">Ak chcete odomknúť telefón alebo uskutočniť tiesňové volanie, stlačte Menu.</string>
     <string name="lockscreen_instructions_when_pattern_disabled">Telefón odomknete stlačením tlačidla Menu.</string>
     <string name="lockscreen_pattern_instructions">Odomknite nakreslením vzoru</string>
-    <string name="lockscreen_emergency_call">SOS</string>
+    <string name="lockscreen_emergency_call">Tiesňové volanie</string>
     <string name="lockscreen_return_to_call">Zavolať späť</string>
     <string name="lockscreen_pattern_correct">Správne!</string>
     <string name="lockscreen_pattern_wrong">Skúsiť znova</string>
@@ -730,7 +752,7 @@
     <string name="lockscreen_battery_short">%d %%</string>
     <string name="lockscreen_low_battery">Pripojte nabíjačku.</string>
     <string name="lockscreen_missing_sim_message_short">Nie je vložená karta SIM</string>
-    <string name="lockscreen_missing_sim_message">V telefóne nie je žiadna karta SIM.</string>
+    <string name="lockscreen_missing_sim_message">V tablete nie je žiadna karta SIM.</string>
     <string name="lockscreen_missing_sim_instructions">Vložte kartu SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">Karta SIM chýba alebo sa z nej nedá čítať. Vložte kartu SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Karta SIM je nepoužiteľná.</string>
@@ -756,11 +778,11 @@ Skúste to znova o %d s."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"%d-krát ste zadali nesprávny kód PIN. 
 
 Skúste to znova o %d s."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d-krát ste nesprávne nakreslili svoj bezpečnostný vzor. Po %d ďalších neúspešných pokusoch sa zobrazí výzva na odomknutie telefónu pomocou prihlasovacích údajov Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d-krát ste nesprávne nakreslili svoj bezpečnostný vzor. Po ďalších neúspešných pokusoch (%d) budete vyzvaní odomknúť tablet pomocou prihlasovacích údajov služby Google.
 
  Skúste to znova o %d s."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v telefóne obnovia predvolené továrenské nastavenia a všetky používateľské údaje budú stratené.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V telefóne sa teraz obnovia predvolené továrenské nastavenia.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tablet ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v tablete obnovia predvolené továrenské nastavenia a všetky používateľské údaje budú stratené.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Tablet ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V tablete sa teraz obnovia predvolené továrenské nastavenia.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Počet sekúnd zostávajúcich do ďalšieho pokusu: %d.</string>
     <string name="lockscreen_forgot_pattern_button_text">Zabudli ste vzor?</string>
     <string name="lockscreen_glogin_forgot_pattern">Odomknutie účtu</string>
@@ -780,6 +802,7 @@ Navštívte stránky "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_access_pattern_cleared">Bezpečnostný vzor bol vymazaný</string>
     <string name="lockscreen_access_pattern_cell_added">Bunka bola pridaná</string>
     <string name="lockscreen_access_pattern_detected">Bezpečnostný vzor bol dokončený</string>
+    <string name="keyguard_accessibility_widget_changed">%1$s. Miniaplikácia %2$d z %3$d.</string>
     <string name="keyguard_accessibility_add_widget">Pridať miniaplikáciu.</string>
     <string name="keyguard_accessibility_widget_empty_slot">Prázdne</string>
     <string name="keyguard_accessibility_unlock_area_expanded">Oblasť na odomknutie bola rozšírená.</string>
@@ -815,11 +838,12 @@ Navštívte stránky "<b>google.com/accounts/recovery</b>.</string>
     <string name="factorytest_reboot">Reštartovať</string>
     <string name="js_dialog_title">Stránka „%s“ uvádza:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload">"Chcete opustiť túto stránku?
+    <string name="js_dialog_before_unload_title">Potvrďte prechod</string>
+    <string name="js_dialog_before_unload_positive_button">Opustiť stránku</string>
+    <string name="js_dialog_before_unload_negative_button">Zostať na tejto strane</string>
+    <string name="js_dialog_before_unload">"%s
 
-%s
-
-Ak chcete pokračovať, dotknite sa tlačidla OK. Ak chcete zostať na stránke, dotknite sa tlačidla Zrušiť."</string>
+Naozaj chcete túto stránku opustiť?"</string>
     <string name="save_password_label">Potvrdiť</string>
     <string name="double_tap_toast">Tip: Dvojitým klepnutím môžete zobrazenie priblížiť alebo oddialiť.</string>
     <string name="autofill_this_form">Aut.dop.</string>
@@ -843,7 +867,7 @@ Ak chcete pokračovať, dotknite sa tlačidla OK. Ak chcete zostať na stránke,
     <string name="permlab_readHistoryBookmarks">čítať webové záložky a históriu</string>
     <string name="permdesc_readHistoryBookmarks">Umožňuje aplikácii čítať všetky adresy URL navštívené prehliadačom a všetky záložky prehliadača. Poznámka: Toto povolenie nemôžu vynucovať prehliadače tretej strany ani iné aplikácie umožňujúce prehliadanie webu.</string>
     <string name="permlab_writeHistoryBookmarks">zapisovať webové záložky a históriu</string>
-    <string name="permdesc_writeHistoryBookmarks">Umožňuje aplikácii upraviť históriu prehliadača alebo záložky uložené v telefóne. Aplikácia s týmto povolením môže vymazať alebo upraviť údaje prehliadača. Poznámka: Toto povolenie nemôžu vynucovať prehliadače tretích strán ani žiadne ďalšie aplikácie umožňujúce prehliadanie webu.</string>
+    <string name="permdesc_writeHistoryBookmarks">Umožňuje aplikácii upraviť históriu prehliadača alebo záložky uložené v tablete. Aplikácia s týmto povolením môže vymazať alebo upraviť údaje prehliadača. Poznámka: Toto povolenie nemôžu vynucovať prehliadače tretích strán ani žiadne ďalšie aplikácie umožňujúce prehliadanie webu.</string>
     <string name="permlab_setAlarm">nastaviť budík</string>
     <string name="permdesc_setAlarm">Umožňuje aplikácii nastaviť budík v nainštalovanej aplikácii budík. Niektoré aplikácie budíka nemusia túto funkciu implementovať.</string>
     <string name="permlab_addVoicemail">pridať hlasovú schránku</string>
@@ -877,7 +901,7 @@ Ak chcete pokračovať, dotknite sa tlačidla OK. Ak chcete zostať na stránke,
     <string name="searchview_description_submit">Odoslať dopyt</string>
     <string name="searchview_description_voice">Hlasové vyhľadávanie</string>
     <string name="enable_explore_by_touch_warning_title">Povoliť Preskúmanie dotykom?</string>
-    <string name="enable_explore_by_touch_warning_message">Služba %1$s požaduje povolenie funkcie Preskúmanie dotykom. Ak je funkcia Preskúmanie dotykom zapnutá, môžete počuť alebo vidieť popisy objektov pod vaším prstom alebo ovládať telefón gestami.</string>
+    <string name="enable_explore_by_touch_warning_message">Služba %1$s požaduje povolenie funkcie Preskúmanie dotykom. Ak je funkcia Preskúmanie dotykom zapnutá, môžete počuť alebo vidieť popisy objektov pod vaším prstom alebo ovládať tablet gestami.</string>
     <string name="oneMonthDurationPast">pred 1 mesiacom</string>
     <string name="beforeOneMonthDurationPast">Viac ako pred 1 mesiacom</string>
     <string name="last_month">Minulý mesiac</string>
@@ -913,6 +937,8 @@ Ak chcete pokračovať, dotknite sa tlačidla OK. Ak chcete zostať na stránke,
     <string name="editTextMenuTitle">Operácie s textom</string>
     <string name="low_internal_storage_view_title">Nedostatok ukladacieho priestoru</string>
     <string name="low_internal_storage_view_text">Niektoré systémové funkcie nemusia fungovať</string>
+    <string name="app_running_notification_title">Aplikácia %1$s je spustená</string>
+    <string name="app_running_notification_text">Dotykom si zobrazíte viac informácií alebo zastavíte aplikáciu.</string>
     <string name="loading">Prebieha načítavanie...</string>
     <string name="capital_on">I</string>
     <string name="capital_off">O</string>
@@ -977,11 +1003,11 @@ Chcete ju zavrieť?"</string>
     <string name="volume_icon_description_incall">Hlasitosť hovoru</string>
     <string name="volume_icon_description_media">Hlasitosť médií</string>
     <string name="volume_icon_description_notification">Hlasitosť upozornení</string>
-    <string name="ringtone_default">Predvolený vyzváňací tón</string>
-    <string name="ringtone_default_with_actual">Predvolený vyzváňací tón (%1$s)</string>
+    <string name="ringtone_default">Predvolený tón zvonenia</string>
+    <string name="ringtone_default_with_actual">Predvolený tón zvonenia (%1$s)</string>
     <string name="ringtone_silent">Žiadny</string>
     <string name="ringtone_picker_title">Vyzváňacie tóny</string>
-    <string name="ringtone_unknown">Neznámy vyzváňací tón</string>
+    <string name="ringtone_unknown">Neznámy tón zvonenia</string>
     <string name="wifi_available_sign_in">Prihlásenie sa do siete Wi-Fi</string>
     <string name="network_available_sign_in">Prihláste sa do siete</string>
     <string name="wifi_watchdog_network_disabled">Nepodarilo sa pripojiť k sieti Wi-Fi</string>
@@ -999,7 +1025,7 @@ Chcete ju zavrieť?"</string>
     <string name="wifi_p2p_to_message">Komu:</string>
     <string name="wifi_p2p_enter_pin_message">Zadajte požadovaný kód PIN:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Telefón bude počas pripojenia k zariadeniu %1$s od siete Wi-Fi dočasne odpojený.</string>
+    <string name="wifi_p2p_frequency_conflict_message">Tablet bude počas pripojenia k zariadeniu %1$s od siete Wi-Fi dočasne odpojený.</string>
     <string name="select_character">Vkladanie znakov</string>
     <string name="sms_control_title">Odosielanie správ SMS</string>
     <string name="sms_control_message">Aplikácia &lt;b>%1$s&lt;/b> posiela veľký počet správ SMS. Chcete tejto aplikácií povoliť, aby aj naďalej posielala správy?</string>
@@ -1109,6 +1135,7 @@ pre účet %s"</string>
     <string name="accessibility_binding_label">Zjednodušenie</string>
     <string name="wallpaper_binding_label">Tapeta</string>
     <string name="chooser_wallpaper">Zmeniť tapetu</string>
+    <string name="notification_listener_binding_label">Aplikácia na počúvanie upozornení</string>
     <string name="vpn_title">Sieť VPN je aktivovaná</string>
     <string name="vpn_title_long">Aplikáciu %s aktivovala sieť VPN</string>
     <string name="vpn_text">Dotykom môžete spravovať sieť.</string>
@@ -1116,7 +1143,7 @@ pre účet %s"</string>
     <string name="vpn_lockdown_connecting">Prebieha pripájanie k vždy zapnutej sieti VPN...</string>
     <string name="vpn_lockdown_connected">Pripojenie k vždy zapnutej sieti VPN</string>
     <string name="vpn_lockdown_error">Chyba vždy zapnutej siete VPN</string>
-    <string name="vpn_lockdown_reset">Dotykom obnovíte pripojenie</string>
+    <string name="vpn_lockdown_config">Dotykom spustíte konfiguráciu</string>
     <string name="upload_file">Zvoliť súbor</string>
     <string name="no_file_chosen">Nie je vybratý žiadny súbor</string>
     <string name="reset">Obnoviť</string>
@@ -1203,6 +1230,8 @@ pre účet %s"</string>
     <string name="action_bar_home_description">Prejsť na plochu</string>
     <string name="action_bar_up_description">Prejsť na</string>
     <string name="action_menu_overflow_description">Viac možností</string>
+    <string name="action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="storage_internal">Interné úložisko</string>
     <string name="storage_sd_card">Karta SD</string>
     <string name="storage_usb">Ukladací priestor USB</string>
@@ -1245,12 +1274,13 @@ pre účet %s"</string>
     <string name="SetupCallDefault">Prijať hovor?</string>
     <string name="activity_resolver_use_always">Vždy</string>
     <string name="activity_resolver_use_once">Len raz</string>
-    <string name="default_audio_route_name">Telefón</string>
+    <string name="default_audio_route_name">Tablet</string>
     <string name="default_audio_route_name_headphones">Slúchadlá</string>
     <string name="default_audio_route_name_dock_speakers">Reproduktory doku</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_audio_route_category_name">Systém</string>
     <string name="bluetooth_a2dp_audio_route_name">Bluetooth audio</string>
+    <string name="wireless_display_route_description">Bezdrôtový displej</string>
     <string name="media_route_chooser_grouping_done">Hotovo</string>
     <string name="media_route_button_content_description">Výstup médií</string>
     <string name="media_route_status_scanning">Prebieha vyhľadávanie...</string>
@@ -1301,33 +1331,22 @@ Skúste to znova o %d."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d-krát ste použili nesprávny bezpečnostný vzor. 
 
 Skúste to znova o %d s."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v telefóne obnovia predvolené továrenské nastavenia a všetky používateľské údaje budú stratené.</string>
-    <string name="kg_failed_attempts_now_wiping">Telefón ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V telefóne sa teraz obnovia predvolené továrenské nastavenia.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d-krát ste nesprávne nakreslili svoj bezpečnostný vzor. Po %d ďalších neúspešných pokusoch sa zobrazí výzva na odomknutie telefónu pomocou e-mailového účtu.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tablet ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v tablete obnovia predvolené továrenské nastavenia a všetky používateľské údaje budú stratené.</string>
+    <string name="kg_failed_attempts_now_wiping">Tablet ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V tablete sa teraz obnovia predvolené továrenské nastavenia.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d-krát ste nesprávne nakreslili svoj bezpečnostný vzor. Po ďalších %d neúspešných pokusoch sa zobrazí výzva na odomknutie tabletu pomocou e-mailového účtu.
 
  Skúste to znova o %d s."</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">Odstrániť</string>
-    <string name="safe_media_volume_warning">"Chcete zvýšiť hlasitosť nad bezpečnú úroveň?
-Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho sluchu."</string>
+    <string name="safe_media_volume_warning">"Zvýšiť hlasitosť nad odporúčanú úroveň?
+Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</string>
     <string name="continue_to_enable_accessibility">Zjednodušenie ovládania povolíte dlhým stlačením dvoma prstami.</string>
     <string name="accessibility_enabled">Zjednodušenie ovládania je povolené.</string>
     <string name="enable_accessibility_canceled">Zjednodušenie ovládania bolo zrušené.</string>
     <string name="user_switched">Aktuálny používateľ je %1$s.</string>
     <string name="owner_name">Vlastník</string>
-    <string name="storage_phone">Úložisko telefónu</string>
-    <string name="storage_external_usb">Externé USB úložisko</string>
-    <string name="zz_keyguard_accessibility_voice_unlock">Odomknutie hlasom.</string>
-    <string name="reboot_title">Reštartovať telefón?</string>
-    <string name="reboot_confirm">Reštart telefónu vymaže dočasné dáta v pamäti. Chcete reštartovať telefón?</string>
-    <string name="global_action_reboot_summary">Ukončiť všetky aplikácie a reštartovať</string>
-    <string name="gps_assistance_enable_title">Upozornenie</string>
-    <string name="gps_assistance_enable_message">Pre zlepšenie GPS pozície bolo aktivované A-GPS, čo môže zvýšiť Vaše mesačné poplatky.</string>
-    <string name="reboot_progress">Reštartujem...</string>
-    <string name="factoryMode">Továrenský režim</string>
-    <string name="permlab_nvidiaCPUPower">adjust Nvidia Tegra CPU</string>
-    <string name="permdesc_nvidiaCPUPower">Allows the application to adjust parameters of the NVIDA Tegra CPU. This may consume extra power.</string>
-    <string name="p2p_wifi_frequency_conflict_message">Wi-Fi Direct sa ukončí. Chcete pokračovať?</string>
-    <string name="progress_unmounting_internal">Odpájanie vnútorného úložiska...</string>
-    <string name="progress_erasing_internal">Mazanie vnútorného úložiska...</string>
+    <string name="error_message_title">Chyba</string>
+    <string name="app_no_restricted_accounts">Táto aplikácia nepodporuje účty pre profily s obmedzením</string>
+    <string name="app_not_found">Aplikácia potrebná na spracovanie tejto akcie sa nenašla</string>
+    <string name="revoke">Odvolať</string>
 </resources>
