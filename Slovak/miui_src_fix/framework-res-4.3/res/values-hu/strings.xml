@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Szinkronizálás</string>
     <string name="contentServiceSyncNotificationTitle">Szinkronizálás</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Túl sok %s törlés.</string>
-    <string name="low_memory">A táblagép tárhelye tele van. Szabadítson fel helyet néhány fájl törlésével.</string>
+    <string name="low_memory">A telefon tárhelye megtelt. Hely felszabadításához töröljön néhány fájlt.</string>
     <string name="me">Saját</string>
-    <string name="power_dialog">Táblagép beállításai</string>
+    <string name="power_dialog">Telefonbeállítások</string>
     <string name="silent_mode">Néma üzemmód</string>
     <string name="turn_on_radio">Vezeték nélküli eszköz bekapcsolása</string>
     <string name="turn_off_radio">Vezeték nélküli eszköz kikapcsolása</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Csengő rezeg</string>
     <string name="silent_mode_ring">Csengő bekapcsolva</string>
     <string name="shutdown_progress">Leállítás...</string>
-    <string name="shutdown_confirm">A táblagép ki fog kapcsolni.</string>
+    <string name="shutdown_confirm">A telefon le fog állni.</string>
     <string name="shutdown_confirm_question">Kikapcsolja?</string>
     <string name="reboot_safemode_title">Újraindítás csökkentett módban</string>
     <string name="reboot_safemode_confirm">Szeretné csökkentett módban újraindítani a rendszert? Ez letiltja a telepített, harmadik féltől származó alkalmazásokat. Újraindításkor ezek visszaállnak.</string>
     <string name="recent_tasks_title">Legutóbbiak</string>
     <string name="no_recent_tasks">Nincs újabb alkalmazás.</string>
-    <string name="global_actions">Táblagép beállításait</string>
+    <string name="global_actions">Telefonbeállítások</string>
     <string name="global_action_lock">Képernyő lezárása</string>
     <string name="global_action_power_off">Kikapcsolás</string>
     <string name="global_action_bug_report">Programhiba bejelentése</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">válaszküldés üzenetben</string>
     <string name="permdesc_sendRespondViaMessageRequest">Lehetővé teszi az alkalmazás számára, hogy kérelmeket küldjön más üzenetküldő alkalmazásoknak, azért hogy kezelje az üzenetben történő válaszküldést a bejövő hívások esetében.</string>
     <string name="permlab_readSms">szöveges üzenetek (SMS vagy MMS) olvasása</string>
-    <string name="permdesc_readSms">Lehetővé teszi az alkalmazás számára, hogy hozzáférjen a táblagépen vagy SIM kártyán tárolt SMS-ekhez. Így az alkalmazás hozzáférhet az összes SMS-hez, azok tartalmától és titkos jellegétől függetlenül.</string>
+    <string name="permdesc_readSms">Lehetővé teszi az alkalmazás számára, hogy hozzáférjen a telefonon vagy SIM kártyán tárolt SMS-ekhez. Így az alkalmazás hozzáférhet az összes SMS-hez, azok tartalmától és titkos jellegétől függetlenül.</string>
     <string name="permlab_writeSms">szöveges üzenetek (SMS vagy MMS) szerkesztése</string>
-    <string name="permdesc_writeSms">Lehetővé teszi az alkalmazás számára, hogy írjon a táblagépen vagy a SIM kártyán lévő SMS-ekbe. A rosszindulatú alkalmazások törölhetik az üzeneteket.</string>
+    <string name="permdesc_writeSms">Lehetővé teszi az alkalmazás számára, hogy írjon a telefonon vagy a SIM kártyán lévő SMS-ekbe. A rosszindulatú alkalmazások törölhetik az üzeneteket.</string>
     <string name="permlab_receiveWapPush">szöveges üzenetek (WAP) fogadása</string>
     <string name="permdesc_receiveWapPush">Lehetővé teszi az alkalmazás számára, hogy WAP-üzeneteket fogadjon és dolgozzon fel. Ez azt is jelenti, hogy az alkalmazás megfigyelheti vagy törölheti a beérkező üzeneteket anélkül, hogy Ön látná azokat.</string>
     <string name="permlab_getTasks">futó alkalmazások lekérése</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">képernyő rögzítése</string>
     <string name="permdesc_freezeScreen">Lehetővé teszi az alkalmazás számára, hogy ideiglenesen rögzítse a képernyőt a teljes képernyős váltáshoz.</string>
     <string name="permlab_injectEvents">billentyűk és gombok megnyomása</string>
-    <string name="permdesc_injectEvents">Lehetővé teszi az alkalmazás számára saját beviteli eseményeinek (billentyűlenyomások stb.) elküldését más alkalmazásoknak. A rosszindulatú alkalmazások ennek segítségével átvehetik a táblagép irányítását.</string>
+    <string name="permdesc_injectEvents">Lehetővé teszi az alkalmazás számára saját beviteli eseményeinek (billentyűlenyomások stb.) elküldését más alkalmazásoknak. A rosszindulatú alkalmazások ennek segítségével átvehetik a telefon irányítását.</string>
     <string name="permlab_readInputState">a lenyomott billentyűk és a végrehajtott műveletek figyelése</string>
     <string name="permdesc_readInputState">Lehetővé teszi az alkalmazás számára, hogy figyelje a lenyomott billentyűket még másik alkalmazás használata esetén is (például jelszó beírásakor). A normál alkalmazásoknak erre soha nincs szüksége.</string>
     <string name="permlab_bindInputMethod">összekapcsolás egy beviteli módszerrel</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">Linux-jelek küldése az alkalmazásoknak</string>
     <string name="permdesc_signalPersistentProcesses">Lehetővé teszi az alkalmazás számára, hogy a megadott jelet elküldje az összes állandó folyamatnak.</string>
     <string name="permlab_persistentActivity">az alkalmazás állandó futtatása</string>
-    <string name="permdesc_persistentActivity">Lehetővé teszi az alkalmazás számára, hogy egyes részeit állandó jelleggel eltárolja a memóriában. Ez korlátozhatja a többi alkalmazás számára rendelkezésre álló memóriát, és lelassíthatja a táblagépet.</string>
+    <string name="permdesc_persistentActivity">Lehetővé teszi az alkalmazás számára, hogy egyes részeit állandó jelleggel eltárolja a memóriában. Ez korlátozhatja a többi alkalmazás számára rendelkezésre álló memóriát, és lelassíthatja a telefont.</string>
     <string name="permlab_deletePackages">alkalmazások törlése</string>
     <string name="permdesc_deletePackages">Lehetővé teszi az alkalmazás számára Android-csomagok törlését. A rosszindulatú alkalmazások felhasználhatják ezt fontos alkalmazások törlésére.</string>
     <string name="permlab_clearAppUserData">más alkalmazások adatainak törlése</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">alkalmazások közvetlen telepítése</string>
     <string name="permdesc_installPackages">Lehetővé teszi az alkalmazás számára új vagy frissített Android-csomagok telepítését. A rosszindulatú alkalmazások ezáltal önkényesen hozzáadhatnak hatékony engedélyekkel rendelkező alkalmazásokat.</string>
     <string name="permlab_clearAppCache">alkalmazás-gyorsítótár összes adatának törlése</string>
-    <string name="permdesc_clearAppCache">Lehetővé teszi az alkalmazás számára, hogy tárhelyet szabadítson fel a táblagépen azáltal, hogy fájlokat töröl más alkalmazások gyorsítótármappáiból. Ez a többi alkalmazás lassabb elindulását okozhatja, mert azoknak újra le kell kérniük az adataikat.</string>
+    <string name="permdesc_clearAppCache">Lehetővé teszi az alkalmazás számára, hogy tárhelyet szabadítson fel a telefonon azáltal, hogy fájlokat töröl más alkalmazások gyorsítótármappáiból. Ez a többi alkalmazás lassabb elindulását okozhatja, mert azoknak újra le kell kérniük az adataikat.</string>
     <string name="permlab_movePackage">alkalmazás-erőforrások áthelyezése</string>
     <string name="permdesc_movePackage">Lehetővé teszi az alkalmazás számára alkalmazás-erőforrások áthelyezését a belső tárolóról egy külső tárolóra, és fordítva.</string>
     <string name="permlab_readLogs">érzékeny naplóadatok olvasása</string>
-    <string name="permdesc_readLogs">Lehetővé teszi az alkalmazás számára, hogy olvassa a rendszer különböző naplófájljait. Ezáltal általános információkat deríthet ki arról, hogy mire használja a táblagépét, valamint személyes, magánjellegű adatokhoz is hozzájuthat.</string>
+    <string name="permdesc_readLogs">Lehetővé teszi az alkalmazás számára, hogy olvassa a rendszer különböző naplófájljait. Ezáltal általános információkat deríthet ki arról, hogy mire használja a telefonját, valamint személyes, magánjellegű adatokhoz is hozzájuthat.</string>
     <string name="permlab_anyCodecForPlayback">bármely médiadekóder használata lejátszáshoz</string>
     <string name="permdesc_anyCodecForPlayback">Lehetővé teszi egy alkalmazás számára bármely telepített médiadekóder használatát a lejátszás dekódolásához.</string>
     <string name="permlab_diagnostic">a diag tulajdonában lévő erőforrások olvasása és írása</string>
     <string name="permdesc_diagnostic">Lehetővé teszi egy alkalmazás számára, hogy olvassa és írja a diagnosztikai csoport minden erőforrását, például a /dev könyvtárban lévő fájlokat. Ez potenciálisan befolyásolhatja a rendszer stabilitását és biztonságát, ezért CSAK a gyártó vagy a szolgáltató használhatja hardverspecifikus diagnosztizálásra.</string>
     <string name="permlab_changeComponentState">alkalmazáskomponensek be- és kikapcsolása</string>
-    <string name="permdesc_changeComponentState">Lehetővé teszi az alkalmazás számára annak módosítását, hogy más alkalmazások komponensei engedélyezve vannak-e vagy sem. A rosszindulatú alkalmazások ezt a táblagép fontos funkcióinak kikapcsolására használhatják. Óvatosan kell eljárni az engedély megadásával, mert lehetséges, hogy a komponensek használhatatlanok, inkonzisztensek vagy instabilak lesznek.</string>
+    <string name="permdesc_changeComponentState">Lehetővé teszi az alkalmazás számára annak módosítását, hogy más alkalmazások komponensei engedélyezve vannak-e vagy sem. A rosszindulatú alkalmazások ezt a telefon fontos funkcióinak kikapcsolására használhatják. Óvatosan kell eljárni az engedély megadásával, mert lehetséges, hogy a komponensek használhatatlanok, inkonzisztensek vagy instabilak lesznek.</string>
     <string name="permlab_grantRevokePermissions">engedélyek megadása vagy visszavonása</string>
     <string name="permdesc_grantRevokePermissions">Lehetővé teszi, hogy egy alkalmazás engedélyeket adjon vagy vonjon vissza saját maga vagy más alkalmazás számára. A rosszindulatú alkalmazások olyan funkciókhoz való hozzáféréshez használhatják ezt, amelyeket nem engedélyezett számukra.</string>
     <string name="permlab_setPreferredApplications">előnyben részesített alkalmazások beállítása</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">Google-szolgáltatások térképének módosítása</string>
     <string name="permdesc_writeGservices">Lehetővé teszi az alkalmazás számára, hogy módosítsa a Google-szolgáltatások térképét. Normál alkalmazások nem használhatják.</string>
     <string name="permlab_receiveBootCompleted">futtatás indításkor</string>
-    <string name="permdesc_receiveBootCompleted">Lehetővé teszi az alkalmazás számára, hogy elindítsa magát a rendszerindítás befejezése után. Ez meghosszabbíthatja a táblagép elindításának idejét, az állandó futás miatt pedig lelassíthatja a táblagépet.</string>
+    <string name="permdesc_receiveBootCompleted">Lehetővé teszi az alkalmazás számára, hogy elindítsa magát a rendszerindítás befejezése után. Ez meghosszabbíthatja a telefon elindításának idejét, az állandó futás miatt pedig lelassíthatja a telefont.</string>
     <string name="permlab_broadcastSticky">ragadós üzenet küldése</string>
-    <string name="permdesc_broadcastSticky">Lehetővé teszi az alkalmazás számára ragadós üzenetek küldését, amelyek a sugárzás után is megmaradnak. A túlzott használat lelassíthatja vagy instabillá teheti a táblagépet a nagymértékű memóriahasználattal.</string>
+    <string name="permdesc_broadcastSticky">Lehetővé teszi az alkalmazás számára ragadós üzenetek küldését, amelyek a sugárzás után is megmaradnak. A túlzott használat lelassíthatja vagy instabillá teheti a telefont a nagymértékű memóriahasználattal.</string>
     <string name="permlab_readContacts">saját névjegyek olvasása</string>
-    <string name="permdesc_readContacts">Lehetővé teszi az alkalmazás számára a táblagépen tárolt névjegyekre vonatkozó összes adat -- például az egyes személyekkel telefonon, e-mailben vagy más módon folytatott kommunikáció gyakoriságára vonatkozó adatok -- beolvasását. Az engedéllyel rendelkező alkalmazások menthetik a névjegyadatokat, és a rosszindulatú alkalmazások az Ön tudta nélkül oszthatják meg a névjegyadatokat.</string>
+    <string name="permdesc_readContacts">Lehetővé teszi az alkalmazás számára a telefonon tárolt névjegyekre vonatkozó összes adat -- például az egyes személyekkel telefonon, e-mailben vagy más módon folytatott kommunikáció gyakoriságára vonatkozó adatok -- beolvasását. Az engedéllyel rendelkező alkalmazások menthetik a névjegyadatokat, és a rosszindulatú alkalmazások az Ön tudta nélkül oszthatják meg a névjegyadatokat.</string>
     <string name="permlab_writeContacts">kapcsolatok módosítása</string>
-    <string name="permdesc_writeContacts">Lehetővé teszi az alkalmazás számára a táblagépen tárolt névjegyekre vonatkozó adatok -- például az egyes személyekkel telefonon, e-mailben vagy más módon folytatott kommunikáció gyakoriságára vonatkozó adatok -- módosítását. Az engedéllyel rendelkező alkalmazás törölheti a névjegyadatokat.</string>
+    <string name="permdesc_writeContacts">Lehetővé teszi az alkalmazás számára a telefonon tárolt névjegyekre vonatkozó adatok -- például az egyes személyekkel telefonon, e-mailben vagy más módon folytatott kommunikáció gyakoriságára vonatkozó adatok -- módosítását. Az engedéllyel rendelkező alkalmazás törölheti a névjegyadatokat.</string>
     <string name="permlab_readCallLog">Híváslista beolvasása</string>
-    <string name="permdesc_readCallLog">Lehetővé teszi az alkalmazás számára, hogy beolvassa táblagépe hívásnaplóját, beleértve a bejövő és kimenő hívásokkal kapcsolatos adatokat is. Az engedéllyel rendelkező alkalmazások menthetik hívásnaplóját, és előfordulhat, hogy a rosszindulatú alkalmazások az Ön tudta nélkül fognak megosztani hívásnaplóadatokat.</string>
+    <string name="permdesc_readCallLog">Lehetővé teszi az alkalmazás számára, hogy beolvassa telefonja hívásnaplóját, beleértve a bejövő és kimenő hívásokkal kapcsolatos adatokat is. Az engedéllyel rendelkező alkalmazások menthetik hívásnaplóját, és előfordulhat, hogy a rosszindulatú alkalmazások az Ön tudta nélkül fognak megosztani hívásnaplóadatokat.</string>
     <string name="permlab_writeCallLog">Híváslista készítése</string>
-    <string name="permdesc_writeCallLog">Lehetővé teszi, hogy az alkalmazás módosítsa a táblagép híváslistáját, beleértve a bejövő és kimenő hívások adatait is. A rosszindulatú alkalmazások ezt arra használhatják, hogy híváslistáját töröljék vagy módosítsák.</string>
+    <string name="permdesc_writeCallLog">Lehetővé teszi, hogy az alkalmazás módosítsa a telefon híváslistáját, beleértve a bejövő és kimenő hívások adatait is. A rosszindulatú alkalmazások ezt arra használhatják, hogy híváslistáját töröljék vagy módosítsák.</string>
     <string name="permlab_readProfile">saját névjegykártya olvasása</string>
     <string name="permdesc_readProfile">Lehetővé teszi az alkalmazás számára, hogy hozzáférést biztosítson az eszközön tárolt személyes profiladatokhoz, például a névhez és az elérhetőségekhez. Ez azt jelenti, hogy az alkalmazás azonosíthatja Önt, és elküldheti másoknak profiladatait.</string>
     <string name="permlab_writeProfile">saját névjegykártya módosítása</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">írás a közösség adatfolyamra</string>
     <string name="permdesc_writeSocialStream">Lehetővé teszi az alkalmazás számára, hogy megjelenítse ismerősei közösségi oldalakon szereplő frissítéseit. Legyen elővigyázatos, amikor információt tesz közzé -- így az alkalmazás olyan üzeneteket hozhat létre, amelyek látszólag egy ismerőstől érkeztek. Megjegyzés: előfordulhat, hogy ez nincs minden közösségi hálózaton engedélyezve.</string>
     <string name="permlab_readCalendar">naptári események és bizalmas információk beolvasása</string>
-    <string name="permdesc_readCalendar">Lehetővé teszi az alkalmazás számára a táblagépén tárolt összes naptári esemény beolvasását, beleértve az ismerősök vagy munkatársak eseményeit is. Az alkalmazás így megoszthatja vagy elmentheti az Ön naptáradatait azok titkos vagy bizalmas jellegétől függetlenül.</string>
+    <string name="permdesc_readCalendar">Lehetővé teszi az alkalmazás számára a telefonján tárolt összes naptári esemény beolvasását, beleértve az ismerősök vagy munkatársak eseményeit is. Az alkalmazás így megoszthatja vagy elmentheti az Ön naptáradatait azok titkos vagy bizalmas jellegétől függetlenül.</string>
     <string name="permlab_writeCalendar">naptári események hozzáadása vagy módosítása, e-mailek küldése a vendégeknek a tulajdonosok tudomása nélkül</string>
-    <string name="permdesc_writeCalendar">Lehetővé teszi az alkalmazás számára a táblagépen módosítható események hozzáadását, törlését vagy módosítását, beleértve az ismerősök vagy munkatársak eseményeit is. Az engedéllyel rendelkező alkalmazás üzeneteket küldhet, amelyek úgy tűnhetnek, hogy a naptár tulajdonosától származnak, illetve módosíthatják az eseményeket a tulajdonosok tudta nélkül.</string>
+    <string name="permdesc_writeCalendar">Lehetővé teszi az alkalmazás számára a telefonon módosítható események hozzáadását, törlését vagy módosítását, beleértve az ismerősök vagy munkatársak eseményeit is. Az engedéllyel rendelkező alkalmazás üzeneteket küldhet, amelyek úgy tűnhetnek, hogy a naptár tulajdonosától származnak, illetve módosíthatják az eseményeket a tulajdonosok tudta nélkül.</string>
     <string name="permlab_accessMockLocation">helyforrások utánzása tesztelés céljából</string>
     <string name="permdesc_accessMockLocation">Helyforrásutánzatok létrehozása tesztelés céljából, vagy új helyszolgáltató telepítése. Ez lehetővé teszi az alkalmazás számára, hogy felülírja az olyan helyforrások által biztosított hely- és/vagy állapotadatokat, mint a GPS vagy helyszolgáltatók.</string>
     <string name="permlab_accessLocationExtraCommands">további helyszolgáltatói parancsok elérése</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Lehetővé teszi az alkalmazás számára, hogy a fényképezőgéppel fotókat és videókat készítsen. Az engedéllyel rendelkező alkalmazás bármikor, az Ön jóváhagyása nélkül használhatja a fényképezőgépet.</string>
     <string name="permlab_cameraDisableTransmitLed">átviteljelző LED letiltása, ha a kamera használatban van</string>
     <string name="permdesc_cameraDisableTransmitLed">Lehetővé teszi egy előre telepített rendszeralkalmazás számára, hogy letiltsa a kamerahasználatot jelző LED-et.</string>
-    <string name="permlab_brick">a táblagép végleges deaktiválása</string>
-    <string name="permdesc_brick">Lehetővé teszi az alkalmazás számára, hogy teljesen deaktiválják a táblagépet. Ez nagyon veszélyes.</string>
-    <string name="permlab_reboot">táblagép újraindításának kikényszerítése</string>
-    <string name="permdesc_reboot">Lehetővé teszi az alkalmazások számára, hogy újraindítsák a táblagépet.</string>
+    <string name="permlab_brick">telefon végleges letiltása</string>
+    <string name="permdesc_brick">Lehetővé teszi az alkalmazás számára a teljes telefon végleges letiltását. Ez nagyon veszélyes.</string>
+    <string name="permlab_reboot">telefon újraindításának kikényszerítése</string>
+    <string name="permdesc_reboot">Lehetővé teszi az alkalmazás számára a telefon kényszerített újraindítását.</string>
     <string name="permlab_mount_unmount_filesystems">hozzáférés az USB-háttértárhoz</string>
     <string name="permdesc_mount_unmount_filesystems">Lehetővé teszi az alkalmazás számára a külső adathordozók fájlrendszereinek csatlakoztatását és leválasztását.</string>
     <string name="permlab_mount_format_filesystems">USB-háttértár törlése</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Lehetővé teszi az alkalmazás számára, hogy az Ön jóváhagyása nélkül hívjon fel telefonszámokat. Ennek eredményeként váratlan terhelésekkel vagy telefonhívásokkal találkozhat. Vegye figyelembe, hogy ez nem teszi lehetővé segélyhívó számok hívását az alkalmazás számára. A rosszindulatú alkalmazások az Ön jóváhagyása nélkül kezdeményezhetnek hívásokat, így költségek merülhetnek fel.</string>
     <string name="permlab_callPrivileged">bármilyen telefonszám közvetlen hívása</string>
     <string name="permdesc_callPrivileged">Lehetővé teszi az alkalmazás számára, hogy az Ön közreműködése nélkül felhívjon bármilyen telefonszámot, köztük a segélyhívó számokat is. A rosszindulatú alkalmazások felesleges és jogsértő hívásokat kezdeményezhetnek ez utóbbiakra.</string>
-    <string name="permlab_performCdmaProvisioning">a táblagép CDMA-beállításának közvetlen indítása</string>
+    <string name="permlab_performCdmaProvisioning">CDMA-telefonbeállítás közvetlen elindítása</string>
     <string name="permdesc_performCdmaProvisioning">Lehetővé teszi az alkalmazás számára a CDMA-szolgáltatás elindítását. A rosszindulatú alkalmazások szükségtelenül is elindíthatják ezt.</string>
     <string name="permlab_locationUpdates">helyaktualizálási értesítések vezérlése</string>
     <string name="permdesc_locationUpdates">Lehetővé teszi az alkalmazás számára a rádiótól érkező helyaktualizálási értesítések engedélyezését/letiltását. Normál alkalmazások nem használhatják.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Lehetővé teszi az alkalmazás számára, hogy az eszköz telefonálási funkcióit vezérelje. Egy ilyen engedéllyel rendelkező alkalmazás váltani tud a hálózatok között, be- és kikapcsolhatja a telefon rádióját, és hasonlókat tehet anélkül, hogy valaha értesítené Önt.</string>
     <string name="permlab_readPhoneState">telefonállapot és azonosító olvasása</string>
     <string name="permdesc_readPhoneState">Lehetővé teszi az alkalmazás számára, hogy hozzáférjen az eszköz telefonálási funkcióihoz. Az engedéllyel rendelkező alkalmazás meghatározhatja a telefonszámot és eszközazonosítókat, hogy egy hívás aktív-e, valamint híváskor a másik fél telefonszámát.</string>
-    <string name="permlab_wakeLock">táblagép alvás üzemmódjának megakadályozása</string>
-    <string name="permdesc_wakeLock">Lehetővé teszi az alkalmazás számára, hogy megakadályozza, hogy a táblagép alvó üzemmódra váltson.</string>
-    <string name="permlab_devicePower">a táblagép be- és kikapcsolása</string>
-    <string name="permdesc_devicePower">Lehetővé teszi az alkalmazás számára a táblagép be- és kikapcsolását.</string>
+    <string name="permlab_wakeLock">telefon alvó üzemmódjának megakadályozása</string>
+    <string name="permdesc_wakeLock">Lehetővé teszi az alkalmazás számára, hogy megakadályozza, hogy a telefon alvó üzemmódra váltson.</string>
+    <string name="permlab_devicePower">a telefon be- és kikapcsolása</string>
+    <string name="permdesc_devicePower">Lehetővé teszi az alkalmazás számára, hogy be- vagy kikapcsolja a telefont.</string>
     <string name="permlab_factoryTest">futtatás gyári tesztüzemmódban</string>
-    <string name="permdesc_factoryTest">Alacsony szintű gyári tesztként fut, lehetővé téve a táblagép összes hardverének elérését. Csak akkor érhető el, ha a táblagép gyári teszt üzemmódban fut.</string>
+    <string name="permdesc_factoryTest">Futtatás alacsony szintű gyártói tesztként, lehetővé téve a telefon hardverének teljes körű elérését. Csak akkor érhető el, ha a telefon gyártói tesztüzemmódban van.</string>
     <string name="permlab_setWallpaper">háttérkép beállítása</string>
     <string name="permdesc_setWallpaper">Lehetővé teszi az alkalmazás számára, hogy beállítása a rendszer háttérképét.</string>
     <string name="permlab_setWallpaperHints">háttérkép méretének módosítása</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">rendszer visszaállítása a gyári beállításokra</string>
     <string name="permdesc_masterClear">Lehetővé teszi az alkalmazás számára a gyári beállítások teljes visszaállítását, törölve minden adatot, beállítást és telepített alkalmazást.</string>
     <string name="permlab_setTime">idő beállítása</string>
-    <string name="permdesc_setTime">Lehetővé teszi az alkalmazás számára, hogy átállítsa a táblagép óráját.</string>
+    <string name="permdesc_setTime">Lehetővé teszi az alkalmazás számára a telefon órájának átállítását.</string>
     <string name="permlab_setTimeZone">időzóna beállítása</string>
-    <string name="permdesc_setTimeZone">Lehetővé teszi az alkalmazás számára, hogy módosítsa a táblagép időzónáját.</string>
+    <string name="permdesc_setTimeZone">Lehetővé teszi az alkalmazás számára, hogy módosítsa a telefon időzónáját.</string>
     <string name="permlab_accountManagerService">fiókfelügyeleti szolgáltatásként szereplés</string>
     <string name="permdesc_accountManagerService">Lehetővé teszi az alkalmazás számára, hogy meghívjon fiókhitelesítőket.</string>
     <string name="permlab_getAccounts">fiókok keresése az eszközön</string>
-    <string name="permdesc_getAccounts">Lehetővé teszi az alkalmazás számára a táblagép által ismert hálózatok listájának lekérését; beleértve a telepített alkalmazások által létrehozott bármely fiókot.</string>
+    <string name="permdesc_getAccounts">Lehetővé teszi az alkalmazás számára a telefon által ismert hálózatok listájának lekérését; beleértve a telepített alkalmazások által létrehozott bármely fiókot.</string>
     <string name="permlab_authenticateAccounts">fiókok létrehozása, és jelszavak beállítása</string>
     <string name="permdesc_authenticateAccounts">Lehetővé teszi az alkalmazás számára, hogy használja a Fiókkezelő fiókhitelesítő funkcióit, beleértve a fiókok létrehozását, illetve jelszavuk lekérdezését és beállítását.</string>
     <string name="permlab_manageAccounts">fiókok hozzáadása vagy eltávolítása</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">kapcsolódás Wi-Fi-hez és a kapcsolat bontása</string>
     <string name="permdesc_changeWifiState">Lehetővé teszi az alkalmazás számára, hogy kapcsolódjon Wi-Fi hozzáférési pontokhoz, illetve megszüntesse a kapcsolatot velük, valamint hogy módosítsa az egyes eszközök Wi-Fi beállításait.</string>
     <string name="permlab_changeWifiMulticastState">Wi-Fi multicast vétel engedélyezése</string>
-    <string name="permdesc_changeWifiMulticastState">Lehetővé teszi az alkalmazás számára, hogy olyan csomagokat fogadjon, amelyeket nem csak a táblagépének, hanem egy Wi-Fi hálózat minden eszközének elküldtek többirányú címek használatával. Több energiát használ, mint a nem többirányú üzemmód.</string>
+    <string name="permdesc_changeWifiMulticastState">Lehetővé teszi az alkalmazás számára, hogy olyan csomagokat fogadjon, amelyeket nem csak a telefonjának, hanem egy Wi-Fi hálózat minden eszközének elküldtek többirányú címek használatával. Több energiát használ, mint a nem többirányú üzemmód.</string>
     <string name="permlab_bluetoothAdmin">Bluetooth-beállítások elérése</string>
-    <string name="permdesc_bluetoothAdmin">Lehetővé teszi az alkalmazás számára, hogy konfigurálja a helyi Bluetooth-t, valamint hogy távoli eszközöket fedezzen fel és párosítson.</string>
+    <string name="permdesc_bluetoothAdmin">Lehetővé teszi az alkalmazás számára, hogy konfigurálja a helyi Bluetooth telefont, valamint hogy távoli eszközöket fedezzen fel és párosítson.</string>
     <string name="permlab_accessWimaxState">WiMAX-kapcsolódás és a kapcsolat bontása</string>
     <string name="permdesc_accessWimaxState">Lehetővé teszi az alkalmazás számára, hogy ellenőrizze, a WiMax engedélyezve van-e, valamint hogy információt gyűjtsön a csatlakoztatott WiMax-hálózatokról.</string>
     <string name="permlab_changeWimaxState">WiMAX-állapot módosítása</string>
-    <string name="permdesc_changeWimaxState">Lehetővé teszi az alkalmazás számára, hogy a táblagépet csatlakoztassa WiMAX-hálózathoz vagy leválassza azt róla.</string>
+    <string name="permdesc_changeWimaxState">Lehetővé teszi az alkalmazás számára, hogy a telefont csatlakoztassa WiMAX-hálózathoz vagy leválassza azt róla.</string>
     <string name="permlab_bluetooth">Bluetooth-eszközök párosítása</string>
-    <string name="permdesc_bluetooth">Lehetővé teszi az alkalmazás számára a táblagépen lévő Bluetooth beállításainak megtekintését, valamint kapcsolatok kezdeményezését és fogadását a párosított eszközökkel.</string>
+    <string name="permdesc_bluetooth">Lehetővé teszi az alkalmazás számára a telefonon lévő Bluetooth beállításainak megtekintését, valamint kapcsolatok kezdeményezését és fogadását a párosított eszközökkel.</string>
     <string name="permlab_nfc">NFC technológia vezérlése</string>
     <string name="permdesc_nfc">Lehetővé teszi az alkalmazás számára, hogy NFC (Near Field Communication - kis hatósugarú vezeték nélküli kommunikáció) technológiát használó címkékkel, kártyákkal és leolvasókkal kommunikáljon.</string>
     <string name="permlab_disableKeyguard">képernyőzár kikapcsolása</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Jelszavakkal kapcsolatos szabályok beállítása</string>
     <string name="policydesc_limitPassword">A képernyőzár-feloldási jelszavakban engedélyezett karakterek és hosszúság vezérlése.</string>
     <string name="policylab_watchLogin">Képernyőzár-feloldási kísérletek figyelése</string>
-    <string name="policydesc_watchLogin">Megfigyeli a képernyő feloldásakor helytelenül beírt jelszavak számát, és túl sok hibásan beírt jelszó esetén lezárja a táblagépet, vagy törli a táblagép összes adatát.</string>
+    <string name="policydesc_watchLogin">Megfigyeli a képernyő feloldásakor helytelenül beírt jelszavak számát, és túl sok hibásan beírt jelszó esetén lezárja a telefont, vagy törli a telefon összes adatát.</string>
     <string name="policylab_resetPassword">A képernyőzárat feloldó jelszó módosítása</string>
     <string name="policydesc_resetPassword">A képernyőzárat feloldó jelszó módosítása.</string>
     <string name="policylab_forceLock">A képernyő zárolása</string>
     <string name="policydesc_forceLock">A képernyőzárolás módjának és idejének vezérlése.</string>
     <string name="policylab_wipeData">Minden adat törlése</string>
-    <string name="policydesc_wipeData">Figyelmeztetés nélkül törli a táblagép adatait, visszaállítva a gyári adatokat.</string>
+    <string name="policydesc_wipeData">Figyelmeztetés nélkül törli a telefon összes adatát, visszaállítva a gyári adatokat.</string>
     <string name="policylab_setGlobalProxy">Az eszköz globális proxyjának beállítása</string>
     <string name="policydesc_setGlobalProxy">Az eszköz globális proxyja lesz használatban, amíg az irányelv engedélyezve van. Csak az eszköz első rendszergazdája állíthatja be a tényleges globális proxyt.</string>
     <string name="policylab_expirePassword">Képernyőjelszó érvényessége</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Csatlakoztassa a töltőt.</string>
     <string name="lockscreen_missing_sim_message_short">Nincs SIM kártya.</string>
-    <string name="lockscreen_missing_sim_message">Nincs SIM-kártya a táblagépben.</string>
+    <string name="lockscreen_missing_sim_message">Nincs SIM-kártya a telefonban.</string>
     <string name="lockscreen_missing_sim_instructions">Helyezzen be egy SIM kártyát.</string>
     <string name="lockscreen_missing_sim_instructions_long">A SIM kártya hiányzik vagy nem olvasható. Helyezzen be egy SIM kártyát.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">A SIM kártya nem használható.</string>
@@ -778,11 +778,11 @@ Kérjük, %d másodperc múlva próbálja újra."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Ön %d alkalommal helytelenül adta meg PIN kódját. 
  
  Próbálja újra %d másodperc múlva."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Helytelenül rajzolta le a feloldási mintát %d alkalommal. További %d sikertelen kísérlet után a Google rendszerében használt bejelentkezési adataival kell feloldania a táblagépét.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Helytelenül rajzolta le a feloldási mintát %d alkalommal. További %d sikertelen kísérlet után a Google rendszerében használt bejelentkezési adataival kell feloldania a telefonját.
 
  Kérjük, próbálja újra %d másodperc múlva."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">A táblagépet %d alkalommal próbálta meg sikertelenül feloldani. %d további sikertelen próbálkozás után a rendszer visszaállítja a táblagép gyári alapértelmezett beállításait, és minden felhasználói adat elvész.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">A táblagépet %d alkalommal próbálta meg sikertelenül feloldani. A rendszer visszaállítja a táblagép gyári alapértelmezett beállításait.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">A telefont %d alkalommal próbálta meg sikertelenül feloldani. %d további sikertelen próbálkozás után a rendszer visszaállítja a telefon gyári alapértelmezett beállításait, és minden felhasználói adat elvész.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">A telefont %d alkalommal próbálta meg sikertelenül feloldani. A rendszer visszaállítja a telefon gyári alapértelmezett beállításait.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Próbálkozzon újra %d másodperc múlva.</string>
     <string name="lockscreen_forgot_pattern_button_text">Elfelejtette a mintát?</string>
     <string name="lockscreen_glogin_forgot_pattern">Fiók feloldása</string>
@@ -867,7 +867,7 @@ Biztosan szeretné elhagyni az oldalt?"</string>
     <string name="permlab_readHistoryBookmarks">internetes könyvjelzők és előzmények olvasása</string>
     <string name="permdesc_readHistoryBookmarks">Lehetővé teszi az alkalmazás számára, hogy beolvassa a böngésző által korábban felkeresett összes URL-t és a böngésző könyvjelzőit. Megjegyzés: előfordulhat, hogy ezt az engedélyt harmadik felek által üzemeltetett böngészők vagy egyéb böngészésre képes alkalmazások nem léptetik életbe.</string>
     <string name="permlab_writeHistoryBookmarks">internetes könyvjelzők és előzmények írása</string>
-    <string name="permdesc_writeHistoryBookmarks">Lehetővé teszi az alkalmazás számára, hogy módosítsa a böngésző előzményeit vagy a táblagépen tárolt könyvjelzőket. Az engedéllyel rendelkező alkalmazás törölheti vagy módosíthatja a böngésző adatait. Megjegyzés: előfordulhat, hogy ezt az engedélyt harmadik felek által üzemeltetett böngészők vagy egyéb böngészésre képes alkalmazások nem léptetik életbe.</string>
+    <string name="permdesc_writeHistoryBookmarks">Lehetővé teszi az alkalmazás számára, hogy módosítsa a böngésző előzményeit vagy a telefonon tárolt könyvjelzőket. Az engedéllyel rendelkező alkalmazás törölheti vagy módosíthatja a böngésző adatait. Megjegyzés: előfordulhat, hogy ezt az engedélyt harmadik felek által üzemeltetett böngészők vagy egyéb böngészésre képes alkalmazások nem léptetik életbe.</string>
     <string name="permlab_setAlarm">ébresztés beállítása</string>
     <string name="permdesc_setAlarm">Lehetővé teszi az alkalmazás számára, hogy ébresztőt állítson be egy telepített ébresztőóra alkalmazásban. Egyes ilyen alkalmazásokban lehet, hogy nem működik ez a funkció.</string>
     <string name="permlab_addVoicemail">hangposta hozzáadása</string>
@@ -901,7 +901,7 @@ Biztosan szeretné elhagyni az oldalt?"</string>
     <string name="searchview_description_submit">Lekérdezés küldése</string>
     <string name="searchview_description_voice">Hangalapú keresés</string>
     <string name="enable_explore_by_touch_warning_title">Aktiválja a Felfedezés érintésselt?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s aktiválni szeretné a Felfedezés érintéssel funkciót. Amikor be van kapcsolva a Felfedezés érintéssel, akkor hallhatja vagy láthatja annak leírását, ami az ujja alatt van, illetve végrehajthat kézmozdulatokat a táblagép kezeléséhez.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s aktiválni szeretné a Felfedezés érintéssel funkciót. Amikor be van kapcsolva a Felfedezés érintéssel, akkor hallhatja vagy láthatja annak leírását, ami az ujja alatt van, illetve végrehajthat kézmozdulatokat a telefon kezeléséhez.</string>
     <string name="oneMonthDurationPast">1 hónapja</string>
     <string name="beforeOneMonthDurationPast">Több mint 1 hónapja</string>
     <string name="last_month">Múlt hónapban</string>
@@ -1025,7 +1025,7 @@ Szeretné bezárni?"</string>
     <string name="wifi_p2p_to_message">Címzett:</string>
     <string name="wifi_p2p_enter_pin_message">Adja meg a szükséges PIN kódot:</string>
     <string name="wifi_p2p_show_pin_message">PIN kód:</string>
-    <string name="wifi_p2p_frequency_conflict_message">A táblagép ideiglenesen lecsatlakozik a Wi-Fi hálózatról, míg a(z) %1$s eszközhöz csatlakozik</string>
+    <string name="wifi_p2p_frequency_conflict_message">A telefon ideiglenesen kilép a Wi-Fi hálózatról, míg a(z) %1$s eszközhöz csatlakozik.</string>
     <string name="select_character">Karakter beszúrása</string>
     <string name="sms_control_title">SMS-ek küldése</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/ b> nagyszámú SMS üzenetet küld. Engedélyezi, hogy ez az alkalmazás továbbra is üzeneteket küldjön?</string>
@@ -1274,7 +1274,7 @@ a(z) %s fiók számára."</string>
     <string name="SetupCallDefault">Fogadja a hívást?</string>
     <string name="activity_resolver_use_always">Mindig</string>
     <string name="activity_resolver_use_once">Csak egyszer</string>
-    <string name="default_audio_route_name">Táblagép</string>
+    <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_headphones">Fejhallgató</string>
     <string name="default_audio_route_name_dock_speakers">Dokkolóegység hangszórója</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Próbálja újra %d másodperc múlva."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"%d alkalommal rosszul rajzolta le feloldási mintát. 
 
 Próbálja újra %d másodperc múlva."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">A táblagépet %d alkalommal próbálta meg sikertelenül feloldani. %d további sikertelen próbálkozás után a rendszer visszaállítja a táblagép gyári alapértelmezett beállításait, és minden felhasználói adat elvész.</string>
-    <string name="kg_failed_attempts_now_wiping">A táblagépet %d alkalommal próbálta meg sikertelenül feloldani. A rendszer visszaállítja a táblagép gyári alapértelmezett beállításait.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d alkalommal helytelenül rajzolta le a feloldási mintát. További %d sikertelen kísérlet után egy e-mail fiók használatával kell feloldania a táblagépét.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">A telefont %d alkalommal próbálta meg sikertelenül feloldani. %d további sikertelen próbálkozás után a rendszer visszaállítja a telefon gyári alapértelmezett beállításait, és minden felhasználói adat elvész.</string>
+    <string name="kg_failed_attempts_now_wiping">A telefont %d alkalommal próbálta meg sikertelenül feloldani. A rendszer visszaállítja a telefon gyári alapértelmezett beállításait.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"%d alkalommal helytelenül rajzolta le a feloldási mintát. További %d sikertelen kísérlet után egy e-mail fiók használatával kell feloldania a telefonját.
 
  Kérjük, próbálja újra %d másodperc múlva."</string>
     <string name="kg_text_message_separator">" – "</string>

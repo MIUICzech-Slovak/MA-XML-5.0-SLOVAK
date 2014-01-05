@@ -180,9 +180,9 @@
     <string name="contentServiceSync">I-sync</string>
     <string name="contentServiceSyncNotificationTitle">I-sync</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Masyadong maraming pagtanggal ng %s.</string>
-    <string name="low_memory">Puno na ang storage ng tablet. Magtanggal ng ilang file upang magbakante ng espasyo.</string>
+    <string name="low_memory">Puno na ang storage ng telepono. Magtanggal ng ilang file upang magbakante ng espasyo.</string>
     <string name="me">Ako</string>
-    <string name="power_dialog">Mga pagpipilian sa tablet</string>
+    <string name="power_dialog">Mga pagpipilian sa telepono</string>
     <string name="silent_mode">Silent mode</string>
     <string name="turn_on_radio">I-on ang wireless</string>
     <string name="turn_off_radio">I-off ang wireless</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">I-vibrate ang ringer</string>
     <string name="silent_mode_ring">I-on ang ringer</string>
     <string name="shutdown_progress">Nagsa-shut down…</string>
-    <string name="shutdown_confirm">Mag-shut down ang iyong tablet.</string>
+    <string name="shutdown_confirm">Magsa-shut down ang iyong telepono.</string>
     <string name="shutdown_confirm_question">Nais mo bang mag-shut down?</string>
     <string name="reboot_safemode_title">Mag-reboot sa safe mode</string>
     <string name="reboot_safemode_confirm">Nais mo bang mag-reboot sa safe mode? Hindi nito papaganahin ang lahat ng third party na application na na-install mo. Ibabalik ang mga ito kapag muli kang nag-reboot.</string>
     <string name="recent_tasks_title">Kamakailan</string>
     <string name="no_recent_tasks">Walang kamakailang apps.</string>
-    <string name="global_actions">Mga pagpipilian sa tablet</string>
+    <string name="global_actions">Pagpipilian sa telepono</string>
     <string name="global_action_lock">Pag-lock sa screen</string>
     <string name="global_action_power_off">I-off</string>
     <string name="global_action_bug_report">Ulat sa bug</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">magpadala ng mga kaganapan ng tumugon sa pamamagitan ng mensahe</string>
     <string name="permdesc_sendRespondViaMessageRequest">Binibigyang-daan ang app na magpadala ng mga kahilingan sa iba pang apps ng pagmemensahe upang pangasiwaan ang mga kaganapan ng tumugon sa pamamagitan ng mensahe para sa mga papasok na tawag.</string>
     <string name="permlab_readSms">basahin ang iyong mga text message (SMS o MMS)</string>
-    <string name="permdesc_readSms">Pinapayagan ang app na magbasa ng mga mensaheng SMS na naka-imbak sa iyong tablet o SIM card. Pinapayagan nito ang app na basahin ang lahat ng mensaheng SMS, ano pa man ang nilalaman at katayuan sa pagiging kumpedensyal ng mga ito.</string>
+    <string name="permdesc_readSms">Pinapayagan ang app na magbasa ng mga mensaheng SMS na naka-imbak sa iyong telepono o SIM card. Pinapayagan nito ang app na basahin ang lahat ng mensaheng SMS, ano pa man ang nilalaman at katayuan sa pagiging kumpedensyal ng mga ito.</string>
     <string name="permlab_writeSms">i-edit ang iyong mga text message (SMS o MMS)</string>
-    <string name="permdesc_writeSms">Pinapayagan ang app na magsulat sa mga mensaheng SMS na nakaimbak sa iyong tablet o SIM card. Maaaring tanggalin ng nakakahamak na apps ang iyong mga mensahe.</string>
+    <string name="permdesc_writeSms">Pinapayagan ang app na magsulat sa mga mensaheng SMS na nakaimbak sa iyong telepono o SIM card. Maaaring tanggalin ng nakakahamak na apps ang iyong mga mensahe.</string>
     <string name="permlab_receiveWapPush">tumanggap ng mga text message (WAP)</string>
     <string name="permdesc_receiveWapPush">Pinapayagan ang app na tumanggap at magproseso ng mga mensaheng WAP. Kabilang sa pahintulot na ito ang kakayahang sumubaybay o magtanggal ang app ng mga mensaheng ipinapadala sa iyo nang hindi ipinapakita ang mga ito sa iyo.</string>
     <string name="permlab_getTasks">bawiin ang tumatakbong apps</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">i-freeze ang screen</string>
     <string name="permdesc_freezeScreen">Pinapayagan ang application na pansamantalang i-freeze ang screen para sa isang full-screen na transition.</string>
     <string name="permlab_injectEvents">pindutin ang mga key at kontrolin ang mga pindutan</string>
-    <string name="permdesc_injectEvents">Pinapayagan ang app na ihatid ang sariling mga kaganapan ng input nito (mga pagpindot sa key, atbp.) sa iba pang apps. Maaari itong gamitin ng nakakahamak na apps upang pangasiwaan ang tablet.</string>
+    <string name="permdesc_injectEvents">Pinapayagan ang app na ihatid ang sariling mga kaganapan ng input nito (mga pagpindot sa key, atbp.) sa iba pang apps. Maaari itong gamitin ng nakakahamak na apps upang pangasiwaan ang telepono.</string>
     <string name="permlab_readInputState">itala kung ano ang iyong tina-type at mga pagkilos na iyong ginagawa</string>
     <string name="permdesc_readInputState">Pinapayagan ang app na tingnan ang mga key na iyong pinipindot kahit na nakikipag-ugnayan sa isa pang app (gaya ng pag-type ng password). Hindi kailanman dapat na kailanganin para sa normal na apps.</string>
     <string name="permlab_bindInputMethod">sumailalim sa isang pamamaraan ng pag-input</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">magpadala ng mga signal ng Linux sa apps</string>
     <string name="permdesc_signalPersistentProcesses">Pinapayagan ang app na hilinging maipadala ang ibinigay na signal sa lahat ng nagpapatuloy na proseso.</string>
     <string name="permlab_persistentActivity">palaging patakbuhin ang app</string>
-    <string name="permdesc_persistentActivity">Pinapayagan ang app na panatilihin ang ilang bahagi nito sa memory. Maaari nitong limitahan ang memory na available sa iba pang apps na nagpapabagal sa tablet.</string>
+    <string name="permdesc_persistentActivity">Pinapayagan ang app na panatilihin ang ilang bahagi nito sa memory. Maaari nitong limitahan ang memory na available sa iba pang apps na nagpapabagal sa telepono.</string>
     <string name="permlab_deletePackages">tanggalin ang apps</string>
     <string name="permdesc_deletePackages">Pinapayagan ang app na tanggalin ang mga package ng Android. Maaari itong gamitin ng nakakahamak na apps upang magtanggal ng mahahalagang apps.</string>
     <string name="permlab_clearAppUserData">tanggalin ang data ng iba pang apps</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">direktang mag-install ng apps</string>
     <string name="permdesc_installPackages">Pinapayagan ang app na mag-install ng bago o na-update na mga package ng Android. Maaari itong gamitin ng nakakahamak na apps upang magdagdag ng bagong apps na may hindi tukoy na malakas na mga pahintulot.</string>
     <string name="permlab_clearAppCache">tanggalin ang lahat ng data sa cache ng app</string>
-    <string name="permdesc_clearAppCache">Binibigyang-daan ang app na bawasan ang laman ng storage ng tablet sa pamamagitan ng pagtatanggal ng mga file sa mga direktoryo ng cache ng iba pang mga application. Maaaring pabagalin nito ang pagsisimula ng iba pang mga application dahil kailangang muling kunin ng mga ito ang kanilang data.</string>
+    <string name="permdesc_clearAppCache">Binibigyang-daan ang app na bawasan ang laman ng storage ng telepono sa pamamagitan ng pagtatanggal ng mga file sa mga direktoryo ng cache ng iba pang mga application. Maaaring pabagalin nito ang pagsisimula ng iba pang mga application dahil kailangang muling kunin ng mga ito ang kanilang data.</string>
     <string name="permlab_movePackage">ilipat ang mga mapagkukunan ng app</string>
     <string name="permdesc_movePackage">Pinapayagan ang app na ilipat ang mga mapagkukunan ng app mula sa panloob patungo sa panlabas na media at kabaliktaran.</string>
     <string name="permlab_readLogs">magbasa ng sensitibong data ng tala</string>
-    <string name="permdesc_readLogs">"Pinapayagan ang app na magbasa mula sa iba't ibang mga file ng log ng system. Pinapayagan ito nito na tumuklas ng pangkalahatang impormasyon tungkol sa kung ano ang iyong ginagawa sa tablet, potensyal na kabilang ang personal o pribadong impormasyon."</string>
+    <string name="permdesc_readLogs">"Pinapayagan ang app na magbasa mula sa iba't ibang mga file ng log ng system. Pinapayagan ito nito na tumuklas ng pangkalahatang impormasyon tungkol sa kung ano ang iyong ginagawa sa telepono, potensyal na kabilang ang personal o pribadong impormasyon."</string>
     <string name="permlab_anyCodecForPlayback">gumamit ng anumang media decoder para sa pag-playback</string>
     <string name="permdesc_anyCodecForPlayback">Pinapayagan ang app na gumamit ng anumang naka-install na media decoder upang mag-decode para sa pag-playback.</string>
     <string name="permlab_diagnostic">magbasa/magsulat sa mga mapagkukunang pag-aari ng diag</string>
     <string name="permdesc_diagnostic">Pinapayagan ang app na magbasa at magsulat sa anumang mapagkukunang pag-aari ng pangkat ng diag; halimbawa, mga file sa /dev. Maaaring potensyal na maapektuhan nito ang katatagan at seguridad ng system. Dapat LAMANG itong gamitin para sa diagnostics na tukoy sa hardware ng tagagawa o operator.</string>
     <string name="permlab_changeComponentState">paganahin o huwag paganahin ang mga bahagi ng app</string>
-    <string name="permdesc_changeComponentState">Pinapayagan ang app na baguhin kung ang bahagi ng isa pang app ay pinagana o hindi. Maaari itong gamitin ng nakakahamak na apps upang huwag paganahin ang mahahalagang kakayahan ng tablet. Dapat na mayroong pag-iingat sa pahintulot na ito, dahil posibleng mailagay ng mga bahagi ng app sa isang hindi nagagamit, pabagu-bago, o hindi matatag na katayuan.</string>
+    <string name="permdesc_changeComponentState">Pinapayagan ang app na baguhin kung ang isang bahagi ng isa pang app ay pinapagana o hindi. Maaari itong gamitin ng nakakahamak na apps upang huwag paganahin ang mga mahalagang kakayahan ng telepono. Dapat na mayroong pag-iingat sa pahintulot na ito, dahil posibleng mailagay ang mga bahagi ng app sa isang hindi nagagamit, pabagu-bago, o hindi matatag na katayuan.</string>
     <string name="permlab_grantRevokePermissions">ibigay o bawiin ang mga pahintulot</string>
     <string name="permdesc_grantRevokePermissions">Binibigyang-daan ang isang application na ibigay o bawiin ang mga tukoy na pahintulot para dito o sa iba pang mga application. Maaari itong gamitin ng mga nakakapahamak na application upang i-access ang mga tampok na hindi mo ibinigay sa mga ito.</string>
     <string name="permlab_setPreferredApplications">itakda ang gustong apps</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">baguhin ang mapa ng mga serbisyo ng Google</string>
     <string name="permdesc_writeGservices">Pinapayagan ang app na baguhin ang mapa ng mga serbisyo ng Google. Hindi para sa paggamit ng normal na apps.</string>
     <string name="permlab_receiveBootCompleted">patakbuhin sa pagbukas</string>
-    <string name="permdesc_receiveBootCompleted">Pinapayagan ang app na mapasimula ang sarili nito sa sandaling matapos ang system sa pag-boot. Maaari nitong gawing mas matagal upang simulan ang tablet at pinapayagan ang app na pabagalin ang buong tablet sa pamamagitan ng palaging pagtakbo.</string>
+    <string name="permdesc_receiveBootCompleted">Pinapayagan ang app na mapasimula ang sarili nito sa sandaling matapos ang system sa pag-boot. Maaari nitong gawing mas matagal upang simulan ang telepono at pinapayagan ang app na pabagalin ang buong telepono sa pamamagitan ng palaging pagtakbo.</string>
     <string name="permlab_broadcastSticky">magpadala ng sticky na pag-broadcast</string>
-    <string name="permdesc_broadcastSticky">Pinapayagan ang app na magpadala ng mga sticky na pag-broadcast, na nananatili pagkatapos ng pag-broadcast. Maaaring pabagalin o gawing hindi matatag ng labis na paggamit ang tablet sa pamamagitan ng pagdulot dito na gumamit ng masyadong maraming memory.</string>
+    <string name="permdesc_broadcastSticky">Pinapayagan ang app na magpadala ng mga sticky na pag-broadcast, na nananatili pagkatapos ng pag-broadcast. Maaaring pabagalin o gawing hindi matatag ng labis na paggamit ang telepono sa pamamagitan ng pagdulot dito na gumamit ng masyadong maraming memory.</string>
     <string name="permlab_readContacts">basahin ang iyong mga contact</string>
-    <string name="permdesc_readContacts">Pinapayagan ang app na magbasa ng data tungkol sa mga contact na naka-imbak sa iyong tablet, kabilang ang dalas kung kailan ka tumawag, nag-email, o nakipag-ugnayan sa iba pang mga paraan sa mga tukoy na indibidwal. Pinapayagan ng pahintulot na ito ang apps na i-save ang data ng iyong contact, at maaaring magbahagi ang nakakahamak na apps ng data ng contact nang hindi mo nalalaman.</string>
+    <string name="permdesc_readContacts">Pinapayagan ang app na magbasa ng data tungkol sa mga contact na naka-imbak sa iyong telepono, kabilang ang dalas kung kailan ka tumawag, nag-email, o nakipag-ugnayan sa iba pang mga paraan sa mga tukoy na indibidwal. Pinapayagan ng pahintulot na ito ang apps na i-save ang data ng iyong contact, at maaaring magbahagi ang nakakahamak na apps ng data ng contact nang hindi mo nalalaman.</string>
     <string name="permlab_writeContacts">baguhin ang iyong mga contact</string>
-    <string name="permdesc_writeContacts">Pinapayagan ang app na baguhin ang data tungkol sa iyong mga contact na naka-imbak sa iyong tablet, kabilang ang dalas kung kailan ka tumawag, nag-email, o nakipag-ugnayan sa iba pang mga paraan sa mga tukoy na contact. Pinapayagan ng pahintulot na ito ang apps na magtanggal ng data ng contact.</string>
+    <string name="permdesc_writeContacts">Pinapayagan ang app na baguhin ang data tungkol sa iyong mga contact na naka-imbak sa iyong telepono, kabilang ang dalas kung kailan ka tumawag, nag-email, o nakipag-ugnayan sa iba pang mga paraan sa mga tukoy na contact. Pinapayagan ng pahintulot na ito ang apps na magtanggal ng data ng contact.</string>
     <string name="permlab_readCallLog">basahin ang log ng tawag</string>
-    <string name="permdesc_readCallLog">Pinapayagan ang app na basahin ang log ng tawag ng iyong tablet, kabilang ang data tungkol sa mga papasok o papalabas na tawag. Pinapayagan ng pahintulot na ito ang apps na i-save ang iyong data ng log ng tawag, at maaaring magbahagi ang nakakahamak na apps ng data ng log ng tawag nang hindi mo nalalaman.</string>
+    <string name="permdesc_readCallLog">Pinapayagan ang app na basahin ang log ng tawag ng iyong telepono, kabilang ang data tungkol sa mga papasok o papalabas na tawag. Pinapayagan ng pahintulot na ito ang apps na i-save ang iyong data ng log ng tawag, at maaaring magbahagi ang nakakahamak na apps ng data ng log ng tawag nang hindi mo nalalaman.</string>
     <string name="permlab_writeCallLog">isulat ang log ng tawag</string>
-    <string name="permdesc_writeCallLog">Binibigyan-daan ang app na baguhin ang log ng tawag ng iyong tablet, kabilang ang data tungkol sa mga paparating at papalabas na tawag. Maaari itong gamitin ng nakakahamak na apps upang burahin o baguhin ang iyong log ng tawag.</string>
+    <string name="permdesc_writeCallLog">Binibigyan-daan ang app na baguhin ang log ng tawag ng iyong telepono, kabilang ang data tungkol sa mga paparating at papalabas na tawag. Maaari itong gamitin ng nakakahamak na apps upang burahin o baguhin ang iyong log ng tawag.</string>
     <string name="permlab_readProfile">basahin sarili mo contact card</string>
     <string name="permdesc_readProfile">Pinapayagan ang app na basahin ang personal na impormasyon ng profile na naka-imbak sa iyong device, gaya ng iyong pangalan at impormasyon sa pakikipag-ugnay. Nangangahulugan ito na makikilala ka ng app at maaari nitong ipadala ang impormasyon ng iyong profile sa iba.</string>
     <string name="permlab_writeProfile">baguhin sarili mo contact card</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">magsulat sa iyong social stream</string>
     <string name="permdesc_writeSocialStream">Pinapayagan ang app na magpakita ng mga social na update mula sa iyong mga kaibigan. Maging maingat kapag nagbabahagi ng impormasyon -- pinapayagan nito ang app na bumuo ng mga mensaheng maaaring lumitaw na mula sa isang kaibigan. Tandaan: hindi maaaring ipatupad ang pahintulot na ito sa lahat ng social network.</string>
     <string name="permlab_readCalendar">magbasa ng mga kaganapan sa kalendaryo kasama ang kumpedensyal na impormasyon</string>
-    <string name="permdesc_readCalendar">Pinapayagan ang app na basahin ang lahat ng kaganapan sa kalendaryo na naka-imbak sa iyong tablet, kabilang iyong sa mga kaibigan o katrabaho. Maaari nitong payagan ang app na ibahagi o i-save ang data ng iyong kalendaryo, ano pa man ang katayuan ng pagiging kumpedensyal o sensitibo nito.</string>
+    <string name="permdesc_readCalendar">Pinapayagan ang app na basahin ang lahat ng kaganapan sa kalendaryo na naka-imbak sa iyong telepono, kabilang iyong sa mga kaibigan o katrabaho. Maaari nitong payagan ang app na ibahagi o i-save ang data ng iyong kalendaryo, ano pa man ang katayuan ng pagiging kumpedensyal o sensitibo nito.</string>
     <string name="permlab_writeCalendar">magdagdag o magbago ng mga kaganapan sa kalendaryo at magpadala ng email sa mga bisita nang hindi nalalaman ng mga may-ari</string>
-    <string name="permdesc_writeCalendar">Pinapayagan ang app na magdagdag, mag-alis, magbago ng mga kaganapang maaari mong baguhin sa iyong tablet, kabilang iyong sa mga kaibigan o katrabaho. Maaari nitong payagan ang app na magpadala ng mga mensaheng lumililitaw na mula sa mga may-ari ng kalendaryo, o magbago ng mga kaganapan nang hindi nalalaman ng mga may-ari.</string>
+    <string name="permdesc_writeCalendar">Pinapayagan ang app na magdagdag, mag-alis, magbago ng mga kaganapang maaari mong baguhin sa iyong telepono, kabilang iyong sa mga kaibigan o katrabaho. Maaari nitong payagan ang app na magpadala ng mga mensaheng lumililitaw na mula sa mga may-ari ng kalendaryo, o magbago ng mga kaganapan nang hindi nalalaman ng mga may-ari.</string>
     <string name="permlab_accessMockLocation">gayahin ang mga pinagmumulan ng lokasyon para sa pagsusuri</string>
     <string name="permdesc_accessMockLocation">Lumikha ng mga mock na pinagmulan ng lokasyon para sa pagsubok o mag-install ng bagong provider ng lokasyon. Pinapayagan nito ang app na i-override ang lokasyon at/o katayuan na ibinabalik ng iba pang mga pinagmulan ng lokasyon gaya ng GPS o mga provider ng lokasyon.</string>
     <string name="permlab_accessLocationExtraCommands">i-access ang mga dagdag na command ng provider ng lokasyon</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Pinapayagan ang app na kumuha ng mga larawan at video gamit ang camera. Pinapayagan ng pahintulot na ito ang app na gamitin ang camera anumang oras nang wala ng iyong kumpirmasyon.</string>
     <string name="permlab_cameraDisableTransmitLed">i-disable ang LED na tagapagpahiwatig kapag ginagamit ang camera</string>
     <string name="permdesc_cameraDisableTransmitLed">Pinapayagan ang isang paunang na-install na application ng system na i-disable ang LED na tagapagpahiwatig ng paggamit sa camera.</string>
-    <string name="permlab_brick">permanenteng huwag paganahin ang tablet</string>
-    <string name="permdesc_brick">Pinapayagan ang app na huwag paganahin nang permanente ang buong tablet. Lubos itong mapanganib.</string>
-    <string name="permlab_reboot">puwersahin ang pag-reboot ng tablet</string>
-    <string name="permdesc_reboot">Pinapayagan ang app na puwersahin ang tablet upang mag-reboot.</string>
+    <string name="permlab_brick">permanenteng huwag paganahin ang telepono</string>
+    <string name="permdesc_brick">Pinapayagan ang app na huwag paganahin nang permanente ang buong telepono. Lubos itong mapanganib.</string>
+    <string name="permlab_reboot">puwersahin ang pag-reboot ng telepono</string>
+    <string name="permdesc_reboot">Pinapayagan ang app na puwersahing i-reboot ang telepono.</string>
     <string name="permlab_mount_unmount_filesystems">access filesystem USB storage</string>
     <string name="permdesc_mount_unmount_filesystems">Pinapayagan ang app na i-mount at i-unmount ang mga filesystem para sa naaalis na storage.</string>
     <string name="permlab_mount_format_filesystems">burahin ang imbakan ng USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Pinapayagan ang app na tumawag sa mga numero ng telepono nang wala ng iyong panghihimasok. Maaari itong magresulta sa mga hindi inaasahang pagsingil o tawag. Tandaan na hindi nito pinapayagan ang app na tumawag sa mga numerong pang-emergency. Maaaring magpagastos sa iyo ng pera ang nakakahamak na apps sa pamamagitan ng pagtawag nang wala ng iyong kumpirmasyon.</string>
     <string name="permlab_callPrivileged">direktang tawagan ang anumang numero ng telepono</string>
     <string name="permdesc_callPrivileged">Pinapayagan ang app na tumawag sa anumang numero ng telepono, kabilang ang mga numerong pang-emergency, nang wala ang iyong pamamagitan. Maaaring magsagawa ang nakakahamak na apps ng hindi kinakailangan at hindi legal na mga tawag sa mga serbisyong pang-emergency.</string>
-    <string name="permlab_performCdmaProvisioning">direktang simulan ang setup ng CDMA tablet</string>
+    <string name="permlab_performCdmaProvisioning">direktang simulan ang pag-set up ng CDMA na telepono</string>
     <string name="permdesc_performCdmaProvisioning">Pinapayagan ang app na simulan ang paglalaan ng CDMA. Maaaring simulan nang hindi kinakailangan ng nakakahamak na apps ang paglalaan ng CDMA.</string>
     <string name="permlab_locationUpdates">kotrolin ang mga notification ng pag-update ng lokasyon</string>
     <string name="permdesc_locationUpdates">Pinapayagan ang app na paganahin/huwag paganahain ang mga notification ng update sa lokasyon mula sa radyo. Hindi para sa paggamit ng normal na apps.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Pinapayagan ang app na kontrolin ang mga tampok ng telepono ng device. Maaaring lumipat ng mga network ang isang app na mayroong ganitong pahintulot, i-on o i-off ang radyo ng telepono at mga kaparehong bagay nang hindi ka nano-notify.</string>
     <string name="permlab_readPhoneState">basahin ang katayuan at pagkakakilanlan ng telepono</string>
     <string name="permdesc_readPhoneState">"Pinapayagan ang app na i-access ang mga tampok ng telepono ng device. Pinapayagan ng pahintulot na ito ang app na tukuyin ang numero ng telepono at  mga ID ng device, kung aktibo man ang isang tawag, at ang malayuang numerong ikinonekta ng isang tawag."</string>
-    <string name="permlab_wakeLock">pigilan ang tablet mula sa pag-sleep</string>
-    <string name="permdesc_wakeLock">Pinapayagan ang app na pigilan ang tablet mula sa pag-sleep.</string>
-    <string name="permlab_devicePower">i-on o i-off ang power tablet</string>
-    <string name="permdesc_devicePower">Pinapayagan ang app na i-on o i-off ang tablet.</string>
+    <string name="permlab_wakeLock">pigilan ang telepono mula sa paghinto</string>
+    <string name="permdesc_wakeLock">Pinapayagan ang app na pigilan ang telepono mula sa pag-sleep.</string>
+    <string name="permlab_devicePower">i-on o i-off ang telepono</string>
+    <string name="permdesc_devicePower">Pinapayagan ang app na i-on o i-off ang telepono.</string>
     <string name="permlab_factoryTest">tumakbo sa factory test mode</string>
-    <string name="permdesc_factoryTest">Patakbuhin bilang isang pagsubok ng mababang antas na gumagawa, na pumapayag sa kumpletong access sa hardware ng tablet. Available lang kapag tumatakbo ang isang tablet sa mode na pagsubok ng gumagawa.</string>
+    <string name="permdesc_factoryTest">Patakbuhin bilang mababang antas na pagsubok ng gumawa, na nagpapahintulot ng kumpletong access sa hardware ng telepono. Available lang kapag tumatakbo ang telepono sa test mode ng gumawa.</string>
     <string name="permlab_setWallpaper">itakda ang wallpaper</string>
     <string name="permdesc_setWallpaper">Pinapayagan ang app na itakda ang wallpaper ng system.</string>
     <string name="permlab_setWallpaperHints">isaayos ang laki ng iyong wallpaper</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">i-reset ang system sa mga factory default</string>
     <string name="permdesc_masterClear">Pinapayagan ang app na ganap na i-reset ang system sa mga setting ng factory nito, na binubura ang lahat ng data, configuration, at naka-install na apps.</string>
     <string name="permlab_setTime">itakda ang oras</string>
-    <string name="permdesc_setTime">Pinapayagan ang app na baguhin ang oras ng tablet.</string>
+    <string name="permdesc_setTime">Pinapayagan ang app na baguhin ang oras ng telepono.</string>
     <string name="permlab_setTimeZone">itakda ang time zone</string>
-    <string name="permdesc_setTimeZone">Pinapayagan ang app na baguhin ang time zone ng tablet.</string>
+    <string name="permdesc_setTimeZone">Pinapayagan ang app na baguhin ang time zone ng telepono.</string>
     <string name="permlab_accountManagerService">gumanap bilang AccountManagerService</string>
     <string name="permdesc_accountManagerService">Pinapayagan ang app na tumawag sa AccountAuthenticators.</string>
     <string name="permlab_getAccounts">maghanap ng mga account sa device</string>
-    <string name="permdesc_getAccounts">Pinapayagan ang app na kunin ang listahan ng mga account na alam ng tablet. Maaari itong kabilangan ng anumang mga account na nililikha ng mga application na iyong na-install.</string>
+    <string name="permdesc_getAccounts">Pinapayagan ang app na kunin ang listahan ng mga account na alam ng telepono. Maaari itong kabilangan ng anumang mga account na nililikha ng mga application na iyong na-install.</string>
     <string name="permlab_authenticateAccounts">lumikha ng mga account at magtakda ng mga password</string>
     <string name="permdesc_authenticateAccounts">Pinapayagan ang app na gamitin ang mga kakayahan ng tagapagpatunay ng account ng AccountManager, kabilang ang paglikha ng mga account at pagkuha at pagtatakda ng mga password ng mga ito.</string>
     <string name="permlab_manageAccounts">magdagdag o mag-alis ng mga account</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">kumonekta at magdiskonekta mula sa Wi-Fi</string>
     <string name="permdesc_changeWifiState">Pinapayagan ang app na kumonekta sa at magdiskonekta mula sa mga Wi-Fi access point at na gumawa ng mga pagbabago sa configuration ng device para sa mga Wi-Fi network.</string>
     <string name="permlab_changeWifiMulticastState">payagan ang pagtanggap ng Wi-Fi Multicast</string>
-    <string name="permdesc_changeWifiMulticastState">Pinapayagan ang app na tumanggap ng mga packet na ipinapadala sa lahat ng device sa isang Wi-Fi network gamit ang mga multicast na address, hindi lang sa iyong tablet. Gumagamit ito ng higit na power kaysa sa mode na hindi multicast.</string>
+    <string name="permdesc_changeWifiMulticastState">Pinapayagan ang app na tumanggap ng mga packet na ipinapadala sa lahat ng device sa isang Wi-Fi network gamit ang mga multicast na address, hindi lang sa iyong telepono. Gumagamit ito ng higit na power kaysa sa mode na hindi multicast.</string>
     <string name="permlab_bluetoothAdmin">I-access ang mga setting ng Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Pinapayagan ang app na i-configure ang lokal na Bluetooth tablet, at tumuklas ng at ipares sa mga malayuang device.</string>
+    <string name="permdesc_bluetoothAdmin">Pinapayagan ang app na i-configure ang lokal na Bluetooth na telepono, at tumuklas ng at ipares sa mga malayuang device.</string>
     <string name="permlab_accessWimaxState">kumonekta at magdiskonekta mula sa WiMAX</string>
     <string name="permdesc_accessWimaxState">Pinapayagan ang app na tukuyin kung pinapagana ang WiMAX at impormasyon tungkol sa anumang mga WiMAX network na nakakonekta.</string>
     <string name="permlab_changeWimaxState">Baguhin ang katayuan ng WiMAX</string>
-    <string name="permdesc_changeWimaxState">Pinapayagan ang app na ikonekta ang tablet at idiskonekta ang tablet mula sa mga WiMAX network.</string>
+    <string name="permdesc_changeWimaxState">Pinapayagan ang app na ikonekta ang telepono at idiskonekta ang telepono mula sa mga WiMAX network.</string>
     <string name="permlab_bluetooth">ipares sa mga Bluetooth device</string>
-    <string name="permdesc_bluetooth">Pinapayagan ang app na tingnan ang configuration ng Bluetooth sa tablet, at na gumawa at tumanggap ng mga koneksyong may mga nakapares na device.</string>
+    <string name="permdesc_bluetooth">Pinapayagan ang app na tingnan ang configuration ng Bluetooth sa telepono, at na gumawa at tumanggap ng mga koneksyong may mga nakapares na device.</string>
     <string name="permlab_nfc">kontrolin ang Near Field Communication</string>
     <string name="permdesc_nfc">Pinapayagan ang app na makipag-ugnay sa Near Field Communication (NFC) na mga tag, card, at reader.</string>
     <string name="permlab_disableKeyguard">huwag paganahin ang iyong lock ng screen</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Magtakda ng mga panuntunan sa password</string>
     <string name="policydesc_limitPassword">Kontrolin ang haba at mga character na pinapayagan sa mga password sa pag-unlock ng screen.</string>
     <string name="policylab_watchLogin">Subaybayan ang mga pagsubok sa pag-unlock ng screen</string>
-    <string name="policydesc_watchLogin">Subaybayan ang bilang ng mga hindi tamang password na na-type kapag ina-unlock ang screen, at i-lock ang tablet o burahin ang lahat ng data ng tablet kung masyadong maraming hindi tamang password ang na-type.</string>
+    <string name="policydesc_watchLogin">Subaybayan ang bilang ng mga hindi tamang password na na-type. kapag ina-unlock ang screen, at i-lock ang telepono o burahin ang lahat ng data ng telepono kung masyadong maraming hindi tamang password ang na-type.</string>
     <string name="policylab_resetPassword">Palitan ang password sa pag-unlock ng screen</string>
     <string name="policydesc_resetPassword">Palitan ang password sa pag-unlock ng screen.</string>
     <string name="policylab_forceLock">I-lock ang screen</string>
     <string name="policydesc_forceLock">Kontrolin kung paano at kailan magla-lock ang screen.</string>
     <string name="policylab_wipeData">Burahin ang lahat ng data</string>
-    <string name="policydesc_wipeData">Burahin ang data ng tablet nang walang babala sa pamamagitan ng pagsasagawa ng pag-reset ng factory data.</string>
+    <string name="policydesc_wipeData">Burahin ang data ng telepono nang walang babala sa pamamagitan ng pagsasagawa ng pag-reset ng factory data.</string>
     <string name="policylab_setGlobalProxy">Itakda ang pandaigdigang proxy ng device</string>
     <string name="policydesc_setGlobalProxy">Itakda ang pandaigdigang proxy ng device na gagamitin habang pinagana ang patakaran. Tanging ang unang admin ng device ang magtatakda sa may bisang pandaigdigang proxy.</string>
     <string name="policylab_expirePassword">Itakda expire password pag-lock scr</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Ikonekta ang iyong charger.</string>
     <string name="lockscreen_missing_sim_message_short">Walang SIM card</string>
-    <string name="lockscreen_missing_sim_message">Walang SIM card sa tablet.</string>
+    <string name="lockscreen_missing_sim_message">Walang SIM card sa telepono.</string>
     <string name="lockscreen_missing_sim_instructions">Maglagay ng isang SIM card.</string>
     <string name="lockscreen_missing_sim_instructions_long">Nawawala o hindi nababasa ang SIM card. Maglagay ng isang SIM card.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Hindi nagagamit na SIM card.</string>
@@ -778,11 +778,11 @@ Subukang muli sa loob ng %d (na) segundo."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Na-type mo nang mali ang iyong PIN nang %d (na) beses. 
 
 Subukang muli sa loob ng %d (na) segundo."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Naiguhit mo nang hindi tama ang iyong pattern sa pag-unlock nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, hihilingin sa iyong i-unlock ang iyong tablet gamit ang iyong pag-sign-in sa Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Naguhit mo nang mali ang iyong pattern sa pag-unlock nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, hihilingin sa iyong i-unlock ang iyong telepono gamit ang iyong pag-sign-in sa Google.
 
  Subukang muli sa loob ng %d (na) segundo."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Mali mong tinangkang ma-unlock ang tablet nang %d (na) beses. Pagkatapos ng %d pang mga hindi matagumpay na pagtatangka, mare-reset ang tablet sa factory default at mawawala ang lahat ng data ng user.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Mali mong tinangkang ma-unlock ang tablet nang %d (na) beses. Mare-reset na ngayon ang tablet sa factory default.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Mali mong tinangkang ma-unlock ang telepono nang %d (na) beses. Pagkatapos ng %d pang mga hindi matagumpay na pagtatangka, mare-reset ang telepono sa factory default at mawawala ang lahat ng data ng user.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Mali mong tinangkang ma-unlock ang telepono nang %d (na) beses. Mare-reset na ang telepono sa factory default.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Subukang muli sa loob ng %d (na) segundo.</string>
     <string name="lockscreen_forgot_pattern_button_text">Nakalimutan ang pattern?</string>
     <string name="lockscreen_glogin_forgot_pattern">Pag-unlock sa account</string>
@@ -867,7 +867,7 @@ Sigurado ka bang gusto mong mag-navigate paalis sa pahinang ito?"</string>
     <string name="permlab_readHistoryBookmarks">basahin ang iyong mga bookmark at kasaysayan sa Web</string>
     <string name="permdesc_readHistoryBookmarks">Pinapayagan ang app na basahin ang kasaysayan ng lahat ng URL na binisita ng Browser, at lahat ng bookmark ng Browser. Tandaan: hindi maaaring ipatupad ang pahintulot na ito ng mga third-party na browser o iba pang mga application na may mga kakayahan sa pagba-browse sa web.</string>
     <string name="permlab_writeHistoryBookmarks">magsulat ng mga bookmark at kasaysayan sa web</string>
-    <string name="permdesc_writeHistoryBookmarks">Pinapayagan ang app na baguhin ang kasaysayan o mga bookmark ng Browser na naka-imbak sa iyong tablet. Maaari nitong payagan ang app na burahin o baguhin ang data ng Browser. Tandaan: hindi maaaring ipatupad ang pahintulot na ito ng mga third-party na browser o iba pang mga application na may mga kakayahan sa pagba-browse sa web.</string>
+    <string name="permdesc_writeHistoryBookmarks">Pinapayagan ang app na baguhin ang kasaysayan o mga bookmark ng Browser na naka-imbak sa iyong telepono. Maaari nitong payagan ang app na burahin o baguhin ang data ng Browser. Tandaan: hindi maaaring ipatupad ang pahintulot na ito ng mga third-party na browser o iba pang mga application na may mga kakayahan sa pagba-browse sa web.</string>
     <string name="permlab_setAlarm">magtakda ng alarm</string>
     <string name="permdesc_setAlarm">Pinapayagan ang app na magtakda ng alarm sa isang naka-install na app ng alarm clock. Maaaring hindi ipatupad ng ilang apps ng alarm clock ang tampok na ito.</string>
     <string name="permlab_addVoicemail">magdagdag ng voicemail</string>
@@ -901,7 +901,7 @@ Sigurado ka bang gusto mong mag-navigate paalis sa pahinang ito?"</string>
     <string name="searchview_description_submit">Isumite ang query</string>
     <string name="searchview_description_voice">Paghahanap gamit ang boses</string>
     <string name="enable_explore_by_touch_warning_title">Paganahin ang Galugad sa pagpindot?</string>
-    <string name="enable_explore_by_touch_warning_message">Nais paganahin ng %1$s ang Galugarin sa pamamagitan ng pagpindot. Kapag naka-on ang Galugarin sa pamamagitan ng pagpindot, maaari mong marinig o makita ang mga paglalarawan ng nasa ilalim ng iyong daliri o maaari kang magsagawa ng mga galaw upang makipag-ugnayan sa tablet.</string>
+    <string name="enable_explore_by_touch_warning_message">Nais paganahin ng %1$s ang Galugarin sa pamamagitan ng pagpindot. Kapag naka-on ang Galugarin sa pamamagitan ng pagpindot, maaari mong marinig o makita ang mga paglalarawan ng nasa ilalim ng iyong daliri o maaari kang magsagawa ng mga galaw upang makipag-ugnayan sa telepono.</string>
     <string name="oneMonthDurationPast">1 buwan ang nakalipas</string>
     <string name="beforeOneMonthDurationPast">Bago ang nakalipas na 1 buwan</string>
     <string name="last_month">Nakaraang buwan</string>
@@ -1025,7 +1025,7 @@ Nais mo ba itong isara?"</string>
     <string name="wifi_p2p_to_message">Kay:</string>
     <string name="wifi_p2p_enter_pin_message">I-type ang kinakailangang PIN:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Pansamantalang madidiskoneta ang tablet sa Wi-Fi habang nakakonekta ito sa %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">Pansamantalang madidiskoneta ang telepono sa Wi-Fi habang nakakonekta ito sa %1$s</string>
     <string name="select_character">Magpasok ng character</string>
     <string name="sms_control_title">Nagpapadala ng mga SMS na mensahe</string>
     <string name="sms_control_message">Ang &lt;b>%1$s&lt;/b> ay nagpapadala ng maraming mensaheng SMS. Gusto mo bang payagan ang app na ito na magpatuloy sa pagpapadala ng mga mensahe?</string>
@@ -1274,7 +1274,7 @@ para sa account na %s."</string>
     <string name="SetupCallDefault">Tanggapin ang tawag?</string>
     <string name="activity_resolver_use_always">Palagi</string>
     <string name="activity_resolver_use_once">Isang beses lang</string>
-    <string name="default_audio_route_name">Tablet</string>
+    <string name="default_audio_route_name">Telepono</string>
     <string name="default_audio_route_name_headphones">Mga Headphone</string>
     <string name="default_audio_route_name_dock_speakers">Mga speaker ng dock</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Subukang muli sa loob ng %d (na) segundo."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Naguhit mo nang hindi tama ang iyong pattern sa pag-unlock nang %d (na) beses. 
 
 Subukang muli sa loob ng %d (na) segundo."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tinangka mo sa hindi tamang paraan na i-unlock ang tabelt nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, ire-reset ang tablet sa factory default at mawawala ang lahat ng data ng user.</string>
-    <string name="kg_failed_attempts_now_wiping">Tinangka mo sa hindi tamang paraan na i-unlock ang tablet nang %d (na) beses. Ire-reset na ngayon ang tablet sa factory default.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Naguhit mo nang hindi tama ang iyong pattern sa pag-unlock nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, hihilingin sa iyong i-unlock ang tablet mo gamit ang isang email account.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tinangka mo sa hindi tamang paraan na i-unlock ang telepono nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, ire-reset ang telepono sa factory default at mawawala ang lahat ng data ng user.</string>
+    <string name="kg_failed_attempts_now_wiping">Tinangka mo sa hindi tamang paraan na i-unlock ang telepono nang %d (na) beses. Ire-reset na ngayon ang telepono sa factory default.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Naguhit mo nang hindi tama ang iyong pattern sa pag-unlock nang %d (na) beses. Pagkatapos ng %d pang hindi matagumpay na pagtatangka, hihilingin sa iyong i-unlock ang telepono mo gamit ang isang email account.
 
  Subukang muli sa loob ng %d (na) segundo."</string>
     <string name="kg_text_message_separator">" — "</string>

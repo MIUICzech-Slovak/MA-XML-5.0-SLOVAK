@@ -180,9 +180,9 @@
     <string name="contentServiceSync">مزامنة</string>
     <string name="contentServiceSyncNotificationTitle">مزامنة</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">عمليات حذف %s كثيرة للغاية.</string>
-    <string name="low_memory">سعة تخزين الجهاز اللوحي ممتلئة! احذف بعض الملفات لإخلاء مساحة.</string>
+    <string name="low_memory">سعة تخزين الهاتف ممتلئة. احذف بعض الملفات لإخلاء مساحة.</string>
     <string name="me">أنا</string>
-    <string name="power_dialog">خيارات الجهاز اللوحي</string>
+    <string name="power_dialog">خيارات الهاتف</string>
     <string name="silent_mode">وضع صامت</string>
     <string name="turn_on_radio">تشغيل اللاسلكي</string>
     <string name="turn_off_radio">إيقاف تشغيل الشبكة اللاسلكية</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">اهتزاز الرنين</string>
     <string name="silent_mode_ring">تشغيل الرنين</string>
     <string name="shutdown_progress">جارٍ إيقاف التشغيل...</string>
-    <string name="shutdown_confirm">سيتم إيقاف تشغيل الجهاز اللوحي.</string>
+    <string name="shutdown_confirm">سيتم إيقاف تشغيل هاتفك.</string>
     <string name="shutdown_confirm_question">هل تريد إيقاف التشغيل؟</string>
     <string name="reboot_safemode_title">إعادة تشغيل في الوضع الآمن</string>
     <string name="reboot_safemode_confirm">هل تريد إعادة تشغيل الكمبيوتر في الوضع الآمن؟ سيؤدي ذلك إلى تعطيل جميع تطبيقات الجهات الخارجية التي تم تثبيتها. ستتم استعادتها عند إعادة التشغيل مرة أخرى.</string>
     <string name="recent_tasks_title">حديثة</string>
     <string name="no_recent_tasks">ليست هناك تطبيقات حديثة.</string>
-    <string name="global_actions">خيارات الجهاز اللوحي</string>
+    <string name="global_actions">خيارات الهاتف</string>
     <string name="global_action_lock">تأمين الشاشة</string>
     <string name="global_action_power_off">إيقاف التشغيل</string>
     <string name="global_action_bug_report">تقرير الأخطاء</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">إرسال أحداث يتم الرد عليها عبر رسالة</string>
     <string name="permdesc_sendRespondViaMessageRequest">السماح للتطبيق بإرسال طلبات إلى تطبيقات المراسلة الأخرى للتعامل مع الأحداث التي يتم الرد عليها عبر الرسائل في المكالمات الواردة.</string>
     <string name="permlab_readSms">قراءة الرسائل النصية (الرسائل القصيرة SMS أو رسائل الوسائط المتعددة)</string>
-    <string name="permdesc_readSms">للسماح للتطبيق بقراءة الرسائل القصيرة SMS المخزنة على الجهاز اللوحي أو على بطاقة SIM. ويتيح هذا للتطبيق قراءة جميع الرسائل القصيرة SMS، بغض النظر عن المحتوى أو مدى السرية.</string>
+    <string name="permdesc_readSms">للسماح للتطبيق بقراءة الرسائل القصيرة SMS المخزنة على هاتفك أو على بطاقة SIM. ويتيح هذا للتطبيق قراءة جميع الرسائل القصيرة SMS، بغض النظر عن المحتوى أو مدى السرية.</string>
     <string name="permlab_writeSms">تعديل الرسائل النصية (الرسائل القصيرة SMS أو رسائل الوسائط المتعددة)</string>
-    <string name="permdesc_writeSms">للسماح للتطبيق بالكتابة إلى الرسائل القصيرة SMS المخزّنة على الجهاز اللوحي أو بطاقة SIM. قد تحذف التطبيقات الضارة رسائلك.</string>
+    <string name="permdesc_writeSms">للسماح للتطبيق بالكتابة إلى الرسائل القصيرة SMS المخزّنة على الهاتف أو بطاقة SIM. قد تحذف التطبيقات الضارة رسائلك.</string>
     <string name="permlab_receiveWapPush">تلقي رسائل نصية (WAP)</string>
     <string name="permdesc_receiveWapPush">للسماح للتطبيق بتلقي رسائل WAP ومعالجتها. ويتضمن هذا الإذن إمكانية مراقبة الرسائل التي يتم إرسالها إليك أو حذفها بدون عرضها لك.</string>
     <string name="permlab_getTasks">استرداد التطبيقات التي قيد التشغيل</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">تجميد الشاشة</string>
     <string name="permdesc_freezeScreen">للسماح للتطبيق بتجميد الشاشة مؤقتًا لإجراء انتقال بملء الشاشة.</string>
     <string name="permlab_injectEvents">مفاتيح الضغط وأزرار التحكم</string>
-    <string name="permdesc_injectEvents">للسماح للتطبيق بتسليم أحداث الإرسال الخاصة به (ضغطات المفاتيح وغير ذلك) إلى تطبيقات أخرى. يمكن أن تستخدم التطبيقات الضارة ذلك للاستحواذ على الجهاز اللوحي.</string>
+    <string name="permdesc_injectEvents">للسماح للتطبيق بتسليم أحداث الإرسال الخاصة به (ضغطات المفاتيح وغير ذلك) إلى تطبيقات أخرى. يمكن أن تستخدم التطبيقات الضارة ذلك للاستحواذ على الهاتف.</string>
     <string name="permlab_readInputState">تسجيل ما تكتبه والإجراءات التي تتخذها</string>
     <string name="permdesc_readInputState">للسماح للتطبيقات بمراقبة الأحرف التي تضغط عليها حتى عند التفاعل مع تطبيق آخر (مثل إدخال كلمة مرور). لن تكون هناك حاجة إليه مطلقًا مع التطبيقات العادية.</string>
     <string name="permlab_bindInputMethod">الالتزام بطريقة إرسال ما</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">إرسال إشارات Linux للتطبيقات</string>
     <string name="permdesc_signalPersistentProcesses">للسماح للتطبيق بطلب إرسال الإشارة المزوّدة لجميع العمليات المستمرة.</string>
     <string name="permlab_persistentActivity">تشغيل التطبيق دائمًا</string>
-    <string name="permdesc_persistentActivity">للسماح للتطبيق بجعل أجزاء منه ثابتة في الذاكرة. وقد يؤدي هذا إلى تقييد الذاكرة المتاحة للتطبيقات الأخرى مما يؤدي إلى حدوث بطء في الجهاز اللوحي.</string>
+    <string name="permdesc_persistentActivity">للسماح للتطبيق بجعل أجزاء منه ثابتة في الذاكرة. وقد يؤدي هذا إلى تقييد الذاكرة المتاحة للتطبيقات الأخرى مما يؤدي إلى حدوث بطء في الهاتف.</string>
     <string name="permlab_deletePackages">حذف التطبيقات</string>
     <string name="permdesc_deletePackages">للسماح للتطبيق بحذف حزم Android. يمكن أن تستخدم التطبيقات الضارة ذلك لحذف التطبيقات المهمة.</string>
     <string name="permlab_clearAppUserData">حذف بيانات التطبيقات الأخرى</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">تثبيت التطبيقات مباشرة</string>
     <string name="permdesc_installPackages">للسماح للتطبيق بتثبيت حزم Android الجديدة أو المحدّثة. يمكن أن تستخدم التطبيقات الضارة ذلك لإضافة تطبيقات جديدة ذات أذونات قوية على نحو عشوائي.</string>
     <string name="permlab_clearAppCache">حذف جميع بيانات ذاكرة التخزين المؤقت للتطبيق</string>
-    <string name="permdesc_clearAppCache">للسماح للتطبيق بتفريغ سعة تخزين الجهاز اللوحي من خلال حذف الملفات من أدلة ذاكرة التخزين المؤقت للتطبيقات الأخرى. قد يتسبب هذا في تشغيل التطبيقات الأخرى بشكل أكثر بطئًا حيث يلزمها إعادة استرداد بياناتها.</string>
+    <string name="permdesc_clearAppCache">للسماح للتطبيق بتفريغ مساحة تخزين الهاتف من خلال حذف الملفات من أدلة ذاكرة التخزين المؤقت للتطبيقات الأخرى. قد يتسبب هذا في تشغيل التطبيقات الأخرى بشكل أكثر بطئًا حيث يلزمها إعادة استرداد بياناتها.</string>
     <string name="permlab_movePackage">نقل موارد التطبيقات</string>
     <string name="permdesc_movePackage">للسماح للتطبيق بنقل موارد التطبيقات من الوسائط الداخلية إلى الوسائط الخارجية والعكس.</string>
     <string name="permlab_readLogs">قراءة بيانات السجل الحساسة</string>
-    <string name="permdesc_readLogs">للسماح للتطبيق بالقراءة من ملفات سجلات النظام المتنوعة. ويسمح ذلك للتطبيق باكتشاف المعلومات العامة حول ما تفعله بالجهاز اللوحي، ومن المحتمل أن يتضمن معلومات شخصية أو خاصة.</string>
+    <string name="permdesc_readLogs">للسماح للتطبيق بالقراءة من ملفات سجلات النظام المتنوعة. ويسمح ذلك للتطبيق باكتشاف المعلومات العامة حول ما تفعله بالهاتف، ومن المحتمل أن يتضمن معلومات شخصية أو خاصة.</string>
     <string name="permlab_anyCodecForPlayback">استخدام أي برنامج فك تشفير وسائط من أجل التشغيل</string>
     <string name="permdesc_anyCodecForPlayback">السماح للتطبيق باستخدام أي برنامج فك تشفير وسائط مثبت لفك التشفير من أجل التشغيل.</string>
     <string name="permlab_diagnostic">قراءة/كتابة إلى الموارد المملوكة بواسطة التشخيص</string>
     <string name="permdesc_diagnostic">للسماح للتطبيق بالقراءة والكتابة إلى أي مورد مملوك بواسطة مجموعة التشخيصات؛ على سبيل المثال، الملفات في /dev. من المحتمل أن يؤثر ذلك في استقرار النظام وأمانه. يجب ألا يستخدم ذلك سوى للتشخيصات الخاصة بالنظام من قِبل المصنِّع أو المشغِّل.</string>
     <string name="permlab_changeComponentState">تمكين مكونات التطبيق أو تعطيلها</string>
-    <string name="permdesc_changeComponentState">للسماح للتطبيق بتغيير ما إذا كان سيتم تمكين مكون لتطبيق آخر أم لا. يمكن أن تستخدم التطبيقات الضارة ذلك لتعطيل قدرات الجهاز اللوحي المهمة. يجب توخي الحذر عند استخدام هذا الإذن، وذلك لأنه من الممكن أن يؤدي ذلك إلى جعل حالة مكونات التطبيق غير قابلة للاستخدام أو غير متناسقة أو غير مستقرة.</string>
+    <string name="permdesc_changeComponentState">للسماح للتطبيق بتغيير ما إذا كان سيتم تمكين مكون لتطبيق آخر أم لا. يمكن أن تستخدم التطبيقات الضارة ذلك لتعطيل قدرات الهاتف المهمة. يجب توخي الحذر عند استخدام هذا الإذن، وذلك لأنه من الممكن أن يؤدي ذلك إلى جعل حالة مكونات التطبيق غير قابلة للاستخدام أو غير متناسقة أو غير مستقرة.</string>
     <string name="permlab_grantRevokePermissions">منح الأذونات أو إلغائها</string>
     <string name="permdesc_grantRevokePermissions">للسماح لأحد التطبيقات بمنح أذونات محددة أو إلغائها لنفسه أو لتطبيقات أخرى. قد تستخدم التطبيقات الضارة هذا للدخول إلى ميزات لم تمنحها إذنًا لدخولها.</string>
     <string name="permlab_setPreferredApplications">تعيين التطبيقات المفضلة</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">تعديل خريطة خدمات Google</string>
     <string name="permdesc_writeGservices">للسماح للتطبيق بتعديل خريطة خدمات Google. ليس للاستخدام بواسطة التطبيقات العادية.</string>
     <string name="permlab_receiveBootCompleted">العمل عند بدء التشغيل</string>
-    <string name="permdesc_receiveBootCompleted">للسماح للتطبيق ببدء تشغيل نفسه عقب انتهاء النظام من التشغيل. قد يؤدي ذلك إلى استغراق المزيد من الوقت عند بدء الجهاز اللوحي والسماح للتطبيق بإبطاء الأداء الإجمالي للجهاز اللوحي من خلال تشغيله دائمًا.</string>
+    <string name="permdesc_receiveBootCompleted">للسماح للتطبيق ببدء تشغيل نفسه عقب انتهاء النظام من التشغيل. قد يؤدي ذلك إلى استغراق المزيد من الوقت عن بدء الهاتف والسماح للتطبيق بإبطاء الأداء الإجمالي للهاتف حيث يتم تشغيله دائمًا.</string>
     <string name="permlab_broadcastSticky">إرسال بث طويل الزيارة</string>
-    <string name="permdesc_broadcastSticky">للسماح للتطبيق بإرسال مجموعات بث مستمرة، والتي تظل بعد انتهاء البث. قد يؤدي الاستخدام بكثرة إلى حدوث بطء أو عدم استقرار في الجهاز اللوحي من خلال التسبب في استخدام الجهاز اللوحي لمساحة كبيرة للغاية من الذاكرة.</string>
+    <string name="permdesc_broadcastSticky">للسماح للتطبيق بإرسال مجموعات بث مستمرة، والتي تظل بعد انتهاء البث. قد يؤدي الاستخدام بكثرة إلى حدوث بطء أو عدم استقرار في الهاتف من خلال التسبب في استخدام الهاتف لمساحة كبيرة للغاية من الذاكرة.</string>
     <string name="permlab_readContacts">قراءة جهات الاتصال</string>
-    <string name="permdesc_readContacts">للسماح للتطبيق بقراءة بيانات حول جهات الاتصال المخزنة على الجهاز اللوحي، بما في ذلك مدى تكرار اتصالك بأفراد بعينهم أو مراسلتهم عبر البريد الإلكتروني أو التواصل معهم بطرق أخرى خلافًا لذلك. ويتيح هذا الإذن للتطبيقات حفظ بيانات جهات الاتصال، وقد تشارك التطبيقات الضارة بيانات جهات الاتصال بدون معرفتك.</string>
+    <string name="permdesc_readContacts">للسماح للتطبيق بقراءة بيانات حول جهات الاتصال المخزنة على الهاتف، بما في ذلك مدى تكرار اتصالك بأفراد بعينهم أو مراسلتهم عبر البريد الإلكتروني أو التواصل معهم بطرق أخرى خلافًا لذلك. ويتيح هذا الإذن للتطبيقات حفظ بيانات جهات الاتصال، وقد تشارك التطبيقات الضارة بيانات جهات الاتصال بدون معرفتك.</string>
     <string name="permlab_writeContacts">تعديل جهات الاتصال</string>
-    <string name="permdesc_writeContacts">للسماح للتطبيق بتعديل البيانات حول جهات الاتصال المخزنة على جهازك اللوحي، بما في ذلك مدى تكرار اتصالك بجهات اتصال بعينها أو مراسلتها عبر البريد الإلكتروني أو التواصل معها بأية طريقة أخرى خلافًا لذلك. وقد يتيح هذا الإذن للتطبيقات حذف بيانات جهات الاتصال.</string>
+    <string name="permdesc_writeContacts">للسماح للتطبيق بتعديل البيانات حول جهات الاتصال المخزنة على هاتفك، بما في ذلك مدى تكرار اتصالك بجهات اتصال بعينها أو مراسلتها عبر البريد الإلكتروني أو التواصل معها بأية طريقة أخرى خلافًا لذلك. وقد يتيح هذا الإذن للتطبيقات حذف بيانات جهات الاتصال.</string>
     <string name="permlab_readCallLog">قراءة سجل المكالمات</string>
-    <string name="permdesc_readCallLog">للسماح للتطبيق بقراءة سجل مكالمات الجهاز اللوحي، بما في ذلك البيانات حول المكالمات الواردة والصادرة. ويتيح هذا الإذن للتطبيق حفظ بيانات سجل المكالمات، وقد تشارك التطبيقات الضارة بيانات سجل المكالمات بدون معرفتك.</string>
+    <string name="permdesc_readCallLog">للسماح للتطبيق بقراءة سجل مكالمات الهاتف، بما في ذلك البيانات حول المكالمات الواردة والصادرة. ويتيح هذا الإذن للتطبيق حفظ بيانات سجل المكالمات، وقد تشارك التطبيقات الضارة بيانات سجل المكالمات بدون معرفتك.</string>
     <string name="permlab_writeCallLog">كتابة سجل المكالمات</string>
-    <string name="permdesc_writeCallLog">للسماح للتطبيق بتعديل سجل مكالمات الجهاز اللوحي، بما في ذلك البيانات عن المكالمات الواردة والصادرة. وربما تستخدم التطبيقات الضارة هذا لمسح سجل المكالمات أو تعديله.</string>
+    <string name="permdesc_writeCallLog">للسماح للتطبيق بتعديل سجل مكالمات الهاتف، بما في ذلك البيانات عن المكالمات الواردة والصادرة. وربما تستخدم التطبيقات الضارة هذا لمحو سجل المكالمات أو تعديله.</string>
     <string name="permlab_readProfile">قراءة بطاقة الاتصال الخاصة</string>
     <string name="permdesc_readProfile">للسماح للتطبيق بقراءة المعلومات الشخصية في الملف الشخصي المخزنة على الجهاز، مثل اسمك ومعلومات جهات الاتصال. ويعني ذلك أنه يمكن للتطبيق التعرف عليك كما يمكنه إرسال معلومات ملفك الشخصي إلى الآخرين.</string>
     <string name="permlab_writeProfile">تعديل بطاقة جهة الاتصال الخاصة</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">كتابة إلى المشاركات الاجتماعية</string>
     <string name="permdesc_writeSocialStream">للسماح للتطبيق بعرض التحديثات الاجتماعية منك ومن أصدقائك. توخ الحذر عند مشاركة المعلومات، حيث يتيح هذا للتطبيق إنشاء رسائل يبدو أنها واردة من صديق. ملاحظة: لا يجوز فرض هذا الإذن على جميع الشبكات الاجتماعية.</string>
     <string name="permlab_readCalendar">قراءة أحداث التقويم بالإضافة إلى المعلومات السرية</string>
-    <string name="permdesc_readCalendar">للسماح للتطبيق بقراءة جميع أحداث التقويم المخزنة على الجهاز اللوحي، بما في ذلك أحداث التقويم التابعة للأصدقاء أو زملاء العمل. وقد يتيح هذا للتطبيق مشاركة بيانات التقويم أو حفظها، بغض النظر عن مدى سرية البيانات أو حساسيتها.</string>
+    <string name="permdesc_readCalendar">للسماح للتطبيق بقراءة جميع أحداث التقويم المخزنة على الهاتف، بما في ذلك أحداث التقويم التابعة للأصدقاء أو زملاء العمل. وقد يتيح هذا للتطبيق مشاركة بيانات التقويم أو حفظها، بغض النظر عن مدى سرية البيانات أو حساسيتها.</string>
     <string name="permlab_writeCalendar">إضافة أو تعديل أحداث التقويم وإرسال رسالة إلكترونية إلى المدعوين بدون معرفة المالكين</string>
-    <string name="permdesc_writeCalendar">للسماح للتطبيق بإضافة أو إزالة أو تغيير الأحداث التي يمكنك تعديلها على جهازك اللوحي، بما في ذلك أحداث الأصدقاء أو زملاء العمل. وقد يتيح هذا للتطبيق إرسال رسائل يبدو أنها واردة من أصحاب التقويم أو تعديل الأحداث بدون معرفة المالكين.</string>
+    <string name="permdesc_writeCalendar">للسماح للتطبيق بإضافة أو إزالة أو تغيير الأحداث التي يمكنك تعديلها على هاتفك، بما في ذلك أحداث الأصدقاء أو زملاء العمل. وقد يتيح هذا للتطبيق إرسال رسائل يبدو أنها واردة من أصحاب التقويم أو تعديل الأحداث بدون معرفة المالكين.</string>
     <string name="permlab_accessMockLocation">مصادر مواقع وهمية للاختبار</string>
     <string name="permdesc_accessMockLocation">لإنشاء مصادر مواقع زائفة للاختبار أو تثبيت موفر مواقع جديد. يتيح هذا للتطبيق إلغاء الموقع و/أو الحالة التي تعرضها مصادر المواقع الأخرى مثل GPS أو موفري المواقع.</string>
     <string name="permlab_accessLocationExtraCommands">الدخول إلى المزيد من أوامر موفر الموقع</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">للسماح للتطبيق بالتقاط صور ومقاطع فيديو من خلال الكاميرا. ويتيح هذا الإذن للتطبيق استخدام الكاميرا في أي وقت وبدون موافقة منك.</string>
     <string name="permlab_cameraDisableTransmitLed">تعطيل مؤشر LED للإرسال عندما تكون الكاميرا قيد الاستخدام</string>
     <string name="permdesc_cameraDisableTransmitLed">للسماح لتطبيق نظام مثبت مسبقًا لتعطيل مؤشر LED لاستخدام الكاميرا.</string>
-    <string name="permlab_brick">تعطيل الجهاز اللوحي نهائيًا</string>
-    <string name="permdesc_brick">للسماح للتطبيق بتعطيل الجهاز اللوحي بالكامل بشكل دائم. هذا خطير للغاية.</string>
-    <string name="permlab_reboot">فرض إعادة تشغيل الجهاز اللوحي</string>
-    <string name="permdesc_reboot">للسماح للتطبيق بفرض إعادة تشغيل الجهاز اللوحي.</string>
+    <string name="permlab_brick">تعطيل الهاتف على الدوام</string>
+    <string name="permdesc_brick">للسماح للتطبيق بتعطيل الهاتف بالكامل بشكل دائم. هذا خطير للغاية.</string>
+    <string name="permlab_reboot">فرض إعادة تشغيل الهاتف</string>
+    <string name="permdesc_reboot">للسماح للتطبيق بفرض إعادة تشغيل الهاتف.</string>
     <string name="permlab_mount_unmount_filesystems">الدخول إلى نظام ملفات وحدة تخزين USB</string>
     <string name="permdesc_mount_unmount_filesystems">للسماح للتطبيق بتحميل أنظمة الملفات وإلغاء تحميلها إلى وحدة التخزين القابلة للإزالة.</string>
     <string name="permlab_mount_format_filesystems">محو وحدة تخزين USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">للسماح للتطبيق بطلب أرقام هاتفية بدون تدخل منك. وقد يؤدي ذلك إلى تحمل رسوم غير متوقعة أو إجراء مكالمات غير متوقعة. ومن الجدير بالذكر أن ذلك لا يتيح للتطبيق الاتصال بأرقام الطوارئ. وقد تؤدي التطبيقات الضارة إلى تحملك تكاليف مالية من خلال إجراء مكالمات بدون موافقة منك.</string>
     <string name="permlab_callPrivileged">اتصال مباشر بأي رقم من أرقام الهواتف</string>
     <string name="permdesc_callPrivileged">للسماح للتطبيق بالاتصال بأي رقم هاتف، بما في ذلك أرقام الطوارئ، بدون تدخل منك. قد تجري التطبيقات الضارة اتصالات غير ضرورية وغير قانونية بخدمات الطوارئ.</string>
-    <string name="permlab_performCdmaProvisioning">بدء إعداد الجهاز اللوحي CDMA مباشرةً</string>
+    <string name="permlab_performCdmaProvisioning">بدء إعداد هاتف CDMA مباشرة</string>
     <string name="permdesc_performCdmaProvisioning">للسماح للتطبيق ببدء توفير CDMA. قد تبدأ التطبيقات الضارة توفير CDMA بدون الحاجة إلى ذلك.</string>
     <string name="permlab_locationUpdates">التحكم في تنبيهات تحديث الموقع</string>
     <string name="permdesc_locationUpdates">للسماح للتطبيق بتمكين/تعطيل إشعارات تحديث الموقع من اللاسلكي. ليس للاستخدام بواسطة التطبيقات العادية.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">للسماح للتطبيق بالتحكم في ميزات الهاتف بالجهاز. يمكن لأحد التطبيقات بهذا الإذن تبديل الشبكات وتشغيل لاسلكي الهاتف وإيقاف تشغيله وما إلى ذلك بدون إعلامك على الإطلاق.</string>
     <string name="permlab_readPhoneState">قراءة حالة الهاتف والهوية</string>
     <string name="permdesc_readPhoneState">للسماح للتطبيق بالدخول إلى ميزات الهاتف في الجهاز. ويتيح هذا الإذن للتطبيق تحديد رقم الهاتف ومعرّفات الجهاز، وما إذا كانت هناك مكالمة نشطة والرقم البعيد الذي تم الاتصال به في المكالمة.</string>
-    <string name="permlab_wakeLock">منع الجهاز اللوحي من الدخول في وضع السكون</string>
-    <string name="permdesc_wakeLock">للسماح للتطبيق بمنع الجهاز اللوحي من الانتقال إلى وضع السكون.</string>
-    <string name="permlab_devicePower">تشغيل الجهاز اللوحي أو إيقاف تشغيله</string>
-    <string name="permdesc_devicePower">للسماح للتطبيق بتشغيل الجهاز اللوحي أو إيقاف تشغيله.</string>
+    <string name="permlab_wakeLock">منع الهاتف من الدخول في وضع السكون</string>
+    <string name="permdesc_wakeLock">للسماح للتطبيق بمنع الهاتف من الانتقال إلى وضع السكون.</string>
+    <string name="permlab_devicePower">تشغيل الهاتف أو إيقاف تشغيله</string>
+    <string name="permdesc_devicePower">للسماح للتطبيق بتشغيل الهاتف أو إيقاف تشغيله.</string>
     <string name="permlab_factoryTest">تشغيل في وضع اختبار المصنع</string>
-    <string name="permdesc_factoryTest">التشغيل كاختبار للشركة المصنعة من المستوى المنخفض، مما يسمح بإكمال الدخول إلى الجهاز اللوحي. ويتوفر فقط عندما يتم تشغيل الجهاز اللوحي في وضع اختبار المصنِّع.</string>
+    <string name="permdesc_factoryTest">للتشغيل كاختبار مصنِّع بمستوى أدنى، مما يسمح بالدخول الكامل إلى جهاز الهاتف. لا يتوفر سوى عند تشغيل الهاتف في وضع اختبار المصنِّع.</string>
     <string name="permlab_setWallpaper">تعيين الخلفية</string>
     <string name="permdesc_setWallpaper">للسماح للتطبيق بتعيين خلفية النظام.</string>
     <string name="permlab_setWallpaperHints">تعديل حجم الخلفية</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">إعادة تعيين النظام إلى الإعدادات الافتراضية للمصنع</string>
     <string name="permdesc_masterClear">للسماح للتطبيق بإعادة تعيين النظام بالكامل على إعدادات المصنع، ومسح جميع البيانات والتهيئة والتطبيقات المثبّتة.</string>
     <string name="permlab_setTime">تعيين الوقت</string>
-    <string name="permdesc_setTime">للسماح للتطبيق بتغيير وقت ساعة الجهاز اللوحي.</string>
+    <string name="permdesc_setTime">للسماح للتطبيق بتغيير وقت ساعة الهاتف.</string>
     <string name="permlab_setTimeZone">تعيين المنطقة الزمنية</string>
-    <string name="permdesc_setTimeZone">للسماح للتطبيق بتغيير المنطقة الزمنية للجهاز اللوحي.</string>
+    <string name="permdesc_setTimeZone">للسماح للتطبيق بتغيير المنطقة الزمنية للهاتف.</string>
     <string name="permlab_accountManagerService">العمل كخدمة مدير حساب</string>
     <string name="permdesc_accountManagerService">للسماح للتطبيق بإجراء مكالمات مع مصدِّقي الحساب.</string>
     <string name="permlab_getAccounts">البحث عن حسابات على الجهاز</string>
-    <string name="permdesc_getAccounts">للسماح للتطبيق بالحصول على قائمة بالحسابات التي يعرفها الجهاز اللوحي. وقد يتضمن ذلك أية حسابات تم إنشاؤها بواسطة التطبيقات التي ثبتها.</string>
+    <string name="permdesc_getAccounts">للسماح للتطبيق بالحصول على قائمة بالحسابات التي يعرفها الهاتف. وقد يتضمن ذلك أية حسابات تم إنشاؤها بواسطة التطبيقات التي ثبتها.</string>
     <string name="permlab_authenticateAccounts">إنشاء حسابات وتعيين كلمات مرور</string>
     <string name="permdesc_authenticateAccounts">للسماح للتطبيق باستخدام إمكانيات مصدِّق الحساب لـ AccountManager، بما في ذلك إنشاء حسابات والحصول على كلمات مرورها وتعينها.</string>
     <string name="permlab_manageAccounts">إضافة حسابات أو إزالتها</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">التوصيل والفصل من Wi-Fi</string>
     <string name="permdesc_changeWifiState">للسماح للتطبيق بالاتصال بنقاط الوصول إلى Wi-Fi وقطع الاتصال بها، وإجراء تغييرات على تهيئة الجهاز لشبكات Wi-Fi.</string>
     <string name="permlab_changeWifiMulticastState">السماح باستقبال بث Wi-Fi متعدد</string>
-    <string name="permdesc_changeWifiMulticastState">للسماح للتطبيق بتلقي الحزم التي يتم إرسالها إلى جميع الأجهزة على شبكة Wi-Fi باستخدام عناوين بث متعدد، وليس باستخدام جهازك اللوحي فقط. ويؤدي ذلك إلى استخدام قدر أكبر من الطاقة يفوق وضع البث غير المتعدد.</string>
+    <string name="permdesc_changeWifiMulticastState">للسماح للتطبيق بتلقي الحزم التي يتم إرسالها إلى جميع الأجهزة على شبكة Wi-Fi باستخدام عناوين بث متعدد، وليس باستخدام هاتفك فقط. ويؤدي ذلك إلى استخدام قدر أكبر من الطاقة يفوق وضع البث غير المتعدد.</string>
     <string name="permlab_bluetoothAdmin">الدخول إلى إعدادات بلوتوث</string>
-    <string name="permdesc_bluetoothAdmin">للسماح للتطبيق بتهيئة لوحة البلوتوث المحلي، واكتشاف أجهزة التحكم عن بعد والاقتران بها.</string>
+    <string name="permdesc_bluetoothAdmin">للسماح للتطبيق بتهيئة هاتف البلوتوث المحلي، واكتشاف أجهزة التحكم عن بعد والاقتران بها.</string>
     <string name="permlab_accessWimaxState">الاتصال بـشبكة WiMAX وقطع الاتصال بها</string>
     <string name="permdesc_accessWimaxState">للسماح للتطبيق بتحديد ما إذا تم تمكين WiMAX وتحديد معلومات حول أية شبكات WiMAX متصلة.</string>
     <string name="permlab_changeWimaxState">تغيير حالة WiMAX</string>
-    <string name="permdesc_changeWimaxState">للسماح للتطبيق بتوصيل الجهاز اللوحي بشبكات WiMAX وقطع اتصاله بها.</string>
+    <string name="permdesc_changeWimaxState">للسماح للتطبيق بتوصيل الهاتف بشبكات WiMAX وقطع اتصاله بها.</string>
     <string name="permlab_bluetooth">الاتصال بأجهزة بلوتوث</string>
-    <string name="permdesc_bluetooth">للسماح للتطبيق بعرض تهيئة البلوتوث على الجهاز اللوحي وإجراء اتصالات وقبولها مع الأجهزة المقترنة.</string>
+    <string name="permdesc_bluetooth">للسماح للتطبيق بعرض تهيئة البلوتوث على الهاتف وإجراء اتصالات وقبولها مع الأجهزة المقترنة.</string>
     <string name="permlab_nfc">التحكم في اتصال الحقل القريب</string>
     <string name="permdesc_nfc">للسماح للتطبيق بالاتصال بعلامات الاتصال قريب المدى (NFC)، والبطاقات وبرامج القراءة.</string>
     <string name="permlab_disableKeyguard">تعطيل قفل الشاشة</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">تعيين قواعد كلمة المرور</string>
     <string name="policydesc_limitPassword">يمكنك التحكم في الطول والأحرف المسموح بها في كلمات مرور إلغاء تأمين الشاشة.</string>
     <string name="policylab_watchLogin">مراقبة محاولات إلغاء قفل الشاشة</string>
-    <string name="policydesc_watchLogin">لمراقبة عدد مرات كتابة كلمات المرور غير الصحيحة عند إلغاء تأمين الشاشة وتأمين الجهاز اللوحي أو مسح جميع بياناته في حالة كتابة الكثير من كلمات المرور غير الصحيحة.</string>
+    <string name="policydesc_watchLogin">مراقبة عدد كلمات المرور غير الصحيحة التي تمت كتابتها عند إلغاء تأمين الشاشة، وتأمين الهاتف ومحو جميع بياناته إذا تمت كتابة عدد أكبر من اللازم من كلمات المرور غير الصحيحة.</string>
     <string name="policylab_resetPassword">تغيير كلمة مرور إلغاء قفل الشاشة</string>
     <string name="policydesc_resetPassword">يمكنك تغيير كلمة مرور إلغاء تأمين الشاشة.</string>
     <string name="policylab_forceLock">تأمين الشاشة</string>
     <string name="policydesc_forceLock">يمكنك التحكم في كيفية ووقت تأمين الشاشة.</string>
     <string name="policylab_wipeData">مسح جميع البيانات</string>
-    <string name="policydesc_wipeData">يمكنك محو بيانات الجهاز اللوحي بدون تحذير، وذلك عبر إجراء إعادة الضبط بحسب بيانات المصنع.</string>
+    <string name="policydesc_wipeData">يمكنك محو بيانات الهاتف بدون تحذير، وذلك عبر إجراء إعادة الضبط بحسب بيانات المصنع.</string>
     <string name="policylab_setGlobalProxy">تعيين الخادم الوكيل العمومي للجهاز</string>
     <string name="policydesc_setGlobalProxy">تعيين الخادم الوكيل العمومي للجهاز لكي يتم استخدامه أثناء تمكين السياسة. يعين مشرف الجهاز الأول فقط الخادم الوكيل العمومي الفعال.</string>
     <string name="policylab_expirePassword">ضبط انتهاء كلمة مرور تأمين شاشة</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">توصيل جهاز الشحن.</string>
     <string name="lockscreen_missing_sim_message_short">ليست هناك بطاقة SIM</string>
-    <string name="lockscreen_missing_sim_message">ليس هناك بطاقة SIM في الجهاز اللوحي.</string>
+    <string name="lockscreen_missing_sim_message">ليس هناك بطاقة SIM في الهاتف.</string>
     <string name="lockscreen_missing_sim_instructions">أدخل بطاقة SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">بطاقة SIM مفقودة أو غير قابلة للقراءة. أدخل بطاقة SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">بطاقة SIM غير قابلة للاستخدام.</string>
@@ -778,11 +778,11 @@
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"لقد كتبت رقم التعريف الشخصي %d مرة بشكل غير صحيح. 
 
 أعد المحاولة خلال %d ثانية."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %d مرة. بعد %d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الجهاز اللوحي باستخدام معلومات تسجيل الدخول إلى Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %d مرة. بعد %d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الهاتف باستخدام معلومات تسجيل الدخول إلى Google.
 
  أعد المحاولة خلال %d ثانية."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">لقد حاولت إلغاء تأمين الجهاز اللوحي %d من المرات. بعد %d من المحاولات غير الناجحة، ستتم إعادة تعيين الجهاز اللوحي إلى الإعدادات الافتراضية للمصنع وسيتم فقد جميع بيانات المستخدم.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">لقد حاولت إلغاء تأمين الجهاز اللوحي %d من المرات بشكل غير صحيح. سيتم الآن إعادة تعيين الجهاز اللوحي إلى الإعدادات الافتراضية للمصنع.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">لقد حاولت إلغاء تأمين الهاتف %d من المرات. بعد %d من المحاولات غير الناجحة، ستتم إعادة تعيين الهاتف إلى الإعدادات الافتراضية للمصنع وسيتم فقد جميع بيانات المستخدم.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">لقد حاولت إلغاء تأمين الهاتف %d من المرات بشكل غير صحيح. سيتم الآن إعادة تعيين الهاتف إلى الإعدادات الافتراضية للمصنع.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">حاول مرة أخرى خلال %d ثانية.</string>
     <string name="lockscreen_forgot_pattern_button_text">هل نسيت النمط؟</string>
     <string name="lockscreen_glogin_forgot_pattern">إلغاء تأمين الحساب</string>
@@ -867,7 +867,7 @@
     <string name="permlab_readHistoryBookmarks">قراءة إشارات ويب والسجل</string>
     <string name="permdesc_readHistoryBookmarks">للسماح للتطبيق بقراءة سجل جميع عناوين URL التي زارها المتصفح، وجميع الإشارات المرجعية في المتصفح. ملاحظة: لا يجوز فرض هذا الإذن من قِبل متصفحات جهة خارجية أو تطبيقات أخرى تتوفر بها إمكانيات تصفح الويب.</string>
     <string name="permlab_writeHistoryBookmarks">كتابة إشارات ويب والسجل</string>
-    <string name="permdesc_writeHistoryBookmarks">للسماح للتطبيق بتعديل سجل المتصفح أو الإشارات المرجعية المخزنة على جهازك اللوحي. وقد يتيح هذا للتطبيق محو بيانات المتصفح أو تعديلها. ملاحظة: لا يجوز فرض هذا الإذن من قِبل متصفحات جهات خارجية أو تطبيقات أخرى بها إمكانيات تصفح الويب.</string>
+    <string name="permdesc_writeHistoryBookmarks">للسماح للتطبيق بتعديل سجل المتصفح أو الإشارات المرجعية المخزنة على هاتفك. وقد يتيح هذا للتطبيق محو بيانات المتصفح أو تعديلها. ملاحظة: لا يجوز فرض هذا الإذن من قِبل متصفحات جهات خارجية أو تطبيقات أخرى بها إمكانيات تصفح الويب.</string>
     <string name="permlab_setAlarm">تعيين منبه</string>
     <string name="permdesc_setAlarm">للسماح للتطبيق بضبط المنبه في تطبيق المنبه المثبّت. ربما لا تنفذ بعض تطبيقات المنبه هذه الميزة.</string>
     <string name="permlab_addVoicemail">إضافة بريد صوتي</string>
@@ -901,7 +901,7 @@
     <string name="searchview_description_submit">إرسال طلب البحث</string>
     <string name="searchview_description_voice">البحث الصوتي</string>
     <string name="enable_explore_by_touch_warning_title">هل تريد تمكين ميزة Explore by Touch؟</string>
-    <string name="enable_explore_by_touch_warning_message">يريد %1$s تمكين ميزة Explore by Touch. عند تشغيل ميزة Explore by Touch، سيكون بإمكانك سماع أو مشاهدة أوصاف لما تحت إصبعك أو إجراء إيماءات للتفاعل مع الجهاز اللوحي.</string>
+    <string name="enable_explore_by_touch_warning_message">يريد %1$s تمكين ميزة Explore by Touch. عند تشغيل ميزة Explore by Touch، سيكون بإمكانك سماع أو مشاهدة أوصاف لما تحت إصبعك أو إجراء إيماءات للتفاعل مع الهاتف.</string>
     <string name="oneMonthDurationPast">قبل شهر واحد</string>
     <string name="beforeOneMonthDurationPast">قبل شهر واحد</string>
     <string name="last_month">الشهر الماضي</string>
@@ -1025,7 +1025,7 @@
     <string name="wifi_p2p_to_message">إلى:</string>
     <string name="wifi_p2p_enter_pin_message">اكتب رقم التعريف الشخصي المطلوب:</string>
     <string name="wifi_p2p_show_pin_message">رقم التعريف الشخصي:</string>
-    <string name="wifi_p2p_frequency_conflict_message">سيتم قطع اتصال الجهاز اللوحي مؤقتًا بشبكة Wi-Fi في الوقت الذي يكون فيه متصلاً بـ %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">سيتم قطع اتصال الهاتف مؤقتًا بشبكة Wi-Fi في الوقت الذي يكون فيه متصلاً بـ %1$s</string>
     <string name="select_character">إدراج حرف</string>
     <string name="sms_control_title">إرسال رسائل قصيرة SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> يرسل عددًا كبيرًا من الرسائل القصيرة SMS. هل تريد السماح لهذا التطبيق بالاستمرار في إرسال الرسائل؟</string>
@@ -1274,7 +1274,7 @@
     <string name="SetupCallDefault">هل تريد قبول المكالمة؟</string>
     <string name="activity_resolver_use_always">دومًا</string>
     <string name="activity_resolver_use_once">مرة واحدة فقط</string>
-    <string name="default_audio_route_name">الجهاز اللوحي</string>
+    <string name="default_audio_route_name">الهاتف</string>
     <string name="default_audio_route_name_headphones">سماعات رأس</string>
     <string name="default_audio_route_name_dock_speakers">مكبرات صوت للإرساء</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"لقد رسمت نقش إلغاء التأمين بطريقة غير صحيحة %d مرة. 
 
 أعد المحاولة خلال %d ثانية."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">لقد حاولت إلغاء تأمين الجهاز اللوحي بشكل غير صحيح %d مرة. بعد إجراء %d من المحاولات غير الناجحة الأخرى، ستتم إعادة تعيين الجهاز اللوحي على الإعدادات الافتراضية للمصنع وسيتم فقد جميع بيانات المستخدم.</string>
-    <string name="kg_failed_attempts_now_wiping">لقد حاولت إلغاء تأمين الجهاز اللوحي بشكل غير صحيح %d مرة. سيتم الآن إعادة تعيين الجهاز اللوحي على الإعدادات الافتراضية للمصنع.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %d مرة. بعد إجراء %d من المحاولات غير الناجحة الأخرى، ستطالَب بإلغاء تأمين الجهاز اللوحي باستخدام معلومات حساب بريد إلكتروني.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">لقد حاولت إلغاء تأمين الهاتف بشكل غير صحيح %d مرة. بعد إجراء %d من المحاولات غير الناجحة الأخرى، ستتم إعادة تعيين الهاتف على الإعدادات الافتراضية للمصنع وسيتم فقد جميع بيانات المستخدم.</string>
+    <string name="kg_failed_attempts_now_wiping">لقد حاولت إلغاء تأمين الهاتف بشكل غير صحيح %d مرة. سيتم الآن إعادة تعيين الهاتف على الإعدادات الافتراضية للمصنع.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"لقد رسمت نقش إلغاء التأمين بشكل غير صحيح %d مرة. بعد إجراء %d من المحاولات غير الناجحة الأخرى، ستُطالب بإلغاء تأمين الهاتف باستخدام حساب بريد إلكتروني لإلغاء تأمين الهاتف.
 
  أعد المحاولة خلال %d ثانية."</string>
     <string name="kg_text_message_separator">" — "</string>

@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Sinchronizuoti</string>
     <string name="contentServiceSyncNotificationTitle">Sinchronizuoti</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Per daug %s trynimo.</string>
-    <string name="low_memory">Planšetinio kompiuterio atmintis pilna. Kad atlaisvintumėte vietos, ištrinkite kelis failus.</string>
+    <string name="low_memory">Telefono atmintis pilna. Ištrinkite kai kuriuos failus, kad atlaisvintumėte vietos.</string>
     <string name="me">Aš</string>
-    <string name="power_dialog">Planšetinio kompiuterio parinktys</string>
+    <string name="power_dialog">Telefono parinktys</string>
     <string name="silent_mode">Tylus režimas</string>
     <string name="turn_on_radio">Įjungti bevielį</string>
     <string name="turn_off_radio">Išjungti bevielį</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Vibracija skambinant</string>
     <string name="silent_mode_ring">Skambutis įjungtas</string>
     <string name="shutdown_progress">Išsijungia...</string>
-    <string name="shutdown_confirm">Planšetinio kompiuterio veikimas bus sustabdytas.</string>
+    <string name="shutdown_confirm">Telefonas bus išjungtas.</string>
     <string name="shutdown_confirm_question">Ar norite išjungti?</string>
     <string name="reboot_safemode_title">Iš naujo įkelti operacinę sistemą saugos režimu</string>
     <string name="reboot_safemode_confirm">Ar norite iš naujo įkelti operacinę sistemą saugos režimu? Dėl to bus neleidžiamos visos įdiegtos trečiųjų šalių programos. Jos bus atkurtos dar kartą iš naujo įkėlus operacinę sistemą.</string>
     <string name="recent_tasks_title">Naujos</string>
     <string name="no_recent_tasks">Nėra naujausių programų.</string>
-    <string name="global_actions">Planšetinio kompiuterio parinktys</string>
+    <string name="global_actions">Telefono parinktys</string>
     <string name="global_action_lock">Ekrano užraktas</string>
     <string name="global_action_power_off">Išjungti maitinimą</string>
     <string name="global_action_bug_report">Pranešimas apie triktį</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">siųsti atsakymų pranešimu įvykius</string>
     <string name="permdesc_sendRespondViaMessageRequest">Programai leidžiama siųsti užklausas į kitas susirašinėjimo pranešimais programas, kad būtų galima apdoroti atsakymų pranešimu įvykius, susijusius su gaunamaisiais skambučiais.</string>
     <string name="permlab_readSms">skaityti teksto pranešimus (SMS arba MMS)</string>
-    <string name="permdesc_readSms">Leidžiama programai skaityti planšetiniame kompiuteryje ar SIM kortelėje saugomus SMS pranešimus. Taip programai leidžiama skaityti visus SMS pranešimus, neatsižvelgiant į turinį ar konfidencialumą.</string>
+    <string name="permdesc_readSms">Leidžiama programai skaityti telefone ar SIM kortelėje saugomus SMS pranešimus. Taip programai leidžiama skaityti visus SMS pranešimus, neatsižvelgiant į turinį ar konfidencialumą.</string>
     <string name="permlab_writeSms">redaguoti teksto pranešimus (SMS arba MMS)</string>
-    <string name="permdesc_writeSms">Leidžiama programai rašyti SMS pranešimus, išsaugotus jūsų planšetiniame kompiuteryje ar SIM kortelėje. Kenkėjiškos programos gali ištrinti jūsų pranešimus.</string>
+    <string name="permdesc_writeSms">Leidžiama programai rašyti SMS pranešimus, išsaugotus jūsų telefone ar SIM kortelėje. Kenkėjiškos programos gali ištrinti jūsų pranešimus.</string>
     <string name="permlab_receiveWapPush">gauti teksto pranešimus (WAP)</string>
     <string name="permdesc_receiveWapPush">Leidžiama programai gauti ir apdoroti WAP pranešimus. Šis leidimas apima galimybę stebėti ar ištrinti jums siunčiamus pranešimus jums jų neparodžius.</string>
     <string name="permlab_getTasks">nuskaityti vykdomas programas</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">užfiksuoti ekraną</string>
     <string name="permdesc_freezeScreen">Leidžiama programai laikinai užfiksuoti ekraną, kad būtų galima perkelti visą ekraną.</string>
     <string name="permlab_injectEvents">paspauskite klavišus ir valdymo mygtukus</string>
-    <string name="permdesc_injectEvents">Leidžiama programai kitoms programoms pateikti savo įvesties įvykius (klavišų paspaudimus ir kt.). Kenkėjiškos programos gali tai naudoti, kad užvaldytų planšetinį kompiuterį.</string>
+    <string name="permdesc_injectEvents">Leidžiama programai kitoms programoms pateikti savo įvesties įvykius (klavišų paspaudimus ir kt.). Kenkėjiškos programos gali tai naudoti, kad užvaldytų telefoną.</string>
     <string name="permlab_readInputState">įrašas, kurį įvedate ir veiksmai, kuriuos atliekate</string>
     <string name="permdesc_readInputState">Leidžiama programai stebėti paspaudžiamus klavišus, net kai sąveikaujama su kita programa (pvz., įvedant slaptažodį). Įprastoms programoms to neturėtų prireikti.</string>
     <string name="permlab_bindInputMethod">susaistyti įvesties būdą</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">siųsti „Linux“ signalus programoms</string>
     <string name="permdesc_signalPersistentProcesses">Leidžiama programai pateikti užklausą, kad teikiamas signalas būtų siunčiamas visiems nuolatiniams procesams.</string>
     <string name="permlab_persistentActivity">nustatyti, kad programa būtų visada vykdoma</string>
-    <string name="permdesc_persistentActivity">Leidžiama programai savo dalis įrašyti į atmintį. Dėl to gali būti apribota kitomis programomis pasiekiama atmintis ir sulėtėti planšetinio kompiuterio veikimas.</string>
+    <string name="permdesc_persistentActivity">Leidžiama programai savo dalis įrašyti į atmintį. Dėl to gali būti apribota kitomis programomis pasiekiama atmintis ir sulėtėti telefono veikimas.</string>
     <string name="permlab_deletePackages">ištrinti programas</string>
     <string name="permdesc_deletePackages">Leidžiama programai ištrinti „Android“ paketus. Kenkėjiškos programos gali tai naudoti, kad ištrintų svarbias programas.</string>
     <string name="permlab_clearAppUserData">ištrinti kitų programų duomenis</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">tiesiogiai įdiegti programas</string>
     <string name="permdesc_installPackages">Leidžiama programai įdiegti naujus ar atnaujintus „Android“ paketus. Kenkėjiškos programos gali tai naudoti, kad pridėtų naujų programų su nepagrįstai galingais leidimais.</string>
     <string name="permlab_clearAppCache">ištrinti visus programos talpyklos duomenis</string>
-    <string name="permdesc_clearAppCache">Leidžiama programai atlaisvinti planšetinio kompiuterio atmintinę ištrinant failus kitų programų talpykloje esančiuose kataloguose. Dėl ko kitos programos gali būti lėčiau paleidžiamos, nes joms reikia iš naujo gauti duomenis.</string>
+    <string name="permdesc_clearAppCache">Leidžiama programai atlaisvinti telefono atmintinę ištrinant failus kitų programų talpykloje esančiuose kataloguose. Dėl to kitos programos gali būti lėčiau paleidžiamos, nes joms reikia iš naujo gauti duomenis.</string>
     <string name="permlab_movePackage">perkelti programos išteklius</string>
     <string name="permdesc_movePackage">Leidžiama programai perkelti programos išteklius iš vidinės medijos į išorinę ir atvirkščiai.</string>
     <string name="permlab_readLogs">skaityti slaptus žurnalo duomenis</string>
-    <string name="permdesc_readLogs">Leidžiama programai skaityti iš įvairių sistemos žurnalų failų. Taip galima atrasti bendrą informaciją apie tai, ką darote naudodami planšetinį kompiuterį, potencialiai įtraukiant asmeninę ar privačią informaciją.</string>
+    <string name="permdesc_readLogs">Leidžiama programai skaityti iš įvairių sistemos žurnalų failų. Taip galima atrasti bendrą informaciją apie tai, ką darote telefonu, potencialiai įtraukiant asmeninę ar privačią informaciją.</string>
     <string name="permlab_anyCodecForPlayback">atkuriant naudoti bet kurį medijos dekoderį</string>
     <string name="permdesc_anyCodecForPlayback">Leidžiama programai naudoti bet kurį įdiegtą medijos dekoderį norint iššifruoti atkūrimą.</string>
     <string name="permlab_diagnostic">skaityti / rašyti ištekliuose, priklausančiuose diagnostikai</string>
     <string name="permdesc_diagnostic">Leidžiama programai skaityti ir rašyti visuose diagnostikos grupei priklausančiuose ištekliuose, pvz., failuose, esančiuose /dev. Tai gali paveikti sistemos stabilumą ir saugą. Tai turėtų būti naudojama TIK gamintojui ar operatoriui atliekant aparatinės įrangos diagnostiką.</string>
     <string name="permlab_changeComponentState">įgalinti programos komponentus arba jų neleisti</string>
-    <string name="permdesc_changeComponentState">Leidžiama programai pakeisti, ar įgalintas kitos programos komponentas, ar ne. Kenkėjiškos programos gali tai naudoti, kad neleistų svarbių planšetinio kompiuterio funkcijų. Šį leidimą reikia naudoti atsargiai, nes programos komponentai gali tapti nenaudojami, nenuoseklūs ar nestabilūs.</string>
+    <string name="permdesc_changeComponentState">Leidžiama programai pakeisti nustatymą, ar įgalintas kitos programos komponentas, ar ne. Kenkėjiškos programos gali tai naudoti, kad neleistų svarbių telefono funkcijų. Šį leidimą reikia naudoti atsargiai, nes programos komponentai gali tapti nenaudojami, nenuoseklūs ar nestabilūs.</string>
     <string name="permlab_grantRevokePermissions">suteikti arba panaikinti leidimus</string>
     <string name="permdesc_grantRevokePermissions">Programai leidžiama suteikti arba panaikinti konkrečius savo arba kitų programų leidimus. Tuo pasinaudoję kenkėjiškos programos gali pasiekti funkcijas, kurių pasiekti joms neleidote.</string>
     <string name="permlab_setPreferredApplications">nustatyti pageidaujamas programas</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">keisti „Google“ paslaugų žemėlapį</string>
     <string name="permdesc_writeGservices">Leidžiama programai keisti „Google“ paslaugų žemėlapį. Neskirta naudoti įprastoms programoms.</string>
     <string name="permlab_receiveBootCompleted">paleisti paleidžiant</string>
-    <string name="permdesc_receiveBootCompleted">Leidžiama programai pasileisti, kai baigsis sistemos įkėlimas iš naujo. Dėl to planšetinio kompiuterio paleidimas gali trukti ilgiau ir programa gali sulėtinti planšetinį kompiuterį, nes ji veiks visada.</string>
+    <string name="permdesc_receiveBootCompleted">Leidžiama programai pasileisti, kai baigsis sistemos įkėlimas iš naujo. Dėl to telefono paleidimas gali trukti ilgiau ir programa gali sulėtinti telefoną, nes ji veiks visada.</string>
     <string name="permlab_broadcastSticky">siųsti pritraukiantį perdavimą</string>
-    <string name="permdesc_broadcastSticky">Leidžiama programai siųsti užsifiksuojančias transliacijas, kurios išlieka pasibaigus transliacijai. Per dažnas jų naudojimas gali sulėtinti planšetinio kompiuterio veikimą ar padaryti jį nestabilų verčiant naudoti per daug atminties.</string>
+    <string name="permdesc_broadcastSticky">Leidžiama programai siųsti užsifiksuojančias transliacijas, kurios išlieka pasibaigus transliacijai. Per dažnas jų naudojimas gali sulėtinti telefono veikimą ar padaryti jį nestabilų verčiant naudoti per daug atminties.</string>
     <string name="permlab_readContacts">skaityti kontaktus</string>
-    <string name="permdesc_readContacts">Leidžiama programai skaityti duomenis apie planšetiniame kompiuteryje saugomus kontaktus, įskaitant dažnį, kuriuo konkretiems asmenims skambinote, siuntėte el. laiškus ar bendravote kitais būdais. Šis leidimas suteikia teisę programoms saugoti kontaktinius duomenis, o kenkėjiškos programos gali bendrinti kontaktinius duomenis be jūsų žinios.</string>
+    <string name="permdesc_readContacts">Leidžiama programai skaityti duomenis apie telefone saugomus kontaktus, įskaitant dažnį, kuriuo konkretiems asmenims skambinote, siuntėte el. laiškus ar bendravote kitais būdais. Šis leidimas suteikia teisę programoms saugoti kontaktinius duomenis, o kenkėjiškos programos gali bendrinti kontaktinius duomenis be jūsų žinios.</string>
     <string name="permlab_writeContacts">keisti kontaktus</string>
-    <string name="permdesc_writeContacts">Leidžiama programai keisti duomenis apie planšetiniame kompiuteryje saugomus kontaktus, įskaitant dažnį, kuriuo konkretiems asmenims skambinote, siuntėte el. laiškus ar bendravote kitais būdais. Šis leidimas suteikia teisę programoms ištrinti kontaktinius duomenis.</string>
+    <string name="permdesc_writeContacts">Leidžiama programai keisti duomenis apie telefone saugomus kontaktus, įskaitant dažnį, kuriuo konkretiems asmenims skambinote, siuntėte el. laiškus ar bendravote kitais būdais. Šis leidimas suteikia teisę programoms ištrinti kontaktinius duomenis.</string>
     <string name="permlab_readCallLog">skaityti skambučių žurnalą</string>
-    <string name="permdesc_readCallLog">Leidžiama programai skaityti planšetinio kompiuterio skambučių žurnalą, įskaitant duomenis apie gaunamuosius ir išsiunčiamuosius skambučius. Šis leidimas suteikia teisę programai išsaugoti skambučių žurnalo duomenis, o kenkėjiškos programos gali bendrinti skambučių žurnalą be jūsų žinios.</string>
+    <string name="permdesc_readCallLog">Leidžiama programai skaityti telefono skambučių žurnalą, įskaitant duomenis apie gaunamuosius ir išsiunčiamuosius skambučius. Šis leidimas suteikia teisę programai išsaugoti skambučių žurnalo duomenis, o kenkėjiškos programos gali bendrinti skambučių žurnalą be jūsų žinios.</string>
     <string name="permlab_writeCallLog">rašyti skambučių žurnalą</string>
-    <string name="permdesc_writeCallLog">Programai leidžiama skaityti planšetinio kompiuterio skambučių žurnalą, įskaitant duomenis apie gaunamus ir siunčiamus skambučius. Kenkėjiškos programos tai gali naudoti, kad ištrintų ar keistų jūsų skambučių žurnalą.</string>
+    <string name="permdesc_writeCallLog">Programai leidžiama skaityti telefono skambučių žurnalą, įskaitant duomenis apie gaunamus ir siunčiamus skambučius. Kenkėjiškos programos tai gali naudoti, kad ištrintų ar keistų jūsų skambučių žurnalą.</string>
     <string name="permlab_readProfile">skaityti jūsų kontakt. kortelę</string>
     <string name="permdesc_readProfile">Programai leidžiama skaityti įrenginyje saugomą asmeninę profilio informaciją, pvz., vardą, pavardę ir kontaktinę informaciją. Tai reiškia, kad programa gali nustatyti tapatybę ir siųsti profilio informaciją kitiems.</string>
     <string name="permlab_writeProfile">keisti jūsų kontaktinę kortelę</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">rašyti į socialinį srautą</string>
     <string name="permdesc_writeSocialStream">Leidžiama programai rodyti viešas naujienas iš jūsų draugų. Būkite atidūs bendrindami informaciją – programai leidžiama kurti pranešimus, kurie atrodo lyg būtų siunčiami draugo. Pastaba: šis leidimas negali būti taikomas visuose viešuosiuose tinkluose.</string>
     <string name="permlab_readCalendar">nuskaito kalendoriaus įvykius ir konfidencialią informaciją</string>
-    <string name="permdesc_readCalendar">Leidžiama programai skaityti visus planšetiniame kompiuteryje išsaugotus kalendoriaus įvykius, įskaitant draugų ar bendradarbių įvykius. Dėl to programai gali būti leidžiama bendrinti ar saugoti kalendoriaus duomenis, neatsižvelgiant į konfidencialumą ar privatumą.</string>
+    <string name="permdesc_readCalendar">Leidžiama programai skaityti visus telefone išsaugotus kalendoriaus įvykius, įskaitant draugų ar bendradarbių įvykius. Dėl to programai gali būti leidžiama bendrinti ar saugoti kalendoriaus duomenis, neatsižvelgiant į konfidencialumą ar privatumą.</string>
     <string name="permlab_writeCalendar">prideda arba keičia kalendoriaus įvykius ir siunčia el. laiškus svečiams be savininko žinios</string>
-    <string name="permdesc_writeCalendar">Leidžiama programai pridėti, pašalinti ir keisti įvykius, kuriuos galite keisti planšetiniame kompiuteryje, įskaitant draugų ir bendradarbių įvykius. Dėl to programa gali siųsti pranešimus, kurie atrodo lyg būtų siunčiami kalendorių savininkų, arba keisti įvykius be savininko žinios.</string>
+    <string name="permdesc_writeCalendar">Leidžiama programai pridėti, pašalinti ir keisti įvykius, kuriuos galite keisti telefone, įskaitant draugų ir bendradarbių įvykius. Dėl to programa gali siųsti pranešimus, kurie atrodo lyg būtų siunčiami kalendorių savininkų, arba keisti įvykius be savininko žinios.</string>
     <string name="permlab_accessMockLocation">imituoti vietos šaltinius bandymui</string>
     <string name="permdesc_accessMockLocation">Kurti bandomuosius imituojančius vietos nustatymo šaltinius arba įdiegti naują vietos nustatymo paslaugų teikėją. Programai leidžiama nepaisyti vietos ir (arba) būsenos, kurią pateikia kiti vietos nustatymo šaltiniai, pvz., GPS arba vietos nustatymo paslaugų teikėjai.</string>
     <string name="permlab_accessLocationExtraCommands">pasiekti papildomas vietos teikimo įrankio komandas</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Leidžiama programai fotografuoti ir filmuoti kamera. Šis leidimas suteikia teisę programai naudoti kamerą bet kada be jūsų patvirtinimo.</string>
     <string name="permlab_cameraDisableTransmitLed">neleisti perduoti LED indikatoriaus, kai naudojamas fotoaparatas</string>
     <string name="permdesc_cameraDisableTransmitLed">Leidžiama iš anksto įdiegtai sistemos programai išjungti fotoaparato naudojimo indikatoriaus LED.</string>
-    <string name="permlab_brick">visam laikui neleisti planšetinio kompiuterio</string>
-    <string name="permdesc_brick">Leidžiama programai visam laikui išjungti visą planšetinį kompiuterį. Tai labai pavojinga.</string>
-    <string name="permlab_reboot">versti iš naujo įkelti planšetinio kompiuterio operacinę sistemą</string>
-    <string name="permdesc_reboot">Leidžiama programai versti iš naujo paleisti planšetinio kompiuterio operacinę sistemą.</string>
+    <string name="permlab_brick">visam laikui išjungti telefoną</string>
+    <string name="permdesc_brick">Leidžiama programai išjungti visą telefoną visam laikui. Tai labai pavojinga.</string>
+    <string name="permlab_reboot">pradėti telefono perkrovimą</string>
+    <string name="permdesc_reboot">Leidžiama programai versti iš naujo paleisti telefono operacinę sistemą.</string>
     <string name="permlab_mount_unmount_filesystems">pasiekti USB atm. failų sist.</string>
     <string name="permdesc_mount_unmount_filesystems">Leidžiama programai įrengti ir pašalinti keičiamos atmintinės failų sistemas.</string>
     <string name="permlab_mount_format_filesystems">ištrinti USB atmintį</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Leidžiama programai skambinti telefonų numeriais be jūsų įsikišimo. Dėl to gali atsirasti nenumatytų apmokestinimų ar skambučių. Atminkite, kad programai neleidžiama skambinti pagalbos telefonų numeriais. Kenkėjiškos programos gali skambinti be jūsų patvirtinimo, o dėl to jums gali būti taikomi mokesčiai.</string>
     <string name="permlab_callPrivileged">skambinti tiesiogiai telefonų numeriais</string>
     <string name="permdesc_callPrivileged">Leidžiama programai skambinti bet kuriuo telefono numeriu, įskaitant skubios pagalbos numerius, be jūsų įsikišimo. Kenkėjiškos programos gali atlikti nereikalingus ir neteisėtus skambučius skubios pagalbos numeriais.</string>
-    <string name="permlab_performCdmaProvisioning">tiesiogiai pradėti CDMA planšetinio kompiuterio sąranką</string>
+    <string name="permlab_performCdmaProvisioning">tiesiogiai pradėti CDMA telefono sąranką</string>
     <string name="permdesc_performCdmaProvisioning">Leidžiama programai pradėti CDMA parengimą. Kenkėjiškos programos gali be reikalo pradėti CDMA parengimą.</string>
     <string name="permlab_locationUpdates">valdyti vietos atnaujinimo įspėjimus</string>
     <string name="permdesc_locationUpdates">Leidžiama programai įgalinti vietos atnaujinimo pranešimus, gautus iš radijo, ar jų neleisti. Neskirta naudoti įprastoms programoms.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Leidžiama programai valdyti įrenginio telefono funkcijas. Šį leidimą turinti programa gali perjungti tinklus, įjungti ir išjungti telefono radiją ir atlikti panašius veiksmus jūsų neįspėdama.</string>
     <string name="permlab_readPhoneState">skaityti telefono būseną ir tapatybę</string>
     <string name="permdesc_readPhoneState">Leidžiama programai pasiekti telefono funkcijas įrenginyje. Šis leidimas suteikia teisę programai nustatyti telefono numerį ir įrenginio ID, tai, ar skambutis aktyvus, ir skambučiu prijungtą nuotolinį numerį.</string>
-    <string name="permlab_wakeLock">neleisti planšetiniam kompiuteriui užmigti</string>
-    <string name="permdesc_wakeLock">Leidžiama programai neleisti planšetiniam kompiuteriui užmigti.</string>
-    <string name="permlab_devicePower">įjungti arba išjungti planšetinį kompiuterį</string>
-    <string name="permdesc_devicePower">Leidžiama programai įjungti ar išjungti planšetinį kompiuterį.</string>
+    <string name="permlab_wakeLock">neleisti telefonui snausti</string>
+    <string name="permdesc_wakeLock">Leidžiama programai neleisti telefonui užmigti.</string>
+    <string name="permlab_devicePower">telefono įjungimas ir išjungimas</string>
+    <string name="permdesc_devicePower">Leidžiama programai įjungti ar išjungti telefoną.</string>
     <string name="permlab_factoryTest">paleisti gamyklos bandymo režime</string>
-    <string name="permdesc_factoryTest">Paleisti kaip žemo lygio gamintojo bandymą, leidžiant užbaigti prieigą prie aparatinės planšetinio kompiuterio įrangos. Pasiekiama tik tada, kai planšetinis kompiuteris veikia gamintojo bandymo režimu.</string>
+    <string name="permdesc_factoryTest">Paleisti kaip žemo lygio gamintojo bandymą, leidžiant užbaigti prieigą prie aparatinės telefono įrangos. Galima tik kai telefonas veikia gamintojo bandymo režimu.</string>
     <string name="permlab_setWallpaper">nustatyti darbalaukio foną</string>
     <string name="permdesc_setWallpaper">Leidžiama programai nustatyti sistemos darbalaukio foną.</string>
     <string name="permlab_setWallpaperHints">keisti ekrano fono dydį</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">iš naujo nustatyti sistemą į gamyklos nustatymus</string>
     <string name="permdesc_masterClear">Leidžiama programai visiškai iš naujo nustatyti sistemos nustatymus į gamyklinius ištrinant visus duomenis, konfigūraciją ir įdiegtas programas.</string>
     <string name="permlab_setTime">nustatyti laiką</string>
-    <string name="permdesc_setTime">Leidžiama programai keisti planšetinio kompiuterio laiką.</string>
+    <string name="permdesc_setTime">Leidžiama programai keisti telefono laiką.</string>
     <string name="permlab_setTimeZone">nustatyti laiko zoną</string>
-    <string name="permdesc_setTimeZone">Leidžiama programai keisti planšetinio kompiuterio laiko juostą.</string>
+    <string name="permdesc_setTimeZone">Leidžiama programai keisti telefono laiko juostą.</string>
     <string name="permlab_accountManagerService">veikia kaip „AccountManagerService“</string>
     <string name="permdesc_accountManagerService">Leidžiama programai kreiptis „AccountAuthenticators“.</string>
     <string name="permlab_getAccounts">rasti paskyras įrenginyje</string>
-    <string name="permdesc_getAccounts">Leidžiama programai gauti planšetinio kompiuterio žinomų paskyrų sąrašą. Gali būti įtrauktos visos paskyros, sukurtos įdiegtomis programomis.</string>
+    <string name="permdesc_getAccounts">Leidžiama programai gauti telefono žinomų paskyrų sąrašą. Gali būti įtrauktos visos paskyros, sukurtos įdiegtomis programomis.</string>
     <string name="permlab_authenticateAccounts">kurti paskyras ir nustatyti slaptažodžius</string>
     <string name="permdesc_authenticateAccounts">Leidžiama programai naudoti paskyros „AccountManager“ tapatumo nustatymo funkcijas, įskaitant paskyrų kūrimą, jų slaptažodžių gavimą ir nustatymą.</string>
     <string name="permlab_manageAccounts">pridėti arba pašalinti paskyras</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">prijungti prie „Wi-Fi“ ir atjungti nuo jo</string>
     <string name="permdesc_changeWifiState">Leidžiama programai prisijungti prie „Wi-Fi“ ryšio prieigos taškų ir nuo jų atsijungti bei keisti įrenginio „Wi-Fi“ ryšio tinklų konfigūraciją.</string>
     <string name="permlab_changeWifiMulticastState">leisti „Wi-Fi“ daugiaadresio perdavimo priėmimą</string>
-    <string name="permdesc_changeWifiMulticastState">Leidžiama programai gauti paketus, siunčiamus į visus prie „Wi-Fi“ ryšio tinklo prijungtus įrenginius (ne tik į planšetinį kompiuterį), naudojančius daugiaadresio perdavimo adresus. Ji naudoja daugiau energijos nei ne daugiaadresio perdavimo režimas.</string>
+    <string name="permdesc_changeWifiMulticastState">Leidžiama programai gauti paketus, siunčiamus į visus prie „Wi-Fi“ ryšio tinklo prijungtus įrenginius (ne tik į telefoną), naudojančius daugiaadresio perdavimo adresus. Ji naudoja daugiau energijos nei ne daugiaadresio perdavimo režimas.</string>
     <string name="permlab_bluetoothAdmin">pasiekti „Bluetooth“ nustatymus</string>
-    <string name="permdesc_bluetoothAdmin">Leidžiama programai konfigūruoti vietinį „Bluetooth“ planšetinį kompiuterį ir atrasti nuotolinius įrenginius bei su jais susieti.</string>
+    <string name="permdesc_bluetoothAdmin">Leidžiama programai konfigūruoti vietinį „Bluetooth“ telefoną ir atrasti bei susieti su nuotoliniais įrenginiais.</string>
     <string name="permlab_accessWimaxState">prisijungti prie WiMAX ir atsijungti nuo jo</string>
     <string name="permdesc_accessWimaxState">Leidžiama programai nustatyti, ar įgalintas „WiMAX“, ir informaciją apie visus prijungtus tinklus.</string>
     <string name="permlab_changeWimaxState">Keisti „WiMAX“ būseną</string>
-    <string name="permdesc_changeWimaxState">Leidžia programai prijungti planšetinį kompiuterį prie „WiMAX“ ryšio tinklų ir nuo jų atjungti.</string>
+    <string name="permdesc_changeWimaxState">Leidžia programai prijungti telefoną prie „WiMAX“ ryšio tinklų ir nuo jų atjungti.</string>
     <string name="permlab_bluetooth">susieti su „Bluetooth“ įrenginiais</string>
-    <string name="permdesc_bluetooth">Leidžiama programai peržiūrėti „Bluetooth“ konfigūraciją planšetiniame kompiuteryje ir užmegzti bei priimti ryšius iš susietų įrenginių.</string>
+    <string name="permdesc_bluetooth">Leidžiama programai peržiūrėti „Bluetooth“ konfigūraciją telefone ir užmegzti bei priimti ryšius iš susietų įrenginių.</string>
     <string name="permlab_nfc">valdyti artimo lauko perdavimą (angl. „Near Field Communication“)</string>
     <string name="permdesc_nfc">Leidžiama programai perduoti artimojo lauko ryšių technologijos (ALR) žymas, korteles ir skaitymo programas.</string>
     <string name="permlab_disableKeyguard">išjungti ekrano užraktą</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Nustatyti slaptažodžio taisykles</string>
     <string name="policydesc_limitPassword">Valdyti leidžiamą ekrano atrakinimo slaptažodžių ilgį ir leidžiamus naudoti simbolius.</string>
     <string name="policylab_watchLogin">Stebėti bandymus atrakinti ekraną</string>
-    <string name="policydesc_watchLogin">Stebimas neteisingai įvestų slaptažodžių skaičius atrakinant ekraną ir užrakinti planšetinį kompiuterį arba ištrinti visus jame esančius duomenis, jei įvedama per daug neteisingų slaptažodžių.</string>
+    <string name="policydesc_watchLogin">Atrakindami ekraną stebėkite neteisingai įvestų slaptažodžių skaičių ir užrakinkite telefoną ar ištrinkite visus telefono duomenis, jei įvedama per daug neteisingų slaptažodžių.</string>
     <string name="policylab_resetPassword">Pakeisti ekrano užrakinimo slaptažodį</string>
     <string name="policydesc_resetPassword">Pakeisti ekrano atrakinimo slaptažodį.</string>
     <string name="policylab_forceLock">Užrakinti ekraną</string>
     <string name="policydesc_forceLock">Valdyti, kaip ir kada užrakinamas ekranas.</string>
     <string name="policylab_wipeData">Trinti visus duomenis</string>
-    <string name="policydesc_wipeData">Be įspėjimo ištrinti planšetinio kompiuterio duomenis atkuriant gamyklinius duomenis.</string>
+    <string name="policydesc_wipeData">Be įspėjimo ištrinti telefono duomenis atkuriant gamyklinius duomenis.</string>
     <string name="policylab_setGlobalProxy">Nustatyti įrenginio bendrąjį tarpinį serverį</string>
     <string name="policydesc_setGlobalProxy">Nustatyti įrenginio bendrąjį tarpinį serverį, kad būtų naudojamas, kol įgalinta politika. Tik pirmasis įrenginio administratorius nustato efektyvų bendrąjį tarpinį serverį.</string>
     <string name="policylab_expirePassword">Nust. ekr. užr. slapt. gal. pab.</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d %%</string>
     <string name="lockscreen_low_battery">Prijunkite kroviklį.</string>
     <string name="lockscreen_missing_sim_message_short">Nėra SIM kortelės</string>
-    <string name="lockscreen_missing_sim_message">Planšetiniame kompiuteryje nėra SIM kortelės.</string>
+    <string name="lockscreen_missing_sim_message">Telefone nėra SIM kortelės.</string>
     <string name="lockscreen_missing_sim_instructions">Įdėkite SIM kortelę.</string>
     <string name="lockscreen_missing_sim_instructions_long">Trūksta SIM kortelės arba ji neskaitoma. Įdėkite SIM kortelę.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Negalima naudoti SIM kortelės.</string>
@@ -778,11 +778,11 @@ Bandykite dar kartą po %d sek."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN kodą neteisingai įvedėte %d k. 
 
 Bandykite dar kartą po %d sek."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Neteisingai nurodėte savo atrakinimo modelį %d k. Po dar %d nesėkm. band. būsite paprašyti atrakinti planšetinį kompiuterį naudodami „Google“ prisijungimo duomenis.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Neteisingai nurodėte savo atrakinimo modelį %d k. Po dar %d nesėkm. band. būsite paprašyti atrakinti telefoną naudodami „Google“ prisijungimo duomenis.
 
  Bandykite dar kartą po %d sek."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">%d kart. bandėte netinkamai atrakinti planšetinį kompiuterį. Po dar %d nesėkm. band. planšetiniame kompiuteryje bus iš naujo nustatyti numatytieji gamyklos nustatymai ir bus prarasti visi naudotojo duomenys.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">%d kart. bandėte netinkamai atrakinti planšetinį kompiuterį. Planšetinis kompiuteris bus iš naujo nustatytas į numatytuosius gamyklos nustatymus.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">%d kart. bandėte netinkamai atrakinti telefoną. Po dar %d nesėkm. band. telefone bus iš naujo nustatyti numatytieji gamyklos nustatymai ir bus prarasti visi naudotojo duomenys.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">%d kart. bandėte netinkamai atrakinti telefoną. Telefonas bus iš naujo nustatytas į numatytuosius gamyklos nustatymus.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Bandyti dar kartą po %d sek.</string>
     <string name="lockscreen_forgot_pattern_button_text">Pamiršote modelį?</string>
     <string name="lockscreen_glogin_forgot_pattern">Paskyros atrakinimas</string>
@@ -867,7 +867,7 @@ Tikrai norite išeiti iš šio puslapio?"</string>
     <string name="permlab_readHistoryBookmarks">skaityti žiniatinklio žymes ir istoriją</string>
     <string name="permdesc_readHistoryBookmarks">Leidžiama programai skaityti visų URL, kuriais buvo lankytasi naršyklėje, ir visų naršyklės žymių istoriją. Pastaba: šis leidimas nesuteikiamas trečiosios šalies naršyklėms ar kitoms programoms, kuriomis galima naršyti žiniatinklį.</string>
     <string name="permlab_writeHistoryBookmarks">rašyti žiniatinklio žymes ir istoriją</string>
-    <string name="permdesc_writeHistoryBookmarks">Leidžiama programai keisti naršyklės istoriją ar žymes, išsaugotas planšetiniame kompiuteryje. Dėl to programai gali būti leidžiama ištrinti ar keisti naršyklės duomenis. Pastaba: šis leidimas nesuteikiamas trečiosios šalies naršyklėms ar kitoms programoms, kuriomis galima naršyti žiniatinklį.</string>
+    <string name="permdesc_writeHistoryBookmarks">Leidžiama programai keisti naršyklės istoriją ar žymes, išsaugotas telefone. Dėl to programai gali būti leidžiama ištrinti ar keisti naršyklės duomenis. Pastaba: šis leidimas nesuteikiamas trečiosios šalies naršyklėms ar kitoms programoms, kuriomis galima naršyti žiniatinklį.</string>
     <string name="permlab_setAlarm">nustatyti pavojaus signalą</string>
     <string name="permdesc_setAlarm">Leidžiama programai nustatyti signalą įdiegtoje žadintuvo programoje. Kai kuriose žadintuvo programose ši funkcija gali nebūti nevykdoma.</string>
     <string name="permlab_addVoicemail">pridėti balso pašto pranešimų</string>
@@ -901,7 +901,7 @@ Tikrai norite išeiti iš šio puslapio?"</string>
     <string name="searchview_description_submit">Patvirtinti užklausą</string>
     <string name="searchview_description_voice">Paieška balsu</string>
     <string name="enable_explore_by_touch_warning_title">Įgalinti naršymą liečiant?</string>
-    <string name="enable_explore_by_touch_warning_message">„%1$s“ nori įgalinti naršymą liečiant. Kai naršymas liečiant bus įjungtas, galėsite išgirsti ar peržiūrėti pirštu liečiamų elementų aprašus arba atlikdami gestus naudoti planšetinį kompiuterį.</string>
+    <string name="enable_explore_by_touch_warning_message">„%1$s“ nori įgalinti naršymą liečiant. Kai naršymas liečiant bus įjungtas, galėsite išgirsti ar peržiūrėti pirštu liečiamų elementų aprašus arba atlikdami gestus naudoti telefoną.</string>
     <string name="oneMonthDurationPast">Prieš 1 mėn.</string>
     <string name="beforeOneMonthDurationPast">Prieš maždaug 1 mėnesį</string>
     <string name="last_month">Paskutinį mėnesį</string>
@@ -1025,7 +1025,7 @@ Ar norite jį uždaryti?"</string>
     <string name="wifi_p2p_to_message">Skirta:</string>
     <string name="wifi_p2p_enter_pin_message">Įveskite reikiamą PIN kodą:</string>
     <string name="wifi_p2p_show_pin_message">PIN kodas:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Planšetinis kompiuteris bus laikinai atjungtas nuo „Wi-Fi“, kol jis prijungtas prie „%1$s“</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefonas bus laikinai atjungtas nuo „Wi-Fi“, kol bus prijungtas prie „%1$s“</string>
     <string name="select_character">Įterpti simbolį</string>
     <string name="sms_control_title">SMS pranešimų siuntimas</string>
     <string name="sms_control_message">Naudojant &lt;b>%1$s&lt;/b> siunčiama daug SMS pranešimų. Ar norite leisti šiai programai toliau siųsti pranešimus?</string>
@@ -1274,7 +1274,7 @@ dėl %s paskyros"</string>
     <string name="SetupCallDefault">Priimti skambutį?</string>
     <string name="activity_resolver_use_always">Visada</string>
     <string name="activity_resolver_use_once">Tik kartą</string>
-    <string name="default_audio_route_name">Planšetinis kompiuteris</string>
+    <string name="default_audio_route_name">Telefonas</string>
     <string name="default_audio_route_name_headphones">Ausinės</string>
     <string name="default_audio_route_name_dock_speakers">Doko garsiakalbiai</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Bandykite dar kartą po %d sek."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Netinkamai nupiešėte atrakinimo piešinį %d k. 
 
 Bandykite dar kartą po %d sek."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">%d k. bandėte netinkamai atrakinti planšetinį kompiuterį. Po dar %d nesėkm. band. planšetiniame kompiuteryje bus iš naujo nustatyti numatytieji gamyklos nustatymai ir bus prarasti visi naudotojo duomenys.</string>
-    <string name="kg_failed_attempts_now_wiping">%d k. bandėte netinkamai atrakinti planšetinį kompiuterį. Planšetiniame kompiuteryje bus iš naujo nustatyti numatytieji gamyklos nustatymai.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Netinkamai nupiešėte atrakinimo piešinį %d k. Po dar %d nesėkm. band. būsite paprašyti atrakinti planšetinį kompiuterį naudodami „Google“ prisijungimo duomenis.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">%d k. bandėte netinkamai atrakinti telefoną. Po dar %d nesėkm. band. telefone bus iš naujo nustatyti numatytieji gamyklos nustatymai ir bus prarasti visi naudotojo duomenys.</string>
+    <string name="kg_failed_attempts_now_wiping">%d k. bandėte netinkamai atrakinti telefoną. Telefone bus iš naujo nustatyti numatytieji gamyklos nustatymai.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Netinkamai nupiešėte atrakinimo piešinį %d k. Po dar %d nesėkm. band. būsite paprašyti atrakinti telefoną naudodami „Google“ prisijungimo duomenis.
 
  Bandykite dar kartą po %d sek."</string>
     <string name="kg_text_message_separator">" – "</string>

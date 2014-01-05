@@ -37,6 +37,9 @@
         <item>Outro</item>
         <item>Personalizado</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <integer-array name="maps_starting_lat_lng">
         <item>38707163</item>
         <item>-9135517</item>

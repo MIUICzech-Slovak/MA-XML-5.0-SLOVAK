@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Синхр.</string>
     <string name="contentServiceSyncNotificationTitle">Синхр.</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений %s.</string>
-    <string name="low_memory">Память планшетного ПК заполнена. Удалите какие-нибудь файлы, чтобы освободить место.</string>
+    <string name="low_memory">Память телефона заполнена. Удалите какие-нибудь файлы, чтобы освободить место.</string>
     <string name="me">Я</string>
-    <string name="power_dialog">Настройки планшетного ПК</string>
+    <string name="power_dialog">Параметры телефона</string>
     <string name="silent_mode">Режим без звука</string>
     <string name="turn_on_radio">Включить беспроводную связь</string>
     <string name="turn_off_radio">Отключить беспроводное соединение</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Вибросигнал</string>
     <string name="silent_mode_ring">Звонок включен</string>
     <string name="shutdown_progress">Выключение...</string>
-    <string name="shutdown_confirm">Планшетный ПК будет отключен.</string>
+    <string name="shutdown_confirm">Телефон будет выключен.</string>
     <string name="shutdown_confirm_question">Завершить работу?</string>
     <string name="reboot_safemode_title">Переход в безопасный режим</string>
     <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
     <string name="recent_tasks_title">Недавние</string>
     <string name="no_recent_tasks">Список недавно использованных приложений пуст.</string>
-    <string name="global_actions">Настройки планшетного ПК</string>
+    <string name="global_actions">Параметры телефона</string>
     <string name="global_action_lock">Блокировка экрана</string>
     <string name="global_action_power_off">Отключить питание</string>
     <string name="global_action_bug_report">Отчет об ошибке</string>
@@ -305,7 +305,7 @@
     <string name="permlab_readSms">Просмотр SMS и MMS</string>
     <string name="permdesc_readSms">Приложение сможет просматривать SMS-сообщения, сохраненные на устройстве или SIM-карте, независимо от содержания или настроек конфиденциальности.</string>
     <string name="permlab_writeSms">Изменение SMS и MMS</string>
-    <string name="permdesc_writeSms">Приложение сможет изменять SMS, сохраненные на планшетном ПК или SIM-карте. Вредоносные программы смогут удалять ваши сообщения.</string>
+    <string name="permdesc_writeSms">Приложение сможет изменять SMS, сохраненные на телефоне или SIM-карте. Вредоносные программы смогут удалять ваши сообщения.</string>
     <string name="permlab_receiveWapPush">Прием WAP-сообщений</string>
     <string name="permdesc_receiveWapPush">Приложение сможет получать и обрабатывать WAP-сообщения. Это значит, что оно сможет отслеживать и удалять отправленные на ваше устройство сообщения, не показывая их.</string>
     <string name="permlab_getTasks">Получение данных о запущенных приложениях</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">Приостановка изображения</string>
     <string name="permdesc_freezeScreen">Приложение сможет приостанавливать изображение на время перехода в полноэкранный режим.</string>
     <string name="permlab_injectEvents">Использование клавиш и кнопок управления</string>
-    <string name="permdesc_injectEvents">Приложение сможет передавать собственные входные события (нажатия клавиш и пр.) другим программам. Вредоносные программы смогут таким образом перехватить управление планшетным ПК.</string>
+    <string name="permdesc_injectEvents">Приложение сможет передавать собственные входные события (нажатия клавиш и пр.) другим программам. Вредоносные программы смогут таким образом перехватить управление телефоном.</string>
     <string name="permlab_readInputState">Запись вводимого текста и совершаемых действий</string>
     <string name="permdesc_readInputState">Приложение сможет отслеживать нажатие пользователем клавиш даже при работе с другими программами (например, при вводе пароля). Это разрешение не используется обычными приложениями.</string>
     <string name="permlab_bindInputMethod">Привязка к методу ввода</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">Прямая установка приложений</string>
     <string name="permdesc_installPackages">Приложение сможет устанавливать новые или обновленные пакеты Android. Вредоносные программы смогут таким образом добавлять новые программы с любыми разрешениями.</string>
     <string name="permlab_clearAppCache">Очистка кэша приложений</string>
-    <string name="permdesc_clearAppCache">Разрешает приложению освобождать место на планшетном ПК, удаляя кэшированные файлы других программ. В результате другие приложения могут запускаться медленнее, так как им потребуется повторно извлекать необходимые данные.</string>
+    <string name="permdesc_clearAppCache">Разрешает приложению освобождать место на телефоне, удаляя кэшированные файлы других программ. В результате другие приложения могут запускаться медленнее, так как им потребуется повторно извлекать необходимые данные.</string>
     <string name="permlab_movePackage">Перемещение ресурсов приложения</string>
     <string name="permdesc_movePackage">Приложение сможет перемещать ресурсы из внутреннего накопителя на внешний и наоборот.</string>
     <string name="permlab_readLogs">Просмотр конфиденциальных данных в журнале</string>
-    <string name="permdesc_readLogs">Приложение сможет считывать информацию из различных системных журналов. Приложение может получать сведения о работе пользователя на планшетном ПК, в том числе к личной и конфиденциальной информации.</string>
+    <string name="permdesc_readLogs">Приложение сможет считывать информацию из различных системных журналов, а также получать сведения о работе пользователя на телефоне, в том числе к личной и конфиденциальной информации.</string>
     <string name="permlab_anyCodecForPlayback">Использование любых дешифраторов</string>
     <string name="permdesc_anyCodecForPlayback">Приложение сможет использовать любой установленный дешифратор.</string>
     <string name="permlab_diagnostic">Чтение/запись данных в системы диагностики</string>
     <string name="permdesc_diagnostic">Приложение сможет считывать и записывать данные системы диагностики (например, файлы в каталоге /dev). Это может повлиять на стабильность и безопасность системы. Это разрешение должно использоваться ТОЛЬКО производителем или оператором для диагностики аппаратного обеспечения.</string>
     <string name="permlab_changeComponentState">Включение/отключение компонентов приложения</string>
-    <string name="permdesc_changeComponentState">Приложение сможет включать и отключать компоненты других программ. Вредоносные программы смогут таким образом отключать важные функции планшетного ПК. Используйте это разрешение с особой осторожностью, чтобы случайно не нарушить работу компонентов приложения.</string>
+    <string name="permdesc_changeComponentState">Приложение сможет включать и отключать компоненты других программ. Вредоносные программы смогут таким образом отключать важные функции телефона. Используйте это разрешение с особой осторожностью, чтобы случайно не нарушить работу компонентов приложения.</string>
     <string name="permlab_grantRevokePermissions">Предоставление и отзыв разрешений</string>
     <string name="permdesc_grantRevokePermissions">Позволяет приложению предоставлять и отзывать разрешения самому себе и другим программам. Вредоносные приложения могут использовать эту функцию для получения прав, которых вы им не предоставляли.</string>
     <string name="permlab_setPreferredApplications">Настройка предпочтительных приложений</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">Изменение карты сервисов Google</string>
     <string name="permdesc_writeGservices">Приложение сможет изменять карту служб Google. Это разрешение не используется обычными приложениями.</string>
     <string name="permlab_receiveBootCompleted">Запуск при включении устройства</string>
-    <string name="permdesc_receiveBootCompleted">Приложение сможет запускаться после начальной загрузки системы. Это может привести к увеличению времени включения планшетного ПК и уменьшить его быстродействие в связи с постоянной работой приложения.</string>
+    <string name="permdesc_receiveBootCompleted">Приложение сможет запускаться после начальной загрузки системы. Это может привести к увеличению времени включения телефона и уменьшить его быстродействие в связи с постоянной работой приложения.</string>
     <string name="permlab_broadcastSticky">Отправка сообщений с их последующим сохранением</string>
-    <string name="permdesc_broadcastSticky">Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу планшетного ПК или сделать ее нестабильной из-за чрезмерного использования памяти.</string>
+    <string name="permdesc_broadcastSticky">Приложение сможет делать несрочные рассылки, которые не удаляются после их отправки. Злоупотребление этими рассылками может замедлить работу телефона или сделать ее нестабильной из-за чрезмерного использования памяти.</string>
     <string name="permlab_readContacts">Просмотр контактов</string>
     <string name="permdesc_readContacts">Приложение сможет просматривать и сохранять все данные о контактах на устройстве, включая то, как часто вы звоните, отправляете письма и другими способами связываетесь с определенными людьми. Вредоносные программы смогут передавать данные о контактах без уведомления.</string>
     <string name="permlab_writeContacts">Изменение контактов</string>
-    <string name="permdesc_writeContacts">Приложение сможет изменять сведения о контактах на вашем планшетном ПК, включая то, как часто вы звоните, отправляете письма и другими способами связываетесь с определенными людьми. С этим разрешением приложения смогут удалять данные о контактах.</string>
+    <string name="permdesc_writeContacts">Приложение сможет изменять сведения о контактах на вашем телефоне, включая то, как часто вы звоните, отправляете письма и другими способами связываетесь с определенными людьми. С этим разрешением приложения смогут удалять данные о контактах.</string>
     <string name="permlab_readCallLog">Просмотр журнала вызовов</string>
     <string name="permdesc_readCallLog">Приложение получит доступ к списку вызовов устройства, в том числе данным о входящих и исходящих звонках, а также сможет сохранять эти данные. Вредоносные программы смогут передавать их без уведомления.</string>
     <string name="permlab_writeCallLog">Изменение журнала вызовов</string>
-    <string name="permdesc_writeCallLog">Приложение сможет вносить изменения в список вызовов планшетного ПК и данные о входящих и исходящих звонках. Вредоносные приложения смогут воспользоваться этим для удаления или изменения информации о звонках.</string>
+    <string name="permdesc_writeCallLog">Приложение сможет вносить изменения в список вызовов телефона и данные о входящих и исходящих звонках. Вредоносные приложения смогут воспользоваться этим для удаления или изменения информации о звонках.</string>
     <string name="permlab_readProfile">Просмотр ваших контактных данных</string>
     <string name="permdesc_readProfile">Приложение сможет просматривать вашу личную информацию (например, имя и контактные данные), сохраненную на устройстве. Получив эти данные, приложение сможет отправить их другим пользователям.</string>
     <string name="permlab_writeProfile">Изменение ваших контактных данных</string>
@@ -473,7 +473,7 @@
     <string name="permlab_readCalendar">Просмотр в календаре мероприятий и конфиденциальных данных</string>
     <string name="permdesc_readCalendar">Приложение сможет просматривать мероприятия в календаре устройства, в том числе добавленные друзьями или коллегами, а также передавать и сохранять данные календаря независимо от настроек конфиденциальности.</string>
     <string name="permlab_writeCalendar">Добавление/изменение мероприятий и отправление гостям эл. сообщений без предупреждения владельца календаря</string>
-    <string name="permdesc_writeCalendar">Приложение сможет добавлять, удалять и изменять мероприятия, доступные для редактирования на вашем планшетном ПК, включая мероприятия, добавленные другими людьми. Так приложение сможет рассылать сообщения от имени владельца календаря и изменять мероприятия без его ведома.</string>
+    <string name="permdesc_writeCalendar">Приложение сможет добавлять, удалять и изменять мероприятия, доступные для редактирования на вашем телефоне, включая мероприятия, добавленные другими людьми. Так приложение сможет рассылать сообщения от имени владельца календаря и изменять мероприятия без его ведома.</string>
     <string name="permlab_accessMockLocation">Установка фиктивного местоположения для отладки</string>
     <string name="permdesc_accessMockLocation">Приложение сможет создавать фиктивные местоположения для тестирования или установки нового источника геоданных и переопределять местоположение и/или статус, возвращаемые другими источниками, такими как система GPS.</string>
     <string name="permlab_accessLocationExtraCommands">Доступ к дополнительным командам управления источниками геоданных</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Приложение сможет снимать фотографии и видеоролики с помощью камеры в любое время без вашего разрешения.</string>
     <string name="permlab_cameraDisableTransmitLed">Отключать светодиодный индикатор во время использования камеры</string>
     <string name="permdesc_cameraDisableTransmitLed">Предустановленное системное приложение сможет отключать светодиодный индикатор использования камеры.</string>
-    <string name="permlab_brick">Выключение планшета</string>
-    <string name="permdesc_brick">Приложение сможет отключить все функции планшетного ПК. Это очень опасно.</string>
-    <string name="permlab_reboot">Принудительная перезагрузка планшета</string>
-    <string name="permdesc_reboot">Приложение сможет принудительно перезагружать планшетный ПК.</string>
+    <string name="permlab_brick">Отключение телефона</string>
+    <string name="permdesc_brick">Приложение сможет отключить все функции телефона. Это очень опасно.</string>
+    <string name="permlab_reboot">Принудительная перезагрузка телефона</string>
+    <string name="permdesc_reboot">Приложение сможет принудительно перезагружать телефон.</string>
     <string name="permlab_mount_unmount_filesystems">Доступ к файловой системе USB-накопителя</string>
     <string name="permdesc_mount_unmount_filesystems">Приложение сможет подключать и удалять файловые системы для съемных накопителей.</string>
     <string name="permlab_mount_format_filesystems">Удаление данных с USB-накопителя</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Приложение сможет без вашего участия звонить на любой номер телефона. Это не относится к номерам экстренных служб. Вредоносные программы смогут совершать вызовы без вашего разрешения, что может привести к непредвиденным расходам.</string>
     <string name="permlab_callPrivileged">Осуществление телефонных вызовов</string>
     <string name="permdesc_callPrivileged">Приложение сможет без вашего участия звонить по любому номеру телефона, включая номера экстренного вызова. Вредоносные программы смогут помещать ненужные или незаконные номера в список служб экстренного вызова.</string>
-    <string name="permlab_performCdmaProvisioning">Прямой запуск настройки CDMA на планшете</string>
+    <string name="permlab_performCdmaProvisioning">Прямой запуск настройки телефона CDMA</string>
     <string name="permdesc_performCdmaProvisioning">Приложение сможет запускать настройку CDMA. Вредоносные программы также смогут делать это без необходимости.</string>
     <string name="permlab_locationUpdates">Управление уведомлениями об обновлении местоположения</string>
     <string name="permdesc_locationUpdates">Приложение сможет включать и отключать уведомления об обновлении местоположения на основе данных приемопередачика. Это разрешение не используется обычными приложениями.</string>
@@ -545,11 +545,11 @@
     <string name="permlab_readPhoneState">Получение данных о статусе телефона</string>
     <string name="permdesc_readPhoneState">Приложение получит доступ к функциям телефона на устройстве. Кроме того, оно сможет определять номера телефонов и серийные номера моделей, состояние активности вызова, а также удаленные номера, с которыми установлено соединение.</string>
     <string name="permlab_wakeLock">Отключение спящего режима</string>
-    <string name="permdesc_wakeLock">Приложение сможет запрещать перевод планшетного ПК в спящий режим.</string>
-    <string name="permlab_devicePower">Включение/выключение планшета</string>
-    <string name="permdesc_devicePower">Приложение сможет включать и выключать планшетный ПК.</string>
+    <string name="permdesc_wakeLock">Приложение сможет запрещать перевод телефона в спящий режим.</string>
+    <string name="permlab_devicePower">Включение/выключение телефона</string>
+    <string name="permdesc_devicePower">Приложение сможет включать и выключать телефон.</string>
     <string name="permlab_factoryTest">Включение тестового режима</string>
-    <string name="permdesc_factoryTest">Выполнять стандартную проверку нижнего уровня, обеспечивающую полный доступ к аппаратному обеспечению планшетного ПК. Доступно только в режиме стандартной проверки.</string>
+    <string name="permdesc_factoryTest">Выполнить стандартную проверку нижнего уровня, обеспечивающую полный доступ к аппаратному обеспечению телефона. Доступно, только в режиме стандартной проверки.</string>
     <string name="permlab_setWallpaper">Установка обоев</string>
     <string name="permdesc_setWallpaper">Приложение сможет устанавливать системные обои.</string>
     <string name="permlab_setWallpaperHints">Изменение размера обоев</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">Подключение/отключение от сети Wi-Fi</string>
     <string name="permdesc_changeWifiState">Приложение сможет подключаться к точкам доступа Wi-Fi и отключаться от них, а также изменять конфигурацию сетей Wi-Fi на устройстве.</string>
     <string name="permlab_changeWifiMulticastState">Получение данных по многоадресной рассылке через Wi-Fi</string>
-    <string name="permdesc_changeWifiMulticastState">Приложение сможет получать пакеты, отправленные всем устройствам в сети Wi-Fi (не только вашему планшетному ПК) в многоадресной рассылке. При этом расходуется больше энергии, чем в одноадресном режиме.</string>
+    <string name="permdesc_changeWifiMulticastState">Приложение сможет получать пакеты, отправленные всем устройствам в сети Wi-Fi (не только вашему телефону) в многоадресной рассылке. При этом расходуется больше энергии, чем в одноадресном режиме.</string>
     <string name="permlab_bluetoothAdmin">Доступ к настройкам Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Приложение сможет настраивать параметры локального планшетного ПК с поддержкой Bluetooth, а также обнаруживать удаленные устройства и выполнять сопряжение с ними.</string>
+    <string name="permdesc_bluetoothAdmin">Приложение сможет настраивать параметры локального телефона с поддержкой Bluetooth, а также обнаруживать удаленные устройства и выполнять сопряжение с ними.</string>
     <string name="permlab_accessWimaxState">подключать/отключать сеть WiMAX</string>
     <string name="permdesc_accessWimaxState">Приложение сможет определять, активирован ли WiMAX, а также получать информацию о подключенных сетях WiMAX.</string>
     <string name="permlab_changeWimaxState">Изменение статуса WiMAX</string>
     <string name="permdesc_changeWimaxState">Приложение сможет подключать устройство к сетям WiMAX и отключать его от них.</string>
     <string name="permlab_bluetooth">Установление связи с устройствами Bluetooth</string>
-    <string name="permdesc_bluetooth">Приложение сможет просматривать конфигурацию Bluetooth на планшетном ПК, а также запрашивать и подтверждать соединение с другими устройствами.</string>
+    <string name="permdesc_bluetooth">Приложение сможет просматривать конфигурацию Bluetooth на телефоне, а также запрашивать и подтверждать соединение с другими устройствами.</string>
     <string name="permlab_nfc">Управление NFC-модулем</string>
     <string name="permdesc_nfc">Приложение сможет обмениваться данными с NFC-метками, картами и устройствами считывания, используя связь малого радиуса действия.</string>
     <string name="permlab_disableKeyguard">Отключение функции блокировки экрана</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Правила выбора паролей</string>
     <string name="policydesc_limitPassword">Контролировать длину и символы при вводе паролей для снятия блокировки экрана.</string>
     <string name="policylab_watchLogin">Отслеживать попытки снятия блокировки экрана</string>
-    <string name="policydesc_watchLogin">Отслеживает попытки ввода пароля при разблокировке экрана и блокирует планшетный ПК или удаляет с него все данные, если было сделано слишком много таких попыток.</string>
+    <string name="policydesc_watchLogin">Отслеживает попытки ввода пароля при разблокировке экрана и блокирует телефон или удаляет с него все данные, если было сделано слишком много таких попыток.</string>
     <string name="policylab_resetPassword">Изменять пароль для снятия блокировки экрана</string>
     <string name="policydesc_resetPassword">Изменять пароль для снятия блокировки экрана.</string>
     <string name="policylab_forceLock">Блокировать экран</string>
     <string name="policydesc_forceLock">Контролировать способ и время блокировки экрана.</string>
     <string name="policylab_wipeData">Удалить все данные</string>
-    <string name="policydesc_wipeData">Удалять все данные на планшетном ПК без предупреждения путем сброса настроек.</string>
+    <string name="policydesc_wipeData">Удалять все данные на телефоне без предупреждения путем сброса настроек.</string>
     <string name="policylab_setGlobalProxy">Глобальный прокси-сервер</string>
     <string name="policydesc_setGlobalProxy">Настройте глобальный прокси-сервер устройства, который будет использоваться при активной политике. Глобальный прокси-сервер должен настроить первый администратор устройства.</string>
     <string name="policylab_expirePassword">Задать срок действия пароля</string>
@@ -778,11 +778,11 @@
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали PIN-код. 
 
 Повтор через %d сек."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки планшетного ПК потребуется войти в аккаунт Google. 
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google. 
 
  Повтор через %d сек."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Вы %d раз не смогли разблокировать планшетный ПК. После %d неверных попыток будут восстановлены заводские настройки, что приведет к удалению всех пользовательских данных.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать планшетный ПК. Будут восстановлены заводские настройки.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Вы %d раз не смогли разблокировать телефон. После %d неверных попыток будут восстановлены заводские настройки, что приведет к удалению всех пользовательских данных.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Повторите попытку через %d с.</string>
     <string name="lockscreen_forgot_pattern_button_text">Забыли графический ключ?</string>
     <string name="lockscreen_glogin_forgot_pattern">Снятие блокировки аккаунта</string>
@@ -867,7 +867,7 @@
     <string name="permlab_readHistoryBookmarks">Просмотр закладок и истории поиска</string>
     <string name="permdesc_readHistoryBookmarks">Приложение получит доступ к истории и закладкам браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
     <string name="permlab_writeHistoryBookmarks">Изменение закладок и истории поиска</string>
-    <string name="permdesc_writeHistoryBookmarks">Приложение сможет изменять историю или закладки браузера, сохраненные на планшетном ПК, а также удалять и изменять данные браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
+    <string name="permdesc_writeHistoryBookmarks">Приложение сможет изменять историю или закладки браузера, сохраненные на телефоне, а также удалять и изменять данные браузера. Обратите внимание: браузеры независимых поставщиков или другие приложения для просмотра веб-страниц могут не применять это разрешение.</string>
     <string name="permlab_setAlarm">Установка будильника</string>
     <string name="permdesc_setAlarm">Приложение сможет настраивать будильник. Функция поддерживается не во всех программах.</string>
     <string name="permlab_addVoicemail">Добавление голосовых сообщений</string>
@@ -901,7 +901,7 @@
     <string name="searchview_description_submit">Отправить запрос</string>
     <string name="searchview_description_voice">Голосовой поиск</string>
     <string name="enable_explore_by_touch_warning_title">Включить \"Изучение касанием\"?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s хочет включить функцию \"Изучение касанием\". Она позволяет прослушивать или просматривать описание элементов, которых вы касаетесь, и управлять планшетным ПК с помощью жестов.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s хочет включить функцию \"Изучение касанием\". Она позволяет прослушивать или просматривать описание элементов, которых вы касаетесь, и управлять телефоном с помощью жестов.</string>
     <string name="oneMonthDurationPast">1 месяц назад</string>
     <string name="beforeOneMonthDurationPast">Более месяца назад</string>
     <string name="last_month">Прошлый месяц</string>
@@ -1025,7 +1025,7 @@
     <string name="wifi_p2p_to_message">Кому:</string>
     <string name="wifi_p2p_enter_pin_message">Введите PIN-код:</string>
     <string name="wifi_p2p_show_pin_message">PIN-код:</string>
-    <string name="wifi_p2p_frequency_conflict_message">При подключении к устройству %1$s планшетный ПК будет временно отключаться от сети Wi-Fi</string>
+    <string name="wifi_p2p_frequency_conflict_message">При подключении к устройству %1$s телефон будет временно отключаться от сети Wi-Fi</string>
     <string name="select_character">Введите символ</string>
     <string name="sms_control_title">Отправка SMS-сообщений</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> отправляет большое количество SMS. Разрешить приложению и дальше отправлять сообщения?</string>
@@ -1274,7 +1274,7 @@
     <string name="SetupCallDefault">Ответить?</string>
     <string name="activity_resolver_use_always">Всегда</string>
     <string name="activity_resolver_use_once">Только сейчас</string>
-    <string name="default_audio_route_name">Планшетный ПК</string>
+    <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_headphones">Наушники</string>
     <string name="default_audio_route_name_dock_speakers">Динамики док-станции</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали графический ключ.
 
 Повтор через %d сек."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы %d раз не смогли разблокировать планшетный ПК. После %d неверных попыток будут восстановлены заводские настройки, что приведет к удалению всех пользовательских данных.</string>
-    <string name="kg_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать планшетный ПК. Будут восстановлены заводские настройки.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки планшетного ПК потребуется войти в аккаунт Google.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы %d раз не смогли разблокировать телефон. После %d неверных попыток будут восстановлены заводские настройки, что приведет к удалению всех пользовательских данных.</string>
+    <string name="kg_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google.
 
 Повтор через %d сек."</string>
     <string name="kg_text_message_separator">" – "</string>

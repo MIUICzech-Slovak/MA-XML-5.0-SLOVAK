@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Sinhronizacija</string>
     <string name="contentServiceSyncNotificationTitle">Sinhronizacija</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Preveč izbrisov vsebine %s.</string>
-    <string name="low_memory">Pomnilnik tabličnega računalnika je poln. Izbrišite nekaj datotek, da sprostite prostor.</string>
+    <string name="low_memory">Pomnilnik telefona je poln. Izbrišite nekaj datotek, da sprostite prostor.</string>
     <string name="me">Jaz</string>
-    <string name="power_dialog">Možnosti tabličnega računalnika</string>
+    <string name="power_dialog">Možnosti telefona</string>
     <string name="silent_mode">Tihi način</string>
     <string name="turn_on_radio">Vklopi brezžično omrežje</string>
     <string name="turn_off_radio">Izklopi brezžično omrežje</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Zvonjenje z vibriranjem</string>
     <string name="silent_mode_ring">Vklopi zvonjenje</string>
     <string name="shutdown_progress">Se zaustavlja ...</string>
-    <string name="shutdown_confirm">Tablični računalnik se bo zaustavil.</string>
+    <string name="shutdown_confirm">Telefon bo zaustavljen.</string>
     <string name="shutdown_confirm_question">Ali želite izklopiti napravo?</string>
     <string name="reboot_safemode_title">Vnovičen zagon v varnem načinu</string>
     <string name="reboot_safemode_confirm">Ali želite znova zagnati v varnem načinu? S tem onemogočite vse nameščene aplikacije drugih ponudnikov. Obnovljene bodo pri naslednjem vnovičnem zagonu.</string>
     <string name="recent_tasks_title">Nedavno</string>
     <string name="no_recent_tasks">Ni nedavnih programov</string>
-    <string name="global_actions">Možnosti tabličnega računalnika</string>
+    <string name="global_actions">Možnosti telefona</string>
     <string name="global_action_lock">Zaklep zaslona</string>
     <string name="global_action_power_off">Izklopi</string>
     <string name="global_action_bug_report">Poročilo o napakah</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">pošiljanje dogodkov z odgovori prek sporočil</string>
     <string name="permdesc_sendRespondViaMessageRequest">Aplikaciji dovoli, da pošilja zahteve drugim aplikacijam za sporočila za obravnavanje dogodkov z odgovori prek sporočil za dohodne klice.</string>
     <string name="permlab_readSms">branje sporočil (SMS ali MMS)</string>
-    <string name="permdesc_readSms">Aplikaciji omogoča branje SMS-ov, shranjenih v tabličnem računalniku ali na kartici SIM. S tem lahko aplikacija bere vse SMS-e, ne glede na njihovo vsebino ali zaupnost.</string>
+    <string name="permdesc_readSms">Aplikaciji omogoča branje SMS-ov, shranjenih v telefonu ali na kartici SIM. S tem lahko aplikacija bere vse SMS-e, ne glede na njihovo vsebino ali zaupnost.</string>
     <string name="permlab_writeSms">urejanje sporočil (SMS ali MMS)</string>
-    <string name="permdesc_writeSms">Programu omogoča zapisovanje v sporočila SMS, shranjena v tabličnem računalniku ali na kartici SIM. Zlonamerni programi lahko izbrišejo vaša sporočila.</string>
+    <string name="permdesc_writeSms">Programu omogoča zapisovanje v sporočila SMS, shranjena v telefonu ali na kartici SIM. Zlonamerni programi lahko izbrišejo vaša sporočila.</string>
     <string name="permlab_receiveWapPush">prejemanje sporočil (WAP)</string>
     <string name="permdesc_receiveWapPush">Aplikaciji omogoča prejemanje in obdelavo sporočil WAP. S tem lahko aplikacija nadzoruje ali izbriše sporočila, poslana v napravo, ne da bi vam jih pokazala.</string>
     <string name="permlab_getTasks">dobivanje programov, ki se izvajajo</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">zamrzovanje zaslona</string>
     <string name="permdesc_freezeScreen">Omogoča aplikaciji začasno zamrznitev zaslona za prehod na celozaslonski način.</string>
     <string name="permlab_injectEvents">pritiskanje tipk in gumbov za nadzor</string>
-    <string name="permdesc_injectEvents">Programu omogoča, da svoje dogodke vnosa (pritiske tipk ipd.) dostavi drugim programom. Zlonamerni programi lahko s tem prevzamejo nadzor nad tabličnim računalnikom.</string>
+    <string name="permdesc_injectEvents">Programu omogoča, da svoje dogodke vnosa (pritiske tipk ipd.) dostavi drugim programom. Zlonamerni programi lahko s tem prevzamejo nadzor nad telefonom.</string>
     <string name="permlab_readInputState">snemanje vnesenega besedila in dejanj, ki jih izvedete</string>
     <string name="permdesc_readInputState">Programu omogoča spremljanje tipk, ki jih pritisnete med interakcijo z drugim programom (na primer vnos gesla). Navadni programi tega nikoli ne potrebujejo.</string>
     <string name="permlab_bindInputMethod">povezovanje z načinom vnosa</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">pošiljanje signalov Linuxa programom</string>
     <string name="permdesc_signalPersistentProcesses">Programu omogoča, da zahteva, da je posredovani signal poslan vsem trajnim procesom.</string>
     <string name="permlab_persistentActivity">neprekinjeno izvajanje programov</string>
-    <string name="permdesc_persistentActivity">Aplikaciji omogoča, da nekatere svoje dele naredi trajne v pomnilniku. S tem je lahko pomnilnik omejen za druge aplikacije, zaradi česar je delovanje tabličnega računalnika upočasnjeno.</string>
+    <string name="permdesc_persistentActivity">Aplikaciji omogoča, da nekatere svoje dele naredi trajne v pomnilniku. S tem je lahko pomnilnik omejen za druge aplikacije, zaradi česar je delovanje telefona upočasnjeno.</string>
     <string name="permlab_deletePackages">brisanje programov</string>
     <string name="permdesc_deletePackages">Programu omogoča brisanje paketov sistema Android. Zlonamerni programi lahko to uporabijo za izbris pomembnih programov.</string>
     <string name="permlab_clearAppUserData">brisanje podatkov drugih programov</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">neposredno nameščanje programov</string>
     <string name="permdesc_installPackages">Programu omogoča namestitev novih ali posodobljenih paketov sistema Android. Zlonamerni programi lahko to uporabijo za dodajanje novih programov s poljubnimi zmogljivimi dovoljenji.</string>
     <string name="permlab_clearAppCache">brisanje vseh podatkov predpomnilnika programa</string>
-    <string name="permdesc_clearAppCache">Aplikaciji omogoča sproščanje pomnilnika v tabličnem računalniku, tako da izbriše imenike predpomnilnika drugih aplikacij. To lahko povzroči počasnejši zagon drugih aplikacij, saj morajo znova prenesti svoje podatke.</string>
+    <string name="permdesc_clearAppCache">Aplikaciji omogoča sproščanje pomnilnika telefona, tako da izbriše datoteke v imenikih predpomnilnika drugih aplikacij. To lahko povzroči počasnejši zagon drugih aplikacij, saj morajo znova prenesti svoje podatke.</string>
     <string name="permlab_movePackage">premikanje sredstev programa</string>
     <string name="permdesc_movePackage">Programu omogoča premikanje sredstev programa iz notranjih medijev v zunanje in obratno.</string>
     <string name="permlab_readLogs">branje občutljivih dnevniških podatkov</string>
-    <string name="permdesc_readLogs">Programu omogoča branje različnih sistemskih dnevniških datotek. To mu omogoča dostop do splošnih podatkov v tabličnem računalniku, lahko tudi do osebnih podatkov.</string>
+    <string name="permdesc_readLogs">Programu omogoča branje različnih sistemskih dnevniških datotek. To mu omogoča dostop do splošnih podatkov v telefonu, lahko tudi do osebnih podatkov.</string>
     <string name="permlab_anyCodecForPlayback">uporaba katerega koli predstavnostnega dekodirnika za predvajanje</string>
     <string name="permdesc_anyCodecForPlayback">Programu omogoča, da uporabi kateri koli dekodirnik večpredstavnosti za predvajanje.</string>
     <string name="permlab_diagnostic">branje/pisanje v sredstva, ki so v lasti skupine za diagnostiko</string>
     <string name="permdesc_diagnostic">Programu omogoča branje in pisanje na poljuben vir, ki je v lasti skupine za diagnostiko; na primer datoteke v mapi /dev. To lahko vpliva na stabilnost in varnost sistema. To naj uporablja SAMO izdelovalec ali operater za diagnostiko, specifično za strojno opremo.</string>
     <string name="permlab_changeComponentState">omogočanje ali onemogočanje komponent programa</string>
-    <string name="permdesc_changeComponentState">Programu omogoča, da spremeni, ali je komponenta drugega programa omogočena ali ne. Zlonamerni programi lahko to uporabijo za onemogočanje pomembnih zmožnosti tabličnega računalnika. Pri dodeljevanju dovoljenja je treba biti previden, saj lahko komponente programa nastavite tako, da jih ni mogoče uporabiti, da niso dosledne ali da niso stabilne.</string>
+    <string name="permdesc_changeComponentState">Programu omogoča, da spremeni, ali je komponenta drugega programa omogočena ali ne. Zlonamerni programi lahko to uporabijo za onemogočanje pomembnih zmožnosti telefona. Pri dodeljevanju dovoljenja je treba biti previden, saj lahko komponente programa nastavite tako, da jih ni mogoče uporabiti, da niso dosledne ali da niso stabilne.</string>
     <string name="permlab_grantRevokePermissions">dodeljevanje ali preklic dovoljenj</string>
     <string name="permdesc_grantRevokePermissions">Aplikaciji omogoča dodeljevanje ali preklic posebnih dovoljenj zanjo ali za druge aplikacije. Zlonamerne aplikacije lahko to uporabijo za dostop do funkcij, za katere jim niste dodelili pravic.</string>
     <string name="permlab_setPreferredApplications">nastavitev prednostnih programov</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">spreminjanje zemljevidov Googlovih storitev</string>
     <string name="permdesc_writeGservices">Programu omogoča spreminjanje zemljevidov Googlovih storitev. Ni za uporabo z navadnimi programi.</string>
     <string name="permlab_receiveBootCompleted">izvedba ob zagonu</string>
-    <string name="permdesc_receiveBootCompleted">Programu omogoča, da se samodejno zažene po zagonu sistema. To lahko povzroči daljši zagon tabličnega računalnika in programu omogoči, da s stalnim izvajanjem upočasni delovanje tabličnega računalnika.</string>
+    <string name="permdesc_receiveBootCompleted">Programu omogoča, da se zažene takoj, ko sistem dokonča zagon. Zato lahko zagon telefona traja nekoliko dlje, program pa lahko upočasni splošno delovanje telefona, ker se vedno izvaja.</string>
     <string name="permlab_broadcastSticky">pošiljanje fiksne oddaje</string>
-    <string name="permdesc_broadcastSticky">Aplikaciji omogoča hitro pošiljanje fiksnih oddaj, ki ostanejo po koncu oddajanja. Zaradi prekomerne uporabe je delovanje tabličnega računalnika lahko počasno ali nestabilno, ker porabi preveč pomnilnika.</string>
+    <string name="permdesc_broadcastSticky">Aplikaciji omogoča hitro pošiljanje fiksnih oddaj, ki ostanejo po koncu oddajanja. Zaradi prekomerne uporabe je delovanje telefona lahko počasno ali nestabilno, ker porabi preveč pomnilnika.</string>
     <string name="permlab_readContacts">branje stikov</string>
-    <string name="permdesc_readContacts">Aplikaciji omogoča branje podatkov o stikih v tabličnem računalniku, vključno s pogostostjo klicev, pošiljanja e-poštnih sporočil in druge komunikacije s posamezniki. S tem dovoljenjem lahko aplikacije shranjujejo podatke o stikih in zlonamerne aplikacije lahko te podatke razkrijejo brez vaše vednosti.</string>
+    <string name="permdesc_readContacts">Aplikaciji omogoča branje podatkov o stikih v telefonu, vključno s pogostostjo klicev, pošiljanja e-poštnih sporočil in druge komunikacije s posamezniki. S tem dovoljenjem lahko aplikacije shranjujejo podatke o stikih in zlonamerne aplikacije lahko te podatke razkrijejo brez vaše vednosti.</string>
     <string name="permlab_writeContacts">spreminjanje stikov</string>
-    <string name="permdesc_writeContacts">Aplikaciji omogoča spreminjanje podatkov o stikih v tabličnem računalniku, vključno s pogostostjo klicev, pošiljanja e-poštnih sporočil in druge komunikacije z določenimi stiki. S tem dovoljenjem lahko aplikacije brišejo podatke o stikih.</string>
+    <string name="permdesc_writeContacts">Aplikaciji omogoča spreminjanje podatkov o stikih v telefonu, vključno s pogostostjo klicev, pošiljanja e-poštnih sporočil in druge komunikacije z določenimi stiki. S tem dovoljenjem lahko aplikacije brišejo podatke o stikih.</string>
     <string name="permlab_readCallLog">branje dnevnika klicev</string>
-    <string name="permdesc_readCallLog">Aplikaciji omogoča branje dnevnika klicev v tabličnem računalniku, vključno s podatki o dohodnih in odhodnih klicih. To dovoljenje omogoča aplikacijam shranjevanje podatkov dnevnika klicev in zlonamerne aplikacije lahko te podatke razkrijejo brez vaše vednosti.</string>
+    <string name="permdesc_readCallLog">Aplikaciji omogoča branje dnevnika klicev v telefonu, vključno s podatki o dohodnih in odhodnih klicih. To dovoljenje omogoča aplikacijam shranjevanje podatkov dnevnika klicev in zlonamerne aplikacije lahko te podatke razkrijejo brez vaše vednosti.</string>
     <string name="permlab_writeCallLog">pisanje v dnevnik klicev</string>
-    <string name="permdesc_writeCallLog">Aplikaciji dovoli spreminjanje dnevnika klicev v tabličnem računalniku, vključno s podatki o dohodnih in odhodnih klicih. Zlonamerne aplikacije lahko tako izbrišejo ali spreminjajo vaš dnevnik klicev.</string>
+    <string name="permdesc_writeCallLog">Aplikaciji dovoli spreminjanje dnevnika klicev v telefonu, vključno s podatki o dohodnih in odhodnih klicih. Zlonamerne aplikacije lahko tako izbrišejo ali spreminjajo vaš dnevnik klicev.</string>
     <string name="permlab_readProfile">branje vaše osebne vizitke</string>
     <string name="permdesc_readProfile">Aplikaciji omogoča branje osebnih podatkov v profilu, ki so shranjeni v napravi, na primer ime in podatki za stik. To pomeni, da vas lahko aplikacija prepozna in vaše podatke v profilu pošlje drugim.</string>
     <string name="permlab_writeProfile">spreminj. vaše osebne vizitke</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">pisanje v vaš družabni tok</string>
     <string name="permdesc_writeSocialStream">Aplikaciji omogoča prikaz objav vaših prijateljev v družabnih omrežjih. Previdno pri objavljanju informacij – aplikacija lahko s tem ustvari sporočila, za katera je videti, da jih pošiljajo prijatelji. Opomba: Tega dovoljenja ni mogoče uveljaviti v vseh družabnih omrežjih.</string>
     <string name="permlab_readCalendar">branje dogodkov v koledarju in zaupnih podatkov</string>
-    <string name="permdesc_readCalendar">Aplikaciji omogoča branje vseh dogodkov v koledarju, ki so shranjeni v tabličnem računalniku, vključno z dogodki prijateljev in sodelavcev. S tem lahko aplikacija objavi ali shrani podatke v koledarju, ne glede na njihovo zaupnost ali občutljivost.</string>
+    <string name="permdesc_readCalendar">Aplikaciji omogoča branje vseh dogodkov v koledarju, ki so shranjeni v telefonu, vključno z dogodki prijateljev in sodelavcev. S tem lahko aplikacija objavi ali shrani podatke v koledarju, ne glede na njihovo zaupnost ali občutljivost.</string>
     <string name="permlab_writeCalendar">dodajanje ali spreminjanje dogodkov v koledarju in pošiljanje e-pošte gostom brez vedenja lastnikov</string>
-    <string name="permdesc_writeCalendar">Aplikaciji omogoča dodajanje, odstranjevanje in spreminjanje dogodkov, ki jih je mogoče spreminjati v tabličnem računalniku, vključno z dogodki prijateljev in sodelavcev. S tem lahko aplikacija pošilja sporočila, za katera je videti, da jih pošiljajo lastniki koledarjev, ali spreminjajo dogodke brez vednosti lastnikov.</string>
+    <string name="permdesc_writeCalendar">Aplikaciji omogoča dodajanje, odstranjevanje in spreminjanje dogodkov, ki jih je mogoče spreminjati v telefonu, vključno z dogodki prijateljev in sodelavcev. S tem lahko aplikacija pošilja sporočila, za katera je videti, da jih pošiljajo lastniki koledarjev, ali spreminjajo dogodke brez vednosti lastnikov.</string>
     <string name="permlab_accessMockLocation">simulirani viri lokacije za preverjanje</string>
     <string name="permdesc_accessMockLocation">Ustvarjanje simuliranih virov lokacije za preverjanje ali namestitev novega ponudnika lokacije. S tem lahko aplikacija preglasi lokacijo in/ali stanje, ki ga vrnejo drugi viri lokacije, kot so GPS in ponudniki lokacij.</string>
     <string name="permlab_accessLocationExtraCommands">dostopanje do ukazov ponudnika dodatnih lokacij</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Aplikaciji omogoča fotografiranje in snemanje videoposnetkov s kamero. S tem dovoljenjem lahko aplikacija kadar koli uporablja kamero brez vaše potrditve.</string>
     <string name="permlab_cameraDisableTransmitLed">onemogoči LED-indikator prenašanja, ko je fotoaparat v uporabi</string>
     <string name="permdesc_cameraDisableTransmitLed">Dovoli že nameščeni sistemski aplikaciji, da onemogoči LED-indikator uporabe fotoaparata.</string>
-    <string name="permlab_brick">trajno onemogočenje tabličnega računalnika</string>
-    <string name="permdesc_brick">Programu omogoča trajno onemogočenje celotnega tabličnega računalnika. To je zelo nevarno dejanje.</string>
-    <string name="permlab_reboot">vsiljeni vnovični zagon</string>
-    <string name="permdesc_reboot">Programu omogoča, da vsili vnovični zagon tabličnega računalnika.</string>
+    <string name="permlab_brick">trajno onemogočenje telefona</string>
+    <string name="permdesc_brick">Programu omogoča trajno onemogočenje celotnega telefona. To je zelo nevarno.</string>
+    <string name="permlab_reboot">vsiljevanje vnovičnega zagona telefona</string>
+    <string name="permdesc_reboot">Dovoljuje, da program vsili vnovični zagon telefona.</string>
     <string name="permlab_mount_unmount_filesystems">dostop do dat. sist. pomn. USB</string>
     <string name="permdesc_mount_unmount_filesystems">Programu omogoča vpenjanje in izpenjanje datotečnih sistemov za izmenljive pomnilnike.</string>
     <string name="permlab_mount_format_filesystems">brisanje pomnilnika USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Aplikaciji omogoča klicanje telefonskih številk brez vašega posredovanja. Zaradi tega lahko pride do nepričakovanih stroškov ali klicev. Aplikaciji to ne dovoljuje opravljanja klicev v sili. Zlonamerne aplikacije lahko kličejo brez vaše potrditve, kar vas lahko drago stane.</string>
     <string name="permlab_callPrivileged">neposredno klicanje poljubnih telefonskih številk</string>
     <string name="permdesc_callPrivileged">Programu omogoča, da brez vas pokliče katero koli telefonsko številko, tudi klic v sili. Zlonamerni programi lahko brez potrebe in nezakonito kličejo intervencijske službe.</string>
-    <string name="permlab_performCdmaProvisioning">neposredni zagon namestitve tabličnega računalnika CDMA</string>
+    <string name="permlab_performCdmaProvisioning">neposredni zagon nastavitve telefona CDMA</string>
     <string name="permdesc_performCdmaProvisioning">Programu omogoča zagon omogočanja uporabe CDMA. Zlonamerni programi lahko po nepotrebnem zaženejo omogočanje uporabe CDMA.</string>
     <string name="permlab_locationUpdates">nadzor obvestil o posodobitvi lokacije</string>
     <string name="permdesc_locationUpdates">Programu dovoljuje omogočanje ali onemogočanje obvestil o posodobitvi lokacije radia. Ni za uporabo z navadnimi programi.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Programu omogoča nadziranje telefonskih funkcij naprave. Program lahko s tem dovoljenjem preklaplja omrežja, vklopi ali izklopi radio v telefonu, ne da bi vas obvestil.</string>
     <string name="permlab_readPhoneState">branje stanja in identitete telefona</string>
     <string name="permdesc_readPhoneState">Aplikaciji omogoča dostop do funkcij telefona v napravi. S tem dovoljenjem lahko aplikacija določi telefonsko številko in ID-je naprave, določi lahko tudi, ali je klic aktiven, in oddaljeno številko, s katero je klic povezan.</string>
-    <string name="permlab_wakeLock">preprečitev prehoda tabličnega računalnika v stanje pripravljenosti</string>
-    <string name="permdesc_wakeLock">Omogoča, da program prepreči prehod tabličnega računalnika v stanje pripravljenosti.</string>
-    <string name="permlab_devicePower">vklop ali izklop tabličnega računalnika</string>
-    <string name="permdesc_devicePower">Programu omogoča vklop ali izklop tabličnega računalnika.</string>
+    <string name="permlab_wakeLock">preprečevanje prehoda v stanje pripravljenosti telefona</string>
+    <string name="permdesc_wakeLock">Programu omogoča, da v telefonu prepreči prehod v stanje pripravljenosti.</string>
+    <string name="permlab_devicePower">vklop ali izklop telefona</string>
+    <string name="permdesc_devicePower">Programu omogoča vklop ali izklop telefona.</string>
     <string name="permlab_factoryTest">izvajanje v preskusnem načinu delovanja</string>
-    <string name="permdesc_factoryTest">Izvajanje kot proizvajalčev preskus na najnižjem nivoju, kar omogoča popoln dostop do strojne opreme tabličnega računalnika. Dovoljenje je na voljo, samo če se tablični računalnik izvaja v načinu proizvajalčevega preskusa.</string>
+    <string name="permdesc_factoryTest">Se izvaja kot preskus izdelovalca nizke ravni, ki dovoljuje popoln dostop do strojne opreme telefona. Na voljo le, ko se telefon izvaja v načinu preskusa izdelovalca.</string>
     <string name="permlab_setWallpaper">nastavljanje ozadja</string>
     <string name="permdesc_setWallpaper">Programu omogoča nastavitev ozadja sistema.</string>
     <string name="permlab_setWallpaperHints">prilagajanje velikosti slike za ozadje</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">ponastavitev sistema na privzete tovarniške nastavitve</string>
     <string name="permdesc_masterClear">Programu omogoča, da v celoti ponastavi sistema na tovarniške nastavitve, izbriše vse podatke, konfiguracijo in nameščene programe.</string>
     <string name="permlab_setTime">nastavljanje ure</string>
-    <string name="permdesc_setTime">Programu omogoča spreminjanje ure tabličnega računalnika.</string>
+    <string name="permdesc_setTime">Programu dovoljuje spreminjanje ure telefona.</string>
     <string name="permlab_setTimeZone">nastavitev časovnega pasu</string>
-    <string name="permdesc_setTimeZone">Programu omogoča spreminjanje časovnega pasu v tabličnem računalniku.</string>
+    <string name="permdesc_setTimeZone">Programu omogoča spreminjanje časovnega pasu v telefonu.</string>
     <string name="permlab_accountManagerService">opravljanje vloge AccountManagerService</string>
     <string name="permdesc_accountManagerService">Programu omogoča, da pokliče overovitelje računa.</string>
     <string name="permlab_getAccounts">iskanje računov v napravi</string>
-    <string name="permdesc_getAccounts">Aplikaciji omogoča prejemanje seznama računov, ki jih pozna tablični računalnik.To lahko vključuje račune, ki so jih ustvarile nameščene aplikacije.</string>
+    <string name="permdesc_getAccounts">Aplikaciji omogoča prejemanje seznama računov, ki jih pozna telefon.To lahko vključuje račune, ki so jih ustvarile nameščene aplikacije.</string>
     <string name="permlab_authenticateAccounts">ustvarjanje računov in nastavitev gesel</string>
     <string name="permdesc_authenticateAccounts">Programu omogoča uporabo zmožnosti overovitelja računa storitve AccountManager, vključno z ustvarjanjem računov ter s pridobivanjem in nastavljanjem njihovih gesel.</string>
     <string name="permlab_manageAccounts">dodajanje ali odstranjevanje računov</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">vzpostavitev povezave z omrežjem Wi-Fi in prekinitev povezave z njim</string>
     <string name="permdesc_changeWifiState">Aplikaciji omogoča, da vzpostavi povezavo z dostopnimi točkami Wi-Fi in prekine povezavo z njimi ter spremeni konfiguracijo naprav za omrežja Wi-Fi.</string>
     <string name="permlab_changeWifiMulticastState">dovoljevanje sprejema večvrstnega brezžičnega oddajanja</string>
-    <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju Wi-Fi z večvrstnimi naslovi, ne samo v vaš tablični računalnik. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
+    <string name="permdesc_changeWifiMulticastState">Aplikaciji omogoča prejemanje paketov, poslanih v vse naprave v omrežju Wi-Fi z večvrstnimi naslovi, ne samo v vaš telefon. Poraba je večja kot v načinu delovanja brez večvrstnega oddajanja.</string>
     <string name="permlab_bluetoothAdmin">dostop do nastavitev Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Programu omogoča konfiguriranje lokalnega tabličnega računalnika Bluetooth ter zaznavanje oddaljenih naprav in združevanje z njimi.</string>
+    <string name="permdesc_bluetoothAdmin">Programu omogoča konfiguriranje lokalnega telefona s tehnologijo Bluetooth ter odkrivanje oddaljenih naprav in povezovanje z njimi.</string>
     <string name="permlab_accessWimaxState">vzpostavitev povezave z omrežjem WiMax in prekinitev povezave z njim</string>
     <string name="permdesc_accessWimaxState">Aplikaciji omogoča, da ugotovi, ali je WiMAX omogočen, in ogled podatkov o povezanih omrežjih WiMAX.</string>
     <string name="permlab_changeWimaxState">Sprememba stanja omrežja WiMAX</string>
-    <string name="permdesc_changeWimaxState">Aplikaciji omogoča, da vzpostavi povezavo med tabličnim računalnikom in omrežjem WiMAX ter jo prekine.</string>
+    <string name="permdesc_changeWimaxState">Aplikaciji omogoča, da vzpostavi povezavo med telefonom in omrežjem WiMAX ter jo prekine.</string>
     <string name="permlab_bluetooth">seznanitev z napravami Bluetooth</string>
-    <string name="permdesc_bluetooth">Aplikaciji omogoča ogled konfiguracije Bluetootha tabličnega računalnika ter vzpostavljanje in sprejemanje povezave s seznanjenimi napravami.</string>
+    <string name="permdesc_bluetooth">Aplikaciji omogoča ogled konfiguracije Bluetootha telefona ter ustvarjanje in sprejemanje povezave s seznanjenimi napravami.</string>
     <string name="permlab_nfc">nadzor nad komunikacijo s tehnologijo bližnjega polja</string>
     <string name="permdesc_nfc">Podpira komunikacijo med računalnikom in oznakami, karticami in bralniki komunikacije s tehnologijo bližnjega polja.</string>
     <string name="permlab_disableKeyguard">onemogočanje zaklepanja zaslona</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Nastavitev pravil za geslo</string>
     <string name="policydesc_limitPassword">Nadzor nad dolžino in znaki, ki so dovoljeni v geslih za odklepanje zaslona.</string>
     <string name="policylab_watchLogin">nadzor nad poskusi odklepanja zaslona</string>
-    <string name="policydesc_watchLogin">Nadzoruje število nepravilno vnesenih gesel pri odklepanju zaslona in zaklene tablični računalnik ali izbriše vse podatke v njem, če je vnesenih preveč nepravilnih gesel.</string>
+    <string name="policydesc_watchLogin">Spremljajte število vnesenih napačnih gesel, s katerimi želite odkleniti zaslon. Če je teh vnosov preveč, zaklenite telefon ali izbrišite vse podatke v njem.</string>
     <string name="policylab_resetPassword">Spreminjanje gesla za odklepanje zaslona</string>
     <string name="policydesc_resetPassword">Sprememba gesla za odklepanje zaslona.</string>
     <string name="policylab_forceLock">Zaklepanje zaslona</string>
     <string name="policydesc_forceLock">Nadzor nad tem, kako in kdaj se zaklene zaslon.</string>
     <string name="policylab_wipeData">Brisanje vseh podatkov</string>
-    <string name="policydesc_wipeData">Izbris podatkov v tabličnem računalniku brez opozorila s ponastavitvijo na tovarniške nastavitve</string>
+    <string name="policydesc_wipeData">Izbris podatkov v telefonu brez opozorila s ponastavitvijo na tovarniške nastavitve</string>
     <string name="policylab_setGlobalProxy">Nastavitev globalnega strežnika proxy za napravo</string>
     <string name="policydesc_setGlobalProxy">Nastavite globalni strežnik proxy naprave, ki bo v uporabi, ko je pravilnik omogočen. Samo skrbnik prve naprave lahko nastavi veljaven globalni strežnik proxy.</string>
     <string name="policylab_expirePassword">Nastavitev poteka gesla za zaklepanje zaslona</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Priključite napajalnik.</string>
     <string name="lockscreen_missing_sim_message_short">Ni kartice SIM</string>
-    <string name="lockscreen_missing_sim_message">V tabličnem računalniku ni kartice SIM.</string>
+    <string name="lockscreen_missing_sim_message">V telefonu ni kartice SIM.</string>
     <string name="lockscreen_missing_sim_instructions">Vstavite kartico SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">Ni kartice SIM ali je ni mogoče prebrati. Vstavite kartico SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Neuporabna kartica SIM.</string>
@@ -778,11 +778,11 @@ Znova poskusite čez %d s."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"PIN ste %d-krat vnesli napačno. 
 
 Znova poskusite čez %d s."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vzorec za odklepanje ste nepravilno vnesli %d-krat. Po %d neuspešnih poskusih boste pozvani, da odklenete tablični računalnik z Googlovimi podatki za prijavo.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Vzorec za odklepanje ste nepravilno vnesli %d-krat. Po %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
 
 Poskusite znova čez %d s."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tablični računalnik ste poskusili %d-krat nepravilno odkleniti. Če poskusite še %d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izbrisani.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Tablični računalnik ste poskusili %d-krat nepravilno odkleniti, zato bo zdaj ponastavljen na privzete tovarniške nastavitve.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d-krat nepravilno odkleniti. Če poskusite še %d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve, vsi uporabniški podatki pa bodo izgubljeni.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Telefon ste poskusili %d-krat nepravilno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Poskusite znova čez %d sekund.</string>
     <string name="lockscreen_forgot_pattern_button_text">Ali ste pozabili vzorec?</string>
     <string name="lockscreen_glogin_forgot_pattern">Odklepanje računa</string>
@@ -867,7 +867,7 @@ Ali res želite zapustiti to stran?"</string>
     <string name="permlab_readHistoryBookmarks">branje spletnih zaznamkov in zgodovine</string>
     <string name="permdesc_readHistoryBookmarks">Aplikaciji omogoča, da prebere zgodovino vseh URL-jev, ki jih je obiskal brskalnik, in vse zaznamke brskalnika. Opomba: Tega dovoljenja ne morejo uveljavljati drugi brskalniki ali aplikacije, s katerimi je mogoče brskati po spletu.</string>
     <string name="permlab_writeHistoryBookmarks">zapisovanje spletnih zaznamkov in zgodovine</string>
-    <string name="permdesc_writeHistoryBookmarks">Aplikaciji omogoča spreminjanje zgodovine ali zaznamkov brskalnika v tabličnem računalniku. S tem lahko aplikacija izbriše ali spremeni podatke v brskalniku. Opomba: Tega dovoljenja ne morejo uveljavljati drugi brskalniki ali aplikacije, s katerimi je mogoče brskati po spletu.</string>
+    <string name="permdesc_writeHistoryBookmarks">Aplikaciji omogoča spreminjanje zgodovine ali zaznamkov brskalnika v telefonu. S tem lahko aplikacija izbriše ali spremeni podatke v brskalniku. Opomba: Tega dovoljenja ne morejo uveljavljati drugi brskalniki ali aplikacije, s katerimi je mogoče brskati po spletu.</string>
     <string name="permlab_setAlarm">nastavitev alarma</string>
     <string name="permdesc_setAlarm">Programu omogoča nastavitev alarma v nameščenem programu budilke. Nekateri programi budilke morda nimajo te funkcije.</string>
     <string name="permlab_addVoicemail">dodajanje odzivnika</string>
@@ -901,7 +901,7 @@ Ali res želite zapustiti to stran?"</string>
     <string name="searchview_description_submit">Pošlji poizvedbo</string>
     <string name="searchview_description_voice">Glasovno iskanje</string>
     <string name="enable_explore_by_touch_warning_title">Vklop raziskovanja z dotikom?</string>
-    <string name="enable_explore_by_touch_warning_message">Storitev %1$s želi omogočiti raziskovanje z dotikom. Ko je raziskovanje z dotikom vklopljeno, lahko slišite ali vidite opise tega, kar je pod vašim prstom, ali izvajate poteze za interakcijo s tabličnim računalnikom.</string>
+    <string name="enable_explore_by_touch_warning_message">Storitev %1$s želi omogočiti raziskovanje z dotikom. Ko je raziskovanje z dotikom vklopljeno, lahko slišite ali vidite opise tega, kar je pod vašim prstom, ali izvajate poteze za interakcijo s telefonom.</string>
     <string name="oneMonthDurationPast">Pred 1 mesecem</string>
     <string name="beforeOneMonthDurationPast">Pred več kot 1 mesecem</string>
     <string name="last_month">Pretekli mesec</string>
@@ -1025,7 +1025,7 @@ Ali jo želite zapreti?"</string>
     <string name="wifi_p2p_to_message">Za:</string>
     <string name="wifi_p2p_enter_pin_message">Vnesite zahtevano kodo PIN:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Tablični računalnik bo začasno prekinil povezavo z Wi-Fi-jem, medtem ko je povezan z napravo %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefon bo začasno prekinil povezavo z Wi-Fi-jem, ko je povezan z napravo %1$s</string>
     <string name="select_character">Vstavljanje znaka</string>
     <string name="sms_control_title">Pošiljanje sporočil SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> pošilja veliko SMS-ov. Ali želite dovoliti, da jih še naprej pošilja?</string>
@@ -1274,7 +1274,7 @@ za račun %s."</string>
     <string name="SetupCallDefault">Ali želite sprejeti klic?</string>
     <string name="activity_resolver_use_always">Vedno</string>
     <string name="activity_resolver_use_once">Samo tokrat</string>
-    <string name="default_audio_route_name">Tablični računalnik</string>
+    <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_headphones">Slušalke</string>
     <string name="default_audio_route_name_dock_speakers">Zvočniki stojala</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Znova poskusite čez %d s."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Vzorec za odklepanje ste nepravilno narisali %d-krat. 
 
 Poskusite znova čez %d s."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tablični računalnik ste poskusili %d-krat napačno odkleniti. Če poskusite še %d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
-    <string name="kg_failed_attempts_now_wiping">Tablični računalnik ste poskusili %d-krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d-krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da tablični računalnik odklenete z e-poštnim računom.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Telefon ste poskusili %d-krat napačno odkleniti. Če poskusite še %d-krat in ne uspete, bo ponastavljen na privzete tovarniške nastavitve in vsi uporabniški podatki bodo izgubljeni.</string>
+    <string name="kg_failed_attempts_now_wiping">Telefon ste poskusili %d-krat napačno odkleniti, zato bo ponastavljen na privzete tovarniške nastavitve.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Vzorec za odklepanje ste %d-krat napačno vnesli. Po nadaljnjih %d neuspešnih poskusih boste pozvani, da odklenete telefon z Googlovimi podatki za prijavo.
 
 Poskusite znova čez %d s."</string>
     <string name="kg_text_message_separator">" – "</string>

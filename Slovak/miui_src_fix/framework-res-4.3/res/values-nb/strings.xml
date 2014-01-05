@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Synkronisering</string>
     <string name="contentServiceSyncNotificationTitle">Synkronisering</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">For mange slettinger av %s.</string>
-    <string name="low_memory">Nettbrettlageret er fullt. Slett noen filer for å frigjøre lagringsplass.</string>
+    <string name="low_memory">Telefonlageret er fullt. Slett noen filer for å frigjøre lagringsplass.</string>
     <string name="me">Meg</string>
-    <string name="power_dialog">Innstillinger for nettbrettet</string>
+    <string name="power_dialog">Telefoninnstillinger</string>
     <string name="silent_mode">Stillemodus</string>
     <string name="turn_on_radio">Slå på trådløst nett</string>
     <string name="turn_off_radio">Slå av trådløst nett</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Vibreringsmodus</string>
     <string name="silent_mode_ring">Ringelyd på</string>
     <string name="shutdown_progress">Avslutter…</string>
-    <string name="shutdown_confirm">Nettbrettet slås av.</string>
+    <string name="shutdown_confirm">Telefonen kommer til å slås av.</string>
     <string name="shutdown_confirm_question">Vil du slå av?</string>
     <string name="reboot_safemode_title">Start på nytt i sikker modus</string>
     <string name="reboot_safemode_confirm">Ønsker du å starte på nytt i sikker modus? Dette deaktiverer alle tredjepartsprogrammene du har installert. De gjenopprettes når du starter på nytt.</string>
     <string name="recent_tasks_title">Nylig</string>
     <string name="no_recent_tasks">Ingen nylige apper.</string>
-    <string name="global_actions">Innstillinger for nettbrett</string>
+    <string name="global_actions">Telefoninnstillinger</string>
     <string name="global_action_lock">Lås skjermen</string>
     <string name="global_action_power_off">Slå av</string>
     <string name="global_action_bug_report">Feilrapport</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">send svar via melding-hendelser</string>
     <string name="permdesc_sendRespondViaMessageRequest">Lar appen sende forespørsler om håndtering av svar via melding-hendelser for innkommende anrop til andre meldingsapper.</string>
     <string name="permlab_readSms">leser tekstmeldinger (SMS eller MMS)</string>
-    <string name="permdesc_readSms">Lar appen lese tekstmeldinger lagret på nettbrettet eller SIM-kortet ditt. Dette lar appen lese alle tekstmeldingene dine, uavhengig av innhold og konfidensialitet.</string>
+    <string name="permdesc_readSms">Lar appen lese tekstmeldinger lagret på telefonen eller SIM-kortet ditt. Dette lar appen lese alle tekstmeldingene dine, uavhengig av innhold og konfidensialitet.</string>
     <string name="permlab_writeSms">redigerer tekstmeldingene dine (SMS eller MMS)</string>
-    <string name="permdesc_writeSms">Lar appen skrive til SMS-meldinger som er lagret på nettbrettet eller SIM-kortet ditt. Ondsinnede apper kan komme til å slette meldingene dine.</string>
+    <string name="permdesc_writeSms">Lar appen skrive til SMS-meldinger som er lagret på telefonen eller SIM-kortet ditt. Ondsinnede apper kan komme til å slette meldingene dine.</string>
     <string name="permlab_receiveWapPush">mottar tekstmeldinger (WAP)</string>
     <string name="permdesc_receiveWapPush">Lar appen motta og behandle WAP-meldinger. Dette betyr at appen kan overvåke eller slette meldinger som er sendt til deg uten at du har sett dem.</string>
     <string name="permlab_getTasks">hente apper som kjører</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">fryse skjermbildet</string>
     <string name="permdesc_freezeScreen">Tillater appen å midlertidig fryse skjermen for overgang til fullskjerm.</string>
     <string name="permlab_injectEvents">trykke taster og kontrolknapper</string>
-    <string name="permdesc_injectEvents">Lar appen levere sine egne inndatahendelser (tastetrykk osv.) til andre apper. Ondsinnede apper kan bruke dette til å ta over nettbrettet.</string>
+    <string name="permdesc_injectEvents">Lar appen levere sine egne inndatahendelser (tastetrykk osv.) til andre apper. Ondsinnede apper kan bruke dette til å ta over telefonen.</string>
     <string name="permlab_readInputState">ta opp hva som skrives og gjøres</string>
     <string name="permdesc_readInputState">Lar appen se hvilke taster du trykker på, selv når du samhandler med en annen app (f.eks. skriver inn et passord). Skal aldri være nødvendig for vanlige apper.</string>
     <string name="permlab_bindInputMethod">binde til en inndatametode</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">sende Linux-signaler til apper</string>
     <string name="permdesc_signalPersistentProcesses">Lar appen be om at det leverte signalet sendes til alle vedvarende prosesser.</string>
     <string name="permlab_persistentActivity">angi at appen alltid skal kjøre</string>
-    <string name="permdesc_persistentActivity">Lar appen gjøre deler av seg selv vedvarende i minnet. Dette kan begrense minnet for andre apper og gjøre nettbrettet tregt.</string>
+    <string name="permdesc_persistentActivity">Lar appen gjøre deler av seg selv vedvarende i minnet. Dette kan begrense minnet for andre apper og gjøre telefonen treg.</string>
     <string name="permlab_deletePackages">slette apper</string>
     <string name="permdesc_deletePackages">Lar appen slette Android-pakker. Ondsinnede apper kan bruke dette til å slette viktige apper.</string>
     <string name="permlab_clearAppUserData">slette dataene til andre apper</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">installere apper direkte</string>
     <string name="permdesc_installPackages">Lar appen installere nye eller oppdaterte Android-pakker. Ondsinnede apper kan bruke dette til å legge til nye apper med vilkårlig omfattende tillatelser.</string>
     <string name="permlab_clearAppCache">slette alle bufferdata for apper</string>
-    <string name="permdesc_clearAppCache">Lar appen frigjøre lagringsplass på nettbrettet ved å slette filer i bufferkataloger eller andre apper. Dette kan medføre tregere oppstart av andre apper, siden de må hente inn dataene sine på nytt.</string>
+    <string name="permdesc_clearAppCache">Lar appen frigjøre lagringsplass på telefonen ved å slette filer i bufferkataloger eller andre apper. Dette kan medføre tregere oppstart av andre apper, siden de må hente inn dataene sine på nytt.</string>
     <string name="permlab_movePackage">flytte appressurser</string>
     <string name="permdesc_movePackage">Lar appen flytte appressurser fra interne til eksterne medier, og omvendt.</string>
     <string name="permlab_readLogs">lese sensitive loggdata</string>
-    <string name="permdesc_readLogs">Lar appen lese fra diverse loggfiler på systemet. Disse inneholder generell informasjon om hva som gjøres med nettbrettet, og kan inneholde personlig eller privat informasjon.</string>
+    <string name="permdesc_readLogs">Lar appen lese fra diverse loggfiler på systemet. Disse inneholder generell informasjon om hva som gjøres med telefonen, og kan inneholde personlig eller privat informasjon.</string>
     <string name="permlab_anyCodecForPlayback">bruke en hvilken som helst mediedekoder for avspilling</string>
     <string name="permdesc_anyCodecForPlayback">Lar appen bruke en hvilken som helst installert mediedekoder for å dekode for avspilling.</string>
     <string name="permlab_diagnostic">lese/skrive ressurser eid av diag</string>
     <string name="permdesc_diagnostic">Lar appen lese og skrive til alle ressurser som eies av gruppen «diag», som for eksempel filer i /dev. Dette kan potensielt påvirke systemets sikkerhet og stabilitet. Dette bør BARE brukes av produsenten eller operatøren til maskinvarespesifikk diagnostikk.</string>
     <string name="permlab_changeComponentState">aktivere eller deaktivere appkomponenter</string>
-    <string name="permdesc_changeComponentState">Lar appen endre hvorvidt en komponent i en annen app er aktivert eller ikke. Ondsinnede apper kan bruke dette til å deaktivere viktige nettbrettfunksjoner. Denne tillatelsen må brukes med forsiktighet, ettersom det er mulig å få appkomponenter inn i en ubrukelig, inkonsistent eller ustabil tilstand.</string>
+    <string name="permdesc_changeComponentState">Lar appen endre hvorvidt en komponent i en annen app er aktivert eller ikke. Ondsinnede apper kan bruke dette til å deaktivere viktige telefonfunksjoner. Denne tillatelsen må brukes med forsiktighet, ettersom det er mulig å få appkomponenter inn i en ubrukelig, inkonsistent eller ustabil tilstand.</string>
     <string name="permlab_grantRevokePermissions">gi eller trekke tilbake tillatelser</string>
     <string name="permdesc_grantRevokePermissions">Lar programmer gi eller trekke tilbake spesielle tillatelser for eget bruk eller for andre programmer. Skadelige programmer kan bruke dette for å få tilgang til funksjoner de ikke skal ha tilgang til.</string>
     <string name="permlab_setPreferredApplications">angi foretrukne apper</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">redigere Google-tjenestekartet</string>
     <string name="permdesc_writeGservices">Lar appen endre Google-tjenestekartet. Ikke beregnet på vanlige apper.</string>
     <string name="permlab_receiveBootCompleted">kjører fra oppstart</string>
-    <string name="permdesc_receiveBootCompleted">Lar appen starte seg selv så snart systemet har startet opp. Dette kan føre til lengre oppstartstid for nettbrettet, i tillegg til at nettbrettet kan bli generelt tregere av at appen alltid kjører.</string>
+    <string name="permdesc_receiveBootCompleted">Lar appen starte seg selv så snart systemet har startet opp. Dette kan føre til lengre oppstartstid for telefonen, i tillegg til at telefonen kan bli generelt tregere av at appen alltid kjører.</string>
     <string name="permlab_broadcastSticky">sende varige kringkastinger</string>
-    <string name="permdesc_broadcastSticky">Lar appen sende faste kringkastinger («sticky broadcasts») som blir værende etter at kringkastingen er over. Overdreven bruk kan gjøre nettbrettet tregt eller ustabilt ved å bruke for mye minne.</string>
+    <string name="permdesc_broadcastSticky">Lar appen sende faste kringkastinger («sticky broadcasts») som blir værende etter at kringkastingen er over. Overdreven bruk kan gjøre telefonen treg eller ustabil ved å bruke for mye minne.</string>
     <string name="permlab_readContacts">leser kontaktene dine</string>
-    <string name="permdesc_readContacts">Lar appen lese informasjon om kontaktene lagret på nettbrettet ditt, inkludert hvor ofte du har ringt, sendt e-post til, eller på andre måter kommunisert med spesifikke personer. Denne tillatelsen lar apper lagre kontaktdata. Merk at skadelige apper kan dele disse dataene uten at du vet om det.</string>
+    <string name="permdesc_readContacts">Lar appen lese informasjon om kontaktene lagret på telefonen din, inkludert hvor ofte du har ringt, sendt e-post til eller på andre måter kommunisert med spesifikke personer. Denne tillatelsen lar apper lagre kontaktdata. Merk at skadelige apper kan dele disse dataene uten at du vet om det.</string>
     <string name="permlab_writeContacts">endrer kontaktene dine</string>
-    <string name="permdesc_writeContacts">Lar appen endre informasjon om kontaktene lagret på nettbrettet ditt, inkludert hvor ofte du har ringt, sendt e-post til eller på andre måter kommunisert med bestemte kontakter. Denne tillatelsen lar apper slette kontaktdata.</string>
+    <string name="permdesc_writeContacts">Lar appen endre informasjon om kontaktene lagret på telefonen din, inkludert hvor ofte du har ringt, sendt e-post til eller på andre måter kommunisert med bestemte kontakter. Denne tillatelsen lar apper slette kontaktdata.</string>
     <string name="permlab_readCallLog">lar appen lese anropsloggen</string>
-    <string name="permdesc_readCallLog">Lar appen lese samtaleloggen på nettbrettet ditt. Dette omfatter informasjon om innkommende og utgående anrop. Denne tillatelsen lar apper lagre all samtaleinformasjonen din. Merk at skadelige apper kan dele informasjonen uten at du har samtykket.</string>
+    <string name="permdesc_readCallLog">Lar appen lese samtaleloggen på telefonen din. Dette omfatter informasjon om innkommende og utgående anrop. Denne tillatelsen lar apper lagre all samtaleinformasjonen din. Merk at skadelige apper kan dele informasjonen uten at du har samtykket.</string>
     <string name="permlab_writeCallLog">lar appen endre samtaleloggen</string>
-    <string name="permdesc_writeCallLog">Lar appen endre nettbrettets samtalelogg, inkludert data om innkommende og utgående anrop. Skadelige apper kan utnytte denne tillatelsen til å slette eller endre samtaleloggen din.</string>
+    <string name="permdesc_writeCallLog">Lar appen endre telefonens samtalelogg, inkludert data om innkommende og utgående anrop. Skadelige apper kan utnytte denne tillatelsen til å slette eller endre samtaleloggen din.</string>
     <string name="permlab_readProfile">leser ditt eget kontaktkort</string>
     <string name="permdesc_readProfile">Lar appen lese personlig profilinformasjon som er lagret på enheten, som for eksempel navn og kontaktinformasjon. Dette betyr at appen kan identifisere deg og sende profilinformasjonen din til andre.</string>
     <string name="permlab_writeProfile">endrer ditt eget kontaktkort</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">skrive i din sosiale strøm</string>
     <string name="permdesc_writeSocialStream">Lar appen vise sosiale oppdateringer fra vennene dine. Vær forsiktig når du deler informasjon - med denne tillatelsen kan appen lage meldinger som ser ut som om de kommer fra en venn. Vær oppmerksom på at denne tillatelsen kanskje ikke gjelder på alle sosiale nettverk.</string>
     <string name="permlab_readCalendar">les kalenderhendelser og konfidensiell informasjon</string>
-    <string name="permdesc_readCalendar">Lar appen lese alle kalenderaktivitetene lagret på nettbrettet ditt, inkludert aktiviteter for venner eller kolleger. Dette kan gjøre at appen deler eller lagrer kalenderinformasjonen din uavhengig av konfidensialitet og sensitivitet.</string>
+    <string name="permdesc_readCalendar">Lar appen lese alle kalenderaktivitetene lagret på telefonen din, inkludert aktiviteter for venner eller kolleger. Dette kan gjøre at appen deler eller lagrer kalenderinformasjonen din uavhengig av konfidensialitet og sensitivitet.</string>
     <string name="permlab_writeCalendar">legge til eller endre kalenderhendelser og sende e-post til gjester uten eiernes viten</string>
-    <string name="permdesc_writeCalendar">Lar appen legge til, fjerne og endre aktiviteter du kan redigere på nettbrettet ditt, inkludert aktiviteter for venner eller kolleger. Dette kan gjøre at appen sender meldinger som ser ut som om de kommer fra kalendereiere eller endre aktiviteter uten at eierne vet om det.</string>
+    <string name="permdesc_writeCalendar">Lar appen legge til, fjerne og endre aktiviteter du kan redigere på telefonen din, inkludert aktiviteter for venner eller kolleger. Dette kan gjøre at appen sender meldinger som ser ut som om de kommer fra kalendereiere eller endre aktiviteter uten at eierne vet om det.</string>
     <string name="permlab_accessMockLocation">lage simulerte posisjonskilder for testing</string>
     <string name="permdesc_accessMockLocation">Opprette fiktive posisjonskilder for testing eller installere en ny posisjonsangiver. Dette gjør at appen kan overstyre posisjonen eller statusen som rapporteres av ekte posisjonskilder, som for eksempel GPS eller posisjonsangivere.</string>
     <string name="permlab_accessLocationExtraCommands">få tilgang til ekstra posisjonskommandoer</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Lar appen ta bilder og filme med kameraet. Denne tillatelsen gjør at appen kan bruke kameraet når som helst uten bekreftelse fra deg.</string>
     <string name="permlab_cameraDisableTransmitLed">deaktiver LED-lyset for indikering av overføring når kameraet er i bruk</string>
     <string name="permdesc_cameraDisableTransmitLed">Tillater at forhåndsinnstallerte systemapper deaktiverer LED-indikatoren for kamerabruk.</string>
-    <string name="permlab_brick">deaktiver nettbrett permanent</string>
-    <string name="permdesc_brick">Lar appen deaktivere hele nettbrettet permanent. Dette er svært risikabelt.</string>
-    <string name="permlab_reboot">tvungen omstart av nettbrettet</string>
-    <string name="permdesc_reboot">Lar appen fremtvinge omstart av nettbrettet.</string>
+    <string name="permlab_brick">deaktivere telefonen permanent</string>
+    <string name="permdesc_brick">Lar appen deaktivere hele telefonen permanent. Dette er svært risikabelt.</string>
+    <string name="permlab_reboot">tvinge omstart av telefon</string>
+    <string name="permdesc_reboot">Lar appen fremtvinge omstart av telefonen.</string>
     <string name="permlab_mount_unmount_filesystems">får tilgang til filsystemet til USB-lagring</string>
     <string name="permdesc_mount_unmount_filesystems">Lar appen koble til og fra filsystemer for flyttbar lagring.</string>
     <string name="permlab_mount_format_filesystems">tømmer USB-lagring</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Lar appen ringe telefonnumre uten at du gjør noe. Dette kan resultere i uventede oppringninger og kostnader. Appen kan imidlertid ikke ringe nødnumre. Merk at skadelige apper kan påføre deg kostnader ved å ringe uten bekreftelse fra deg.</string>
     <string name="permlab_callPrivileged">ringe vilkårlige telefonnummer direkte</string>
     <string name="permdesc_callPrivileged">Lar appen ringe alle slags telefonnumre, deriblant nødnumre, uten din innvirkning. Ondsinnede apper kan foreta unødvendige og ulovlige anrop til nødtjenestene.</string>
-    <string name="permlab_performCdmaProvisioning">start CDMA-nettbrettoppsett direkte</string>
+    <string name="permlab_performCdmaProvisioning">begynne CDMA-telefonoppsett direkte</string>
     <string name="permdesc_performCdmaProvisioning">Lar appen starte CDMA-oppsett. Ondsinnede apper kan bruke dette til å starte CDMA-oppsett uten grunn.</string>
     <string name="permlab_locationUpdates">kontrollere varsling for plasseringsendring</string>
     <string name="permdesc_locationUpdates">Lar appen aktivere og deaktivere varsler om posisjonsoppdatering fra radioen. Ikke beregnet på vanlige apper.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Lar appen kontrollere telefonfunksjonene til enheten. En app som har denne tillatelsen kan bytte nettverk, slå telefonens radio på og av og lignende, uten å varsle deg i det hele tatt.</string>
     <string name="permlab_readPhoneState">leser telefonstatus og -identitet</string>
     <string name="permdesc_readPhoneState">Lar appen bruke enhetens telefonfunksjoner. Med denne tillatelsen kan appen finne telefonnummer og enhets-ID-er, registrere om en samtale pågår, og se det eksterne nummeret det opprettes en forbindelse med via oppringing.</string>
-    <string name="permlab_wakeLock">hindre nettbrettet fra å gå over til sovemodus</string>
-    <string name="permdesc_wakeLock">Lar appen hindre nettbrettet fra å gå over i sovemodus.</string>
-    <string name="permlab_devicePower">slå på eller av nettbrettet</string>
-    <string name="permdesc_devicePower">Lar appen slå på eller av nettbrettet.</string>
+    <string name="permlab_wakeLock">forhindre telefonen fra å sove</string>
+    <string name="permdesc_wakeLock">Lar appen hindre telefonen fra å gå over i sovemodus.</string>
+    <string name="permlab_devicePower">slå telefonen av eller på</string>
+    <string name="permdesc_devicePower">Lar appen slå på eller av telefonen.</string>
     <string name="permlab_factoryTest">kjøre i fabrikktestmodus</string>
-    <string name="permdesc_factoryTest">Kjør en produsenttest på lavt nivå, noe som gir fullstendig tilgang til nettbrettets maskinvare. Kun tilgjengelig når nettbrettet kjøres i produsenttestmodus.</string>
+    <string name="permdesc_factoryTest">Kjøre som en lavnivås produsenttest, med full tilgang til telefonens maskinvare. Kun tilgjengelig når telefonen kjører i produsenttestmodus.</string>
     <string name="permlab_setWallpaper">endre bakgrunnsbilde</string>
     <string name="permdesc_setWallpaper">Lar appen angi systembakgrunnen.</string>
     <string name="permlab_setWallpaperHints">endrer størrelsen på bakgrunnsbildet</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">tilbakestille systemet til fabrikkinnstillinger</string>
     <string name="permdesc_masterClear">Lar appen gjennomføre fullstendig tilbakestilling til fabrikkstandard, noe som sletter alle data, konfigurasjoner og installerte apper.</string>
     <string name="permlab_setTime">stille klokken</string>
-    <string name="permdesc_setTime">Lar appen endre nettbrettets klokkeslett.</string>
+    <string name="permdesc_setTime">Lar appen endre telefonens klokkeslett.</string>
     <string name="permlab_setTimeZone">endre tidssone</string>
-    <string name="permdesc_setTimeZone">Lar appen endre nettbrettets tidssone.</string>
+    <string name="permdesc_setTimeZone">Lar appen endre telefonens tidssone.</string>
     <string name="permlab_accountManagerService">fungere som kontoadministrasjonstjenesten</string>
     <string name="permdesc_accountManagerService">Lar appen foreta anrop til kontoautentiseringstjenester.</string>
     <string name="permlab_getAccounts">finne kontoer på enheten</string>
-    <string name="permdesc_getAccounts">Lar appen hente listen over kontoene nettbrettet kjenner. Dette kan inkludere kontoer som er opprettet av apper du har installert.</string>
+    <string name="permdesc_getAccounts">Lar appen hente listen over kontoene telefonen kjenner. Dette kan inkludere kontoer som er opprettet av apper du har installert.</string>
     <string name="permlab_authenticateAccounts">opprette kontoer og angi passord</string>
     <string name="permdesc_authenticateAccounts">Lar appen bruke kontoadministratoren sine rettigheter til kontoautentisering, herunder oppretting av kontoer samt innhenting og angivelse av passord.</string>
     <string name="permlab_manageAccounts">legge til eller fjerne kontoer</string>
@@ -589,13 +589,13 @@
     <string name="permlab_changeWifiMulticastState">tillat multicast for trådløse nettverk</string>
     <string name="permdesc_changeWifiMulticastState">"Lar appen motta pakker som sendes til alle enhetene på et Wi-Fi-nettverk ved hjelp av multikastingsadresser,  Dette bruker mer strøm enn modusen uten multikasting."</string>
     <string name="permlab_bluetoothAdmin">endrer Bluetooth-innstillinger</string>
-    <string name="permdesc_bluetoothAdmin">Lar appen konfigurere det lokale Bluetooth-nettbrettet, samt oppdage og koble sammen med eksterne enheter.</string>
+    <string name="permdesc_bluetoothAdmin">Lar appen konfigurere den lokale Bluetooth-telefonen, samt oppdage og koble sammen med eksterne enheter.</string>
     <string name="permlab_accessWimaxState">koble til eller fra WiMAX</string>
     <string name="permdesc_accessWimaxState">Lar appen avgjøre hvorvidt WiMAX er aktivert og finne informasjon om eventuelle tilkoblede WiMAX-nettverk.</string>
     <string name="permlab_changeWimaxState">Endre WiMAX-status</string>
-    <string name="permdesc_changeWimaxState">Lar appen koble nettbrettet til og fra WiMAX-nettverk.</string>
+    <string name="permdesc_changeWimaxState">Lar appen koble telefonen til og fra WiMAX-nettverk.</string>
     <string name="permlab_bluetooth">kobler til Bluetooth-enheter</string>
-    <string name="permdesc_bluetooth">Lar appen se Bluetooth-konfigurasjonen på nettbrettet, samt opprette og godta tilkoblinger med sammenkoblede enheter.</string>
+    <string name="permdesc_bluetooth">Lar appen se Bluetooth-konfigurasjonen på telefonen, samt opprette og godta tilkoblinger med sammenkoblede enheter.</string>
     <string name="permlab_nfc">kontroller overføring av data med NFC-teknologi</string>
     <string name="permdesc_nfc">Lar appen kommunisere med etiketter, kort og lesere som benytter NFC-teknologi.</string>
     <string name="permlab_disableKeyguard">deaktiverer skjermlåsen</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Angi passordregler</string>
     <string name="policydesc_limitPassword">Kontroller tillatt lengde og tillatte tegn i passord for opplåsing av skjerm.</string>
     <string name="policylab_watchLogin">Overvåk forsøk på opplåsing av skjerm</string>
-    <string name="policydesc_watchLogin">Overvåk antall feil passordforsøk ved opplåsing av skjerm, og lås nettbrettet eller slett alle data fra nettbrettet ved for mange feil passordforsøk.</string>
+    <string name="policydesc_watchLogin">Overvåk antall feil passordforsøk ved opplåsing av skjerm, og lås telefonen eller slett alle data fra telefonen ved for mange feil passordforsøk.</string>
     <string name="policylab_resetPassword">Endre passord for opplåsing av skjerm</string>
     <string name="policydesc_resetPassword">Endre passordet for opplåsing av skjerm.</string>
     <string name="policylab_forceLock">Lås skjermen</string>
     <string name="policydesc_forceLock">Kontroller hvordan og når skjermen låses.</string>
     <string name="policylab_wipeData">Slett alle data</string>
-    <string name="policydesc_wipeData">Tilbakestill nettbrettets data uten advarsel ved å tilbakestille til fabrikkstandard.</string>
+    <string name="policydesc_wipeData">Tilbakestill telefonens data uten advarsel, ved å tilbakestille til fabrikkstandard.</string>
     <string name="policylab_setGlobalProxy">Angi enhetens globale mellomtjener</string>
     <string name="policydesc_setGlobalProxy">Angir den globale mellomtjeneren på enheten som skal brukes når regelen er aktivert. Kun den opprinnelige administratoren av enheten kan angi den globale mellomtjeneren.</string>
     <string name="policylab_expirePassword">Angi utløpsdato for skjermlåspassordet</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d %%</string>
     <string name="lockscreen_low_battery">Koble til en batterilader.</string>
     <string name="lockscreen_missing_sim_message_short">SIM-kortet mangler</string>
-    <string name="lockscreen_missing_sim_message">Nettbrettet mangler SIM-kort.</string>
+    <string name="lockscreen_missing_sim_message">Ikke noe SIM-kort i telefonen.</string>
     <string name="lockscreen_missing_sim_instructions">Sett inn et SIM-kort.</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM-kort mangler eller er uleselig. Sett inn et SIM-kort.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Ubrukelige SIM-kort.</string>
@@ -778,11 +778,11 @@ Prøv på nytt om %d sekunder."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har skrevet inn feil PIN-kode %d ganger.
 
 Prøv på nytt om %d sekunder."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har tegnet inn feil opplåsingsmønster %d ganger. Etter ytterligere %d mislykkede forsøk, blir du bedt om å låse opp nettbrettet ved hjelp av Google-påloggingsinformasjonen din.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har tegnet inn feil opplåsingsmønster %d ganger. Etter ytterligere %d mislykkede forsøk, blir du bedt om å låse opp telefonen ved hjelp av Google-påloggingsinformasjonen din.
 
 Prøv på nytt om %d sekunder."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har foretatt %d mislykkede opplåsinger av nettbrettet. Etter %d flere mislykkede forsøk, blir nettbrettet tilbakestilt til fabrikkinnstillingene, og alle brukerdata går tapt.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Du har foretatt %d mislykkede opplåsinger av nettbrettet. Nettbrettet blir nå tilbakestilt til fabrikkinnstillingene.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har foretatt %d mislykkede opplåsinger av telefonen. Etter %d flere mislykkede forsøk, blir telefonen tilbakestilt til fabrikkinnstillingene, og alle brukerdata går tapt.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Du har foretatt %d mislykkede opplåsinger av telefonen. Telefonen blir nå tilbakestilt til fabrikkinnstillingene.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Prøv igjen om %d sekunder.</string>
     <string name="lockscreen_forgot_pattern_button_text">Glemt mønsteret?</string>
     <string name="lockscreen_glogin_forgot_pattern">Opplåsing av konto</string>
@@ -867,7 +867,7 @@ Er du sikker på at du vil navigere bort fra denne siden?"</string>
     <string name="permlab_readHistoryBookmarks">leser nettbokmerkene og nettloggen din</string>
     <string name="permdesc_readHistoryBookmarks">Lar appen lese loggen for alle nettadressene nettleseren har besøkt, og alle bokmerkene i nettleseren. Vær oppmerksom på at denne tillatelsen kanskje ikke benyttes av tredjepartsnettlesere eller andre apper med mulighet for nettsurfing.</string>
     <string name="permlab_writeHistoryBookmarks">skriver nettbokmerker og nettlogg</string>
-    <string name="permdesc_writeHistoryBookmarks">Lar appen endre nettleserens logg eller bokmerker lagret på nettbrettet ditt. Dette kan føre til at appen sletter eller endrer nettleserdata. Vær oppmerksom på at denne tillatelsen kanskje ikke benyttes av tredjepartsnettlesere eller andre apper med mulighet for nettsurfing.</string>
+    <string name="permdesc_writeHistoryBookmarks">Lar appen endre nettleserens logg eller bokmerker lagret på telefonen din. Dette kan føre til at appen sletter eller endrer nettleserdata. Vær oppmerksom på at denne tillatelsen kanskje ikke benyttes av tredjepartsnettlesere eller andre apper med mulighet for nettsurfing.</string>
     <string name="permlab_setAlarm">angir alarm</string>
     <string name="permdesc_setAlarm">Lar appen stille inn alarmen for en installert alarmklokke-app. Enkelte alarmklokke-apper implementerer kanskje ikke denne funksjonen.</string>
     <string name="permlab_addVoicemail">legg til talepost</string>
@@ -901,7 +901,7 @@ Er du sikker på at du vil navigere bort fra denne siden?"</string>
     <string name="searchview_description_submit">Send inn spørsmål</string>
     <string name="searchview_description_voice">Talesøk</string>
     <string name="enable_explore_by_touch_warning_title">Aktivere Utforsk ved å trykke?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s ber om aktivering av Utforsk ved å trykke. Når Utforsk ved å trykke er slått på, kan du høre og se beskrivelser av det som er under fingrene dine. Du kan også utføre handlinger på nettbrettet ved hjelp av bevegelser.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s ber om aktivering av Utforsk ved å trykke. Når Utforsk ved å trykke er slått på, kan du høre eller se beskrivelser av det som er under fingrene dine. Du kan også utføre handlinger på nettbrettet ved hjelp av bevegelser.</string>
     <string name="oneMonthDurationPast">For én måned siden</string>
     <string name="beforeOneMonthDurationPast">For over en måned siden</string>
     <string name="last_month">Forrige måned</string>
@@ -1025,7 +1025,7 @@ Vil du lukke den?"</string>
     <string name="wifi_p2p_to_message">Til:</string>
     <string name="wifi_p2p_enter_pin_message">Skriv inn påkrevd PIN-kode:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Nettbrettet frakobles Wi-Fi midlertidig mens den er tilkoblet %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefonen frakobles Wi-Fi midlertidig mens den er tilkoblet %1$s</string>
     <string name="select_character">Sett inn tegn</string>
     <string name="sms_control_title">Sender SMS-meldinger</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> sender et stort antall SMS. Vil du la appen fortsette å sende ut meldinger?</string>
@@ -1274,7 +1274,7 @@ for kontoen %s."</string>
     <string name="SetupCallDefault">Vil du besvare anropet?</string>
     <string name="activity_resolver_use_always">Alltid</string>
     <string name="activity_resolver_use_once">Bare én gang</string>
-    <string name="default_audio_route_name">Nettbrett</string>
+    <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_headphones">Hodetelefoner</string>
     <string name="default_audio_route_name_dock_speakers">Dokkhøyttalere</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Prøv på nytt om %d sekunder."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Du har tegnet opplåsningsmønsteret ditt feil %d ganger. 
 
 Prøv på nytt om %d sekunder."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Du har oppgitt feil opplåsningspassord for nettbrettet %d ganger. Etter ytterligere %d gale forsøk, tilbakestilles nettbrettet til fabrikkstandard og all data går tapt.</string>
-    <string name="kg_failed_attempts_now_wiping">Du har oppgitt feil opplåsningspassord for nettbrettet %d ganger. Telefonen tilbakestilles nå til fabrikkstandard.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Du har tegnet opplåsningsmønsteret feil %d ganger. Etter ytterligere %d gale forsøk, blir du bedt om å låse opp nettbrettet via en e-postkonto.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Du har oppgitt feil opplåsningspassord for telefonen %d ganger. Etter ytterligere %d gale forsøk, tilbakestilles telefonen til fabrikkstandard og all data går tapt.</string>
+    <string name="kg_failed_attempts_now_wiping">Du har oppgitt feil opplåsningspassord for telefonen %d ganger. Telefonen tilbakestilles nå til fabrikkstandard.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Du har tegnet opplåsningsmønsteret feil %d ganger. Etter ytterligere %d gale forsøk, blir du bedt om å låse opp telefonen via en e-postkonto.
 
  Prøv på nytt om %d sekunder."</string>
     <string name="kg_text_message_separator">" — "</string>

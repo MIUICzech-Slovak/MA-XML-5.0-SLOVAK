@@ -37,6 +37,9 @@
         <item>Iba pa</item>
         <item>Custom</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Home</item>
         <item>Trabaho</item>

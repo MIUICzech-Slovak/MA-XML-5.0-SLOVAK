@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Sincronizare</string>
     <string name="contentServiceSyncNotificationTitle">Sincronizare</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Prea multe ştergeri %s.</string>
-    <string name="low_memory">Stocarea pe tabletă este plină. Ștergeţi câteva fişiere pentru a elibera spaţiu.</string>
+    <string name="low_memory">Stocarea pe telefon este plină. Ștergeţi câteva fişiere pentru a elibera spaţiu.</string>
     <string name="me">Eu</string>
-    <string name="power_dialog">Opţiuni tablet PC</string>
+    <string name="power_dialog">Opţiuni telefon</string>
     <string name="silent_mode">Mod Silenţios</string>
     <string name="turn_on_radio">Activaţi funcţia wireless</string>
     <string name="turn_off_radio">Dezactivaţi funcţia wireless</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Vibrare sonerie</string>
     <string name="silent_mode_ring">Sonerie activată</string>
     <string name="shutdown_progress">Se închide...</string>
-    <string name="shutdown_confirm">Computerul dvs. tablet PC se va închide.</string>
+    <string name="shutdown_confirm">Telefonul dvs. se va închide.</string>
     <string name="shutdown_confirm_question">Doriţi să închideţi?</string>
     <string name="reboot_safemode_title">Reporniţi în modul sigur</string>
     <string name="reboot_safemode_confirm">Doriţi să reporniţi în modul sigur? Astfel vor fi dezactivate toate aplicaţiile terţă parte pe care le-aţi instalat. Acestea vor fi restabilite când reporniţi din nou.</string>
     <string name="recent_tasks_title">Recente</string>
     <string name="no_recent_tasks">Nu există aplicaţii recente.</string>
-    <string name="global_actions">Opţiuni tablet PC</string>
+    <string name="global_actions">Opţiuni telefon</string>
     <string name="global_action_lock">Blocaţi ecranul</string>
     <string name="global_action_power_off">Opriţi alimentarea</string>
     <string name="global_action_bug_report">Raport despre erori</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">trimitere de evenimente de tipul „răspuns prin mesaj”</string>
     <string name="permdesc_sendRespondViaMessageRequest">Permite aplicației să trimită solicitări altor aplicații de mesagerie pentru a gestiona evenimentele de tipul „răspuns prin mesaj” pentru apelurile primite.</string>
     <string name="permlab_readSms">citeşte mesajele text (SMS sau MMS)</string>
-    <string name="permdesc_readSms">Permite aplicaţiei să citească mesajele SMS stocate pe tabletă sau pe cardul SIM. În acest fel, aplicaţia poate citi toate mesajele SMS, indiferent de conţinutul sau de gradul de confidenţialitate al acestora.</string>
+    <string name="permdesc_readSms">Permite aplicaţiei să citească mesajele SMS stocate pe telefon sau pe cardul SIM. În acest fel, aplicaţia poate citi toate mesajele SMS, indiferent de conţinutul sau de gradul de confidenţialitate al acestora.</string>
     <string name="permlab_writeSms">editează mesajele text (SMS sau MMS)</string>
-    <string name="permdesc_writeSms">Permite aplicaţiei să scrie în mesajele SMS stocate pe tabletă sau pe cardul SIM. Aplicaţiile rău intenţionate pot să vă şteargă mesajele.</string>
+    <string name="permdesc_writeSms">Permite aplicaţiei să scrie în mesajele SMS stocate pe telefon sau pe cardul SIM. Aplicaţiile rău intenţionate pot să vă şteargă mesajele.</string>
     <string name="permlab_receiveWapPush">primeşte mesaje text (WAP)</string>
     <string name="permdesc_receiveWapPush">Permite aplicaţiei să primească şi să proceseze mesaje WAP. Această permisiune include capacitatea de a monitoriza sau şterge mesajele care v-au fost trimise fără a vi le arăta.</string>
     <string name="permlab_getTasks">preluare aplicaţii care rulează</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">îngheaţă ecranul</string>
     <string name="permdesc_freezeScreen">Permite aplicaţiei să îngheţe temporar ecranul pentru o tranziţie la ecran complet.</string>
     <string name="permlab_injectEvents">apăsare taste şi control butoane</string>
-    <string name="permdesc_injectEvents">Permite aplicaţiei să furnizeze propriile evenimente de intrare (apăsări de taste etc.) către alte aplicaţii. Aplicaţiile rău intenţionate pot să utilizeze această permisiune pentru a prelua controlul asupra tabletei.</string>
+    <string name="permdesc_injectEvents">Permite aplicaţiei să furnizeze propriile evenimente de intrare (apăsări de taste etc.) către alte aplicaţii. Aplicaţiile rău intenţionate pot să utilizeze această permisiune pentru a prelua controlul asupra telefonului.</string>
     <string name="permlab_readInputState">înregistrare a ceea ce tastaţi şi a operaţiunilor efectuate</string>
     <string name="permdesc_readInputState">Permite aplicaţiei să monitorizeze tastele pe care le apăsaţi când interacţionaţi cu o altă aplicaţie (cum ar fi introducerea unei parole). Nu ar trebui să fie niciodată necesară pentru aplicaţiile obişnuite.</string>
     <string name="permlab_bindInputMethod">conectare la o metodă de intrare</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">trimitere semnale Linux către aplicaţii</string>
     <string name="permdesc_signalPersistentProcesses">Permite aplicaţiei să solicite trimiterea semnalului furnizat către toate procesele persistente.</string>
     <string name="permlab_persistentActivity">rulare continuă a aplicaţiei</string>
-    <string name="permdesc_persistentActivity">Permite aplicaţiei să declare persistente în memorie anumite părţi ale sale. Acest lucru poate limita memoria disponibilă pentru alte aplicaţii şi poate încetini funcţionarea tabletei.</string>
+    <string name="permdesc_persistentActivity">Permite aplicaţiei să declare persistente în memorie anumite părţi ale sale. Acest lucru poate limita memoria disponibilă pentru alte aplicaţii şi poate încetini funcţionarea telefonului.</string>
     <string name="permlab_deletePackages">ştergere aplicaţii</string>
     <string name="permdesc_deletePackages">Permite aplicaţiei să şteargă pachete Android. Aplicaţiile rău intenţionate pot utiliza această permisiune pentru a şterge aplicaţii importante.</string>
     <string name="permlab_clearAppUserData">ştergere date ale altor aplicaţii</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">instalare directă a aplicaţiilor</string>
     <string name="permdesc_installPackages">Permite aplicaţiei să instaleze pachete Android noi sau actualizate. Aplicaţiile rău intenţionate pot să utilizeze această permisiune pentru a adăuga aplicaţii noi cu permisiuni puternice alese la întâmplare.</string>
     <string name="permlab_clearAppCache">ştergere integrală date din cache ale aplicaţiei</string>
-    <string name="permdesc_clearAppCache">Permite aplicaţiei să elibereze spaţiul de stocare al tabletei, ştergând fişierele din directoarele cache ale altor aplicaţii. Acest lucru poate determina pornirea mai lentă a altor aplicaţii, deoarece acestea trebuie să îşi recupereze datele.</string>
+    <string name="permdesc_clearAppCache">Permite aplicaţiei să elibereze spaţiul de stocare al telefonului, ştergând fişierele din directoarele cache ale altor aplicaţii. Acest lucru poate determina pornirea mai lentă a altor aplicaţii, deoarece acestea trebuie să îşi recupereze datele.</string>
     <string name="permlab_movePackage">mutare resurse aplicaţii</string>
     <string name="permdesc_movePackage">Permite aplicaţiei să mute resursele aplicaţiei de pe suporturile fizice interne pe cele externe şi invers.</string>
     <string name="permlab_readLogs">citire date de jurnal problematice</string>
-    <string name="permdesc_readLogs">Permite aplicaţiei să citească din diverse fişiere jurnal ale sistemului. În acest mod poate descoperi informaţii generale cu privire la utilizarea tabletei de către dvs. şi probabil informaţii personale sau private.</string>
+    <string name="permdesc_readLogs">Permite aplicaţiei să citească din diverse fişiere jurnal ale sistemului. În acest mod poate descoperi informaţii generale cu privire la utilizarea telefonului de către dvs., care ar putea include şi informaţii personale sau private.</string>
     <string name="permlab_anyCodecForPlayback">utilizaţi orice decodor media pentru redare</string>
     <string name="permdesc_anyCodecForPlayback">Permite aplicaţiei să utilizeze orice decodor media instalat pentru a decodifica redarea.</string>
     <string name="permlab_diagnostic">citire/scriere în resursele deţinute de diag</string>
     <string name="permdesc_diagnostic">Permite aplicaţiei să citească şi să scrie în orice resursă deţinută de grupul diag, de ex., fişierele din /dev. Această permisiune ar putea să afecteze stabilitatea şi securitatea sistemului. Permisiunea trebuie utilizată NUMAI de producător sau de operator pentru diagnostice specifice pentru hardware.</string>
     <string name="permlab_changeComponentState">activare sau dezactivare a componentelor aplicaţiei</string>
-    <string name="permdesc_changeComponentState">Permite aplicaţiei să modifice starea activată sau dezactivată a unei componente a altei aplicaţii. Aplicaţiile rău intenţionate pot să utilizeze această permisiune pentru a dezactiva funcţii importante ale tabletei. Este necesar să utilizaţi cu atenţie această permisiune, deoarece este posibil să aduceţi componentele aplicaţiei într-o stare inutilizabilă, inconsecventă sau instabilă.</string>
+    <string name="permdesc_changeComponentState">Permite aplicaţiei să modifice starea activată sau dezactivată a unei componente a altei aplicaţii. Aplicaţiile rău intenţionate pot să utilizeze această permisiune pentru a dezactiva funcţii importante ale telefonului. Este necesar să utilizaţi cu atenţie această permisiune, deoarece este posibil să aduceţi componentele aplicaţiei într-o stare inutilizabilă, inconsecventă sau instabilă.</string>
     <string name="permlab_grantRevokePermissions">acordaţi sau revocaţi permisiuni</string>
     <string name="permdesc_grantRevokePermissions">Permite unei aplicaţii să acorde sau să revoce permisiuni specifice acelei aplicaţii sau altor aplicaţii. Aplicaţiile rău intenţionate pot utiliza această permisiune pentru a accesa funcţii pe care nu le-aţi permis.</string>
     <string name="permlab_setPreferredApplications">setare aplicaţii preferate</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">modificare hartă servicii Google</string>
     <string name="permdesc_writeGservices">Permite aplicaţiei să modifice harta serviciilor Google. Nu se utilizează de aplicaţiile obişnuite.</string>
     <string name="permlab_receiveBootCompleted">rulează la pornire</string>
-    <string name="permdesc_receiveBootCompleted">Permite aplicaţiei să pornească imediat ce s-a terminat încărcarea sistemului. Din acest motiv, pornirea tabletei poate dura mai mult timp, iar rularea continuă a aplicaţiei poate încetini dispozitivul.</string>
+    <string name="permdesc_receiveBootCompleted">Permite aplicaţiei să pornească imediat ce s-a terminat încărcarea sistemului. Din acest motiv, pornirea telefonului poate dura mai mult timp, iar rularea continuă a aplicaţiei poate încetini dispozitivul.</string>
     <string name="permlab_broadcastSticky">trimitere mesaj difuzat persistent</string>
-    <string name="permdesc_broadcastSticky">Permite aplicaţiei să trimită mesaje difuzate persistente, care se păstrează după terminarea difuzării mesajului. Utilizarea excesivă a acestei funcţii poate să încetinească sau să destabilizeze tableta, determinând-o să utilizeze prea multă memorie.</string>
+    <string name="permdesc_broadcastSticky">Permite aplicaţiei să trimită mesaje difuzate persistente, care se păstrează după terminarea difuzării mesajului. Utilizarea excesivă a acestei funcţii poate să încetinească sau să destabilizeze telefonul, determinându-l să utilizeze prea multă memorie.</string>
     <string name="permlab_readContacts">citeşte agenda</string>
-    <string name="permdesc_readContacts">Permite aplicaţiei să citească datele despre persoanele din agenda stocată pe tabletă, inclusiv frecvenţa cu care aţi apelat, aţi trimis e-mailuri sau aţi comunicat în alte moduri cu anumite persoane. Cu această permisiune aplicaţia salvează datele dvs. de contact, iar aplicaţiile rău intenţionate pot distribui datele de contact fără ştirea dvs.</string>
+    <string name="permdesc_readContacts">Permite aplicaţiei să citească datele despre persoanele din agenda stocată pe telefon, inclusiv frecvenţa cu care aţi apelat, aţi trimis e-mailuri sau aţi comunicat în alte moduri cu anumite persoane. Cu această permisiune aplicaţia salvează datele dvs. de contact, iar aplicaţiile rău intenţionate pot distribui datele de contact fără ştirea dvs.</string>
     <string name="permlab_writeContacts">modifică agenda</string>
-    <string name="permdesc_writeContacts">Permite aplicaţiei să modifice datele despre persoanele din agenda stocată pe tabletă, inclusiv frecvenţa cu care aţi apelat, aţi trimis e-mailuri sau aţi comunicat în alte moduri cu anumite persoane din agendă. Cu această permisiune aplicaţia poate şterge datele de contact.</string>
+    <string name="permdesc_writeContacts">Permite aplicaţiei să modifice datele despre persoanele din agenda stocată pe telefon, inclusiv frecvenţa cu care aţi apelat, aţi trimis e-mailuri sau aţi comunicat în alte moduri cu anumite persoane din agendă. Cu această permisiune aplicaţia poate şterge datele de contact.</string>
     <string name="permlab_readCallLog">citeşte jurnalul de apeluri</string>
-    <string name="permdesc_readCallLog">Permite aplicaţiei să citească jurnalul de apeluri al tabletei, inclusiv datele despre apelurile primite şi efectuate. Cu această permisiune aplicaţia salvează datele dvs. din jurnalul de apeluri, iar aplicaţiile rău intenţionate pot distribui aceste date fără ştirea dvs.</string>
+    <string name="permdesc_readCallLog">Permite aplicaţiei să citească jurnalul de apeluri al telefonului, inclusiv datele despre apelurile primite şi efectuate. Cu această permisiune aplicaţia salvează datele dvs. din jurnalul de apeluri, iar aplicaţiile rău intenţionate pot distribui aceste date fără ştirea dvs.</string>
     <string name="permlab_writeCallLog">scrie jurnalul de apeluri</string>
-    <string name="permdesc_writeCallLog">Permite aplicaţiei să modifice jurnalul de apeluri al tabletei dvs., inclusiv datele despre apelurile primite sau efectuate. Aplicaţiile rău intenţionate pot utiliza această permisiune pentru a şterge sau pentru a modifica jurnalul dvs. de apeluri.</string>
+    <string name="permdesc_writeCallLog">Permite aplicaţiei să modifice jurnalul de apeluri al telefonului dvs., inclusiv datele despre apelurile primite sau efectuate. Aplicaţiile rău intenţionate pot utiliza această permisiune pentru a şterge sau pentru a modifica jurnalul dvs. de apeluri.</string>
     <string name="permlab_readProfile">citeşte cartea dvs. de vizită</string>
     <string name="permdesc_readProfile">Permite aplicaţiei să citească informaţiile personale din profil stocate pe dispozitiv, cum ar fi numele şi informaţiile de contact, ceea ce înseamnă că aplicaţia vă poate identifica şi poate trimite informaţiile dvs. de profil altor utilizatori.</string>
     <string name="permlab_writeProfile">modifică cartea dvs. de vizită</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">scrie în fluxul social</string>
     <string name="permdesc_writeSocialStream">Permite aplicaţiei să afişeze actualizări sociale de la prietenii dvs. Distribuiți cu precauţie aceste informaţii - cu această permisiune aplicaţia produce mesaje care pot părea că vin de la un prieten. Notă: această permisiune nu poate fi aplicată pentru toate reţelele sociale.</string>
     <string name="permlab_readCalendar">citirea evenimentelor din calendar şi a informaţiilor confidenţiale</string>
-    <string name="permdesc_readCalendar">Permite aplicaţiei să citească toate evenimentele din calendar stocate pe tabletă, inclusiv cele ale prietenilor sau colegilor. Acest lucru poate permite aplicaţiei să distribuie sau să salveze datele din calendar, indiferent dacă acestea sunt confidenţiale sau sensibile.</string>
+    <string name="permdesc_readCalendar">Permite aplicaţiei să citească toate evenimentele din calendar stocate pe telefon, inclusiv cele ale prietenilor sau colegilor. Acest lucru poate permite aplicaţiei să distribuie sau să salveze datele din calendar, indiferent dacă acestea sunt confidenţiale sau sensibile.</string>
     <string name="permlab_writeCalendar">adăugarea sau modificarea evenimentelor din calendar şi trimiterea de e-mailuri invitaţilor fără ştirea proprietarului</string>
-    <string name="permdesc_writeCalendar">Permite aplicaţiei să adauge, să elimine şi să modifice evenimentele pe care le puteţi modifica pe tabletă, inclusiv cele ale prietenilor sau colegilor dvs. În acest fel, aplicaţia poate trimite mesaje care par să vină de la proprietarii calendarelor sau să modifice evenimentele fără ştirea proprietarilor.</string>
+    <string name="permdesc_writeCalendar">Permite aplicaţiei să adauge, să elimine şi să modifice evenimentele pe care le puteţi modifica pe telefon, inclusiv cele ale prietenilor sau colegilor dvs. În acest fel, aplicaţia poate trimite mesaje care par să vină de la proprietarii calendarelor sau să modifice evenimentele fără ştirea proprietarilor.</string>
     <string name="permlab_accessMockLocation">surse de locaţii pentru testare</string>
     <string name="permdesc_accessMockLocation">Creează surse de locaţii pentru testare sau instalează un furnizor de locaţie nou. Acest lucru permite aplicaţiei să înlocuiască locaţia şi/sau starea returnate de alte surse de locaţii, cum ar fi GPS sau furnizorii de locaţii.</string>
     <string name="permlab_accessLocationExtraCommands">accesare comenzi suplimentare ale furnizorului locaţiei</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Permite aplicaţiei să realizeze fotografii şi videoclipuri cu camera foto. Cu această permisiune aplicaţia utilizează camera foto oricând şi fără confirmare.</string>
     <string name="permlab_cameraDisableTransmitLed">dezactivează ledul care indică când este utilizată camera foto</string>
     <string name="permdesc_cameraDisableTransmitLed">Permite unei aplicații de sistem preinstalate să dezactiveze ledul care indică utilizarea camerei foto.</string>
-    <string name="permlab_brick">dezactivarea permanentă a computerului tablet PC</string>
-    <string name="permdesc_brick">Permite aplicaţiei să dezactiveze definitiv întreaga tabletă. Acest lucru este foarte periculos.</string>
-    <string name="permlab_reboot">forţare repornire computer tablet PC</string>
-    <string name="permdesc_reboot">Permite aplicaţiei să forţeze repornirea tabletei.</string>
+    <string name="permlab_brick">dezactivare permanentă a telefonului</string>
+    <string name="permdesc_brick">Permite aplicaţiei să dezactiveze definitiv întregul telefon. Acest lucru este foarte periculos.</string>
+    <string name="permlab_reboot">forţare repornire telefon</string>
+    <string name="permdesc_reboot">Permite aplicaţiei să forţeze repornirea telefonului.</string>
     <string name="permlab_mount_unmount_filesystems">acces. sist. fişiere stoc. USB</string>
     <string name="permdesc_mount_unmount_filesystems">Permite aplicaţiei să monteze şi să demonteze sisteme de fişiere pentru stocarea pe suporturi amovibile.</string>
     <string name="permlab_mount_format_filesystems">şterge stocarea USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Permite aplicaţiei să apeleze numere de telefon fără intervenţia dvs. Acest lucru poate determina apariţia unor taxe sau a unor apeluri neaşteptate. Cu această permisiune aplicaţia nu poate apela numerele de urgenţă. Aplicaţiile rău intenţionate pot acumula costuri prin efectuarea unor apeluri fără confirmare.</string>
     <string name="permlab_callPrivileged">apelare directă a oricărui număr de telefon</string>
     <string name="permdesc_callPrivileged">Permite aplicaţiei să apeleze orice număr de telefon, inclusiv numere de urgenţă, fără intervenţia dvs. Aplicaţiile rău intenţionate pot să efectueze apeluri inutile şi ilegale către serviciile de urgenţă.</string>
-    <string name="permlab_performCdmaProvisioning">pornire directă a configurării computerului tablet PC pentru CDMA</string>
+    <string name="permlab_performCdmaProvisioning">pornire directă a configuraţiei CDMA a telefonului</string>
     <string name="permdesc_performCdmaProvisioning">Permite aplicaţiei să pornească asigurarea accesului la CDMA. Aplicaţiile rău intenţionate pot să pornească asigurarea accesului la CDMA, fără ca aceasta să fie necesară.</string>
     <string name="permlab_locationUpdates">controlare notificări de actualizare a locaţiei</string>
     <string name="permdesc_locationUpdates">Permite aplicaţiei să activeze/dezactiveze notificările privind actualizarea locaţiei primite de la radio. Nu se utilizează de aplicaţiile obişnuite.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Permite aplicaţiei să controleze funcţiile de telefon ale dispozitivului. O aplicaţie cu această permisiune poate să schimbe reţeaua, să închidă şi să deschidă radioul şi să efectueze alte acţiuni similare, fără să vă înştiinţeze.</string>
     <string name="permlab_readPhoneState">citeşte starea şi identitatea telefonului</string>
     <string name="permdesc_readPhoneState">Permite aplicaţiei să acceseze funcţiile de telefon ale dispozitivului. Cu această permisiune aplicaţia stabileşte numărul de telefon şi ID-urile de dispozitiv, dacă un apel este activ, precum şi numărul de la distanţă conectat printr-un apel.</string>
-    <string name="permlab_wakeLock">împiedicarea computerului tablet PC să intre în repaus</string>
-    <string name="permdesc_wakeLock">Permite aplicaţiei să împiedice intrarea tabletei în stare de repaus.</string>
-    <string name="permlab_devicePower">pornire sau oprire computer tablet PC</string>
-    <string name="permdesc_devicePower">Permite aplicaţiei să pornească sau să oprească tableta.</string>
+    <string name="permlab_wakeLock">împiedicare intrare telefon în repaus</string>
+    <string name="permdesc_wakeLock">Permite aplicaţiei să împiedice intrarea telefonului în stare de repaus.</string>
+    <string name="permlab_devicePower">telefon pornit sau oprit</string>
+    <string name="permdesc_devicePower">Permite aplicaţiei să activeze sau să dezactiveze telefonul.</string>
     <string name="permlab_factoryTest">rulare în mod test de fabrică</string>
-    <string name="permdesc_factoryTest">Rulează ca test de nivel redus setat de producător, permiţând accesul complet la sistemul hardware al computerului tablet PC. Permisiune disponibilă doar când acesta rulează în modul de testare setat de producător.</string>
+    <string name="permdesc_factoryTest">Rulează ca testare de nivel redus al producătorului, permiţând accesul complet la hardware-ul telefonului. Permisiune disponibilă doar când telefonul rulează în modul de testare a producător.</string>
     <string name="permlab_setWallpaper">setare imagine de fundal</string>
     <string name="permdesc_setWallpaper">Permite aplicaţiei să seteze imaginea de fundal a sistemului.</string>
     <string name="permlab_setWallpaperHints">ajustează dimensiunea imaginii de fundal</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">resetare sistem la setările prestabilite din fabrică</string>
     <string name="permdesc_masterClear">Permite aplicaţiei să reseteze complet sistemul la setările din fabrică, ştergând toate datele, configurările şi aplicaţiile instalate.</string>
     <string name="permlab_setTime">setare dată/oră</string>
-    <string name="permdesc_setTime">Permite aplicaţiei să modifice ora tabletei.</string>
+    <string name="permdesc_setTime">Permite aplicaţiei să modifice ora telefonului.</string>
     <string name="permlab_setTimeZone">setare fus orar</string>
-    <string name="permdesc_setTimeZone">Permite aplicaţiei să schimbe fusul orar al tabletei.</string>
+    <string name="permdesc_setTimeZone">Permite aplicaţiei să schimbe fusul orar al telefonului.</string>
     <string name="permlab_accountManagerService">efectuare ca AccountManagerService</string>
     <string name="permdesc_accountManagerService">Permite aplicaţiei să efectueze apeluri către AccountAuthenticators.</string>
     <string name="permlab_getAccounts">găseşte conturi pe dispozitiv</string>
-    <string name="permdesc_getAccounts">Permite aplicaţiei să obţină lista de conturi cunoscute de tabletă. Aceasta poate include conturile create de aplicaţiile pe care le-aţi instalat.</string>
+    <string name="permdesc_getAccounts">Permite aplicaţiei să obţină lista de conturi cunoscute de telefon. Aceasta poate include conturile create de aplicaţiile pe care le-aţi instalat.</string>
     <string name="permlab_authenticateAccounts">creează conturi şi setează parole</string>
     <string name="permdesc_authenticateAccounts">Permite aplicaţiei să utilizeze capacităţile de autentificator de cont ale AccountManager, incluzând crearea conturilor şi obţinerea şi setarea parolelor.</string>
     <string name="permlab_manageAccounts">adaugă sau elimină conturi</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">se conectează şi se deconectează de la Wi-Fi</string>
     <string name="permdesc_changeWifiState">Permite aplicaţiei să se conecteze şi să se deconecteze de la punctele de acces Wi-Fi, precum şi să efectueze modificări în configuraţia dispozitivului pentru reţelele Wi-Fi.</string>
     <string name="permlab_changeWifiMulticastState">permitere recepţionare difuzare multiplă Wi-Fi</string>
-    <string name="permdesc_changeWifiMulticastState">Permite aplicaţiei să primească pachetele trimise către toate dispozitivele dintr-o reţea Wi-Fi, utilizând adrese cu difuzare multiplă, nu doar tableta dvs. Această funcţie utilizează mai multă energie decât modul fără difuzare multiplă.</string>
+    <string name="permdesc_changeWifiMulticastState">Permite aplicaţiei să primească pachetele trimise către toate dispozitivele dintr-o reţea Wi-Fi, utilizând adrese cu difuzare multiplă, nu doar telefonul dvs. Această funcţie utilizează mai multă energie decât modul fără difuzare multiplă.</string>
     <string name="permlab_bluetoothAdmin">accesează setările Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Permite aplicaţiei să configureze tableta Bluetooth locală, să descopere şi să se împerecheze cu dispozitive la distanţă.</string>
+    <string name="permdesc_bluetoothAdmin">Permite aplicaţiei să configureze telefonul Bluetooth local, să descopere şi să se împerecheze cu dispozitive la distanţă.</string>
     <string name="permlab_accessWimaxState">se conectează şi se deconectează de la WiMAX</string>
     <string name="permdesc_accessWimaxState">Permite aplicaţiei să stabilească dacă o reţea WiMAX este activată şi să vadă informaţiile cu privire la toate reţelele WiMAX conectate.</string>
     <string name="permlab_changeWimaxState">Schimbaţi starea WiMAX</string>
-    <string name="permdesc_changeWimaxState">Permite aplicaţiei să conecteze şi să deconecteze tableta la şi de la reţelele WiMAX.</string>
+    <string name="permdesc_changeWimaxState">Permite aplicaţiei să conecteze şi să deconecteze telefonul la şi de la reţelele WiMAX.</string>
     <string name="permlab_bluetooth">împerechează dispozitive Bluetooth</string>
-    <string name="permdesc_bluetooth">Permite aplicaţiei să vadă configuraţia tabletei Bluetooth, să efectueze şi să accepte conexiuni cu dispozitive împerecheate.</string>
+    <string name="permdesc_bluetooth">Permite aplicaţiei să vadă configuraţia telefonului Bluetooth, să efectueze şi să accepte conexiuni cu dispozitive împerecheate.</string>
     <string name="permlab_nfc">controlare schimb de date prin Near Field Communication</string>
     <string name="permdesc_nfc">Permite aplicaţiei să comunice cu etichetele, cardurile şi cititoarele NFC (Near Field Communication).</string>
     <string name="permlab_disableKeyguard">dezactivează blocarea ecranului</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Setaţi reguli pentru parolă</string>
     <string name="policydesc_limitPassword">Stabiliţi lungimea şi tipul de caractere permise în parolele pentru deblocarea ecranului.</string>
     <string name="policylab_watchLogin">Monitorizaţi încercările de deblocare a ecranului</string>
-    <string name="policydesc_watchLogin">Monitorizaţi numărul de parole incorecte introduse la deblocarea ecranului şi blocaţi tableta sau ştergeţi datele acesteia dacă sunt introduse prea multe parole incorecte.</string>
+    <string name="policydesc_watchLogin">Monitorizaţi numărul de parole incorecte introduse la deblocarea ecranului şi blocaţi telefonul sau ştergeţi toate datele acestuia dacă sunt introduse prea multe parole incorecte.</string>
     <string name="policylab_resetPassword">Editaţi parola de deblocare a ecranului</string>
     <string name="policydesc_resetPassword">Editaţi parola de deblocare a ecranului.</string>
     <string name="policylab_forceLock">Blocaţi ecranul</string>
     <string name="policydesc_forceLock">Stabiliţi modul şi timpul în care se blochează ecranul.</string>
     <string name="policylab_wipeData">Ștergere integrală date</string>
-    <string name="policydesc_wipeData">Ștergeţi datele de pe tabletă fără avertisment, efectuând resetarea configurării din fabrică.</string>
+    <string name="policydesc_wipeData">Ștergeţi datele din telefon fără avertisment, efectuând resetarea configurării din fabrică.</string>
     <string name="policylab_setGlobalProxy">Setaţi serverul proxy global pentru dispozitiv</string>
     <string name="policydesc_setGlobalProxy">Setaţi serverul proxy global pentru dispozitiv care să fie utilizat cât timp politica este activă. Numai primul administrator al dispozitivului poate seta serverul proxy global activ.</string>
     <string name="policylab_expirePassword">Expirare parolă blocare ecran</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d %%</string>
     <string name="lockscreen_low_battery">Conectaţi încărcătorul.</string>
     <string name="lockscreen_missing_sim_message_short">Niciun card SIM</string>
-    <string name="lockscreen_missing_sim_message">Nu există card SIM în computerul tablet PC.</string>
+    <string name="lockscreen_missing_sim_message">Telefonul nu are card SIM.</string>
     <string name="lockscreen_missing_sim_instructions">Introduceţi un card SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">Cardul SIM lipseşte sau nu poate fi citit. Introduceţi un card SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Card SIM inutilizabil.</string>
@@ -778,11 +778,11 @@
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Aţi introdus incorect codul PIN de %d ori.
 
 Încercaţi din nou peste %d (de) secunde."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi tableta cu ajutorul datelor de conectare la Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul datelor de conectare la Google.
 
  Încercaţi din nou peste %d (de) secunde."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a tabletei. După încă %d încercări nereuşite, aceasta va fi resetată la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a tabletei. Tableta va fi acum resetată la setările prestabilite din fabrică.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator vor fi pierdute.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Acesta va fi acum resetat la setările prestabilite din fabrică.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Încercaţi din nou peste %d (de) secunde.</string>
     <string name="lockscreen_forgot_pattern_button_text">Aţi uitat modelul?</string>
     <string name="lockscreen_glogin_forgot_pattern">Deblocare cont</string>
@@ -867,7 +867,7 @@ Sigur doriți să părăsiți această pagină?"</string>
     <string name="permlab_readHistoryBookmarks">citeşte marcajele şi istoricul web</string>
     <string name="permdesc_readHistoryBookmarks">Permite aplicaţiei să citească istoricul tuturor adreselor URL accesate de Browser şi toate marcajele din Browser. Notă: această permisiune nu poate fi aplicată de browsere terţă parte sau de alte aplicaţii cu capacităţi de navigare pe web.</string>
     <string name="permlab_writeHistoryBookmarks">scrie în marcajele şi în istoricul web</string>
-    <string name="permdesc_writeHistoryBookmarks">Permite aplicaţiei să modifice istoricul Browserului sau marcajele stocate pe tabletă. În acest fel, aplicaţia poate şterge sau modifica datele din Browser. Notă: această permisiune nu poate fi aplicată de browsere terţă parte sau de alte aplicaţii cu capacităţi de navigare pe web.</string>
+    <string name="permdesc_writeHistoryBookmarks">Permite aplicaţiei să modifice istoricul Browserului sau marcajele stocate pe telefon. În acest fel, aplicaţia poate şterge sau modifica datele din Browser. Notă: această permisiune nu poate fi aplicată de browsere terţă parte sau de alte aplicaţii cu capacităţi de navigare pe web.</string>
     <string name="permlab_setAlarm">setează o alarmă</string>
     <string name="permdesc_setAlarm">Permite aplicaţiei să seteze o alarmă într-o aplicaţie de ceas cu alarmă instalată. Este posibil ca unele aplicaţii de ceas cu alarmă să nu implementeze această funcţie.</string>
     <string name="permlab_addVoicemail">adăugare mesagerie vocală</string>
@@ -901,7 +901,7 @@ Sigur doriți să părăsiți această pagină?"</string>
     <string name="searchview_description_submit">Trimiteţi interogarea</string>
     <string name="searchview_description_voice">Căutare vocală</string>
     <string name="enable_explore_by_touch_warning_title">Activaţi Exploraţi prin atingere?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s doreşte să activeze funcţia Exploraţi prin atingere. Când această funcţie este activată, puteţi auzi sau vedea descrieri pentru ceea ce se află sub degetul dvs. sau puteţi efectua gesturi pentru a interacţiona cu tableta.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s doreşte să activeze funcţia Exploraţi prin atingere. Când această funcţie este activată, puteţi auzi sau vedea descrieri pentru ceea ce se află sub degetul dvs. sau puteţi efectua gesturi pentru a interacţiona cu telefonul.</string>
     <string name="oneMonthDurationPast">cu 1 lună în urmă</string>
     <string name="beforeOneMonthDurationPast">Cu mai mult de 1 lună în urmă</string>
     <string name="last_month">Luna trecută</string>
@@ -1025,7 +1025,7 @@ Doriţi să o închideţi?"</string>
     <string name="wifi_p2p_to_message">Către:</string>
     <string name="wifi_p2p_enter_pin_message">Introduceţi codul PIN necesar:</string>
     <string name="wifi_p2p_show_pin_message">Cod PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Tableta se va deconecta temporar de la rețeaua Wi-Fi cât timp este conectată la %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">Telefonul se va deconecta temporar de la reţeaua Wi-Fi cât timp este conectat la %1$s</string>
     <string name="select_character">Introduceţi caracterul</string>
     <string name="sms_control_title">Se trimit mesaje SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> trimite un număr mare de mesaje SMS. Permiteţi acestei aplicaţii să trimită în continuare mesaje?</string>
@@ -1274,7 +1274,7 @@ pentru contul %s."</string>
     <string name="SetupCallDefault">Acceptaţi apelul?</string>
     <string name="activity_resolver_use_always">Întotdeauna</string>
     <string name="activity_resolver_use_once">Numai o dată</string>
-    <string name="default_audio_route_name">Tabletă</string>
+    <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_headphones">Căşti</string>
     <string name="default_audio_route_name_dock_speakers">Difuz. dispozit. andocare</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Accesaţi "<b>google.com/accounts/recovery</b>.</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. 
 
 Încercaţi din nou peste %d (de) secunde."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a tabletei. După încă %d încercări nereuşite, aceasta va fi resetată la setările prestabilite din fabrică, iar toate datele de utilizator se vor pierde.</string>
-    <string name="kg_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a tabletei. Tableta va fi acum resetată la setările prestabilite din fabrică.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi tableta cu ajutorul unui cont de e-mail.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Aţi efectuat %d încercări incorecte de deblocare a telefonului. După încă %d încercări nereuşite, acesta va fi resetat la setările prestabilite din fabrică, iar toate datele de utilizator se vor pierde.</string>
+    <string name="kg_failed_attempts_now_wiping">Aţi efectuat %d încercări incorecte de deblocare a telefonului. Telefonul va fi acum resetat la setările prestabilite din fabrică.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Aţi desenat incorect modelul pentru deblocare de %d ori. După încă %d încercări nereuşite, vi se va solicita să deblocaţi telefonul cu ajutorul unui cont de e-mail.
 
  Încercaţi din nou peste %d (de) secunde."</string>
     <string name="kg_text_message_separator">" — "</string>

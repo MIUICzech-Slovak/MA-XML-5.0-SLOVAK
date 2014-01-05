@@ -179,9 +179,9 @@
     <string name="contentServiceSync">Sinkroniseer</string>
     <string name="contentServiceSyncNotificationTitle">Sinkroniseer</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Te veel %s uitgevee.</string>
-    <string name="low_memory">"Tablet se berging is vol. Vee 'n aantal lêers uit om spasie vry te maak."</string>
+    <string name="low_memory">"Foon se berging is vol. Vee 'n aantal lêers uit om spasie vry te maak."</string>
     <string name="me">Ek</string>
-    <string name="power_dialog">Tablet-opsies</string>
+    <string name="power_dialog">Foonopsies</string>
     <string name="silent_mode">Stilmodus</string>
     <string name="turn_on_radio">Skakel draadloos aan</string>
     <string name="turn_off_radio">Skakel draadloos af</string>
@@ -191,13 +191,13 @@
     <string name="silent_mode_vibrate">Luitoestel vibreer</string>
     <string name="silent_mode_ring">Luitoestel aan</string>
     <string name="shutdown_progress">Sit tans af…</string>
-    <string name="shutdown_confirm">Jou tablet gaan nou afskakel.</string>
+    <string name="shutdown_confirm">Jou foon gaan nou afsit.</string>
     <string name="shutdown_confirm_question">Wil jy afskakel?</string>
     <string name="reboot_safemode_title">Herlaai na veilige modus</string>
     <string name="reboot_safemode_confirm">Wil jy na veilige modus herlaai? Dit sal alle derdeparty programme deaktiveer wat jy geïnstalleer het. Hulle sal herstel word wanneer jy weer herlaai.</string>
     <string name="recent_tasks_title">Onlangs</string>
     <string name="no_recent_tasks">Geen onlangse programme nie.</string>
-    <string name="global_actions">Tablet-opsies</string>
+    <string name="global_actions">Foonopsies</string>
     <string name="global_action_lock">Skermslot</string>
     <string name="global_action_power_off">Sit af</string>
     <string name="global_action_bug_report">Foutverslag</string>
@@ -302,9 +302,9 @@
     <string name="permlab_sendRespondViaMessageRequest">stuur antwoord-via-boodskap-geleenthede</string>
     <string name="permdesc_sendRespondViaMessageRequest">Laat die program toe om versoeke te stuur na ander boodskapprogramme om antwoord-via-boodskap-geleenthede vir inkomende oproepe te hanteer.</string>
     <string name="permlab_readSms">lees jou teksboodskappe (SMS of MMS)</string>
-    <string name="permdesc_readSms">Laat die program toe om SMS-boodskappe wat op jou tablet of SIM-kaart gestoor is, te lees. Dit laat die program toe om alle SMS-boodskappe te lees, ongeag van die inhoud of vertroulikheid daarvan.</string>
+    <string name="permdesc_readSms">Laat die program toe om SMS-boodskappe wat op jou foon of SIM-kaart gestoor is, te lees. Dit laat die program toe om alle SMS-boodskappe te lees, ongeag van die inhoud of vertroulikheid daarvan.</string>
     <string name="permlab_writeSms">redigeer jou teksboodskappe (SMS of MMS)</string>
-    <string name="permdesc_writeSms">Laat die program toe om SMS-boodskappe te lees wat op jou tablet of SIM-kaart gestoor is. Kwaadwillige programme kan dalk jou boodskappe uitvee.</string>
+    <string name="permdesc_writeSms">Laat die program toe om SMS-boodskappe te skryf wat op jou foon of SIM-kaart gestoor is. Kwaadwillige programme kan dalk jou boodskappe uitvee.</string>
     <string name="permlab_receiveWapPush">ontvang teksboodskappe (WAP)</string>
     <string name="permdesc_receiveWapPush">Laat die program toe om WAP-boodskappe te ontvang en te verwerk. Hierdie toestemming sluit ook in dat boodskappe wat na jou toestel gestuur is, gemonitor of uitgevee kan word, sonder dat jy dit gesien het.</string>
     <string name="permlab_getTasks">haal lopende programme op</string>
@@ -390,7 +390,7 @@
     <string name="permlab_freezeScreen">vries skerm</string>
     <string name="permdesc_freezeScreen">"Laat die program toe om tydelik die skerm te vries vir 'n volskermoorgang."</string>
     <string name="permlab_injectEvents">druk sleutels en beheerknoppies</string>
-    <string name="permdesc_injectEvents">Laat die program toe om sy eie invoergebeure na ander programme te stuur (soos om sleutels te druk). Kwaadwillige programme kan dit dalk gebruik om beheer van die tablet oor te neem.</string>
+    <string name="permdesc_injectEvents">Laat die program toe om sy eie invoergebeure na ander programme te stuur (soos om sleutels te druk). Kwaadwillige programme kan dit dalk gebruik om beheer van die foon oor te neem.</string>
     <string name="permlab_readInputState">noteer wat jy insleutel en watter aksies jy onderneem</string>
     <string name="permdesc_readInputState">"Laat die program toe om te sien watter sleutels jy druk, selfs wanneer jy met 'n ander program besig is (soos om 'n wagwoord in te voer). Dit moet nooit vir normale programme nodig wees nie."</string>
     <string name="permlab_bindInputMethod">"bind aan 'n invoermetode"</string>
@@ -416,7 +416,7 @@
     <string name="permlab_signalPersistentProcesses">stuur Linux-seine na programme</string>
     <string name="permdesc_signalPersistentProcesses">Laat die program toe om te versoek dat die voorsiende sein na alle aanhoudende prosesse gestuur word.</string>
     <string name="permlab_persistentActivity">laat program altyd loop</string>
-    <string name="permdesc_persistentActivity">Laat die program toe om dele van ditself deurdringend in die geheue te hou. Dit kan geheue wat aan ander programme beskikbaar is, beperk, en die tablet stadiger maak.</string>
+    <string name="permdesc_persistentActivity">Laat die program toe om dele van ditself deurdringend in die geheue te hou. Dit kan geheue wat aan ander programme beskikbaar is, beperk, en die foon stadiger maak.</string>
     <string name="permlab_deletePackages">vee programme uit</string>
     <string name="permdesc_deletePackages">Laat die program toe om Android-pakkette uit te vee. Kwaadwillige programme kan dit dalk gebruik om belangrike programme uit te vee.</string>
     <string name="permlab_clearAppUserData">vee ander programme se data uit</string>
@@ -428,17 +428,17 @@
     <string name="permlab_installPackages">installeer programme direk</string>
     <string name="permdesc_installPackages">Laat die program toe om nuwe of opgedateerde Android-pakkette te installeer. Kwaadwillige programme kan dit dalk gebruik om nuwe programme by te voeg met arbitrêr kragtige toestemmings.</string>
     <string name="permlab_clearAppCache">vee alle programkasdata uit</string>
-    <string name="permdesc_clearAppCache">Laat die program toe om tabletberging oop te maak deur lêers in die kas-gidse van ander programme uit te vee. Dit kan veroorsaak dat ander programme stadiger begin omdat hulle hulle data moet herophaal.</string>
+    <string name="permdesc_clearAppCache">Laat die program toe om foonberging oop te maak deur lêers in die kas-gidse van ander programme uit te vee. Dit kan veroorsaak dat ander programme stadiger begin omdat hulle hulle data moet herophaal.</string>
     <string name="permlab_movePackage">skuif programhulpbronne</string>
     <string name="permdesc_movePackage">Laat die program toe om hulpbronne van interne na eksterne media te skuif, en omgekeerd.</string>
     <string name="permlab_readLogs">lees sensitiewe logdata</string>
-    <string name="permdesc_readLogs">"Laat die program toe om uit die stelsel se verskeie loglêers te lees. Dit laat 'n program toe om algemene inligting te ontdek oor wat jy met die tablet doen, wat moontlik persoonlike of private inligting kan insluit."</string>
+    <string name="permdesc_readLogs">"Laat die program toe om uit die stelsel se verskeie loglêers te lees. Dit laat 'n program toe om algemene inligting te ontdek oor wat jy met die foon doen, wat moontlik persoonlike of private inligting kan insluit."</string>
     <string name="permlab_anyCodecForPlayback">gebruik enige mediadekodeerder vir terugspeel</string>
     <string name="permdesc_anyCodecForPlayback">Laat die program toe om enige geïnstalleer mediadekodeerder te gebruik om te kan dekodeer vir terugspeel.</string>
     <string name="permlab_diagnostic">lees/skryf na bronne wat diag besit</string>
     <string name="permdesc_diagnostic">Laat die program toe om na enige hulpbron wat deur die diag-groep besit word, te skryf, byvoorbeeld lêers in /dev. Dit kan potensieel stelselstabiliteit en sekuriteit affekteer. Dit moet NET gebruik word vir hardewarespesifieke diagnose deur die vervaardiger of operateur.</string>
     <string name="permlab_changeComponentState">aktiveer of deaktiveer programkomponente</string>
-    <string name="permdesc_changeComponentState">"Laat die program toe om te verander of 'n komponent van ander program geaktiveer is of nie. Kwaadwillige programme kan dit dalk gebruik om belangrike tabletvermoëns te deaktiveer. Wees versigtig met hierdie toestemming, want dit kan programkomponente tot 'n onbruikbare, inkonsekwente of onstabiele toestand bring."</string>
+    <string name="permdesc_changeComponentState">"Laat die program toe om te verander of 'n komponent van ander program geaktiveer is of nie. Kwaadwillige programme kan dit gebruik om belangrike foonvermoëns te deaktiveer. Wees versigtig met hierdie toestemming, want dit kan programkomponente tot 'n onbruikbare, inkonsekwente of onstabiele toestand bring."</string>
     <string name="permlab_grantRevokePermissions">verleen of herroep toestemmings</string>
     <string name="permdesc_grantRevokePermissions">"Laat 'n program toe om spesifieke toestemmings te verleen of te herroep vir die betrokke program of ander programme. Kwaadwillige programme kan dit gebruik om toegang te verkry tot kenmerke waarvoor jy nie toestemming verleen het nie."</string>
     <string name="permlab_setPreferredApplications">stel voorkeurprogramme</string>
@@ -450,17 +450,17 @@
     <string name="permlab_writeGservices">verander die Google-dienstekaart</string>
     <string name="permdesc_writeGservices">Laat die program toe om die Google-dienste-kaart te verander. Nie vir gebruik deur normale programme nie.</string>
     <string name="permlab_receiveBootCompleted">laat loop wanneer begin</string>
-    <string name="permdesc_receiveBootCompleted">Laat die program toe om homself te begin so gou as moontlik nadat die stelsel laai. Dit maak dat dit langer neem vir die tablet om te begin, en dit laat die foon toe om die tablet stadiger te maak omdat dit altyd loop.</string>
+    <string name="permdesc_receiveBootCompleted">Laat die program toe om homself te begin so gou as moontlik nadat die stelsel laai. Dit maak dat dit langer neem vir die foon om te begin, en dit laat die foon toe om die foon stadiger te maak omdat dit altyd loop.</string>
     <string name="permlab_broadcastSticky">Stuur klewerige uitsending</string>
-    <string name="permdesc_broadcastSticky">Laat die program toe om taai uitsendings te stuur, wat agterbly nadat die uitsending klaar is. Oormatige gebruik kan die tablet stadig of onstabiel maak deurdat dit te veel geheue gebruik.</string>
+    <string name="permdesc_broadcastSticky">Laat die program toe om taai uitsendings te stuur, wat agterbly nadat die uitsending klaar is. Oormatige gebruik kan die foon stadig of onstabiel maak deurdat dit te veel geheue gebruik.</string>
     <string name="permlab_readContacts">lees jou kontakte</string>
-    <string name="permdesc_readContacts">Laat die program toe om inligting oor jou kontakte wat op jou tablet gestoor is, te lees, insluitend die gereeldheid van oproepe wat jy gemaak het, e-posse wat jy gestuur het, of ander maniere waarop jy met spesifieke individue gekommunikeer het. Hierdie toestemming laat programme toe om jou kontakdata te stoor, en kwaadwillige programme kan moontlik kontakdata sonder jou kennis deel.</string>
+    <string name="permdesc_readContacts">Laat die program toe om inligting oor jou kontakte wat op jou foon gestoor is, te lees, insluitend die gereeldheid van oproepe wat jy gemaak het, e-posse wat jy gestuur het, of ander maniere waarop jy met spesifieke individue gekommunikeer het. Hierdie toestemming laat programme toe om jou kontakdata te stoor, en kwaadwillige programme kan moontlik kontakdata sonder jou kennis deel.</string>
     <string name="permlab_writeContacts">verander jou kontakte</string>
-    <string name="permdesc_writeContacts">Laat die program toe om data oor jou kontakte wat op jou tablet gestoor is te verander, insluitend die gereeldheid van oproepe wat jy gemaak het, e-posse wat jy gestuur het, of ander maniere waarop jy met spesifieke individue gekommunikeer het. Hierdie toestemming laat programme toe om kontakdata uit te vee.</string>
+    <string name="permdesc_writeContacts">Laat die program toe om data oor jou kontakte wat op jou foon gestoor is te verander, insluitend die gereeldheid waarop jy oproepe gemaak het, gee-pos het, of op ander maniere met spesifieke kontakte gekommunikeer het. Hierdie toestemming laat programme toe om kontakdata te skrap.</string>
     <string name="permlab_readCallLog">lees oproeprekord</string>
-    <string name="permdesc_readCallLog">Laat die program toe om jou tablet se oproeprekord, insluitend data oor inkomende en uitgaande oproepe, te lees. Hierdie toestemming laat die program toe om jou oproeprekorddata te stoor, en kwaadwillige programme kan moontlik oproeprekorddata sonder jou kennis deel.</string>
+    <string name="permdesc_readCallLog">Laat die program toe om jou foon se oproeprekord, insluitend data oor inkomende en uitgaande oproepe, te lees. Hierdie toestemming laat die program toe om jou oproeprekorddata te stoor, en kwaadwillige programme kan moontlik oproeprekorddata sonder jou kennis deel.</string>
     <string name="permlab_writeCallLog">skryf oproeprekord</string>
-    <string name="permdesc_writeCallLog">Laat die program toe om jou tablet se oproeprekord, insluitende data oor inkomende en uitgaande oproepe, te verander. Kwaadwillige programme kan dit gebruik om jou oproeprekord uit te vee of te verander.</string>
+    <string name="permdesc_writeCallLog">Laat die program toe om jou foon se oproeprekord, insluitende data oor inkomende en uitgaande oproepe, te verander. Kwaadwillige programme kan dit gebruik om jou oproeprekord uit te vee of te verander.</string>
     <string name="permlab_readProfile">lees jou eie kontakkaart</string>
     <string name="permdesc_readProfile">"Laat die program toe om persoonlike profielinligting  wat op jou toestel gestoor is, soos jou naam en kontakbesonderhede, te lees. Dit beteken dat die program jou kan identifiseer en jou profielinligting moontlik aan ander mense kan stuur."</string>
     <string name="permlab_writeProfile">verander jou eie kontakkaart</string>
@@ -470,9 +470,9 @@
     <string name="permlab_writeSocialStream">skryf aan jou sosiale stroom</string>
     <string name="permdesc_writeSocialStream">"Laat die program toe om sosiale opdaterings van vriende te vertoon. Wees versigtig wanneer jy inligting deel -- dit laat die program toe om boodskappe te vervaardig wat lyk of dit van 'n vriend af kom. Let wel: hierdie toestemming mag dalk nie op alle sosiale netwerke afgedwing word nie."</string>
     <string name="permlab_readCalendar">lees kalenderafsprake plus vertroulike inligting</string>
-    <string name="permdesc_readCalendar">Laat die program toe om alle kalendergebeure wat op jou tablet gestoor is, insluitend dié van vriende en medewerkers, te lees. Dit kan moontlik die program toelaat om jou kalenderdata te deel of te stoor, ongeag van vertroulikheid of sensitiwiteit.</string>
+    <string name="permdesc_readCalendar">Laat die program toe om alle kalendergebeure wat op jou foon gestoor is, insluitend dié van vriende en medewerkers, te lees. Dit kan moontlik die program toelaat om jou kalenderdata te deel of te stoor, ongeag van vertroulikheid of sensitiwiteit.</string>
     <string name="permlab_writeCalendar">"voeg by of verander kalenderafsprake en stuur 'n e-pos aan gaste sonder eienaars se medewete"</string>
-    <string name="permdesc_writeCalendar">Laat die program toe om gebeure wat op jou tablet aangepas kan word, by te voeg, te verwyder of te verander, insluitend dié van vriende en medewerkers. Dit kan moontlik die program toelaat om boodskappe wat lyk of dit van kalendereienaars af kom, te stuur, of om gebeure sonder die eienaar se kennis aan te pas.</string>
+    <string name="permdesc_writeCalendar">Laat die program toe om gebeure wat op jou foon aangepas kan word, by te voeg, te verwyder of te verander, insluitend dié van vriende en medewerkers. Dit kan moontlik die program toelaat om boodskappe wat lyk of dit van kalendereienaars af kom, te stuur, of om gebeure sonder die eienaar se kennis aan te pas.</string>
     <string name="permlab_accessMockLocation">kamma liggingbronne vir toetsing</string>
     <string name="permdesc_accessMockLocation">"Skep skynliggingsbronne vir toetsing of installeer 'n nuwe liggingsverskaffer. Die program kan dan die ligging en/of status wat deurgegee is deur ander liggingsbronne, soos GPS of liggingsverskaffers, oorheers."</string>
     <string name="permlab_accessLocationExtraCommands">Kry toegang tot ekstra liggingverskaffer-bevele</string>
@@ -499,10 +499,10 @@
     <string name="permdesc_camera">"Laat die program toe om foto's en video's met die kamera te neem. Hierdie toestemming laat die program toe om die kamera te eniger tyd sonder jou bevestiging te gebruik."</string>
     <string name="permlab_cameraDisableTransmitLed">deaktiveer LED wat oordrag aandui wanneer kamera gebruik word</string>
     <string name="permdesc_cameraDisableTransmitLed">"Laat 'n pre-geïnstalleerde stelselprogram toe om die LED wat kamera-gebruik aandui, te deaktiveer."</string>
-    <string name="permlab_brick">deaktiveer tablet permanent</string>
-    <string name="permdesc_brick">Laat die program toe om die hele tablet permanent uitvee. Dit is baie gevaarlik.</string>
-    <string name="permlab_reboot">dwing tablet om te herselflaai</string>
-    <string name="permdesc_reboot">Laat die program toe om die tablet te dwing om te herselflaai.</string>
+    <string name="permlab_brick">deaktiveer foon permanent</string>
+    <string name="permdesc_brick">Laat die program toe om die hele foon permanent te deaktiveer. Dit is baie gevaarlik.</string>
+    <string name="permlab_reboot">forseer foonherlaai</string>
+    <string name="permdesc_reboot">Laat die program toe om die foon te dwing om te herselflaai.</string>
     <string name="permlab_mount_unmount_filesystems">gaan in by USB-berging se lêerstelsel</string>
     <string name="permdesc_mount_unmount_filesystems">Laat die program toe om lêerstelsels vir verwyderbare berging te heg of te ontheg.</string>
     <string name="permlab_mount_format_filesystems">vee USB-berging uit</string>
@@ -531,7 +531,7 @@
     <string name="permdesc_callPhone">Laat die program toe om telefoonnommers sonder jou tussentrede te bel. Dit kan tot onverwagte heffings of oproepe lei. Let daarop dat dit nie die program toelaat om noodnommers te bel nie. Kwaadwillige programme kan jou geld kos deur oproepe sonder jou bevestiging te maak.</string>
     <string name="permlab_callPrivileged">skakel enige foonnommers direk</string>
     <string name="permdesc_callPrivileged">Laat die program toe om enige foonnommer te bel, insluitend noodnommers, sonder jou insae. Kwaadwillige programme kan onnodige en onwettige oproepe na nooddienste maak.</string>
-    <string name="permlab_performCdmaProvisioning">begin direk met CDMA-tabletopstelling</string>
+    <string name="permlab_performCdmaProvisioning">begin dadelik met CDMA-foonopstelling</string>
     <string name="permdesc_performCdmaProvisioning">Laat die program toe om CDMA-voorsiening te begin. Kwaadwillige programme kan dalk onnodig CDMA-voorsiening begin.</string>
     <string name="permlab_locationUpdates">bestuur kennisgewings vir liggingopdatering</string>
     <string name="permdesc_locationUpdates">Laat die jeug program toe om liggingopdatering-berigte van die radio te aktiveer/deaktiveer. Nie vir gebruik deur normale programme nie.</string>
@@ -543,12 +543,12 @@
     <string name="permdesc_modifyPhoneState">"Laat die program toe om die foonkenmerke van die toestel te beheer. 'n Program met hierdie toestemming kan tussen netwerke wissel, die foonradio aan en af skakel, en dies meer, sonder om jou ooit te laat weet."</string>
     <string name="permlab_readPhoneState">lees foonstatus en identiteit</string>
     <string name="permdesc_readPhoneState">"Laat die program toe om toegang tot die foonfunksies van die toestel te verkry. Hierdie toestemming laat die program toe om te bepaal wat die foonnommer en toestel-IDs is, of die oproep aan die gang is, en die afgeleë nommer wat deur 'n oproep verbind word."</string>
-    <string name="permlab_wakeLock">verhoed dat tablet slaap</string>
-    <string name="permdesc_wakeLock">Laat die program toe om die tablet te keer om te slaap.</string>
-    <string name="permlab_devicePower">skakel tablet aan of af</string>
-    <string name="permdesc_devicePower">Laat die program toe om die tablet aan en af te skakel.</string>
+    <string name="permlab_wakeLock">verhoed foon om te slaap</string>
+    <string name="permdesc_wakeLock">Laat die program toe om die foon te keer om te slaap.</string>
+    <string name="permlab_devicePower">Sit foon aan of af</string>
+    <string name="permdesc_devicePower">Laat die program toe om die foon aan en af te skakel.</string>
     <string name="permlab_factoryTest">laat loop in fabriekstoetsmodus</string>
-    <string name="permdesc_factoryTest">"Laat loop as 'n laevlak-vervaardigertoets, sodat volle toegang tot die tablethardeware verkry word. Net beskikbaar wanneer 'n tablet in vervaardigertoetsmodus loop."</string>
+    <string name="permdesc_factoryTest">"Laat loop as 'n laevlak-vervaardigertoets, sodat volle toegang tot die foonhardeware verkry word. Net beskikbaar wanneer 'n foon in vervaardigertoets-modus loop."</string>
     <string name="permlab_setWallpaper">stel muurpapier</string>
     <string name="permdesc_setWallpaper">Laat die program toe om die stelsel se muurpapier te stel.</string>
     <string name="permlab_setWallpaperHints">verstel jou muurpapier se grootte</string>
@@ -556,13 +556,13 @@
     <string name="permlab_masterClear">stel stelsel terug na fabrieksverstek</string>
     <string name="permdesc_masterClear">Laat die program toe om die stelsel terug te stel na sy fabriekinstellings, al die data, opstelling en geïnstalleerde programme uit te vee.</string>
     <string name="permlab_setTime">stel tyd</string>
-    <string name="permdesc_setTime">Laat die program toe om die tablet se horlosietyd te verander.</string>
+    <string name="permdesc_setTime">Laat die program toe om die foon se horlosietyd te verander.</string>
     <string name="permlab_setTimeZone">stel tydsone</string>
-    <string name="permdesc_setTimeZone">Laat die program toe om die tablet se tydsone te verander.</string>
+    <string name="permdesc_setTimeZone">Laat die program toe om die foon se tydsone te verander.</string>
     <string name="permlab_accountManagerService">tree op as die AccountManagerService</string>
     <string name="permdesc_accountManagerService">Laat die program toe om oproepe na AccountAuthenticators te maak.</string>
     <string name="permlab_getAccounts">soek rekeninge op die toestel</string>
-    <string name="permdesc_getAccounts">Laat die program toe om die lys van rekeninge wat aan die tablet bekend is, te kry. Dit kan moontlik enige rekeninge wat geskep is deur programme wat jy geïnstalleer het, insluit.</string>
+    <string name="permdesc_getAccounts">Laat die program toe om die lys van rekeninge wat aan die foon bekend is, te kry. Dit kan moontlik enige rekeninge wat geskep is deur programme wat jy geïnstalleer het, insluit.</string>
     <string name="permlab_authenticateAccounts">skep rekeninge en stel wagwoorde</string>
     <string name="permdesc_authenticateAccounts">Laat die program toe om die rekeningmagtiger-vermoëns van die AccountManager te gebruik, insluitend om rekeninge te skep en hulle wagwoorde te kry en in te stel.</string>
     <string name="permlab_manageAccounts">voeg by of verwyder rekeninge</string>
@@ -586,15 +586,15 @@
     <string name="permlab_changeWifiState">koppel en ontkoppel van Wi-Fi</string>
     <string name="permdesc_changeWifiState">Laat die program toe om te koppel aan en te ontkoppel van Wi-Fi-toegangspunte en om veranderings aan Wi-Fi-netwerke se toestelopstellings te maak.</string>
     <string name="permlab_changeWifiMulticastState">laat Wi-Fi-multisendontvangs toe</string>
-    <string name="permdesc_changeWifiMulticastState">"Laat die program toe om pakkies te ontvang wat met behulp van multisaai-adresse na alle toestelle op 'n Wi-Fi-netwerk gestuur is, nie net jou tablet nie. Dit gebruik meer krag as die nie-multisaaimodus."</string>
+    <string name="permdesc_changeWifiMulticastState">"Laat die program toe om pakkies te ontvang wat met behulp van multisaai-adresse na alle toestelle op 'n Wi-Fi-netwerk gestuur is, nie net jou foon nie. Dit gebruik meer krag as die nie-multisaaimodus."</string>
     <string name="permlab_bluetoothAdmin">gaan in by Bluetooth-instellings</string>
-    <string name="permdesc_bluetoothAdmin">Laat die program toe om die plaaslike Bluetooth-tablet op te stel, en om met afstandbeheer toestelle saam te bind.</string>
+    <string name="permdesc_bluetoothAdmin">Laat die program toe om die plaaslike Bluetooth-foon op te stel en te ontdek en met afgeleë toestelle saam te bind.</string>
     <string name="permlab_accessWimaxState">koppel aan en ontkoppel van WiMAX</string>
     <string name="permdesc_accessWimaxState">Laat die program toe om te bepaal of WiMAX geaktiveer is en of enige WiMAX-netwerke gekoppel is.</string>
     <string name="permlab_changeWimaxState">Verander WiMAX-status</string>
-    <string name="permdesc_changeWimaxState">Laat die program toe om die tablet aan WiMAX-netwerke te koppel en daarvan te ontkoppel.</string>
+    <string name="permdesc_changeWimaxState">Laat die program toe om die foon aan WiMAX-netwerke te koppel en daarvan te ontkoppel.</string>
     <string name="permlab_bluetooth">bind saam met Bluetooth-toestelle</string>
-    <string name="permdesc_bluetooth">Laat die program toe om die opstelling van Bluetooth op die tablet te sien, en om verbindings met saamgebinde toestelle te maak en te aanvaar.</string>
+    <string name="permdesc_bluetooth">Laat die program toe om die opstelling van die Bluetooth op die foon te sien, en om verbindings met saamgebinde toestelle te maak en te aanvaar.</string>
     <string name="permlab_nfc">beheer kortveldkommunikasie</string>
     <string name="permdesc_nfc">Laat die program toe om met kortveldkommunikasie- (NFC) merkers, kaarte en lesers te kommunikeer.</string>
     <string name="permlab_disableKeyguard">deaktiveer jou skermslot</string>
@@ -638,13 +638,13 @@
     <string name="policylab_limitPassword">Stel wagwoordreëls</string>
     <string name="policydesc_limitPassword">Beheer lengte en watter karakters wat in die skermontsluit-wagwoorde gebruik word.</string>
     <string name="policylab_watchLogin">Monitor pogings om skerm te ontsluit</string>
-    <string name="policydesc_watchLogin">"Monitor die aantal keer wat 'n verkeerde wagwoorde ingevoer is wanneer die skerm ontsluit word, en sluit die tablet of veel al die data uit as die wagwoord te veel keer verkeerd ingevoer word."</string>
+    <string name="policydesc_watchLogin">"Monitor die aantal keer wat 'n verkeerde wagwoorde ingevoer is wanneer die skerm ontsluit word, en sluit die foon of vee al die data uit as die wagwoord te veel keer verkeerd ingevoer word."</string>
     <string name="policylab_resetPassword">Wysig die wagwoord wat die skerm ontsluit</string>
     <string name="policydesc_resetPassword">Verander die skermontsluit-wagwoord.</string>
     <string name="policylab_forceLock">Sluit die skerm</string>
     <string name="policydesc_forceLock">Beheer hoe en wanneer die skerm sluit.</string>
     <string name="policylab_wipeData">Vee alle data uit</string>
-    <string name="policydesc_wipeData">"Vee die tablet se data uit sonder waarskuwing, deur 'n fabrieksterugstelling uit te voer."</string>
+    <string name="policydesc_wipeData">"Vee die foon se data uit sonder waarskuwing, deur 'n fabrieksterugstelling uit te voer."</string>
     <string name="policylab_setGlobalProxy">Stel die toestel se globale instaan</string>
     <string name="policydesc_setGlobalProxy">Stel die toestel se globale instaan wat gebruik moet word terwyl die beleid geaktiveer is. Net die eerste toesteladministrateur stel die effektiewe globale instaan op.</string>
     <string name="policylab_expirePassword">Stel skermslotwagwoord se vervaldatum</string>
@@ -751,7 +751,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Koppel jou herlaaier.</string>
     <string name="lockscreen_missing_sim_message_short">Geen SIM-kaart nie</string>
-    <string name="lockscreen_missing_sim_message">Geen SIM-kaart in tablet nie.</string>
+    <string name="lockscreen_missing_sim_message">Geen SIM-kaart in foon nie.</string>
     <string name="lockscreen_missing_sim_instructions">"Steek 'n SIM-kaart in."</string>
     <string name="lockscreen_missing_sim_instructions_long">"Die SIM-kaart is weg of nie leesbaar nie. Steek 'n SIM-kaart in."</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Onbruikbare SIM-kaart.</string>
@@ -777,11 +777,11 @@ Probeer weer oor %d sekondes."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Jy het jou wagwoord %d keer verkeerd ingevoer. 
 
 Probeer weer oor %d sekondes."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Jy het jou ontsluitpatroon %d keer verkeerd geteken. Na %d nóg onsuksesvolle pogings sal jy gevra word om jou tablet te ontsluit met gebruik van jou Google-aanmelddetails.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Jy het jou ontsluitpatroon %d keer verkeerd geteken. Na nóg %d onsuksesvolle pogings sal jy gevra word om jou foon te ontsluit met gebruik van jou Google-aanmelddetails.
 
  Probeer weer oor %d sekondes."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Jy het %d keer probeer om die tablet verkeerde te ontsluit. Na nog %d onsuksesvolle poging, sal die tablet terug gestel word nia die fabrieksverstek en alle gebruikerdata sal verlore wees.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Jy het die tablet %d keer verkeerd probeer ontsluit. Die tablet sal nou terug gestel word na die fabrieksverstek.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Jy het %d keer probeer om die foon verkeerde te ontsluit. Na nog %d onsuksesvolle poging sal die foon terug gestel word na die fabrieksverstek en alle gebruikerdata sal verlore wees.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Jy %d keer probeer om die foon verkeerd te ontsluit. Die foon sal nou terug gestel word na die fabrieksvertek.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Probeer weer oor %d sekondes.</string>
     <string name="lockscreen_forgot_pattern_button_text">Patroon vergeet?</string>
     <string name="lockscreen_glogin_forgot_pattern">Ontsluit rekening</string>
@@ -866,7 +866,7 @@ Is jy seker dat jy weg van hierdie bladsy af wil navigeer?"</string>
     <string name="permlab_readHistoryBookmarks">lees jou web-boekmerke en geskiedenis</string>
     <string name="permdesc_readHistoryBookmarks">"Laat die program toe om die geskiedenis van alle URL'e wat die leser besoek het, en al die blaaier se boekmerke, te lees. Let wel: hierdie toestemming mag dalk nie deur derdeparty-blaaiers of ander programme met webblaaivermoëns afgedwing word nie."</string>
     <string name="permlab_writeHistoryBookmarks">skryf webboekmerke en -geskiedenis</string>
-    <string name="permdesc_writeHistoryBookmarks">Laat die program toe om die blaaier se geskiedenis of boekmerke wat op jou tablet gestoor is, te verander. Dit kan moontlik die program toelaat om blaaierdata uit te vee of te verander. Let wel: hierdie toestemming mag dalk nie deur derdeparty-blaaiers of ander programme met webblaaivermoëns afgedwing word nie.</string>
+    <string name="permdesc_writeHistoryBookmarks">Laat die program toe om die blaaier se geskiedenis of boekmerke wat op jou foon gestoor is, te verander. Dit kan moontlik die program toelaat om blaaierdata uit te vee of te verander. Let wel: hierdie toestemming mag dalk nie deur derdeparty-blaaiers of ander programme met webblaaivermoëns afgedwing word nie.</string>
     <string name="permlab_setAlarm">"stel 'n wekker"</string>
     <string name="permdesc_setAlarm">"Laat die program toe om 'n alarm in 'n geïnstalleerde wekkerprogram te stel. Sommige wekkerprogramme werk dalk nie met hierdie funksie nie."</string>
     <string name="permlab_addVoicemail">voeg stemboodskap by</string>
@@ -900,7 +900,7 @@ Is jy seker dat jy weg van hierdie bladsy af wil navigeer?"</string>
     <string name="searchview_description_submit">Dien navraag in</string>
     <string name="searchview_description_voice">Stemsoektog</string>
     <string name="enable_explore_by_touch_warning_title">Wil jy Verken-met-raak aktiveer?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s wil Verken-met-raak aktiveer. Wanneer Verken-met-raak aangeskakel is, kan jy beskrywings van wat onder jou vinger is hoor of sien, of jy kan gebare uitvoer om interaksie met die tablet te hê.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s wil Verken-met-raak aktiveer. Wanneer Verken-met-raak aangeskakel is, kan jy beskrywings van wat onder jou vinger is hoor of sien, of jy kan gebare uitvoer om interaksie met die foon te hê .</string>
     <string name="oneMonthDurationPast">1 maand gelede</string>
     <string name="beforeOneMonthDurationPast">Voor 1 maand gelede</string>
     <string name="last_month">Verlede maand</string>
@@ -1024,7 +1024,7 @@ Wil jy dit toemaak?"</string>
     <string name="wifi_p2p_to_message">Aan:</string>
     <string name="wifi_p2p_enter_pin_message">Voer die vereiste PIN in:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Die tablet sal tydelik van Wi-Fi ontkoppel terwyl dit aan %1$s gekoppel is</string>
+    <string name="wifi_p2p_frequency_conflict_message">Die foon sal tydelik van Wi-Fi ontkoppel terwyl dit aan %1$s gekoppel is</string>
     <string name="select_character">Voeg karakter in</string>
     <string name="sms_control_title">Stuur SMS-boodskappe</string>
     <string name="sms_control_message">"&lt;b>%1$s&lt;/b> stuur 'n groot aantal SMS-boodskappe. Wil jy hierdie program toelaat om voort te gaan om boodskappe te stuur?"</string>
@@ -1273,7 +1273,7 @@ vir rekening %s."</string>
     <string name="SetupCallDefault">Aanvaar oproep?</string>
     <string name="activity_resolver_use_always">Altyd</string>
     <string name="activity_resolver_use_once">Net een keer</string>
-    <string name="default_audio_route_name">Tablet</string>
+    <string name="default_audio_route_name">Foon</string>
     <string name="default_audio_route_name_headphones">Oorfone</string>
     <string name="default_audio_route_name_dock_speakers">Dokluidsprekers</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1330,9 +1330,9 @@ Probeer weer oor %d sekondes."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Jy het jou ontsluitpatroon %d keer verkeerdelik geteken. 
 
 Probeer weer oor %d sekondes."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Jy het %d keer verkeerdelik gepoog om die tablet te ontsluit. Na nog %d onsuksesvolle pogings, sal die tablet na die fabrieksverstek teruggestel word en al die gebruikerdata sal verlore wees.</string>
-    <string name="kg_failed_attempts_now_wiping">Jy het %d keer verkeerdelik gepoog om die tablet te ontsluit. Die tablet sal nou na fabrieksverstek teruggestel word.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Jy het jou ontsluitpatroon %d keer verkeerdelik geteken. Na nog %d onsuksesvolle pogings, sal jy gevra word om jou tablet te ontsluit deur middel van 'n e-posrekening.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Jy het %d keer verkeerdelik gepoog om die foon te ontsluit. Na nog %d onsuksesvolle pogings, sal die foon na die fabrieksverstek teruggestel word en al die gebruikerdata sal verlore wees.</string>
+    <string name="kg_failed_attempts_now_wiping">Jy het %d keer verkeerdelik gepoog om die foon te ontsluit. Die foon sal nou na fabrieksverstek teruggestel word.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Jy het jou ontsluitpatroon %d keer verkeerdelik geteken. Na nog %d onsuksesvolle pogings, sal jy gevra word om jou foon te ontsluit deur middel van 'n e-posrekening.
 
  Probeer weer oor %d sekondes."</string>
     <string name="kg_text_message_separator">" — "</string>

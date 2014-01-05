@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Sincronização</string>
     <string name="contentServiceSyncNotificationTitle">Sincronização</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Demasiadas eliminações de %s.</string>
-    <string name="low_memory">O armazenamento do tablet está cheio. Elimine alguns ficheiros para libertar espaço.</string>
+    <string name="low_memory">O armazenamento do telemóvel está cheio. Elimine alguns ficheiros para libertar espaço.</string>
     <string name="me">Eu</string>
-    <string name="power_dialog">Opções do tablet</string>
+    <string name="power_dialog">Opções do telefone</string>
     <string name="silent_mode">Modo silencioso</string>
     <string name="turn_on_radio">Activar sem fios</string>
     <string name="turn_off_radio">Desactivar sem fios</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Campainha em vibração.</string>
     <string name="silent_mode_ring">Campainha ativada</string>
     <string name="shutdown_progress">A encerrar...</string>
-    <string name="shutdown_confirm">O seu tablet irá encerrar.</string>
+    <string name="shutdown_confirm">O seu telefone será encerrado.</string>
     <string name="shutdown_confirm_question">Pretende encerrar?</string>
     <string name="reboot_safemode_title">Reiniciar no modo de segurança</string>
     <string name="reboot_safemode_confirm">Pretende reiniciar no modo de segurança? Se sim, irá desativar todas as aplicações de terceiros instaladas. Estas serão restauradas quando reiniciar novamente.</string>
     <string name="recent_tasks_title">Recente</string>
     <string name="no_recent_tasks">Não existem aplicações recentes</string>
-    <string name="global_actions">Opções do tablet</string>
+    <string name="global_actions">Opções do telefone</string>
     <string name="global_action_lock">Bloqueio de ecrã</string>
     <string name="global_action_power_off">Desligar</string>
     <string name="global_action_bug_report">Relatório de erros</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">enviar eventos de resposta-via-mensagem</string>
     <string name="permdesc_sendRespondViaMessageRequest">Permite à aplicação enviar pedidos a outras aplicações de mensagens para processar eventos de resposta-via-mensagem para as chamadas recebidas.</string>
     <string name="permlab_readSms">ler as mensagens de texto (SMS ou MMS)</string>
-    <string name="permdesc_readSms">Permite que a aplicação leia mensagens SMS guardadas no tablet ou no cartão SIM. Permite que a aplicação leia todas as mensagens SMS, independentemente do conteúdo ou da confidencialidade das mesmas.</string>
+    <string name="permdesc_readSms">Permite que a aplicação leia mensagens SMS guardadas no telemóvel ou no cartão SIM. Permite que a aplicação leia todas as mensagens SMS, independentemente do conteúdo ou da confidencialidade das mesmas.</string>
     <string name="permlab_writeSms">editar as mensagens de texto (SMS ou MMS)</string>
-    <string name="permdesc_writeSms">Permite que a aplicação escreva mensagens SMS armazenadas no tablet ou no cartão SIM. As aplicações maliciosas podem eliminar as suas mensagens.</string>
+    <string name="permdesc_writeSms">Permite que a aplicação escreva mensagens SMS armazenadas no telemóvel ou no cartão SIM. As aplicações maliciosas podem eliminar as suas mensagens.</string>
     <string name="permlab_receiveWapPush">receber mensagens de texto (WAP)</string>
     <string name="permdesc_receiveWapPush">Permite que a aplicação receba e processe mensagens WAP. Esta autorização inclui a capacidade de monitorizar ou eliminar mensagens enviadas para si sem as apresentar.</string>
     <string name="permlab_getTasks">obter aplicações em execução</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">fixar o ecrã</string>
     <string name="permdesc_freezeScreen">Permite que a aplicação fixe temporariamente o ecrã para uma transição para ecrã completo.</string>
     <string name="permlab_injectEvents">premir teclas e botões de controlo</string>
-    <string name="permdesc_injectEvents">Permite que a aplicação forneça os seus próprios eventos de entrada (toques em teclas, etc.) a outras aplicações. As aplicações maliciosas podem utilizar este item para controlar o tablet.</string>
+    <string name="permdesc_injectEvents">Permite que a aplicação forneça os seus próprios eventos de entrada (toques em teclas, etc.) a outras aplicações. As aplicações maliciosas podem utilizar isto para controlar o telemóvel.</string>
     <string name="permlab_readInputState">gravar o que utilizador escreve e as acções que efectua</string>
     <string name="permdesc_readInputState">Permite que a aplicação veja as teclas que o utilizador prime, mesmo ao interagir com outra aplicação (como, por exemplo, ao introduzir uma palavra-passe). Nunca deve ser necessário para aplicações normais.</string>
     <string name="permlab_bindInputMethod">vincular a um método de entrada</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">enviar sinais Linux para aplicações</string>
     <string name="permdesc_signalPersistentProcesses">Permite à aplicação pedir que o sinal fornecido seja enviado a todos os processos persistentes.</string>
     <string name="permlab_persistentActivity">fazer com que a aplicação seja sempre executada</string>
-    <string name="permdesc_persistentActivity">Permite que a aplicação torne partes de si mesma persistentes na memória. Isto pode limitar a disponibilidade da memória para outras aplicações, tornando o tablet mais lento.</string>
+    <string name="permdesc_persistentActivity">Permite que a aplicação torne partes de si mesma persistentes na memória. Isto pode limitar a disponibilidade da memória para outras aplicações, tornando o telemóvel mais lento.</string>
     <string name="permlab_deletePackages">eliminar aplicações</string>
     <string name="permdesc_deletePackages">Permite que a aplicação elimine pacotes do Android. As aplicações maliciosas podem utilizar isto para eliminar aplicações importantes.</string>
     <string name="permlab_clearAppUserData">eliminar dados de outras aplicações</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">instalar aplicações diretamente</string>
     <string name="permdesc_installPackages">Permite que a aplicação instale pacotes novos ou atualizados do Android. As aplicações maliciosas podem utilizar isto para adicionar novas aplicações com autorizações arbitrariamente fortes.</string>
     <string name="permlab_clearAppCache">eliminar todos os dados de cache da aplicação</string>
-    <string name="permdesc_clearAppCache">Permite que a aplicação liberte espaço de armazenamento no tablet eliminando ficheiros nos diretórios da cache de outras aplicações. Isto poderá tornar o arranque de outras aplicações mais lento, pois necessitam de recuperar novamente os respetivos dados.</string>
+    <string name="permdesc_clearAppCache">Permite que a aplicação liberte espaço de armazenamento no telemóvel eliminando ficheiros nos diretórios da cache de outras aplicações. Isto poderá tornar o arranque de outras aplicações mais lento, pois necessitam de recuperar novamente os respetivos dados.</string>
     <string name="permlab_movePackage">mover recursos de aplicações</string>
     <string name="permdesc_movePackage">Permite que a aplicação mova recursos de aplicações de meios internos para meios externos e vice-versa.</string>
     <string name="permlab_readLogs">ler dados sensíveis de registo</string>
-    <string name="permdesc_readLogs">Permite que a aplicação leia a partir dos diversos ficheiros de registo do sistema. Isto permite descobrir informações gerais sobre a forma como o utilizador utiliza o tablet, podendo, inclusive, incluir dados pessoais ou privados.</string>
+    <string name="permdesc_readLogs">Permite que a aplicação leia a partir dos diversos ficheiros de registo do sistema. Isto permite descobrir informações gerais sobre a forma como o utilizador usa o telemóvel, podendo, inclusive, incluir dados pessoais ou privados.</string>
     <string name="permlab_anyCodecForPlayback">Utilizar qualquer descodificador de multimédia para a reprodução</string>
     <string name="permdesc_anyCodecForPlayback">Permite que a aplicação utilize qualquer descodificador de multimédia instalado para descodificar a reprodução.</string>
     <string name="permlab_diagnostic">ler/escrever em recursos propriedade de diag</string>
     <string name="permdesc_diagnostic">Permite à aplicação ler e escrever em qualquer recurso que seja propriedade do grupo diag; por exemplo, ficheiros em /dev. Isto pode potencialmente afetar a estabilidade e a segurança do sistema e deve ser utilizado APENAS para diagnósticos específicos do hardware pelo fabricante ou pelo operador.</string>
     <string name="permlab_changeComponentState">ativar ou desativar componentes da aplicação</string>
-    <string name="permdesc_changeComponentState">Permite que a aplicação mude a opção de ativar ou não um componente de outra aplicação. As aplicações maliciosas podem utilizar isto para desativar funcionalidades importantes do tablet. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
+    <string name="permdesc_changeComponentState">Permite que a aplicação mude a opção de ativar ou não um componente de outra aplicação. As aplicações maliciosas podem utilizar isto para desativar funcionalidades importantes do telemóvel. É necessário ter cuidado com esta autorização, uma vez que é possível colocar alguns componentes de aplicações num estado inutilizável, inconsistente ou instável.</string>
     <string name="permlab_grantRevokePermissions">conceder ou revogar permissões</string>
     <string name="permdesc_grantRevokePermissions">Permite que uma aplicação conceda ou revogue permissões específicas para si própria ou para outras aplicações. As aplicações maliciosas podem utilizar isto para aceder a funcionalidades para as quais não têm permissão.</string>
     <string name="permlab_setPreferredApplications">definir aplicações preferidas</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">modificar o mapa de serviços do Google</string>
     <string name="permdesc_writeGservices">Permite que a aplicação modifique o mapa de serviços do Google. Não se destina a utilização por aplicações normais.</string>
     <string name="permlab_receiveBootCompleted">executar no arranque</string>
-    <string name="permdesc_receiveBootCompleted">Permite que uma aplicação se inicie automaticamente assim que tiver terminado o arranque do sistema. Isto pode atrasar o arranque do tablet e permitir à aplicação abrandar todo o funcionamento do tablet, uma vez que está em constante execução.</string>
+    <string name="permdesc_receiveBootCompleted">Permite que uma aplicação se inicie automaticamente assim que tiver terminado o arranque do sistema. Isto pode atrasar o arranque do telemóvel e permitir à aplicação abrandar todo o funcionamento do telemóvel, uma vez que está em constante execução.</string>
     <string name="permlab_broadcastSticky">enviar difusão fixa</string>
-    <string name="permdesc_broadcastSticky">Permite que uma aplicação envie difusões fixas, que permanecem após o fim da difusão. Uma utilização excessiva pode tornar o tablet lento ou instável, fazendo com que utilize demasiada memória.</string>
+    <string name="permdesc_broadcastSticky">Permite que a aplicação envie difusões fixas, que permanecem após o fim da difusão. Uma utilização excessiva pode tornar o telemóvel lento ou instável, fazendo com que utilize demasiada memória.</string>
     <string name="permlab_readContacts">ler os contactos</string>
-    <string name="permdesc_readContacts">Permite que a aplicação leia dados acerca de contactos guardados no tablet, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que a aplicação guarde dados de contactos e as aplicações maliciosas podem partilhar dados de contactos sem o seu conhecimento.</string>
+    <string name="permdesc_readContacts">Permite que a aplicação leia dados acerca de contactos guardados no telemóvel, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que a aplicação guarde dados de contactos e as aplicações maliciosas podem partilhar dados de contactos sem o seu conhecimento.</string>
     <string name="permlab_writeContacts">modificar os contactos</string>
-    <string name="permdesc_writeContacts">Permite que a aplicação modifique dados acerca dos contactos guardados no tablet, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que as aplicações eliminem dados de contactos.</string>
+    <string name="permdesc_writeContacts">Permite que a aplicação modifique dados acerca dos contactos guardados no telemóvel, incluindo a frequência com que telefonou, enviou emails ou comunicou através de outras formas com determinadas pessoas. Esta autorização permite que as aplicações eliminem dados de contactos.</string>
     <string name="permlab_readCallLog">ler registo de chamadas</string>
-    <string name="permdesc_readCallLog">Permite que a aplicação leia o registo de chamadas do tablet, incluindo dados acerca de chamadas recebidas e efetuadas. Esta autorização permite que as aplicações guardem os dados de registo de chamadas e as aplicações maliciosas podem partilhar dados de registo de chamadas sem o seu conhecimento.</string>
+    <string name="permdesc_readCallLog">Permite que a aplicação leia o registo de chamadas do telemóvel, incluindo dados acerca de chamadas recebidas e efetuadas. Esta autorização permite que as aplicações guardem os dados de registo de chamadas e as aplicações maliciosas podem partilhar dados de registo de chamadas sem o seu conhecimento.</string>
     <string name="permlab_writeCallLog">escrever registo de chamadas</string>
-    <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do tablet, incluindo os dados sobre as chamadas recebidas e efetuadas. As aplicações maliciosas podem utilizar esta funcionalidade para apagar ou modificar o registo de chamadas.</string>
+    <string name="permdesc_writeCallLog">Permite à aplicação modificar o registo de chamadas do telemóvel, incluindo os dados sobre as chamadas recebidas e efetuadas. As aplicações maliciosas podem utilizar esta funcionalidade para apagar ou modificar o seu registo de chamadas.</string>
     <string name="permlab_readProfile">ler o próprio cartão de contacto</string>
     <string name="permdesc_readProfile">Permite que a aplicação leia dados de perfil pessoais guardados no dispositivo, tais como o seu nome e informações de contacto. Isto significa que outras aplicações podem identificá-lo e enviar os seus dados de perfil a terceiros.</string>
     <string name="permlab_writeProfile">modificar o próprio cartão de contacto</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">escrever para o seu fluxo social</string>
     <string name="permdesc_writeSocialStream">Permite que a aplicação apresente atualizações de redes sociais de amigos. Tenha cuidado ao partilhar informações, pois esta ação permite que a aplicação produza mensagens que podem parecer ser enviadas por um amigo. Nota: esta autorização pode não ser aplicada a todas as redes sociais.</string>
     <string name="permlab_readCalendar">ler eventos do calendário, para além de informações confidenciais</string>
-    <string name="permdesc_readCalendar">Permite que a aplicação leia todos os eventos do calendário guardados no tablet, incluindo os de amigos ou colegas de trabalho. Pode permitir que a aplicação partilhe ou guarde dados do calendário, independentemente da confidencialidade ou sensibilidade.</string>
+    <string name="permdesc_readCalendar">Permite que a aplicação leia todos os eventos do calendário guardados no telemóvel, incluindo os de amigos ou colegas de trabalho. Pode permitir que a aplicação partilhe ou guarde dados do calendário, independentemente da confidencialidade ou da sensibilidade.</string>
     <string name="permlab_writeCalendar">adicionar ou modificar eventos do calendário e enviar e-mail a convidados sem o conhecimento dos proprietários</string>
-    <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que pode modificar no tablet, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos calendários ou modifique eventos sem o conhecimento do proprietário.</string>
+    <string name="permdesc_writeCalendar">Permite que a aplicação adicione, remova e altere eventos que pode modificar no telemóvel, incluindo eventos relacionados com amigos ou colegas de trabalho. Pode permitir que a aplicação envie mensagens que parecem ser enviadas pelos proprietários dos calendários ou modifique eventos sem o conhecimento do proprietário.</string>
     <string name="permlab_accessMockLocation">fontes de localização fictícias para teste</string>
     <string name="permdesc_accessMockLocation">Criar fontes de localização fictícias para fins de teste ou instalar um novo fornecedor de localização. Isto permite que a aplicação substitua a localização e/ou o estado devolvido por outras fontes de localização como, por exemplo, GPS ou fornecedores de localização.</string>
     <string name="permlab_accessLocationExtraCommands">aceder a comandos adicionais do fornecedor de localização</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Permite que a aplicação tire fotografias e grave vídeos com a câmara. Esta autorização permite que a aplicação utilize a câmara sem a sua confirmação em qualquer altura.</string>
     <string name="permlab_cameraDisableTransmitLed">desativar LED indicador de transmissão com a câmara em utilização</string>
     <string name="permdesc_cameraDisableTransmitLed">Permite que uma aplicação de sistema pré-instalada desative o LED indicador de utilização da câmara.</string>
-    <string name="permlab_brick">desactivar tablet de forma permanente</string>
-    <string name="permdesc_brick">Permite que a aplicação desative definitivamente todo o tablet. Esta ação é muito perigosa.</string>
-    <string name="permlab_reboot">forçar reinício do tablet</string>
-    <string name="permdesc_reboot">Permite que a aplicação force o reinício do tablet.</string>
+    <string name="permlab_brick">desactivar telefone de forma permanente</string>
+    <string name="permdesc_brick">Permite que a aplicação desative definitivamente todo o telemóvel. Esta ação é muito perigosa.</string>
+    <string name="permlab_reboot">forçar reinício do telefone</string>
+    <string name="permdesc_reboot">Permite que a aplicação force o reinício do telemóvel.</string>
     <string name="permlab_mount_unmount_filesystems">aceder ao sistema de ficheiros da memória USB</string>
     <string name="permdesc_mount_unmount_filesystems">Permite à aplicação montar e desmontar sistemas de ficheiros para armazenamento amovível.</string>
     <string name="permlab_mount_format_filesystems">apagar armazenamento USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Permite que a aplicação ligue para números de telefone sem a intervenção do utilizador. Esta ação pode resultar em cobranças ou chamadas inesperadas. Tenha em atenção que isto não permite que a aplicação ligue para números de emergência. As aplicações maliciosas podem fazer com que incorra em custos, fazendo chamadas sem a sua confirmação.</string>
     <string name="permlab_callPrivileged">marcar diretamente quaisquer números de telefone</string>
     <string name="permdesc_callPrivileged">Permite que a aplicação marque qualquer número de telefone, incluindo números de emergência, sem a intervenção do utilizador. As aplicações maliciosas podem efetuar chamadas desnecessárias e ilegais para serviços de emergência.</string>
-    <string name="permlab_performCdmaProvisioning">iniciar diretamente a configuração do tablet CDMA</string>
+    <string name="permlab_performCdmaProvisioning">iniciar diretamente a configuração do telefone CDMA</string>
     <string name="permdesc_performCdmaProvisioning">Permite que a aplicação inicie a administração CDMA. As aplicações maliciosas podem iniciar a administração CDMA desnecessariamente.</string>
     <string name="permlab_locationUpdates">controlar notificações de actualização de localização</string>
     <string name="permdesc_locationUpdates">Permite que a aplicação ative/desative as notificações de atualização de localização do rádio. Não se destina a utilização por aplicações normais.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Permite que a aplicação controle as funcionalidades de telefone do aparelho. Uma aplicação com esta permissão pode alternar entre redes, ligar/desligar o rádio do telefone e outras coisas semelhantes sem sequer o notificar.</string>
     <string name="permlab_readPhoneState">ler o estado e a identidade do telemóvel</string>
     <string name="permdesc_readPhoneState">Permite que a aplicação aceda às funcionalidades de telefone do dispositivo. Esta autorização permite que a aplicação determine o número de telefone e IDs do dispositivo, se alguma chamada está ativa e qual o número remoto ligado por uma chamada.</string>
-    <string name="permlab_wakeLock">impedir que o tablet entre em inactividade</string>
-    <string name="permdesc_wakeLock">Permite que a aplicação impeça o tablet de entrar no modo de suspensão.</string>
-    <string name="permlab_devicePower">ligar ou desligar o tablet</string>
-    <string name="permdesc_devicePower">Permite que uma aplicação ligue ou desligue o tablet.</string>
+    <string name="permlab_wakeLock">impedir modo de inactividade do telefone</string>
+    <string name="permdesc_wakeLock">Permite que a aplicação impeça o telemóvel de entrar em inatividade.</string>
+    <string name="permlab_devicePower">ligar ou desligar o telefone</string>
+    <string name="permdesc_devicePower">Permite que a aplicação ligue ou desligue o telemóvel.</string>
     <string name="permlab_factoryTest">executar em modo de teste de fábrica</string>
-    <string name="permdesc_factoryTest">Executar como um teste de nível inferior do fabricante, permitindo o acesso total ao hardware do tablet. Apenas disponível quando um tablet está em execução em modo de teste do fabricante.</string>
+    <string name="permdesc_factoryTest">Executar como um teste de nível inferior do fabricante, permitindo o acesso total ao hardware do telefone. Apenas disponível quando um telefone está em execução em modo de teste do fabricante.</string>
     <string name="permlab_setWallpaper">definir imagem de fundo</string>
     <string name="permdesc_setWallpaper">Permite à aplicação definir a imagem de fundo do sistema.</string>
     <string name="permlab_setWallpaperHints">ajustar o tamanho da imagem de fundo</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">repor definições de fábrica do sistemas</string>
     <string name="permdesc_masterClear">Permite que a aplicação reponha totalmente as definições de fábrica do sistema, apagando todos os dados, configurações e aplicações instaladas.</string>
     <string name="permlab_setTime">definir hora</string>
-    <string name="permdesc_setTime">Permite que a aplicação altere a hora do relógio do tablet.</string>
+    <string name="permdesc_setTime">Permite que a aplicação altere a hora do relógio do telemóvel.</string>
     <string name="permlab_setTimeZone">definir fuso horário</string>
-    <string name="permdesc_setTimeZone">Permite que a aplicação altere o fuso horário do tablet.</string>
+    <string name="permdesc_setTimeZone">Permite que a aplicação altere o fuso horário do telemóvel.</string>
     <string name="permlab_accountManagerService">funciona como Serviço de Gestor de Conta</string>
     <string name="permdesc_accountManagerService">Permite que a aplicação efetue chamadas para Autenticadores de Conta.</string>
     <string name="permlab_getAccounts">procurar contas no dispositivo</string>
-    <string name="permdesc_getAccounts">Permite que a aplicação obtenha a lista de contas reconhecidas pelo tablet. Pode incluir qualquer conta criada pelas aplicações instaladas.</string>
+    <string name="permdesc_getAccounts">Permite que a aplicação obtenha a lista de contas reconhecidas pelo telemóvel. Pode incluir qualquer conta criada pelas aplicações instaladas.</string>
     <string name="permlab_authenticateAccounts">criar contas e definir palavras-passe</string>
     <string name="permdesc_authenticateAccounts">Permite que uma aplicação utilize as funcionalidades de autenticador de conta do Gestor de Conta, incluindo a criação de contas e a obtenção e definição das respetivas palavras-passe.</string>
     <string name="permlab_manageAccounts">adicionar ou remover contas</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">ligar e desligar de redes Wi-Fi</string>
     <string name="permdesc_changeWifiState">Permite que a aplicação se ligue e desligue de pontos de acesso Wi-Fi e que efetue alterações à configuração do dispositivo para redes Wi-Fi.</string>
     <string name="permlab_changeWifiMulticastState">permitir recepção Multicast Wi-Fi</string>
-    <string name="permdesc_changeWifiMulticastState">Permite que a aplicação receba pacotes enviados para todos os dispositivos numa rede Wi-Fi através de endereços multicast, não apenas para o tablet. Utiliza mais energia do que o modo não multicast.</string>
+    <string name="permdesc_changeWifiMulticastState">Permite que a aplicação receba pacotes enviados para todos os dispositivos numa rede Wi-Fi através de endereços multicast, não apenas para o telemóvel. Utiliza mais energia do que o modo não multicast.</string>
     <string name="permlab_bluetoothAdmin">aceder às definições de Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Permite à aplicação configurar o tablet Bluetooth local, bem como descobrir e emparelhar com dispositivos remotos.</string>
+    <string name="permdesc_bluetoothAdmin">Permite que a aplicação configure o telemóvel Bluetooth local, bem como descobrir e emparelhar com dispositivos remotos.</string>
     <string name="permlab_accessWimaxState">ligar e desligar do WiMAX</string>
     <string name="permdesc_accessWimaxState">Permite que a aplicação determine se o WiMAX está ativado e aceda a informações acerca de qualquer rede WiMAX que esteja ligada.</string>
     <string name="permlab_changeWimaxState">Alterar estado do WiMAX</string>
-    <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o tablet de redes WiMAX.</string>
+    <string name="permdesc_changeWimaxState">Permite que a aplicação ligue e desligue o telemóvel de redes WiMAX.</string>
     <string name="permlab_bluetooth">sincronizar com dispositivos Bluetooth</string>
-    <string name="permdesc_bluetooth">Permite que a aplicação visualize a configuração do Bluetooth no tablet e que estabeleça e aceite ligações com dispositivos emparelhados.</string>
+    <string name="permdesc_bluetooth">Permite que a aplicação visualize a configuração do Bluetooth no telemóvel e que estabeleça e aceite ligações com dispositivos emparelhados.</string>
     <string name="permlab_nfc">controlo Near Field Communication</string>
     <string name="permdesc_nfc">Permite que a aplicação comunique com etiquetas, cartões e leitores Near Field Communication (NFC).</string>
     <string name="permlab_disableKeyguard">desativar o bloqueio do ecrã</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Definir regras de palavra-passe</string>
     <string name="policydesc_limitPassword">Controlar o comprimento e os caracteres permitidos nas palavras-passe de desbloqueio do ecrã.</string>
     <string name="policylab_watchLogin">Monitorizar tentativas de desbloqueio do ecrã</string>
-    <string name="policydesc_watchLogin">Monitorizar o número de palavras-passe incorretas escritas ao desbloquear o ecrã e bloquear o tablet ou apagar todos os dados do tablet, se forem escritas demasiadas palavras-passe incorretas.</string>
+    <string name="policydesc_watchLogin">Monitorizar o número de palavras-passe incorretas introduzidas ao desbloquear o ecrã e bloquear o telemóvel ou apagar todos os dados do telemóvel caso tenham sido introduzidas demasiadas palavras-passe.</string>
     <string name="policylab_resetPassword">Alterar a palavra-passe de desbloqueio do ecrã</string>
     <string name="policydesc_resetPassword">Alterar a palavra-passe de desbloqueio do ecrã.</string>
     <string name="policylab_forceLock">Bloquear o ecrã</string>
     <string name="policydesc_forceLock">Controlar como e quando ocorre o bloqueio do ecrã.</string>
     <string name="policylab_wipeData">Apagar todos os dados</string>
-    <string name="policydesc_wipeData">Apagar os dados do tablet sem avisar através de uma reposição de dados de fábrica.</string>
+    <string name="policydesc_wipeData">Apagar os dados do telemóvel sem avisar através de uma reposição de dados de fábrica.</string>
     <string name="policylab_setGlobalProxy">Definir o proxy global do aparelho</string>
     <string name="policydesc_setGlobalProxy">Definir o proxy global do dispositivo a ser utilizado quando a política estiver ativada. Só o primeiro administrador do dispositivo pode definir o proxy global efetivo.</string>
     <string name="policylab_expirePassword">Def. valid. palavra-passe bloq. ecrã</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Ligue o carregador.</string>
     <string name="lockscreen_missing_sim_message_short">Nenhum cartão SIM</string>
-    <string name="lockscreen_missing_sim_message">Nenhum cartão SIM no tablet.</string>
+    <string name="lockscreen_missing_sim_message">Nenhum cartão SIM no telefone.</string>
     <string name="lockscreen_missing_sim_instructions">Insira um cartão SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">O cartão SIM está em falta ou não é legível. Introduza um cartão SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Cartão SIM inutilizável.</string>
@@ -778,11 +778,11 @@ Tente novamente dentro de %d segundos."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Escreveu o seu número PIN incorretamente %d vezes. 
 
  Tente novamente dentro de %d segundos."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou a sequência de desbloqueio incorretamente %d vezes. Após outras %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o tablet com as suas credenciais de início de sessão do Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Desenhou a sequência de desbloqueio incorretamente %d vezes. Após outras %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telemóvel com as suas credenciais de início de sessão do Google.
 
  Tente novamente dentro de %d segundos."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o tablet %d vezes de forma incorreta. Após mais %d tentativa(s) sem êxito, as definições de origem do tablet serão repostas e todos os dados de utilizador serão perdidos.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o tablet %d vezes de forma incorreta, pelo que serão repostas as respetivas definições de origem.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telemóvel %d vezes de forma incorreta. Após mais %d tentativa(s) sem êxito, as definições de origem do telemóvel serão repostas e todos os dados de utilizador serão perdidos.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Tentou desbloquear o telemóvel %d vezes de forma incorreta, pelo que serão repostas as respetivas definições de origem.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Tente novamente dentro de %d segundos.</string>
     <string name="lockscreen_forgot_pattern_button_text">Esqueceu-se do padrão?</string>
     <string name="lockscreen_glogin_forgot_pattern">Desbloqueio da conta</string>
@@ -867,7 +867,7 @@ Tem a certeza de que pretende navegar para outra página?"</string>
     <string name="permlab_readHistoryBookmarks">ler os marcadores da Web e o histórico</string>
     <string name="permdesc_readHistoryBookmarks">Permite que a aplicação leia o histórico de todos os URLs visitados pelo Navegador e todos os marcadores do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
     <string name="permlab_writeHistoryBookmarks">gravar marcadores da Web e o histórico</string>
-    <string name="permdesc_writeHistoryBookmarks">Permite que a aplicação modifique o histórico do Navegador ou marcadores guardados no tablet. Isto pode permitir que a aplicação apague ou modifique dados do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
+    <string name="permdesc_writeHistoryBookmarks">Permite que a aplicação modifique o histórico do Navegador ou marcadores guardados no telemóvel. Isto pode permitir que a aplicação apague ou modifique dados do Navegador. Nota: esta autorização pode não ser aplicada por navegadores de terceiros ou outras aplicações com capacidades de navegação na Web.</string>
     <string name="permlab_setAlarm">definir um alarme</string>
     <string name="permdesc_setAlarm">Permite que a aplicação defina um alarme numa aplicação de despertador instalada. Algumas aplicações de despertador podem não integrar esta funcionalidade.</string>
     <string name="permlab_addVoicemail">adicionar correio de voz</string>
@@ -901,7 +901,7 @@ Tem a certeza de que pretende navegar para outra página?"</string>
     <string name="searchview_description_submit">Enviar consulta</string>
     <string name="searchview_description_voice">Pesquisa por voz</string>
     <string name="enable_explore_by_touch_warning_title">Ativar Explorar Através do Toque?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s pretende ativar a funcionalidade Explorar Através do Toque. Quando a funcionalidade Explorar Através do Toque estiver ativada, pode ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o tablet.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s pretende ativar a funcionalidade Explorar Através do Toque. Quando a funcionalidade Explorar Através do Toque estiver ativada, pode ouvir ou visualizar descrições sobre o que está por baixo do seu dedo ou executar gestos para interagir com o telemóvel.</string>
     <string name="oneMonthDurationPast">Há 1 mês</string>
     <string name="beforeOneMonthDurationPast">Há mais de 1 mês</string>
     <string name="last_month">Último mês</string>
@@ -1025,7 +1025,7 @@ Pretende fechá-la?"</string>
     <string name="wifi_p2p_to_message">Para:</string>
     <string name="wifi_p2p_enter_pin_message">Introduza o PIN solicitado:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">O tablet sera temporariamente desligado da rede Wi-Fi enquanto estiver ligado a %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">O telemóvel irá desligar-se temporariamente da rede Wi-Fi enquanto está ligado a %1$s</string>
     <string name="select_character">Introduzir carácter</string>
     <string name="sms_control_title">A enviar mensagens SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> está a enviar um grande número de mensagens SMS. Pretende autorizar que a aplicação continue a enviar mensagens?</string>
@@ -1274,7 +1274,7 @@ para a conta %s."</string>
     <string name="SetupCallDefault">Aceitar chamada?</string>
     <string name="activity_resolver_use_always">Sempre</string>
     <string name="activity_resolver_use_once">Apenas uma vez</string>
-    <string name="default_audio_route_name">Tablet</string>
+    <string name="default_audio_route_name">Telemóvel</string>
     <string name="default_audio_route_name_headphones">Auscultadores</string>
     <string name="default_audio_route_name_dock_speakers">Altif. estação ancoragem</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Tente novamente dentro de %d segundos."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Desenhou a sua sequência de desbloqueio incorretamente %d vezes. 
 
 Tente novamente dentro de %d segundos."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o tablet %d vezes de forma incorreta. Depois de mais %d tentativas sem êxito, as definições de origem do telemóvel serão repostas e todos os dados do utilizador serão perdidos.</string>
-    <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o tablet %d vezes de forma incorreta, pelo que será reposta a predefinição de fábrica.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou a sequência de desbloqueio incorretamente %d vezes. Depois de mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o tablet através de uma conta de email.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Tentou desbloquear o telemóvel %d vezes de forma incorreta. Depois de mais %d tentativas sem êxito, as definições de origem do telemóvel serão repostas e todos os dados do utilizador serão perdidos.</string>
+    <string name="kg_failed_attempts_now_wiping">Tentou desbloquear o telemóvel %d vezes de forma incorreta, pelo que será reposta a predefinição de fábrica.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Desenhou a sequência de desbloqueio incorretamente %d vezes. Depois de mais %d tentativas sem sucesso, ser-lhe-á pedido para desbloquear o telemóvel através de uma conta de email.
 
  Tente novamente dentro de %d segundos."</string>
     <string name="kg_text_message_separator">" - "</string>

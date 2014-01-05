@@ -37,6 +37,9 @@
         <item>Iné</item>
         <item>Vlastné</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Domov</item>
         <item>Práca</item>

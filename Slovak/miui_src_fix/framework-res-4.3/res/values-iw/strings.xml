@@ -180,9 +180,9 @@
     <string name="contentServiceSync">סינכרון</string>
     <string name="contentServiceSyncNotificationTitle">סינכרון</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">יש מחיקות רבות מדי של %s.</string>
-    <string name="low_memory">שטח האחסון של הטבלט מלא. מחק קבצים כדי לפנות מקום.</string>
+    <string name="low_memory">שטח האחסון של הטלפון מלא. מחק חלק מהקבצים כדי לפנות שטח.</string>
     <string name="me">אני</string>
-    <string name="power_dialog">אפשרויות טאבלט</string>
+    <string name="power_dialog">אפשרויות טלפון</string>
     <string name="silent_mode">מצב שקט</string>
     <string name="turn_on_radio">הפעל חיבור אלחוטי</string>
     <string name="turn_off_radio">כבה אלחוטי</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">צלצול ורטט</string>
     <string name="silent_mode_ring">צלצול מופעל</string>
     <string name="shutdown_progress">מכבה...</string>
-    <string name="shutdown_confirm">הטבלט שלך יכבה.</string>
+    <string name="shutdown_confirm">הטלפון שלך יכובה.</string>
     <string name="shutdown_confirm_question">האם ברצונך לבצע כיבוי?</string>
     <string name="reboot_safemode_title">אתחל למצב בטוח</string>
     <string name="reboot_safemode_confirm">האם אתה רוצה לאתחל למצב בטוח? פעולה זו תשבית את כל יישומי צד שלישי שהתקנת. הם ישוחזרו לאחר שתאתחל שוב.</string>
     <string name="recent_tasks_title">נוצרו לאחרונה</string>
     <string name="no_recent_tasks">אין יישומים אחרונים</string>
-    <string name="global_actions">אפשרויות טאבלט</string>
+    <string name="global_actions">אפשרויות טלפון</string>
     <string name="global_action_lock">נעילת מסך</string>
     <string name="global_action_power_off">כיבוי</string>
     <string name="global_action_bug_report">דיווח על באג</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">"שליחת אירועי 'תגובה באמצעות הודעה'"</string>
     <string name="permdesc_sendRespondViaMessageRequest">"מאפשר ליישום לשלוח בקשות ליישומים אחרים של העברת הודעות כדי לטפל באירועי 'תגובה באמצעות הודעה' עבור שיחות נכנסות."</string>
     <string name="permlab_readSms">קריאת הודעות הטקסט שלך (SMS או MMS)</string>
-    <string name="permdesc_readSms">מאפשר ליישום לקרוא הודעות SMS המאוחסנות בטאבלט או בכרטיס ה-SIM. דבר זה מתיר ליישום לקרוא את כל הודעות ה-SMS, ללא התחשבות בתוכן או בסודיות.</string>
+    <string name="permdesc_readSms">מאפשר ליישום לקרוא הודעות SMS המאוחסנות בטלפון או בכרטיס ה-SIM. דבר זה מתיר ליישום לקרוא את כל הודעות ה-SMS, ללא התחשבות בתוכן או בסודיות.</string>
     <string name="permlab_writeSms">עריכת הודעות הטקסט שלך (SMS או MMS)</string>
-    <string name="permdesc_writeSms">מאפשר ליישום לכתוב להודעות SMS המאוחסנות בטבלט או בכרטיס ה-SIM שלך. יישומים זדוניים עלולים למחוק את ההודעות שלך.</string>
+    <string name="permdesc_writeSms">מאפשר ליישום לכתוב להודעות SMS המאוחסנות בטלפון או בכרטיס ה-SIM שלך. יישומים זדוניים עלולים למחוק את ההודעות שלך.</string>
     <string name="permlab_receiveWapPush">קבלת הודעות טקסט (WAP)</string>
     <string name="permdesc_receiveWapPush">מאפשר ליישום לקבל ולעבד הודעות WAP. אישור זה כולל את היכולת לעקוב אחר הודעות שנשלחו אליך ולמחוק אותן מבלי להציג לך אותן.</string>
     <string name="permlab_getTasks">אחזור יישומים פעילים</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">הקפאת מסך</string>
     <string name="permdesc_freezeScreen">מאפשר ליישום להקפיא באופן זמני את המסך למעבר למסך מלא.</string>
     <string name="permlab_injectEvents">לחץ על מקשים ושלוט בלחצנים</string>
-    <string name="permdesc_injectEvents">מאפשר ליישום להעביר אירועי קלט (לחיצות על מקשים וכיוצא בזה) משלו ליישומים אחרים. יישומים זדוניים עלולים להשתמש בכך כדי להשתלט על הטבלט.</string>
+    <string name="permdesc_injectEvents">מאפשר ליישום להעביר אירועי קלט (לחיצות על מקשים וכיוצא בזה) משלו ליישומים אחרים. יישומים זדוניים עלולים להשתמש בכך כדי להשתלט על הטלפון.</string>
     <string name="permlab_readInputState">נהל רישום של ההקלדות והפעולות שלך</string>
     <string name="permdesc_readInputState">מאפשר ליישום לצפות במקשים שאתה לוחץ עליהם בעת ביצוע פעילות עם יישום אחר (למשל, הקלדת סיסמה). הרשאה זו לעולם אינה נחוצה ליישומים רגילים.</string>
     <string name="permlab_bindInputMethod">הכפף לשיטת קלט</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">שליחת אותות Linux ליישומים</string>
     <string name="permdesc_signalPersistentProcesses">מאפשר ליישום לבקש שהאות שנקלט יישלח לכל התהליכים המתמשכים.</string>
     <string name="permlab_persistentActivity">הגדרת היישום לפעול תמיד</string>
-    <string name="permdesc_persistentActivity">מאפשר ליישום להפוך חלקים ממנו לקבועים בזיכרון. פעולה זו עשויה להגביל את הזיכרון הזמין ליישומים אחרים ולהאט את פעולת הטאבלט.</string>
+    <string name="permdesc_persistentActivity">מאפשר ליישום להפוך חלקים ממנו לקבועים בזיכרון. פעולה זו עשויה להגביל את הזיכרון הזמין ליישומים אחרים ולהאט את פעולת הטלפון.</string>
     <string name="permlab_deletePackages">מחיקת יישומים</string>
     <string name="permdesc_deletePackages">מאפשר ליישום למחוק חבילות Android. יישומים זדוניים עלולים להשתמש בכך כדי למחוק יישומים חשובים.</string>
     <string name="permlab_clearAppUserData">מחיקת נתונים של יישומים אחרים</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">התקנה ישירה של יישומים</string>
     <string name="permdesc_installPackages">מאפשר ליישום להתקין חבילות Android חדשות או מעודכנות. יישומים זדוניים עלולים להשתמש בכך כדי להוסיף יישומים חדשים בעלי הרשאות זה כדי להוסיף יישומים חדשים עם הרשאות רבות-עוצמה אקראיות.</string>
     <string name="permlab_clearAppCache">מחיקת כל הנתונים בקבצים שמורים של יישומים</string>
-    <string name="permdesc_clearAppCache">מאפשר ליישום לשחרר שטח אחסון בטאבלט על ידי מחיקת קבצים בספריות הקבצים השמורים של יישומים אחרים. הדבר עשוי לגרום להפעלה של יישומים אחרים להיות איטית יותר מכיוון שעליהם לאחזר מחדש את הנתונים.</string>
+    <string name="permdesc_clearAppCache">מאפשר ליישום לפנות שטח אחסון בטלפון על ידי מחיקת קבצים בספריות הקבצים השמורים של יישומים אחרים. הדבר עשוי לגרום להפעלה של יישומים אחרים להיות איטית יותר מכיוון שעליהם לאחזר מחדש את הנתונים.</string>
     <string name="permlab_movePackage">העברה של משאבי יישומים</string>
     <string name="permdesc_movePackage">מאפשר ליישום להעביר משאבי יישומים ממדיה פנימית לחיצונית, ולהפך.</string>
     <string name="permlab_readLogs">קרא נתונים רגישים של יומן רישום</string>
-    <string name="permdesc_readLogs">מאפשר ליישום לקרוא מקובצי היומן השונים של המערכת. כך מתאפשר ליישום לגלות מידע כללי על הפעולות שלך בטבלט, מידע שעשוי לכלול מידע אישי או פרטי.</string>
+    <string name="permdesc_readLogs">מאפשר ליישום לקרוא מקובצי היומן השונים של המערכת. כך מתאפשר ליישום לגלות מידע כללי על הפעולות שלך בטלפון, מידע שעשוי לכלול מידע אישי או פרטי.</string>
     <string name="permlab_anyCodecForPlayback">שימוש בכל מפענח מדיה שהוא להפעלה</string>
     <string name="permdesc_anyCodecForPlayback">הרשאה זו מאפשרת ליישום להשתמש בכל מפענח מדיה מותקן כדי לבצע פענוח להשמעה.</string>
     <string name="permlab_diagnostic">קרא/כתוב במשאבים בבעלות diag</string>
     <string name="permdesc_diagnostic">מאפשר ליישום לקרוא ולכתוב בכל משאב שבבעלות קבוצת ה-diag; לדוגמה, קבצים ב-‎/dev. פעולה זו עשויה להשפיע על היציבות והאבטחה של המערכת. אפשרות זו צריכה לשמש רק את היצרן או המפעיל, לצורך אבחונים ספציפיים לחומרה.</string>
     <string name="permlab_changeComponentState">הפעלה או השבתה של רכיבי יישומים</string>
-    <string name="permdesc_changeComponentState">מאפשר ליישום לשנות את מצב ההפעלה של רכיב ביישום אחר. יישומים זדוניים עלולים להשתמש בכך כדי להשבית יכולות חשובות של הטבלט. יש לנהוג בהרשאה זו בזהירות, מכיוון שהיא יכולה להביא רכיבי יישומים למצב לא שמיש, לא עקבי או לא יציב.</string>
+    <string name="permdesc_changeComponentState">מאפשר ליישום לשנות את מצב ההפעלה של רכיב ביישום אחר. יישומים זדוניים עלולים להשתמש בכך כדי להשבית יכולות חשובות של הטלפון. יש לנהוג בהרשאה זו בזהירות, מכיוון שהיא יכולה להביא רכיבי יישומים למצב לא שמיש, לא עקבי או לא יציב.</string>
     <string name="permlab_grantRevokePermissions">הענק או בטל הרשאות</string>
     <string name="permdesc_grantRevokePermissions">מאפשר ליישום להעניק או לבטל הרשאות ספציפיות ביחס לעצמו או ליישומים אחרים. יישומים זדוניים עלולים להשתמש באפשרות זו על מנת לקבל גישה לתכונות שלא אישרת להם.</string>
     <string name="permlab_setPreferredApplications">הגדרת יישומים מועדפים</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">שנה את מפת השירותים של Google</string>
     <string name="permdesc_writeGservices">מאפשר ליישום לשנות את מפת שירותי Google. לא מיועד לשימוש על ידי יישומים רגילים.</string>
     <string name="permlab_receiveBootCompleted">הפעלה בעת אתחול</string>
-    <string name="permdesc_receiveBootCompleted">מאפשר ליישום להפעיל את עצמו מיד עם סיום תהליך האתחול של המערכת. משום כך הפעלת הטבלט עשויה להתארך והיישום עלול להאט את הפעילות הכללית של הטבלט, בשל פעילותו התמידית.</string>
+    <string name="permdesc_receiveBootCompleted">מאפשר ליישום להפעיל את עצמו מיד עם השלמת תהליך האתחול של המערכת. משום כך הפעלת הטלפון עשויה להתארך והיישום עלול להאט את הפעילות הכללית של הטלפון, בשל פעילותו התמידית.</string>
     <string name="permlab_broadcastSticky">שלח שידור דביק</string>
-    <string name="permdesc_broadcastSticky">מאפשר ליישום לשלוח שידורים דביקים, אשר נותרים לאחר סיום השידור. יישומים זדוניים עלולים להאט את פעילות הטאבלט או להפוך אותה לבלתי יציבה על ידי אילוץ המכשיר להשתמש ביותר מדי זיכרון.</string>
+    <string name="permdesc_broadcastSticky">מאפשר ליישום לשלוח שידורים דביקים, אשר נותרים לאחר סיום השידור. יישומים זדוניים עלולים להאט את פעילות הטלפון או להפוך אותה לבלתי יציבה על ידי אילוץ המכשיר להשתמש ביותר מדי זיכרון.</string>
     <string name="permlab_readContacts">קריאת אנשי הקשר שלך</string>
-    <string name="permdesc_readContacts">מאפשר ליישום לקרוא נתונים לגבי אנשי הקשר שלך המאוחסנים בטאבלט, כולל את התדירות שבה התקשרת, שלחת דוא\"ל או יצרת קשר בדרכים אחרות עם אנשים ספציפיים. אישור זה מתיר ליישומים לשמור את נתוני אנשי הקשר שלך. כמו כן, יישומים זדוניים עשויים לשתף נתוני אנשי קשר ללא ידיעתך.</string>
+    <string name="permdesc_readContacts">מאפשר ליישום לקרוא נתונים לגבי אנשי הקשר שלך המאוחסנים בטלפון, כולל את התדירות שבה התקשרת, שלחת דוא\"ל או יצרת קשר בדרכים אחרות עם אנשים ספציפיים. אישור זה מתיר ליישומים לשמור את נתוני אנשי הקשר שלך. כמו כן, יישומים זדוניים עשויים לשתף נתוני אנשי קשר ללא ידיעתך.</string>
     <string name="permlab_writeContacts">שינוי אנשי הקשר שלך</string>
-    <string name="permdesc_writeContacts">מאפשר ליישום לשנות את הנתונים לגבי אנשי הקשר שלך המאוחסנים בטאבלט, כולל התדירות שבה התקשרת, שלחת דוא\"ל או יצרת קשר בדרכים אחרות עם אנשי קשר ספציפיים. אישור זה מתיר ליישומים למחוק נתוני אנשי קשר.</string>
+    <string name="permdesc_writeContacts">מאפשר ליישום לשנות את הנתונים לגבי אנשי הקשר שלך המאוחסנים בטלפון, כולל התדירות שבה התקשרת, שלחת דוא\"ל או יצרת קשר בדרכים אחרות עם אנשי קשר ספציפיים. אישור זה מתיר ליישומים למחוק נתוני אנשי קשר.</string>
     <string name="permlab_readCallLog">קריאת יומן שיחות</string>
-    <string name="permdesc_readCallLog">מאפשר ליישום לקרוא את יומן השיחות של הטאבלט, כולל נתונים לגבי שיחות נכנסות ויוצאות. אישור זה מתיר ליישומים לשמור את נתוני יומן השיחות שלך. כמו כן, יישומים זדוניים עשויים לשתף נתוני יומן שיחות ללא ידיעתך.</string>
+    <string name="permdesc_readCallLog">מאפשר ליישום לקרוא את יומן השיחות של הטלפון, כולל נתונים לגבי שיחות נכנסות ויוצאות. אישור זה מתיר ליישומים לשמור את נתוני יומן השיחות שלך. כמו כן, יישומים זדוניים עשויים לשתף נתוני יומן שיחות ללא ידיעתך.</string>
     <string name="permlab_writeCallLog">כתיבת יומן שיחות</string>
-    <string name="permdesc_writeCallLog">מאפשר ליישום לשנות את יומן השיחות של הטבלט, כולל נתונים על שיחות נכנסות ויוצאות. יישומים זדוניים עלולים לעשות בכך שימוש כדי למחוק או לשנות את יומן השיחות שלך.</string>
+    <string name="permdesc_writeCallLog">מאפשר ליישום לשנות את יומן השיחות של הטלפון, כולל נתונים על שיחות נכנסות ויוצאות. יישומים זדוניים עלולים לעשות בכך שימוש כדי למחוק או לשנות את יומן השיחות שלך.</string>
     <string name="permlab_readProfile">קריאת כרטיס איש הקשר שלך</string>
     <string name="permdesc_readProfile">מאפשר ליישום לקרוא פרטים מהפרופיל האישי המאוחסנים במכשיר, כגון שמך ופרטי אנשי הקשר שלך. משמעות הדבר שהיישום יוכל לזהות אותך ולשלוח את פרטי הפרופיל שלך לאנשים אחרים.</string>
     <string name="permlab_writeProfile">שינוי כרטיס איש הקשר שלך</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">כתיבה בזרם החברתי שלך</string>
     <string name="permdesc_writeSocialStream">מאפשר ליישום להציג עדכונים חברתיים מהחברים שלך. היזהר בעת שיתוף מידע -- הדבר מאפשר ליישום ליצור הודעות שעשויות להיראות כאילו שנשלחו מחבר. שים לב: ייתכן אישור זה לא נאכף בכל הרשתות החברתיות.</string>
     <string name="permlab_readCalendar">קריאת אירועי יומן וגם מידע סודי</string>
-    <string name="permdesc_readCalendar">מאפשר ליישום לקרוא את כל אירועי לוח השנה המאוחסנים בטאבלט, כולל אלה של חברים ועמיתים לעבודה. הדבר עשוי להתיר ליישום לשתף או לשמור את נתוני לוח השנה שלך, ללא התחשבות בסודיות או ברגישות.</string>
+    <string name="permdesc_readCalendar">מאפשר ליישום לקרוא את כל אירועי לוח השנה המאוחסנים בטלפון, כולל אלה של חברים ועמיתים לעבודה. הדבר עשוי להתיר ליישום לשתף או לשמור את נתוני לוח השנה שלך, ללא התחשבות בסודיות או ברגישות.</string>
     <string name="permlab_writeCalendar">הוספה ושינוי של אירועי יומן ושליחת דוא\"ל לאורחים ללא ידיעת הבעלים</string>
-    <string name="permdesc_writeCalendar">מאפשר ליישום להוסיף, להסיר ולשנות אירועים שאתה יכול לשנות בטאבלט, כולל אלה של חברים או עמיתים לעבודה. הדבר עשוי להתיר ליישום לשלוח הודעות הנראות כאילו שנשלחו מבעלי לוח שנה או לשנות אירועים ללא ידיעת הבעלים.</string>
+    <string name="permdesc_writeCalendar">מאפשר ליישום להוסיף, להסיר ולשנות אירועים שאתה יכול לשנות בטלפון, כולל אלה של חברים או עמיתים לעבודה. הדבר עשוי להתיר ליישום לשלוח הודעות הנראות כאילו שנשלחו מבעלי לוח שנה או לשנות אירועים ללא ידיעת הבעלים.</string>
     <string name="permlab_accessMockLocation">צור מקורות מיקום מדומים לצורך בדיקה</string>
     <string name="permdesc_accessMockLocation">צור מקורות מיקום מדומים לבדיקה, או התקן ספק מיקום חדש. פעולה זו מאפשרת ליישום לעקוף את המיקום ו/או הסטטוס המוחזרים על ידי מקורות מיקום אחרים כמו GPS או ספקי מיקום.</string>
     <string name="permlab_accessLocationExtraCommands">גישה לפקודות ספק מיקום נוספות</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">מאפשר ליישום לצלם תמונות וסרטונים באמצעות המצלמה. אישור זה מאפשר ליישום להשתמש במצלמה בכל עת ללא אישורך.</string>
     <string name="permlab_cameraDisableTransmitLed">השבת את נורית מצב השידור כשהמצלמה בשימוש</string>
     <string name="permdesc_cameraDisableTransmitLed">מתיר ליישום מערכת המותקן מראש להשבית את השימוש של המצלמה בנורית המצב.</string>
-    <string name="permlab_brick">השבת טאבלט לצמיתות</string>
-    <string name="permdesc_brick">מאפשר ליישום להשבית את הטבלט כולו לצמיתות. זו הרשאה מסוכנת מאוד.</string>
-    <string name="permlab_reboot">אלץ אתחול מחדש של הטבלט</string>
-    <string name="permdesc_reboot">מאפשר ליישום לאלץ את הטבלט לבצע אתחול.</string>
+    <string name="permlab_brick">השבת טלפון לצמיתות</string>
+    <string name="permdesc_brick">מאפשר ליישום להשבית את הטלפון כולו לצמיתות. זו הרשאה מסוכנת מאוד.</string>
+    <string name="permlab_reboot">אלץ אתחול מחדש של הטלפון</string>
+    <string name="permdesc_reboot">מאפשר ליישום לאלץ את הטלפון לבצע אתחול.</string>
     <string name="permlab_mount_unmount_filesystems">גישה למערכת הקבצים של אחסון USB</string>
     <string name="permdesc_mount_unmount_filesystems">מאפשר ליישום לטעון ולבטל טעינה של מערכות קבצים באמצעי אחסון נשלפים.</string>
     <string name="permlab_mount_format_filesystems">מחיקת אחסון USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">מאפשר ליישום להתקשר למספרי טלפון ללא התערבותך. פעולה זו עשויה לגרום לשיחות או לחיובים לא צפויים. שים לב שהדבר לא מאפשר ליישום להתקשר למספרי חירום. יישומים זדוניים עשויים לגרום לעלויות על ידי ביצוע שיחות ללא התערבותך.</string>
     <string name="permlab_callPrivileged">התקשר ישירות לכל מספר טלפון</string>
     <string name="permdesc_callPrivileged">מאפשר ליישום להתקשר לכל מספר טלפון שהוא, כולל מספרי חירום, ללא התערבותך. יישומים זדוניים עלולים לבצע שיחות מיותרות ולא חוקיות לשירותי חירום.</string>
-    <string name="permlab_performCdmaProvisioning">הפעל ישירות התקנת טאבלט מסוג CDMA</string>
+    <string name="permlab_performCdmaProvisioning">הפעל ישירות הגדרה של טלפון CDMA</string>
     <string name="permdesc_performCdmaProvisioning">מאפשר ליישום להפעיל הקצאת CDMA. יישומים זדוניים עלולים להפעיל הקצאת CDMA ללא צורך.</string>
     <string name="permlab_locationUpdates">שלוט בהתראות על עדכון מיקום</string>
     <string name="permdesc_locationUpdates">מאפשר ליישום לאפשר/להשבית התראות לגבי עדכוני מיקום מהרדיו. לא מיועד לשימוש על ידי יישומים רגילים.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">מאפשר ליישום לשלוט בתכונות הטלפון של המכשיר. יישום בעל הרשאה זו יכול לעבור בין רשתות, להפעיל ולכבות את הרדיו בטלפון ולבצע פעולות נוספות דומות מבלי ליידע אותך.</string>
     <string name="permlab_readPhoneState">קריאת הסטטוס והזהות של הטלפון</string>
     <string name="permdesc_readPhoneState">מאפשר ליישום לגשת לתכונות הטלפון של המכשיר. אישור זה מתיר ליישום לגלות את מספר הטלפון ואת זיהויי המכשיר, האם שיחה פעילה ואת המספר המרוחק המחובר באמצעות שיחה.</string>
-    <string name="permlab_wakeLock">מנע מהטבלט לעבור למצב שינה</string>
-    <string name="permdesc_wakeLock">מאפשר ליישום למנוע מהטבלט לעבור למצב שינה.</string>
-    <string name="permlab_devicePower">הפעלה או כיבוי של טאבלט</string>
-    <string name="permdesc_devicePower">מאפשר ליישום להפעיל או לכבות את הטבלט.</string>
+    <string name="permlab_wakeLock">מניעת מעבר הטלפון למצב שינה</string>
+    <string name="permdesc_wakeLock">מאפשר ליישום למנוע מהטלפון לעבור למצב שינה.</string>
+    <string name="permlab_devicePower">הפעל או כבה את הטלפון</string>
+    <string name="permdesc_devicePower">מאפשר ליישום להפעיל או לכבות את הטלפון.</string>
     <string name="permlab_factoryTest">הפעל במצב בדיקת יצרן</string>
-    <string name="permdesc_factoryTest">הפעל כבדיקת יצרן ברמה נמוכה, המאפשרת גישה מלאה לחומרה של הטבלט. זמין רק כאשר הטבלט פועל במצב בדיקת יצרן.</string>
+    <string name="permdesc_factoryTest">הפעל כבדיקת יצרן ברמה נמוכה, המאפשרת גישה מלאה לחומרת הטלפון. זמינה רק כאשר טלפון פועל במצב בדיקת יצרן.</string>
     <string name="permlab_setWallpaper">הגדר טפט</string>
     <string name="permdesc_setWallpaper">מאפשר ליישום להגדיר את טפט המערכת.</string>
     <string name="permlab_setWallpaperHints">התאמת גודל הטפט שלך</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">אפס את המערכת לברירות המחדל של היצרן</string>
     <string name="permdesc_masterClear">מאפשר ליישום לאפס את המערכת באופן מלא להגדרות היצרן, תוך מחיקה של כל הנתונים, התצורה והיישומים שהותקנו.</string>
     <string name="permlab_setTime">הגדר שעה</string>
-    <string name="permdesc_setTime">מאפשר ליישום לשנות את אזור הזמן של הטבלט.</string>
+    <string name="permdesc_setTime">מאפשר ליישום לשנות את השעה בשעון של הטלפון.</string>
     <string name="permlab_setTimeZone">הגדר אזור זמן</string>
-    <string name="permdesc_setTimeZone">מאפשר ליישום לשנות את אזור הזמן של הטבלט.</string>
+    <string name="permdesc_setTimeZone">מאפשר ליישום לשנות את אזור הזמן של הטלפון.</string>
     <string name="permlab_accountManagerService">פעל בתור ה-AccountManagerService</string>
     <string name="permdesc_accountManagerService">הרשאה זו מאפשרת ליישום לבצע שיחות אל AccountAuthenticators.</string>
     <string name="permlab_getAccounts">חיפוש חשבונות במכשיר</string>
-    <string name="permdesc_getAccounts">מאפשר ליישום לקבל רשימה של חשבונות המוכרים לטאבלט. הדבר עשוי לכלול חשבונות שנוצרו על ידי יישומים שהתקנת.</string>
+    <string name="permdesc_getAccounts">מאפשר ליישום לקבל רשימה של חשבונות המוכרים לטלפון. הדבר עשוי לכלול חשבונות שנוצרו על ידי יישומים שהתקנת.</string>
     <string name="permlab_authenticateAccounts">יצירת חשבונות והגדרת סיסמאות</string>
     <string name="permdesc_authenticateAccounts">מאפשר ליישום להשתמש ביכולות מאמת החשבונות של מנהל החשבון, כולל יצירת חשבונות וקבלה והגדרה של הסיסמאות שלהם.</string>
     <string name="permlab_manageAccounts">הוספה או הסרה של חשבונות</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">התחברות והתנתקות מ-Wi-Fi</string>
     <string name="permdesc_changeWifiState">מאפשר ליישום להתחבר לנקודות גישת Wi-Fi ולהתנתק מהן, וכן לבצע שינויים בתצורת המכשיר עבור רשתות Wi-Fi.</string>
     <string name="permlab_changeWifiMulticastState">אפשר קבלת שידורים מרובים ב-Wi-Fi</string>
-    <string name="permdesc_changeWifiMulticastState">מאפשר ליישום לקבל חבילות שנשלחו לכל המכשירים ברשת Wi-Fi באמצעות כתובות שידור לקבוצה, ולא רק בטאבלט שלך. צריכת החשמל גבוהה יותר מאשר במצב שאינו שידור לקבוצה.</string>
+    <string name="permdesc_changeWifiMulticastState">מאפשר ליישום לקבל חבילות שנשלחו לכל המכשירים ברשת Wi-Fi באמצעות כתובות שידור לקבוצה, ולא רק בטלפון שלך. צריכת החשמל גבוהה יותר מאשר במצב שאינו שידור לקבוצה.</string>
     <string name="permlab_bluetoothAdmin">גישה להגדרות Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">מאפשר ליישום להגדיר את תצורתו של הטבלט המקומי מסוג Bluetooth וכן לגלות מכשירים מרוחקים ולבצע התאמה איתם.</string>
+    <string name="permdesc_bluetoothAdmin">מאפשר ליישום להגדיר את תצורתו של הטלפון המקומי מסוג Bluetooth וכן לגלות מכשירים מרוחקים ולבצע התאמה איתם.</string>
     <string name="permlab_accessWimaxState">התחברות והתנתקות מ-WiMAX</string>
     <string name="permdesc_accessWimaxState">מאפשר ליישום לדעת האם WiNMAX מופעל, כמו גם לקבל מידע האם רשתות WiNMAX כלשהן מחוברות.</string>
     <string name="permlab_changeWimaxState">שנה את מצב WiMAX</string>
-    <string name="permdesc_changeWimaxState">מאפשר ליישום לחבר את הטאבלט לרשתות WiMAX ולהתנתק מהן.</string>
+    <string name="permdesc_changeWimaxState">מאפשר ליישום לחבר את הטלפון לרשתות WiMAX ולהתנתק מהן.</string>
     <string name="permlab_bluetooth">התאמה למכשירי Bluetooth</string>
-    <string name="permdesc_bluetooth">מאפשר ליישום להציג את תצורת ה-Bluetooth בטאבלט, וכן ליצור ולקבל חיבורים עם מכשירים מותאמים.</string>
+    <string name="permdesc_bluetooth">מאפשר ליישום להציג את תצורת ה-Bluetooth בטלפון, וכן ליצור ולקבל חיבורים עם מכשירים מותאמים.</string>
     <string name="permlab_nfc">שלוט ב-Near Field Communication</string>
     <string name="permdesc_nfc">"מאפשר ליישום נהל תקשורת עם תגים, כרטיסים וקוראים מסוג 'תקשורת מטווח קצר'."</string>
     <string name="permlab_disableKeyguard">ביטול נעילת המסך שלך</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">הגדר כללי סיסמה</string>
     <string name="policydesc_limitPassword">שלוט באורך ובתווים המותרים בסיסמאות לביטול נעילת מסך.</string>
     <string name="policylab_watchLogin">עקוב אחר ניסיונות לביטול נעילת מסך</string>
-    <string name="policydesc_watchLogin">ניהול מעקב אחר מספר הסיסמאות השגויות שמוקלדות בעת ביטול נעילת המסך, וביצוע נעילה של הטבלט, או מחיקה של כל נתוני הטבלט, אם מוקלדות יותר מדי סיסמאות שגויות.</string>
+    <string name="policydesc_watchLogin">ניהול מעקב אחר מספר הסיסמאות השגויות שהוקלדו בעת ביטול נעילה המסך, וביצוע נעילה של הטלפון או מחיקה של כל נתוני הטלפון אם הוקלדו יותר מדי סיסמאות שגויות.</string>
     <string name="policylab_resetPassword">שנה את הסיסמה לביטול נעילת המסך</string>
     <string name="policydesc_resetPassword">שנה את הסיסמה לביטול נעילת המסך.</string>
     <string name="policylab_forceLock">נעל את המסך</string>
     <string name="policydesc_forceLock">שלוט באופן ובתזמון של נעילת המסך</string>
     <string name="policylab_wipeData">מחק את כל הנתונים</string>
-    <string name="policydesc_wipeData">מחק את נתוני הטבלט ללא אזהרה על ידי ביצוע איפוס נתוני יצרן.</string>
+    <string name="policydesc_wipeData">מחק את נתוני הטלפון ללא אזהרה על ידי ביצוע איפוס נתוני יצרן.</string>
     <string name="policylab_setGlobalProxy">הגדר את שרת ה-Proxy הכללי של המכשיר</string>
     <string name="policydesc_setGlobalProxy">הגדר שימוש בשרת ה-Proxy הגלובלי של המכשיר כאשר המדיניות מופעלת. רק מנהל המכשיר הראשון מגדיר את שרת ה-Proxy הגלובלי הפעיל.</string>
     <string name="policylab_expirePassword">הגדר תאריך תפוגה לסיסמה של נעילת המסך</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">חבר את המטען.</string>
     <string name="lockscreen_missing_sim_message_short">אין כרטיס SIM</string>
-    <string name="lockscreen_missing_sim_message">אין כרטיס SIM בטבלט.</string>
+    <string name="lockscreen_missing_sim_message">אין כרטיס SIM בטלפון.</string>
     <string name="lockscreen_missing_sim_instructions">הכנס כרטיס SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">כרטיס ה-SIM חסר או שלא ניתן לקרוא אותו. הכנס כרטיס SIM.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">לא ניתן להשתמש בכרטיס SIM זה.</string>
@@ -778,11 +778,11 @@
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"הקלדת קוד PIN שגוי %d פעמים.
 
 נסה שוב בעוד %d שניות."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"שרטטת באופן שגוי את קו ביטול הנעילה %d פעמים. לאחר %d ניסיונות כושלים נוספים, תתבקש לבטל את נעילת הטבלט באמצעות פרטי הכניסה שלך ל-Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"שרטטת את קו ביטול הנעילה באופן שגוי %d פעמים. בעוד %d ניסיונות כושלים נוספים, תתבקש לבטל את נעילת הטלפון באמצעות פרטי הכניסה שלך ל-Google‏.
 
-נסה שוב בעוד %d שניות."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">ביצעת %d ניסיונות שגויים לביטול נעילת הטבלט. לאחר %d ניסיונות כושלים נוספים, הטבלט יעבור איפוס לברירת המחדל של היצרן וכל נתוני המשתמש יאבדו.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">ביצעת %d ניסיונות שגויים לביטול נעילת הטבלט. הטבלט יעבור כעת איפוס לברירת המחדל של היצרן.</string>
+ נסה שוב בעוד %d שניות."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">ביצעת %d ניסיונות שגויים לביטול נעילת הטלפון. לאחר %d ניסיונות כושלים נוספים, הטלפון יעבור איפוס לברירת המחדל של היצרן וכל נתוני המשתמש יאבדו.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">ביצעת %d ניסיונות שגויים לביטול נעילת הטלפון. הטלפון יעבור כעת איפוס לברירת המחדל של היצרן.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">נסה שוב בעוד %d שניות.</string>
     <string name="lockscreen_forgot_pattern_button_text">שכחת את הקו?</string>
     <string name="lockscreen_glogin_forgot_pattern">ביטול נעילת חשבון</string>
@@ -867,7 +867,7 @@
     <string name="permlab_readHistoryBookmarks">קריאת סימניות והיסטוריית האינטרנט שלך</string>
     <string name="permdesc_readHistoryBookmarks">מאפשר ליישום לקרוא את ההיסטוריה של כל כתובות האתרים שבהן הדפדפן ביקר, ואת כל ה-Bookmarks של הדפדפן. שים לב: דפדפני צד שלישי או יישומים אחרים עם יכולות לדפדוף באינטרנט אינם יכולים לאכוף אישור זה.</string>
     <string name="permlab_writeHistoryBookmarks">כתיבת סימניות והיסטוריית אינטרנט</string>
-    <string name="permdesc_writeHistoryBookmarks">מאפשר ליישום לשנות את ההיסטוריה או ה-Bookmarks של הדפדפן המאוחסנים בטאבלט. הדבר עשוי לאפשר ליישום למחוק או לשנות נתוני דפדפן. שים לב: אישור זה אינו ניתן לאכיפה על ידי דפדפני צד שלישי או יישומים אחרים בעלי יכולות גלישה באינטרנט.</string>
+    <string name="permdesc_writeHistoryBookmarks">מאפשר ליישום לשנות את ההיסטוריה או ה-Bookmarks של הדפדפן המאוחסנים בטלפון. הדבר עשוי לאפשר ליישום למחוק או לשנות נתוני דפדפן. שים לב: אישור זה אינו ניתן לאכיפה על ידי דפדפני צד שלישי או יישומים אחרים בעלי יכולות גלישה באינטרנט.</string>
     <string name="permlab_setAlarm">הגדרת התראה</string>
     <string name="permdesc_setAlarm">מאפשר ליישום להגדיר התראה ביישום שעון מעורר מותקן. יישומי שעון מעורר מסוימים אינם מיישמים תכונה זו.</string>
     <string name="permlab_addVoicemail">הוסף דואר קולי</string>
@@ -901,7 +901,7 @@
     <string name="searchview_description_submit">שלח שאילתה</string>
     <string name="searchview_description_voice">חיפוש קולי</string>
     <string name="enable_explore_by_touch_warning_title">"האם להפעיל את התכונה 'חקור על ידי מגע'?"</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s רוצה להפעיל את התכונה 'חקור על ידי מגע'. כאשר התכונה 'חקור על ידי מגע' מופעלת, אתה יכול לשמוע או לראות תיאורים של הפריטים שעליהם אצבעך  מונחת או לקיים אינטראקציה עם הטאבלט באמצעות תנועות אצבע."</string>
+    <string name="enable_explore_by_touch_warning_message">"%1$s רוצה להפעיל את התכונה 'חקור על ידי מגע'. כאשר התכונה 'חקור על ידי מגע' מופעלת, אתה יכול לשמוע או לראות תיאורים של הפריטים שעליהם אצבעך מונחת או לקיים אינטראקציה עם הטלפון באמצעות תנועות אצבע."</string>
     <string name="oneMonthDurationPast">לפני חודש אחד</string>
     <string name="beforeOneMonthDurationPast">לפני חודש אחד</string>
     <string name="last_month">בחודש שעבר</string>
@@ -1025,7 +1025,7 @@
     <string name="wifi_p2p_to_message">אל:</string>
     <string name="wifi_p2p_enter_pin_message">הקלד את קוד ה-PIN הנדרש.</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">הטאבלט יתנתק מרשת ה-Wi-Fi באופן זמני בשעה שהוא מחובר אל %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">הטלפון יתנתק מרשת ה-Wi-Fi באופן זמני בשעה שהוא מחובר אל %1$s</string>
     <string name="select_character">הוסף תו</string>
     <string name="sms_control_title">שולח הודעות SMS</string>
     <string name="sms_control_message">&lt;b> %1$s &lt;/ b> שולח מספר רב של הודעות SMS. האם ברצונך לאפשר ליישום זה להמשיך לשלוח הודעות?</string>
@@ -1274,7 +1274,7 @@
     <string name="SetupCallDefault">האם לקבל את השיחה?</string>
     <string name="activity_resolver_use_always">תמיד</string>
     <string name="activity_resolver_use_once">רק פעם אחת</string>
-    <string name="default_audio_route_name">טאבלט</string>
+    <string name="default_audio_route_name">טלפון</string>
     <string name="default_audio_route_name_headphones">אוזניות</string>
     <string name="default_audio_route_name_dock_speakers">רמקולים של מעגן</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"שרטטת את קו ביטול הנעילה באופן שגוי %d פעמים. 
 
 נסה שוב בעוד %d שניות."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">ביצעת %d ניסיונות שגויים לביטול נעילת הטלפון. לאחר %d ניסיונות כושלים נוספים, הטאבלט יעבור איפוס לברירת המחדל של היצרן וכל נתוני המשתמש יאבדו.</string>
-    <string name="kg_failed_attempts_now_wiping">ביצעת %d ניסיונות שגויים לביטול נעילת הטאבלט. הטאבלט יעבור כעת איפוס לברירת המחדל של היצרן.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"שרטטת את קו ביטול הנעילה באופן שגוי %d פעמים. לאחר %d ניסיונות כושלים נוספים, תתבקש לבטל את נעילת הטאבלט באמצעות חשבון דוא\"ל‏.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">ביצעת %d ניסיונות שגויים לביטול נעילת הטלפון. לאחר %d ניסיונות כושלים נוספים, הטלפון יעבור איפוס לברירת המחדל של היצרן וכל נתוני המשתמש יאבדו.</string>
+    <string name="kg_failed_attempts_now_wiping">ביצעת %d ניסיונות שגויים לביטול נעילת הטלפון. הטלפון יעבור כעת איפוס לברירת המחדל של היצרן.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"שרטטת את קו ביטול הנעילה באופן שגוי %d פעמים. לאחר %d ניסיונות כושלים נוספים, תתבקש לבטל את נעילת הטלפון באמצעות חשבון דוא\"ל‏.
 
 נסה שוב בעוד %d שניות."</string>
     <string name="kg_text_message_separator">" — "</string>

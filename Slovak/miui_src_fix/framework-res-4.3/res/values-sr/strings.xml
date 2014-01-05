@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Синхронизација</string>
     <string name="contentServiceSyncNotificationTitle">Синхронизација</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Превише %s избрисаних ставки.</string>
-    <string name="low_memory">Меморија таблета је пуна! Избришите неке датотеке да бисте ослободили простор.</string>
+    <string name="low_memory">Складиште телефона је пуно! Избришите неке датотеке како бисте ослободили простор.</string>
     <string name="me">Ја</string>
-    <string name="power_dialog">Опције за таблет</string>
+    <string name="power_dialog">Опције телефона</string>
     <string name="silent_mode">Нечујни режим</string>
     <string name="turn_on_radio">Укључи бежични сигнал</string>
     <string name="turn_off_radio">Искључи бежични сигнал</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Вибрација звона</string>
     <string name="silent_mode_ring">Звоно је укључено</string>
     <string name="shutdown_progress">Искључивање…</string>
-    <string name="shutdown_confirm">Таблет ће се искључити.</string>
+    <string name="shutdown_confirm">Телефон ће се искључити.</string>
     <string name="shutdown_confirm_question">Да ли желите да искључите телефон?</string>
     <string name="reboot_safemode_title">Поново покрени систем у безбедном режиму</string>
     <string name="reboot_safemode_confirm">Да ли желите да поново покренете систем у безбедном режиму? Ово ће онемогућити све инсталиране апликације независних произвођача. Оне ће бити враћене када поново покренете систем.</string>
     <string name="recent_tasks_title">Недавно</string>
     <string name="no_recent_tasks">Нема недавних апликација.</string>
-    <string name="global_actions">Опције за таблет</string>
+    <string name="global_actions">Опције телефона</string>
     <string name="global_action_lock">Закључај екран</string>
     <string name="global_action_power_off">Искључи</string>
     <string name="global_action_bug_report">Извештај о грешци</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">слање догађаја одговора преко поруке</string>
     <string name="permdesc_sendRespondViaMessageRequest">Омогућава апликацији да другим апликацијама за размену порука шаље захтеве за обраду догађаја одговора преко порука за долазне позиве.</string>
     <string name="permlab_readSms">читање текстуалних порука (SMS или MMS)</string>
-    <string name="permdesc_readSms">Дозвољава апликацији да чита SMS поруке ускладиштене на таблету или SIM картици. Ово омогућава апликацији да чита све SMS поруке, без обзира на садржај или поверљивост.</string>
+    <string name="permdesc_readSms">Дозвољава апликацији да чита SMS поруке ускладиштене на телефону или SIM картици. Ово омогућава апликацији да чита све SMS поруке, без обзира на садржај или поверљивост.</string>
     <string name="permlab_writeSms">измена текстуалних порука (SMS или MMS)</string>
-    <string name="permdesc_writeSms">Дозвољава апликацији да уписује податке у SMS поруке сачуване на таблету или SIM картици. Злонамерне апликације могу да избришу поруке.</string>
+    <string name="permdesc_writeSms">Дозвољава апликацији да уписује податке у SMS поруке сачуване на телефону или SIM картици. Злонамерне апликације могу да избришу поруке.</string>
     <string name="permlab_receiveWapPush">пријем текстуалних порука (WAP)</string>
     <string name="permdesc_receiveWapPush">Дозвољава апликацији да прима и обрађује WAP поруке. Ова дозвола укључује могућност праћења или брисања порука које вам се шаљу, а које вам се не приказују.</string>
     <string name="permlab_getTasks">преузимање покренутих апликација</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">замрзавање екрана</string>
     <string name="permdesc_freezeScreen">Дозвољава апликацији да привремено замрзне екран ради преласка на цео екран.</string>
     <string name="permlab_injectEvents">притисци на тастере и контролну дугмад</string>
-    <string name="permdesc_injectEvents">Дозвољава апликацији да испоручи сопствене догађаје уноса (притисци тастера итд.) другим апликацијама. Злонамерне апликације на тај начин могу да преузму контролу над таблетом.</string>
+    <string name="permdesc_injectEvents">Дозвољава апликацији да испоручи сопствене догађаје уноса (притисци тастера итд.) другим апликацијама. Злонамерне апликације на тај начин могу да преузму контролу над телефоном.</string>
     <string name="permlab_readInputState">снимање садржаја који куцате и радњи које предузимате</string>
     <string name="permdesc_readInputState">Дозвољава апликацији да види које тастере притискате чак и док радите у некој другој апликацији (нпр. када уносите лозинку). Уобичајене апликације никада не би требало да је користе.</string>
     <string name="permlab_bindInputMethod">обавезивање на методу уноса</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">слање Linux сигнала апликацијама</string>
     <string name="permdesc_signalPersistentProcesses">Дозвољава апликацији да захтева да испоручени сигнал буде послат свим трајним процесима.</string>
     <string name="permlab_persistentActivity">омогућавање непрекидне активности апликације</string>
-    <string name="permdesc_persistentActivity">Дозвољава апликацији да учини сопствене компоненте трајним у меморији. Ово може да ограничи меморију доступну другим апликацијама и успори таблет.</string>
+    <string name="permdesc_persistentActivity">Дозвољава апликацији да учини сопствене компоненте трајним у меморији. Ово може да ограничи меморију доступну другим апликацијама и успори телефон.</string>
     <string name="permlab_deletePackages">брисање апликација</string>
     <string name="permdesc_deletePackages">Дозвољава апликацији да брише Android пакете. Злонамерне апликације на тај начин могу да бришу важне апликације.</string>
     <string name="permlab_clearAppUserData">брисање података других апликација</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">директно инсталирање апликација</string>
     <string name="permdesc_installPackages">Дозвољава апликацији да инсталира нове или ажуриране Android пакете. Злонамерне апликације на тај начин могу да додају нове апликације са произвољно снажним дозволама.</string>
     <string name="permlab_clearAppCache">брисање свих података из кеша апликације</string>
-    <string name="permdesc_clearAppCache">Дозвољава апликацији да ослободи меморију таблета брисањем датотека из директоријума кеша других апликација. То може да доведе до споријег покретања других апликација јер ће поново морати да преузимају податке.</string>
+    <string name="permdesc_clearAppCache">Дозвољава апликацији да ослободи меморију телефона брисањем датотека из директоријума кеша других апликација. То може да доведе до споријег покретања других апликација јер ће поново морати да преузимају податке.</string>
     <string name="permlab_movePackage">премештање ресурса апликације</string>
     <string name="permdesc_movePackage">Дозвољава апликацији да премешта ресурсе апликације са интерног на екстерни медијум и обратно.</string>
     <string name="permlab_readLogs">читање поверљивих података из евиденције</string>
-    <string name="permdesc_readLogs">Дозвољава апликацији да чита разне системске датотеке евиденције. То јој омогућава увид у опште информације о начину на који користите таблет, при чему могу да буду обухваћене личне или приватне информације.</string>
+    <string name="permdesc_readLogs">Дозвољава апликацији да чита разне системске датотеке евиденције. То јој омогућава увид у опште информације о начину на који користите телефон, при чему могу да буду обухваћене личне или приватне информације.</string>
     <string name="permlab_anyCodecForPlayback">користи било који декодер медија за репродукцију</string>
     <string name="permdesc_anyCodecForPlayback">Омогућава апликацији да користи било који инсталирани декодер медија за декодирање за репродукцију.</string>
     <string name="permlab_diagnostic">читање ресурса у власништву дијагностике и уписивање података у њих</string>
     <string name="permdesc_diagnostic">Дозвољава апликацији да чита и уписује податке у било који ресурс у власништву групе за дијагностиковање, на пример, датотеке у директоријуму /dev. То може да угрози стабилност и безбедност система и треба да је користе САМО произвођач или оператер у сврхе дијагностиковањa хардвера.</string>
     <string name="permlab_changeComponentState">омогућавање или онемогућавање компоненти апликације</string>
-    <string name="permdesc_changeComponentState">Дозвољава апликацији да промени да ли је компонента друге апликације омогућена или онемогућена. Злонамерне апликације могу то да искористе да онемогуће важне функције таблета. Треба бити опрезан при додељивању ове дозволе, јер компоненте апликација могу постати неупотребљиве, непоуздане или нестабилне.</string>
+    <string name="permdesc_changeComponentState">Дозвољава апликацији да промени да ли је компонента друге апликације омогућена или онемогућена. Злонамерне апликације могу то да искористе да онемогуће важне функције телефона. Треба бити опрезан при додељивању ове дозволе, јер компоненте апликација могу да постану неупотребљиве, непоуздане или нестабилне.</string>
     <string name="permlab_grantRevokePermissions">додела или опозив дозвола</string>
     <string name="permdesc_grantRevokePermissions">Омогућава апликацији да додели или опозове посебне дозволе за њу или друге апликације. Злонамерне апликације могу то да користе да би приступале функцијама које им нисте одобрили.</string>
     <string name="permlab_setPreferredApplications">подешавање жељених апликација</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">измена мапе Google услуга</string>
     <string name="permdesc_writeGservices">Дозвољава апликацији да измени мапу Google услуга. Не користе је уобичајене апликације.</string>
     <string name="permlab_receiveBootCompleted">покретање при покретању система</string>
-    <string name="permdesc_receiveBootCompleted">Омогућава да се апликација покрене одмах након покретања система. То може да успори покретање таблета, при чему ова апликација може да успори функционисање целог таблета тиме што ће увек бити активна.</string>
+    <string name="permdesc_receiveBootCompleted">Омогућава да се апликација покрене чим се систем покрене. То може да успори покретање телефона, при чему ова апликација може да успори функционисање целог телефона тиме што ће увек бити активна.</string>
     <string name="permlab_broadcastSticky">слање пријемчивих емитовања</string>
-    <string name="permdesc_broadcastSticky">Дозвољава апликацији да шаље пријемчива емитовања, која остају по завршетку емитовања. Прекомерна употреба може да успори или дестабилизује таблет тако што ће га приморати да троши превише меморије.</string>
+    <string name="permdesc_broadcastSticky">Дозвољава апликацији да шаље пријемчива емитовања, која остају по завршетку емитовања. Прекомерна употреба може да успори или дестабилизује телефон тако што ће га приморати да троши превише меморије.</string>
     <string name="permlab_readContacts">читање контаката</string>
-    <string name="permdesc_readContacts">Дозвољава апликацији да чита податке о контактима ускладиштене на таблету, укључујући податке о томе колико често зовете одређене особе, шаљете им поруке е-поште или на други начин комуницирате са њима. Ова дозвола омогућава апликацијама да чувају податке о контактима, а злонамерне апликације могу да деле податке о контактима без вашег знања.</string>
+    <string name="permdesc_readContacts">Дозвољава апликацији да чита податке о контактима ускладиштене на телефону, укључујући податке о томе колико често зовете одређене особе, шаљете им поруке е-поште или на други начин комуницирате са њима. Ова дозвола омогућава апликацијама да чувају податке о контактима, а злонамерне апликације могу да деле податке о контактима без вашег знања.</string>
     <string name="permlab_writeContacts">измена контаката</string>
-    <string name="permdesc_writeContacts">Дозвољава апликацији да мења податке о контактима ускладиштене на таблету, укључујући податке о томе колико често зовете одређене контакте, шаљете им поруке е-поште или на други начин комуницирате са њима. Ова дозвола омогућава апликацијама да бришу податке о контактима.</string>
+    <string name="permdesc_writeContacts">Дозвољава апликацији да мења податке о контактима ускладиштене на телефону, укључујући податке о томе колико често зовете одређене контакте, шаљете им поруке е-поште или на други начин комуницирате са њима. Ова дозвола омогућава апликацијама да бришу податке о контактима.</string>
     <string name="permlab_readCallLog">читање евиденције позива</string>
-    <string name="permdesc_readCallLog">Дозвољава апликацији да чита евиденцију позива на таблету, укључујући податке о долазним и одлазним позивима. Ова дозвола омогућава апликацијама да чувају податке о евиденцији позива, а злонамерне апликације могу да деле податке о евиденцији позива без вашег знања.</string>
+    <string name="permdesc_readCallLog">Дозвољава апликацији да чита евиденцију позива на телефону, укључујући податке о долазним и одлазним позивима. Ова дозвола омогућава апликацијама да чувају податке о евиденцији позива, а злонамерне апликације могу да деле податке о евиденцији позива без вашег знања.</string>
     <string name="permlab_writeCallLog">писање евиденције позива</string>
-    <string name="permdesc_writeCallLog">Дозвољава апликацији да мења евиденцију позива на таблету, укључујући податке о долазним и одлазним позивима. Злонамерне апликације могу ово да користе да би брисале или мењале евиденцију позива.</string>
+    <string name="permdesc_writeCallLog">Дозвољава апликацији да мења евиденцију позива на телефону, укључујући податке о долазним и одлазним позивима. Злонамерне апликације могу ово да користе да би брисале или мењале евиденцију позива.</string>
     <string name="permlab_readProfile">читање ваше контакт картице</string>
     <string name="permdesc_readProfile">Дозвољава апликацији да чита личне информације о профилу ускладиштене на уређају, као што су име и контакт информације. То значи да апликација може да вас идентификује и шаље другима информације о профилу.</string>
     <string name="permlab_writeProfile">измена ваше контакт картице</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">писање у друштвени стрим</string>
     <string name="permdesc_writeSocialStream">Дозвољава апликацији да приказује друштвена ажурирања пријатеља. Будите опрезни када делите информације – ово омогућава апликацији да прави поруке које изгледају као да их шаљу пријатељи. Напомена: Ова дозвола се можда не примењује на свим друштвеним мрежама.</string>
     <string name="permlab_readCalendar">читање календарских догађаја и поверљивих информација</string>
-    <string name="permdesc_readCalendar">Дозвољава апликацији да чита све догађаје календара ускладиштене на таблету, укључујући догађаје пријатеља или колега. Ово може да омогући апликацији да дели или чува податке календара, без обзира на поверљивост или осетљивост.</string>
+    <string name="permdesc_readCalendar">Дозвољава апликацији да чита све догађаје календара ускладиштене на телефону, укључујући догађаје пријатеља или колега. Ово може да омогући апликацији да дели или чува податке календара, без обзира на поверљивост или осетљивост.</string>
     <string name="permlab_writeCalendar">додавање или измена календарских догађаја и слање порука е-поште гостима без знања власника</string>
-    <string name="permdesc_writeCalendar">Дозвољава апликацији да додаје, уклања и мења догађаје које можете да измените на таблету, укључујући догађаје пријатеља и колега. Ово може да омогући апликацији да шаље поруке које изгледају као да их шаљу власници календара или мења догађаје без знања власника.</string>
+    <string name="permdesc_writeCalendar">Дозвољава апликацији да додаје, уклања и мења догађаје које можете да измените на телефону, укључујући догађаје пријатеља и колега. Ово може да омогући апликацији да шаље поруке које изгледају као да их шаљу власници календара или мења догађаје без знања власника.</string>
     <string name="permlab_accessMockLocation">лажни извори локација у сврхе тестирања</string>
     <string name="permdesc_accessMockLocation">Прављење лажних извора локација у сврху тестирања или инсталирање новог добављача локације. Ово омогућава апликацији да замени локацију и/или статус који пријављују други извори локација, као што су GPS или добављачи локације.</string>
     <string name="permlab_accessLocationExtraCommands">приступ додатним командама добављача локације</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Дозвољава апликацији да снима слике и видео снимке камером. Ова дозвола омогућава апликацији да у било ком тренутку користи камеру без ваше потврде.</string>
     <string name="permlab_cameraDisableTransmitLed">онемогући пренос LED осветљења индикатора док се камера користи</string>
     <string name="permdesc_cameraDisableTransmitLed">Дозвољава унапред инсталираној системској апликацији да онемогући LED осветљење индикатора за коришћење камере.</string>
-    <string name="permlab_brick">трајно онемогућавање таблета</string>
-    <string name="permdesc_brick">Дозвољава апликацији да трајно онемогући цео таблет. Ово је веома опасно.</string>
-    <string name="permlab_reboot">принудно поновно покретање таблета</string>
-    <string name="permdesc_reboot">Дозвољава апликацији да принудно поново покрене таблет.</string>
+    <string name="permlab_brick">трајно онемогућавање телефона</string>
+    <string name="permdesc_brick">Дозвољава апликацији да трајно онемогући цео телефон. Ово је веома опасно.</string>
+    <string name="permlab_reboot">принудно поновно покретање телефона</string>
+    <string name="permdesc_reboot">Дозвољава апликацији да принудно поново покрене телефон.</string>
     <string name="permlab_mount_unmount_filesystems">приступ сист. дат. USB мемор.</string>
     <string name="permdesc_mount_unmount_filesystems">Дозвољава апликацији да прикључи и искључи системе датотека преносне меморије.</string>
     <string name="permlab_mount_format_filesystems">брисање USB меморије</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Дозвољава апликацији да позива бројеве телефона без ваше дозволе. Ово може да доведе до неочекиваних трошкова или позива. Имајте на уму да ово не дозвољава апликацији да позива бројеве за хитне случајеве. Злонамерне апликације могу да позивају без ваше потврде, што може да доведе до трошкова.</string>
     <string name="permlab_callPrivileged">директно позивање било ког броја телефона</string>
     <string name="permdesc_callPrivileged">Дозвољава апликацији да позива било који број телефона, укључујући бројеве за хитне случајеве, не тражећи дозволу од вас. Злонамерне апликације на тај начин могу да упућују непотребне и незаконите позиве службама за хитне случајеве.</string>
-    <string name="permlab_performCdmaProvisioning">директно покретање подешавања кодираног вишеструког приступа за таблет (Code Division Multiple Access – CDMA)</string>
+    <string name="permlab_performCdmaProvisioning">директно покретање подешавања CDMA телефона</string>
     <string name="permdesc_performCdmaProvisioning">Дозвољава апликацији да покрене доделу кодираног вишеструког приступа (CDMA). Злонамерне апликације могу да покрећу CDMA без потребе.</string>
     <string name="permlab_locationUpdates">контрола обавештења о ажурирању локације</string>
     <string name="permdesc_locationUpdates">Дозвољава апликацији да омогући/онемогући обавештења о ажурирању локација са радија. Не користе је уобичајене апликације.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Дозвољава апликацији да управља функцијама телефона на уређају. Апликација са овом дозволом може да прелази са једне мреже на другу и да без обавештења укључује и искључује радио телефона и сличне функције.</string>
     <string name="permlab_readPhoneState">читање статуса и идентитета телефона</string>
     <string name="permdesc_readPhoneState">Дозвољава апликацији да приступа функцијама телефона на уређају. Ова дозвола омогућава апликацији да утврди број телефона и ИД-ове уређаја, затим да ли је позив активан, као и број даљинског уређаја са којим је успостављен позив.</string>
-    <string name="permlab_wakeLock">спречавање преласка таблета у стање спавања</string>
-    <string name="permdesc_wakeLock">Дозвољава апликацији да спречи таблет да пређе у стање спавања.</string>
-    <string name="permlab_devicePower">укључивање или искључивање таблета</string>
-    <string name="permdesc_devicePower">Дозвољава апликацији да укључује или искључује таблет.</string>
+    <string name="permlab_wakeLock">спречавање преласка телефона у стање спавања</string>
+    <string name="permdesc_wakeLock">Дозвољава апликацији да спречи телефон да пређе у стање спавања.</string>
+    <string name="permlab_devicePower">укључивање или искључивање телефона</string>
+    <string name="permdesc_devicePower">Дозвољава апликацији да укључује и искључује телефон.</string>
     <string name="permlab_factoryTest">покретање у режиму фабричког тестирања</string>
-    <string name="permdesc_factoryTest">Покреће се као тест произвођача ниског нивоа, омогућавајући комплетан приступ хардверу таблета. Доступно је само када је таблет покренут у пробном режиму произвођача.</string>
+    <string name="permdesc_factoryTest">Покретање теста ниског нивоа који спроводи произвођач, које омогућава потпуни приступ хардверу телефона. Доступно је само када телефон покренут у режиму тестирања које спроводи произвођач.</string>
     <string name="permlab_setWallpaper">подешавање позадине</string>
     <string name="permdesc_setWallpaper">Дозвољава апликацији да поставља позадину система.</string>
     <string name="permlab_setWallpaperHints">прилагођавање величине позадине</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">поновно постављање фабричких подразумеваних подешавања</string>
     <string name="permdesc_masterClear">Дозвољава апликацији да поново постави комплетна фабричка подешавања система и тиме избрише све податке, конфигурацију и инсталиране апликације.</string>
     <string name="permlab_setTime">подешавање времена</string>
-    <string name="permdesc_setTime">Дозвољава апликацији да промени време на сату таблета.</string>
+    <string name="permdesc_setTime">Дозвољава апликацији да промени време на сату телефона.</string>
     <string name="permlab_setTimeZone">подешавање временске зоне</string>
-    <string name="permdesc_setTimeZone">Дозвољава апликацији да промени временску зону таблета.</string>
+    <string name="permdesc_setTimeZone">Дозвољава апликацији да промени временску зону телефона.</string>
     <string name="permlab_accountManagerService">улога услуге управљања налогом</string>
     <string name="permdesc_accountManagerService">Дозвољава апликацији да упућује позиве издаваоцима потврде аутентичности налога.</string>
     <string name="permlab_getAccounts">проналажење налога на уређају</string>
-    <string name="permdesc_getAccounts">Дозвољава апликацији да преузима листу налога познатих таблету. Ово може да обухвата било које налоге које праве апликације које инсталирате.</string>
+    <string name="permdesc_getAccounts">Дозвољава апликацији да преузима листу налога познатих телефону. Ово може да обухвата било које налоге које праве апликације које инсталирате.</string>
     <string name="permlab_authenticateAccounts">отварање налога и подешавање лозинки</string>
     <string name="permdesc_authenticateAccounts">Дозвољава апликацији да користи могућности менаџера налога за потврду аутентичности налога, укључујући отварање налога, као и преузимање и подешавање лозинки за њих.</string>
     <string name="permlab_manageAccounts">додавање или уклањање налога</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">повезивање и прекид везе са Wi-Fi мрежом</string>
     <string name="permdesc_changeWifiState">Дозвољава апликацији да се повезује са приступним тачкама за Wi-Fi и прекида везу са њима, као и да уноси промене у конфигурацију уређаја за Wi-Fi мреже.</string>
     <string name="permlab_changeWifiMulticastState">омогућавање пријема вишесмерног Wi-Fi саобраћаја</string>
-    <string name="permdesc_changeWifiMulticastState">Дозвољава апликацији да прима пакете који се шаљу на све уређаје на Wi-Fi мрежи помоћу вишесмерних адреса, а не само на таблет. Користи више напајања од режима једносмерног саобраћаја.</string>
+    <string name="permdesc_changeWifiMulticastState">Дозвољава апликацији да прима пакете који се шаљу на све уређаје на Wi-Fi мрежи помоћу вишесмерних адреса, а не само на телефон. Користи више напајања од режима једносмерног саобраћаја.</string>
     <string name="permlab_bluetoothAdmin">приступ Bluetooth подешавањима</string>
-    <string name="permdesc_bluetoothAdmin">Дозвољава апликацији да конфигурише локални Bluetooth таблет, као и да открије даљинске уређаје и упари се са њима.</string>
+    <string name="permdesc_bluetoothAdmin">Дозвољава апликацији да конфигурише локални Bluetooth телефон, као и да открије даљинске уређаје и упари се са њима.</string>
     <string name="permlab_accessWimaxState">повезивање и прекид везе са WiMAX-ом</string>
     <string name="permdesc_accessWimaxState">Дозвољава апликацији да утврди да ли је WiMAX омогућен, као и информације о било којим повезаним WiMAX мрежама.</string>
     <string name="permlab_changeWimaxState">Промени WiMAX статус</string>
-    <string name="permdesc_changeWimaxState">Дозвољава апликацији да повезује таблет са WiMAX мрежама и прекида везе са њима.</string>
+    <string name="permdesc_changeWimaxState">Дозвољава апликацији да повезује телефон са WiMAX мрежама и прекида везе са њима.</string>
     <string name="permlab_bluetooth">упаривање са Bluetooth уређајима</string>
-    <string name="permdesc_bluetooth">Дозвољава апликацији да прегледа конфигурацију Bluetooth-а на таблету, као и да успоставља и прихвата везе са упареним уређајима.</string>
+    <string name="permdesc_bluetooth">Дозвољава апликацији да прегледа конфигурацију Bluetooth-а на телефону, као и да успоставља и прихвата везе са упареним уређајима.</string>
     <string name="permlab_nfc">контрола комуникације у ужем пољу (Near Field Communication)</string>
     <string name="permdesc_nfc">Дозвољава апликацији да комуницира са ознакама, картицама и читачима комуникације кратког домета (NFC).</string>
     <string name="permlab_disableKeyguard">онемогућавање закључавања екрана</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Подешавање правила за лозинку</string>
     <string name="policydesc_limitPassword">Контролишите дужину и знакове дозвољене у лозинкама за откључавање екрана.</string>
     <string name="policylab_watchLogin">Надгледање покушаја откључавања екрана</string>
-    <string name="policydesc_watchLogin">Прати број нетачно унетих лозинки приликом откључавања екрана и закључава таблет или брише податке са таблета ако је нетачна лозинка унета превише пута.</string>
+    <string name="policydesc_watchLogin">Прати број нетачно унетих лозинки при откључавању екрана и закључава телефон или брише све податке са телефона ако је нетачна лозинка унета превише пута.</string>
     <string name="policylab_resetPassword">Промена лозинке за откључавање екрана</string>
     <string name="policydesc_resetPassword">Промените лозинку за откључавање екрана.</string>
     <string name="policylab_forceLock">Закључавање екрана</string>
     <string name="policydesc_forceLock">Контролишите начин и време закључавања екрана.</string>
     <string name="policylab_wipeData">Брисање свих података</string>
-    <string name="policydesc_wipeData">Брисање података на таблету без упозорења враћањем фабричких података.</string>
+    <string name="policydesc_wipeData">Избришите податке на телефону без упозорења враћањем фабричких података.</string>
     <string name="policylab_setGlobalProxy">Подесите глобални прокси сервер уређаја</string>
     <string name="policydesc_setGlobalProxy">Подесите глобални прокси сервер уређаја који ће се користити док су омогућене смернице. Само први администратор уређаја поставља ефективни глобални прокси сервер.</string>
     <string name="policylab_expirePassword">Подешавање истека лозинке екрана</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Повежите пуњач.</string>
     <string name="lockscreen_missing_sim_message_short">Нема SIM картице</string>
-    <string name="lockscreen_missing_sim_message">У таблету нема SIM картице.</string>
+    <string name="lockscreen_missing_sim_message">У телефон није уметнута SIM картица.</string>
     <string name="lockscreen_missing_sim_instructions">Уметните SIM картицу.</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM недостаје или не може да се прочита. Уметните SIM картицу.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">SIM картица је неупотребљива.</string>
@@ -778,11 +778,11 @@
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"%d пута сте погрешно унели PIN. 
 
 Покушајте поново за %d секунде(и)."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d пута сте нетачно унели шаблон за откључавање. Након још %d несупешна(их) покушаја, од вас ће бити затражено да откључате таблет помоћу података за пријављивање на Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d пута сте нетачно унели шаблон за откључавање. Након још %d несупешна(их) покушаја, од вас ће бити затражено да откључате телефон помоћу података за пријављивање на Google.
 
  Покушајте поново за %d секунде(и)."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Неправилно сте покушали да откључате таблет %d пута. Након још неуспешних покушаја (%d) таблет ће бити враћен на подразумевана фабричка подешавања и сви кориснички подаци ће бити изгубљени.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Неисправно сте покушали да откључате таблет %d пута. Таблет ће сада бити враћен на подразумевана фабричка подешавања.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Неисправно сте покушали да откључате телефон %d пута. Након још неуспешних покушаја (%d) телефон ће бити враћен на подразумевана фабричка подешавања и сви кориснички подаци ће бити изгубљени.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Неисправно сте покушали да откључате телефон %d пута. Телефон ће сада бити враћен на подразумевана фабричка подешавања.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Покушајте поново за %d секунде(и).</string>
     <string name="lockscreen_forgot_pattern_button_text">Заборавили сте шаблон?</string>
     <string name="lockscreen_glogin_forgot_pattern">Откључавање налога</string>
@@ -867,7 +867,7 @@
     <string name="permlab_readHistoryBookmarks">читање веб обележивача и историје</string>
     <string name="permdesc_readHistoryBookmarks">Дозвољава апликацији да чита историју свих URL адреса које су посећене помоћу Прегледача, као и све обележиваче у Прегледачу. Напомена: Ова дозвола се можда на примењује на прегледаче треће стране и друге апликације са могућношћу веб прегледања.</string>
     <string name="permlab_writeHistoryBookmarks">писање веб обележивача и историје</string>
-    <string name="permdesc_writeHistoryBookmarks">Дозвољава апликацији да мења историју Прегледача или обележиваче ускладиштене на таблету. Ово може да омогући апликацији да брише или мења податке Прегледача. Напомена: Ова дозвола се можда на примењује на прегледаче треће стране и друге апликације са могућношћу веб прегледања.</string>
+    <string name="permdesc_writeHistoryBookmarks">Дозвољава апликацији да мења историју Прегледача или обележиваче ускладиштене на телефону. Ово може да омогући апликацији да брише или мења податке Прегледача. Напомена: Ова дозвола се можда на примењује на прегледаче треће стране и друге апликације са могућношћу веб прегледања.</string>
     <string name="permlab_setAlarm">подешавање аларма</string>
     <string name="permdesc_setAlarm">Дозвољава апликацији да подеси аларм у инсталираној апликацији будилника. Неке апликације будилника можда не примењују ову функцију.</string>
     <string name="permlab_addVoicemail">додавање говорне поште</string>
@@ -901,7 +901,7 @@
     <string name="searchview_description_submit">Пошаљи упит</string>
     <string name="searchview_description_voice">Гласовна претрага</string>
     <string name="enable_explore_by_touch_warning_title">Oмогућити Истраживање додиром?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s жели да омогући Истраживање додиром. Када је Истраживање додиром укључено, можете да чујете или видите описе ставке на коју сте ставили прст или да комуницирате са таблетом помоћу покрета.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s жели да омогући Истраживање додиром. Када је Истраживање додиром укључено, можете да чујете или видите описе ставке на коју сте ставили прст или да комуницирате са телефоном помоћу покрета.</string>
     <string name="oneMonthDurationPast">Пре месец дана</string>
     <string name="beforeOneMonthDurationPast">Пре месец дана</string>
     <string name="last_month">Прошлог месеца</string>
@@ -1025,7 +1025,7 @@
     <string name="wifi_p2p_to_message">Коме:</string>
     <string name="wifi_p2p_enter_pin_message">Унесите потребни PIN:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Таблет ће привремено прекинути везу са Wi-Fi-јем док је повезан са уређајем %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">Телефон ће привремено прекинути везу са Wi-Fi-јем док је повезан са уређајем %1$s</string>
     <string name="select_character">Уметање знака</string>
     <string name="sms_control_title">Слање SMS порука</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> шаље велики број SMS порука. Желите ли да дозволите овој апликацији да настави са слањем порука?</string>
@@ -1274,7 +1274,7 @@
     <string name="SetupCallDefault">Желите ли да прихватите позив?</string>
     <string name="activity_resolver_use_always">Увек</string>
     <string name="activity_resolver_use_once">Само једном</string>
-    <string name="default_audio_route_name">Таблет</string>
+    <string name="default_audio_route_name">Телефон</string>
     <string name="default_audio_route_name_headphones">Слушалице</string>
     <string name="default_audio_route_name_dock_speakers">Звучници базне станице</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Нацртали сте шаблон за откључавање неисправно %d пута. 
 
 Покушајте поново за %d секунде(и)."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Покушали сте да откључате таблет неисправно %d пута. Након још %d неуспешна(их) покушаја таблет ће бити враћен на подразумевана фабричка подешавања и сви кориснички подаци ће бити изгубљени.</string>
-    <string name="kg_failed_attempts_now_wiping">Покушали сте да откључате таблет неисправно %d пута. Таблет ће сада бити враћен на подразумевана фабричка подешавања.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Нацртали сте шаблон за откључавање неисправно %d пута. После још %d неуспешна(их) покушаја, од вас ће бити затражено да откључате таблет помоћу налога е-поште.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Покушали сте да откључате телефон неисправно %d пута. После још %d неуспешна(их) покушаја телефон ће бити враћен на подразумевана фабричка подешавања и сви кориснички подаци ће бити изгубљени.</string>
+    <string name="kg_failed_attempts_now_wiping">Покушали сте да откључате телефон неисправно %d пута. Телефон ће сада бити враћен на подразумевана фабричка подешавања.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Нацртали сте шаблон за откључавање неисправно %d пута. После још %d неуспешна(их) покушаја, од вас ће бити затражено да откључате телефон помоћу налога е-поште.
 
 Покушајте поново за %d секунде(и)."</string>
     <string name="kg_text_message_separator">" – "</string>

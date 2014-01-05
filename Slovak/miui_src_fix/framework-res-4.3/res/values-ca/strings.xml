@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Sincronització</string>
     <string name="contentServiceSyncNotificationTitle">Sincronització</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Massa supressions de %s.</string>
-    <string name="low_memory">"L'emmagatzematge de la tauleta és ple. Suprimeix uns quants fitxers per alliberar espai."</string>
+    <string name="low_memory">"L'emmagatzematge del telèfon és ple. Suprimeix uns quants fitxers per alliberar espai."</string>
     <string name="me">Mi</string>
-    <string name="power_dialog">Opcions de la tauleta</string>
+    <string name="power_dialog">Opcions del telèfon</string>
     <string name="silent_mode">Mode silenciós</string>
     <string name="turn_on_radio">Activa la xarxa sense fil</string>
     <string name="turn_off_radio">Desactiva la xarxa sense fil</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Mode vibració</string>
     <string name="silent_mode_ring">Timbre activat</string>
     <string name="shutdown_progress">"S'està apagant..."</string>
-    <string name="shutdown_confirm">"La tauleta s'apagarà."</string>
+    <string name="shutdown_confirm">"El telèfon s'apagarà."</string>
     <string name="shutdown_confirm_question">Vols apagar-lo?</string>
     <string name="reboot_safemode_title">Reinicia en mode segur</string>
     <string name="reboot_safemode_confirm">Vols reiniciar en mode segur? Es desactivaran les aplicacions de tercers que hagis instal·lat. Es restabliran quan tornis a reiniciar.</string>
     <string name="recent_tasks_title">Recents</string>
     <string name="no_recent_tasks">No hi ha aplicacions recents</string>
-    <string name="global_actions">Opcions de la tauleta</string>
+    <string name="global_actions">Opcions del telèfon</string>
     <string name="global_action_lock">Bloqueig de pantalla</string>
     <string name="global_action_power_off">Apaga</string>
     <string name="global_action_bug_report">"Informe d'error"</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">envia els esdeveniments amb \"resposta per missatge\"</string>
     <string name="permdesc_sendRespondViaMessageRequest">"Permet que l'aplicació enviï sol·licituds a altres aplicacions de missatgeria per gestionar els esdeveniments amb \"resposta per missatge\" de les trucades entrants."</string>
     <string name="permlab_readSms">lectura dels missatges de text (SMS o MMS)</string>
-    <string name="permdesc_readSms">"Permet que l'aplicació llegeixi missatges SMS emmagatzemats a la tauleta o a la targeta SIM. Això permet que l'aplicació llegeixi tots els missatges SMS, independentment del contingut o de la confidencialitat."</string>
+    <string name="permdesc_readSms">"Permet que l'aplicació llegeixi missatges SMS emmagatzemats al telèfon o a la targeta SIM. Això permet que l'aplicació llegeixi tots els missatges SMS, independentment del contingut o de la confidencialitat."</string>
     <string name="permlab_writeSms">edició dels missatges de text (SMS o MMS)</string>
-    <string name="permdesc_writeSms">"Permet que l'aplicació llegeixi missatges SMS emmagatzemats a la tauleta o a la targeta SIM. Les aplicacions malicioses poden llegir els teus missatges confidencials."</string>
+    <string name="permdesc_writeSms">"Permet que l'aplicació llegeixi missatges SMS emmagatzemats al telèfon o a la targeta SIM. Les aplicacions malicioses poden llegir els teus missatges confidencials."</string>
     <string name="permlab_receiveWapPush">recepció de missatges de text (WAP)</string>
     <string name="permdesc_receiveWapPush">"Permet que l'aplicació rebi i processi missatges WAP. Aquest permís inclou la capacitat de controlar o de suprimir missatges que s'han enviat al teu dispositiu sense mostrar-te'ls."</string>
     <string name="permlab_getTasks">recupera les aplicacions en execució</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">bloqueig de la pantalla</string>
     <string name="permdesc_freezeScreen">"Permet a l'aplicació bloquejar temporalment la pantalla per fer una transició de pantalla completa."</string>
     <string name="permlab_injectEvents">prémer tecles i botons de control</string>
-    <string name="permdesc_injectEvents">"Permet que l'aplicació lliuri els seus propis esdeveniments d'entrada (tecles premudes, etc.) a d'altres aplicacions. Les aplicacions malicioses poden utilitzar aquesta funció per controlar la tauleta."</string>
+    <string name="permdesc_injectEvents">"Permet que l'aplicació lliuri els seus propis esdeveniments d'entrada (tecles premudes, etc.) a d'altres aplicacions. Les aplicacions malicioses poden utilitzar aquesta funció per controlar el telèfon."</string>
     <string name="permlab_readInputState">enregistrar allò que escriviu i les accions que dueu a terme</string>
     <string name="permdesc_readInputState">"Permet que les aplicacions facin un seguiment de les tecles que prems, fins i tot quan s'interactua amb una altra aplicació (com ara introduir una contrasenya). No s'hauria de necessitar mai per a les aplicacions normals."</string>
     <string name="permlab_bindInputMethod">"vincular a un mètode d'entrada"</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">envia senyals Linux a les aplicacions</string>
     <string name="permdesc_signalPersistentProcesses">"Permet que l'aplicació sol·liciti que el senyal subministrat s'enviï a tots els processos persistents."</string>
     <string name="permlab_persistentActivity">"fes que l'aplicació s'executi sempre"</string>
-    <string name="permdesc_persistentActivity">"Permet que l'aplicació faci que parts de la seva memòria siguin persistents. Aquesta acció pot limitar la memòria disponible per a altres aplicacions i alentir la tauleta."</string>
+    <string name="permdesc_persistentActivity">"Permet que l'aplicació faci que parts de la seva memòria siguin persistents. Aquesta acció pot limitar la memòria disponible per a altres aplicacions i alentir el telèfon."</string>
     <string name="permlab_deletePackages">suprimeix aplicacions</string>
     <string name="permdesc_deletePackages">"Permet que l'aplicació suprimeixi els paquets d'Android. Les aplicacions malicioses poden utilitzar-ho per suprimir aplicacions importants."</string>
     <string name="permlab_clearAppUserData">"suprimeix les dades d'altres aplicacions"</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">instal·la aplicacions directament</string>
     <string name="permdesc_installPackages">"Permet que l'aplicació instal·li paquets d'Android nous o actualitzats. Les aplicacions malicioses poden utilitzar aquesta funció per afegir aplicacions noves amb permisos eficaços de manera arbitrària."</string>
     <string name="permlab_clearAppCache">"suprimeix totes les dades de memòria cau d'aplicacions"</string>
-    <string name="permdesc_clearAppCache">"Permet que l'aplicació alliberi espai a la tauleta mitjançant la supressió de fitxers als directoris de la memòria cau d'altres aplicacions. Això pot fer que altres aplicacions s'iniciïn més a poc a poc, perquè han de tornar a recuperar les dades."</string>
+    <string name="permdesc_clearAppCache">"Permet que l'aplicació alliberi espai al telèfon mitjançant la supressió de fitxers als directoris de la memòria cau d'altres aplicacions. Això pot fer que altres aplicacions s'iniciïn més a poc a poc, perquè han de tornar a recuperar les dades."</string>
     <string name="permlab_movePackage">"mou els recursos de l'aplicació"</string>
     <string name="permdesc_movePackage">"Permet que l'aplicació desplaci els recursos de l'aplicació de suports interns a externs i viceversa."</string>
     <string name="permlab_readLogs">llegir dades de registre personals</string>
-    <string name="permdesc_readLogs">"Permet que l'aplicació llegeixi els diversos fitxers de registre del sistema. Això li permet descobrir informació general sobre què estàs fent amb la tauleta, i pot incloure informació personal o privada."</string>
+    <string name="permdesc_readLogs">"Permet que l'aplicació llegeixi els diversos fitxers de registre del sistema. Això li permet descobrir informació general sobre què estàs fent amb el telèfon i, potencialment, pot incloure informació personal o privada."</string>
     <string name="permlab_anyCodecForPlayback">utilitza qualsevol descodificador de mitjans per a la reproducció</string>
     <string name="permdesc_anyCodecForPlayback">"Permet que l'aplicació utilitzi qualsevol descodificador de mitjans instal·lat per descodificar per a la reproducció."</string>
     <string name="permlab_diagnostic">llegir/escriure recursos propietat de diag</string>
     <string name="permdesc_diagnostic">"Permet que l'aplicació llegeixi i escrigui a qualsevol recurs propietat del grup diag; per exemple, els fitxers de /dev. Això podria afectar l'estabilitat i la seguretat del sistema. NOMÉS l'hauria d'utilitzar el fabricant o l'operador per a diagnòstics específics de maquinari."</string>
     <string name="permlab_changeComponentState">"activa o desactiva els components de l'aplicació"</string>
-    <string name="permdesc_changeComponentState">"Permet que l'aplicació canviï si un component d'una altra aplicació està activat o no. Les aplicacions malicioses poden utilitzar aquesta funció per desactivar funcions importants de la tauleta. Cal anar amb compte amb aquest permís, ja que és possible que els components de l'aplicació esdevinguin inutilitzables, incoherents o inestables."</string>
+    <string name="permdesc_changeComponentState">"Permet que l'aplicació canviï si un component d'una altra aplicació està activat o no. Les aplicacions malicioses poden utilitzar aquesta funció per desactivar funcions importants del telèfon. Cal anar amb compte amb aquest permís, perquè és possible que els components de l'aplicació esdevinguin inutilitzables, incoherents o inestables."</string>
     <string name="permlab_grantRevokePermissions">concedeix o denega permisos</string>
     <string name="permdesc_grantRevokePermissions">Permet que una aplicació concedeixi o denegui permisos específics per a aquesta o per a altres aplicacions. És possible que les aplicacions malicioses ho facin servir per accedir a funcions a les quals no has concedit accés.</string>
     <string name="permlab_setPreferredApplications">defineix les aplicacions preferides</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">modificar el mapa de serveis de Google</string>
     <string name="permdesc_writeGservices">"Permet que l'aplicació modifiqui el mapa dels serveis de Google. No la poden fer servir les aplicacions normals."</string>
     <string name="permlab_receiveBootCompleted">execució en iniciar</string>
-    <string name="permdesc_receiveBootCompleted">"Permet que l'aplicació s'iniciï tan bon punt el sistema hagi acabat d'arrencar. Això pot fer que es trigui més a iniciar el telèfon i permetre a l'aplicació alentir-ne el funcionament general en executar-se sempre."</string>
+    <string name="permdesc_receiveBootCompleted">"Permet que l'aplicació s'iniciï tan bon punt el sistema hagi acabat d'arrencar. Això pot fer que es trigui més a iniciar el telèfon i permetre a l'aplicació alentir-ne el funcionament general si s'executa sempre."</string>
     <string name="permlab_broadcastSticky">enviar difusió permanent</string>
-    <string name="permdesc_broadcastSticky">"Permet que l'aplicació enviï emissions permanents, que es conserven després de finalitzar l'emissió. L'ús excessiu pot alentir o desestabilitzar la tauleta si li fan utilitzar massa memòria."</string>
+    <string name="permdesc_broadcastSticky">"Permet que l'aplicació enviï emissions permanents, que es conserven després de finalitzar l'emissió. L'ús excessiu pot alentir o desestabilitzar el telèfon si li fan utilitzar massa memòria."</string>
     <string name="permlab_readContacts">lectura dels contactes</string>
-    <string name="permdesc_readContacts">"Permet que l'aplicació llegeixi dades sobre els contactes que tinguis emmagatzemats a la tauleta, inclosa la freqüència amb què has trucat, has enviat correus electrònics o t'has comunicat d'altres maneres amb persones concretes. Aquest permís permet que les aplicacions desin les dades dels teus contactes, i és possible que les aplicacions malicioses comparteixin dades dels contactes sense el teu coneixement."</string>
+    <string name="permdesc_readContacts">"Permet que l'aplicació llegeixi dades sobre els contactes que tinguis emmagatzemats al telèfon, inclosa la freqüència amb què has trucat, has enviat correus electrònics o t'has comunicat d'altres maneres amb persones concretes. Aquest permís permet que les aplicacions desin les dades dels teus contactes, i és possible que les aplicacions malicioses comparteixin dades dels contactes sense el teu coneixement."</string>
     <string name="permlab_writeContacts">modificació dels contactes</string>
-    <string name="permdesc_writeContacts">"Permet que l'aplicació modifiqui les dades sobre contactes emmagatzemades a la tauleta, inclosa la freqüència amb què has trucat, has enviat correus electrònics o t'has comunicat d'altres maneres amb contactes concrets. Aquest permís permet que les aplicacions suprimeixin dades de contactes."</string>
+    <string name="permdesc_writeContacts">"Permet que l'aplicació modifiqui les dades sobre contactes emmagatzemades al telèfon, inclosa la freqüència amb què has trucat, has enviat correus electrònics o t'has comunicat d'altres maneres amb contactes concrets. Aquest permís permet que les aplicacions suprimeixin dades de contactes."</string>
     <string name="permlab_readCallLog">lectura del registre de trucades</string>
-    <string name="permdesc_readCallLog">"Permet que l'aplicació llegeixi el registre de trucades de la teva tauleta, incloses les dades sobre les trucades entrants i sortints. Aquest permís permet que les aplicacions desin les dades del registre de trucades, i és possible que les aplicacions malicioses comparteixin dades del registre de trucades sense el teu coneixement."</string>
+    <string name="permdesc_readCallLog">"Permet que l'aplicació llegeixi el registre de trucades del teu telèfon, incloses les dades sobre les trucades entrants i sortints. Aquest permís permet que les aplicacions desin les dades del registre de trucades, i és possible que les aplicacions malicioses comparteixin dades del registre de trucades sense el teu coneixement."</string>
     <string name="permlab_writeCallLog">escriptura del registre de trucades</string>
-    <string name="permdesc_writeCallLog">"Permet que l'aplicació modifiqui el registre de trucades de la teva tauleta, incloses les dades de les trucades entrants i sortints. És possible que les aplicacions malicioses ho utilitzin per eliminar o per modificar el teu registre de trucades."</string>
+    <string name="permdesc_writeCallLog">"Permet que l'aplicació modifiqui el registre de trucades del teu telèfon, incloses les dades de les trucades entrants i sortints. És possible que les aplicacions malicioses ho utilitzin per eliminar o per modificar el teu registre de trucades."</string>
     <string name="permlab_readProfile">lectura targeta de contacte</string>
     <string name="permdesc_readProfile">"Permet que l'aplicació pugui llegir informació del perfil personal emmagatzemada al dispositiu, com ara el teu nom i la teva informació de contacte. Això significa que l'aplicació et pot identificar i enviar la informació del teu perfil a altres persones."</string>
     <string name="permlab_writeProfile">modificació targeta contacte</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">"escriu al tauler d'activitat social"</string>
     <string name="permdesc_writeSocialStream">"Permet que l'aplicació mostri actualitzacions socials dels teus amics. Vés amb compte en compartir informació: això permet que l'aplicació produeixi missatges que pot semblar que provinguin d'un amic. Nota: És possible que aquest permís no s'apliqui a totes les xarxes socials."</string>
     <string name="permlab_readCalendar">llegeix els esdeveniments del calendari més informació confidencial</string>
-    <string name="permdesc_readCalendar">"Permet que l'aplicació llegeixi tots els esdeveniments del calendari emmagatzemats a la tauleta, inclosos els dels amics o dels companys de feina. Aquesta acció pot permetre que l'aplicació comparteixi o desi les dades del teu calendari, sense tenir en compte la confidencialitat."</string>
+    <string name="permdesc_readCalendar">"Permet que l'aplicació llegeixi tots els esdeveniments del calendari emmagatzemats al telèfon, inclosos els dels amics o dels companys de feina. Aquesta acció pot permetre que l'aplicació comparteixi o desi les dades del teu calendari, sense tenir en compte la confidencialitat."</string>
     <string name="permlab_writeCalendar">afegeix o modifica els esdeveniments del calendari i envia correus electrònics als clients sense el coneixement dels propietaris</string>
-    <string name="permdesc_writeCalendar">"Permet que l'aplicació afegeixi, elimini o canviï esdeveniments que pots modificar a la tauleta, inclosos els d'amics o de companys de feina. Aquesta acció pot permetre que l'aplicació enviï missatges que sembli que provinguin dels propietaris del calendari o que modifiqui esdeveniments sense el coneixement dels propietaris."</string>
+    <string name="permdesc_writeCalendar">"Permet que l'aplicació afegeixi, elimini o canviï esdeveniments que pots modificar al telèfon, inclosos els d'amics o de companys de feina. Aquesta acció pot permetre que l'aplicació enviï missatges que sembli que provinguin dels propietaris del calendari o que modifiqui esdeveniments sense el coneixement dels propietaris."</string>
     <string name="permlab_accessMockLocation">"crear orígens d'ubicacions fictícies per fer proves"</string>
     <string name="permdesc_accessMockLocation">"Crea fonts d'ubicació fictícies per provar o per instal·lar un proveïdor d'ubicació nou. Aquesta acció permet que l'aplicació substitueixi la ubicació o l'estat que retornen altres fonts d'ubicació, com ara el GPS o altres proveïdors d'ubicació."</string>
     <string name="permlab_accessLocationExtraCommands">"accedir a ordres del proveïdor d'ubicació addicionals"</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">"Permet que l'aplicació faci fotos i vídeos amb la càmera. Aquest permís permet que l'aplicació utilitzi la càmera en qualsevol moment sense la teva confirmació."</string>
     <string name="permlab_cameraDisableTransmitLed">desactiva la transmissió del LED indicador en fer servir la càmera</string>
     <string name="permdesc_cameraDisableTransmitLed">"Permet que una aplicació dels sistema preinstal·lada desactivi el LED indicador d'ús de la càmera."</string>
-    <string name="permlab_brick">desactiva la tauleta de manera permanent</string>
-    <string name="permdesc_brick">"Permet que l'aplicació desactivi tota la tauleta de manera permanent. Aquesta acció és molt perillosa."</string>
-    <string name="permlab_reboot">fes que la tauleta es reiniciï</string>
-    <string name="permdesc_reboot">"Permet que l'aplicació faci que es reiniciï la tauleta."</string>
+    <string name="permlab_brick">desactivar definitivament el telèfon</string>
+    <string name="permdesc_brick">"Permet a l'aplicació desactivar tot el telèfon definitivament. Això és molt perillós."</string>
+    <string name="permlab_reboot">forçar el reinici del telèfon</string>
+    <string name="permdesc_reboot">"Permet que l'aplicació faci que es reiniciï el telèfon."</string>
     <string name="permlab_mount_unmount_filesystems">accés sist. fitxers emmag. USB</string>
     <string name="permdesc_mount_unmount_filesystems">"Permet que l'aplicació instal·li i desinstal·li sistemes de fitxers per a l'emmagatzematge extraïble."</string>
     <string name="permlab_mount_format_filesystems">esborrament emmagatzematge USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">"Permet que l'aplicació truqui a números de telèfon sense la teva intervenció. Aquesta acció pot produir càrrecs o trucades inesperades. Tingues en compte que això no permet que l'aplicació truqui a números d'emergència. Les aplicacions malicioses poden fer trucades sense la teva confirmació, cosa que et pot fer gastar diners."</string>
     <string name="permlab_callPrivileged">trucar directament a qualsevol número de telèfon</string>
     <string name="permdesc_callPrivileged">"Permet que l'aplicació truqui a qualsevol número de telèfon, inclosos els números d'emergència, sense la teva intervenció. Les aplicacions malicioses poden fer trucades innecessàries i il·legals a serveis d'emergència."</string>
-    <string name="permlab_performCdmaProvisioning">inicia directament la configuració de la tauleta CDMA</string>
+    <string name="permlab_performCdmaProvisioning">iniciar directament la configuració del telèfon CDMA</string>
     <string name="permdesc_performCdmaProvisioning">"Permet que l'aplicació iniciï l'aprovisionament CDMA. Les aplicacions malicioses poden iniciar l'aprovisionament CDMA innecessàriament."</string>
     <string name="permlab_locationUpdates">"controlar les notificacions d'actualització de la ubicació"</string>
     <string name="permdesc_locationUpdates">"Permet que l'aplicació activi i desactivi les notificacions d'actualització de la ubicació de la ràdio. No la poden fer servir les aplicacions normals."</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">"Permet que l'aplicació controli les funcions de telèfon del dispositiu. Una aplicació amb aquest permís pot canviar de xarxa, activar i desactivar la ràdio del telèfon i dur a terme accions semblants sense notificar-t'ho."</string>
     <string name="permlab_readPhoneState">"veure l'estat i la identitat del telèfon"</string>
     <string name="permdesc_readPhoneState">"Permet que l'aplicació accedeixi a les funcions de telèfon del dispositiu. Aquest permís permet que l'aplicació determini el número de telèfon i els identificadors del dispositiu, si hi ha una trucada activa i el número remot connectat amb una trucada."</string>
-    <string name="permlab_wakeLock">"evita que la tauleta entri en mode d'inactivitat"</string>
-    <string name="permdesc_wakeLock">"Permet que l'aplicació impedeixi que la tauleta entri en repòs."</string>
-    <string name="permlab_devicePower">activa o desactiva la tauleta</string>
-    <string name="permdesc_devicePower">"Permet que l'aplicació encengui i apagui la tauleta."</string>
+    <string name="permlab_wakeLock">impedir que el telèfon entri en mode de repòs</string>
+    <string name="permdesc_wakeLock">"Permet que l'aplicació impedeixi que el telèfon entri en repòs."</string>
+    <string name="permlab_devicePower">engegar o apagar el telèfon</string>
+    <string name="permdesc_devicePower">"Permet a l'aplicació engegar o apagar el telèfon."</string>
     <string name="permlab_factoryTest">executar en mode de proves de fàbrica</string>
-    <string name="permdesc_factoryTest">"Executa com a prova de perfil baix del fabricant que permet accés complet al maquinari de la tauleta. Només està disponible quan la tauleta s'executa en mode de prova del fabricant."</string>
+    <string name="permdesc_factoryTest">"S'executa com a prova del fabricant de baix nivell, cosa que permet l'accés total al maquinari del telèfon. Només està disponible quan un telèfon s'executa en mode de proves del fabricant."</string>
     <string name="permlab_setWallpaper">definir fons de pantalla</string>
     <string name="permdesc_setWallpaper">"Permet que l'aplicació estableixi el fons de pantalla del sistema."</string>
     <string name="permlab_setWallpaperHints">ajustament de la mida del fons de pantalla</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">restablir el sistema als valors predeterminats de fàbrica</string>
     <string name="permdesc_masterClear">"Permet que l'aplicació restableixi completament el sistema a la configuració de fàbrica, amb la qual cosa s'esborren totes les dades, la configuració i les aplicacions instal·lades."</string>
     <string name="permlab_setTime">"definir l'hora"</string>
-    <string name="permdesc_setTime">"Permet que l'aplicació canviï la zona horària de la tauleta."</string>
+    <string name="permdesc_setTime">"Permet que l'aplicació canviï l'hora del rellotge del telèfon."</string>
     <string name="permlab_setTimeZone">selecció de zona horària</string>
-    <string name="permdesc_setTimeZone">"Permet que l'aplicació canviï la zona horària de la tauleta."</string>
+    <string name="permdesc_setTimeZone">"Permet que l'aplicació canviï la zona horària del telèfon."</string>
     <string name="permlab_accountManagerService">actuar com a AccountManagerService</string>
     <string name="permdesc_accountManagerService">Permet que una aplicació faci trucades a autenticadors de comptes.</string>
     <string name="permlab_getAccounts">cercar comptes al dispositiu</string>
-    <string name="permdesc_getAccounts">"Permet que l'aplicació obtingui la llista de comptes coneguts per la tauleta. Això pot incloure tots els comptes que hagin creat les aplicacions que tens instal·lades."</string>
+    <string name="permdesc_getAccounts">"Permet que l'aplicació obtingui la llista de comptes coneguts pel telèfon. Això pot incloure tots els comptes que hagin creat les aplicacions que tens instal·lades."</string>
     <string name="permlab_authenticateAccounts">creació de comptes i definició de contrasenyes</string>
     <string name="permdesc_authenticateAccounts">"Permet que l'aplicació utilitzi les funcions d'autenticador de comptes del gestor de comptes, incloses la creació de comptes i l'obtenció i la definició de les seves contrasenyes."</string>
     <string name="permlab_manageAccounts">addició o eliminació de comptes</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">connectar-se a xarxes Wi-Fi i desconnectar-se</string>
     <string name="permdesc_changeWifiState">"Permet que l'aplicació es connecti i es desconnecti de punts d'accés Wi-Fi i que faci canvis a la configuració de les xarxes Wi-Fi dels dispositius."</string>
     <string name="permlab_changeWifiMulticastState">permetre la recepció de multidifusió Wi-fi</string>
-    <string name="permdesc_changeWifiMulticastState">"Permet que l'aplicació rebi paquets enviats a tots els dispositius d'una xarxa Wi-Fi mitjançant les adreces multidifusió, no només a la teva tauleta. Fa servir més energia que el mode que no és multidifusió."</string>
+    <string name="permdesc_changeWifiMulticastState">"Permet que l'aplicació rebi paquets enviats a tots els dispositius d'una xarxa Wi-Fi mitjançant les adreces multidifusió, no només al teu telèfon. Fa servir més energia que el mode que no és multidifusió."</string>
     <string name="permlab_bluetoothAdmin">accés a la configuració de Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">"Permet que l'aplicació configuri la tauleta Bluetooth local i que cerqui i sincronitzi dispositius remots."</string>
+    <string name="permdesc_bluetoothAdmin">"Permet que l'aplicació configuri el telèfon Bluetooth local i que cerqui i sincronitzi dispositius remots."</string>
     <string name="permlab_accessWimaxState">connecta i desconnecta de WiMAX</string>
     <string name="permdesc_accessWimaxState">"Permet que l'aplicació determini si WiMAX està activat i que vegi la informació sobre totes les xarxes WiMAX que estan connectades."</string>
     <string name="permlab_changeWimaxState">"Canvia l'estat de WiMAX"</string>
-    <string name="permdesc_changeWimaxState">"Permet que l'aplicació connecti i desconnecti la tauleta de les xarxes WiMAX."</string>
+    <string name="permdesc_changeWimaxState">"Permet que l'aplicació connecti i desconnecti el telèfon de les xarxes WiMAX."</string>
     <string name="permlab_bluetooth">sincronització amb dispositius Bluetooth</string>
-    <string name="permdesc_bluetooth">"Permet que l'aplicació visualitzi la configuració de Bluetooth de la tauleta i que estableixi i accepti connexions amb dispositius sincronitzats."</string>
+    <string name="permdesc_bluetooth">Permet que una aplicació visualitzi la configuració de Bluetooth del telèfon i que estableixi i accepti connexions amb els dispositius sincronitzats.</string>
     <string name="permlab_nfc">controla Near Field Communication (NFC)</string>
     <string name="permdesc_nfc">"Permet que l'aplicació es comuniqui amb les etiquetes, les targetes i els lectors de Near Field Communication (NFC)."</string>
     <string name="permlab_disableKeyguard">desactivació del bloqueig de pantalla</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Defineix les normes de contrasenya</string>
     <string name="policydesc_limitPassword">Controla la longitud i els caràcters permesos a les contrasenyes de desbloqueig de pantalla.</string>
     <string name="policylab_watchLogin">"Control d'intents de desbloqueig de pantalla"</string>
-    <string name="policydesc_watchLogin">"Supervisa el nombre de contrasenyes incorrectes introduïdes per desbloquejar la pantalla i bloqueja la tauleta o n'esborra totes les dades si s'introdueixen massa contrasenyes incorrectes."</string>
+    <string name="policydesc_watchLogin">"Supervisa el nombre de contrasenyes incorrectes introduïdes en desbloquejar la pantalla, i bloqueja el telèfon o esborra totes les dades del telèfon si s'introdueixen massa contrasenyes incorrectes."</string>
     <string name="policylab_resetPassword">Canvia la contrasenya de desbloqueig de pantalla</string>
     <string name="policydesc_resetPassword">Canvia la contrasenya de desbloqueig de pantalla.</string>
     <string name="policylab_forceLock">Bloqueig de pantalla</string>
     <string name="policydesc_forceLock">Controla com i quan es bloqueja la pantalla.</string>
     <string name="policylab_wipeData">Esborra totes les dades</string>
-    <string name="policydesc_wipeData">Esborra les dades de la tauleta sense advertiment mitjançant un restabliment de les dades de fàbrica.</string>
+    <string name="policydesc_wipeData">Esborra les dades del telèfon sense advertiment mitjançant un restabliment de les dades de fàbrica.</string>
     <string name="policylab_setGlobalProxy">Defineix el servidor intermediari global del dispositiu</string>
     <string name="policydesc_setGlobalProxy">Defineix el servidor intermediari global del dispositiu que cal utilitzar mentre la política estigui activada. Només el primer administrador del dispositiu pot definir el servidor intermediari global efectiu.</string>
     <string name="policylab_expirePassword">Defineix caducitat de bloqueig de pantalla</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d %%</string>
     <string name="lockscreen_low_battery">Connecteu el carregador.</string>
     <string name="lockscreen_missing_sim_message_short">No hi ha cap targeta SIM.</string>
-    <string name="lockscreen_missing_sim_message">No hi ha cap targeta SIM a la tauleta.</string>
+    <string name="lockscreen_missing_sim_message">No hi ha cap targeta SIM al telèfon.</string>
     <string name="lockscreen_missing_sim_instructions">Insereix una targeta SIM.</string>
     <string name="lockscreen_missing_sim_instructions_long">Falta la targeta SIM o no es pot llegir. Insereix-ne una.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Targeta SIM no utilitzable.</string>
@@ -778,11 +778,11 @@ Torna-ho a provar d'aquí a %d segons."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Has escrit malament la contrasenya %d vegades. 
 
 Torna-ho a provar d'aquí a %d segons."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has dibuixat el patró de desbloqueig %d vegades de manera incorrecta. Després de %d intents incorrectes més, se't demanarà que desbloquegis la tauleta amb l'inici de sessió de Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Has dibuixat el patró de desbloqueig %d vegades de manera incorrecta. Després de %d intents incorrectes més, se't demanarà que desbloquegis el telèfon amb l'inici de sessió de Google.
 
  Torna-ho a provar d'aquí a %d segons."</string>
     <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">"Has provat de desbloquejar la tauleta %d vegades incorrectament. D'aquí a %d intents incorrectes més, la tauleta es restablirà a la configuració predeterminada de fàbrica i es perdran totes les dades dels usuaris."</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Has provat de desbloquejar la tauleta %d vegades incorrectament. Ara la tauleta es restablirà a la configuració predeterminada de fàbrica.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Has provat de desbloquejar el telèfon %d vegades incorrectament. Ara el telèfon es restablirà a la configuració predeterminada de fàbrica.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">"Torneu-ho a provar d'aquí a %d segons."</string>
     <string name="lockscreen_forgot_pattern_button_text">Heu oblidat el patró?</string>
     <string name="lockscreen_glogin_forgot_pattern">Desbloqueig del compte</string>
@@ -867,7 +867,7 @@ Estàs segur que vols sortir d'aquesta pàgina?"</string>
     <string name="permlab_readHistoryBookmarks">"lectura dels marcadors i l'historial web"</string>
     <string name="permdesc_readHistoryBookmarks">"Permet que l'aplicació llegeixi l'historial de tots els URL que has visitat amb el navegador i tots els marcadors. Nota: És possible que aquest permís no s'apliqui a navegadors de tercers o a altres aplicacions amb capacitats de navegació web."</string>
     <string name="permlab_writeHistoryBookmarks">"introducció de marcadors i d'historial web"</string>
-    <string name="permdesc_writeHistoryBookmarks">"Permet que l'aplicació modifiqui l'historial del navegador o els marcadors de la tauleta. Això pot permetre que l'aplicació esborri o modifiqui les dades del navegador. Nota: És possible que aquest permís no s'apliqui a navegadors de tercers o a altres aplicacions amb capacitats de navegació web."</string>
+    <string name="permdesc_writeHistoryBookmarks">"Permet que l'aplicació modifiqui l'historial del navegador o els marcadors del telèfon. Això pot permetre que l'aplicació esborri o modifiqui les dades del navegador. Nota: És possible que aquest permís no s'apliqui a navegadors de tercers o a altres aplicacions amb capacitats de navegació web."</string>
     <string name="permlab_setAlarm">"configuració d'una alarma"</string>
     <string name="permdesc_setAlarm">"Permet que l'aplicació defineixi una alarma en una aplicació de despertador instal·lada. És possible que algunes aplicacions de despertador no incorporin aquesta funció."</string>
     <string name="permlab_addVoicemail">afegeix bústia de veu</string>
@@ -901,7 +901,7 @@ Estàs segur que vols sortir d'aquesta pàgina?"</string>
     <string name="searchview_description_submit">Envia la consulta</string>
     <string name="searchview_description_voice">Cerca per veu</string>
     <string name="enable_explore_by_touch_warning_title">"Vols activar l'exploració tàctil?"</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s vol activar l'exploració tàctil. Quan l'exploració tàctil està activada, pots escoltar o veure les descripcions del contingut seleccionat o utilitzar gestos per interactuar amb la tauleta."</string>
+    <string name="enable_explore_by_touch_warning_message">"%1$s vol activar l'exploració tàctil. Quan l'exploració per tàctil està activada, pots escoltar o veure les descripcions del contingut seleccionat o utilitzar gestos per interactuar amb el telèfon."</string>
     <string name="oneMonthDurationPast">Fa 1 mes</string>
     <string name="beforeOneMonthDurationPast">"Fa menys d'1 mes"</string>
     <string name="last_month">El mes passat</string>
@@ -1025,7 +1025,7 @@ Vols tancar-la?"</string>
     <string name="wifi_p2p_to_message">Per a:</string>
     <string name="wifi_p2p_enter_pin_message">Introdueix el PIN sol·licitat:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">La tauleta es desconnectarà temporalment de la Wi-Fi mentre estigui connectada a %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">El telèfon es desconnectarà temporalment de la Wi-Fi mentre estigui connectat a %1$s</string>
     <string name="select_character">Insereix un caràcter</string>
     <string name="sms_control_title">"S'estan enviant missatges SMS"</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> està enviant molts missatges SMS. Vols permetre que aquesta aplicació continuï enviant missatges?</string>
@@ -1274,7 +1274,7 @@ per al compte %s."</string>
     <string name="SetupCallDefault">Vols acceptar la trucada?</string>
     <string name="activity_resolver_use_always">Sempre</string>
     <string name="activity_resolver_use_once">Només una vegada</string>
-    <string name="default_audio_route_name">Tauleta</string>
+    <string name="default_audio_route_name">Telèfon</string>
     <string name="default_audio_route_name_headphones">Auriculars</string>
     <string name="default_audio_route_name_dock_speakers">Altaveus del connector</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Torna-ho a provar d'aquí a %d segons."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Has dibuixat el patró de desbloqueig de manera incorrecta %d vegades. 
 
 Torna-ho a provar d'aquí a %d segons."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">"Has provat de desbloquejar la tauleta %d vegades de manera incorrecta. D'aquí a %d intents incorrectes més, la tauleta es restablirà a la configuració predeterminada de fàbrica i es perdran totes les dades dels usuaris."</string>
-    <string name="kg_failed_attempts_now_wiping">Has provat de desbloquejar la tauleta %d vegades de manera incorrecta. Ara la tauleta es restablirà a la configuració predeterminada de fàbrica.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Has dibuixat el patró de desbloqueig %d vegades de manera incorrecta. Després de %d intents incorrectes més, se't demanarà que desbloquegis la tauleta amb un compte de correu electrònic.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">"Has provat de desbloquejar el telèfon %d vegades de manera incorrecta. D'aquí a %d intents incorrectes més, el telèfon es restablirà a la configuració predeterminada de fàbrica i es perdran totes les dades dels usuaris."</string>
+    <string name="kg_failed_attempts_now_wiping">Has provat de desbloquejar el telèfon %d vegades de manera incorrecta. Ara el telèfon es restablirà a la configuració predeterminada de fàbrica.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Has dibuixat el patró de desbloqueig %d vegades de manera incorrecta. Després de %d intents incorrectes més, se't demanarà que desbloquegis el telèfon amb un compte de correu electrònic.
 
  Torna-ho a provar d'aquí a %d segons."</string>
     <string name="kg_text_message_separator">" — "</string>

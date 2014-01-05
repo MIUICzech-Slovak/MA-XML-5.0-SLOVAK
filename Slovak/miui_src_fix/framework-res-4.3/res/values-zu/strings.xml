@@ -179,9 +179,9 @@
     <string name="contentServiceSync">Vumelanisa</string>
     <string name="contentServiceSyncNotificationTitle">Vumelanisa</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Kunokususa %s okuningi kakhulu.</string>
-    <string name="low_memory">Isilondolozi sethebhulethi sigcwele! Susa amanye amafayela ukukhulula isikhala.</string>
+    <string name="low_memory">Isilondolozi sefoni sigcwele! Susa amanye amafayela ukukhulula isikhala.</string>
     <string name="me">Mina</string>
-    <string name="power_dialog">Okukhethwa kukho kwethebhulethi</string>
+    <string name="power_dialog">Okukhethwa kukho kwefoni</string>
     <string name="silent_mode">Imodi ethulile</string>
     <string name="turn_on_radio">Vula okungenantambo</string>
     <string name="turn_off_radio">Vala okungenantambo</string>
@@ -191,13 +191,13 @@
     <string name="silent_mode_vibrate">Ukudlidliza kweringa</string>
     <string name="silent_mode_ring">Iringa iyasebenza</string>
     <string name="shutdown_progress">Ivala shaqa...</string>
-    <string name="shutdown_confirm">Ithebhulethi yakho izocima.</string>
+    <string name="shutdown_confirm">Ifoni yakho izocima.</string>
     <string name="shutdown_confirm_question">Ingabe ufuna ukucisha?</string>
     <string name="reboot_safemode_title">Qala kabusha emodini ephephile</string>
     <string name="reboot_safemode_confirm">Ingabe ufuna ukuqala kabusha kumodi ephephile? Lokhu kuzokhubaza zonke izinhlelo zokusebenza ezivela eceleni ozifakile. Zizobuyiswa uma uqala kabusha futhi.</string>
     <string name="recent_tasks_title">Okwakamuva</string>
     <string name="no_recent_tasks">Azikho izinhlelo zokusebenza zakamuva</string>
-    <string name="global_actions">Okukhethwa konke kwethebhulethi</string>
+    <string name="global_actions">Okukhethwa kukho kwefoni</string>
     <string name="global_action_lock">Ukuvala isikrini</string>
     <string name="global_action_power_off">Vala amandla</string>
     <string name="global_action_bug_report">Umbiko wephutha</string>
@@ -302,9 +302,9 @@
     <string name="permlab_sendRespondViaMessageRequest">thumela imicimbi yokuphendula ngemilayezo</string>
     <string name="permdesc_sendRespondViaMessageRequest">Ivumela uhlelo lokusebenza ukuthumela izicelo kwezinye izinhlelo zokusebenza zemilayezo ukuphatha imicimbi yokuphendula ngemilayezo amakholi angenayo.</string>
     <string name="permlab_readSms">funda imilayezo yakho ebhaliwe (i-SMS noma i-MMS)</string>
-    <string name="permdesc_readSms">Ivumela uhlelo lokusebenza ukufunda imilayezo ye-SMS elondolozwe kuthebulethi noma ekhadini lakho le-SIM. Lokhu kuvumela uhlelo lokusebenza ukufunda yonke imilayezo ye-SMS, ngaphandle kokuqukethwe noma ukugcinwa kuyimfihlo.</string>
+    <string name="permdesc_readSms">Ivumela uhlelo lokusebenza ukufunda imilayezo ye-SMS elondolozwe efonini noma ekhadini lakho le-SIM. Lokhu kuvumela uhlelo lokusebenza ukufunda yonke imilayezo ye-SMS, ngaphandle kokuqukethwe noma ukugcinwa kuyimfihlo.</string>
     <string name="permlab_writeSms">hlela imiyalezo yakho yombhalo (i-SMS noma i-MMS)</string>
-    <string name="permdesc_writeSms">Ivumela insiza ukuthi ibhale imiylezo ye-SMS egcinwe ekhompyutheni yakho yepeni noma kwikhadi lakho le-SIM. Izinsiza ezinobungozi zingayisusa imiyalezo yakho.</string>
+    <string name="permdesc_writeSms">Ivumela insiza ukuthi ibhale imiylezo ye-SMS egcinwe ocingweni lwakh noma kwikhadi lakho le-SIM. Izinsiza ezinobungozi zingayisusa imiyalezo yakho.</string>
     <string name="permlab_receiveWapPush">thola imiyalezo ebhaliwe (i-WAP)</string>
     <string name="permdesc_receiveWapPush">Ivumela uhlelo lokusebenza ukuthola nokucubungula imilayezo ye-WAP. Le mvume ifaka phakathi amandla okungamela noma okwesusa imilayezo ethunyelwe kuwe ngaphandle kokukubonisa.</string>
     <string name="permlab_getTasks">thola izinsiza ezisebenzayo</string>
@@ -390,7 +390,7 @@
     <string name="permlab_freezeScreen">misa kancane isikrini</string>
     <string name="permdesc_freezeScreen">Ivumela uhlelo lokusebenza ukumisa okwesikhashana isikrini ngokushintshwa kwesikrini esigcwele.</string>
     <string name="permlab_injectEvents">chofoza okhiye nezinkinobho zokulawula</string>
-    <string name="permdesc_injectEvents">"Ivumela uhlelo lokusebenza ukuthi lizenzele izehlakalo zalo zokufaka (ukucindezela kokhiye, njll)  kwezinye izinhlelo zokusebenza. Izinhlelo zokusebenza ezinobungozi zingasebenzisa lokhu ukuthi zilawule ithebhulethi."</string>
+    <string name="permdesc_injectEvents">Ivumela insiza ukuthi ithumele imicimbi yayo (ukucindezelwa kwezinkinobho, njll) kwezinye izinsiza. Izinsiza ezinobungozi zingasebenzisa lokhu ukuthi zilawule ucingo.</string>
     <string name="permlab_readInputState">qopha lokho okuthayiphayo nezinyathelo ozithathayo</string>
     <string name="permdesc_readInputState">Ivumela insiza ukuthi ibheke izinkinobho ozicindezelayo ngisho ngabe usebenzisana nezinye izinsiza (njengokubhala amaphasiwedi). Akufanele kudingakele izinsiza ezijwayelekile.</string>
     <string name="permlab_bindInputMethod">hlanganisa indlela yokufakwayo</string>
@@ -416,7 +416,7 @@
     <string name="permlab_signalPersistentProcesses">Thumela imifanekiso ye-Linu ezinsizeni</string>
     <string name="permdesc_signalPersistentProcesses">Ivumela insiza ukuthi icele ukuthi isiginali ethunyelwe idluliselwe kuzo zonke izinqubeko ezisalelayo.</string>
     <string name="permlab_persistentActivity">yenza insiza ukuthi ihlale isebenza</string>
-    <string name="permdesc_persistentActivity">Ivumela uhlelo kusebenza ukwenza izingxenye yazo ezicindezelayo kumemori. Lokhu kungakhawulela imemori ekhona kwezinye izinhlelo zokusebenza ukwenza ukuthi ithebhulethi ingasheshi.</string>
+    <string name="permdesc_persistentActivity">Ivumela uhlelo kusebenza ukwenza izingxenye yazo ezicindezelayo kumemori. Lokhu kungakhawulela imemori ekhona kwezinye izinhlelo zokusebenza ukwenza ukuthi ifoni ingasheshi.</string>
     <string name="permlab_deletePackages">susa izinsiza</string>
     <string name="permdesc_deletePackages">Ivumela insiza ukuthi isuse amaphakheji e=Android. Izinsiza ezinobungozi zingasebenzisa lokhu ukusasa izinsiza ezibalulekile.</string>
     <string name="permlab_clearAppUserData">susa eminye imininingwane yezinsiza</string>
@@ -428,17 +428,17 @@
     <string name="permlab_installPackages">faka ngqo izinsiza</string>
     <string name="permdesc_installPackages">Ivumela insiza ukuthi ifake amaphakheji e-Android amasha noma abuyekeziwe. Izinsiza ezinobungozi zngasebenzisa lokhu ukwengeza izinsiza ezintsha ezinemvume emndla.</string>
     <string name="permlab_clearAppCache">Susa yonke i-data egcinwe okwesikhashana yensiza</string>
-    <string name="permdesc_clearAppCache">Ivumela uhlelo lokusebenza ukukhulula isitoreji se-tablet ngokususa amafayela enqolobaneni yezinye izinhlelo zokusebenza. Lokhu kungabangela ezinye izinhlelo zokusebenza ukuqala kancane njengoba zidinga ukubuyisa idatha yazo.</string>
+    <string name="permdesc_clearAppCache">Ivumela uhlelo lokusebenza ukukhulula isitoreji sefoni ngokususa amafayela enqolobaneni yezinye izinhlelo zokusebenza. Lokhu kungabangela ezinye izinhlelo zokusebenza ukuqala kancane njengoba zidinga ukubuyisa idatha yazo.</string>
     <string name="permlab_movePackage">hambis izinto zensiz</string>
     <string name="permdesc_movePackage">Ivumela insiza ukuthi ihambise izinto eziqukethwe insiz izisusa emidiyeni yangaphakathi kuya kweyangaphandle njalonjalo.</string>
     <string name="permlab_readLogs">funda idatha yefayela lokungena ebucayi</string>
-    <string name="permdesc_readLogs">Ivumela uhlelo lokusebenza ukufunda umafayela okungena ohlelo oluhlukene. Lokhu kuvumela ukuthola ukwaziswa okuvamile mayelana nokuthi wenzani ngethebhulethi, kodwa akumele kuqukethe ukwaziswa komuntu siqu noma okuyimfihlo.</string>
+    <string name="permdesc_readLogs">Ivumela uhlelo lokusebenza ukufunda kumafayela okungena ahlukene esistimu. Lokhu kuvumela ukuthola ukwaziswa okuvamile mayelana nokuthi wenzani ngefoni, kuhlanganise ukwaziswa komuntu siqu noma kwangasese.</string>
     <string name="permlab_anyCodecForPlayback">sebenzisa noma isiphi isiqophi semidiya ukudlala</string>
     <string name="permdesc_anyCodecForPlayback">Ivumela insiza ukusebenzisa noma isiphi isiqophi semidiya esifakiwe ukuqopha ukudlala.</string>
     <string name="permlab_diagnostic">funda/bhalela emithombweni ephethwe idayegi</string>
     <string name="permdesc_diagnostic">Ivumela uhlelo lokusebenza ukufunda nokubhala kunoma yimuphi umthombo weqembu ledayegi; ngokwesibonelo, amafayela akwi/dev. Lokhu kungase kuthinte kakhulu ukuba nokuphepha kohlelo. Lokhu kumele kusebenziselwe KUPHELA ukuhlola ihadiwe okucacile ngumkhiqizi noma u-opheretha.</string>
     <string name="permlab_changeComponentState">vumela noma vimbela izingxenye zensiza</string>
-    <string name="permdesc_changeComponentState">Ivumela ukuthi insiza iguqule ukuthi okuqukethwe kwenye insiza kuyasebenza noma cha. Izinsiza ezinobungozi zingasebenzisa lokhu ukwenza ukuthi izinto ezisemqoka ekhompyutheni yepeni zingasebenzi. Kufanele kuqashelwe uma kukhishwa lemvume njengoba kungenzeka kwenze izinto zensiza zibe sesimweni esingazinzile, nesiguquguqukayo.</string>
+    <string name="permdesc_changeComponentState">Ivumela ukuthi insiza iguqule ukuthi okuqukethwe kwenye insiza kuyasebenza noma cha. Izinsiza ezinobungozi zingasebenzisa lokhu ukwenza ukuthi izinto ezisemqoka ocingweni zingasebenzi. Kufanele kuqashelwe uma kukhishwa lemvume njengoba kungenzeka kwenze izinto zensiza zibe sesmweni esingazinzile, nesiguquguqukayo.</string>
     <string name="permlab_grantRevokePermissions">nika noma buyisa izimvume</string>
     <string name="permdesc_grantRevokePermissions">Ivumela izinhlelo zokusebenza ukunika noma ukubuyisa izimvume ezithile zayo noma ezinye izinhlelo zokusebenza. Izinhlelo zokusebenza ezingalungile zingasebenzisa lokhu ukufinyelela izici ongazinikanga zona.</string>
     <string name="permlab_setPreferredApplications">setha izinsiza ezincamelwayo</string>
@@ -450,17 +450,17 @@
     <string name="permlab_writeGservices">guqula ibalazwe lesevisi ye-Google</string>
     <string name="permdesc_writeGservices">Ivumela insiza ukuthi iguqule imephu yezinsizakalo ze-Google. Ayisetshenziswa izinsiza ezijwayelekile.</string>
     <string name="permlab_receiveBootCompleted">qalisa esiqalisweni sezinhlelo</string>
-    <string name="permdesc_receiveBootCompleted">Ivumela uhlelo lokusebenza ukuthi luziqalise ngokushesha emuva kokuba isistimu isiqedile ukubhutha. Lokhu kwenza ukuthi ithathe isikhathi esithe ukuba side ukuqalise ithebhulethi nokuvumela izinhlelo zokusebenza ukuthi inciphise yonke ithebhulethi ngokuthi isebenze njalo.</string>
+    <string name="permdesc_receiveBootCompleted">Ivumela insiza ukuthi iziqalise ngokushesha uma isistiu isiqedile ukubhutha. Lokhu kungenz ukuthi kuthathe isikhathi esithe ukuba side ukuqalisa ucingo nokuvuela insiz ukuthi inciphise ucingo lonke ngokuthi luhlale lusebenza.</string>
     <string name="permlab_broadcastSticky">thumela ukusakaza okunamathelayo</string>
-    <string name="permdesc_broadcastSticky">Ivumela uhlelo lokusebenza ukuthumela ukusakaza okunamathelayo, okusalayo emva kokuba ukusakazwa sekuphelile. Ukusebenzisa kakhulu kuhle kwenze ithebhulethi ukuthi ingasheshi noma ingahlali kahle ngokuyibangela ukusebenzisa imemori eningi.</string>
+    <string name="permdesc_broadcastSticky">Ivumela uhlelo lokusebenza ukuthumela ukusakaza okunamathelayo, okusalayo emva kokuba ukusakazwa sekuphelile. Ukusebenzisa kakhulu kuhle kwenze ifoni ukuthi ingasheshi noma ingahlali kahle ngokuyibangela ukusebenzisa imemori eningi.</string>
     <string name="permlab_readContacts">funda oxhumana nabo</string>
-    <string name="permdesc_readContacts">Ivumela uhlelo lokusebenza ukufunda idatha mayelana noxhumana nabo abalondolozwe kuthebhulethi yakho, kufaka phakathi nobuningi obushayele, wathumela i-imeyili, noma oxhumene nabo ngezinye izindlela nomuntu oyedwa. Le mvume ivumela izinhlelo zokusebenza ukulondoloza idatha yoxhumana nabo, izinhlelo zokusebenza ezingalungile zingaba idatha yokuxhumana ngaphandle kolwazi lakho.</string>
+    <string name="permdesc_readContacts">Ivumela uhlelo lokusebenza ukufunda idatha mayelana noxhumana nabo abalondolozwe efonini yakho, kufaka phakathi nobuningi obushayele, wathumela i-imeyili, noma oxhumene nabo ngezinye izindlela nomuntu oyedwa. Le mvume ivumela izinhlelo zokusebenza ukulondoloza idatha yoxhumana nabo, izinhlelo zokusebenza ezingalungile zingaba idatha yokuxhumana ngaphandle kolwazi lakho.</string>
     <string name="permlab_writeContacts">shintsha oxhumana nabo</string>
-    <string name="permdesc_writeContacts">Ivumela uhlelo lokusebenza ukushintsha idatha mayelana noxhumana nabo abalondolozwe kuthebhulethi yakho, kufaka phakathi ubuningi bokushayela, ukuthumela i-imeyili, noma oxhumene nabo ngezinye izindlela. Le mvume ivumela izinhlelo zokusebenza ukususa idatha yoxhumana nabo.</string>
+    <string name="permdesc_writeContacts">Ivumela uhlelo lokusebenza ukushintsha idatha mayelana noxhumana nabo abalondolozwe efonini yakho, kufaka phakathi ubuningi bokushayela, ukuthumela i-imeyili, noma oxhumene nabo ngezinye izindlela. Le mvume ivumela izinhlelo zokusebenza ukususa idatha yoxhumana nabo.</string>
     <string name="permlab_readCallLog">funda irekhodi lamakholi</string>
-    <string name="permdesc_readCallLog">Ivumela uhlelo lokusebenza ukufunda irekhodi lwamakholi ethebhulethi yakho, kufaka phakathi idatha mayelana namakholi angenayo noma aphumayo. Le mvume ivumela izinhlelo zokusebenza ukulondoloza idatha yakho yerekhodi lwamakholi, nezinhlelo zokusebenza ezingalungile zongaba idatha yerekhodi lwamakholi ngaphandle kolwazi lakho.</string>
+    <string name="permdesc_readCallLog">Ivumela uhlelo lokusebenza ukufunda irekhodi lwamakholi efoni yakho, kufaka phakathi idatha mayelana namakholi angenayo noma aphumayo. Le mvume ivumela izinhlelo zokusebenza ukulondoloza idatha yakho yerekhodi lwamakholi, nezinhlelo zokusebenza ezingalungile zongaba idatha yerekhodi lwamakholi ngaphandle kolwazi lakho.</string>
     <string name="permlab_writeCallLog">bhala irekhodi lamakholi</string>
-    <string name="permdesc_writeCallLog">Ivumela uhlelo lokusebenza ukushintsha ilogi yekholi yethebulethi yakho, kufaka phakathi idatha mayelana namakholi angenayo naphumayo. Izinhlelo zikusebenza ezingalungile zingasebenzisa lokhu ukusula noma ukushintsha irekhodi lwamakholi wakho.</string>
+    <string name="permdesc_writeCallLog">Ivumela uhlelo lokusebenza ukushintsha irekhodi lamakholi efoni yakho, kufaka phakathi idatha emayelana namakholi angenayo naphumayo. Izinhlelo zikusebenza ezingalungile zingasebenzisa lokhu ukusula noma ukushintsha irekhodi lwamakholi wakho.</string>
     <string name="permlab_readProfile">funda ikhadi lakho lokuxhumana</string>
     <string name="permdesc_readProfile">Ivumela uhlelo lokusebenza ukuthi lifunde ulwazi lephrofayela lomuntu siqu olugcinwe kudivayisi yakho njengegama lakho kanye nolwazi lokuxhumana. Lokhu kuchaza ukuthi uhlelo lokusebenza lingakuhlonza bese lithumelela abanye ulwazi lakho lephrofayela.</string>
     <string name="permlab_writeProfile">guqula ikhadi lakho lokuxhumana</string>
@@ -470,9 +470,9 @@
     <string name="permlab_writeSocialStream">bhala indlela yakho yokuxhumana nabantu</string>
     <string name="permdesc_writeSocialStream">Ivumela uhlelo lokusebenza ukubonisa izibuyekezo zomphakathi ezivela kubangani bakho. Qaphela uma wabelana ngolwazi -- lokhu kuvumela uhlelo lokusebenza ukukhiqiza imilayezo engabonakala sengathi ivela kumngani. Qaphela: le mvume kungenzeka ingaphoqelelwa kuwo onke amanethiwekhi omphakathi.</string>
     <string name="permlab_readCalendar">funda imicimbi yekhalenda kanye nokwaziswa okuyimfihlo</string>
-    <string name="permdesc_readCalendar">Ivumela uhlelo lokusebenza ukufunda zonke izehlakalo zekhalenda ezilondolozwe kuthebhulethi yakho, kufaka phakathi lezo zabangani noma osebenza nabo. Lokhu kungavumela uhlelo lokusebenza ukwabelana noma ukulondoloza idatha yakho yekhalenda, ngaphandle kokugcinwa kuyimfihlo noma ukuzwela.</string>
+    <string name="permdesc_readCalendar">Ivumela uhlelo lokusebenza ukufunda zonke izehlakalo zekhalenda ezilondolozwe efonini yakho, kufaka phakathi lezo zabangani noma osebenza nabo. Lokhu kungavumela uhlelo lokusebenza ukwabelana noma ukulondoloza idatha yakho yekhalenda, ngaphandle kokugcinwa kuyimfihlo noma ukuzwela.</string>
     <string name="permlab_writeCalendar">ngeza noma guqula imicimbi yekhalenda bese uthumela ama-imeyili kuzivakashi ngaphandle kolwazi lomnikazi</string>
-    <string name="permdesc_writeCalendar">Ivumela uhlelo lokusebenza ukungeza, ukususa, ukushintsha izehlakalo ongazishintsha kuthebhulethi yakho, kufaka phakathi nalezo zabangani noma labo osebenza nabo. Lokhu kungavumela uhlelo lokusebenza ukuthumela imilayezo ebonakala ngathi ivela kubanikazi bekhalenda, noma lishintshe izehlakalo ngaphandle kolwazi labanikazi.</string>
+    <string name="permdesc_writeCalendar">Ivumela uhlelo lokusebenza ukungeza, ukususa, ukushintsha izehlakalo ongazishintsha efonini yakho, kufaka phakathi nalezo zabangani noma labo osebenza nabo. Lokhu kungavumela uhlelo lokusebenza ukuthumela imilayezo ebonakala ngathi ivela kubanikazi bekhalenda, noma lishintshe izehlakalo ngaphandle kolwazi labanikazi.</string>
     <string name="permlab_accessMockLocation">lungisela imithombo yendawo ukuhlolwa</string>
     <string name="permdesc_accessMockLocation">Dala imithombo yendawo ye-mock ngokuhlola noma ukufaka umnikeli wendawo omusha. Lokhu kuvumela uhlelo lokusebenza ukubhala ngaphezulu indawo kanye/noma isimo esibuyiswe eminye imithombo yendawo njenge-GPS noma abanikeli bendawo.</string>
     <string name="permlab_accessLocationExtraCommands">finyelela kweminye imiyalo yokunikeza indawo</string>
@@ -499,10 +499,10 @@
     <string name="permdesc_camera">Ivumela uhlelo lokusebenza ukuthatha izithombe namavidiyo ngekhamera. Le mvume ivumela uhlelo lokusebenza ukusebenzisa ikhamera nganoma isiphi isikhathi ngaphandle kwemvume yakho.</string>
     <string name="permlab_cameraDisableTransmitLed">khubaza i-LED yesikhombi sokudlulisa uma ikhamera isebenza</string>
     <string name="permdesc_cameraDisableTransmitLed">Ivumela isistimu efakwe ngaphambili yohlelo lokusebenza ukuze ikhubaze i-LED yesikhombi sokusetshenziswa kwekhamera.</string>
-    <string name="permlab_brick">vimbela ngokuphelele ithebhulethi</string>
-    <string name="permdesc_brick">Ivumela uhlelo lokusebenza ukuvimbela yonke ithebhulethi ngokuphelele. Lokhu kuyingozi kakhulu.</string>
-    <string name="permlab_reboot">phoqelela ukuqalisa phansi ithebhulethi</string>
-    <string name="permdesc_reboot">Ivumela uhlelo lokusebenza ukuphoqelela ithebhulethi ukuqalisa phansi.</string>
+    <string name="permlab_brick">ngokwaphakade vimbela ifoni</string>
+    <string name="permdesc_brick">Ivumela uhlelo lokusebenza ukuvimbela yonke ifoni ngokuphelele. Lokhu kuyingozi kakhulu.</string>
+    <string name="permlab_reboot">phoqelela ifoni ukuba iqalise kabusha</string>
+    <string name="permdesc_reboot">Ivumela uhlelo lokusebenza ukuphoqelela ifoni ukuqalisa phansi.</string>
     <string name="permlab_mount_unmount_filesystems">finyelela ohlelweni lokufayela lwe-USB</string>
     <string name="permdesc_mount_unmount_filesystems">Ivumela izinhlelo ukugibelisa nokukwehlisa izinhlelo zefayela zokugcina okukhiphekayo.</string>
     <string name="permlab_mount_format_filesystems">susa okokulondoloza kwe-USB</string>
@@ -531,7 +531,7 @@
     <string name="permdesc_callPhone">Ivumela uhlelo lokusebenza ukushayela izinombolo zefoni ngaphandle kokuhlanganyela kwakho. Lokhu kungaholela emashajini noma amakholi angalindelekile. Qaphela ukuthi lokhu akuvumeli uhlelo lokusebenza ukushayela izinombolo zesimo esiphuthumayo. Izinhlelo zokusebenza ezingalungile zingabiza imali ngokwenze amakholi ngaphandle kokuqinisekisa kwakho.</string>
     <string name="permlab_callPrivileged">ngokuqondile shayela noma iziphi izinombolo zocingo.</string>
     <string name="permdesc_callPrivileged">Ivumela insiza ukuth ishayele noma iyiphi inombolo okubandakanya nezinombolo eziphuthumayo ngaphandle kokugammbukela. zinsiza ezinobungozi zingafaka izingcingo ezingenasiidngo nezingekho emthethweni esevisini ephuthumayo.</string>
-    <string name="permlab_performCdmaProvisioning">ngokuqondile qalisa ukumisa ithebhulethi nge-CDMA</string>
+    <string name="permlab_performCdmaProvisioning">ngokuqondile qalisa ukumisa ifoni nge-CDMA</string>
     <string name="permdesc_performCdmaProvisioning">Ivumela insiza ukuqalisa amalungiselelo e-CDMA. Izinsiza ezinobungozi ingaqalisa amalungiselelo e-CDMA ngokungenasidingo.</string>
     <string name="permlab_locationUpdates">lawula izaziso zokubuyekeza indawo</string>
     <string name="permdesc_locationUpdates">Ivumela ukuthi insiza yenze izaziso zendawo zisebenze noma zingasebenzi emsakazweni. Ayenzelwe ukuthi isetshenziswe izinsiza ezijwayelekile.</string>
@@ -543,12 +543,12 @@
     <string name="permdesc_modifyPhoneState">Ivumela ukuthi insiza ilawule okuqukethwe ocingweni edivayisini. Insiza enalemvume ingaguquguqula amanethwekhi, ivule umsakazo wocingo iphinde iwucishe kanye nokunye okufana nalokho ngaphandle kokukwazisa.</string>
     <string name="permlab_readPhoneState">funda isimo sefoni kanye nesazisi</string>
     <string name="permdesc_readPhoneState">Ivumela uhlelo lokusebenza ukufinyelela izici zefoni zedivayisi. Le mvume ivumela uhlelo lokusebenza ukucacisa inombolo yefoni nobunikazi bedivayisi, ukuthi noma ikholi iyasebenza, futhi nenombolo yesilawuli kude zixhunywe ngekholi.</string>
-    <string name="permlab_wakeLock">gwema ithebhulethi ukuba ingalali</string>
-    <string name="permdesc_wakeLock">Ivumela uhlelo lokusebenza ukuthi linqande ithebulethi yakho ukuthi ilale.</string>
+    <string name="permlab_wakeLock">gwema ifoni ukuba ingalali</string>
+    <string name="permdesc_wakeLock">Ivumela insiza ukuthi inqande ucingo ukuthi lulale.</string>
     <string name="permlab_devicePower">amandla efoni avuliwe noma avaliwe</string>
-    <string name="permdesc_devicePower">Ivumela uhlelo lokusebenza ukuvala noma ukuvula ithebhulethi.</string>
+    <string name="permdesc_devicePower">Ivumela uhlelo lokusebenza ukuvula noma ukuvala ifoni.</string>
     <string name="permlab_factoryTest">sebenzisa kwimodi yokuhlola yemboni</string>
-    <string name="permdesc_factoryTest">Sebenzise njengokuhlola komkhiqizi wezinga eliphansi, uvumela ukufinyelela okugcwele ihadiwe yethebhulethi. Itholakala kuphela lapho ithebhulethi isebenza kwimodi yokuhlola yomkhiqizi.</string>
+    <string name="permdesc_factoryTest">Sebenzise njengokuhlola komkhiqizi wezinga eliphansi, uvumela ukufinyelela okugcwele ihadiwe yefoni. Itholakala kuphela lapho ifoni isebenza kwimodi yokuhlola yomkhiqizi.</string>
     <string name="permlab_setWallpaper">setha iphephadonga</string>
     <string name="permdesc_setWallpaper">Ivumela uhlelo lokusebenza ukumisa iphephadonga lohlelo.</string>
     <string name="permlab_setWallpaperHints">shintsha usayizi wesithombe sakho sangemuva</string>
@@ -556,13 +556,13 @@
     <string name="permlab_masterClear">setha kabusha kube okumisiwe kwemboni</string>
     <string name="permdesc_masterClear">Ivuela insiza ukuthi isethe kabusha isistiu ngokuphelele iyibuyisele ezisethweni eyafika nazo, isusa konke ukumisw kwemininingwane, kanye nezinsiza ezifakiwe.</string>
     <string name="permlab_setTime">setha isikhathi</string>
-    <string name="permdesc_setTime">Ivumela insiza ukuthi iguqule isikhathi esisekhompyutheni yepeni.</string>
+    <string name="permdesc_setTime">Ivumela insiza ukuth iguqule isikhathi esisocingweni.</string>
     <string name="permlab_setTimeZone">setha umkhawulo wesikhathi</string>
-    <string name="permdesc_setTimeZone">Ivumela insiza ukuthi iguqule umkhawulo wesikhathi sekhompyutha yepeni.</string>
+    <string name="permdesc_setTimeZone">Ivumela insiza ukuth iguqule isikhathi esisocingweni.</string>
     <string name="permlab_accountManagerService">yenza njenge Nsizakalo Yemeneja ye-Akhawunti</string>
     <string name="permdesc_accountManagerService">Ivumela insiza ukuthi ishaye izingcingo Kokokuqinisekisa Ama-akhawunti.</string>
     <string name="permlab_getAccounts">thola ama-akhawunti edivayisini</string>
-    <string name="permdesc_getAccounts">Ivumela uhlelo lokusebenza ukuthola uhlu lwama-akhawunti aziwa ithebhulethi. Lokhu kufaka phakathi noma yimaphi ama-akhawunti adalwe izinhlelo zokusebenza ozifakile.</string>
+    <string name="permdesc_getAccounts">Ivumela uhlelo lokusebenza ukuthola uhlu lwama-akhawunti aziwa ifoni. Lokhu kufaka phakathi noma yimaphi ama-akhawunti adalwe izinhlelo zokusebenza ozifakile.</string>
     <string name="permlab_authenticateAccounts">yakha ama-akhawunti bese usetha amaphasiwedi</string>
     <string name="permdesc_authenticateAccounts">Ivumela uhlelo lokusebenza ukusebenzisa amakhono okufakazela ubuqiniso e-akhawunti Emeneja ye-Akhawunti, kuhlanganise ukwenza ama-akhawunti ngisho nokumisa amaphasiwedi ayo.</string>
     <string name="permlab_manageAccounts">engeza noma ukhiphe ama-akhawunti</string>
@@ -586,15 +586,15 @@
     <string name="permlab_changeWifiState">xhuma uphinde unqamule kwi-Wi-Fi</string>
     <string name="permdesc_changeWifiState">Ivumela uhlelo lokusebenza ukuxhuma nokunqamula kumaphoyinti okufinyelela e-Wi-Fi nokwenza izinguquko ekucushweni kwedivayisi kwamanethiwekhi e-Wi-Fi.</string>
     <string name="permlab_changeWifiMulticastState">ivumela isamukeli se-Wi-Fi Multicast</string>
-    <string name="permdesc_changeWifiMulticastState">Ivumela uhlelo lokusebenza ukuthola amaphakethe athunyelwe kuwo onke amadivayisi kunethiwekhi ye-Wi-Fi asebenzisa amakheli amaningi okusakaza, hhayi nje ithebhulethi yakho. Isebenzisa amandla aminingi ukudlula imodi okungeyona yokusakaza okuningi.</string>
+    <string name="permdesc_changeWifiMulticastState">Ivumela uhlelo lokusebenza ukuthola amaphakethe athunyelwe kuwo onke amadivayisi kunethiwekhi ye-Wi-Fi asebenzisa amakheli amaningi okusakaza, hhayi nje ifoni yakho. Isebenzisa amandla aminingi ukudlula imodi okungeyona yokusakaza okuningi.</string>
     <string name="permlab_bluetoothAdmin">finyelela kuzilungiselelo ze-Bluetooth</string>
-    <string name="permdesc_bluetoothAdmin">Ivumela uhlelo lokusebenza ukumisa ithebhulethi ye-Bluetooth yasendawni, nokuthola nokubhanqanisa namadivaysi okulawula okukude.</string>
+    <string name="permdesc_bluetoothAdmin">Ivumela uhlelo lokusebenza ukumisa ifoni ye-Bluetooth yasendawni, nokuthola nokubhanqanisa namadivaysi okulawula okukude.</string>
     <string name="permlab_accessWimaxState">xhuma futhi unqamule kusuka ku-WiMAX</string>
     <string name="permdesc_accessWimaxState">Ivumela uhlelo lokusebenza ukucacisa ukuthi ingabe i-WiMAX inikwe amandla futhi ulwazi mayelana namanethiwekhi e-WiMAX axhunyiwe.</string>
     <string name="permlab_changeWimaxState">Shintsha isimo se-WiMAX</string>
-    <string name="permdesc_changeWimaxState">Ivumela uhlelo lokusebenza ukuxhuma ithebhulethi nokunqamula ithebhulethi kumanethiwekhi e-WiMAX.</string>
+    <string name="permdesc_changeWimaxState">Ivumela uhlelo lokusebenza ukuxhuma ifoni nokuyinqamula kumanethiwekhi e-WiMAX.</string>
     <string name="permlab_bluetooth">matanisa namadivayisi e-Bluetooth</string>
-    <string name="permdesc_bluetooth">Ivumela uhlelo lokusebenza ukubuka ukucushwa kwe-Bluetooth kuthebhulethi, nokwenza futhi nokwamukela uxhumo namadivayisi amatanisiwe.</string>
+    <string name="permdesc_bluetooth">Ivumela uhlelo lokusebenza ukubuka ukucushwa kwe-Bluetooth efonini, ukwenza futhi nokwamukela uxhumo namadivayisi amatanisiwe.</string>
     <string name="permlab_nfc">lawula Uxhumano Lwenkambu Eseduze</string>
     <string name="permdesc_nfc">Ivuela insiza ukuthi ixhumane ne-Near Field Communication (NFC) amathegi, amakhadi kanye nezinhlelo zokufunda.</string>
     <string name="permlab_disableKeyguard">khubaza ukukhiya kwakho iskrini</string>
@@ -638,13 +638,13 @@
     <string name="policylab_limitPassword">Misa imithetho yephasiwedi</string>
     <string name="policydesc_limitPassword">Lawula ubude nezinhlamvu ezivunyelwe kumaphasiwedi okuvula isikrini</string>
     <string name="policylab_watchLogin">Gaka imizamo yokuvula isikrini</string>
-    <string name="policydesc_watchLogin">Bheka inani lamaphasiwedi angafanele athayishiwe uma kuvulwa iskrini bese kuvalwa ithebhulethi noma kususwe yonke idatha yethebhulethi uma kubhalwe amaphasiwedi amaningi angalungile.</string>
+    <string name="policydesc_watchLogin">Bheka isibalo samaphasiwedi ngalungile afakiwe uma uvula iskrini bese uvala ucingo noma ususe yonke imininingwane yocingo uma kubhalwe amaphasiwedi amaningi angalungile.</string>
     <string name="policylab_resetPassword">Shintsha iphasiwedi yokuvula isikrini</string>
     <string name="policydesc_resetPassword">Shintsha iphasiwedi yokuvula isikrini</string>
     <string name="policylab_forceLock">Vala isikrini</string>
     <string name="policydesc_forceLock">Lawula ukuthi isikrini sivala kanjani futhi nini</string>
     <string name="policylab_wipeData">Sula yonke idatha</string>
-    <string name="policydesc_wipeData">Sula idatha yethebhulethi ngaphandle kwesaziso, ngokwenza ukusetha kabusha kwemboni.</string>
+    <string name="policydesc_wipeData">Sula idatha yefoni ngaphandle kwesixwayiso, ngokwenza ukuhlela kabusha idatha yemboni</string>
     <string name="policylab_setGlobalProxy">Misa ummelelii jikelele yedivaysi</string>
     <string name="policydesc_setGlobalProxy">Misa iphrokzi jikelele yedivaysi ukusebenzisa ngenkathi inqumbomgomo ivunyelwa. Idivaysi yokuqala kuphela yokuphatha emisa ummeleli jikelele esebenzayo.</string>
     <string name="policylab_expirePassword">Hlela ukuphelelwa isikhathi sokuvala-isikrini.</string>
@@ -777,11 +777,11 @@ Zama futhi %d imizuzwna."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Ubhale i-PIN ykho ngendlela engafanele %d izikhathi. 
 
 Zama futhi emuva kwamasekhondi angu-%d."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Udwebe ngokungalungile iphathini yakho yokuvula izikhathi ezingu-%d. Emva %d kweminye imizamo engaphumelelanga, uzocelwa ukuvula ithebhulethi yakho usebenzisa ukungena ngemvume kwi-Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Ukulayisha ungenisa iphathini yakho yokuvula ngendlela engalungile izikhathi ezingu-%d Emumva kweminye imizamo engu-%d, uzocelwa ukuvula ifoni yakho usebenzisa ukungena ngemvume ku-Google
 
- Sicela uzame futhi emuva kwamasekhondi angu-%d"</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Uzame ngokusebenzisa indlela engafanele ukuvula izikhathi %d ze-tablet. Ngemuva %d kokuzama kaningana okuyimpumelelo i-tablet izobuyela kwizimo zasembonini futhi yonke imininingo yomsebenzisi izolahleka.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Uzame ukuvula ngendlela engafanele izikhathi %d ze-tablet. I-tablet manje seyizosethwa kabusha ibe yizimiso zasembonini.</string>
+ Zame futhi emuva kwamasekhondi angu- %d"</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Uzame ngokusebenzisa indlela engafanele ukuvula izikhathi %d zocingo. Ngemuva %d kokuzama kaningana ngaphandle kwempumelelo, ucingo luzobiyiselwa kwizimiso zasembonini futhi yonke imininingo yomsebenzisi izolahleka.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Uzame ukuvula ngendlela engafanele izikhathi %d zocingo. Ucingo manje seyizosethwa kabusha ibe yizimiso zasembonini.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Zama futhi emasekhondini angu-%d.</string>
     <string name="lockscreen_forgot_pattern_button_text">Ukhohlwe iphethini?</string>
     <string name="lockscreen_glogin_forgot_pattern">Ukuvulwa kwe-akhawunti</string>
@@ -866,7 +866,7 @@ Ingabe uqinisekile ukuthi ufuna ukuzulazulela ngokuphuma kuleli khasi?"</string>
     <string name="permlab_readHistoryBookmarks">funda amabhukhimakhi akho ewebhu kanye nomlando</string>
     <string name="permdesc_readHistoryBookmarks">Ivumela uhlelo lokusebenza ukufunda umlando wawo onke ama-URL isiphequluli esiwavakashele, nawo onke amabhukhimaki esiphequluli. Qaphela: le mvume ngeke iphoqelelwe iziphequluli ezivela eceleni noma ezinye izinhlelo zokusebenza ezinamandla okuphequlula iwebhu.</string>
     <string name="permlab_writeHistoryBookmarks">bhala amabhukhimakhi ewebhu kanye nomlando</string>
-    <string name="permdesc_writeHistoryBookmarks">Ivumela uhlelo lokusebenza ukushintsha umlando wamabhukhimakhi noma wesiphequluli alondolozwe kuthebhulethi yakho. Lokhu kungavumela uhlelo lokusebenza ukususa noma ukushintsha idatha yesiphequluli. Qaphela: le mvume kungenzeka ingaphoqelelwa iziphequluli ezivela eceleni noma ezinye izinhlelo zokusebenza ezinamandla okuphequlula iwebhu.</string>
+    <string name="permdesc_writeHistoryBookmarks">Ivumela uhlelo lokusebenza ukushintsha umlando wamabhukhimakhi noma wesiphequluli alondolozwe efonini yakho. Lokhu kungavumela uhlelo lokusebenza ukususa noma ukushintsha idatha yesiphequluli. Qaphela: le mvume kungenzeka ingaphoqelelwa iziphequluli ezivela eceleni noma ezinye izinhlelo zokusebenza ezinamandla okuphequlula iwebhu.</string>
     <string name="permlab_setAlarm">setha i-alamu</string>
     <string name="permdesc_setAlarm">Ivumela insiza ukuthi isethe i-alamu ensizeni efkiwe ye-alamu. Ezinye izinsiza ze-alamu kungenzeka zingakusebenzisi lokho.</string>
     <string name="permlab_addVoicemail">engeza imeyili yezwi</string>
@@ -900,7 +900,7 @@ Ingabe uqinisekile ukuthi ufuna ukuzulazulela ngokuphuma kuleli khasi?"</string>
     <string name="searchview_description_submit">Thumela umbuzo</string>
     <string name="searchview_description_voice">Ukusesha ngezwi</string>
     <string name="enable_explore_by_touch_warning_title">Nika amandla i-Explore by Touch?</string>
-    <string name="enable_explore_by_touch_warning_message">I-%1$s ifuna ukunika amandla i-Explore by Touch. Uma i-Explore by Touch ikhanya, ungezwa noma ubone izincazelo ezingaphansi komunwe wakho noma wenze izenzo zomzimba ukuze uxhumane nethebhulethi.</string>
+    <string name="enable_explore_by_touch_warning_message">I-%1$s ifuna ukunika amandla i-Explore by Touch. Uma i-Explore by Touch ikhanya, ungezwa noma ubone izincazelo ezingaphansi komunwe wakho noma wenze izenzo zomzimba ukuze uxhumane nefoni.</string>
     <string name="oneMonthDurationPast">inyanga engu-1 edlule</string>
     <string name="beforeOneMonthDurationPast">Ngaphambi kwenyanga engu-1 edlule</string>
     <string name="last_month">Inyanga edlule</string>
@@ -1024,7 +1024,7 @@ Ingabe ufuna ukulivala na?"</string>
     <string name="wifi_p2p_to_message">Ku:</string>
     <string name="wifi_p2p_enter_pin_message">Faka i-PIN edingekayo:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Ithebulethi izonqamuka okwesikhashana ku-Wi-Fi ngenkathi ixhumeke ku-%1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">Ifoni izonqamuka okwesikhashana ku-Wi-Fi ngenkathi ixhumeke ku-%1$s</string>
     <string name="select_character">Faka uhlamvu</string>
     <string name="sms_control_title">Ithumela imiyalezo ye-SMS</string>
     <string name="sms_control_message">I-&lt;b>%1$s&lt;/b> ithumela inombolo enkulu yemilayezo ye-SMS. Ufuna ukuvumela lolu hlelo lokusebenza ukuqhubeka ukuthumela imilayezo?</string>
@@ -1273,7 +1273,7 @@ usebenzisa %s"</string>
     <string name="SetupCallDefault">Amukela ucingo?</string>
     <string name="activity_resolver_use_always">Njalo</string>
     <string name="activity_resolver_use_once">Kanye nje</string>
-    <string name="default_audio_route_name">Ithebulethi</string>
+    <string name="default_audio_route_name">Ifoni</string>
     <string name="default_audio_route_name_headphones">Ama-headphone</string>
     <string name="default_audio_route_name_dock_speakers">Izipikha ze-Dock</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1330,11 +1330,11 @@ Zama futhi emasekhondini angu-%d."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Udwebe iphathini yakho yokuvula ngendlela engafanele-%d. 
 
  Zama futhi emasekhondini angu-%d"</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Uzame ngokusebenzisa indlela engafanele ukuvula ithebhulethi izikhathi ezingu-%d. Ngemuva kokuzama ngaphandle kwempumelelo okungu-%d, ithebhulethi izobuyiselwa kwizimiso zasembonini futhi yonke imininingwane yomsebenzisi izolahleka.</string>
-    <string name="kg_failed_attempts_now_wiping">Uzame ukuvula ngendlela engafanele ifoni izikhathi ezingu-%d. Ithebhulethi manje isizosethwa kabusha ibe yizimiso ezizenzakalelayo.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Udwebe ngokungalungile iphathini yakho yokuvula izikhathi ezingu-%d. Emva %d kweminye imizamo engaphumelelanga, uzocelwa ukuvula ithebhulethi yakho usebenzisa ukungena ngemvume kwi-Google.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Uzame ngokusebenzisa indlela engafanele ukuvula ifoni izikhathi ezingu-%d. Ngemuva kokuzama ngaphandle kwempumelelo okungu-%d, ifoni izobuyiselwa kwizimiso zasembonini futhi yonke imininingwane yomsebenzisi izolahleka.</string>
+    <string name="kg_failed_attempts_now_wiping">Uzame ukuvula ngendlela engafanele ifoni izikhathi ezingu-%d. Ifoni manje isizosethwa kabusha ibe yizimiso ezizenzakalelayo.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Ukulayisha ungenisa iphathini yakho yokuvula ngendlela engalungile izikhathi ezi-%d Emva kweminye imizamo engu-%d, uzocelwa ukuvula ifoni yakho usebenzisa ukungena ngemvume ku-Google
 
- Sicela uzame futhi emuva kwamasekhondi angu-%d"</string>
+ Zame futhi emumva kwengu- %d amasekhondi."</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">Susa</string>
     <string name="safe_media_volume_warning">"Khulisa ivolomu ngaphezu kwezinga elinconyiwe?

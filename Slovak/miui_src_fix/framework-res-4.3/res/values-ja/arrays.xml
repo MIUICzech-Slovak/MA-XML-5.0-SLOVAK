@@ -37,6 +37,9 @@
         <item>その他</item>
         <item>カスタム</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>自宅</item>
         <item>仕事</item>

@@ -8,12 +8,12 @@
     <dimen name="notification_large_icon_width">64.0dip</dimen>
     <dimen name="notification_large_icon_height">64.0dip</dimen>
     <dimen name="config_prefDialogWidth">320.0dip</dimen>
-    <dimen name="config_viewConfigurationTouchSlop">12.0dip</dimen>
-    <dimen name="config_minScalingSpan">27.0mm</dimen>
+    <dimen name="config_viewConfigurationTouchSlop">8.0dip</dimen>
+    <dimen name="config_minScalingSpan">35.0mm</dimen>
     <dimen name="config_minScalingTouchMajor">48.0dip</dimen>
     <dimen name="toast_y_offset">64.0dip</dimen>
     <dimen name="status_bar_height">25.0dip</dimen>
-    <dimen name="navigation_bar_height">56.0dip</dimen>
+    <dimen name="navigation_bar_height">48.0dip</dimen>
     <dimen name="navigation_bar_height_landscape">48.0dip</dimen>
     <dimen name="navigation_bar_width">42.0dip</dimen>
     <dimen name="status_bar_icon_size">24.0dip</dimen>
@@ -119,4 +119,5 @@
     <dimen name="kg_edge_swipe_region_size">24.0dip</dimen>
     <dimen name="kg_squashed_layout_threshold">600.0dip</dimen>
     <dimen name="kg_small_widget_height">160.0dip</dimen>
+    <item type="dimen" name="APKTOOL_DUMMY_0078">false</item>
 </resources>

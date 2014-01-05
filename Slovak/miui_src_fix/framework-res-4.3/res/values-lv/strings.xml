@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Sinhronizācija</string>
     <string name="contentServiceSyncNotificationTitle">Sinhronizācija</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Pārāk daudz %s dzēsto vienumu.</string>
-    <string name="low_memory">Planšetdatora atmiņa ir pilna. Dzēsiet dažus failus, lai atbrīvotu vietu.</string>
+    <string name="low_memory">Tālruņa atmiņa ir pilna! Dzēsiet dažus failus, lai atbrīvotu vietu.</string>
     <string name="me">Man</string>
-    <string name="power_dialog">Planšetdatora opcijas</string>
+    <string name="power_dialog">Tālruņa opcijas</string>
     <string name="silent_mode">Klusuma režīms</string>
     <string name="turn_on_radio">Ieslēgt bezvadu tīklu</string>
     <string name="turn_off_radio">Izslēgt bezvadu tīklu</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Zvanītājs vibrācijas režīmā</string>
     <string name="silent_mode_ring">Zvanītājs ieslēgts</string>
     <string name="shutdown_progress">Notiek izslēgšana...</string>
-    <string name="shutdown_confirm">Planšetdators tiks beidzēts.</string>
+    <string name="shutdown_confirm">Tālrunis tiks izslēgts.</string>
     <string name="shutdown_confirm_question">Vai vēlaties izslēgt?</string>
     <string name="reboot_safemode_title">Atsāknēšana drošajā režīmā</string>
     <string name="reboot_safemode_confirm">Vai vēlaties veikt atsāknēšanu drošajā režīmā? Tādējādi tiks atspējotas visas instalētās trešo pušu lietojumprogrammas. To darbība tiks atjaunota, kad vēlreiz veiksiet atsāknēšanu.</string>
     <string name="recent_tasks_title">Nesens</string>
     <string name="no_recent_tasks">Nav nesen izmantotu lietotņu.</string>
-    <string name="global_actions">Planšetdatora opcijas</string>
+    <string name="global_actions">Tālruņa opcijas</string>
     <string name="global_action_lock">Ekrāna bloķētājs</string>
     <string name="global_action_power_off">Strāvas padeve ir izslēgta.</string>
     <string name="global_action_bug_report">Kļūdu ziņojums</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">nosūtīt “atbildēt ziņojumā” notikumus</string>
     <string name="permdesc_sendRespondViaMessageRequest">Ļauj lietotnei nosūtīt pieprasījumus citām ziņojumapmaiņas lietotnēm par “atbildēt ziņojumā” notikumu apstrādi ienākošajiem zvaniem.</string>
     <string name="permlab_readSms">lasīt ziņojumus (SMS vai MMS)</string>
-    <string name="permdesc_readSms">Ļauj lietotnei lasīt planšetdatorā vai SIM kartē saglabātās īsziņas. Tas ļauj lietotnei lasīt visas īsziņas, neraugoties uz to saturu vai konfidencialitāti.</string>
+    <string name="permdesc_readSms">Ļauj lietotnei lasīt tālrunī vai SIM kartē saglabātās īsziņas. Tas ļauj lietotnei lasīt visas īsziņas, neraugoties uz to saturu vai konfidencialitāti.</string>
     <string name="permlab_writeSms">rediģēt ziņojumus (SMS vai MMS)</string>
-    <string name="permdesc_writeSms">Ļauj lietotnei rakstīt īsziņās, kas ir saglabātas planšetdatorā vai SIM kartē. Ļaunprātīgas lietotnes var dzēst jūsu ziņojumus.</string>
+    <string name="permdesc_writeSms">Ļauj lietotnei rakstīt īsziņās, kas ir saglabātas tālrunī vai SIM kartē. Ļaunprātīgas lietotnes var dzēst jūsu ziņojumus.</string>
     <string name="permlab_receiveWapPush">saņemt īsziņas (WAP)</string>
     <string name="permdesc_receiveWapPush">Ļauj lietotnei saņemt un apstrādāt WAP ziņojumus. Šī atļauja ietver iespēju pārraudzīt vai dzēst jums nosūtītos ziņojumus, neparādot tos jums.</string>
     <string name="permlab_getTasks">izgūt izmantotās lietotnes</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">attēla “iesaldēšana”</string>
     <string name="permdesc_freezeScreen">Ļauj lietojumprogrammai īslaicīgi “iesaldēt” attēlu, lai pārietu uz pilnekrāna režīmu.</string>
     <string name="permlab_injectEvents">nospiest taustiņus un vadības pogas</string>
-    <string name="permdesc_injectEvents">Ļauj lietotnei rādīt savas ievades notikumus (nospiestos taustiņus u.c.) citās lietotnēs. Ļaunprātīgas lietotnes to var izmantot, lai pārņemtu planšetdatora vadību.</string>
+    <string name="permdesc_injectEvents">Ļauj lietotnei rādīt savas ievades notikumus (nospiestos taustiņus u.c.) citās lietotnēs. Ļaunprātīgas lietotnes to var izmantot, lai pārņemtu tālruņa vadību.</string>
     <string name="permlab_readInputState">reģistrēt rakstīto un veiktās darbības</string>
     <string name="permdesc_readInputState">Ļauj lietotnei skatīt taustiņus, ko nospiežat, pat ja darbojaties citā lietotnē (piemēram, ievadot paroli). Parastajām lietotnēm tas nekad nav nepieciešams.</string>
     <string name="permlab_bindInputMethod">saistīt ar ievades metodi</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">sūtīt Linux signālus lietotnēm</string>
     <string name="permdesc_signalPersistentProcesses">Ļauj lietotnei pieprasīt, lai piegādātais signāls tiktu sūtīts visiem pastāvīgajiem procesiem.</string>
     <string name="permlab_persistentActivity">likt lietotnei vienmēr darboties</string>
-    <string name="permdesc_persistentActivity">Ļauj lietotnei nodrošināt atsevišķu tās daļu nepārtrauktu atrašanos atmiņā. Tas var ierobežot pieejamo atmiņas daudzumu citām lietotnēm, tādējādi palēninot planšetdatora darbību.</string>
+    <string name="permdesc_persistentActivity">Ļauj lietotnei nodrošināt atsevišķu tās daļu nepārtrauktu atrašanos atmiņā. Tas var ierobežot pieejamo atmiņas daudzumu citām lietotnēm, tādējādi palēninot tālruņa darbību.</string>
     <string name="permlab_deletePackages">dzēst lietotnes</string>
     <string name="permdesc_deletePackages">Ļauj lietotnei dzēst Android pakotnes. Ļaunprātīgas lietotnes to var izmantot, lai dzēstu svarīgas lietotnes.</string>
     <string name="permlab_clearAppUserData">dzēst citu lietotņu datus</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">tieši instalēt lietotnes</string>
     <string name="permdesc_installPackages">Ļauj lietotnei instalēt jaunas vai atjauninātas Android pakotnes. Ļaunprātīgas lietotnes to var izmantot, lai pievienotu jaunas lietotnes ar patvaļīgi derīgām atļaujām.</string>
     <string name="permlab_clearAppCache">dzēst visus lietotnes kešatmiņas datus</string>
-    <string name="permdesc_clearAppCache">Ļauj lietotnei atbrīvot vietu planšetdatorā, dzēšot failus citu lietojumprogrammu kešatmiņas direktorijos. Citu lietojumprogrammu palaišana var būt lēnāka, jo tajās ir atkārtoti jāizgūst dati.</string>
+    <string name="permdesc_clearAppCache">Ļauj lietotnei atbrīvot vietu tālrunī, dzēšot failus citu lietojumprogrammu kešatmiņas direktorijos. Citu lietojumprogrammu palaišana var būt lēnāka, jo tajās ir atkārtoti jāizgūst dati.</string>
     <string name="permlab_movePackage">pārvietot lietotnes resursus</string>
     <string name="permdesc_movePackage">Ļauj lietotnei pārvietot lietotnes resursus no iekšēja datu nesēja uz ārēju datu nesēju un otrādi.</string>
     <string name="permlab_readLogs">lasīt sensitīvus žurnāla datus</string>
-    <string name="permdesc_readLogs">Ļauj lietotnei lasīt informāciju no dažādiem sistēmas žurnālfailiem. Šādi lietotne var atrast vispārīgu informāciju par jūsu darbībām planšetdatorā, tostarp arī personas vai privātu informāciju.</string>
+    <string name="permdesc_readLogs">Ļauj lietotnei lasīt informāciju no dažādiem sistēmas žurnālfailiem. Šādi lietotne var atrast vispārīgu informāciju par jūsu darbībām tālrunī, tostarp arī personas vai privātu informāciju.</string>
     <string name="permlab_anyCodecForPlayback">multivides failu atskaņošanai izmantot jebkuru dekodētāju</string>
     <string name="permdesc_anyCodecForPlayback">Ļauj lietotnei izmantot jebkuru instalētu multivides failu dekodētāju, lai dekodētu failus atskaņošanai.</string>
     <string name="permlab_diagnostic">lasīt grupas “diag” resursus un rakstīt tajos</string>
     <string name="permdesc_diagnostic">Ļauj lietotnei lasīt un rakstīt jebkurā resursā, kas pieder diagnostikas grupai, piemēram, failiem mapē /dev. Tas var ietekmēt sistēmas stabilitāti un drošību. Var izmantot ražotājs vai operators TIKAI konkrētas aparatūras diagnostikai.</string>
     <string name="permlab_changeComponentState">iespējot vai atspējot lietotnes komponentus</string>
-    <string name="permdesc_changeComponentState">Ļauj lietotnei mainīt to, vai tiek iespējots citas lietotnes komponents. Ļaunprātīgas lietotnes to var izmantot, lai atspējotu svarīgas planšetdatora iespējas. Izmantojiet šo atļauju uzmanīgi, jo pastāv iespēja, ka lietotnes komponenti var kļūt neizmantojami, neatbilstīgi vai nestabili.</string>
+    <string name="permdesc_changeComponentState">Ļauj lietotnei mainīt to, vai tiek iespējots citas lietotnes komponents. Ļaunprātīgas lietotnes to var izmantot, lai atspējotu svarīgas tālruņa iespējas. Izmantojiet šo atļauju uzmanīgi, jo pastāv iespēja, ka lietotnes komponenti var kļūt neizmantojami, neatbilstīgi vai nestabili.</string>
     <string name="permlab_grantRevokePermissions">atļauju piešķiršana vai atsaukšana</string>
     <string name="permdesc_grantRevokePermissions">Ļauj lietojumprogrammai piešķirt sev vai citām lietojumprogrammām noteiktas atļaujas un atsaukt tās. Ļaunprātīgas lietojumprogrammas var izmantot šo iespēju, lai piekļūtu funkcijām, kuras neesat atļāvis.</string>
     <string name="permlab_setPreferredApplications">iestatīt vēlamās lietotnes</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">pārveidot Google pakalpojumu karti</string>
     <string name="permdesc_writeGservices">Ļauj lietotnei modificēt Google pakalpojumu karti. Atļauja neattiecas uz parastām lietotnēm.</string>
     <string name="permlab_receiveBootCompleted">palaist līdz ar startēšanu</string>
-    <string name="permdesc_receiveBootCompleted">Ļauj lietotnei tikt startētai, tiklīdz sistēma ir pabeigusi sāknēšanu. Šādi planšetdatora startēšana var notikt ilgāk un lietotne, ja tā darbojas nepārtraukti, var palēnināt planšetdatora vispārējo darbību.</string>
+    <string name="permdesc_receiveBootCompleted">Ļauj lietotnei tikt startētai, tiklīdz sistēma ir pabeigusi sāknēšanu. Šādi tālruņa startēšana var notikt ilgāk un lietotne, ja tā darbojas nepārtraukti, var palēnināt tālruņa vispārējo darbību.</string>
     <string name="permlab_broadcastSticky">sūtīt piesaistošu apraidi</string>
-    <string name="permdesc_broadcastSticky">Ļauj lietotnei sūtīt piesaistošas apraides, kas tiek saglabātas pēc apraides pabeigšanas. Pārmērīga izmantošana var palēnināt planšetdatora darbību vai padarīt tā darbību nestabilu, liekot izmantot pārāk daudz atmiņas.</string>
+    <string name="permdesc_broadcastSticky">Ļauj lietotnei sūtīt piesaistošas apraides, kas tiek saglabātas pēc apraides pabeigšanas. Pārmērīga izmantošana var palēnināt tālruņa darbību vai padarīt tā darbību nestabilu, liekot izmantot pārāk daudz atmiņas.</string>
     <string name="permlab_readContacts">lasīt kontaktpersonu informāciju</string>
-    <string name="permdesc_readContacts">Ļauj lietotnei lasīt datus par jūsu planšetdatorā saglabātajām kontaktpersonām, tostarp to, cik bieži esat zvanījis, sazinājies pa e-pastu vai citādi sazinājies ar konkrētām personām. Ar šo atļauju lietotnes var saglabāt jūsu kontaktpersonu datus, un ļaunprātīgas lietotnes var kopīgot kontaktpersonu datus bez jūsu atļaujas.</string>
+    <string name="permdesc_readContacts">Ļauj lietotnei lasīt datus par jūsu tālrunī saglabātajām kontaktpersonām, tostarp to, cik bieži esat zvanījis, sazinājies pa e-pastu vai citādi sazinājies ar konkrētām personām. Ar šo atļauju lietotnes var saglabāt jūsu kontaktpersonu datus, un ļaunprātīgas lietotnes var kopīgot kontaktpersonu datus bez jūsu atļaujas.</string>
     <string name="permlab_writeContacts">mainīt kontaktpersonu informāciju</string>
-    <string name="permdesc_writeContacts">Ļauj lietotnei mainīt datus par planšetdatorā saglabātajām kontaktpersonām, tostarp par zvanu un e-pasta ziņojumu apjomu vai saziņu citos veidos, kas veikta ar konkrētām kontaktpersonām. Ar šo atļauju lietotne var dzēst kontaktpersonu datus.</string>
+    <string name="permdesc_writeContacts">Ļauj lietotnei mainīt datus par tālrunī saglabātajām kontaktpersonām, tostarp par zvanu un e-pasta ziņojumu apjomu vai saziņu citos veidos, kas veikta ar konkrētām kontaktpersonām. Ar šo atļauju lietotne var dzēst kontaktpersonu datus.</string>
     <string name="permlab_readCallLog">nolasīt zvanu žurnālu</string>
-    <string name="permdesc_readCallLog">Ļauj lietotnei lasīt planšetdatora zvanu žurnālu, tostarp datus par ienākošajiem un izejošajiem zvaniem. Ar šo atļauju lietotnes var saglabāt jūsu zvanu žurnāla datus, un ļaunprātīgas lietotnes var kopīgot zvanu žurnāla datus bez jūsu atļaujas.</string>
+    <string name="permdesc_readCallLog">Ļauj lietotnei lasīt tālruņa zvanu žurnālu, tostarp datus par ienākošajiem un izejošajiem zvaniem. Ar šo atļauju lietotnes var saglabāt jūsu zvanu žurnāla datus, un ļaunprātīgas lietotnes var kopīgot zvanu žurnāla datus bez jūsu atļaujas.</string>
     <string name="permlab_writeCallLog">rakstīt zvanu žurnālā</string>
-    <string name="permdesc_writeCallLog">Ļauj lietotnei pārveidot planšetdatora zvanu žurnālu, tostarp ienākošo un izejošo zvanu datus. Ļaunprātīgas lietotnes var to izmantot, lai dzēstu vai pārveidotu savu zvanu žurnālu.</string>
+    <string name="permdesc_writeCallLog">Ļauj lietotnei pārveidot tālruņa zvanu žurnālu, tostarp ienākošo un izejošo zvanu datus. Ļaunprātīgas lietotnes var to izmantot, lai dzēstu vai pārveidotu savu zvanu žurnālu.</string>
     <string name="permlab_readProfile">lasīt manu vizītkarti</string>
     <string name="permdesc_readProfile">Ļauj lietotnei lasīt ierīcē saglabāto personīgā profila informāciju, piemēram, jūsu vārdu un kontaktinformāciju. Tas nozīmē, ka lietotne var jūs identificēt un var nosūtīt jūsu profila informāciju citām personām.</string>
     <string name="permlab_writeProfile">mainīt manu vizītkarti</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">rakstīt sociālo tīklu straumē</string>
     <string name="permdesc_writeSocialStream">Ļauj lietotnei parādīt jūsu draugu atjauninājumus sociālajos tīklos. Esiet piesardzīgs, kad kopīgojat informāciju, — šādi lietotne var veidot ziņojumus, kas šķietami saņemti no drauga. Piezīme: šo atļauju nevar piemērot visiem sociālajiem tīkliem.</string>
     <string name="permlab_readCalendar">lasīt kalendāra pasākumus un konfidenciālu informāciju</string>
-    <string name="permdesc_readCalendar">Ļauj lietotnei lasīt visus planšetdatorā saglabātos kalendāra notikumus, tostarp draugu vai kolēģu notikumus. Tas var ļaut lietotnei kopīgot vai saglabāt jūsu kalendāra datus, neraugoties uz to konfidencialitāti vai sensitivitāti.</string>
+    <string name="permdesc_readCalendar">Ļauj lietotnei lasīt visus tālrunī saglabātos kalendāra notikumus, tostarp draugu vai kolēģu notikumus. Tas var ļaut lietotnei kopīgot vai saglabāt jūsu kalendāra datus, neraugoties uz to konfidencialitāti vai sensitivitāti.</string>
     <string name="permlab_writeCalendar">pievienot vai pārveidot kalendāra pasākumus un sūtīt e-pasta ziņojumus viesiem bez īpašnieku ziņas</string>
-    <string name="permdesc_writeCalendar">Ļauj lietotnei pievienot, noņemt, mainīt notikumus, kurus varat pārveidot planšetdatorā, tostarp draugu vai kolēģu notikumus. Tas var ļaut lietotnei sūtīt ziņojumus, norādot, ka tos sūta kalendāru īpašnieki, vai pārveidot notikumus bez īpašnieka atļaujas.</string>
+    <string name="permdesc_writeCalendar">Ļauj lietotnei pievienot, noņemt, mainīt notikumus, kurus varat pārveidot tālrunī, tostarp draugu vai kolēģu notikumus. Tas var ļaut lietotnei sūtīt ziņojumus, norādot, ka tos sūta kalendāru īpašnieki, vai pārveidot notikumus bez īpašnieka atļaujas.</string>
     <string name="permlab_accessMockLocation">imitēt atrašanās vietu avotus pārbaudes nolūkos</string>
     <string name="permdesc_accessMockLocation">Izveido neīstus atrašanās vietas noteikšanas avotus testēšanas nolūkiem vai instalē jaunu atrašanās vietas noteikšanas nodrošinātāju. Tas ļauj lietotnei ignorēt atrašanās vietu un/vai statusu, ko norādīja citi atrašanās vietas noteikšanas avoti, piemēram, GPS vai atrašanās vietas noteikšanas nodrošinātāji.</string>
     <string name="permlab_accessLocationExtraCommands">piekļūt atrašanās vietas nodrošinātāja papildu komandām</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Ļauj lietotnei uzņemt attēlus un videoklipus ar kameru. Ar šo atļauju lietotne var jebkurā brīdī izmantot kameru bez jūsu apstiprinājuma.</string>
     <string name="permlab_cameraDisableTransmitLed">Atspējot pārraidīšanas LED indikatoru, kad kamera tiek izmantota</string>
     <string name="permdesc_cameraDisableTransmitLed">Ļauj iepriekš instalētai sistēmas lietojumprogrammai atspējot LED indikatoru, izmantojot kameru.</string>
-    <string name="permlab_brick">neatgriezeniski atspējot planšetdatoru</string>
-    <string name="permdesc_brick">Ļauj lietotnei neatgriezeniski atspējot visu planšetdatoru. Tas ir ļoti bīstami.</string>
-    <string name="permlab_reboot">forsēt planšetdatora atsāknēšanu</string>
-    <string name="permdesc_reboot">Ļauj lietotnei veikt planšetdatora piespiedu atsāknēšanu.</string>
+    <string name="permlab_brick">neatgriezeniski atspējot tālruni</string>
+    <string name="permdesc_brick">Ļauj lietotnei neatgriezeniski atspējot visu tālruni. Tas ir ļoti bīstami.</string>
+    <string name="permlab_reboot">atsāknēt tālruni</string>
+    <string name="permdesc_reboot">Ļauj lietotnei atsāknēt tālruni.</string>
     <string name="permlab_mount_unmount_filesystems">piekļūt USB atm. failu sistēmai</string>
     <string name="permdesc_mount_unmount_filesystems">Ļauj lietotnei pievienot un atvienot failu sistēmas noņemamai atmiņai.</string>
     <string name="permlab_mount_format_filesystems">dzēst USB atmiņu</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Ļauj lietotnei zvanīt uz tālruņa numuriem bez jūsu iejaukšanās. Tas var radīt neparedzētas izmaksas vai zvanus. Ņemiet vērā, ka lietotnei nav atļauts zvanīt uz tālruņa numuriem ārkārtas situācijām. Ļaunprātīgas lietotnes var radīt jums izmaksas, veicot zvanus bez jūsu apstiprinājuma.</string>
     <string name="permlab_callPrivileged">tieši zvanīt uz jebkuriem tālruņa numuriem</string>
     <string name="permdesc_callPrivileged">Ļauj lietotnei zvanīt uz jebkuru tālruņa numuru, tostarp uz ārkārtas numuriem, bez jūsu iejaukšanās. Ļaunprātīgas lietotnes var veikt nevajadzīgus un neatļautus zvanus uz avārijas dienestiem.</string>
-    <string name="permlab_performCdmaProvisioning">tieši sākt CDMA planšetdatora iestatīšanu</string>
+    <string name="permlab_performCdmaProvisioning">tiešā veidā sākt CDMA tālruņa iestatīšanu</string>
     <string name="permdesc_performCdmaProvisioning">Ļauj lietotnei sākt CDMA nodrošināšanu. Ļaunprātīgas lietotnes var sākt CDMA nodrošināšanu bez vajadzības.</string>
     <string name="permlab_locationUpdates">kontrolēt atrašanās vietas atjauninājumu paziņojumus</string>
     <string name="permdesc_locationUpdates">Ļauj lietotnei iespējot/atspējot paziņojumus no radio saistībā ar atrašanās vietas atjauninājumiem. Atļauja neattiecas uz parastām lietotnēm.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Ļauj lietotnei kontrolēt ierīces tālruņa funkcijas. Lietotne, kurai ir šī atļauja, var pārslēgt tīklus, ieslēgt un izslēgt tālruņa radio un veikt tamlīdzīgas darbības, nebrīdinot jūs.</string>
     <string name="permlab_readPhoneState">lasīt tālruņa statusu un identitāti</string>
     <string name="permdesc_readPhoneState">Ļauj lietotnei piekļūt ierīces tālruņa funkcijām. Ar šo atļauju lietotne var noteikt tālruņa numuru un ierīču ID, zvana statusu un attālo numuru, ar ko ir izveidots savienojums, veicot zvanu.</string>
-    <string name="permlab_wakeLock">novērst planšetdatora pāriešanu miega režīmā</string>
-    <string name="permdesc_wakeLock">Ļauj lietotnei novērst planšetdatora pāriešanu miega režīmā.</string>
-    <string name="permlab_devicePower">ieslēgt vai izslēgt planšetdatoru</string>
-    <string name="permdesc_devicePower">Ļauj lietotnei ieslēgt vai izslēgt planšetdatoru.</string>
+    <string name="permlab_wakeLock">novērst tālruņa pāriešanu miega režīmā</string>
+    <string name="permdesc_wakeLock">Ļauj lietotnei novērst tālruņa pāriešanu miega režīmā.</string>
+    <string name="permlab_devicePower">ieslēgt vai izslēgt tālruni</string>
+    <string name="permdesc_devicePower">Ļauj lietotnei ieslēgt vai izslēgt tālruni.</string>
     <string name="permlab_factoryTest">darbināt rūpnīcas pārbaudes režīmā</string>
-    <string name="permdesc_factoryTest">Darbina kā zema līmeņa ražotāja testu, atļaujot pilnīgu piekļuvi planšetdatora aparatūrai. Pieejama tikai tad, ja planšetdators darbojas ražotāja testa režīmā.</string>
+    <string name="permdesc_factoryTest">Darbiniet kā zema līmeņa ražotāja pārbaudi, atļaujot pilnīgu piekļuvi tālruņa aparatūrai. Pieejams tikai tad, ja tālrunis darbojas ražotāja pārbaudes režīmā.</string>
     <string name="permlab_setWallpaper">iestatīt tapeti</string>
     <string name="permdesc_setWallpaper">Ļauj lietotnei iestatīt sistēmas tapeti.</string>
     <string name="permlab_setWallpaperHints">pielāgot fona tapetes lielumu</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">atiestatīt sistēmu uz rūpnīcas noklusējuma iestatījumiem</string>
     <string name="permdesc_masterClear">Ļauj lietotnei pilnībā atiestatīt sistēmas rūpnīcas iestatījumus, dzēšot visus datus, konfigurāciju un instalētās lietotnes.</string>
     <string name="permlab_setTime">iestatīt laiku</string>
-    <string name="permdesc_setTime">Ļauj lietotnei mainīt planšetdatora pulksteņa laiku.</string>
+    <string name="permdesc_setTime">Ļauj lietotnei mainīt tālruņa pulksteņa laiku.</string>
     <string name="permlab_setTimeZone">iestatīt laika joslu</string>
-    <string name="permdesc_setTimeZone">Ļauj lietotnei mainīt planšetdatora laika joslu.</string>
+    <string name="permdesc_setTimeZone">Ļauj lietotnei mainīt tālruņa laika joslu.</string>
     <string name="permlab_accountManagerService">darboties kā AccountManagerService</string>
     <string name="permdesc_accountManagerService">Ļauj lietotnei zvanīt uz AccountAuthenticators.</string>
     <string name="permlab_getAccounts">atrast kontus ierīcē</string>
-    <string name="permdesc_getAccounts">Ļauj lietotnei iegūt planšetdatoram zināmo kontu sarakstu. Tas var ietvert jebkādus kontus, ko izveidojušas instalētās lietojumprogrammas.</string>
+    <string name="permdesc_getAccounts">Ļauj lietotnei iegūt tālrunim zināmo kontu sarakstu. Tas var ietvert jebkādus kontus, ko izveidojušas instalētās lietojumprogrammas.</string>
     <string name="permlab_authenticateAccounts">izveidot kontus un iestatīt paroles</string>
     <string name="permdesc_authenticateAccounts">Ļauj lietotnei izmantot AccountManager konta autentificētāja iespējas, tostarp veidot kontus un iegūt un iestatīt to paroles.</string>
     <string name="permlab_manageAccounts">pievienot vai noņemt kontus</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">izveidot un pārtraukt Wi-Fi savienojumu</string>
     <string name="permdesc_changeWifiState">Ļauj lietotnei izveidot savienojumu ar Wi-Fi piekļuves punktiem un pārtraukt savienojumus ar tiem, kā arī veikt izmaiņas ierīces Wi-Fi tīklu konfigurācijā.</string>
     <string name="permlab_changeWifiMulticastState">atļaut Wi-Fi multiraides uztveršanu</string>
-    <string name="permdesc_changeWifiMulticastState">Ļauj lietotnei saņemt sūtījumus, kas sūtīti uz visām ierīcēm Wi-Fi tīklā, izmantojot multiraides adreses, nevis tikai jūsu planšetdatoru. Tādējādi tiek patērēts vairāk enerģijas nekā režīmā, kas nav multiraide.</string>
+    <string name="permdesc_changeWifiMulticastState">Ļauj lietotnei saņemt sūtījumus, kas sūtīti uz visām ierīcēm Wi-Fi tīklā, izmantojot multiraides adreses, nevis tikai jūsu tālruni. Tādējādi tiek patērēts vairāk enerģijas nekā režīmā, kas nav multiraide.</string>
     <string name="permlab_bluetoothAdmin">piekļūt Bluetooth iestatījumiem</string>
-    <string name="permdesc_bluetoothAdmin">Ļauj lietotnei konfigurēt vietējo Bluetooth planšetdatoru, kā arī atklāt attālas ierīces un savienot tās pārī.</string>
+    <string name="permdesc_bluetoothAdmin">Ļauj lietotnei konfigurēt vietējo Bluetooth tālruni, kā arī atklāt attālas ierīces un savienot tās pārī.</string>
     <string name="permlab_accessWimaxState">WiMAX savienojuma izveide un pārtraukšana</string>
     <string name="permdesc_accessWimaxState">Ļauj lietotnei noteikt, vai WiMAX ir iespējots, un sniedz informāciju par visiem WiMAX tīkliem, ar kuriem ir izveidots savienojums.</string>
     <string name="permlab_changeWimaxState">WiMAX statusa mainīšana</string>
-    <string name="permdesc_changeWimaxState">Ļauj lietotnei izveidot un pārtraukt planšetdatora savienojumu ar WiMAX tīkliem.</string>
+    <string name="permdesc_changeWimaxState">Ļauj lietotnei izveidot un pārtraukt tālruņa savienojumu ar WiMAX tīkliem.</string>
     <string name="permlab_bluetooth">savienot pārī ar Bluetooth ierīcēm</string>
-    <string name="permdesc_bluetooth">Ļauj lietotnei skatīt Bluetooth konfigurāciju planšetdatorā, kā arī veidot un pieņemt savienojumus ar pārī savienotām ierīcēm.</string>
+    <string name="permdesc_bluetooth">Ļauj lietotnei skatīt Bluetooth konfigurāciju tālrunī, kā arī veidot un pieņemt savienojumus ar pārī savienotām ierīcēm.</string>
     <string name="permlab_nfc">kontrolē tuvlauka saziņu</string>
     <string name="permdesc_nfc">Ļauj lietotnei sazināties ar tuva darbības lauka sakaru (Near Field Communication — NFC) atzīmēm, kartēm un lasītājiem.</string>
     <string name="permlab_disableKeyguard">atspējot ekrāna bloķēšanu</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Paroles kārtulu iestatīšana</string>
     <string name="policydesc_limitPassword">Kontrolē ekrāna atbloķēšanas parolē atļautās rakstzīmes un garumu.</string>
     <string name="policylab_watchLogin">Ekrāna atbloķēšanas mēģinājumu pārraudzīšana</string>
-    <string name="policydesc_watchLogin">Pārrauga nepareizi ievadīto paroļu skaitu, atbloķējot ekrānu, un bloķē planšetdatoru vai dzēš visus planšetdatora datus, ja tiek ievadīts pārāk daudz nepareizu paroļu.</string>
+    <string name="policydesc_watchLogin">Pārrauga nepareizi ievadīto paroļu skaitu, atbloķējot ekrānu, un bloķē tālruni vai dzēš visus tālruņa datus, ja tiek ievadīts pārāk daudz nepareizu paroļu.</string>
     <string name="policylab_resetPassword">Ekrāna atbloķēšanas paroles maiņa</string>
     <string name="policydesc_resetPassword">Maina ekrāna atbloķēšanas paroli.</string>
     <string name="policylab_forceLock">Ekrāna bloķēšana</string>
     <string name="policydesc_forceLock">Kontrolē, kā un kad ekrāns tiek bloķēts.</string>
     <string name="policylab_wipeData">Dzēst visus datus</string>
-    <string name="policydesc_wipeData">Dzēš planšetdatora datus bez brīdinājuma, veicot rūpnīcas datu atiestatīšanu.</string>
+    <string name="policydesc_wipeData">Dzēš tālruņa datus bez brīdinājuma, veicot rūpnīcas datu atiestatīšanu.</string>
     <string name="policylab_setGlobalProxy">Iestatīt ierīces globālo starpniekserveri</string>
     <string name="policydesc_setGlobalProxy">Iestatiet izmantojamo ierīces globālo starpniekserveri, kad ir iespējota politika. Spēkā esošo globālo starpniekserveri iestata tikai pirmās ierīces administrators.</string>
     <string name="policylab_expirePassword">Ekr. bloķ. paroles term. iest.</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Pievienojiet uzlādes ierīci.</string>
     <string name="lockscreen_missing_sim_message_short">Nav SIM kartes</string>
-    <string name="lockscreen_missing_sim_message">Planšetdatorā nav SIM kartes.</string>
+    <string name="lockscreen_missing_sim_message">Tālrunī nav SIM kartes.</string>
     <string name="lockscreen_missing_sim_instructions">Ievietojiet SIM karti.</string>
     <string name="lockscreen_missing_sim_instructions_long">Nav SIM kartes, vai arī to nevar nolasīt. Ievietojiet SIM karti.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Nelietojama SIM karte.</string>
@@ -778,11 +778,11 @@ Mēģiniet vēlreiz pēc %d sekundēm."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Jūs esat ievadījis nepareizu PIN %d reizes.
 
 Mēģiniet vēlreiz pēc %d sekundēm."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Atbloķēšanas kombinācija tika nepareizi uzzīmēta %d reizes. Pēc vēl %d neveiksmīgiem mēģinājumiem planšetdators būs jāatbloķē, izmantojot pierakstīšanos Google kontā.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Atbloķēšanas kombinācija tika nepareizi uzzīmēta %d reizes. Pēc vēl %d neveiksmīgiem mēģinājumiem tālrunis būs jāatbloķē, izmantojot pierakstīšanos Google kontā.
 
 Mēģiniet vēlreiz pēc %d sekundēm."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Jūs nepareizi veicāt planšetdatora atbloķēšanu %d reizes. Pēc vēl %d neveiksmīga(-iem) mēģinājuma(-iem) planšetdatorā tiks atiestatīti rūpnīcas noklusējuma iestatījumi, un lietotāja dati tiks zaudēti.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Jūs nepareizi veicāt planšetdatora atbloķēšanu %d reizes. Planšetdatorā tiks atiestatīti rūpnīcas noklusējuma iestatījumi.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Jūs nepareizi veicāt tālruņa atbloķēšanu %d reizes. Pēc vēl %d neveiksmīga(-iem) mēģinājuma(-iem) tālrunī tiks atiestatīti rūpnīcas noklusējuma iestatījumi, un lietotāja dati tiks zaudēti.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Jūs nepareizi veicāt tālruņa atbloķēšanu %d reizes. Tālrunī tiks atiestatīti rūpnīcas noklusējuma iestatījumi.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Mēģiniet vēlreiz pēc %d sekundes(-ēm).</string>
     <string name="lockscreen_forgot_pattern_button_text">Vai aizmirsāt kombināciju?</string>
     <string name="lockscreen_glogin_forgot_pattern">Konta atbloķēšana</string>
@@ -867,7 +867,7 @@ Vai tiešām vēlaties pamest šo lapu?"</string>
     <string name="permlab_readHistoryBookmarks">lasīt tīmekļa grāmatzīmes un vēsturi</string>
     <string name="permdesc_readHistoryBookmarks">Ļauj lietotnei lasīt visu pārlūkprogrammā apmeklēto URL vēsturi un visas pārlūkprogrammas grāmatzīmes. Piezīme: šo atļauju nevar piemērot trešās puses pārlūkprogrammas vai citas lietojumprogrammas ar tīmekļa pārlūkošanas iespējām.</string>
     <string name="permlab_writeHistoryBookmarks">rakstīt tīmekļa grāmatzīmes un vēsturi</string>
-    <string name="permdesc_writeHistoryBookmarks">Ļauj lietotnei mainīt planšetdatorā saglabāto pārlūkprogrammas vēsturi vai grāmatzīmes. Tas var ļaut lietotnei dzēst vai pārveidot pārlūkprogrammas datus. Piezīme: šo atļauju nevar piemērot trešo pušu pārlūkprogrammas vai citas lietojumprogrammas ar tīmekļa pārlūkošanas iespējām.</string>
+    <string name="permdesc_writeHistoryBookmarks">Ļauj lietotnei mainīt tālrunī saglabāto pārlūkprogrammas vēsturi vai grāmatzīmes. Tas var ļaut lietotnei dzēst vai pārveidot pārlūkprogrammas datus. Piezīme: šo atļauju nevar piemērot trešo pušu pārlūkprogrammas vai citas lietojumprogrammas ar tīmekļa pārlūkošanas iespējām.</string>
     <string name="permlab_setAlarm">iestatīt modinātāju</string>
     <string name="permdesc_setAlarm">Ļauj lietotnei iestatīt signālu instalētajā modinātājpulksteņa lietotnē. Dažās modinātājpulksteņu lietotnēs šo funkciju, iespējams, nevar ieviest.</string>
     <string name="permlab_addVoicemail">pievienot balss pastu</string>
@@ -901,7 +901,7 @@ Vai tiešām vēlaties pamest šo lapu?"</string>
     <string name="searchview_description_submit">Iesniedziet vaicājumu.</string>
     <string name="searchview_description_voice">Meklēšana ar balsi</string>
     <string name="enable_explore_by_touch_warning_title">Vai iesp. “Pārlūkot pieskaroties”?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s vēlas iespējot funkciju “Atklāt pieskaroties”. Kad ir ieslēgta funkcija “Atklāt pieskaroties”, var dzirdēt vai redzēt tā vienuma aprakstu, virs kura atrodas pirksts, vai veikt žestus, lai mijiedarbotos ar planšetdatoru.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s vēlas iespējot funkciju “Atklāt pieskaroties”. Kad ir ieslēgta funkcija “Atklāt pieskaroties”, var dzirdēt vai redzēt tā vienuma aprakstu, virs kura atrodas pirksts, vai veikt žestus, lai mijiedarbotos ar tālruni.</string>
     <string name="oneMonthDurationPast">Pirms 1 mēneša</string>
     <string name="beforeOneMonthDurationPast">Vairāk nekā pirms 1 mēneša</string>
     <string name="last_month">Iepriekšējā mēnesī</string>
@@ -1025,7 +1025,7 @@ Vai vēlaties to aizvērt?"</string>
     <string name="wifi_p2p_to_message">Kam:</string>
     <string name="wifi_p2p_enter_pin_message">Ierakstiet pieprasīto PIN:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Planšetdators tiks īslaicīgi atvienots no Wi-Fi tīkla, kamēr būs izveidots savienojums ar ierīci %1$s.</string>
+    <string name="wifi_p2p_frequency_conflict_message">Tālrunis tiks īslaicīgi atvienots no Wi-Fi tīkla, kamēr būs izveidots savienojums ar ierīci %1$s.</string>
     <string name="select_character">Ievietojiet rakstzīmi</string>
     <string name="sms_control_title">Īsziņu sūtīšana</string>
     <string name="sms_control_message">Lietotne &lt;b>%1$s&lt;/b> sūta daudz īsziņu. Vai vēlaties, lai šī lietotne turpinātu sūtīt ziņojumus?</string>
@@ -1274,7 +1274,7 @@ ir pieprasīta."</string>
     <string name="SetupCallDefault">Vai atbildēt uz zvanu?</string>
     <string name="activity_resolver_use_always">Vienmēr</string>
     <string name="activity_resolver_use_once">Tikai vienreiz</string>
-    <string name="default_audio_route_name">Planšetdators</string>
+    <string name="default_audio_route_name">Tālrunis</string>
     <string name="default_audio_route_name_headphones">Austiņas</string>
     <string name="default_audio_route_name_dock_speakers">Doka skaļruņi</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Mēģiniet vēlreiz pēc %d sekundēm."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Jūs nepareizi norādījāt atbloķēšanas kombināciju %d reizes.
 
 Mēģiniet vēlreiz pēc %d sekundēm."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Jūs nepareizi veicāt planšetdatora atbloķēšanu %d reizes. Pēc vēl %d neveiksmīgiem mēģinājumiem planšetdatorā tiks atiestatīti rūpnīcas noklusējuma iestatījumi un lietotāja dati tiks zaudēti.</string>
-    <string name="kg_failed_attempts_now_wiping">Jūs nepareizi veicāt planšetdatora atbloķēšanu %d reizes. Planšetdatorā tiks atiestatīti rūpnīcas noklusējuma iestatījumi.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Jūs nepareizi norādījāt atbloķēšanas kombināciju %d reizes. Pēc vēl %d neveiksmīgiem mēģinājumiem planšetdators būs jāatbloķē, izmantojot e-pasta kontu.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Jūs nepareizi veicāt tālruņa atbloķēšanu %d reizes. Pēc vēl %d neveiksmīgiem mēģinājumiem tālrunī tiks atiestatīti rūpnīcas noklusējuma iestatījumi un lietotāja dati tiks zaudēti.</string>
+    <string name="kg_failed_attempts_now_wiping">Jūs nepareizi veicāt tālruņa atbloķēšanu %d reizes. Tālrunī tiks atiestatīti rūpnīcas noklusējuma iestatījumi.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Jūs nepareizi norādījāt atbloķēšanas kombināciju %d reizes. Pēc vēl %d neveiksmīgiem mēģinājumiem tālrunis būs jāatbloķē, izmantojot e-pasta kontu.
 
 Mēģiniet vēlreiz pēc %d sekundēm."</string>
     <string name="kg_text_message_separator">"  — "</string>

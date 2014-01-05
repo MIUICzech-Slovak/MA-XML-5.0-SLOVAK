@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Synchronisierung</string>
     <string name="contentServiceSyncNotificationTitle">Synchronisierung</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Zu viele %s gelöscht.</string>
-    <string name="low_memory">Der Tablet-Speicher ist voll. Löschen Sie Dateien, um Speicherplatz freizugeben.</string>
+    <string name="low_memory">Der Handyspeicher ist voll! Löschen Sie Dateien, um Speicherplatz freizugeben.</string>
     <string name="me">Eigene</string>
-    <string name="power_dialog">Tablet-Optionen</string>
+    <string name="power_dialog">Telefonoptionen</string>
     <string name="silent_mode">Lautlos-Modus</string>
     <string name="turn_on_radio">Funk einschalten</string>
     <string name="turn_off_radio">Funk ausschalten</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Klingeltonmodus \"Vibration\"</string>
     <string name="silent_mode_ring">Klingelton ein</string>
     <string name="shutdown_progress">Wird heruntergefahren...</string>
-    <string name="shutdown_confirm">Ihr Tablet wird heruntergefahren.</string>
+    <string name="shutdown_confirm">Telefon wird heruntergefahren.</string>
     <string name="shutdown_confirm_question">Möchten Sie das Gerät herunterfahren?</string>
     <string name="reboot_safemode_title">Im abgesicherten Modus starten</string>
     <string name="reboot_safemode_confirm">Möchten Sie im abgesicherten Modus neu starten? Dadurch werden alle Apps von Drittanbietern deaktiviert, die Sie installiert haben. Sie werden jedoch nach einem weiteren Neustart wiederhergestellt.</string>
     <string name="recent_tasks_title">Kürzlich geöffnet</string>
     <string name="no_recent_tasks">Keine kürzlich geöffneten Apps</string>
-    <string name="global_actions">Tablet-Optionen</string>
+    <string name="global_actions">Telefonoptionen</string>
     <string name="global_action_lock">Display-Sperre</string>
     <string name="global_action_power_off">Ausschalten</string>
     <string name="global_action_bug_report">Fehlerbericht</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">Antwort-per-SMS/MMS-Ereignisse senden</string>
     <string name="permdesc_sendRespondViaMessageRequest">Ermöglicht der App, Anfragen an andere SMS/MMS-Apps zu senden, um Antwort-per-SMS/MMS-Ereignisse für eingehende Anrufe zu verarbeiten</string>
     <string name="permlab_readSms">SMS oder MMS lesen</string>
-    <string name="permdesc_readSms">Ermöglicht der App, auf Ihrem Tablet oder Ihrer SIM-Karte gespeicherte SMS zu lesen. Die App kann alle SMS lesen, unabhängig von Inhalt und Vertraulichkeit.</string>
+    <string name="permdesc_readSms">Ermöglicht der App, auf Ihrem Telefon oder Ihrer SIM-Karte gespeicherte SMS zu lesen. Die App kann alle SMS lesen, unabhängig von Inhalt und Vertraulichkeit.</string>
     <string name="permlab_writeSms">SMS oder MMS bearbeiten</string>
-    <string name="permdesc_writeSms">Ermöglicht der App, auf Ihrem Tablet oder Ihrer SIM-Karte gespeicherte SMS zu bearbeiten. Schädliche Apps können so Ihre Nachrichten löschen.</string>
+    <string name="permdesc_writeSms">Ermöglicht der App, auf Ihrem Telefon oder Ihrer SIM-Karte gespeicherte SMS zu bearbeiten. Schädliche Apps können so Ihre Nachrichten löschen.</string>
     <string name="permlab_receiveWapPush">Textnachrichten (WAP) empfangen</string>
     <string name="permdesc_receiveWapPush">Ermöglicht der App, WAP-Nachrichten zu empfangen und zu verarbeiten. Mit der Berechtigung können Nachrichten, die an Sie gesendet wurden, überwacht und gelöscht werden, bevor sie Ihnen angezeigt werden.</string>
     <string name="permlab_getTasks">Aktive Apps abrufen</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">Bildschirm fixieren</string>
     <string name="permdesc_freezeScreen">Erlaubt der App, den Bildschirm zur Vollbildübertragung vorübergehend zu fixieren</string>
     <string name="permlab_injectEvents">Tasten und Steuerungstasten drücken</string>
-    <string name="permdesc_injectEvents">Ermöglicht der App, ihre eigenen Eingabeaktionen, zum Beispiel das Drücken von Tasten, an andere Apps weiterzugeben. Schädliche Apps können so die Kontrolle über Ihr Tablet übernehmen.</string>
+    <string name="permdesc_injectEvents">Ermöglicht der App, ihre eigenen Eingabeaktionen, zum Beispiel das Drücken von Tasten, an andere Apps weiterzugeben. Schädliche Apps können so die Kontrolle über Ihr Telefon übernehmen.</string>
     <string name="permlab_readInputState">Tastatureingaben und Aktionen aufzeichnen</string>
     <string name="permdesc_readInputState">Ermöglicht der App, die von Ihnen gedrückten Tasten zu überwachen, etwa bei der Eingabe eines Passworts. Dies gilt auch für die Interaktion mit anderen Apps. Sollte nie für normale Apps benötigt werden.</string>
     <string name="permlab_bindInputMethod">An eine Eingabemethode binden</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">Linux-Signale an Apps senden</string>
     <string name="permdesc_signalPersistentProcesses">Ermöglicht der App, das Senden des gelieferten Signals an alle andauernden Prozesse zu fordern</string>
     <string name="permlab_persistentActivity">App permanent ausführen</string>
-    <string name="permdesc_persistentActivity">Ermöglicht der App, Teile der eigenen App dauerhaft im Speicher abzulegen. Dies kann dazu führen, dass anderen Apps weniger Arbeitsspeicher zur Verfügung steht und das Tablet langsamer wird.</string>
+    <string name="permdesc_persistentActivity">Ermöglicht der App, Teile der eigenen App dauerhaft im Speicher abzulegen. Dies kann dazu führen, dass anderen Apps weniger Arbeitsspeicher zur Verfügung steht und das Telefon langsamer wird.</string>
     <string name="permlab_deletePackages">Apps löschen</string>
     <string name="permdesc_deletePackages">Ermöglicht der App, Android-Pakete zu löschen. Schädliche Apps können so wichtige Apps löschen.</string>
     <string name="permlab_clearAppUserData">Daten anderer Apps löschen</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">Apps direkt installieren</string>
     <string name="permdesc_installPackages">Ermöglicht der App, neue oder aktualisierte Android-Pakete zu installieren. Schädliche Apps können so neue Apps mit beliebig umfangreichen Berechtigungen hinzufügen.</string>
     <string name="permlab_clearAppCache">Alle Cache-Daten der App löschen</string>
-    <string name="permdesc_clearAppCache">Ermöglicht der App, Speicherplatz auf dem Tablet durch Löschen von Dateien in den Cache-Verzeichnissen anderer Apps freizusetzen. Der Startvorgang anderer Apps kann sich hierdurch verlangsamen, weil die Daten neu abgerufen werden müssen.</string>
+    <string name="permdesc_clearAppCache">Ermöglicht der App, Speicherplatz auf dem Telefon durch Löschen von Dateien in den Cache-Verzeichnissen anderer Apps freizusetzen. Der Startvorgang anderer Apps kann sich hierdurch verlangsamen, weil die Daten neu abgerufen werden müssen.</string>
     <string name="permlab_movePackage">App-Ressourcen verschieben</string>
     <string name="permdesc_movePackage">Ermöglicht der App, App-Ressourcen von internen auf externe Medien zu verschieben und umgekehrt</string>
     <string name="permlab_readLogs">Vertrauliche Protokolldaten lesen</string>
-    <string name="permdesc_readLogs">Ermöglicht der App, die verschiedenen Protokolldateien des Systems zu lesen. So können allgemeine Informationen zu den auf Ihrem Tablet durchgeführten Aktionen eingesehen werden, darunter auch personenbezogene oder vertrauliche Daten.</string>
+    <string name="permdesc_readLogs">Ermöglicht der App, die verschiedenen Protokolldateien des Systems zu lesen. So können allgemeine Informationen zu den auf Ihrem Telefon durchgeführten Aktionen eingesehen werden, darunter auch personenbezogene oder vertrauliche Daten.</string>
     <string name="permlab_anyCodecForPlayback">Für Wiedergabe beliebigen Mediendecodierer verwenden</string>
     <string name="permdesc_anyCodecForPlayback">Ermöglicht der App, alle installierten Mediendecodierer zur Wiedergabe zu verwenden.</string>
     <string name="permlab_diagnostic">Lese-/Schreibberechtigung für zu Diagnosegruppe gehörige Elemente</string>
     <string name="permdesc_diagnostic">Ermöglicht der App, alle Elemente in der Diagnosegruppe zu lesen und zu bearbeiten, etwa Dateien in \"/dev\". Dies könnte eine potenzielle Gefährdung für die Stabilität und Sicherheit des Systems darstellen und sollte NUR für hardwarespezifische Diagnosen des Herstellers oder Mobilfunkanbieters verwendet werden.</string>
     <string name="permlab_changeComponentState">App-Komponenten aktivieren oder deaktivieren</string>
-    <string name="permdesc_changeComponentState">Ermöglicht der App, Komponenten einer anderen App zu aktivieren oder zu deaktivieren. Schädliche Apps können so wichtige Tabletfunktionen deaktivieren. Bei der Erteilung dieser Berechtigung ist Vorsicht geboten, weil die App-Komponenten unbrauchbar, inkonsistent oder instabil werden können.</string>
+    <string name="permdesc_changeComponentState">Ermöglicht der App, Komponenten einer anderen App zu aktivieren oder zu deaktivieren. Schädliche Apps können so wichtige Telefonfunktionen deaktivieren. Bei der Erteilung dieser Berechtigung ist Vorsicht geboten, weil die App-Komponenten unbrauchbar, inkonsistent oder instabil werden können.</string>
     <string name="permlab_grantRevokePermissions">Berechtigungen erteilen oder entziehen</string>
     <string name="permdesc_grantRevokePermissions">Hiermit kann eine App sich selbst oder anderen Apps bestimmte Berechtigungen erteilen oder entziehen. Schädliche Apps können hierdurch Zugriff auf Funktionen erlangen, den Sie nicht gewährt haben.</string>
     <string name="permlab_setPreferredApplications">Bevorzugte Apps festlegen</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">Google Services Map ändern</string>
     <string name="permdesc_writeGservices">Ermöglicht der App, Änderungen an der Karte für Google-Dienste vorzunehmen. Nicht für normale Apps vorgesehen.</string>
     <string name="permlab_receiveBootCompleted">Beim Start ausführen</string>
-    <string name="permdesc_receiveBootCompleted">Ermöglicht der App, sich selbst zu starten, sobald das System gebootet wurde. Dadurch kann es länger dauern, bis das Tablet gestartet wird, und durch die ständige Aktivität der App wird die gesamte Leistung des Tablets beeinträchtigt.</string>
+    <string name="permdesc_receiveBootCompleted">Ermöglicht der App, sich selbst zu starten, sobald das System gebootet wurde. Dadurch kann es länger dauern, bis das Telefon gestartet wird, und durch die ständige Aktivität der App wird die gesamte Leistung des Telefons beeinträchtigt.</string>
     <string name="permlab_broadcastSticky">Dauerhaften Broadcast senden</string>
-    <string name="permdesc_broadcastSticky">Ermöglicht der App, weiluerhafte Broadcasts zu senden, die auch nach Ende des Broadcasts bestehen bleiben. Ein zu intensiver Einsatz kann das Tablet langsam oder instabil machen, weil zu viel Arbeitsspeicher belegt wird.</string>
+    <string name="permdesc_broadcastSticky">Ermöglicht der App, weiluerhafte Broadcasts zu senden, die auch nach Ende des Broadcasts bestehen bleiben. Ein zu intensiver Einsatz kann das Telefon langsam oder instabil machen, weil zu viel Arbeitsspeicher belegt wird.</string>
     <string name="permlab_readContacts">Kontakte lesen</string>
-    <string name="permdesc_readContacts">Ermöglicht der App, Daten zu den auf Ihrem Tablet gespeicherten Kontakten zu lesen, einschließlich der Häufigkeit, mit der Sie bestimmte Personen angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Ihre Kontaktdaten zu speichern, und schädliche Apps können Kontaktdaten ohne Ihr Wissen weiterleiten.</string>
+    <string name="permdesc_readContacts">Ermöglicht der App, Daten zu den auf Ihrem Telefon gespeicherten Kontakten zu lesen, einschließlich der Häufigkeit, mit der Sie bestimmte Personen angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Ihre Kontaktdaten zu speichern, und schädliche Apps können Kontaktdaten ohne Ihr Wissen weiterleiten.</string>
     <string name="permlab_writeContacts">Kontakte ändern</string>
-    <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu Kontakten, die auf Ihrem Tablet gespeichert sind, zu ändern, einschließlich der Häufigkeit, mit der Sie bestimmte Kontakte angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
+    <string name="permdesc_writeContacts">Ermöglicht der App, Daten zu Kontakten, die auf Ihrem Telefon gespeichert sind, zu ändern, einschließlich der Häufigkeit, mit der Sie bestimmte Kontakte angerufen, diesen E-Mails gesendet oder anderweitig mit ihnen kommuniziert haben. Die Berechtigung erlaubt Apps, Kontaktdaten zu löschen.</string>
     <string name="permlab_readCallLog">Anrufliste lesen</string>
-    <string name="permdesc_readCallLog">Ermöglicht der App, die Anrufliste Ihres Tablets zu lesen, einschließlich der Daten über ein- und ausgehende Anrufe. Die Berechtigung erlaubt Apps, Ihre Anruflistendaten zu speichern, und schädliche Apps können diese Daten ohne Ihr Wissen weiterleiten.</string>
+    <string name="permdesc_readCallLog">Ermöglicht der App, die Anrufliste Ihres Telefons zu lesen, einschließlich der Daten über ein- und ausgehende Anrufe. Die Berechtigung erlaubt Apps, Ihre Anruflistendaten zu speichern, und schädliche Apps können diese Daten ohne Ihr Wissen weiterleiten.</string>
     <string name="permlab_writeCallLog">Anrufprotokoll bearbeiten</string>
-    <string name="permdesc_writeCallLog">Ermöglicht der App, das Anrufprotokoll Ihres Tablets zu ändern, einschließlich der Daten über ein- und ausgehende Anrufe. Schädliche Apps können so Ihr Anrufprotokoll löschen oder ändern.</string>
+    <string name="permdesc_writeCallLog">Ermöglicht der App, das Anrufprotokoll Ihres Telefons zu ändern, einschließlich der Daten über ein- und ausgehende Anrufe. Schädliche Apps können so Ihr Anrufprotokoll löschen oder ändern.</string>
     <string name="permlab_readProfile">Meine Kontaktkarten lesen</string>
     <string name="permdesc_readProfile">Ermöglicht der App, auf Ihrem Gerät gespeicherte personenbezogene Profildaten zu lesen, einschließlich Ihres Namens und Ihrer Kontaktdaten. Die App kann Sie somit identifizieren und Ihre Profildaten an andere senden.</string>
     <string name="permlab_writeProfile">Meine Kontaktkarten ändern</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">In sozialem Stream schreiben</string>
     <string name="permdesc_writeSocialStream">Ermöglicht der App, Updates aus sozialen Netzwerken von Ihren Freunden einzublenden. Seien Sie vorsichtig, wenn Sie Informationen teilen: Die App kann damit Nachrichten erstellen, die so erscheinen, als stammten Sie von einem Freund. Hinweis: Diese Berechtigung kann möglicherweise nicht in allen sozialen Netzwerken erzwungen werden.</string>
     <string name="permlab_readCalendar">Kalendertermine sowie vertrauliche Informationen lesen</string>
-    <string name="permdesc_readCalendar">Ermöglicht der App, alle auf Ihrem Tablet gespeicherten Kalendertermine zu lesen, einschließlich der von Freunden und Kollegen. Damit kann die App möglicherweise Ihre Kalenderdaten unabhängig von der Vertraulichkeit weiterleiten oder speichern.</string>
+    <string name="permdesc_readCalendar">Ermöglicht der App, alle auf Ihrem Telefon gespeicherten Kalendertermine zu lesen, einschließlich der von Freunden und Kollegen. Damit kann die App möglicherweise Ihre Kalenderdaten unabhängig von der Vertraulichkeit weiterleiten oder speichern.</string>
     <string name="permlab_writeCalendar">Ohne das Wissen der Eigentümer Kalendertermine hinzufügen oder ändern und E-Mails an Gäste senden</string>
-    <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die Sie auf Ihrem Tablet ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten sie vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
+    <string name="permdesc_writeCalendar">Ermöglicht der App, Termine, die Sie auf Ihrem Telefon ändern können, hinzuzufügen, zu entfernen und zu ändern, einschließlich der von Freunden und Kollegen. Damit kann die App Nachrichten senden, die so erscheinen, als stammten sie vom jeweiligen Kalenderinhaber, oder Termine ohne Wissen des Inhabers ändern.</string>
     <string name="permlab_accessMockLocation">Simulierte Standortquellen für Testzwecke</string>
     <string name="permdesc_accessMockLocation">Erstellen von simulierten Standortquellen für Testzwecke oder Installation eines neuen Standortanbieters. Damit kann die App den von anderen Standortquellen wie GPS oder Standortanbietern zurückgegebenen Standort und/oder Status überschreiben.</string>
     <string name="permlab_accessLocationExtraCommands">Auf zusätzliche Dienstanbieterbefehle für Standort zugreifen</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Ermöglicht der App, Bilder und Videos mit der Kamera aufzunehmen. Die Berechtigung erlaubt der App, die Kamera jederzeit und ohne Ihre Bestätigung zu nutzen.</string>
     <string name="permlab_cameraDisableTransmitLed">LED-Anzeige für Übertragung bei Kameranutzung deaktivieren</string>
     <string name="permdesc_cameraDisableTransmitLed">Vorinstallierte System-Apps können die LED-Anzeige für die Kameranutzung deaktivieren.</string>
-    <string name="permlab_brick">Tablet dauerhaft deaktivieren</string>
-    <string name="permdesc_brick">Ermöglicht der App, das gesamte Tablet dauerhaft zu deaktivieren. Dies birgt hohe Risiken.</string>
-    <string name="permlab_reboot">Tablet-Neustart erzwingen</string>
-    <string name="permdesc_reboot">Ermöglicht der App, einen Neustart des Tablets zu erzwingen</string>
+    <string name="permlab_brick">Telefon dauerhaft deaktivieren</string>
+    <string name="permdesc_brick">Ermöglicht der App, das gesamte Telefon dauerhaft zu deaktivieren. Dies birgt hohe Risiken.</string>
+    <string name="permlab_reboot">Neustart des Telefons erzwingen</string>
+    <string name="permdesc_reboot">Ermöglicht der App, einen Neustart des Telefons zu erzwingen</string>
     <string name="permlab_mount_unmount_filesystems">Auf Dateisystem des USB-Speichers zugreifen</string>
     <string name="permdesc_mount_unmount_filesystems">Ermöglicht der App, Dateisysteme für austauschbare Datenträger bereitzustellen oder die Bereitstellung aufzuheben</string>
     <string name="permlab_mount_format_filesystems">USB-Speicher löschen</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Ermöglicht der App, ohne Ihr Eingreifen Telefonnummern zu wählen. Dies kann zu unerwarteten Kosten und Anrufen führen. Beachten Sie, dass die App keine Notrufnummern wählen kann. Schädliche Apps verursachen möglicherweise Kosten, indem sie Anrufe ohne Ihre Bestätigung tätigen.</string>
     <string name="permlab_callPrivileged">Alle Telefonnummern direkt anrufen</string>
     <string name="permdesc_callPrivileged">Ermöglicht der App, ohne Ihr Eingreifen eine beliebige Telefonnummer zu wählen, einschließlich Notrufnummern. Schädliche Apps können so unnötige und illegale Notrufe tätigen.</string>
-    <string name="permlab_performCdmaProvisioning">CDMA-Tablet-Einrichtung direkt starten</string>
+    <string name="permlab_performCdmaProvisioning">CDMA-Telefoneinrichtung direkt starten</string>
     <string name="permdesc_performCdmaProvisioning">Ermöglicht der App, die CDMA-Bereitstellung zu starten. Schädliche Apps können so die CDMA-Bereitstellung unnötigerweise starten.</string>
     <string name="permlab_locationUpdates">Benachrichtigungen für Standortaktualisierung steuern</string>
     <string name="permdesc_locationUpdates">Ermöglicht der App, Mobilfunkbenachrichtigungen über Standort-Updates zu aktivieren bzw. zu deaktivieren. Nicht für normale Apps vorgesehen.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Ermöglicht der App, die Telefonfunktionen des Geräts zu steuern. Eine App mit dieser Berechtigung kann das Netzwerk wechseln oder das Radio des Telefons ein- und ausschalten, ohne Sie darüber zu informieren.</string>
     <string name="permlab_readPhoneState">Telefonstatus und Identität abrufen</string>
     <string name="permdesc_readPhoneState">Ermöglicht der App, auf die Telefonfunktionen des Geräts zuzugreifen. Die Berechtigung erlaubt der App, die Telefonnummer und Geräte-IDs zu erfassen, festzustellen, ob gerade ein Gespräch geführt wird, und die Rufnummer verbundener Anrufer zu lesen.</string>
-    <string name="permlab_wakeLock">Ruhezustand des Tablets deaktivieren</string>
-    <string name="permdesc_wakeLock">Ermöglicht der App, den Ruhezustand des Tablets zu deaktivieren</string>
-    <string name="permlab_devicePower">Tablet ein- oder ausschalten</string>
-    <string name="permdesc_devicePower">Ermöglicht der App, das Tablet ein- oder auszuschalten</string>
+    <string name="permlab_wakeLock">Ruhezustand deaktivieren</string>
+    <string name="permdesc_wakeLock">Ermöglicht der App, den Ruhezustand des Telefons zu deaktivieren</string>
+    <string name="permlab_devicePower">Gerät ein- oder ausschalten</string>
+    <string name="permdesc_devicePower">Ermöglicht der App, das Telefon ein- oder auszuschalten</string>
     <string name="permlab_factoryTest">In Werkstestmodus ausführen</string>
-    <string name="permdesc_factoryTest">Führt einen systemnahen Herstellertest durch, in dessen Rahmen auf die gesamte Tablet-Hardware zugegriffen werden kann. Nur verfügbar, wenn ein Tablet im Herstellertestmodus ausgeführt wird.</string>
+    <string name="permdesc_factoryTest">Führt einen systemnahen Herstellertest durch, in dessen Rahmen auf die gesamte Telefon-Hardware zugegriffen werden kann. Nur verfügbar, wenn ein Telefon im Herstellertestmodus ausgeführt wird.</string>
     <string name="permlab_setWallpaper">Hintergrund festlegen</string>
     <string name="permdesc_setWallpaper">Ermöglicht der App, den Hintergrund des Systems festzulegen</string>
     <string name="permlab_setWallpaperHints">Größe des Hintergrundbildes anpassen</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">System auf Werkseinstellung zurücksetzen</string>
     <string name="permdesc_masterClear">Ermöglicht der App, das System komplett auf die Werkseinstellungen zurückzusetzen. Hierbei werden alle Daten, Konfigurationen und installierten Apps gelöscht.</string>
     <string name="permlab_setTime">Zeit einstellen</string>
-    <string name="permdesc_setTime">Ermöglicht der App, die Zeitzone des Tablets zu ändern</string>
+    <string name="permdesc_setTime">Ermöglicht der App, die Uhrzeit des Telefons zu ändern</string>
     <string name="permlab_setTimeZone">Zeitzone festlegen</string>
-    <string name="permdesc_setTimeZone">Ermöglicht der App, die Zeitzone des Tablets zu ändern</string>
+    <string name="permdesc_setTimeZone">Ermöglicht der App, die Zeitzone des Telefons zu ändern</string>
     <string name="permlab_accountManagerService">Als Konto-Manager fungieren</string>
     <string name="permdesc_accountManagerService">Ermöglicht der App, Anrufe an Kontoauthentifizierer zu tätigen</string>
     <string name="permlab_getAccounts">Konten auf dem Gerät suchen</string>
-    <string name="permdesc_getAccounts">Ermöglicht der App, eine Liste der dem Tablet bekannten Konten abzurufen. Dabei kann es sich um Konten handeln, die von installierten Apps erstellt wurden.</string>
+    <string name="permdesc_getAccounts">Ermöglicht der App, eine Liste der dem Telefon bekannten Konten abzurufen. Dabei kann es sich um Konten handeln, die von installierten Apps erstellt wurden.</string>
     <string name="permlab_authenticateAccounts">Konten erstellen und Passwörter festlegen</string>
     <string name="permdesc_authenticateAccounts">Ermöglicht der App, die Kontoauthentifizierungsfunktionen des Konto-Managers zu verwenden, einschließlich der Funktionen zum Erstellen von Konten sowie zum Abrufen und Festlegen der entsprechenden Passwörter</string>
     <string name="permlab_manageAccounts">Konten hinzufügen oder entfernen</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">WLAN-Verbindungen herstellen und trennen</string>
     <string name="permdesc_changeWifiState">Ermöglicht der App, eine Verbindung zu WLAN-Zugriffspunkten herzustellen und solche zu trennen und Änderungen an der Gerätekonfiguration für WLAN-Netzwerke vorzunehmen.</string>
     <string name="permlab_changeWifiMulticastState">WLAN-Multicast-Empfang zulassen</string>
-    <string name="permdesc_changeWifiMulticastState">Ermöglicht der App, Pakete zu empfangen, die mithilfe von Multicast-Adressen an sämtliche Geräte in einem WLAN versendet wurden, nicht nur an Ihr Tablet. Dies kostet mehr Leistung als der Nicht-Multicast-Modus.</string>
+    <string name="permdesc_changeWifiMulticastState">Ermöglicht der App, Pakete zu empfangen, die mithilfe von Multicast-Adressen an sämtliche Geräte in einem WLAN versendet wurden, nicht nur an Ihr Telefon. Dies kostet mehr Leistung als der Nicht-Multicast-Modus.</string>
     <string name="permlab_bluetoothAdmin">Auf Bluetooth-Einstellungen zugreifen</string>
-    <string name="permdesc_bluetoothAdmin">Ermöglicht der App, das lokale Bluetooth-Tablet zu konfigurieren, Remote-Geräte zu erkennen und eine Verbindung zu diesen herzustellen</string>
+    <string name="permdesc_bluetoothAdmin">Ermöglicht der App, das lokale Bluetooth-Telefon zu konfigurieren, Remote-Geräte zu erkennen und eine Verbindung zu diesen herzustellen</string>
     <string name="permlab_accessWimaxState">WiMAX-Verbindungen herstellen und trennen</string>
     <string name="permdesc_accessWimaxState">Ermöglicht der App festzustellen, ob WiMAX aktiviert ist. Zudem kann sie Informationen zu verbundenen WiMAX-Netzwerken abrufen.</string>
     <string name="permlab_changeWimaxState">WiMAX-Status ändern</string>
-    <string name="permdesc_changeWimaxState">Ermöglicht der App, eine Verbindung zwischen dem Tablet und WiMAX-Netzwerken herzustellen und solche zu trennen.</string>
+    <string name="permdesc_changeWimaxState">Ermöglicht der App, eine Verbindung zwischen dem Telefon und WiMAX-Netzwerken herzustellen und solche zu trennen.</string>
     <string name="permlab_bluetooth">Pairing mit Bluetooth-Geräten durchführen</string>
-    <string name="permdesc_bluetooth">Ermöglicht der App, die Bluetooth-Konfiguration eines Tablets einzusehen und Verbindungen zu gekoppelten Geräten herzustellen und zu akzeptieren.</string>
+    <string name="permdesc_bluetooth">Ermöglicht der App, die Bluetooth-Konfiguration des Telefons einzusehen und Verbindungen mit gekoppelten Geräten herzustellen und zu akzeptieren.</string>
     <string name="permlab_nfc">Nahfeldkommunikation steuern</string>
     <string name="permdesc_nfc">Ermöglicht der App die Kommunikation mit Tags für die Nahfeldkommunikation, Karten und Readern</string>
     <string name="permlab_disableKeyguard">Display-Sperre deaktivieren</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Passwortregeln festlegen</string>
     <string name="policydesc_limitPassword">Zulässige Länge und Zeichen für Passwörter zum Entsperren des Bildschirms festlegen</string>
     <string name="policylab_watchLogin">Versuche zum Entsperren des Displays überwachen</string>
-    <string name="policydesc_watchLogin">Anzahl der falsch eingegebenen Passwörter beim Entsperren des Displays überwachen und Tablet sperren oder alle Daten auf dem Tablet löschen, wenn zu häufig ein falsches Passwort eingegeben wird</string>
+    <string name="policydesc_watchLogin">Anzahl der falsch eingegebenen Passwörter beim Entsperren des Bildschirms überwachen und Telefon sperren oder alle Daten auf dem Telefon löschen, wenn zu häufig ein falsches Passwort eingegeben wird</string>
     <string name="policylab_resetPassword">Passwort zum Entsperren des Displays ändern</string>
     <string name="policydesc_resetPassword">Passwort zum Entsperren des Bildschirms ändern</string>
     <string name="policylab_forceLock">Display sperren</string>
     <string name="policydesc_forceLock">Legen Sie fest, wie und wann der Bildschirm gesperrt wird.</string>
     <string name="policylab_wipeData">Alle Daten löschen</string>
-    <string name="policydesc_wipeData">Auf Werkseinstellungen zurücksetzen und Daten auf dem Tablet ohne Warnung löschen</string>
+    <string name="policydesc_wipeData">Auf Werkseinstellungen zurücksetzen und Daten auf dem Telefon ohne Warnung löschen</string>
     <string name="policylab_setGlobalProxy">Den globalen Proxy des Geräts festlegen</string>
     <string name="policydesc_setGlobalProxy">Den bei aktivierter Richtlinie zu verwendenden globalen Proxy des Geräts festlegen. Nur der erste Geräteadministrator kann den gültigen globalen Proxy festlegen.</string>
     <string name="policylab_expirePassword">Ablauf von Sperr-Passwort festlegen</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d %%</string>
     <string name="lockscreen_low_battery">Ladegerät anschließen</string>
     <string name="lockscreen_missing_sim_message_short">Keine SIM-Karte</string>
-    <string name="lockscreen_missing_sim_message">Keine SIM-Karte im Tablet</string>
+    <string name="lockscreen_missing_sim_message">Keine SIM-Karte im Telefon</string>
     <string name="lockscreen_missing_sim_instructions">Legen Sie eine SIM-Karte ein.</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM-Karte fehlt oder ist nicht lesbar. Bitte legen Sie eine SIM-Karte ein.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">SIM-Karte unbrauchbar</string>
@@ -778,11 +778,11 @@ Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Sie haben Ihr Passwort %d-mal falsch eingegeben.
 
 Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Tablet mithilfe Ihrer Google-Anmeldeinformationen zu entsperren.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe Ihrer Google-Anmeldeinformationen zu entsperren.
 
- Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d Mal erfolglos versucht, das Tablet zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Tablet auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Tablet zu entsperren. Das Tablet wird nun auf die Werkseinstellungen zurückgesetzt.</string>
+Bitte versuchen Sie es in %d Sekunden noch einmal."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d Mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf die Werkseinstellungen zurückgesetzt.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Versuchen Sie es in %d Sekunden erneut.</string>
     <string name="lockscreen_forgot_pattern_button_text">Muster vergessen?</string>
     <string name="lockscreen_glogin_forgot_pattern">Kontoentsperrung</string>
@@ -867,7 +867,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
     <string name="permlab_readHistoryBookmarks">Lesezeichen für Webseiten und das Webprotokoll lesen</string>
     <string name="permdesc_readHistoryBookmarks">Ermöglicht der App, den Verlauf aller mit dem Browser besuchten URLs und sämtliche Lesezeichen des Browsers zu lesen. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
     <string name="permlab_writeHistoryBookmarks">Lesezeichen für Webseiten setzen und das Webprotokoll aufzeichnen</string>
-    <string name="permdesc_writeHistoryBookmarks">Ermöglicht der App, den Browserverlauf und die Lesezeichen auf Ihrem Tablet zu ändern. Damit kann die App Browserdaten löschen und ändern. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
+    <string name="permdesc_writeHistoryBookmarks">Ermöglicht der App, den Browserverlauf und die Lesezeichen auf Ihrem Telefon zu ändern. Damit kann die App Browserdaten löschen und ändern. Hinweis: Diese Berechtigung kann nicht von Browsern von Drittanbietern oder anderen Apps mit Internetfunktionen erzwungen werden.</string>
     <string name="permlab_setAlarm">Wecker stellen</string>
     <string name="permdesc_setAlarm">Ermöglicht der App, einen Alarm in einer installierten Wecker-App einzurichten. Einige Wecker-Apps implementieren diese Funktion möglicherweise nicht.</string>
     <string name="permlab_addVoicemail">Mailbox-Nachrichten hinzufügen</string>
@@ -901,7 +901,7 @@ Möchten Sie diese Seite wirklich verlassen?"</string>
     <string name="searchview_description_submit">Anfrage senden</string>
     <string name="searchview_description_voice">Sprachsuche</string>
     <string name="enable_explore_by_touch_warning_title">\"Tippen &amp; Entdecken\" aktivieren?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s fordert die Aktivierung von \"Tippen &amp; Entdecken\". Wenn \"Tippen &amp; Entdecken\" aktiviert ist, können Sie Beschreibungen dessen hören oder sehen, was sich unter ihren Fingern befindet, oder Gesten ausführen, um mit dem Tablet zu kommunizieren.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s fordert die Aktivierung von \"Tippen &amp; Entdecken\". Wenn \"Tippen &amp; Entdecken\" aktiviert ist, können Sie Beschreibungen dessen hören oder sehen, was sich unter ihren Fingern befindet, oder Gesten ausführen, um mit dem Telefon zu kommunizieren.</string>
     <string name="oneMonthDurationPast">Vor 1 Monat</string>
     <string name="beforeOneMonthDurationPast">Vor mehr als 1 Monat</string>
     <string name="last_month">Letzter Monat</string>
@@ -1025,7 +1025,7 @@ Möchten Sie die Seite schließen?"</string>
     <string name="wifi_p2p_to_message">An:</string>
     <string name="wifi_p2p_enter_pin_message">Geben Sie die erforderliche PIN ein:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Das Tablet wird vorübergehend vom WLAN getrennt, während eine Verbindung mit %1$s besteht.</string>
+    <string name="wifi_p2p_frequency_conflict_message">Das Telefon wird vorübergehend vom WLAN getrennt, während eine Verbindung mit %1$s hergestellt wird.</string>
     <string name="select_character">Zeichen einfügen</string>
     <string name="sms_control_title">SMS werden gesendet</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> sendet eine große Anzahl SMS. Möchten Sie zulassen, dass die App weiterhin Nachrichten sendet?</string>
@@ -1274,7 +1274,7 @@ für Konto %s"</string>
     <string name="SetupCallDefault">Anruf annehmen?</string>
     <string name="activity_resolver_use_always">Immer</string>
     <string name="activity_resolver_use_once">Nur diesmal</string>
-    <string name="default_audio_route_name">Tablet</string>
+    <string name="default_audio_route_name">Telefon</string>
     <string name="default_audio_route_name_headphones">Kopfhörer</string>
     <string name="default_audio_route_name_dock_speakers">Dock-Lautsprecher</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Versuchen Sie es in %d Sekunden erneut."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. 
 
 Versuchen Sie es in %d Sekunden erneut."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d-mal erfolglos versucht, das Tablet zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Tablet auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
-    <string name="kg_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Tablet zu entsperren. Das Tablet wird nun auf die Werkseinstellungen zurückgesetzt.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Tablet mithilfe eines E-Mail-Kontos zu entsperren.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Nach %d weiteren erfolglosen Versuchen wird das Telefon auf die Werkseinstellungen zurückgesetzt und alle Nutzerdaten gehen verloren.</string>
+    <string name="kg_failed_attempts_now_wiping">Sie haben %d-mal erfolglos versucht, das Telefon zu entsperren. Das Telefon wird nun auf die Werkseinstellungen zurückgesetzt.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Sie haben Ihr Entsperrungsmuster %d-mal falsch gezeichnet. Nach %d weiteren erfolglosen Versuchen werden Sie aufgefordert, Ihr Telefon mithilfe eines E-Mail-Kontos zu entsperren.
 
  Versuchen Sie es in %d Sekunden erneut."</string>
     <string name="kg_text_message_separator">" – "</string>

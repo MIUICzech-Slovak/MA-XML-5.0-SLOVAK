@@ -37,6 +37,9 @@
         <item>अन्य</item>
         <item>कस्टम</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>घर</item>
         <item>कार्यालय</item>

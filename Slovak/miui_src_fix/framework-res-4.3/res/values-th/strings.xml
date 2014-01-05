@@ -180,9 +180,9 @@
     <string name="contentServiceSync">ซิงค์</string>
     <string name="contentServiceSyncNotificationTitle">ซิงค์</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">มีการลบ %s มากเกินไป</string>
-    <string name="low_memory">ที่จัดเก็บข้อมูลของแท็บเล็ตเต็ม ลบไฟล์บางไฟล์เพื่อเพิ่มพื้นที่ว่าง</string>
+    <string name="low_memory">ที่เก็บข้อมูลโทรศัพท์เต็ม ลบบางไฟล์เพื่อเพิ่มที่ว่าง</string>
     <string name="me">ฉัน</string>
-    <string name="power_dialog">ตัวเลือกของแท็บเล็ต</string>
+    <string name="power_dialog">ตัวเลือกโทรศัพท์</string>
     <string name="silent_mode">โหมดปิดเสียง</string>
     <string name="turn_on_radio">เปิดระบบไร้สาย</string>
     <string name="turn_off_radio">ปิดระบบไร้สาย</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">เสียงเรียกเข้าแบบสั่น</string>
     <string name="silent_mode_ring">เปิดเสียง</string>
     <string name="shutdown_progress">กำลังปิดระบบ...</string>
-    <string name="shutdown_confirm">แท็บเล็ตของคุณจะปิดการทำงาน</string>
+    <string name="shutdown_confirm">โทรศัพท์ของคุณจะปิดเครื่อง</string>
     <string name="shutdown_confirm_question">คุณต้องการปิดการทำงานหรือไม่</string>
     <string name="reboot_safemode_title">รีบูตเข้าสู่โหมดปลอดภัย</string>
     <string name="reboot_safemode_confirm">คุณต้องการรีบูตเข้าสู่โหมดปลอดภัยหรือไม่ การดำเนินการนี้จะปิดใช้งานแอปพลิเคชันของบุคคลที่สามทั้งหมดที่คุณได้ติดตั้งไว้ โดยจะคืนค่าเมื่อคุณรีบูตอีกครั้ง</string>
     <string name="recent_tasks_title">เมื่อเร็วๆ นี้</string>
     <string name="no_recent_tasks">ไม่มีแอปพลิเคชันล่าสุด</string>
-    <string name="global_actions">ตัวเลือกของแท็บเล็ต</string>
+    <string name="global_actions">ตัวเลือกโทรศัพท์</string>
     <string name="global_action_lock">ล็อกหน้าจอ</string>
     <string name="global_action_power_off">ปิดเครื่อง</string>
     <string name="global_action_bug_report">รายงานบั๊ก</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">ส่งกิจกรรมการตอบสนองผ่านทางข้อความ</string>
     <string name="permdesc_sendRespondViaMessageRequest">อนุญาตให้แอปพลิเคชันส่งคำขอไปยังแอปพลิเคชันการรับส่งข้อความอื่นๆ ในการจัดการกิจกรรมการตอบสนองผ่านทางข้อความสำหรับสายเรียกเข้า</string>
     <string name="permlab_readSms">อ่านข้อความของคุณ (SMS หรือ MMS)</string>
-    <string name="permdesc_readSms">อนุญาตให้แอปพลิเคชันอ่านข้อความ SMS ที่จัดเก็บไว้ในแท็บเล็ตหรือซิมการ์ด ซึ่งจะทำให้แอปพลิเคชันสามารถอ่านข้อความ SMS ทั้งหมดได้ไม่ว่าจะเป็นเนื้อหาใดหรือมีการรักษาข้อมูลที่เป็นความลับแบบใด</string>
+    <string name="permdesc_readSms">อนุญาตให้แอปพลิเคชันอ่านข้อความ SMS ที่จัดเก็บไว้ในโทรศัพท์หรือซิมการ์ด ซึ่งจะทำให้แอปพลิเคชันสามารถอ่านข้อความ SMS ทั้งหมดได้ไม่ว่าจะเป็นเนื้อหาใดหรือมีการรักษาข้อมูลที่เป็นความลับแบบใด</string>
     <string name="permlab_writeSms">แก้ไขข้อความของคุณ (SMS หรือ MMS)</string>
-    <string name="permdesc_writeSms">อนุญาตให้แอปพลิเคชันเขียนลงในข้อความ SMS ที่เก็บไว้ในแท็บเล็ตหรือซิมการ์ดของคุณ แอปพลิเคชันที่เป็นอันตรายอาจลบข้อความของคุณทิ้ง</string>
+    <string name="permdesc_writeSms">อนุญาตให้แอปพลิเคชันเขียนลงในข้อความ SMS ที่เก็บไว้ในโทรศัพท์หรือซิมการ์ดของคุณ แอปพลิเคชันที่เป็นอันตรายอาจลบข้อความของคุณทิ้ง</string>
     <string name="permlab_receiveWapPush">รับข้อความ (WAP)</string>
     <string name="permdesc_receiveWapPush">อนุญาตให้แอปพลิเคชันรับและประมวลผลข้อความ WAP การอนุญาตนี้รวมถึงความสามารถในการตรวจสอบหรือลบข้อความที่ส่งมาให้คุณโดยไม่ต้องแสดงให้คุณเห็น</string>
     <string name="permlab_getTasks">เรียกแอปพลิเคชันที่ทำงานอยู่</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">ตรึงหน้าจอ</string>
     <string name="permdesc_freezeScreen">อนุญาตให้แอปพลิเคชันตรึงหน้าจอไว้ชั่วคราวสำหรับการเปลี่ยนเป็นแบบเต็มหน้าจอ</string>
     <string name="permlab_injectEvents">กดปุ่มต่างๆ และปุ่ม Ctrl</string>
-    <string name="permdesc_injectEvents">อนุญาตให้แอปพลิเคชันส่งกิจกรรมการนำเข้าข้อมูลของตนเอง (เช่น การกดปุ่ม) ไปยังแอปพลิเคชันอื่นๆ แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้เข้าควบคุมแท็บเล็ต</string>
+    <string name="permdesc_injectEvents">อนุญาตให้แอปพลิเคชันส่งกิจกรรมการนำเข้าข้อมูลของตนเอง (เช่น การกดปุ่ม) ไปยังแอปพลิเคชันอื่นๆ แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้เข้าควบคุมโทรศัพท์</string>
     <string name="permlab_readInputState">บันทึกสิ่งที่คุณพิมพ์และการทำงานของคุณ</string>
     <string name="permdesc_readInputState">อนุญาตให้แอปพลิเคชันดูแป้นที่คุณกดแม้ในขณะที่กำลังโต้ตอบกับแอปพลิเคชันอื่น (เช่น ขณะพิมพ์รหัสผ่าน) ไม่ควรต้องใช้สำหรับแอปพลิเคชันทั่วไป</string>
     <string name="permlab_bindInputMethod">เชื่อมโยงกับวิธีป้อนข้อมูล</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">ส่งสัญญาณ Linux ไปยังแอปพลิเคชัน</string>
     <string name="permdesc_signalPersistentProcesses">อนุญาตให้แอปพลิเคชันร้องขอให้ส่งสัญญาณแจ้งไปยังกระบวนการที่ยังทำงานอยู่ทั้งหมด</string>
     <string name="permlab_persistentActivity">ทำให้แอปพลิเคชันทำงานเสมอ</string>
-    <string name="permdesc_persistentActivity">อนุญาตให้แอปพลิเคชันทำให้ส่วนหนึ่งของตัวเองคงอยู่ถาวรในหน่วยความจำ ซึ่งจะจำกัดพื้นที่หน่วยความจำที่ใช้งานได้ของแอปพลิเคชันอื่นๆ และทำให้แท็บเล็ตทำงานช้าลง</string>
+    <string name="permdesc_persistentActivity">อนุญาตให้แอปพลิเคชันทำให้ส่วนหนึ่งของตัวเองคงอยู่ถาวรในหน่วยความจำ ซึ่งจะจำกัดพื้นที่หน่วยความจำที่ใช้งานได้ของแอปพลิเคชันอื่นๆ และทำให้โทรศัพท์ทำงานช้าลง</string>
     <string name="permlab_deletePackages">ลบแอปพลิเคชัน</string>
     <string name="permdesc_deletePackages">อนุญาตให้แอปพลิเคชันลบแพคเกจ Android แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้ลบแอปพลิเคชันที่สำคัญ</string>
     <string name="permlab_clearAppUserData">ลบข้อมูลของแอปพลิเคชันอื่น</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">ติดตั้งแอปพลิเคชันโดยตรง</string>
     <string name="permdesc_installPackages">อนุญาตให้แอปพลิเคชันติดตั้งแพคเกจ Android ใหม่หรือที่อัปเดต แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้ในการเพิ่มแอปพลิเคชันใหม่ๆ ด้วยสิทธิ์ที่สูงนี้ได้ตามต้องการ</string>
     <string name="permlab_clearAppCache">ลบข้อมูลแคชของแอปพลิเคชันทั้งหมด</string>
-    <string name="permdesc_clearAppCache">อนุญาตให้แอปพลิเคชันสร้างพื้นที่ว่างในที่จัดเก็บข้อมูลของแท็บเล็ต โดยลบไฟล์ในไดเรกทอรีแคชของแอปพลิเคชันอื่นๆ ซึ่งอาจทำให้แอปพลิเคชันอื่นเริ่มทำงานช้ากว่าเดิมเนื่องจากต้องดึงข้อมูลของตนซ้ำ</string>
+    <string name="permdesc_clearAppCache">อนุญาตให้แอปพลิเคชันสร้างพื้นที่ว่างในที่จัดเก็บข้อมูลของโทรศัพท์ โดยลบไฟล์ในไดเรกทอรีแคชของแอปพลิเคชันอื่นๆ ซึ่งอาจทำให้แอปพลิเคชันอื่นเริ่มทำงานช้ากว่าเดิมเนื่องจากต้องดึงข้อมูลของตนซ้ำ</string>
     <string name="permlab_movePackage">ย้ายแหล่งข้อมูลแอปพลิเคชัน</string>
     <string name="permdesc_movePackage">อนุญาตให้แอปพลิเคชันย้ายแหล่งข้อมูลแอปพลิเคชันจากภายในไปยังสื่อภายนอกและกลับกัน</string>
     <string name="permlab_readLogs">อ่านข้อมูลบันทึกที่สำคัญ</string>
-    <string name="permdesc_readLogs">อนุญาตให้แอปพลิเคชันอ่านจากไฟล์บันทึกต่างๆ ของระบบ เพื่อค้นหาข้อมูลทั่วไปเกี่ยวกับสิ่งที่คุณกำลังทำอยู่กับแท็บเล็ต ซึ่งอาจรวมไปถึงข้อมูลส่วนบุคคลหรือส่วนตัว</string>
+    <string name="permdesc_readLogs">อนุญาตให้แอปพลิเคชันอ่านจากไฟล์บันทึกต่างๆ ของระบบ เพื่อค้นหาข้อมูลทั่วไปเกี่ยวกับสิ่งที่คุณกำลังทำอยู่กับโทรศัพท์ ซึ่งอาจรวมไปถึงข้อมูลส่วนบุคคลหรือส่วนตัว</string>
     <string name="permlab_anyCodecForPlayback">ใช้ตัวถอดรหัสสื่อใดๆ ก็ได้สำหรับการเล่น</string>
     <string name="permdesc_anyCodecForPlayback">อนุญาตให้แอปพลิเคชันใช้ตัวถอดรหัสสื่อใดก็ได้ที่ติดตั้งไว้เพื่อถอดรหัสสำหรับการเล่น</string>
     <string name="permlab_diagnostic">อ่าน/เขียนไปยังรีซอร์สที่เป็นเจ้าของโดยกลุ่มวินิจฉัย</string>
     <string name="permdesc_diagnostic">อนุญาตให้แอปพลิเคชันอ่านและเขียนไปยังทรัพยากรที่เป็นของกลุ่มวินิจฉัย เช่น ไฟล์ใน /dev การทำเช่นนี้อาจส่งผลต่อความเสถียรและความปลอดภัยของระบบ และควรใช้สำหรับการวินิจฉัยเกี่ยวกับฮาร์ดแวร์โดยเฉพาะที่ทำโดยผู้ผลิตหรือผู้ให้บริการเท่านั้น</string>
     <string name="permlab_changeComponentState">เปิดหรือปิดใช้งานคอมโพเนนต์ของแอปพลิเคชัน</string>
-    <string name="permdesc_changeComponentState">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงการเปิดใช้งานส่วนประกอบของแอปพลิเคชันอื่น แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้ปิดใช้งานความสามารถของแท็บเล็ตที่สำคัญ ต้องใช้ความระมัดระวังสำหรับการอนุญาตนี้ เนื่องจากอาจทำให้ส่วนประกอบต่างๆ ของแอปพลิเคชันไม่สามารถใช้งาน ไม่สอดคล้อง หรือมีสถานะที่ไม่เสถียร</string>
+    <string name="permdesc_changeComponentState">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงการเปิดใช้งานส่วนประกอบของแอปพลิเคชันอื่น แอปพลิเคชันที่เป็นอันตรายอาจใช้การอนุญาตนี้ปิดใช้งานความสามารถที่สำคัญของโทรศัพท์ ต้องใช้ความระมัดระวังสำหรับการอนุญาตนี้เนื่องจากอาจทำให้ส่วนประกอบต่างๆ ของแอปพลิเคชันไม่สามารถใช้งาน ไม่สอดคล้อง หรือมีสถานะที่ไม่เสถียร</string>
     <string name="permlab_grantRevokePermissions">อนุญาตหรือยกเลิกการอนุญาต</string>
     <string name="permdesc_grantRevokePermissions">อนุญาตให้แอปพลิเคชันให้หรือยกเลิกการอนุญาตบางอย่างของตัวเองหรือแอปพลิเคชันอื่น แอปพลิเคชันที่เป็นอันตรายอาจใช้การทำงานนี้ในการเข้าถึงคุณลักษณะที่คุณไม่อนุญาต</string>
     <string name="permlab_setPreferredApplications">ตั้งค่าแอปพลิเคชันที่ต้องการ</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">แก้ไขแผนที่ของบริการ Google</string>
     <string name="permdesc_writeGservices">อนุญาตให้แอปพลิเคชันแก้ไขแผนที่บริการของ Google ไม่ใช้สำหรับแอปพลิเคชันทั่วไป</string>
     <string name="permlab_receiveBootCompleted">ทำงานเมื่อเริ่มต้น</string>
-    <string name="permdesc_receiveBootCompleted">อนุญาตให้แอปพลิเคชันเริ่มต้นตัวเองทันทีที่ระบบบูตเสร็จสิ้น ซึ่งจะทำให้การเริ่มต้นแท็บเล็ตใช้เวลานานกว่าปกติและแอปพลิเคชันจะทำให้การทำงานของแท็บเล็ตโดยรวมช้าลงด้วยการทำงานอยู่ตลอดเวลา</string>
+    <string name="permdesc_receiveBootCompleted">อนุญาตให้แอปพลิเคชันเริ่มต้นตัวเองทันทีที่ระบบบูตเสร็จสิ้น ซึ่งจะทำให้การเริ่มต้นโทรศัพท์ใช้เวลานานกว่าปกติและแอปพลิเคชันจะทำให้การทำงานของโทรศัพท์โดยรวมช้าลงด้วยการทำงานอยู่ตลอดเวลา</string>
     <string name="permlab_broadcastSticky">ส่งการกระจายข้อมูลที่ติดหนึบ</string>
-    <string name="permdesc_broadcastSticky">อนุญาตให้แอปพลิเคชันส่งการกระจายข้อมูลที่ติดหนึบ ซึ่งจะยังคงอยู่หลังจากการกระจายข้อมูลจบไปแล้ว การใช้งานมากเกินไปอาจทำให้แท็บเล็ตทำงานช้าลงหรือไม่เสถียรโดยการใช้หน่วยความจำมากเกินไป</string>
+    <string name="permdesc_broadcastSticky">อนุญาตให้แอปพลิเคชันส่งการกระจายข้อมูลที่ติดหนึบ ซึ่งจะยังคงอยู่หลังจากการกระจายข้อมูลจบไปแล้ว การใช้งานมากเกินไปอาจทำให้โทรศัพท์ทำงานช้าลงหรือไม่เสถียรโดยการใช้หน่วยความจำมากเกินไป</string>
     <string name="permlab_readContacts">อ่านผู้ติดต่อของคุณ</string>
-    <string name="permdesc_readContacts">อนุญาตให้แอปพลิเคชันอ่านข้อมูลผู้ติดต่อที่จัดเก็บไว้ในแท็บเล็ต ซึ่งรวมถึงความถี่ในการโทร ส่งอีเมล หรือการติดต่อด้วยวิธีอื่นๆ กับบุคคลใดบุคคลหนึ่ง การอนุญาตนี้ทำให้แอปพลิเคชันสามารถบันทึกข้อมูลผู้ติดต่อของคุณ และแอปพลิเคชันที่เป็นอันตรายอาจแบ่งปันข้อมูลผู้ติดต่อโดยไม่แจ้งให้คุณทราบ</string>
+    <string name="permdesc_readContacts">อนุญาตให้แอปพลิเคชันอ่านข้อมูลผู้ติดต่อที่จัดเก็บไว้ในโทรศัพท์ ซึ่งรวมถึงความถี่ในการโทร ส่งอีเมล หรือการติดต่อด้วยวิธีอื่นๆ กับบุคคลใดบุคคลหนึ่ง การอนุญาตนี้ทำให้แอปพลิเคชันสามารถบันทึกข้อมูลผู้ติดต่อของคุณ และแอปพลิเคชันที่เป็นอันตรายอาจแบ่งปันข้อมูลผู้ติดต่อโดยไม่แจ้งให้คุณทราบ</string>
     <string name="permlab_writeContacts">แก้ไขผู้ติดต่อของคุณ</string>
-    <string name="permdesc_writeContacts">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงข้อมูลผู้ติดต่อที่จัดเก็บไว้ในแท็บเล็ต ซึ่งรวมถึงความถี่ในการโทร ส่งอีเมล หรือการติดต่อด้วยวิธีอื่นๆ กับบุคคลใดบุคคลหนึ่ง การอนุญาตนี้ทำให้แอปพลิเคชันสามารถลบข้อมูลผู้ติดต่อได้</string>
+    <string name="permdesc_writeContacts">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงข้อมูลผู้ติดต่อที่จัดเก็บไว้ในโทรศัพท์ ซึ่งรวมถึงความถี่ในการโทร ส่งอีเมล หรือการติดต่อด้วยวิธีอื่นๆ กับบุคคลใดบุคคลหนึ่ง การอนุญาตนี้ทำให้แอปพลิเคชันสามารถลบข้อมูลผู้ติดต่อได้</string>
     <string name="permlab_readCallLog">อ่านประวัติการโทร</string>
-    <string name="permdesc_readCallLog">อนุญาตให้แอปพลิเคชันอ่านบันทึกการโทรของแท็บเล็ต ซึ่งรวมถึงข้อมูลเกี่ยวกับการโทรเข้าและโทรออก การอนุญาตนี้ทำให้แอปพลิเคชันสามารถบันทึกข้อมูลบันทึกการโทรของคุณได้ และแอปพลิเคชันที่เป็นอันตรายอาจแบ่งปันข้อมูลบันทึกการโทรนี้โดยไม่แจ้งให้คุณทราบ</string>
+    <string name="permdesc_readCallLog">อนุญาตให้แอปพลิเคชันอ่านบันทึกการโทรของโทรศัพท์ ซึ่งรวมถึงข้อมูลเกี่ยวกับการโทรเข้าและโทรออก การอนุญาตนี้ทำให้แอปพลิเคชันสามารถบันทึกข้อมูลบันทึกการโทรของคุณได้ และแอปพลิเคชันที่เป็นอันตรายอาจแบ่งปันข้อมูลบันทึกการโทรนี้โดยไม่แจ้งให้คุณทราบ</string>
     <string name="permlab_writeCallLog">เขียนประวัติการโทร</string>
-    <string name="permdesc_writeCallLog">อนุญาตให้แอปแก้ไขประวัติการโทรจากแท็บเล็ตของคุณ รวมถึงข้อมูลเกี่ยวกับสายเรียกเข้าและการโทรออก แอปที่เป็นอันตรายอาจใช้สิ่งนี้เพื่อลบหรือแก้ไขประวัติการโทรของคุณ</string>
+    <string name="permdesc_writeCallLog">อนุญาตให้แอปแก้ไขประวัติการโทรจากโทรศัพท์ของคุณ รวมถึงข้อมูลเกี่ยวกับสายเรียกเข้าและการโทรออก แอปที่เป็นอันตรายอาจใช้สิ่งนี้เพื่อลบหรือแก้ไขประวัติการโทรของคุณ</string>
     <string name="permlab_readProfile">อ่านบัตรผู้ติดต่อของคุณเอง</string>
     <string name="permdesc_readProfile">อนุญาตให้แอปพลิเคชันอ่านข้อมูลส่วนตัวในโปรไฟล์ที่จัดเก็บไว้ในอุปกรณ์ของคุณ เช่น ชื่อและข้อมูลติดต่อของคุณ ซึ่งหมายความว่าแอปพลิเคชันสามารถระบุตัวคุณและอาจส่งข้อมูลโปรไฟล์ของคุณให้ผู้อื่น</string>
     <string name="permlab_writeProfile">แก้ไขบัตรผู้ติดต่อของคุณเอง</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">เขียนในสตรีมเครือข่ายสังคม</string>
     <string name="permdesc_writeSocialStream">อนุญาตให้แอปพลิเคชันแสดงการอัปเดตทางสังคมจากเพื่อนของคุณ โปรดแบ่งปันข้อมูลอย่างระมัดระวังเนื่องจากการอนุญาตนี้ทำให้แอปพลิเคชันสามารถสร้างข้อความที่ดูเหมือนมาจากเพื่อนได้ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้ได้กับทุกเครือข่ายสังคม</string>
     <string name="permlab_readCalendar">อ่านกิจกรรมบนปฏิทินรวมถึงข้อมูลที่เป็นความลับ</string>
-    <string name="permdesc_readCalendar">อนุญาตให้แอปพลิเคชันอ่านกิจกรรมในปฏิทินทั้งหมดที่จัดเก็บไว้ในแท็บเล็ตของคุณ ซึ่งรวมถึงกิจกรรมของเพื่อนหรือเพื่อนร่วมงานด้วย ซึ่งอาจทำให้แอปพลิเคชันสามารถแบ่งปันหรือบันทึกข้อมูลในปฏิทินของคุณได้ไม่ว่าจะมีการรักษาข้อมูลที่เป็นความลับหรือหรือข้อมูลที่อ่อนไหวแบบใดก็ตาม</string>
+    <string name="permdesc_readCalendar">อนุญาตให้แอปพลิเคชันอ่านกิจกรรมในปฏิทินทั้งหมดที่จัดเก็บไว้ในโทรศัพท์ของคุณ ซึ่งรวมถึงกิจกรรมของเพื่อนหรือเพื่อนร่วมงานด้วย ซึ่งอาจทำให้แอปพลิเคชันสามารถแบ่งปันหรือบันทึกข้อมูลในปฏิทินของคุณได้ไม่ว่าจะมีการรักษาข้อมูลที่เป็นความลับหรือหรือข้อมูลที่อ่อนไหวแบบใดก็ตาม</string>
     <string name="permlab_writeCalendar">เพิ่มหรือแก้ไขกิจกรรมบนปฏิทินและส่งอีเมลให้ผู้เข้าร่วมโดยที่เจ้าของไม่ทราบ</string>
-    <string name="permdesc_writeCalendar">อนุญาตให้แอปพลิเคชันเพิ่ม ลบ เปลี่ยนกิจกรรมที่คุณสามารถเปลี่ยนแปลงในแท็บเล็ตได้ รวมถึงกิจกรรมของเพื่อนหรือเพื่อนร่วมงานด้วย การอนุญาตนี้อาจทำให้แอปพลิเคชันสามารถส่งข้อความที่มาจากเจ้าของปฏิทิน หรือเปลี่ยนแปลงกิจกรรมโดยที่เจ้าของไม่ทราบ</string>
+    <string name="permdesc_writeCalendar">อนุญาตให้แอปพลิเคชันเพิ่ม ลบ เปลี่ยนกิจกรรมที่คุณสามารถเปลี่ยนแปลงในโทรศัพท์ได้ รวมถึงกิจกรรมของเพื่อนหรือเพื่อนร่วมงานด้วย การอนุญาตนี้อาจทำให้แอปพลิเคชันสามารถส่งข้อความที่มาจากเจ้าของปฏิทิน หรือเปลี่ยนแปลงกิจกรรมโดยที่เจ้าของไม่ทราบ</string>
     <string name="permlab_accessMockLocation">จำลองที่มาของตำแหน่งเพื่อทดสอบ</string>
     <string name="permdesc_accessMockLocation">สร้างต้นทางของตำแหน่งจำลองสำหรับการทดสอบหรือติดตั้งผู้ให้บริการตำแหน่งรายใหม่ ซึ่งจะทำให้แอปพลิเคชันสามารถแทนที่ตำแหน่งและ/หรือสถานะที่ส่งกลับมาจากต้นทางของตำแหน่งอื่นๆ เช่น GPS หรือผู้ให้บริการตำแหน่งได้</string>
     <string name="permlab_accessLocationExtraCommands">เข้าถึงคำสั่งของโปรแกรมแจ้งตำแหน่งพิเศษ</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">อนุญาตให้แอปพลิเคชันถ่ายภาพและวิดีโอด้วยกล้องถ่ายรูปนี้ การอนุญาตนี้จะทำให้แอปพลิเคชันสามารถใช้กล้องถ่ายรูปได้ทุกเมื่อโดยไม่ต้องรอการยืนยันจากคุณ</string>
     <string name="permlab_cameraDisableTransmitLed">ปิดไฟสัญญาณ LED เมื่อใช้งานกล้อง</string>
     <string name="permdesc_cameraDisableTransmitLed">อนุญาตให้แอปพลิเคชันระบบที่ติดตั้งล่วงหน้าปิดไฟสัญญาณ LED ของกล้อง</string>
-    <string name="permlab_brick">ปิดการใช้งานแท็บเล็ตอย่างถาวร</string>
-    <string name="permdesc_brick">อนุญาตให้แอปพลิเคชันปิดใช้งานแท็บเล็ตทั้งเครื่องอย่างถาวร การดำเนินการนี้เป็นอันตรายอย่างยิ่ง</string>
-    <string name="permlab_reboot">บังคับให้แท็บเล็ตรีบูต</string>
-    <string name="permdesc_reboot">อนุญาตให้แอปพลิเคชันบังคับให้แท็บเล็ตรีบูต</string>
+    <string name="permlab_brick">ปิดการใช้งานโทรศัพท์ถาวร</string>
+    <string name="permdesc_brick">อนุญาตให้แอปพลิเคชันปิดใช้งานโทรศัพท์ทั้งหมดอย่างถาวร การทำเช่นนี้ถือว่าอันตรายมาก</string>
+    <string name="permlab_reboot">บังคับให้โทรศัพท์รีบูต</string>
+    <string name="permdesc_reboot">อนุญาตให้แอปพลิเคชันบังคับโทรศัพท์ให้รีบูต</string>
     <string name="permlab_mount_unmount_filesystems">เข้าถึงระบบไฟล์ของ USB</string>
     <string name="permdesc_mount_unmount_filesystems">อนุญาตให้แอปพลิเคชันต่อเชื่อมและยกเลิกการต่อเชื่อมระบบไฟล์สำหรับที่เก็บข้อมูลแบบถอดได้</string>
     <string name="permlab_mount_format_filesystems">ลบที่จัดเก็บข้อมูล USB</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">อนุญาตให้แอปพลิเคชันโทรเข้าโทรศัพท์โดยไม่ต้องให้คุณจัดการ ซึ่งอาจทำให้มีการเรียกเก็บเงินหรือการโทรที่ไม่คาดคิด โปรดทราบว่าการทำงานนี้ไม่ได้อนุญาตให้แอปพลิเคชันโทรไปหมายเลขฉุกเฉิน แอปพลิเคชันที่เป็นอันตรายอาจทำให้คุณต้องเสียค่าบริการด้วยการโทรโดยไม่ขอการยืนยันจากคุณ</string>
     <string name="permlab_callPrivileged">โทรติดต่อหมายเลขโทรศัพท์ใดๆ โดยตรง</string>
     <string name="permdesc_callPrivileged">อนุญาตให้แอปพลิเคชันโทรไปยังหมายเลขโทรศัพท์ใดๆ ก็ได้ รวมทั้งหมายเลขฉุกเฉิน โดยคุณไม่ต้องดำเนินการใดๆ แอปพลิเคชันที่เป็นอันตรายอาจโทรไปยังบริการฉุกเฉินโดยที่ไม่จำเป็นและผิดกฎหมาย</string>
-    <string name="permlab_performCdmaProvisioning">เริ่มการตั้งค่าแท็บเล็ต CDMA โดยตรง</string>
+    <string name="permlab_performCdmaProvisioning">เริ่มการตั้งค่าโทรศัพท์ CDMA โดยตรง</string>
     <string name="permdesc_performCdmaProvisioning">อนุญาตให้แอปพลิเคชันเริ่มการให้บริการ CDMA แอปพลิเคชันที่เป็นอันตรายอาจเริ่มการให้บริการ CDMA โดยไม่จำเป็นได้</string>
     <string name="permlab_locationUpdates">ควบคุมการแจ้งเตือนการอัปเดตตำแหน่ง</string>
     <string name="permdesc_locationUpdates">อนุญาตให้แอปพลิเคชันเปิด/ปิดใช้งานการแจ้งเตือนการอัปเดตตำแหน่งจากวิทยุ ไม่ใช้สำหรับแอปพลิเคชันทั่วไป</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">อนุญาตให้แอปพลิชันควบคุมคุณลักษณะโทรศัพท์ของอุปกรณ์ แอปพลิเคชันที่ได้รับอนุญาตจะสามารถสลับเครือข่าย เปิดและปิดวิทยุในโทรศัพท์ และคุณลักษณะอื่นที่คล้ายกันนี้ได้โดยไม่ต้องแจ้งให้คุณทราบ</string>
     <string name="permlab_readPhoneState">อ่านสถานะและข้อมูลระบุตัวตนของโทรศัพท์</string>
     <string name="permdesc_readPhoneState">อนุญาตให้แอปพลิเคชันเข้าถึงคุณลักษณะโทรศัพท์ของอุปกรณ์ การอนุญาตนี้ทำให้แอปพลิเคชันสามารถตรวจสอบหมายเลขโทรศัพท์และรหัสอุปกรณ์ ตรวจสอบว่ามีการโทรที่ทำงานอยู่หรือไม่ และตรวจสอบหมายเลขระยะไกลที่เชื่อมต่อด้วยการโทร</string>
-    <string name="permlab_wakeLock">ป้องกันไม่ให้แท็บเล็ตเข้าสู่โหมดสลีป</string>
-    <string name="permdesc_wakeLock">อนุญาตให้แอปพลิเคชันป้องกันไม่ให้แท็บเล็ตเข้าสู่โหมดสลีป</string>
-    <string name="permlab_devicePower">เปิดหรือปิดเครื่องแท็บเล็ต</string>
-    <string name="permdesc_devicePower">อนุญาตให้แอปพลิเคชันเปิดหรือปิดแท็บเล็ต</string>
+    <string name="permlab_wakeLock">ป้องกันไม่ให้โทรศัพท์เข้าโหมดสลีป</string>
+    <string name="permdesc_wakeLock">อนุญาตให้แอปพลิเคชันป้องกันไม่ให้โทรศัพท์เข้าสู่โหมดสลีป</string>
+    <string name="permlab_devicePower">เปิดหรือปิดโทรศัพท์</string>
+    <string name="permdesc_devicePower">อนุญาตให้แอปพลิเคชันเปิดหรือปิดโทรศัพท์</string>
     <string name="permlab_factoryTest">เรียกใช้ในโหมดการทดสอบจากโรงงาน</string>
-    <string name="permdesc_factoryTest">เรียกใช้การทดสอบจากผู้ผลิตในระดับต่ำ โดยอนุญาตให้เข้าถึงฮาร์ดแวร์แท็บเล็ตอย่างสมบูรณ์ ใช้ได้เฉพาะช่วงที่แท็บเล็ตทำงานในโหมดการทดสอบจากผู้ผลิตเท่านั้น</string>
+    <string name="permdesc_factoryTest">เรียกใช้การทดสอบจากผู้ผลิตในระดับต่ำ โดยอนุญาตให้เข้าถึงฮาร์ดแวร์โทรศัพท์อย่างสมบูรณ์ ใช้ได้เฉพาะช่วงที่โทรศัพท์ทำงานในโหมดการทดสอบจากผู้ผลิตเท่านั้น</string>
     <string name="permlab_setWallpaper">ตั้งค่าวอลเปเปอร์</string>
     <string name="permdesc_setWallpaper">อนุญาตให้แอปพลิเคชันตั้งค่าวอลเปเปอร์ระบบ</string>
     <string name="permlab_setWallpaperHints">ปรับขนาดวอลเปเปอร์ของคุณ</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">รีเซ็ตระบบเป็นค่าเริ่มต้นจากโรงงาน</string>
     <string name="permdesc_masterClear">อนุญาตให้แอปพลิเคชันรีเซ็ตระบบทั้งหมดเป็นค่าเริ่มต้นจากโรงงาน ลบข้อมูลทั้งหมด การกำหนดค่า และแอปพลิเคชันที่ติดตั้งไว้</string>
     <string name="permlab_setTime">ตั้งเวลา</string>
-    <string name="permdesc_setTime">อนุญาตให้แอปพลิเคชันเปลี่ยนเวลานาฬิกาของแท็บเล็ต</string>
+    <string name="permdesc_setTime">อนุญาตให้แอปพลิเคชันเปลี่ยนเวลานาฬิกาของโทรศัพท์</string>
     <string name="permlab_setTimeZone">ตั้งค่าเขตเวลา</string>
-    <string name="permdesc_setTimeZone">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงเขตเวลาของแท็บเล็ต</string>
+    <string name="permdesc_setTimeZone">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงเขตเวลาของโทรศัพท์</string>
     <string name="permlab_accountManagerService">ทำหน้าที่เป็น AccountManagerService</string>
     <string name="permdesc_accountManagerService">อนุญาตให้แอปพลิเคชันโทรไปยัง AccountAuthenticators</string>
     <string name="permlab_getAccounts">ค้นหาบัญชีในอุปกรณ์</string>
-    <string name="permdesc_getAccounts">อนุญาตให้แอปพลิเคชันรับรายการบัญชีที่แท็บเล็ตรู้จัก ซึ่งอาจรวมถึงบัญชีใดๆ ก็ตามที่แอปพลิเคชันซึ่งคุณติดตั้งไว้ได้สร้างขึ้น</string>
+    <string name="permdesc_getAccounts">อนุญาตให้แอปพลิเคชันรับรายการบัญชีที่โทรศัพท์รู้จัก ซึ่งอาจรวมถึงบัญชีใดๆ ก็ตามที่แอปพลิเคชันซึ่งคุณติดตั้งไว้ได้สร้างขึ้น</string>
     <string name="permlab_authenticateAccounts">สร้างบัญชีและตั้งรหัสผ่าน</string>
     <string name="permdesc_authenticateAccounts">อนุญาตให้แอปพลิเคชันใช้ตัวตรวจสอบสิทธิ์บัญชีของ AccountManager รวมถึงการสร้างบัญชีและรับและตั้งค่ารหัสผ่าน</string>
     <string name="permlab_manageAccounts">เพิ่มหรือนำบัญชีออก</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">เชื่อมต่อและหยุดเชื่อมต่อ WiFi</string>
     <string name="permdesc_changeWifiState">อนุญาตให้แอปพลิเคชันเชื่อมต่อและหยุดเชื่อมต่อจากจุดเข้าใช้งาน WiFi และเปลี่ยนแปลงการกำหนดค่าอุปกรณ์ำสำหรับเครือข่าย WiFi</string>
     <string name="permlab_changeWifiMulticastState">อนุญาตให้รับมัลติแคสต์ผ่าน WiFi</string>
-    <string name="permdesc_changeWifiMulticastState">อนุญาตให้แอปพลิเคชันรับแพ็คเก็ตที่ส่งไปยังทุกอุปกรณ์บนเครือข่าย WiFi โดยใช้ที่อยู่มัลติแคสต์ ไม่ใช่เพียงแท็บเล็ตของคุณเท่านั้น ซึ่งจะใช้พลังงานมากกว่าในโหมดที่ไม่ใช่มัลติแคสต์</string>
+    <string name="permdesc_changeWifiMulticastState">อนุญาตให้แอปพลิเคชันรับแพ็คเก็ตที่ส่งไปยังทุกอุปกรณ์บนเครือข่าย WiFi โดยใช้ที่อยู่มัลติแคสต์ ไม่ใช่เพียงโทรศัพท์ของคุณเท่านั้น ซึ่งจะใช้พลังงานมากกว่าในโหมดที่ไม่ใช่มัลติแคสต์</string>
     <string name="permlab_bluetoothAdmin">เข้าถึงการตั้งค่าบลูทูธ</string>
-    <string name="permdesc_bluetoothAdmin">อนุญาตให้แอปพลิเคชันกำหนดค่าแท็บเล็ตบลูทูธในตัวเครื่อง รวมทั้งค้นหาและจับคู่กับอุปกรณ์ที่อยู่ระยะไกล</string>
+    <string name="permdesc_bluetoothAdmin">อนุญาตให้แอปพลิเคชันกำหนดค่าโทรศัพท์บลูทูธในตัวเครื่อง ตลอดจนค้นหาและจับคู่กับอุปกรณ์ที่อยู่ระยะไกล</string>
     <string name="permlab_accessWimaxState">เชื่อมต่อและเลิกเชื่อมต่อจาก WiMAX</string>
     <string name="permdesc_accessWimaxState">อนุญาตให้แอปพลิเคชันตรวจสอบว่า WiMAX เปิดใช้งานอยู่หรือไม่และข้อมูลเกี่ยวกับเครือข่าย WiMAX ใดๆ ที่เชื่อมต่ออยู่</string>
     <string name="permlab_changeWimaxState">เปลี่ยนสถานะของ WiMAX</string>
-    <string name="permdesc_changeWimaxState">อนุญาตให้แอปพลิเคชันเชื่อมต่อและยกเลิกการเชื่อมต่อแท็บเล็ตกับเครือข่าย WiMAX</string>
+    <string name="permdesc_changeWimaxState">อนุญาตให้แอปพลิเคชันเชื่อมต่อและยกเลิกการเชื่อมต่อโทรศัพท์กับเครือข่าย WiMAX</string>
     <string name="permlab_bluetooth">จับคู่กับอุปกรณ์บลูทูธ</string>
-    <string name="permdesc_bluetooth">อนุญาตให้แอปพลิเคชันดูการกำหนดค่าบลูทูธของแท็บเล็ต ตลอดจนเชื่อมต่อและยอมรับการเชื่อมต่อกับอุปกรณ์ที่จับคู่ไว้</string>
+    <string name="permdesc_bluetooth">อนุญาตให้แอปพลิเคชันดูการกำหนดค่าบลูทูธของโทรศัพท์ ตลอดจนเชื่อมต่อและยอมรับการเชื่อมต่อกับอุปกรณ์ที่จับคู่ไว้</string>
     <string name="permlab_nfc">ควบคุม Near Field Communication</string>
     <string name="permdesc_nfc">อนุญาตให้แอปพลิเคชันสื่อสารกับแท็ก Near Field Communication (NFC) การ์ด และโปรแกรมอ่าน</string>
     <string name="permlab_disableKeyguard">ปิดใช้งานการล็อกหน้าจอของคุณ</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">ตั้งค่ากฎรหัสผ่าน</string>
     <string name="policydesc_limitPassword">ควบคุมความยาวและอักขระที่อนุญาตให้ใช้ในรหัสผ่านการปลดล็อกหน้าจอ</string>
     <string name="policylab_watchLogin">ตรวจสอบความพยายามในการปลดล็อกหน้าจอ</string>
-    <string name="policydesc_watchLogin">ตรวจสอบจำนวนของรหัสผ่านที่พิมพ์ไม่ถูกต้องขณะปลดล็อกหน้าจอ และล็อกแท็บเล็ตหรือลบข้อมูลทั้งหมดในแท็บเล็ตถ้ามีการพิมพ์รหัสผ่านที่ไม่ถูกต้องมากเกินไป</string>
+    <string name="policydesc_watchLogin">ตรวจสอบจำนวนการพิมพ์รหัสผ่านที่ไม่ถูกต้องขณะปลดล็อกหน้าจอ และล็อกโทรศัพท์หรือลบข้อมูลทั้งหมดในโทรศัพท์ถ้ามีการพิมพ์รหัสผ่านที่ไม่ถูกต้องมากเกินไป</string>
     <string name="policylab_resetPassword">เปลี่ยนรหัสผ่านการปลดล็อกหน้าจอ</string>
     <string name="policydesc_resetPassword">เปลี่ยนรหัสผ่านการปลดล็อกหน้าจอ</string>
     <string name="policylab_forceLock">ล็อกหน้าจอ</string>
     <string name="policydesc_forceLock">ควบคุมว่าหน้าจอจะล็อกอย่างไรและเมื่อใด</string>
     <string name="policylab_wipeData">ลบข้อมูลทั้งหมด</string>
-    <string name="policydesc_wipeData">ลบข้อมูลของแท็บเล็ตโดยไม่มีการเตือน ด้วยการดำเนินการรีเซ็ตข้อมูลเป็นค่าเริ่มต้น</string>
+    <string name="policydesc_wipeData">ลบข้อมูลของโทรศัพท์โดยไม่มีการเตือน ด้วยการดำเนินการรีเซ็ตข้อมูลเป็นค่าเริ่มต้น</string>
     <string name="policylab_setGlobalProxy">ตั้งค่าพร็อกซีส่วนกลางของอุปกรณ์</string>
     <string name="policydesc_setGlobalProxy">ตั้งค่าพร็อกซีส่วนกลางของอุปกรณ์ที่จะใช้ขณะเปิดการใช้งานนโยบาย เฉพาะผู้ดูแลอุปกรณ์คนแรกเท่านั้นที่ตั้งค่าพร็อกซีส่วนกลางที่มีผลบังคับ</string>
     <string name="policylab_expirePassword">ตั้งค่าวันหมดอายุของรหัสผ่านล็อกหน้าจอ</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">เสียบที่ชาร์จของคุณ</string>
     <string name="lockscreen_missing_sim_message_short">ไม่มีซิมการ์ด</string>
-    <string name="lockscreen_missing_sim_message">ไม่มีซิมการ์ดในแท็บเล็ต</string>
+    <string name="lockscreen_missing_sim_message">ไม่มีซิมการ์ดในโทรศัพท์</string>
     <string name="lockscreen_missing_sim_instructions">ใส่ซิมการ์ด</string>
     <string name="lockscreen_missing_sim_instructions_long">ไม่มีซิมการ์ดหรือไม่สามารถอ่านได้ โปรดใส่ซิมการ์ด</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">ซิมการ์ดใช้ไม่ได้</string>
@@ -778,11 +778,11 @@
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"คุณพิมพ์ PIN ไม่ถูกต้องไป %d ครั้งแล้ว
 
 ลองอีกครั้งใน %d วินาที"</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"คุณวาดรูปแบบการปลดล็อกไม่ถูกต้องไป %d ครั้งแล้ว หากทำไม่สำเร็จอีก %d ครั้ง ระบบจะขอให้คุณปลดล็อกแท็บเล็ตโดยใช้การลงชื่อเข้าใช้ Google
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"คุณวาดรูปแบบการปลดล็อกไม่ถูกต้อง %d ครั้ง หากทำไม่สำเร็จอีก %d ครั้ง ระบบจะขอให้คุณปลดล็อกโทรศัพท์โดยใช้การลงชื่อเข้าใช้ Google
 
 โปรดลองอีกครั้งในอีก %d วินาที"</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ตอย่างไม่ถูกต้องแล้ว %d ครั้ง หากการพยายามไม่สำเร็จอีก %d ครั้ง แท็บเล็ตจะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานและข้อมูลทั้งหมดของผู้ใช้จะหายไป</string>
-    <string name="lockscreen_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ตอย่างไม่ถูกต้องแล้ว %d ครั้ง ขณะนี้แท็บเล็ตจะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงาน</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกโทรศัพท์อย่างไม่ถูกต้องแล้ว %d ครั้ง หากการพยายามไม่สำเร็จอีก %d ครั้ง โทรศัพท์จะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานและข้อมูลทั้งหมดของผู้ใช้จะหายไป</string>
+    <string name="lockscreen_failed_attempts_now_wiping">คุณพยายามปลดล็อกโทรศัพท์อย่างไม่ถูกต้องแล้ว %d ครั้ง ขณะนี้โทรศัพท์จะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงาน</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">ลองใหม่อีกครั้งใน %d วินาที</string>
     <string name="lockscreen_forgot_pattern_button_text">ลืมรูปแบบหรือ</string>
     <string name="lockscreen_glogin_forgot_pattern">ปลดล็อกบัญชี</string>
@@ -867,7 +867,7 @@
     <string name="permlab_readHistoryBookmarks">อ่านบุ๊กมาร์กและประวัติเว็บของคุณ</string>
     <string name="permdesc_readHistoryBookmarks">อนุญาตให้แอปพลิเคชันอ่านประวัติของ URL ทั้งหมดที่เบราว์เซอร์เคยไป และบุ๊กมาร์กทั้งหมดของเบราว์เซอร์ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้งานได้กับเบราว์เซอร์ของบุคคลที่สามหรือแอปพลิเคชันอื่นๆ ที่มีความสามารถในการเรียกดูบนเว็บ</string>
     <string name="permlab_writeHistoryBookmarks">เขียนบุ๊กมาร์กและประวัติเว็บ</string>
-    <string name="permdesc_writeHistoryBookmarks">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงประวัติหรือบุ๊กมาร์กของเบราว์เซอร์ที่จัดเก็บไว้ในแท็บเล็ต ซึ่งทำให้แอปพลิเคชันสามารถลบหรือเปลี่ยนข้อมูลเบราว์เซอร์ได้ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้งานได้กับเบราว์เซอร์ของบุคคลที่สามหรือแอปพลิเคชันอื่นๆ ที่มีความสามารถในการเรียกดูบนเว็บ</string>
+    <string name="permdesc_writeHistoryBookmarks">อนุญาตให้แอปพลิเคชันเปลี่ยนแปลงประวัติหรือบุ๊กมาร์กของเบราว์เซอร์ที่จัดเก็บไว้ในโทรศัพท์ ซึ่งทำให้แอปพลิเคชันสามารถลบหรือเปลี่ยนข้อมูลเบราว์เซอร์ได้ หมายเหตุ: การอนุญาตนี้อาจไม่สามารถใช้งานได้กับเบราว์เซอร์ของบุคคลที่สามหรือแอปพลิเคชันอื่นๆ ที่มีความสามารถในการเรียกดูบนเว็บ</string>
     <string name="permlab_setAlarm">ตั้งปลุก</string>
     <string name="permdesc_setAlarm">อนุญาตให้แอปพลิเคชันตั้งเวลาปลุกในแอปพลิเคชันนาฬิกาปลุกที่ติดตั้ง แอปพลิเคชันนาฬิกาปลุกบางรายการอาจไม่ใช้คุณลักษณะนี้</string>
     <string name="permlab_addVoicemail">เพิ่มข้อวามเสียง</string>
@@ -901,7 +901,7 @@
     <string name="searchview_description_submit">ส่งข้อความค้นหา</string>
     <string name="searchview_description_voice">ค้นหาด้วยเสียง</string>
     <string name="enable_explore_by_touch_warning_title">เปิดใช้งาน \"สำรวจโดยการแตะ\" หรือไม่</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s ต้องการเปิดใช้งาน \"สำรวจโดยการแตะ\" เมื่อเปิดใช้งานแล้ว คุณสามารถฟังหรือดูคำอธิบายของสิ่งที่อยู่ใต้นิ้วข​​องคุณ หรือใช้ท่าทางสัมผัสต่างๆ เพื่อโต้ตอบกับแท็บเล็ตได้</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s ต้องการเปิดใช้งาน \"สำรวจโดยการแตะ\" เมื่อเปิดใช้งานแล้ว คุณสามารถฟังหรือดูคำอธิบายของสิ่งที่อยู่ใต้นิ้วข​​องคุณ หรือใช้ท่าทางสัมผัสต่างๆ เพื่อโต้ตอบกับโทรศัพท์ได้</string>
     <string name="oneMonthDurationPast">1 เดือนที่ผ่านมา</string>
     <string name="beforeOneMonthDurationPast">ก่อน 1 เดือนที่แล้ว</string>
     <string name="last_month">เดือนที่แล้ว</string>
@@ -1025,7 +1025,7 @@
     <string name="wifi_p2p_to_message">ถึง:</string>
     <string name="wifi_p2p_enter_pin_message">พิมพ์ PIN ที่ต้องการ:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">แท็บเล็ตนี้จะยกเลิกการเชื่อมต่อกับ WiFi ชั่วคราวในขณะที่เชื่อมต่อกับ %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">โทรศัพท์จะยกเลิกการเชื่อมต่อกับ WiFi ชั่วคราวในขณะที่เชื่อมต่อกับ %1$s</string>
     <string name="select_character">ใส่อักขระ</string>
     <string name="sms_control_title">กำลังส่งข้อความ SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> กำลังส่งข้อความ SMS จำนวนมาก คุณต้องการอนุญาตให้แอปพลิเคชันนี้ส่งข้อความต่อหรือไม่</string>
@@ -1274,7 +1274,7 @@
     <string name="SetupCallDefault">รับสายหรือไม่</string>
     <string name="activity_resolver_use_always">ทุกครั้ง</string>
     <string name="activity_resolver_use_once">เฉพาะครั้งนี้</string>
-    <string name="default_audio_route_name">แท็บเล็ต</string>
+    <string name="default_audio_route_name">โทรศัพท์</string>
     <string name="default_audio_route_name_headphones">หูฟัง</string>
     <string name="default_audio_route_name_dock_speakers">ลำโพงแท่นชาร์จ</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,11 +1331,11 @@
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"คุณวาดรูปแบบการปลดล็อกไม่ถูกต้องไป %d ครั้งแล้ว 
 
 โปรดลองอีกครั้งใน %d วินาที"</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกแท็บเล็ตอย่างไม่ถูกต้อง %d ครั้งแล้ว หากพยายามแล้วไม่สำเร็จอีก %d ครั้ง แท็บเล็ตจะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานและข้อมูลผู้ใช้ทั้งหมดจะหายไป</string>
-    <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกแท็บเล็ตอย่างไม่ถูกต้อง %d ครั้งแล้ว ขณะนี้แท็บเล็ตจะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงาน</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกไม่ถูกต้อง %d ครั้งแล้ว หากทำไม่สำเร็จอีก %d ครั้ง ระบบจะขอให้คุณปลดล็อกแท็บเล็ตโดยใช้บัญชีอีเมล
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">คุณพยายามปลดล็อกโทรศัพท์อย่างไม่ถูกต้อง %d ครั้งแล้ว หากพยายามแล้วไม่สำเร็จอีก %d ครั้ง โทรศัพท์จะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงานและข้อมูลผู้ใช้ทั้งหมดจะหายไป</string>
+    <string name="kg_failed_attempts_now_wiping">คุณพยายามปลดล็อกโทรศัพท์อย่างไม่ถูกต้อง %d ครั้งแล้ว ขณะนี้โทรศัพท์จะถูกรีเซ็ตเป็นค่าเริ่มต้นจากโรงงาน</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"คุณวาดรูปแบบการปลดล็อกไม่ถูกต้อง %d ครั้งแล้ว หากทำไม่สำเร็จอีก %d ครั้ง ระบบจะขอให้คุณปลดล็อกโทรศัพท์โดยใช้ับัญชีอีเมล
 
- โปรดลองอีกครั้งใน %d วินาที"</string>
+ โปรดลองอีกครั้งในอีก %d วินาที"</string>
     <string name="kg_text_message_separator">" — "</string>
     <string name="kg_reordering_delete_drop_target_text">นำออก</string>
     <string name="safe_media_volume_warning">"ในกรณีที่ต้องการเพิ่มระดับเสียงจนเกินระดับที่แนะนำ

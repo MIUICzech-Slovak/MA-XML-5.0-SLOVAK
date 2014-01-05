@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Synchroniseren</string>
     <string name="contentServiceSyncNotificationTitle">Synchroniseren</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Te veel verwijderen voor %s.</string>
-    <string name="low_memory">Tabletgeheugen is vol. Verwijder enkele bestanden om ruimte vrij te maken.</string>
+    <string name="low_memory">Telefoongeheugen is vol. Verwijder enkele bestanden om ruimte vrij te maken.</string>
     <string name="me">Ik</string>
-    <string name="power_dialog">Tabletopties</string>
+    <string name="power_dialog">Telefoonopties</string>
     <string name="silent_mode">Stille modus</string>
     <string name="turn_on_radio">Draadloos inschakelen</string>
     <string name="turn_off_radio">Draadloos uitschakelen</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Belsoftware op trillen</string>
     <string name="silent_mode_ring">Belsoftware aan</string>
     <string name="shutdown_progress">Uitschakelen...</string>
-    <string name="shutdown_confirm">Uw tablet wordt uitgeschakeld.</string>
+    <string name="shutdown_confirm">Uw telefoon wordt uitgeschakeld.</string>
     <string name="shutdown_confirm_question">Wilt u afsluiten?</string>
     <string name="reboot_safemode_title">Opnieuw opstarten in veilige modus</string>
     <string name="reboot_safemode_confirm">Wilt u opnieuw opstarten in de veilige modus? Als u dit doet, worden alle geïnstalleerde applicaties van derden uitgeschakeld. Ze worden weer ingeschakeld als u weer opnieuw opstart.</string>
     <string name="recent_tasks_title">Recent</string>
     <string name="no_recent_tasks">Geen recente apps.</string>
-    <string name="global_actions">Tabletopties</string>
+    <string name="global_actions">Telefoonopties</string>
     <string name="global_action_lock">Schermvergrendeling</string>
     <string name="global_action_power_off">Uitschakelen</string>
     <string name="global_action_bug_report">Foutenrapport</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">gebeurtenissen voor reageren-via-berichten verzenden</string>
     <string name="permdesc_sendRespondViaMessageRequest">Hiermee kan de app verzoeken verzenden aan andere bericht-apps om gebeurtenissen voor reageren-via-berichten voor inkomende oproepen te verwerken.</string>
     <string name="permlab_readSms">uw tekstberichten (SMS of MMS) lezen</string>
-    <string name="permdesc_readSms">Hiermee kan de app sms-berichten lezen die zijn opgeslagen op uw tablet of simkaart. De app kan alle sms-berichten lezen, ongeacht inhoud of vertrouwelijkheid.</string>
+    <string name="permdesc_readSms">Hiermee kan de app sms-berichten lezen die zijn opgeslagen op uw telefoon of simkaart. De app kan alle sms-berichten lezen, ongeacht inhoud of vertrouwelijkheid.</string>
     <string name="permlab_writeSms">uw tekstberichten (SMS of MMS) bewerken</string>
-    <string name="permdesc_writeSms">"Hiermee kan de app naar de op uw tablet of simkaart opgeslagen sms'jes schrijven. Schadelijke apps kunnen uw berichten mogelijk verwijderen."</string>
+    <string name="permdesc_writeSms">"Hiermee kan de app naar de op uw telefoon of simkaart opgeslagen sms'jes schrijven. Schadelijke apps kunnen uw berichten mogelijk verwijderen."</string>
     <string name="permlab_receiveWapPush">tekstberichten (WAP) ontvangen</string>
     <string name="permdesc_receiveWapPush">Hiermee kan de app WAP-berichten ontvangen en verwerken. Dit betekent dat de app berichten die naar uw apparaat zijn verzonden, kan bijhouden of verwijderen zonder deze aan u weer te geven.</string>
     <string name="permlab_getTasks">actieve apps ophalen</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">scherm bevriezen</string>
     <string name="permdesc_freezeScreen">De app toestaan het scherm tijdelijk te bevriezen voor een volledige schermovergang.</string>
     <string name="permlab_injectEvents">drukken op toetsen en bedieningselementen</string>
-    <string name="permdesc_injectEvents">Hiermee kan de app de eigen invoergebeurtenissen (zoals toetsaanslagen) aan andere apps doorgeven. Schadelijke apps kunnen dit gebruiken om de tablet over te nemen.</string>
+    <string name="permdesc_injectEvents">Hiermee kan de app de eigen invoergebeurtenissen (toetsaanslagen, enzovoort) aan andere apps doorgeven. Schadelijke apps kunnen dit gebruiken om de telefoon over te nemen.</string>
     <string name="permlab_readInputState">uw invoer en acties vastleggen</string>
     <string name="permdesc_readInputState">Hiermee kan de app bijhouden op welke toetsen u drukt, zelfs wanneer u een andere app gebruikt (bijvoorbeeld wanneer u een wachtwoord typt). Dit is niet nodig voor normale apps.</string>
     <string name="permlab_bindInputMethod">verbinden aan een invoermethode</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">Linux-signalen verzenden naar apps</string>
     <string name="permdesc_signalPersistentProcesses">Hiermee kan de app ervoor zorgen dat het geleverde signaal wordt verzonden naar alle persistente processen.</string>
     <string name="permlab_persistentActivity">app altijd laten uitvoeren</string>
-    <string name="permdesc_persistentActivity">Hiermee kan de app gedeelten van zichzelf persistent maken in het geheugen. Dit kan de hoeveelheid geheugen beperken die beschikbaar is voor andere apps, waardoor de tablet trager kan worden.</string>
+    <string name="permdesc_persistentActivity">Hiermee kan de app gedeelten van zichzelf persistent maken in het geheugen. Dit kan de hoeveelheid geheugen beperken die beschikbaar is voor andere apps, waardoor de telefoon trager kan worden.</string>
     <string name="permlab_deletePackages">apps verwijderen</string>
     <string name="permdesc_deletePackages">Hiermee kan de app Android-pakketten verwijderen. Schadelijke apps kunnen deze toestemming gebruiken om belangrijke apps te verwijderen.</string>
     <string name="permlab_clearAppUserData">gegevens van andere apps verwijderen</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">apps rechtstreeks installeren</string>
     <string name="permdesc_installPackages">Hiermee kan de app nieuwe of bijgewerkte Android-pakketten installeren. Schadelijke apps kunnen hiermee nieuwe apps toevoegen met willekeurig belangrijke rechten.</string>
     <string name="permlab_clearAppCache">alle cachegegevens van app verwijderen</string>
-    <string name="permdesc_clearAppCache">Hiermee kan de app opslagruimte op de tablet vrij maken door bestanden te verwijderen uit de cachemappen van andere apps. Hierdoor worden andere apps mogelijk langzamer gestart, omdat ze gegevens opnieuw moeten ophalen.</string>
+    <string name="permdesc_clearAppCache">Hiermee kan de app opslagruimte op de telefoon vrij maken door bestanden te verwijderen uit de cachemappen van andere apps. Hierdoor worden andere apps mogelijk langzamer gestart, omdat ze gegevens opnieuw moeten ophalen.</string>
     <string name="permlab_movePackage">appbronnen verplaatsen</string>
     <string name="permdesc_movePackage">Hiermee kan de app andere appbronnen verplaatsen van interne naar externe media en andersom.</string>
     <string name="permlab_readLogs">gevoelige logbestandsgegevens lezen</string>
-    <string name="permdesc_readLogs">Hiermee kan de app de verschillende logbestanden van het systeem lezen. De app kan op deze manier algemene informatie achterhalen over uw tabletgebruik, mogelijk inclusief persoonlijke of privé-informatie.</string>
+    <string name="permdesc_readLogs">Hiermee kan de app de verschillende logbestanden van het systeem lezen. De app kan op deze manier algemene informatie achterhalen over uw telefoongebruik, mogelijk inclusief persoonlijke of privé-informatie.</string>
     <string name="permlab_anyCodecForPlayback">elke mediadecoder gebruiken voor afspelen</string>
     <string name="permdesc_anyCodecForPlayback">Hiermee kan de app alle geïnstalleerde mediadecoders gebruiken om te decoderen voor het afspelen.</string>
     <string name="permlab_diagnostic">lezen/schrijven naar bronnen van diag</string>
     <string name="permdesc_diagnostic">Hiermee kan de app lezen en schrijven naar elke bron die hoort bij de diagnostische groep, zoals bestanden in /dev. Hierdoor kan de systeemstabiliteit en -veiligheid worden beïnvloed. Dit mag ALLEEN worden gebruikt voor hardwarespecifieke diagnostiek door de fabrikant of provider.</string>
     <string name="permlab_changeComponentState">componenten van apps in- of uitschakelen</string>
-    <string name="permdesc_changeComponentState">Hiermee kan de app wijzigen of een component van een andere app wel of niet is ingeschakeld. Schadelijke apps kunnen dit gebruiken om belangrijke tabletfuncties uit te schakelen. U moet voorzichtig omgaan met deze rechten, aangezien het mogelijk is dat onderdelen van apps onbruikbaar, inconsistent of instabiel worden.</string>
+    <string name="permdesc_changeComponentState">Hiermee kan de app wijzigen of een component van een andere app wel of niet is ingeschakeld. Schadelijke apps kunnen dit gebruiken om belangrijke telefoonfuncties uit te schakelen. U moet voorzichtig omgaan met deze rechten, aangezien het mogelijk is dat onderdelen van apps onbruikbaar, inconsistent of instabiel worden.</string>
     <string name="permlab_grantRevokePermissions">rechten verlenen of intrekken</string>
     <string name="permdesc_grantRevokePermissions">Toestaan dat een app specifieke rechten aan zichzelf of andere apps verleent of deze intrekt. Schadelijke apps kunnen dit gebruiken om toegang te krijgen tot functies waartoe u de apps geen toegang heeft gegeven.</string>
     <string name="permlab_setPreferredApplications">voorkeursapps instellen</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">de Google-serviceskaart wijzigen</string>
     <string name="permdesc_writeGservices">Hiermee kan de app de Google-serviceskaart wijzigen. Niet voor gebruik door normale apps.</string>
     <string name="permlab_receiveBootCompleted">uitvoeren bij opstarten</string>
-    <string name="permdesc_receiveBootCompleted">Hiermee kan de app zichzelf laten starten zodra het systeem is opgestart. Hierdoor kan het langer duren voordat de tablet is opgestart en een app kan altijd actief zijn, wat de tablet kan vertragen.</string>
+    <string name="permdesc_receiveBootCompleted">Hiermee kan de app zichzelf starten zodra het systeem klaar is met opstarten. Hierdoor kan het langer duren voordat de telefoon is opgestart en kan de app de telefoonprocessen vertragen door altijd actief te zijn.</string>
     <string name="permlab_broadcastSticky">sticky broadcast verzenden</string>
-    <string name="permdesc_broadcastSticky">Hiermee kan de app sticky broadcasts verzenden die behouden blijven nadat de broadcast is beëindigd. Bij overmatig gebruik kan de tablet traag of instabiel worden omdat er te veel geheugenruimte wordt gebruikt.</string>
+    <string name="permdesc_broadcastSticky">Hiermee kan de app sticky broadcasts verzenden die behouden blijven nadat de broadcast is beëindigd. Bij overmatig gebruik kan de telefoon traag of instabiel worden omdat er te veel geheugenruimte wordt gebruikt.</string>
     <string name="permlab_readContacts">uw contacten lezen</string>
-    <string name="permdesc_readContacts">Hiermee kan de app gegevens lezen over de contacten die zijn opgeslagen op uw tablet, inclusief de frequentie waarmee u heeft gebeld, gemaild of op andere manieren heeft gecommuniceerd met specifieke personen. Met deze toestemming kunnen apps uw contactgegevens opslaan, en schadelijke apps kunnen zonder uw medeweten contactgegevens delen.</string>
+    <string name="permdesc_readContacts">Hiermee kan de app gegevens lezen over de contacten die zijn opgeslagen op uw telefoon, inclusief de frequentie waarmee u heeft gebeld, gemaild of op andere manieren heeft gecommuniceerd met specifieke personen. Met deze toestemming kunnen apps uw contactgegevens opslaan, en schadelijke apps kunnen zonder uw medeweten contactgegevens delen.</string>
     <string name="permlab_writeContacts">uw contacten aanpassen</string>
-    <string name="permdesc_writeContacts">Hiermee kan de app gegevens wijzigen over de contacten die zijn opgeslagen op uw tablet, inclusief de frequentie waarmee u heeft gebeld, gemaild of op andere manieren heeft gecommuniceerd met specifieke contacten. Met deze toestemming kunnen apps contactgegevens verwijderen.</string>
+    <string name="permdesc_writeContacts">Hiermee kan de app gegevens wijzigen over de contacten die zijn opgeslagen op uw telefoon, inclusief de frequentie waarmee u heeft gebeld, gemaild of op andere manieren heeft gecommuniceerd met specifieke contacten. Met deze toestemming kunnen apps contactgegevens verwijderen.</string>
     <string name="permlab_readCallLog">oproeplogboek lezen</string>
-    <string name="permdesc_readCallLog">Hiermee kan de app het oproeplogboek van uw tablet lezen, inclusief gegevens over inkomende en uitgaande oproepen. Met deze toestemming kunnen apps uw oproeploggegevens opslaan, en schadelijke apps kunnen logoproepgegevens zonder uw medeweten delen.</string>
+    <string name="permdesc_readCallLog">Hiermee kan de app het oproeplogboek van uw telefoon lezen, inclusief gegevens over inkomende en uitgaande oproepen. Met deze toestemming kunnen apps uw oproeploggegevens opslaan, en schadelijke apps kunnen logoproepgegevens zonder uw medeweten delen.</string>
     <string name="permlab_writeCallLog">oproeplogboek schrijven</string>
-    <string name="permdesc_writeCallLog">Toestaan dat de app het oproeplogboek van uw tablet aanpast, waaronder gegevens over inkomende en uitgaande oproepen. Schadelijke apps kunnen hiermee uw oproeplogboek wissen of aanpassen.</string>
+    <string name="permdesc_writeCallLog">Toestaan dat de app het oproeplogboek van uw telefoon aanpast, waaronder gegevens over inkomende en uitgaande oproepen. Schadelijke apps kunnen hiermee uw oproeplogboek wissen of aanpassen.</string>
     <string name="permlab_readProfile">uw eigen contactkaart lezen</string>
     <string name="permdesc_readProfile">Hiermee kan de app persoonlijke profielgegevens lezen die op uw apparaat zijn opgeslagen, zoals uw naam en contactgegevens. Dit betekent dat de app u kan identificeren en uw profielgegevens naar anderen kan verzenden.</string>
     <string name="permlab_writeProfile">uw eigen contactkaart aanpassen</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">schrijven naar sociale streams</string>
     <string name="permdesc_writeSocialStream">Hiermee kan de app sociale updates van u en uw vrienden weergeven. Wees voorzichtig bij het delen van informatie: hiermee kan de app berichten produceren die afkomstig lijken te zijn van een vriend. Opmerking: deze toestemming kan niet worden afgedwongen voor alle sociale netwerken.</string>
     <string name="permlab_readCalendar">agenda-afspraken en vertrouwelijke informatie lezen</string>
-    <string name="permdesc_readCalendar">"Hiermee kan de app alle agenda-afspraken lezen die zijn opgeslagen op uw tablet, inclusief die van vrienden of collega's. De app kan uw agenda delen of uw agendagegevens opslaan, ongeacht vertrouwelijkheid of gevoeligheid."</string>
+    <string name="permdesc_readCalendar">"Hiermee kan de app alle agenda-afspraken lezen die zijn opgeslagen op uw telefoon, inclusief die van vrienden of collega's. De app kan uw agenda delen of uw agendagegevens opslaan, ongeacht vertrouwelijkheid of gevoeligheid."</string>
     <string name="permlab_writeCalendar">agenda-afspraken toevoegen of wijzigen en e-mails verzenden aan gasten zonder medeweten van de eigenaren</string>
-    <string name="permdesc_writeCalendar">"Hiermee kan de app afspraken toevoegen, verwijderen en wijzigen die u kunt bewerken op uw tablet, inclusief afspraken van vrienden of collega's. Zo kan de app berichten verzenden die afkomstig lijken te zijn van agenda-eigenaren, of afspraken aanpassen zonder medeweten van de eigenaar."</string>
+    <string name="permdesc_writeCalendar">"Hiermee kan de app afspraken toevoegen, verwijderen en wijzigen die u kunt bewerken op uw telefoon, inclusief afspraken van vrienden of collega's. Zo kan de app berichten verzenden die afkomstig lijken te zijn van agenda-eigenaren, of afspraken aanpassen zonder medeweten van de eigenaar."</string>
     <string name="permlab_accessMockLocation">neplocatiebronnen voor test</string>
     <string name="permdesc_accessMockLocation">Voorbeeld-locatiebronnen maken voor tests of een nieuwe locatieprovider instellen. Hiermee kan de app de locatie en/of status overschrijven van andere locatiebronnen zoals GPS of locatieproviders.</string>
     <string name="permlab_accessLocationExtraCommands">toegang tot extra opdrachten van locatieaanbieder</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">"Hiermee kan de app foto's en video's maken met de camera. Met deze toestemming kan de app de camera altijd gebruiken, zonder uw bevestiging."</string>
     <string name="permlab_cameraDisableTransmitLed">indicatielampje uitschakelen wanneer camera wordt gebruikt</string>
     <string name="permdesc_cameraDisableTransmitLed">Staat toe dat een vooraf geïnstalleerde systeemapp het indicatielampje voor cameragebruik uitschakelt.</string>
-    <string name="permlab_brick">tablet permanent uitschakelen</string>
-    <string name="permdesc_brick">Hiermee kan de app de gehele tablet permanent uitschakelen. Dit is erg gevaarlijk.</string>
-    <string name="permlab_reboot">opnieuw opstarten van tablet afdwingen</string>
-    <string name="permdesc_reboot">Hiermee kan de app de tablet opnieuw opstarten.</string>
+    <string name="permlab_brick">telefoon permanent uitschakelen</string>
+    <string name="permdesc_brick">Hiermee kan de app de gehele telefoon permanent uitschakelen. Dit is erg gevaarlijk.</string>
+    <string name="permlab_reboot">telefoon nu opnieuw opstarten</string>
+    <string name="permdesc_reboot">Hiermee kan de app de telefoon opnieuw laten opstarten.</string>
     <string name="permlab_mount_unmount_filesystems">bestandssysteem van USB-opslag openen</string>
     <string name="permdesc_mount_unmount_filesystems">Hiermee kan de app bestandssystemen koppelen en ontkoppelen voor verwisselbare opslagruimte.</string>
     <string name="permlab_mount_format_filesystems">USB-opslag wissen</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Hiermee kan de app zonder uw tussenkomst telefoonnummers bellen. Dit kan tot onverwachte kosten of oproepen leiden. De app kan hiermee geen noodnummers bellen. Schadelijke apps kunnen u geld kosten door nummers te bellen zonder om uw bevestiging te vragen.</string>
     <string name="permlab_callPrivileged">alle telefoonnummers rechtstreeks bellen</string>
     <string name="permdesc_callPrivileged">Hiermee kan de app elk telefoonnummer bellen zonder uw tussenkomst, inclusief alarmnummers. Schadelijke apps kunnen onnodige en illegale oproepen uitvoeren naar alarmdiensten.</string>
-    <string name="permlab_performCdmaProvisioning">meteen starten met CDMA-tabletinstelling</string>
+    <string name="permlab_performCdmaProvisioning">meteen starten met CDMA-telefooninstelling</string>
     <string name="permdesc_performCdmaProvisioning">Hiermee kan de app starten met CDMA-provisioning. Schadelijke apps kunnen de CDMA-provisioning onnodig starten.</string>
     <string name="permlab_locationUpdates">meldingen over locatie-updates beheren</string>
     <string name="permdesc_locationUpdates">Hiermee kan de app locatie-updatemeldingen van de radio in- of uitschakelen. Niet voor gebruik door normale apps.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Hiermee kan de app de telefoonfuncties van het apparaat beheren. Een app met deze toestemming kan schakelen tussen netwerken, kan de radio van de telefoon in- en uitschakelen en dergelijke acties uitvoeren zonder dat u hiervan op de hoogte wordt gesteld.</string>
     <string name="permlab_readPhoneState">telefoonstatus en -identiteit lezen</string>
     <string name="permdesc_readPhoneState">"Hiermee kan de app toegang krijgen tot de telefoonfuncties van het apparaat, Met deze toestemming kan de app het telefoonnummer en de apparaat-ID's bepalen, of een oproep actief is, en het andere telefoonnummer waarmee wordt gebeld."</string>
-    <string name="permlab_wakeLock">voorkomen dat tablet overschakelt naar slaapmodus</string>
-    <string name="permdesc_wakeLock">Hiermee kan de app voorkomen dat de tablet overschakelt naar de slaapmodus.</string>
-    <string name="permlab_devicePower">tablet in- of uitschakelen</string>
-    <string name="permdesc_devicePower">Hiermee kan de app de tablet in- of uitschakelen.</string>
+    <string name="permlab_wakeLock">voorkomen dat telefoon overschakelt naar slaapmodus</string>
+    <string name="permdesc_wakeLock">Hiermee kan de app voorkomen dat de telefoon overschakelt naar de slaapmodus.</string>
+    <string name="permlab_devicePower">telefoon in- of uitschakelen</string>
+    <string name="permdesc_devicePower">Hiermee kan de app de telefoon in- of uitschakelen.</string>
     <string name="permlab_factoryTest">uitvoeren in fabriekstestmodus</string>
-    <string name="permdesc_factoryTest">Uitvoeren als fabrikanttest op laag niveau, waardoor toegang wordt gegeven tot de hardware van de tablet. Alleen beschikbaar als een tablet zich in de fabrikanttestmodus bevindt.</string>
+    <string name="permdesc_factoryTest">Uitvoeren als fabrikanttest op laag niveau, waardoor toegang wordt gegeven tot de hardware van de telefoon. Alleen beschikbaar als een telefoon zich in de fabrikanttestmodus bevindt.</string>
     <string name="permlab_setWallpaper">achtergrond instellen</string>
     <string name="permdesc_setWallpaper">Hiermee kan de app de systeemachtergrond instellen.</string>
     <string name="permlab_setWallpaperHints">uw achtergrondformaat aanpassen</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">systeem terugzetten op fabrieksinstellingen</string>
     <string name="permdesc_masterClear">Hiermee kan de app het systeem terugzetten naar de fabrieksinstellingen, waarbij alle gegevens, configuraties en geïnstalleerde apps worden verwijderd.</string>
     <string name="permlab_setTime">tijd instellen</string>
-    <string name="permdesc_setTime">Hiermee kan de app de kloktijd van de tablet wijzigen.</string>
+    <string name="permdesc_setTime">Hiermee kan de app de kloktijd van de telefoon wijzigen.</string>
     <string name="permlab_setTimeZone">tijdzone instellen</string>
-    <string name="permdesc_setTimeZone">Hiermee kan de app de tijdzone van de tablet wijzigen.</string>
+    <string name="permdesc_setTimeZone">Hiermee kan de app de tijdzone van de telefoon wijzigen.</string>
     <string name="permlab_accountManagerService">fungeren als de AccountManagerService</string>
     <string name="permdesc_accountManagerService">Hiermee kan de app AccountAuthenticators aanroepen.</string>
     <string name="permlab_getAccounts">accounts op het apparaat vinden</string>
-    <string name="permdesc_getAccounts">Hiermee krijgt de app toegang tot de lijst met accounts die op de tablet bekend zijn. Dit kunnen ook accounts zijn die zijn gemaakt door apps die u heeft geïnstalleerd.</string>
+    <string name="permdesc_getAccounts">Hiermee krijgt de app toegang tot de lijst met accounts die op de telefoon bekend zijn. Dit kunnen ook accounts zijn die zijn gemaakt door apps die u heeft geïnstalleerd.</string>
     <string name="permlab_authenticateAccounts">accounts maken en wachtwoorden instellen</string>
     <string name="permdesc_authenticateAccounts">Hiermee kan de app de accountverificatiemogelijkheden van AccountManager gebruiken, inclusief het maken van accounts en het ophalen en instellen van de bijbehorende wachtwoorden.</string>
     <string name="permlab_manageAccounts">accounts toevoegen of verwijderen</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">wifi-verbinding maken en verbreken</string>
     <string name="permdesc_changeWifiState">Hiermee kan de app zich koppelen aan en loskoppelen van wifi-toegangspunten en wijzigingen aanbrengen in de apparaatconfiguratie voor wifi-netwerken.</string>
     <string name="permlab_changeWifiMulticastState">Wifi Multicast-ontvangst toestaan</string>
-    <string name="permdesc_changeWifiMulticastState">Hiermee kan de app pakketten ontvangen die via multicastadressen naar alle apparaten in een wifi-netwerk worden verzonden, niet alleen naar uw tablet. Het stroomgebruik ligt hierbij hoger dan in de niet-multicastmodus.</string>
+    <string name="permdesc_changeWifiMulticastState">Hiermee kan de app pakketten ontvangen die via multicastadressen naar alle apparaten in een wifi-netwerk worden verzonden, niet alleen naar uw telefoon. Het stroomgebruik ligt hierbij hoger dan in de niet-multicastmodus.</string>
     <string name="permlab_bluetoothAdmin">Bluetooth-instellingen openen</string>
-    <string name="permdesc_bluetoothAdmin">Hiermee kan de app de lokale Bluetooth-tablet configureren en externe apparaten zoeken en koppelen.</string>
+    <string name="permdesc_bluetoothAdmin">Hiermee kan de app de lokale Bluetooth-telefoon configureren en externe apparaten zoeken en koppelen.</string>
     <string name="permlab_accessWimaxState">WiMAX-verbinding maken en verbreken</string>
     <string name="permdesc_accessWimaxState">Hiermee kan de app bepalen of WiMAX is ingeschakeld en informatie bekijken over alle WiMAX-netwerken waarmee verbinding is gemaakt.</string>
     <string name="permlab_changeWimaxState">WiMAX-status wijzigen</string>
-    <string name="permdesc_changeWimaxState">Hiermee kan de app de tablet verbinden met WiMAX-netwerken en de verbinding daarmee verbreken.</string>
+    <string name="permdesc_changeWimaxState">Hiermee kan de app de telefoon verbinden met WiMAX-netwerken en de verbinding daarmee verbreken.</string>
     <string name="permlab_bluetooth">koppelen met Bluetooth-apparaten</string>
-    <string name="permdesc_bluetooth">Hiermee kan de app de Bluetooth-configuratie van de tablet bekijken en verbindingen met gekoppelde apparaten maken en accepteren.</string>
+    <string name="permdesc_bluetooth">Hiermee kan de app de Bluetooth-configuratie van de telefoon bekijken en verbindingen met gekoppelde apparaten maken en accepteren.</string>
     <string name="permlab_nfc">Near Field Communication regelen</string>
     <string name="permdesc_nfc">Hiermee kan de app communiceren met NFC-tags (Near Field Communication), kaarten en lezers.</string>
     <string name="permlab_disableKeyguard">uw schermvergrendeling uitschakelen</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Wachtwoordregels instellen</string>
     <string name="policydesc_limitPassword">De lengte en tekens beheren die zijn toegestaan in wachtwoorden voor schermontgrendeling.</string>
     <string name="policylab_watchLogin">Pogingen voor schermontgrendeling bijhouden</string>
-    <string name="policydesc_watchLogin">Bijhouden hoe vaak onjuiste wachtwoorden worden ingevoerd wanneer het scherm wordt ontgrendeld en de tablet vergrendelen of alle gegevens op de tablet wissen als te veel onjuiste wachtwoorden worden ingevoerd.</string>
+    <string name="policydesc_watchLogin">Bijhouden hoe vaak onjuiste wachtwoorden worden ingevoerd wanneer het scherm wordt ontgrendeld en de telefoon vergrendelen of alle gegevens op de telefoon wissen als te veel onjuiste wachtwoorden worden ingevoerd.</string>
     <string name="policylab_resetPassword">Het wachtwoord voor schermontgrendeling wijzigen</string>
     <string name="policydesc_resetPassword">Het wachtwoord voor schermontgrendeling wijzigen.</string>
     <string name="policylab_forceLock">Het scherm vergrendelen</string>
     <string name="policydesc_forceLock">Beheren hoe en wanneer het scherm wordt vergrendeld.</string>
     <string name="policylab_wipeData">Alle gegevens wissen</string>
-    <string name="policydesc_wipeData">De gegevens van de tablet zonder waarschuwing wissen door de fabrieksinstellingen te herstellen.</string>
+    <string name="policydesc_wipeData">De gegevens van de telefoon zonder waarschuwing wissen door de fabrieksinstellingen te herstellen.</string>
     <string name="policylab_setGlobalProxy">Algemene proxy voor het apparaat instellen</string>
     <string name="policydesc_setGlobalProxy">Stel de algemene proxy voor het apparaat in die moet worden gebruikt terwijl het beleid is geactiveerd. Alleen de eerste apparaatbeheerder stelt de algemene proxy in.</string>
     <string name="policylab_expirePassword">Verval wachtwoord instellen</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">Sluit de oplader aan.</string>
     <string name="lockscreen_missing_sim_message_short">Geen simkaart</string>
-    <string name="lockscreen_missing_sim_message">Geen SIM-kaart in tablet.</string>
+    <string name="lockscreen_missing_sim_message">Geen SIM-kaart in telefoon.</string>
     <string name="lockscreen_missing_sim_instructions">Plaats een simkaart.</string>
     <string name="lockscreen_missing_sim_instructions_long">De simkaart ontbreekt of kan niet worden gelezen. Plaats een simkaart.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Onbruikbare simkaart.</string>
@@ -778,11 +778,11 @@ Probeer het over %d seconden opnieuw."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"U heeft uw pincode %d keer onjuist getypt. 
 
 Probeer het over %d seconden opnieuw."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. Na nog eens %d mislukte pogingen wordt u gevraagd uw tablet te ontgrendelen met uw aanmeldingsgegevens voor Google.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. Na nog eens %d mislukte pogingen wordt u gevraagd uw telefoon te ontgrendelen met uw aanmeldingsgegevens voor Google.
 
  Probeer het over %d seconden opnieuw."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">U heeft %d keer geprobeerd de tablet op een onjuiste manier te ontgrendelen. Na nog eens %d mislukte pogingen worden de fabrieksinstellingen hersteld op de tablet en gaan alle gebruikersgegevens verloren.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">U heeft %d keer geprobeerd de tablet op een onjuiste manier te ontgrendelen. De fabrieksinstellingen worden nu hersteld op de tablet.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">U heeft nu %d keer geprobeerd de telefoon op een onjuiste manier te ontgrendelen. Na nog eens %d mislukte pogingen worden de fabrieksinstellingen hersteld op de telefoon en gaan alle gebruikersgegevens verloren.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">U heeft %d keer geprobeerd de telefoon op een onjuiste manier te ontgrendelen. De fabrieksinstellingen worden nu hersteld op de telefoon.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Probeer het over %d seconden opnieuw.</string>
     <string name="lockscreen_forgot_pattern_button_text">Patroon vergeten?</string>
     <string name="lockscreen_glogin_forgot_pattern">Account ontgrendelen</string>
@@ -867,7 +867,7 @@ Weet u zeker dat u deze pagina wilt verlaten?"</string>
     <string name="permlab_readHistoryBookmarks">uw webbladwijzers en -geschiedenis lezen</string>
     <string name="permdesc_readHistoryBookmarks">"Hiermee kan de app de geschiedenis lezen van alle URL's die in de systeemeigen browser zijn bezocht, en alle bladwijzers in de systeemeigen browser. Let op: deze toestemming kan niet worden geforceerd door andere browsers of andere apps met internetmogelijkheden."</string>
     <string name="permlab_writeHistoryBookmarks">webbladwijzers en -geschiedenis schrijven</string>
-    <string name="permdesc_writeHistoryBookmarks">Hiermee kan de app de webgeschiedenis wijzigen in de systeemeigen browser en de bladwijzers die zijn opgeslagen op uw tablet. Deze toestemming kan niet worden geforceerd door andere browsers of andere apps met internetmogelijkheden..</string>
+    <string name="permdesc_writeHistoryBookmarks">Hiermee kan de app de webgeschiedenis wijzigen in de systeemeigen browser en de bladwijzers die zijn opgeslagen op uw telefoon. Deze toestemming kan niet worden geforceerd door andere browsers of andere apps met internetmogelijkheden.</string>
     <string name="permlab_setAlarm">een alarm instellen</string>
     <string name="permdesc_setAlarm">Hiermee kan de app een alarm instellen in een geïnstalleerde wekkerapp. Deze functie wordt door sommige wekkerapps niet geïmplementeerd.</string>
     <string name="permlab_addVoicemail">voicemail toevoegen</string>
@@ -901,7 +901,7 @@ Weet u zeker dat u deze pagina wilt verlaten?"</string>
     <string name="searchview_description_submit">Zoekopdracht verzenden</string>
     <string name="searchview_description_voice">Gesproken zoekopdrachten</string>
     <string name="enable_explore_by_touch_warning_title">"'Verkennen via aanraking' aan?"</string>
-    <string name="enable_explore_by_touch_warning_message">"%1$s wil 'Verkennen via aanraking' inschakelen. Wanneer 'Verkennen via aanraking' is ingeschakeld, kunt u beschrijvingen beluisteren of bekijken van wat er onder uw vinger staat of aanraakbewerkingen uitvoeren op de tablet."</string>
+    <string name="enable_explore_by_touch_warning_message">"%1$s wil 'Verkennen via aanraking' inschakelen. Wanneer 'Verkennen via aanraking' is ingeschakeld, kunt u beschrijvingen beluisteren of bekijken van wat er onder uw vinger staat of aanraakbewerkingen uitvoeren op de telefoon."</string>
     <string name="oneMonthDurationPast">1 maand geleden</string>
     <string name="beforeOneMonthDurationPast">Meer dan 1 maand geleden</string>
     <string name="last_month">Afgelopen maand</string>
@@ -1025,7 +1025,7 @@ Wilt u de pagina sluiten?"</string>
     <string name="wifi_p2p_to_message">Naar:</string>
     <string name="wifi_p2p_enter_pin_message">Voer de gewenste pincode in:</string>
     <string name="wifi_p2p_show_pin_message">Pincode</string>
-    <string name="wifi_p2p_frequency_conflict_message">De verbinding met het wifi-netwerk wordt tijdelijk uitgeschakeld terwijl de telefoon is verbonden met %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">De verbinding met het wifi-netwerk wordt tijdelijk uitgeschakeld terwijl de telefoon verbonden is met %1$s</string>
     <string name="select_character">Teken invoegen</string>
     <string name="sms_control_title">SMS-berichten verzenden</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> verzendt moment een groot aantal sms-berichten. Wilt u toestaan ​​dat deze app berichten blijft verzenden?</string>
@@ -1274,7 +1274,7 @@ voor account %s."</string>
     <string name="SetupCallDefault">Oproep accepteren?</string>
     <string name="activity_resolver_use_always">Altijd</string>
     <string name="activity_resolver_use_once">Eén keer</string>
-    <string name="default_audio_route_name">Tablet</string>
+    <string name="default_audio_route_name">Telefoon</string>
     <string name="default_audio_route_name_headphones">Hoofdtelefoon</string>
     <string name="default_audio_route_name_dock_speakers">Dockluidsprekers</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Probeer het over %d seconden opnieuw."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. 
 
 Probeer het over %d seconden opnieuw."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">U heeft %d keer geprobeerd de tablet op een onjuiste manier te ontgrendelen. Na nog eens %d mislukte pogingen worden de fabrieksinstellingen hersteld op de tablet en gaan alle gebruikersgegevens verloren.</string>
-    <string name="kg_failed_attempts_now_wiping">U heeft %d keer geprobeerd de tablet op een onjuiste manier te ontgrendelen. De fabrieksinstellingen worden nu hersteld op de tablet.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. Na nog eens %d mislukte pogingen wordt u gevraagd uw tablet te ontgrendelen via een e-mailaccount.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">U heeft nu %d keer geprobeerd de telefoon op een onjuiste manier te ontgrendelen. Na nog eens %d mislukte pogingen worden de fabrieksinstellingen hersteld op de telefoon en gaan alle gebruikersgegevens verloren.</string>
+    <string name="kg_failed_attempts_now_wiping">U heeft %d keer geprobeerd de telefoon op een onjuiste manier te ontgrendelen. De fabrieksinstellingen worden nu hersteld op de telefoon.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"U heeft uw ontgrendelingspatroon %d keer onjuist getekend. Na nog eens %d mislukte pogingen wordt u gevraagd uw telefoon te ontgrendelen via een e-mailaccount.
 
  Probeer het over %d seconden opnieuw."</string>
     <string name="kg_text_message_separator">" — "</string>

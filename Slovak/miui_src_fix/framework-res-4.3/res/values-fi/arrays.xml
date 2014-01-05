@@ -37,6 +37,9 @@
         <item>Muu</item>
         <item>Muokattu</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Pikaviestin (koti)</item>
         <item>Työ</item>

@@ -37,6 +37,9 @@
         <item>Ander</item>
         <item>Gepasmaak</item>
     </string-array>
+    <string-array name="config_usbHostBlacklist">
+        <item>/dev/bus/usb/001</item>
+    </string-array>
     <string-array name="imAddressTypes">
         <item>Tuis</item>
         <item>Werk</item>

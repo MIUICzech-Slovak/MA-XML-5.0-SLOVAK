@@ -181,9 +181,9 @@
     <string name="contentServiceSync">同期</string>
     <string name="contentServiceSyncNotificationTitle">同期</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">%sでの削除が多すぎます。</string>
-    <string name="low_memory">タブレットのストレージに空き領域がありません。ファイルを削除して空き領域を確保してください。</string>
+    <string name="low_memory">端末のストレージに空き領域がありません。ファイルを削除して空き領域を確保してください。</string>
     <string name="me">自分</string>
-    <string name="power_dialog">タブレットオプション</string>
+    <string name="power_dialog">携帯電話オプション</string>
     <string name="silent_mode">マナーモード</string>
     <string name="turn_on_radio">ワイヤレス接続をONにする</string>
     <string name="turn_off_radio">ワイヤレス接続をOFFにする</string>
@@ -193,13 +193,13 @@
     <string name="silent_mode_vibrate">バイブレーション着信</string>
     <string name="silent_mode_ring">着信音オン</string>
     <string name="shutdown_progress">シャットダウン中...</string>
-    <string name="shutdown_confirm">タブレットの電源をOFFにします。</string>
+    <string name="shutdown_confirm">携帯電話の電源を切ります。</string>
     <string name="shutdown_confirm_question">シャットダウンしますか？</string>
     <string name="reboot_safemode_title">再起動してセーフモードに変更</string>
     <string name="reboot_safemode_confirm">再起動してセーフモードにしますか？セーフモードでは、インストールしたすべてのサードパーティ製アプリが無効になります。これらのアプリはもう一度再起動すると復元されます。</string>
     <string name="recent_tasks_title">新着</string>
     <string name="no_recent_tasks">最近使ったアプリはありません。</string>
-    <string name="global_actions">タブレットオプション</string>
+    <string name="global_actions">携帯電話オプション</string>
     <string name="global_action_lock">画面ロック</string>
     <string name="global_action_power_off">電源を切る</string>
     <string name="global_action_bug_report">バグレポート</string>
@@ -304,9 +304,9 @@
     <string name="permlab_sendRespondViaMessageRequest">メッセージ応答イベントの送信</string>
     <string name="permdesc_sendRespondViaMessageRequest">着信時にメッセージ応答イベントを処理するよう他のSMSアプリにリクエストを送信することをアプリに許可します。</string>
     <string name="permlab_readSms">テキストメッセージ（SMSまたはMMS）の読み取り</string>
-    <string name="permdesc_readSms">タブレットまたはSIMカードに保存されているSMSメッセージの読み取りをアプリに許可します。これにより、すべてのSMSメッセージをコンテンツや機密性に関係なくアプリから読み取ることができるようになります。</string>
+    <string name="permdesc_readSms">携帯端末またはSIMカードに保存されているSMSメッセージの読み取りをアプリに許可します。これにより、すべてのSMSメッセージをコンテンツや機密性に関係なくアプリから読み取ることができるようになります。</string>
     <string name="permlab_writeSms">テキストメッセージ（SMSまたはMMS）の編集</string>
-    <string name="permdesc_writeSms">タブレットやSIMカードに保存されているSMSメッセージへの書き込みをアプリに許可します。この許可を悪意のあるアプリに利用されると、メッセージが削除される恐れがあります。</string>
+    <string name="permdesc_writeSms">携帯端末やSIMカードに保存されているSMSメッセージへの書き込みをアプリに許可します。この許可を悪意のあるアプリに利用されると、メッセージが削除される恐れがあります。</string>
     <string name="permlab_receiveWapPush">テキストメッセージ（WAP）の受信</string>
     <string name="permdesc_receiveWapPush">WAPメッセージの受信と処理をアプリに許可します。これにより、アプリが端末に届いたメッセージを表示することなく監視または削除できるようになります。</string>
     <string name="permlab_getTasks">実行中のアプリの取得</string>
@@ -392,7 +392,7 @@
     <string name="permlab_freezeScreen">画面のフリーズ</string>
     <string name="permdesc_freezeScreen">全画面遷移のために画面を一時的にフリーズすることをアプリに許可します。</string>
     <string name="permlab_injectEvents">キーを押してボタンをコントロール</string>
-    <string name="permdesc_injectEvents">入力イベント（キーを押すなど）を他のアプリに伝えることをアプリに許可します。この許可を悪意のあるアプリに利用されると、タブレットが乗っ取られる恐れがあります。</string>
+    <string name="permdesc_injectEvents">入力イベント（キーを押すなど）を他のアプリに伝えることをアプリに許可します。この許可を悪意のあるアプリに利用されると、携帯端末が乗っ取られる恐れがあります。</string>
     <string name="permlab_readInputState">入力や操作の記録</string>
     <string name="permdesc_readInputState">別のアプリとの対話操作（パスワード入力など）の場合でもキー入力を監視することをアプリに許可します。通常のアプリでは不要です。</string>
     <string name="permlab_bindInputMethod">入力方法に関連付ける</string>
@@ -418,7 +418,7 @@
     <string name="permlab_signalPersistentProcesses">アプリへのLinuxシグナルの送信</string>
     <string name="permdesc_signalPersistentProcesses">受信したシグナルをすべての継続プロセスに送信するようリクエストすることをアプリに許可します。</string>
     <string name="permlab_persistentActivity">アプリの常時実行</string>
-    <string name="permdesc_persistentActivity">アプリにその一部をメモリに常駐させることを許可します。これにより他のアプリが使用できるメモリが制限されるため、タブレットの動作が遅くなることがあります。</string>
+    <string name="permdesc_persistentActivity">アプリにその一部をメモリに常駐させることを許可します。これにより他のアプリが使用できるメモリが制限されるため、携帯端末の動作が遅くなることがあります。</string>
     <string name="permlab_deletePackages">アプリの削除</string>
     <string name="permdesc_deletePackages">Androidパッケージの削除をアプリに許可します。この許可を悪意のあるアプリに利用されると、重要なアプリが削除される恐れがあります。</string>
     <string name="permlab_clearAppUserData">他のアプリのデータの削除</string>
@@ -430,17 +430,17 @@
     <string name="permlab_installPackages">アプリの直接インストール</string>
     <string name="permdesc_installPackages">新規またはアップデート用Androidパッケージのインストールをアプリに許可します。この許可を悪意のあるアプリに利用されると、強力な権限を持つ新しいアプリが勝手に追加される恐れがあります。</string>
     <string name="permlab_clearAppCache">アプリの全キャッシュデータの削除</string>
-    <string name="permdesc_clearAppCache">他のアプリのキャッシュディレクトリからファイルを削除してタブレットのストレージ領域を解放することをアプリに許可します。他のアプリはデータを再取得する必要があるため、これにより他のアプリの起動が遅れる場合があります。</string>
+    <string name="permdesc_clearAppCache">他のアプリのキャッシュディレクトリからファイルを削除して端末のストレージ領域を解放することをアプリに許可します。他のアプリはデータを再取得する必要があるため、これにより他のアプリの起動が遅れる場合があります。</string>
     <string name="permlab_movePackage">アプリのリソースの移動</string>
     <string name="permdesc_movePackage">内部メディアと外部メディアの間でアプリのリソースを移動することをアプリに許可します。</string>
     <string name="permlab_readLogs">機密ログデータの読み取り</string>
-    <string name="permdesc_readLogs">システムの各種ログファイルの読み取りをアプリに許可します。許可すると、アプリではタブレットの使用に関する全般的な情報を読み取れるようになります。この情報には個人情報や機密情報が含まれる場合があります。</string>
+    <string name="permdesc_readLogs">システムの各種ログファイルの読み取りをアプリに許可します。許可すると、アプリでは携帯端末の使用に関する全般的な情報を読み取れるようになります。この情報には個人情報や機密情報が含まれる場合があります。</string>
     <string name="permlab_anyCodecForPlayback">再生用にメディア デコーダーを使用</string>
     <string name="permdesc_anyCodecForPlayback">インストール済みのメディアデコーダーを使用して再生用にデコードすることをアプリに許可します。</string>
     <string name="permlab_diagnostic">diagが所有するリソースの読み書き</string>
     <string name="permdesc_diagnostic">diagグループが所有するリソース（/dev内のファイルなど）の読み書きをアプリに許可します。許可すると、システムの安定性とセキュリティに影響が生じる可能性があります。メーカー/通信事業者によるハードウェア固有の診断以外には使用しないでください。</string>
     <string name="permlab_changeComponentState">アプリのコンポーネントの有効/無効化</string>
-    <string name="permdesc_changeComponentState">別のアプリのコンポーネントの有効/無効を変更することをアプリに許可します。この許可を悪意のあるアプリに利用されると、タブレットの重要な機能が無効にされる恐れがあります。アプリのコンポーネントが利用できなくなったり、整合性が取れなくなったり、不安定な状態になったりする恐れがあるので許可には注意が必要です。</string>
+    <string name="permdesc_changeComponentState">別のアプリのコンポーネントの有効/無効を変更することをアプリに許可します。この許可を悪意のあるアプリに利用されると、携帯端末の重要な機能が無効にされる恐れがあります。アプリのコンポーネントが利用できなくなったり、整合性が取れなくなったり、不安定な状態になったりする恐れがあるので許可には注意が必要です。</string>
     <string name="permlab_grantRevokePermissions">権限の許可または取り消し</string>
     <string name="permdesc_grantRevokePermissions">このアプリケーションや他のアプリケーションに対して特定の権限を許可したり取り消したりすることをアプリケーションに許可します。悪意のあるアプリケーションがユーザーの許可なく複数の機能にアクセスする恐れがあります。</string>
     <string name="permlab_setPreferredApplications">優先アプリの設定</string>
@@ -452,17 +452,17 @@
     <string name="permlab_writeGservices">Googleサービスの地図の変更</string>
     <string name="permdesc_writeGservices">Googleサービスの地図の変更をアプリに許可します。通常のアプリでは使用しません。</string>
     <string name="permlab_receiveBootCompleted">起動時の実行</string>
-    <string name="permdesc_receiveBootCompleted">システムの起動後に自動的に起動することをアプリに許可します。許可すると、タブレットの起動時間が長くなったり、アプリが常に実行されるためにタブレット全体の動作が遅くなったりする可能性があります。</string>
+    <string name="permdesc_receiveBootCompleted">システムの起動後に自動的に起動することをアプリに許可します。許可すると、携帯端末の起動時間が長くなったり、アプリが常に実行されるために携帯端末全体の動作が遅くなったりする可能性があります。</string>
     <string name="permlab_broadcastSticky">stickyブロードキャストの配信</string>
-    <string name="permdesc_broadcastSticky">配信が終了してもメモリに残るstickyブロードキャストの配信をアプリに許可します。この許可を使用し過ぎると、メモリの使用量が増えてタブレットの動作が遅くなったり不安定になったりする恐れがあります。</string>
+    <string name="permdesc_broadcastSticky">配信が終了してもメモリに残るstickyブロードキャストの配信をアプリに許可します。この許可を使用し過ぎると、メモリの使用量が増えて携帯端末の動作が遅くなったり不安定になったりする恐れがあります。</string>
     <string name="permlab_readContacts">連絡先の読み取り</string>
-    <string name="permdesc_readContacts">タブレットに保存されている連絡先に関するデータの読み取りをアプリに許可します。このデータには、電話、メール、または他の手段で特定の相手と連絡をとった頻度も含まれます。これにより、アプリに連絡先データの保存を許可することになり、悪意のあるアプリによって知らないうちに連絡先データが共有される恐れがあります。</string>
+    <string name="permdesc_readContacts">携帯端末に保存されている連絡先に関するデータの読み取りをアプリに許可します。このデータには、電話、メール、または他の手段で特定の相手と連絡をとった頻度も含まれます。これにより、アプリに連絡先データの保存を許可することになり、悪意のあるアプリによって知らないうちに連絡先データが共有される恐れがあります。</string>
     <string name="permlab_writeContacts">連絡先の変更</string>
-    <string name="permdesc_writeContacts">タブレットに保存されている連絡先に関するデータの変更をアプリに許可します。このデータには、電話、メール、または他の手段で特定の相手と連絡をとった頻度も含まれます。これにより、アプリが連絡先データを削除できるようになります。</string>
+    <string name="permdesc_writeContacts">携帯端末に保存されている連絡先に関するデータの変更をアプリに許可します。このデータには、電話、メール、または他の手段で特定の相手と連絡をとった頻度も含まれます。これにより、アプリが連絡先データを削除できるようになります。</string>
     <string name="permlab_readCallLog">通話履歴の読み取り</string>
-    <string name="permdesc_readCallLog">タブレットの通話履歴（着信や発信のデータなど）の読み取りをアプリに許可します。これにより、アプリに通話履歴データの保存を許可することになり、悪意のあるアプリによって知らないうちに通話履歴データが共有される恐れがあります。</string>
+    <string name="permdesc_readCallLog">携帯端末の通話履歴（着信や発信のデータなど）の読み取りをアプリに許可します。これにより、アプリに通話履歴データの保存を許可することになり、悪意のあるアプリによって知らないうちに通話履歴データが共有される恐れがあります。</string>
     <string name="permlab_writeCallLog">通話履歴の書き込み</string>
-    <string name="permdesc_writeCallLog">タブレットの通話履歴（着信や発信のデータなど）の変更をアプリに許可します。この許可を悪意のあるアプリに利用されると、通話履歴が消去または変更される恐れがあります。</string>
+    <string name="permdesc_writeCallLog">携帯端末の通話履歴（着信や発信のデータなど）の変更をアプリに許可します。この許可を悪意のあるアプリに利用されると、通話履歴が消去または変更される恐れがあります。</string>
     <string name="permlab_readProfile">自分の連絡先カードの読み取り</string>
     <string name="permdesc_readProfile">端末に保存されている個人のプロフィール情報（名前、連絡先情報など）の読み取りをアプリに許可します。これにより、アプリがユーザーの身元を特定できるようになり、プロフィール情報を第三者に転送する可能性があります。</string>
     <string name="permlab_writeProfile">自分の連絡先カードの変更</string>
@@ -472,9 +472,9 @@
     <string name="permlab_writeSocialStream">ソーシャルストリームに書く</string>
     <string name="permdesc_writeSocialStream">友だちのソーシャル更新情報の表示をアプリに許可します。情報の共有は慎重に行ってください。これによりアプリは、友だちから発信されたかのようなメッセージを作成できるようになります。注: この許可は、一部のソーシャルネットワークでは適用されない場合があります。</string>
     <string name="permlab_readCalendar">カレンダーの予定と機密情報を読み取る</string>
-    <string name="permdesc_readCalendar">タブレットに保存されているカレンダーの予定（友だちや同僚の予定も含めすべて）を読み取ることをアプリに許可します。これにより、アプリがカレンダーのデータを機密性に関係なく共有または保存できるようになる可能性があります。</string>
+    <string name="permdesc_readCalendar">携帯端末に保存されているカレンダーの予定（友だちや同僚の予定も含めすべて）を読み取ることをアプリに許可します。これにより、アプリがカレンダーのデータを機密性に関係なく共有または保存できるようになる可能性があります。</string>
     <string name="permlab_writeCalendar">所有者に通知せずに、カレンダーの予定の追加や変更を行い、ゲストにメールを送信する</string>
-    <string name="permdesc_writeCalendar">ユーザーがタブレットから編集できる予定（友だちや同僚の予定も含む）を追加、削除、変更することをアプリに許可します。これによりアプリは、カレンダーの所有者から発信されたかのようなメッセージを送信したり、所有者の知らないうちに予定を変更したりできるようになる可能性があります。</string>
+    <string name="permdesc_writeCalendar">ユーザーが携帯端末から編集できる予定（友だちや同僚の予定も含む）を追加、削除、変更することをアプリに許可します。これによりアプリは、カレンダーの所有者から発信されたかのようなメッセージを送信したり、所有者の知らないうちに予定を変更したりできるようになる可能性があります。</string>
     <string name="permlab_accessMockLocation">仮の位置情報でテスト</string>
     <string name="permdesc_accessMockLocation">テスト用に仮の位置情報源を作成するか、新しい位置情報提供元をインストールします。これにより、他の位置情報源（GPS、位置情報提供元など）から返された位置情報やステータスの上書きをアプリに許可することになります。</string>
     <string name="permlab_accessLocationExtraCommands">位置情報提供者の追加コマンドアクセス</string>
@@ -501,10 +501,10 @@
     <string name="permdesc_camera">カメラでの写真と動画の撮影をアプリに許可します。これにより、アプリが確認なしでいつでもカメラを使用できるようになります。</string>
     <string name="permlab_cameraDisableTransmitLed">カメラの使用中に通信インジケータLEDを無効にする</string>
     <string name="permdesc_cameraDisableTransmitLed">カメラ使用インジケータLEDを無効にすることをプレインストールされているシステムアプリに許可します。</string>
-    <string name="permlab_brick">タブレットを完全に無効化</string>
-    <string name="permdesc_brick">タブレット全体を完全に無効にすることをアプリに許可します。この許可は危険です。</string>
-    <string name="permlab_reboot">タブレットの強制再起動</string>
-    <string name="permdesc_reboot">タブレットの強制的な再起動をアプリに許可します。</string>
+    <string name="permlab_brick">端末を永続的に無効にする</string>
+    <string name="permdesc_brick">携帯端末全体を完全に無効にすることをアプリに許可します。この許可は危険です。</string>
+    <string name="permlab_reboot">端末の再起動</string>
+    <string name="permdesc_reboot">携帯端末の強制的な再起動をアプリに許可します。</string>
     <string name="permlab_mount_unmount_filesystems">USBストレージのファイルシステムへのアクセス</string>
     <string name="permdesc_mount_unmount_filesystems">リムーバブルストレージのファイルシステムのマウント/マウント解除をアプリに許可します。</string>
     <string name="permlab_mount_format_filesystems">USBストレージ内データの消去</string>
@@ -533,7 +533,7 @@
     <string name="permdesc_callPhone">電話番号への自動発信をアプリに許可します。これにより、予期せぬ発信や料金が発生する可能性があります。なお、緊急通報番号への発信は許可されません。悪意のあるアプリが確認なしで発信し、料金が発生する恐れがあります。</string>
     <string name="permlab_callPrivileged">電話番号発信</string>
     <string name="permdesc_callPrivileged">緊急通報を含めあらゆる電話番号に自動発信することをアプリに許可します。この許可を悪意のあるアプリに利用されると、緊急サービスに不要、不正な通報が行われる恐れがあります。</string>
-    <string name="permlab_performCdmaProvisioning">CDMAタブレットのセットアップを直接開始</string>
+    <string name="permlab_performCdmaProvisioning">CDMA携帯電話のセットアップを直接開始</string>
     <string name="permdesc_performCdmaProvisioning">CDMAプロビジョニングの開始をアプリに許可します。この許可を悪意のあるアプリケーションに利用されると、不要なCDMAプロビジョニングが開始される恐れがあります。</string>
     <string name="permlab_locationUpdates">位置情報の更新通知</string>
     <string name="permdesc_locationUpdates">無線からの現在地情報のアップデート通知を有効/無効にすることをアプリに許可します。通常のアプリでは使用しません。</string>
@@ -545,12 +545,12 @@
     <string name="permdesc_modifyPhoneState">端末の電話機能の制御をアプリに許可します。許可すると、アプリではユーザーに通知なくネットワークの切り替え、無線通信のON/OFFなどを行えるようになります。</string>
     <string name="permlab_readPhoneState">端末のステータスとIDの読み取り</string>
     <string name="permdesc_readPhoneState">端末の電話機能へのアクセスをアプリに許可します。これにより、電話番号、端末ID、通話中かどうか、通話相手の電話番号をアプリから特定できるようになります。</string>
-    <string name="permlab_wakeLock">タブレットのスリープを無効化</string>
-    <string name="permdesc_wakeLock">タブレットのスリープを無効にすることをアプリに許可します。</string>
-    <string name="permlab_devicePower">タブレットの電源ON/OFF</string>
-    <string name="permdesc_devicePower">タブレットの電源のON/OFFをアプリに許可します。</string>
+    <string name="permlab_wakeLock">端末のスリープを無効にする</string>
+    <string name="permdesc_wakeLock">携帯端末のスリープを無効にすることをアプリに許可します。</string>
+    <string name="permlab_devicePower">電源のON/OFF</string>
+    <string name="permdesc_devicePower">携帯端末の電源のON/OFFをアプリに許可します。</string>
     <string name="permlab_factoryTest">出荷時試験モードでの実行</string>
-    <string name="permdesc_factoryTest">タブレットハードウェアへのアクセスを完全に許可して、低レベルのメーカーテストを実行します。メーカーのテストモードでタブレットを使用する場合にのみ利用できます。</string>
+    <string name="permdesc_factoryTest">携帯電話のハードウェアへのアクセスを完全に許可して、低レベルのメーカーテストとして実行します。メーカーのテストモードで携帯電話を使用するときのみ利用できます。</string>
     <string name="permlab_setWallpaper">壁紙の設定</string>
     <string name="permdesc_setWallpaper">システムの壁紙を設定することをアプリに許可します。</string>
     <string name="permlab_setWallpaperHints">壁紙のサイズの調整</string>
@@ -558,13 +558,13 @@
     <string name="permlab_masterClear">システムを出荷時設定にリセット</string>
     <string name="permdesc_masterClear">データ、設定、インストールアプリをすべて消去して、出荷時の設定にシステムを完全にリセットすることをアプリに許可します。</string>
     <string name="permlab_setTime">時刻の設定</string>
-    <string name="permdesc_setTime">タブレットの時刻の変更をアプリに許可します。</string>
+    <string name="permdesc_setTime">携帯端末の時刻の変更をアプリに許可します。</string>
     <string name="permlab_setTimeZone">タイムゾーンの設定</string>
-    <string name="permdesc_setTimeZone">タブレットのタイムゾーンの変更をアプリに許可します。</string>
+    <string name="permdesc_setTimeZone">携帯端末のタイムゾーンの変更をアプリに許可します。</string>
     <string name="permlab_accountManagerService">AccountManagerServiceとして機能</string>
     <string name="permdesc_accountManagerService">AccountAuthenticatorsの呼び出しをアプリに許可します。</string>
     <string name="permlab_getAccounts">この端末上のアカウントの検索</string>
-    <string name="permdesc_getAccounts">タブレットで認識されているアカウントのリストの取得をアプリに許可します。これには、インストールしたアプリによって作成されたアカウントも含まれます。</string>
+    <string name="permdesc_getAccounts">携帯端末で認識されているアカウントのリストの取得をアプリに許可します。これには、インストールしたアプリによって作成されたアカウントも含まれます。</string>
     <string name="permlab_authenticateAccounts">アカウントの作成とパスワードの設定</string>
     <string name="permdesc_authenticateAccounts">アカウントの作成、パスワードの取得や設定など、AccountManagerのアカウント認証機能を使用することをアプリに許可します。</string>
     <string name="permlab_manageAccounts">アカウントの追加と削除</string>
@@ -588,15 +588,15 @@
     <string name="permlab_changeWifiState">Wi-Fiからの接続と切断</string>
     <string name="permdesc_changeWifiState">Wi-Fiアクセスポイントへの接続/切断、Wi-Fiネットワークのデバイス設定の変更をアプリに許可します。</string>
     <string name="permlab_changeWifiMulticastState">Wi-Fiマルチキャストの受信を許可する</string>
-    <string name="permdesc_changeWifiMulticastState">マルチキャストアドレスを使用して、このタブレットだけでなくWi-Fiネットワーク上のすべてのデバイスに送信されたパケットを受信することをアプリに許可します。マルチキャスト以外のモードよりも電池の消費量が大きくなります。</string>
+    <string name="permdesc_changeWifiMulticastState">マルチキャストアドレスを使用して、この携帯端末だけでなくWi-Fiネットワーク上のすべてのデバイスに送信されたパケットを受信することをアプリに許可します。マルチキャスト以外のモードよりも電池の消費量が大きくなります。</string>
     <string name="permlab_bluetoothAdmin">Bluetoothの設定へのアクセス</string>
-    <string name="permdesc_bluetoothAdmin">ローカルのBluetoothタブレットを設定することと、リモート端末を検出してペアに設定することをアプリに許可します。</string>
+    <string name="permdesc_bluetoothAdmin">ローカルのBluetooth携帯端末を設定することと、リモート端末を検出してペアに設定することをアプリに許可します。</string>
     <string name="permlab_accessWimaxState">WiMAXへの接続と切断</string>
     <string name="permdesc_accessWimaxState">WiMAXがONになっているかどうかを識別し、接続されているWiMAXネットワークの情報を表示することをアプリに許可します。</string>
     <string name="permlab_changeWimaxState">WiMAX状態の変更</string>
-    <string name="permdesc_changeWimaxState">タブレットのWiMAXネットワークへの接続と切断をアプリに許可します。</string>
+    <string name="permdesc_changeWimaxState">携帯端末のWiMAXネットワークへの接続と切断をアプリに許可します。</string>
     <string name="permlab_bluetooth">Bluetoothデバイスのペアの設定</string>
-    <string name="permdesc_bluetooth">タブレットのBluetooth設定を表示すること、ペアの端末に接続すること/ペアの端末からの接続を受け入れることをアプリに許可します。</string>
+    <string name="permdesc_bluetooth">携帯端末のBluetooth設定を表示すること、ペアの端末に接続すること/ペアの端末からの接続を受け入れることをアプリに許可します。</string>
     <string name="permlab_nfc">NFCの管理</string>
     <string name="permdesc_nfc">NFCタグ、カード、リーダーとの通信をアプリに許可します。</string>
     <string name="permlab_disableKeyguard">画面ロックの無効化</string>
@@ -640,13 +640,13 @@
     <string name="policylab_limitPassword">パスワードルールの設定</string>
     <string name="policydesc_limitPassword">画面ロック解除パスワードの長さと使用できる文字を制御します。</string>
     <string name="policylab_watchLogin">画面ロック解除試行の監視</string>
-    <string name="policydesc_watchLogin">画面のロック解除に正しくないパスワードを入力した回数を監視し、回数が多すぎる場合はタブレットをロックするかタブレットのデータをすべて消去します。</string>
+    <string name="policydesc_watchLogin">画面のロック解除に正しくないパスワードを入力した回数を監視し、回数が多すぎる場合は携帯端末をロックするか携帯端末のデータをすべて消去します。</string>
     <string name="policylab_resetPassword">画面ロック解除パスワードの変更</string>
     <string name="policydesc_resetPassword">画面ロック解除パスワードを変更します。</string>
     <string name="policylab_forceLock">画面のロック</string>
     <string name="policydesc_forceLock">画面をロックする方法とタイミングを制御します。</string>
     <string name="policylab_wipeData">すべてのデータを消去</string>
-    <string name="policydesc_wipeData">警告せずにデータの初期化を実行してタブレット内のデータを消去します。</string>
+    <string name="policydesc_wipeData">警告せずにデータの初期化を実行して端末内のデータを消去します。</string>
     <string name="policylab_setGlobalProxy">端末のグローバルプロキシを設定</string>
     <string name="policydesc_setGlobalProxy">ポリシーが有効になっている場合は端末のグローバルプロキシが使用されるように設定します。有効なグローバルプロキシを設定できるのは最初のデバイス管理者だけです。</string>
     <string name="policylab_expirePassword">解除パスワードの有効期限の設定</string>
@@ -753,7 +753,7 @@
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="lockscreen_low_battery">充電してください</string>
     <string name="lockscreen_missing_sim_message_short">SIMカードが挿入されていません</string>
-    <string name="lockscreen_missing_sim_message">タブレット内にSIMカードがありません。</string>
+    <string name="lockscreen_missing_sim_message">SIMカードが挿入されていません</string>
     <string name="lockscreen_missing_sim_instructions">SIMカードを挿入してください。</string>
     <string name="lockscreen_missing_sim_instructions_long">SIMカードが見つからないか読み取れません。SIMカードを挿入してください。</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">SIMカードは使用できません。</string>
@@ -779,11 +779,11 @@
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"正しくないPINを%d回入力しました。
 
 %d秒後にもう一度お試しください。"</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"ロック解除パターンの入力を%d回間違えました。あと%d回間違えると、タブレットのロック解除にGoogleへのログインが必要になります。
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"ロック解除パターンの入力を%d回間違えました。あと%d回間違えると、携帯端末のロック解除にGoogleへのログインが必要になります。
 
 %d秒後にもう一度お試しください。"</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">タブレットのロック解除に%d回失敗しました。あと%d回失敗すると、タブレットは工場出荷状態にリセットされ、ユーザーのデータはすべて失われます。</string>
-    <string name="lockscreen_failed_attempts_now_wiping">タブレットのロック解除を%d回失敗しました。タブレットを工場出荷状態にリセットします。</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">端末のロック解除に%d回失敗しました。あと%d回失敗すると、端末は工場出荷状態にリセットされ、ユーザーのデータはすべて失われます。</string>
+    <string name="lockscreen_failed_attempts_now_wiping">端末のロック解除を%d回失敗しました。端末を工場出荷状態にリセットします。</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">%d秒後にやり直してください。</string>
     <string name="lockscreen_forgot_pattern_button_text">パターンを忘れた場合</string>
     <string name="lockscreen_glogin_forgot_pattern">アカウントのロック解除</string>
@@ -868,7 +868,7 @@
     <string name="permlab_readHistoryBookmarks">ウェブのブックマークと履歴の読み取り</string>
     <string name="permdesc_readHistoryBookmarks">ブラウザからアクセスしたすべてのURLの履歴とブラウザのすべてのブックマークの読み取りをアプリに許可します。注: この許可は、サードパーティブラウザまたはウェブブラウジング機能を備えたその他のアプリでは適用されない場合があります。</string>
     <string name="permlab_writeHistoryBookmarks">ウェブのブックマークと履歴の書き込み</string>
-    <string name="permdesc_writeHistoryBookmarks">タブレットに保存されているブラウザの履歴やブックマークの変更をアプリに許可します。これにより、アプリがブラウザデータを消去または変更できるようになる可能性があります。注: この許可は、サードパーティブラウザまたはウェブブラウジング機能を備えたその他のアプリでは適用されない場合があります。</string>
+    <string name="permdesc_writeHistoryBookmarks">携帯端末に保存されているブラウザの履歴やブックマークの変更をアプリに許可します。これにより、アプリがブラウザデータを消去または変更できるようになる可能性があります。注: この許可は、サードパーティブラウザまたはウェブブラウジング機能を備えたその他のアプリでは適用されない場合があります。</string>
     <string name="permlab_setAlarm">アラームの設定</string>
     <string name="permdesc_setAlarm">インストール済みアラームアプリのアラームを設定することをアプリに許可します。この機能が実装されていないアラームアプリもあります。</string>
     <string name="permlab_addVoicemail">ボイスメールの追加</string>
@@ -902,7 +902,7 @@
     <string name="searchview_description_submit">検索キーワードを送信</string>
     <string name="searchview_description_voice">音声検索</string>
     <string name="enable_explore_by_touch_warning_title">タッチガイドをONにしますか？</string>
-    <string name="enable_explore_by_touch_warning_message">%1$sがタッチガイドをONにしようとしています。タッチガイドをONにすると、指の位置にあるアイテムの説明を読み上げたり表示したりできます。また、タブレットを通常とは違うジェスチャーで操作できます。</string>
+    <string name="enable_explore_by_touch_warning_message">%1$sがタッチガイドをONにしようとしています。タッチガイドをONにすると、指の位置にあるアイテムの説明を読み上げたり表示したりできます。また、携帯端末を通常とは違うジェスチャーで操作できます。</string>
     <string name="oneMonthDurationPast">1か月前</string>
     <string name="beforeOneMonthDurationPast">1か月前</string>
     <string name="last_month">先月</string>
@@ -1026,7 +1026,7 @@
     <string name="wifi_p2p_to_message">To:</string>
     <string name="wifi_p2p_enter_pin_message">必要なPINを入力してください:</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
-    <string name="wifi_p2p_frequency_conflict_message">タブレットが%1$sに接続されている間は一時的にWi-Fi接続が切断されます</string>
+    <string name="wifi_p2p_frequency_conflict_message">携帯端末が%1$sに接続されている間は一時的にWi-Fi接続が解除されます。</string>
     <string name="select_character">文字を挿入</string>
     <string name="sms_control_title">SMSメッセージの送信中</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b>が大量のSMSメッセージを送信しています。このアプリにこのままメッセージの送信を許可しますか？</string>
@@ -1275,7 +1275,7 @@
     <string name="SetupCallDefault">通話を受けますか？</string>
     <string name="activity_resolver_use_always">常時</string>
     <string name="activity_resolver_use_once">1回のみ</string>
-    <string name="default_audio_route_name">タブレット</string>
+    <string name="default_audio_route_name">携帯端末</string>
     <string name="default_audio_route_name_headphones">ヘッドホン</string>
     <string name="default_audio_route_name_dock_speakers">ホルダーのスピーカー</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1332,9 +1332,9 @@
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"ロック解除パターンの入力を%d回間違えました。
 
 %d秒後にもう一度お試しください。"</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">タブレットのロック解除に%d回失敗しました。あと%d回失敗すると、タブレットは出荷時設定にリセットされ、ユーザーのデータはすべて失われます。</string>
-    <string name="kg_failed_attempts_now_wiping">タブレットのロック解除を%d回失敗しました。タブレットは出荷時設定にリセットされます。</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"ロック解除パターンの入力を%d回間違えました。あと%d回間違えると、タブレットのロック解除にメールアカウントが必要になります。
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">携帯端末のロック解除に%d回失敗しました。あと%d回失敗すると、端末は出荷時設定にリセットされ、ユーザーのデータはすべて失われます。</string>
+    <string name="kg_failed_attempts_now_wiping">携帯端末のロック解除を%d回失敗しました。端末は出荷時設定にリセットされます。</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"ロック解除パターンの入力を%d回間違えました。あと%d回間違えると、携帯端末のロック解除にメールアカウントが必要になります。
 
 %d秒後にもう一度お試しください。"</string>
     <string name="kg_text_message_separator">" - "</string>

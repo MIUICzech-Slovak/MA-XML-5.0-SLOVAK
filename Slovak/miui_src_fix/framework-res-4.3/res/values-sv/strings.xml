@@ -180,9 +180,9 @@
     <string name="contentServiceSync">Synkronisera</string>
     <string name="contentServiceSyncNotificationTitle">Synkronisera</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">För många %s-borttagningar.</string>
-    <string name="low_memory">Pekdatorns lagringsutrymme är fullt. Ta bort några filer för att frigöra utrymme.</string>
+    <string name="low_memory">Mobilens lagringsutrymme är fullt. Ta bort några filer för att frigöra utrymme.</string>
     <string name="me">Jag</string>
-    <string name="power_dialog">Alternativ för surfplattan</string>
+    <string name="power_dialog">Telefonalternativ</string>
     <string name="silent_mode">Tyst läge</string>
     <string name="turn_on_radio">Aktivera trådlöst</string>
     <string name="turn_off_radio">Inaktivera trådlöst</string>
@@ -192,13 +192,13 @@
     <string name="silent_mode_vibrate">Vibrerande ringsignal</string>
     <string name="silent_mode_ring">Ringsignal på</string>
     <string name="shutdown_progress">Avslutar…</string>
-    <string name="shutdown_confirm">Din surfplatta stängs av.</string>
+    <string name="shutdown_confirm">Din telefon stängs av.</string>
     <string name="shutdown_confirm_question">Vill du stänga av?</string>
     <string name="reboot_safemode_title">Starta om i felsäkert läge</string>
     <string name="reboot_safemode_confirm">Vill du starta om datorn i felsäkert läge? Då inaktiveras alla appar från tredje part som du har installerat. Apparna återställs när du startar om datorn igen.</string>
     <string name="recent_tasks_title">Senaste</string>
     <string name="no_recent_tasks">Inga nya appar.</string>
-    <string name="global_actions">Alternativ för surfplattan</string>
+    <string name="global_actions">Telefonalternativ</string>
     <string name="global_action_lock">Skärmlås</string>
     <string name="global_action_power_off">Stäng av</string>
     <string name="global_action_bug_report">Felrapport</string>
@@ -303,9 +303,9 @@
     <string name="permlab_sendRespondViaMessageRequest">skicka svar via meddelanden</string>
     <string name="permdesc_sendRespondViaMessageRequest">Tillåter att appen skickar förfrågningar till andra meddelandeappar för att kunna skicka meddelanden som svar på inkommande samtal.</string>
     <string name="permlab_readSms">läsa dina textmeddelanden (SMS eller MMS)</string>
-    <string name="permdesc_readSms">Tillåter att appen läser SMS som sparats på surfplattan eller på SIM-kortet. Med den här behörigheten tillåts appen att läsa alla SMS oavsett innehåll eller sekretess.</string>
+    <string name="permdesc_readSms">Tillåter att appen läser SMS som sparats på mobilen eller på SIM-kortet. Med den här behörigheten tillåts appen att läsa alla SMS oavsett innehåll eller sekretess.</string>
     <string name="permlab_writeSms">redigera dina textmeddelanden (SMS eller MMS)</string>
-    <string name="permdesc_writeSms">Tillåter att appen skriver till SMS som lagras på surfplattan eller SIM-kortet. Skadliga appar kan radera dina meddelanden.</string>
+    <string name="permdesc_writeSms">Tillåter att appen skriver till SMS som lagras på mobilen eller SIM-kortet. Skadliga appar kan radera dina meddelanden.</string>
     <string name="permlab_receiveWapPush">ta emot textmeddelanden (WAP)</string>
     <string name="permdesc_receiveWapPush">Tillåter att appen tar emot och hanterar WAP-meddelanden. Med den här behörigheten kan appen övervaka eller ta bort meddelanden som skickats till dig utan att visa dem för dig.</string>
     <string name="permlab_getTasks">hämta appar som körs</string>
@@ -391,7 +391,7 @@
     <string name="permlab_freezeScreen">frysa skärmen</string>
     <string name="permdesc_freezeScreen">Tillåter att appen tillfälligt fryser skärmen för övergång till helskärm.</string>
     <string name="permlab_injectEvents">trycka på knappar och styrknappar</string>
-    <string name="permdesc_injectEvents">Tillåter att appen levererar egna inmatningshändelser (knapptryckningar osv.) till andra appar. Skadliga appar kan använda detta för att kapa surfplattan.</string>
+    <string name="permdesc_injectEvents">Tillåter att appen levererar egna inmatningshändelser (knapptryckningar osv.) till andra appar. Skadliga appar kan använda detta för att kapa mobilen.</string>
     <string name="permlab_readInputState">registrera vad du skriver och vilka åtgärder du vidtar</string>
     <string name="permdesc_readInputState">Tillåter att appen övervakar knapparna som du trycker på, till och med när du använder andra appar (till exempel när du anger ett lösenord). Ska inte behövas för vanliga appar.</string>
     <string name="permlab_bindInputMethod">binda till en metod för indata</string>
@@ -417,7 +417,7 @@
     <string name="permlab_signalPersistentProcesses">skicka Linux-signaler till appar</string>
     <string name="permdesc_signalPersistentProcesses">Tillåter att appen begär att den angivna signalen skickas till alla beständiga processer.</string>
     <string name="permlab_persistentActivity">se till att appen alltid körs</string>
-    <string name="permdesc_persistentActivity">Tillåter att delar av appen läggs beständigt i minnet. Detta kan innebära att det tillgängliga minnet för andra appar begränsas, vilket gör surfplattan långsam.</string>
+    <string name="permdesc_persistentActivity">Tillåter att delar av appen läggs beständigt i minnet. Detta kan innebära att det tillgängliga minnet för andra appar begränsas, vilket gör mobilen långsam.</string>
     <string name="permlab_deletePackages">ta bort appar</string>
     <string name="permdesc_deletePackages">Tillåter att appen tar bort Android-paket. Skadliga appar kan använda detta för att ta bort viktiga appar.</string>
     <string name="permlab_clearAppUserData">ta bort uppgifter i andra appar</string>
@@ -429,17 +429,17 @@
     <string name="permlab_installPackages">installera appar direkt</string>
     <string name="permdesc_installPackages">Tillåter att appen installerar nya eller uppdaterade Android-paket. Skadliga appar kan använda detta för att lägga till nya appar med godtyckliga och starka behörigheter.</string>
     <string name="permlab_clearAppCache">ta bort cacheinformation för alla appar</string>
-    <string name="permdesc_clearAppCache">Tillåter att appen frigör utrymme på surfplattan genom att ta bort filer i andra appars cachekataloger. Detta kan medföra att andra appar startar långsammare eftersom samma data måste hämtas på nytt.</string>
+    <string name="permdesc_clearAppCache">Tillåter att appen frigör utrymme på mobilen genom att ta bort filer i andra appars cachekataloger. Detta kan medföra att andra appar startar långsammare eftersom samma data måste hämtas på nytt.</string>
     <string name="permlab_movePackage">flytta appresurser</string>
     <string name="permdesc_movePackage">Tillåter att appen flyttar appresurser från interna till externa medier och tvärtom.</string>
     <string name="permlab_readLogs">läsa känsliga loggdata</string>
-    <string name="permdesc_readLogs">Tillåter att appen läser från systemets olika loggfiler. Det innebär att appen kan upptäcka allmän information om vad du gör med surfplattan, vilket kan inkludera personlig eller privat information.</string>
+    <string name="permdesc_readLogs">Tillåter att appen läser från systemets olika loggfiler. Det innebär att appen kan upptäcka allmän information om vad du gör med mobilen, vilket kan inkludera personlig eller privat information.</string>
     <string name="permlab_anyCodecForPlayback">använda alla medieavkodare för uppspelning</string>
     <string name="permdesc_anyCodecForPlayback">Tillåter att appen använder installerade medieavkodare för att avkoda media för uppspelning.</string>
     <string name="permlab_diagnostic">läsa/skriva till resurser som ägs av diag</string>
     <string name="permdesc_diagnostic">Tillåter att appen läser och skriver till en resurs som ägs av diag-gruppen, till exempel filer i /dev. Detta kan eventuellt påverka systemets stabilitet och säkerhet. Detta bör ENDAST användas av tillverkaren eller operatören för maskinvaruspecifik diagnostik.</string>
     <string name="permlab_changeComponentState">aktivera eller inaktivera appkomponenter</string>
-    <string name="permdesc_changeComponentState">Tillåter att appen ändrar inställningen för om en komponent i en annan app ska aktiveras eller inte. Skadliga appar kan använda detta för att inaktivera viktiga funktioner i surfplattan. Var försiktig med behörigheten, eftersom appkomponenter kan bli oanvändbara, inkonsekventa eller instabila.</string>
+    <string name="permdesc_changeComponentState">Tillåter att appen ändrar inställningen för om en komponent i en annan app ska aktiveras eller inte. Skadliga appar kan använda detta för att inaktivera viktiga funktioner i surfplattan. Var försiktig med behörigheten, eftersom programkomponenter kan bli oanvändbara, inkonsekventa eller instabila.</string>
     <string name="permlab_grantRevokePermissions">bevilja eller återkalla behörighet</string>
     <string name="permdesc_grantRevokePermissions">Tillåter att en app beviljar eller återkallar specifik behörighet, för sig själv eller andra appar. Skadlig programvara kan utnyttja detta för att få åtkomst till funktioner som du inte har beviljat behörighet till.</string>
     <string name="permlab_setPreferredApplications">ange önskade appar</string>
@@ -451,17 +451,17 @@
     <string name="permlab_writeGservices">ändra kartan för Googles tjänster</string>
     <string name="permdesc_writeGservices">Tillåter att appen ändrar kartan för Googles tjänster. Används inte av vanliga appar.</string>
     <string name="permlab_receiveBootCompleted">köra vid start</string>
-    <string name="permdesc_receiveBootCompleted">Tillåter att appen startar automatiskt när systemet har startats om. Detta kan innebära att det tar längre tid att starta surfplattan och att surfplattan blir långsammare i och med att appen hela tiden körs i bakgrunden.</string>
+    <string name="permdesc_receiveBootCompleted">Tillåter att appen startar automatiskt när systemet har startats om. Detta kan innebära att det tar längre tid att starta mobilen och att mobilen blir långsammare i och med att appen hela tiden körs i bakgrunden.</string>
     <string name="permlab_broadcastSticky">Skicka sticky broadcast</string>
-    <string name="permdesc_broadcastSticky">Tillåter att appen skickar sticky broadcasts, som finns kvar när sändningen är slut. Vid intensiv användning kan mobilen bli långsam eller instabil eftersom minnet överbelastas.</string>
+    <string name="permdesc_broadcastSticky">Tillåter att appen skickar sticky broadcast, som finns kvar när sändningen är slut. Vid intensiv användning kan mobilen bli långsam eller instabil eftersom minnet överbelastas.</string>
     <string name="permlab_readContacts">läsa dina kontakter</string>
-    <string name="permdesc_readContacts">Tillåter att appen läser kontaktuppgifter som sparats på surfplattan, inklusive information om hur ofta du har ringt, skickat e-post till eller på andra sätt kommunicerat med specifika personer. Med den här behörigheten tillåts appen att spara kontaktuppgifter. Skadliga appar kan dela uppgifterna med andra utan din vetskap.</string>
+    <string name="permdesc_readContacts">Tillåter att appen läser kontaktuppgifter som sparats på mobilen, inklusive information om hur ofta du har ringt, skickat e-post till eller på andra sätt kommunicerat med specifika personer. Med den här behörigheten tillåts appen att spara kontaktuppgifter. Skadliga appar kan dela uppgifterna med andra utan din vetskap.</string>
     <string name="permlab_writeContacts">ändra kontakterna</string>
-    <string name="permdesc_writeContacts">Tillåter att appen ändrar kontaktuppgifter som sparats på surfplattan, inklusive information om hur ofta du har ringt, skickat e-post till eller på andra sätt kommunicerat med specifika personer. Med den här behörigheten tillåts appar att ta bort kontaktuppgifter.</string>
+    <string name="permdesc_writeContacts">Tillåter att appen ändrar kontaktuppgifter som sparats på mobilen, inklusive information om hur ofta du har ringt, skickat e-post till eller på andra sätt kommunicerat med specifika personer. Med den här behörigheten tillåts appar att ta bort kontaktuppgifter.</string>
     <string name="permlab_readCallLog">läs samtalslogg</string>
-    <string name="permdesc_readCallLog">Tillåter att appen läser pekdatorns samtalslista, inklusive uppgifter om inkommande och utgående samtal. Med den här behörigheten tillåts appen att spara samtalshistoriken. Skadliga appar kan dela uppgifterna med andra utan din vetskap.</string>
+    <string name="permdesc_readCallLog">Tillåter att appen läser mobilens samtalslista, inklusive uppgifter om inkommande och utgående samtal. Med den här behörigheten tillåts appen att spara samtalshistoriken. Skadliga appar kan dela uppgifterna med andra utan din vetskap.</string>
     <string name="permlab_writeCallLog">skriv samtalslogg</string>
-    <string name="permdesc_writeCallLog">Tillåter att appen gör ändringar i pekdatorns samtalslista, inklusive i uppgifter om inkommande och utgående samtal. Skadliga program kan använda detta för att radera eller ändra din samtalslista.</string>
+    <string name="permdesc_writeCallLog">Tillåter att appen gör ändringar i mobilens samtalslista, inklusive i uppgifter om inkommande och utgående samtal. Skadliga program kan använda detta för att radera eller ändra din samtalslista.</string>
     <string name="permlab_readProfile">läsa ditt eget kontaktkort</string>
     <string name="permdesc_readProfile">Tillåter att appen läser personliga profiluppgifter som sparats på din enhet, t.ex. ditt namn och kontaktuppgifter. Det innebär att appen kan identifiera dig och skicka profiluppgifter till andra.</string>
     <string name="permlab_writeProfile">ändra ditt eget kontaktkort</string>
@@ -471,9 +471,9 @@
     <string name="permlab_writeSocialStream">skriv till mitt sociala flöde</string>
     <string name="permdesc_writeSocialStream">Tillåter att appen visar sociala uppdateringar från dina vänner. Var försiktig när du delar information – med den här behörigheten tillåts appen att generera meddelanden som kan se ut att komma från en vän. Observera att den här behörigheten kanske inte är tillämplig på alla sociala nätverk.</string>
     <string name="permlab_readCalendar">läsa kalenderuppgifter plus konfidentiell information</string>
-    <string name="permdesc_readCalendar">Tillåter att appen läser alla kalenderuppgifter som sparats på surfplattan, inklusive dina vänners eller kollegors uppgifter. Med den här behörigheten kan appen tillåtas att dela eller spara kalenderuppgifter även om de är sekretessbelagda eller känsliga.</string>
+    <string name="permdesc_readCalendar">Tillåter att appen läser alla kalenderuppgifter som sparats på mobilen, inklusive dina vänners eller kollegors uppgifter. Med den här behörigheten kan appen tillåtas att dela eller spara kalenderuppgifter även om de är sekretessbelagda eller känsliga.</string>
     <string name="permlab_writeCalendar">lägga till eller ändra kalenderuppgifter och skicka e-post till gäster utan ägarens vetskap</string>
-    <string name="permdesc_writeCalendar">Tillåter att appen lägger till, tar bort och ändrar sådana händelser som du kan ändra på surfplattan, inklusive dina vänners eller kollegors uppgifter. Detta kan innebära att appen tillåts skicka meddelanden som ser ut att komma från kalenderns ägare eller ändra händelser utan ägarens vetskap.</string>
+    <string name="permdesc_writeCalendar">Tillåter att appen lägger till, tar bort och ändrar sådana händelser som du kan ändra på mobilen, inklusive dina vänners eller kollegors uppgifter. Detta kan innebära att appen tillåts skicka meddelanden som ser ut att komma från kalenderns ägare eller ändra händelser utan ägarens vetskap.</string>
     <string name="permlab_accessMockLocation">skenplatser för att testa</string>
     <string name="permdesc_accessMockLocation">Skapa skenplatser för tester eller installera en ny platsleverantör. Detta innebär att appen tillåts åsidosätta den plats och/eller status som returneras av andra platskällor, till exempel GPS eller platsleverantörer.</string>
     <string name="permlab_accessLocationExtraCommands">få åtkomst till extra kommandon för platsleverantör</string>
@@ -500,10 +500,10 @@
     <string name="permdesc_camera">Tillåter att appen tar bilder och spelar in videor med kameran. Med den här behörigheten tillåts appen att använda kameran när som helst utan ditt godkännande.</string>
     <string name="permlab_cameraDisableTransmitLed">inaktivera LED-sändningsindikator när kameran används</string>
     <string name="permdesc_cameraDisableTransmitLed">Tillåter att en förinstallerad systemapp inaktiverar LED-indikatorn för kameranvändning.</string>
-    <string name="permlab_brick">inaktivera surfplattan permanent</string>
-    <string name="permdesc_brick">Tillåter att appen inaktiverar hela surfplattan permanent. Detta är mycket farligt.</string>
-    <string name="permlab_reboot">tvinga omstart av surfplatta</string>
-    <string name="permdesc_reboot">Tillåter att appen tvingar surfplattan att starta om.</string>
+    <string name="permlab_brick">inaktivera telefonen permanent</string>
+    <string name="permdesc_brick">Tillåter att appen inaktiverar hela mobilen permanent. Detta är mycket farligt.</string>
+    <string name="permlab_reboot">tvinga omstart av telefon</string>
+    <string name="permdesc_reboot">Tillåter att appen tvingar mobilen att starta om.</string>
     <string name="permlab_mount_unmount_filesystems">få åtkomst till USB-lagringen</string>
     <string name="permdesc_mount_unmount_filesystems">Tillåter att appen monterar och monterar bort filsystem för flyttbara lagringsmedia.</string>
     <string name="permlab_mount_format_filesystems">radera USB-lagring</string>
@@ -532,7 +532,7 @@
     <string name="permdesc_callPhone">Tillåter att appen ringer telefonnummer utan någon aktiv åtgärd från dig. Detta kan leda till oväntade avgifter och samtal. Observera att appen inte tillåts ringa nödsamtal. Skadliga appar kan ringa utan ditt godkännande och detta kan kosta pengar.</string>
     <string name="permlab_callPrivileged">ringa telefonnummer direkt</string>
     <string name="permdesc_callPrivileged">Tillåter att appen ringer ett telefonnummer, inklusive nödnummer, utan åtgärd från dig. Skadliga appar kan ringa onödiga och olagliga samtal till räddningstjänsten.</string>
-    <string name="permlab_performCdmaProvisioning">starta CDMA-pekdatorinställningar direkt</string>
+    <string name="permlab_performCdmaProvisioning">starta CDMA-telefoninställningar direkt</string>
     <string name="permdesc_performCdmaProvisioning">Tillåter att appen startar CDMA-anslutning. Skadliga appar kan starta CDMA-anslutningar i onödan.</string>
     <string name="permlab_locationUpdates">styra meddelanden för platsuppdatering</string>
     <string name="permdesc_locationUpdates">Tillåter att appen aktiverar/inaktiverar meddelanden om platsuppdateringar från radion. Används inte av vanliga appar.</string>
@@ -544,12 +544,12 @@
     <string name="permdesc_modifyPhoneState">Tillåter att appen styr enhetens telefonfunktioner. En app med den här behörigheten kan byta nätverk, aktivera/inaktivera mobilens radio och liknande utan att meddela dig.</string>
     <string name="permlab_readPhoneState">läsa telefonens status och identitet</string>
     <string name="permdesc_readPhoneState">Tillåter att appen kommer åt enhetens telefonfunktioner. Med den här behörigheten tillåts appen att identifiera mobilens telefonnummer och enhets-ID, om ett samtal pågår och vilket nummer samtalet är kopplat till.</string>
-    <string name="permlab_wakeLock">förhindra att surfplattan går in i viloläge</string>
-    <string name="permdesc_wakeLock">Tillåter att appen förhindrar att surfplattan går in i viloläge.</string>
-    <string name="permlab_devicePower">slå på eller stänga av surfplattan</string>
-    <string name="permdesc_devicePower">Tillåter att appen slår på eller stänger av surfplattan.</string>
+    <string name="permlab_wakeLock">förhindra att telefonen sätts i viloläge</string>
+    <string name="permdesc_wakeLock">Tillåter att appen förhindrar att mobilen går in i viloläge.</string>
+    <string name="permlab_devicePower">sätta på eller stänga av telefonen</string>
+    <string name="permdesc_devicePower">Tillåter att appen slår på eller stänger av mobilen.</string>
     <string name="permlab_factoryTest">kör i fabrikstestläge</string>
-    <string name="permdesc_factoryTest">Köra som ett testläge för tillverkaren på låg nivå. På så sätt får du fullständig åtkomst till surfplattans maskinvara. Är endast tillgänglig när surfplattan körs i tillverkarens testläge.</string>
+    <string name="permdesc_factoryTest">Köra som ett testläge för tillverkaren på låg nivå. På så sätt får du fullständig åtkomst till telefonens maskinvara. Är endast tillgänglig när telefonen körs i tillverkarens testläge.</string>
     <string name="permlab_setWallpaper">ange bakgrund</string>
     <string name="permdesc_setWallpaper">Tillåter att appen anger systemets bakgrund.</string>
     <string name="permlab_setWallpaperHints">anpassa bakgrundsstorleken</string>
@@ -557,13 +557,13 @@
     <string name="permlab_masterClear">återställa systemets fabriksinställningar</string>
     <string name="permdesc_masterClear">Tillåter att appen helt återställer systemets fabriksinställningar. Alla data, inställningar och installerade appar raderas.</string>
     <string name="permlab_setTime">ange tid</string>
-    <string name="permdesc_setTime">Tillåter att appen ändrar pekdatorns tid.</string>
+    <string name="permdesc_setTime">Tillåter att appen ändrar mobilens tid.</string>
     <string name="permlab_setTimeZone">ange tidszon</string>
-    <string name="permdesc_setTimeZone">Tillåter att appen ändrar pekdatorns tidszon.</string>
+    <string name="permdesc_setTimeZone">Tillåter att appen ändrar mobilens tidszon.</string>
     <string name="permlab_accountManagerService">fungera som AccountManagerService</string>
     <string name="permdesc_accountManagerService">Tillåter att appen anropar AccountAuthenticators.</string>
     <string name="permlab_getAccounts">hitta konton på enheten</string>
-    <string name="permdesc_getAccounts">Tillåter att appen hämtar en lista över alla kända konton på surfplattan. Detta kan inkludera konton som har skapats av appar som du har installerat.</string>
+    <string name="permdesc_getAccounts">Tillåter att appen hämtar en lista över alla kända konton på mobilen. Detta kan inkludera konton som har skapats av appar som du har installerat.</string>
     <string name="permlab_authenticateAccounts">skapa konton och ange lösenord</string>
     <string name="permdesc_authenticateAccounts">Tillåter att appen använder AccountManagers kontoautentiseringsfunktioner, bland annat funktioner för att skapa konton samt hämta och ange lösenord för dem.</string>
     <string name="permlab_manageAccounts">lägga till eller ta bort konton</string>
@@ -587,15 +587,15 @@
     <string name="permlab_changeWifiState">anslut och koppla från Wi-Fi</string>
     <string name="permdesc_changeWifiState">Tillåter att appen ansluter till och kopplar från Wi-Fi-åtkomstpunkter samt gör ändringar i enhetens konfiguration för Wi-Fi-nätverk.</string>
     <string name="permlab_changeWifiMulticastState">tillåt Wi-Fi multicast-mottagning</string>
-    <string name="permdesc_changeWifiMulticastState">Tillåter att appen tar emot paket som skickats med multicast-adress till alla enheter i ett Wi-Fi-nätverk och inte bara till den här surfplattan. Detta drar mer batteri än när multicastläget inte används.</string>
+    <string name="permdesc_changeWifiMulticastState">Tillåter att appen tar emot paket som skickats med multicast-adress till alla enheter i ett Wi-Fi-nätverk och inte bara till den här mobilen. Detta drar mer batteri än när multicastläget inte används.</string>
     <string name="permlab_bluetoothAdmin">få åtkomst till Bluetooth-inställningar</string>
-    <string name="permdesc_bluetoothAdmin">Tillåter att appen konfigurerar den lokala Bluetooth-surfplattan samt upptäcker och parkopplar den med fjärranslutna enheter.</string>
+    <string name="permdesc_bluetoothAdmin">Tillåter att appen konfigurerar den lokala Bluetooth-mobilen samt upptäcker och parkopplar den med fjärranslutna enheter.</string>
     <string name="permlab_accessWimaxState">ansluta till och koppla från WiMAX</string>
     <string name="permdesc_accessWimaxState">Tillåter att appen avgör om WiMAX är aktiverat och kommer åt information om eventuella anslutna WiMAX-nätverk.</string>
     <string name="permlab_changeWimaxState">ändra WiMAX-status</string>
-    <string name="permdesc_changeWimaxState">Tillåter att appen ansluter surfplattan till eller kopplar från WiMAX-nätverk.</string>
+    <string name="permdesc_changeWimaxState">Tillåter att appen ansluter mobilen till eller kopplar från WiMAX-nätverk.</string>
     <string name="permlab_bluetooth">koppla till Bluetooth-enheter</string>
-    <string name="permdesc_bluetooth">Tillåter att appen kommer åt pekdatorns Bluetooth-konfiguration och upprättar och godkänner anslutningar till parkopplade enheter.</string>
+    <string name="permdesc_bluetooth">Tillåter att appen kommer åt mobilens Bluetooth-konfiguration och upprättar och godkänner anslutningar till parkopplade enheter.</string>
     <string name="permlab_nfc">kontrollera närfältskommunikationen</string>
     <string name="permdesc_nfc">Tillåter att appen kommunicerar med etiketter, kort och läsare för närfältskommunikation (NFC).</string>
     <string name="permlab_disableKeyguard">inaktivera skärmlåset</string>
@@ -639,13 +639,13 @@
     <string name="policylab_limitPassword">Ange lösenordsregler</string>
     <string name="policydesc_limitPassword">Bestäm hur många och vilka tecken som är tillåtna i skärmlåsets lösenord.</string>
     <string name="policylab_watchLogin">Övervaka försök att låsa upp skärmen</string>
-    <string name="policydesc_watchLogin">Övervaka antalet felaktiga lösenord som angetts för skärmlåset och lås surfplattan eller ta bort alla data från surfplattan om för många felaktiga försök görs.</string>
+    <string name="policydesc_watchLogin">Övervaka antalet felaktiga lösenord som angivits för skärmlåset och lås mobilen eller ta bort alla data från mobilen om för många felaktiga försök görs.</string>
     <string name="policylab_resetPassword">Ändra skärmlåsets lösenord</string>
     <string name="policydesc_resetPassword">Ändra skärmlåsets lösenord.</string>
     <string name="policylab_forceLock">Lås skärmen</string>
     <string name="policydesc_forceLock">Kontrollera hur och när skärmlåset aktiveras.</string>
     <string name="policylab_wipeData">Radera alla data</string>
-    <string name="policydesc_wipeData">Ta bort data från surfplattan utan förvarning genom att återställa standardinställningarna.</string>
+    <string name="policydesc_wipeData">Ta bort data från mobilen utan förvarning genom att återställa standardinställningarna.</string>
     <string name="policylab_setGlobalProxy">Ange global proxyserver</string>
     <string name="policydesc_setGlobalProxy">Ange vilken global proxyserver som ska användas när policyn är aktiverad. Endast den första enhetsadministratören anger den faktiska globala proxyservern.</string>
     <string name="policylab_expirePassword">Ange lösenordets utgångsdatum</string>
@@ -752,7 +752,7 @@
     <string name="lockscreen_battery_short">%d %%</string>
     <string name="lockscreen_low_battery">Anslut din laddare.</string>
     <string name="lockscreen_missing_sim_message_short">Inget SIM-kort</string>
-    <string name="lockscreen_missing_sim_message">Inget SIM-kort i surfplattan.</string>
+    <string name="lockscreen_missing_sim_message">Inget SIM-kort i telefonen.</string>
     <string name="lockscreen_missing_sim_instructions">Sätt i ett SIM-kort.</string>
     <string name="lockscreen_missing_sim_instructions_long">SIM-kort saknas eller kan inte läsas. Sätt i ett SIM-kort.</string>
     <string name="lockscreen_permanent_disabled_sim_message_short">Oanvändbart SIM-kort.</string>
@@ -778,11 +778,11 @@ Försök igen om %d sekunder."</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Du har angett fel lösenord %d gånger. 
 
 Försök igen om %d sekunder."</string>
-    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har ritat ditt grafiska lösenord fel %d gånger. Efter %d försök till ombeds du att låsa upp surfplattan med din Google-inloggning.
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Du har ritat ditt grafiska lösenord fel %d gånger. Efter %d försök till ombeds du att låsa upp mobilen med uppgifterna som du använder när du loggar in på Google.
 
  Försök igen om %d sekunder."</string>
-    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har försökt låsa upp surfplattan på fel sätt %d gånger. Efter %d misslyckade försök till kommer surfplattan att återställas till fabriksinställningarna. Du förlorar då alla användardata.</string>
-    <string name="lockscreen_failed_attempts_now_wiping">Du har försökt låsa upp surfplattan på fel sätt %d gånger. Surfplattan återställs nu till fabriksinställningarna.</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Du har försökt låsa upp mobilen på fel sätt %d gånger. Efter %d misslyckade försök till kommer mobilen att återställas till fabriksinställningarna. Du förlorar då alla användardata.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Du har försökt låsa upp mobilen på fel sätt %d gånger. Mobilen återställs nu till fabriksinställningarna.</string>
     <string name="lockscreen_too_many_failed_attempts_countdown">Försök igen om %d sekunder.</string>
     <string name="lockscreen_forgot_pattern_button_text">Glömt ditt grafiska lösenord?</string>
     <string name="lockscreen_glogin_forgot_pattern">Lås upp konto</string>
@@ -867,7 +867,7 @@ Vill du verkligen navigera bort från den här sidan?"</string>
     <string name="permlab_readHistoryBookmarks">läsa dina bokmärken och din historik på webben</string>
     <string name="permdesc_readHistoryBookmarks">Tillåter att appen läser historiken för besökta sidor och alla bokmärken i webbläsaren. Observera att den här behörigheten kanske inte är tillämplig för webbläsare från tredje part eller andra appar med surffunktion.</string>
     <string name="permlab_writeHistoryBookmarks">skriva bokmärken och historik på webben</string>
-    <string name="permdesc_writeHistoryBookmarks">Tillåter att appen ändrar historiken för besökta sidor i webbläsaren eller bokmärken som sparats på surfplattan. Det kan innebära att appen kan ta bort eller ändra webbläsarinformation. Observera att den här behörigheten kanske inte är tillämplig för webbläsare från tredje part eller andra appar med surffunktion.</string>
+    <string name="permdesc_writeHistoryBookmarks">Tillåter att appen ändrar historiken för besökta sidor i webbläsaren eller bokmärken som sparats på telefonen. Det kan innebära att appen kan ta bort eller ändra webbläsarinformation. Observera att den här behörigheten kanske inte är tillämplig för webbläsare från tredje part eller andra appar med surffunktion.</string>
     <string name="permlab_setAlarm">ställa in ett alarm</string>
     <string name="permdesc_setAlarm">Tillåter att appen ställer in ett alarm i en befintlig alarmapp. Vissa alarmappar har inte den här funktionen.</string>
     <string name="permlab_addVoicemail">lägg till röstbrevlåda</string>
@@ -901,7 +901,7 @@ Vill du verkligen navigera bort från den här sidan?"</string>
     <string name="searchview_description_submit">Skicka fråga</string>
     <string name="searchview_description_voice">Röstsökning</string>
     <string name="enable_explore_by_touch_warning_title">Aktivera Explore by Touch?</string>
-    <string name="enable_explore_by_touch_warning_message">%1$s vill aktivera Explore by Touch. När funktionen är aktiv kan du höra eller se beskrivningar av vad du har under fingret eller utföra gester för att göra saker med surfplattan.</string>
+    <string name="enable_explore_by_touch_warning_message">%1$s vill aktivera Explore by Touch. När funktionen är aktiv kan du höra eller se beskrivningar av vad du har under fingret eller utföra gester för att göra saker med telefonen.</string>
     <string name="oneMonthDurationPast">för 1 månad sedan</string>
     <string name="beforeOneMonthDurationPast">För mer än en månad sedan</string>
     <string name="last_month">Föregående månad</string>
@@ -1025,7 +1025,7 @@ Vill du stänga sidan?"</string>
     <string name="wifi_p2p_to_message">Till:</string>
     <string name="wifi_p2p_enter_pin_message">Ange den obligatoriska PIN-koden:</string>
     <string name="wifi_p2p_show_pin_message">PIN-kod:</string>
-    <string name="wifi_p2p_frequency_conflict_message">Surfplattans Wi-Fi-anslutning kommer tillfälligt att avbrytas när den är ansluten till %1$s</string>
+    <string name="wifi_p2p_frequency_conflict_message">Mobilen kommer tillfälligt att kopplas från Wi-Fi när den är ansluten till %1$s</string>
     <string name="select_character">Infoga tecken</string>
     <string name="sms_control_title">Skickar SMS</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> skickar ett stort antal SMS. Vill du tillåta att appen fortsätter att skicka meddelanden?</string>
@@ -1274,7 +1274,7 @@ för kontot %s."</string>
     <string name="SetupCallDefault">Vill du ta emot samtal?</string>
     <string name="activity_resolver_use_always">Alltid</string>
     <string name="activity_resolver_use_once">Bara en gång</string>
-    <string name="default_audio_route_name">Surfplatta</string>
+    <string name="default_audio_route_name">Mobil</string>
     <string name="default_audio_route_name_headphones">Hörlurar</string>
     <string name="default_audio_route_name_dock_speakers">Dockningsstationens högtalare</string>
     <string name="default_media_route_name_hdmi">HDMI</string>
@@ -1331,9 +1331,9 @@ Försök igen om %d sekunder."</string>
     <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Du har ritat ditt grafiska lösenord fel %d gånger. 
 
 Försök igen om %d sekunder."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Du har försökt låsa upp mobilen på fel sätt %d gånger. Efter ytterligare %d misslyckade försök återställs surfplattan till fabriksinställningarna. Du förlorar då alla användardata.</string>
-    <string name="kg_failed_attempts_now_wiping">Du har försökt låsa upp surfplattan på fel sätt %d gånger. Surfplattan återställs nu till fabriksinställningarna.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Du har ritat ditt grafiska lösenord fel %d gånger. Efter ytterligare %d försök ombeds du låsa upp surfplattan med ett e-postkonto.
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Du har försökt låsa upp mobilen på fel sätt %d gånger. Efter ytterligare %d misslyckade försök återställs mobilen till fabriksinställningarna. Du förlorar då alla användardata.</string>
+    <string name="kg_failed_attempts_now_wiping">Du har försökt låsa upp mobilen på fel sätt %d gånger. Mobilen återställs nu till fabriksinställningarna.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Du har ritat ditt grafiska lösenord fel %d gånger. Efter ytterligare %d försök ombeds du låsa upp mobilen med hjälp av ett e-postkonto.
 
  Försök igen om %d sekunder."</string>
     <string name="kg_text_message_separator">" – "</string>
