@@ -6,7 +6,7 @@
     <string name="eq_dialog_title">Ekvalizér</string>
     <string name="headset_plug">Tieto efekty je možné aktivovať len so zapojenými slúchadlami.</string>
     <string name="bass_boost_strength">Zvýraznenie basov</string>
-    <string name="virtualizer_strength">3D efekt</string>
+    <string name="virtualizer_strength">Priestorový zvuk</string>
     <string name="pr_title">Dozvuk:</string>
     <string name="pr_summary">Efekty dozvuku v miestnosti</string>
     <string name="pr_dialog_title">Dozvuk (predvoľba)</string>

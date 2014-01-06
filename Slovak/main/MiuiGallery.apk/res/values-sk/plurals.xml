@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d vybraných</item>
-        <item quantity="zero">%1$d vybraných</item>
-        <item quantity="one">%1$d vybraný</item>
+        <item quantity="other">Vybraných: %1$d </item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
     </plurals>
     <plurals name="number_of_images">
         <item quantity="other">%1$d</item>
@@ -18,5 +18,10 @@
     <plurals name="make_albums_available_offline">
         <item quantity="other">Sprístupniť albumy offline.</item>
         <item quantity="one">Sprístupniť album offline.</item>
+    </plurals>
+    <plurals name="number_of_cloudimages">
+        <item quantity="other">Obrázkov: %1$d</item>
+        <item quantity="zero">Obrázkov: %1$d</item>
+        <item quantity="one">Obrázkov: %1$d</item>
     </plurals>
 </resources>

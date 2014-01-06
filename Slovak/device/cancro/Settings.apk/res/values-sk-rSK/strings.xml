@@ -1364,8 +1364,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="man_add_application">Manuálne pridať aplikácie pre auto. štart</string>
     <string name="manage_device_admin">Správcovia zariadenia</string>
     <string name="manage_device_admin_summary">Zobraziť alebo deaktivovať správcu zariadenia</string>
-    <string name="manage_notification_access">Prístup k upozorneniam</string>
-    <string name="manage_notification_access_summary_zero">Aplikácie nemôžu čítať upozornenia</string>
     <string name="manage_space_text">Správa pamäti</string>
     <string name="manageapplications_settings_summary">Umožňuje spravovať a odoberať inštalované aplikácie</string>
     <string name="manageapplications_settings_title">Spravovať aplikácie</string>
@@ -1541,14 +1539,11 @@ skúste:
     <string name="no_device_admins">Nie je k dispozícií žiadny správca zariadenia</string>	
     <string name="no_media_button_receiver">Nie</string>	
     <string name="no_nearby_wifi">Žiadna wifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte wifi ručne</string>	
-    <string name="no_notification_listeners">Žiadne aplikácie s prístupom k notifikáciam nie sú nainštalované.</string>
     <string name="no_running_services">Nič nie je spustené.</string>	
     <string name="no_services">Neaktívne</string>	
     <string name="noise_suppression">Potlačenie hluku</string>	
     <string name="normal_date_format">Regionálne (%s)</string>	
     <string name="not_installed">Nenainštalované</string>
-    <string name="notification_listener_security_warning_title">Povoliť službu %1$s?</string>
-    <string name="notification_listener_security_warning_summary">%1$s bude môcť čítať všetky upozornenia, ktoré uverejní systém, alebo ktorákoľvek z nainštalovaných aplikácií. Upozornenia môžu obsahovať osobné informácie, ako sú napríklad mená kontaktov alebo texty správ, ktoré sa vám odoslali. Aplikácia bude tiež môcť tieto upozornenia zrušiť alebo sa dotknúť tlačidiel akcií v upozorneniach.</string>
     <string name="notification_pulse_title">Blikať kontrolkou oznámení</string>	
     <string name="notification_sound_dialog_title">Zvoliť vyzváňací tón oznámení</string>	
     <string name="notification_sound_title">Predvolené oznámenie</string>	
@@ -2016,7 +2011,6 @@ skúste:
     <string name="process_mediaserver_label">Mediaserver</string>	
     <string name="process_provider_in_use_description">%1$s sa používa.</string>	
     <string name="process_service_in_use_description">%1$s sa používa.</string>	
-    <string name="profile_info_settings_title">Profil</string>
     <string name="progress_scanning">Hľadanie</string>	
     <string name="protection_adb">USB ladenie</string>
 	<string name="protection_category_dangerous_title">Riskantné (%d)</string>
@@ -2362,7 +2356,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="show_owner_info_on_lockscreen_label">Zobrazovať vlastníka na zamknutej obrazovke</string>
     <string name="show_password">Zobraziť heslá</string>
     <string name="show_password_summary"/>
-    <string name="show_profile_info_on_lockscreen_label">Zobraziť info. o profile na uzamykacej obrazovke</string>
     <string name="show_rounded_corners">Zobraziť zaoblené rohy</string>
     <string name="show_running_services">Zobraziť spustené služby</string>
     <string name="show_screen_updates">Aktualizácia displeja</string>
@@ -3084,28 +3077,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_remembered">Uložené</string>
     <string name="wifi_required_info_text">Tablet potrebuje na dokončenie nastavení prístup k sieti Wi-Fi. Po nastavení môžete prepínať medzi mobilným dátovým pripojením a sieťou Wi-Fi.</string>
     <string name="wifi_save">Uložiť</string>
-    <string name="wifi_scan_always_available">Vyhľadávanie vždy zapnuté</string>
-    <string name="wifi_scan_always_available_summary">Povoliť službe určovania polohy Google a ostatným aplikáciám vyhľadávať siete aj v prípade, že je sieť Wi-Fi vypnutá</string>
-    <string name="wifi_install_credentials">Inštalácia certifikátov</string>
-    <string name="wifi_scan_notify_text_location_on">Služby Google a ďalšie aplikácie môžu s cieľom zvýšenia presnosti a inými cieľmi vyhľadávať siete v blízkosti aj v prípade, že je sieť Wi-Fi vypnutá. Ak chcete nastavenie zmeniť, prejdite do časti Rozšírené > Vyhľadávanie vždy zapnuté</string>
-    <string name="wifi_scan_notify_text_location_off">Aplikácie môžu vyhľadávať siete v blízkosti aj v prípade, že je sieť Wi-Fi vypnutá. Ak chcete nastavenie zmeniť, prejdite do časti Rozšírené > Vyhľadávanie vždy zapnuté.</string>
-    <string name="wifi_scan_notify_remember_choice">Túto správu znova nezobrazovať</string>
-    <string name="wifi_empty_list_user_restricted">Nemáte povolenie na zmenu siete Wi-Fi.</string>
-    <string name="wifi_ssid_hint">Zadajte SSID</string>
-    <string name="wifi_scan_always_turnon_message">"Aplikácia %1$s chce zapnúť vyhľadávanie sietí (z dôvodu dosiahnutia vyššej presnosti určovania polohy aj z iných dôvodov) a hľadať siete aj v prípade, že je vypnutý modul Wi-Fi.
-
-Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadávať siete?"</string>
-    <string name="wifi_scan_always_confirm_allow">Povoliť</string>
-    <string name="wifi_scan_always_confirm_deny">Odmietnuť</string>
-    <string name="mvno_type">Typ MVNO</string>
-    <string name="mvno_match_data">Hodnota MVNO</string>
-    <string name="manage_mobile_plan_title">Upraviť balíček mobilnych dát</string>
-    <string name="mobile_unknown_sim_operator">Neznámy operátor SIM karty</string>
-    <string name="mobile_no_provisioning_url">%1$s nemá známu internetovú adresu</string>
-    <string name="mobile_insert_sim_card">Vložte SIM kartu a reštartujte telefón</string>
-    <string name="mobile_connect_to_internet">Pripojte sa k internetu</string>
-    <string name="application_info_label">Informácie o aplikácii</string>
-    <string name="filter_apps_disabled">Zakázané</string>
     <string name="wifi_secured_first_item">Zabezpečenie: %1$s</string>
     <string name="wifi_secured_second_item">, zabezpečenie %1$s</string>
     <string name="wifi_security">Zabezpečenie</string>
