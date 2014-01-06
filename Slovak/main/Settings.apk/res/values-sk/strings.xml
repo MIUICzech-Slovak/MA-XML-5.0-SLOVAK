@@ -3104,7 +3104,6 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
     <string name="mobile_no_provisioning_url">%1$s nemá známu internetovú adresu</string>
     <string name="mobile_insert_sim_card">Vložte SIM kartu a reštartujte telefón</string>
     <string name="mobile_connect_to_internet">Pripojte sa k internetu</string>
-    <string name="application_info_label">Informácie o aplikácii</string>
     <string name="filter_apps_disabled">Zakázané</string>
     <string name="wifi_secured_first_item">Zabezpečenie: %1$s</string>
     <string name="wifi_secured_second_item">, zabezpečenie %1$s</string>
