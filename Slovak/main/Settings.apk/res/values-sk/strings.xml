@@ -1022,7 +1022,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
 	<string name="filter">Filtrovať</string>
     <string name="filter_apps_all">Všetko</string>
     <string name="filter_apps_cached">Načítané</string>	
-    <string name="filter_apps_disabled">Zakázané</string>
     <string name="filter_apps_onsdcard">Úložisko USB</string>	
     <string name="filter_apps_running">Spustené</string>	
     <string name="filter_apps_third_party">Stiahnuté</string>	
@@ -2778,7 +2777,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="user_information_heading">Informácie užívateľa</string>
     <string name="user_image_take_photo">Vytvoriť fotografiu</string>
     <string name="user_image_choose_photo">Vybrať fotografiu z Galérie</string>
-    <string name="user_info_settings_title">Inf. o používateľovi</string>
     <string name="user_list_title">Užívatelia</string>
     <string name="user_market_apps_heading">Nainštalované aplik.</string>
     <string name="user_market_requires_pin">Vyžadovať PIN</string>
@@ -3138,11 +3136,9 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_save">Uložiť</string>
     <string name="wifi_scan_always_available">Vyhľadávanie vždy zapnuté</string>
     <string name="wifi_scan_always_available_summary">Povoliť službe určovania polohy Google a ostatným aplikáciám vyhľadávať siete aj v prípade, že je sieť Wi-Fi vypnutá</string>
-    <string name="wifi_install_credentials">Inštalácia certifikátov</string>
     <string name="wifi_scan_notify_text_location_on">Služby Google a ďalšie aplikácie môžu s cieľom zvýšenia presnosti a inými cieľmi vyhľadávať siete v blízkosti aj v prípade, že je sieť Wi-Fi vypnutá. Ak chcete nastavenie zmeniť, prejdite do časti Rozšírené > Vyhľadávanie vždy zapnuté</string>
     <string name="wifi_scan_notify_text_location_off">Aplikácie môžu vyhľadávať siete v blízkosti aj v prípade, že je sieť Wi-Fi vypnutá. Ak chcete nastavenie zmeniť, prejdite do časti Rozšírené > Vyhľadávanie vždy zapnuté.</string>
     <string name="wifi_scan_notify_remember_choice">Túto správu znova nezobrazovať</string>
-    <string name="wifi_empty_list_user_restricted">Nemáte povolenie na zmenu siete Wi-Fi.</string>
     <string name="wifi_ssid_hint">Zadajte SSID</string>
     <string name="wifi_scan_always_turnon_message">"Aplikácia %1$s chce zapnúť vyhľadávanie sietí (z dôvodu dosiahnutia vyššej presnosti určovania polohy aj z iných dôvodov) a hľadať siete aj v prípade, že je vypnutý modul Wi-Fi.
 
@@ -3254,7 +3250,6 @@ môžete použiť inú sieť"</string>
 Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</string>
     <string name="wifi_speed">Rýchlosť pripojenia</string>
     <string name="wifi_ssid">SSID</string>
-    <string name="wifi_ssid_hint">Zadajte SSID</string>
     <string name="wifi_starting">Zapínanie Wi-Fi...</string>
     <string name="wifi_state_disabled">Vypnutá</string>
     <string name="wifi_state_disabling">Vypínanie</string>
