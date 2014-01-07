@@ -305,7 +305,8 @@
     <string name="navigation_button_close">Zatvoriť</string>
     <string name="navigation_button_newtab">Nová</string>
     <string name="navigation_button_tab">Karta</string>	
-    <string name="navigation_button_view">Zobraziť</string>	
+    <string name="navigation_button_view">Zobraziť</string>
+    <string name="network_alert_message">Wi-Fi nie je dostupná, použiť mobilne dáta?</string>	
     <string name="network_show_wifi_setting_tip_dialog_description">Je dostupná Wi-Fi sieť. Chcete sa k nej pripojiť?</string>	
     <string name="network_show_wifi_setting_tip_dialog_notshow">Zapamätať</string>	
     <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Upozornenie o dostupnej Wi-Fi sieti</string>	
@@ -314,6 +315,7 @@
     <string name="new_folder">Nový priečinok</string>	
     <string name="new_incognito_tab">Nová inkognito karta</string>	
     <string name="new_tab">Nová karta</string>	
+    <string name="no">Nie</string>
     <string name="no_subfolders">Žiadne podpriečinky.</string>
     <string name="not_enough_disk_space_alert">Nie je dostupné miesto v internej pamäti</string>	
     <string name="not_remind_again">Viac nepripomínať</string>	
@@ -621,4 +623,5 @@
     <string name="webstorage_origin_summary_mb_stored">MB uložené v tvojom telefóne</string>
     <string name="webstorage_outofspace_notification_text">Klikni pre uvoľnenie miesta.</string>
     <string name="webstorage_outofspace_notification_title">Úložisko prehliadača zaplnené</string>
+    <string name="yes">Áno</string>
 </resources>

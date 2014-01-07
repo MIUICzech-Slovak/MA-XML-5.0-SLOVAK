@@ -357,6 +357,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="onemore_click_exit">Stlačte ešte raz pre ukončenie</string>
     <string name="order_price">%1$s MiKreditov</string>
     <string name="password_error">Zadajte heslo</string>
+    <string name="password_forget">Zabudli ste?</string>
     <string name="password_hint">Zadajte heslo Xiaomi účtu:</string>
     <string name="pay_record_empty">Žiadne platby</string>	
     <string name="pay_record_typeall">Všetko</string>

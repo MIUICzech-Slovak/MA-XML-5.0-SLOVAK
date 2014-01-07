@@ -456,6 +456,8 @@
   <string name="weixin_details">"Weixin: "</string>
   <string name="white_balance">Vyváženie bielej</string>
   <string name="width">Šírka</string>
+  <string name="wifi_connect_not_found">"Nenašla sa žiadna Wi-Fi sieť"</string>
+  <string name="wifi_connect_current_connetion">Pripojené k Wi-Fi</string>
   <string name="wifi_connect_fail">Pripojenie k Wi-Fi zlyhalo</string>
   <string name="wifi_connect_success">Pripojenie k Wi-Fi úspešné</string>
   <string name="wifi_connecting">Pripojovanie k Wi-Fi...</string>

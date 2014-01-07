@@ -285,4 +285,15 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
     <string name="wallpaper_set_as_destop">Tapeta plochy</string>
     <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
     <string name="wallpaper_settings">Nastavenie tapety</string>
+    <string name="resource_import_failed">Import zlyhal</string>
+    <string name="resource_ringtone_playing_error">chyba prehrávania</string>
+    <string name="resource_download_trial">Na skúšku</string>
+    <string name="resource_apply_trial">Vyskúšať</string>
+    <string name="resource_on_trial">Skúšate: %1$s</string>
+    <string name="resource_trial_time">（skúška na %1$d minút）</string>
+    <string name="resource_trial_end_title">Skúška vypršala</string>
+    <string name="resource_trial_end_message">Skúšobná verzia %1$s vypršala. Ak sa Vám páči, môžete si ju zakúpiť.</string>
+    <string name="resource_trial_end_restore">Ukončiť skúšku</string>
+    <string name="resource_trial_end_purchase">Zakúpiť</string>
+    <string name="purchased_list">Zakúpené</string>
 </resources>
