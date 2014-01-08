@@ -856,7 +856,7 @@ Synchronizujte ich teraz."</string>
     <string name="resource_detail_comment_title">Komentáre</string>
     <string name="resource_detail_jump_to_online_title">Online</string>
     <string name="resource_detail_jump_to_same_author_title">Rovnaký autor</string>
-    <string name="resource_detail_recommend_desiner_other_themes">Ostatná témy od %1$s</string>
+    <string name="resource_detail_recommend_desiner_other_themes">Ďalšie témy od %1$s</string>
     <string name="resource_detail_recommend_desiner_themes">%1$s témy</string>
     <string name="resource_detail_recommend_other_themes">Užívateľom sa tiež páči</string>
     <string name="resource_detail_update_log_title">Aktualizácie</string>
