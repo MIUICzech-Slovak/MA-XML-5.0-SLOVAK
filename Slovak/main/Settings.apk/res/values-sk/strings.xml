@@ -3147,7 +3147,6 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
     <string name="wifi_scan_always_confirm_deny">Odmietnuť</string>
     <string name="mvno_type">Typ MVNO</string>
     <string name="mvno_match_data">Hodnota MVNO</string>
-    <string name="manage_mobile_plan_title">Upraviť balíček mobilnych dát</string>
     <string name="mobile_unknown_sim_operator">Neznámy operátor SIM karty</string>
     <string name="mobile_no_provisioning_url">%1$s nemá známu internetovú adresu</string>
     <string name="mobile_insert_sim_card">Vložte SIM kartu a reštartujte telefón</string>
