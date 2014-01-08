@@ -5,7 +5,7 @@
     <string name="app_name">Platby</string>
     <string name="balance">Zostatok: %1$s MiKreditov</string>
     <string name="balance_giftcard_payment">%1$s MiKreditov (%2$s-MiKreditov darčeková poukážka)</string>
-	<string name="balance_no_giftcard_payment">%1$s MiKreditov (nie je možné použiť darčekovu poukážku)</string>
+    <string name="balance_no_giftcard_payment">%1$s MiKreditov (nie je možné použiť darčekovu poukážku)</string>
     <string name="balance_payment">%1$s MiKreditov</string>
     <string name="bankcall_bank_account">Kreditná karta:</string>
     <string name="bankcall_call_hint">"Budete mať hovor z banky Union pay (020-96585). 
@@ -358,7 +358,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
     <string name="order_price">%1$s MiKreditov</string>
     <string name="password_error">Zadajte heslo</string>
     <string name="password_forget">Zabudli ste?</string>
-    <string name="password_hint">Zadajte heslo Xiaomi účtu:</string>
+    <string name="password_hint">Heslo Xiaomi účtu</string>
     <string name="pay_record_empty">Žiadne platby</string>	
     <string name="pay_record_typeall">Všetko</string>
     <string name="paytool_alipay">Alipay</string>
