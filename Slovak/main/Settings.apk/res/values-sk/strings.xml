@@ -3332,7 +3332,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="list_sub_view_item_view">Podrobnosti</string>
     <string name="list_sub_view_item_clean">Vyčistiť</string>
     <string name="list_sub_view_item_install">Inštalácia</string>
-    <string name="list_sub_view_item_lock">Zamknúť</string>
+    <string name="list_sub_view_item_lock">Zamk.</string>
     <string name="list_sub_view_item_unlock">Odomknúť</string>
     <string name="power_save_on_time_goout_title">Obnoviť do</string>
     <string name="power_save_choose_recovery_mode">Zvoľte možnosti</string>
