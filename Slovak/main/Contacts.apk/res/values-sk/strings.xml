@@ -947,6 +947,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
     <string name="savingContact">Ukladanie kontaktu...</string>
     <string name="savingDisplayGroups">Ukladám nastavenia zobrazenia …</string>
     <string name="scan">Prehľadať zariadenie</string>
+	<string name="scanning">Kontrola...</string>
     <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
     <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
     <string name="scanning_sdcard_failed_message">"Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: \"%s\")</string>

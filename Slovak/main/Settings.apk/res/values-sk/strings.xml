@@ -983,6 +983,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="enable_drive_mode">Povoliť režim AUTO</string>	
 	<string name="enable_firewall">Blokovať nežiaduce hovory</string>
     <string name="enable_opengl_traces_title">Povoliť trasovanie OpenGL</string>
+	<string name="enable_service_title">Použiť %1$s?</string>
     <string name="enable_snapshot_screenlock">Rýchle zhotovenie fotografie</string>
     <string name="enable_text">Povoliť</string>
     <string name="enable_traces_dialog_title">Zvoľte zapnuté stopy</string>
@@ -2849,6 +2850,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="user_summary_restricted_not_set_up">Nie je nastavený – obmedzený profil</string>
     <string name="user_summary_restricted_profile">Obmedzený profil</string>
     <string name="user_system_apps_heading">Aplikácie systému</string>
+	<string name="user_you">Vy (%s)</string>
     <string name="user_you_section">Vy</string>
     <string name="valuation">Odporúča sa čistenie</string>
     <string name="verify_applications">Overiť aplikácie</string>
