@@ -307,6 +307,7 @@
     <string name="pref_camera_picturesize_professional_entry_3264X2448">8M(3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6MP (3264x1836)</string>
     <string name="pref_camera_picturesize_professional_entry_3264x1840">6M(3264x1840)</string>
+  <string name="pref_camera_picturesize_professional_entry_3264x2448">8MP（3264x2448）</string>
   <string name="pref_camera_picturesize_professional_entry_4208x2368">10MP (4208x2368)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13MP (4208x3120)</string>
   <string name="pref_camera_picturesize_title">Veľkosť fotografie</string>
@@ -513,4 +514,5 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="face_analyze_info_gender">Pohlavie:</string>
 </resources>

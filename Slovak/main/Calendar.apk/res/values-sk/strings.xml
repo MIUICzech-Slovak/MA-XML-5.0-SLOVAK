@@ -70,7 +70,7 @@
     <string name="dismiss_all_label">Zavrieť všetko</string>
     <string name="do_not_check">Nekontrolovať -></string>
     <string name="does_not_repeat">Jednorazová udalosť</string>
-    <string name="done">Návrat</string>
+    <string name="done">Ďalej</string>
     <string name="edit_event_all_day_label">Celý deň</string>
     <string name="edit_event_calendar_label">Kalendár</string>
     <string name="edit_event_from_label">Od</string>
@@ -134,6 +134,18 @@
     <string name="modify_all">Upraviť všetky udalosti v sérii</string>
     <string name="modify_all_following">Upraviť túto udalosť a všetky budúce</string>
     <string name="modify_event">Upraviť iba túto udalosť</string>
+    <string name="month_medium_january">Jan</string>
+    <string name="month_medium_february">Feb</string>
+    <string name="month_medium_march">Mar</string>
+    <string name="month_medium_april">Apr</string>
+    <string name="month_medium_may">Máj</string>
+    <string name="month_medium_june">Jún</string>
+    <string name="month_medium_july">Júl</string>
+    <string name="month_medium_august">Aug</string>
+    <string name="month_medium_september">Sep</string>
+    <string name="month_medium_october">Okt</string>
+    <string name="month_medium_november">Nov</string>
+    <string name="month_medium_december">Dec</string>
     <string name="month_view">Mesiac</string>
     <string name="monthly">Mesačne</string>
     <string name="monthly_on_day">Mesačne (%s. deň)</string>
@@ -165,7 +177,7 @@
     <string name="preferences_home_tz_default">Europe/Prague</string>
     <string name="preferences_home_tz_title">Domovské č. pásmo</string>
     <string name="preferences_reminder_title">Nastavenia upozornení</string>
-	<string name="preferences_show_week_num_title">Zobrazovať číslo týždňa</string>
+    <string name="preferences_show_week_num_title">Zobrazovať číslo týždňa</string>
     <string name="preferences_title">Nastavenia</string>
     <string name="preferences_use_home_tz_descrip">Kalendáre a udalosti sa vždy zobrazia v domovskom čas. pásme</string>
     <string name="preferences_use_home_tz_title">Použiť domáci čas</string>
@@ -200,7 +212,7 @@
     <string name="show_almanac">Almanach (Čína)</string>
     <string name="show_controls">Zobraziť ovládacie prvky</string>
     <string name="show_day_view">Zobraziť deň</string>
-	<string name="show_gou_piao">Zobraziť rozvrh vlakov (Čína)</string>
+    <string name="show_gou_piao">Zobraziť rozvrh vlakov (Čína)</string>
     <string name="show_newer_events">Dotykom zobrazíte udalosti po období %1$s</string>
     <string name="show_older_events">Dotykom zobrazíte udalosti pred obdobím %1$s</string>
     <string name="snooze_all_label">Odložiť všetko</string>

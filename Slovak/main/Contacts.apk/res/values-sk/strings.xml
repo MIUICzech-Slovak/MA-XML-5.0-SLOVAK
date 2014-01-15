@@ -1074,6 +1074,7 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="toast_copying">Kopírovanie...</string>
     <string name="toast_displaying_all_contacts">Zobrazenie všetkých kontaktov</string>
     <string name="toast_finish_delete_call_log">Zoznam hovorov bol vymazaný</string>
+    <string name="toast_finish_delete_selected_call_log">Vybraný zoznam hovorov bol vymazaný</string>
     <string name="toast_for_failed_saving_nickname">Nepodarilo sa uložiť prezývku!</string>
     <string name="toast_for_saving_nickname">Prezývka uložená</string>
     <string name="toast_join_with_empty_contact">Prosím zadajte meno kontaktu pred spojením s ďalším kontaktom.</string>
@@ -1152,4 +1153,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="resource_trial_end_restore">Ukončiť skúšku</string>
     <string name="resource_trial_end_purchase">Zakúpiť</string>
     <string name="group_name">Moje skupiny</string>
+    <string name="callrecordview_menu_batch_delete">Vybrať záznam na vymazanie</string>
+    <string name="delete_call_log_selected_title">Vymazať vybrané záznamy volaní?</string>
 </resources>

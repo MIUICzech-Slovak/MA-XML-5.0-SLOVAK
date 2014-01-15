@@ -256,7 +256,7 @@
     <string name="dialog_sync_all_server_error">Pri komunikácii so serverom sa vyskytol problém. Skúste to znova neskôr.</string>
     <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>    
     <string name="discard_action">Zahodiť</string>
-    <string name="done">Návrat</string>
+    <string name="done">Ďalej</string>
     <string name="done_action">Hotovo</string>
     <string name="edit_quick_response_dialog">Upraviť rýchlu odpoveď</string>
     <string name="eml_view_title">Zobraz. súbor: %s</string>
