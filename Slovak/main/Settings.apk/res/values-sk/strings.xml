@@ -251,7 +251,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="auto_startup_count">%d aplikácií sa spustí pri štarte</string>	
     <string name="auto_startup_dialog_msg">"Miui povolí aplikácií sa spustiť automaticky bez opýtania sa. To môže viesť k zvýšenej spotrebe energie a dát. Povoliť automatické spustenie pri štarte telefónu?"</string>	
     <string name="automatic_brightness">Automatický jas</string>	
-    <string name="available_size">%s Voľné</string>	
+    <string name="available_size">Voľné %s</string>	
     <string name="awake">Doba prevádzky zariadenia</string>	
     <string name="back_key">Tlačidlo Späť</string>	
     <string name="background_data">Dáta na pozadí</string>	
@@ -2620,7 +2620,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="toast_qucik_scan_list_empty">Nie je potrebné čistenie!</string>
     <string name="toast_shortcut_install">Odkaz je vytvorený</string>
     <string name="toast_shortcut_uninstall">Odkaz je odstránený</string>
-    <string name="total_size">%s Celkom</string>
+    <string name="total_size">Celkom %s</string>
     <string name="total_size_label">Celkom</string>
     <string name="touch_sensitive_summary">Nastaviť citlivosť na dotyky pre ovládanie telefónu v rukaviciach</string>
     <string name="touch_sensitive_title">Režim rukavíc</string>
@@ -3276,7 +3276,7 @@ môžete použiť inú sieť"</string>
     <string name="wifi_share_upload_finish">Zdieľané</string>
     <string name="wifi_share_uploading">Zdieľanie Wi-Fi siete...</string>
     <string name="wifi_show_advanced">Zobraziť pokročilé možnosti</string>
-    <string name="wifi_show_password">Zobrazovať heslo</string>
+    <string name="wifi_show_password">Zobraziť heslo</string>
     <string name="wifi_signal">Sila signálu</string>
     <string name="wifi_signal_found_msg">Našiel sa Wi-Fi AP, pripojiť？</string>
     <string name="wifi_skip_anyway">Preskočiť aj tak</string>
