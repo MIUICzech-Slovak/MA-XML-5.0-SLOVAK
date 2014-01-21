@@ -155,4 +155,5 @@
     <string name="toast_fm_recorder_internal_error">Chyba nahrávania FM.</string>
     <string name="toast_fm_recorder_storage_full">Úložisko je plné, nie je možné nahrávať</string>
     <string name="toast_fm_not_stated">FM nie je nastavené</string>
+    <string name="toast_fm_error_startfailed">Chyba nahrávania. Niektorá aplikácia práve využíva funkciu nahrávania. Skúste to neskôr.</string>
 </resources>
