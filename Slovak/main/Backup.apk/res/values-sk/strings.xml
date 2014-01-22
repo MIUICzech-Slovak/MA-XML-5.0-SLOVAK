@@ -230,7 +230,7 @@ Ok pre zrušenie obnovy"</string>
 <string name="task_failed_local">Zlyhalo zálohovanie %s úloh(y)</string>
 <string name="task_finished">Hotovo</string>
 <string name="task_local_backup_cancel_dialog">Záloha nie je kompletná.\nKliknite na OK pre zrušenie zálohy</string>
-<string name="task_pending">Čaká na zálohovanie</string>
+<string name="task_pending">Čaká...</string>
 <string name="task_post_running">Dokončovanie</string>
 <string name="task_pre_running">Príprava</string>
 <string name="task_progress">Priebeh</string>
