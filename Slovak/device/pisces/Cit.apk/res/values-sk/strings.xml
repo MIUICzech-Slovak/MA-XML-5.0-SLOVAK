@@ -12,24 +12,36 @@
     <string name="cit_accelermeter_sensor_check_summary">Zobrazia sa X, Y, Z osy zrýchlenia 
 (Poznámka: Keď je telefón nakláňa, hodnoty sa budú meniť podľa orientácie displeja)</string>
     <string name="cit_accelermeter_sensor_check_title">Test akcelerometra</string>
-    <string name="cit_audio_lb_backmic_to_speaker_title">Rear microphone to the speaker loopback test</string>
-    <string name="cit_audio_lb_mainmic_to_earpiece_title">Master Mic to the handset loopback test</string>
-    <string name="cit_audio_lb_phonecall_title">Simulation test calls</string>
-    <string name="cit_audio_lb_summary_backmic_to_speaker">"Rear microphone to the speaker loopback test. 
+    <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
+    <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
+    <string name="cit_audio_lb_phonecall_title">Simulation call test</string>
+    <string name="cit_audio_lb_summary_backmic_to_speaker">"Back microphone to speaker feedback test. 
 
-Flip phones, facing the second microphone to speak, speakers will emit sound "</string>
-    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to the earpiece loopback test. 
+Turn the phone, Speak to back microphone , you should hear voice in speaker"</string>
+    <string name="cit_audio_lb_summary_mainmic_to_earpiece">"Main microphone to receiver feedback test.
 
-Do answer the phone like, facing the main microphone to speak, the sound will be heard from the handset"</string>
-    <string name="cit_audio_lb_summary_phonecall">"Simulation test calls. 
+Hold the phone as if you are making a call, speak to main microphone, you should hear voice from reveiver"</string>
+    <string name="cit_audio_lb_summary_phonecall">"Simulation call test.
 
-Do answer the phone like, facing the main microphone to speak, will hear the voices from the earpiece, ambient sound is very small"</string>
-    <string name="cit_audio_lb_summary_topmic_to_speaker">"Top of the microphone to the speaker loopback test. 
+Hold the phone as if you are making a call, Speak to main microphone, you should hear voice in the receiver. do the test in silent environment"</string>
+    <string name="cit_audio_lb_summary_topmic_to_speaker">"Top microphone to speaker feedback test.
 
-Flip phone, facing the second microphone to speak, speakers will emit sound"</string>
-    <string name="cit_audio_lb_topmic_to_speaker_title">Mike to the speaker loopback test</string> 
-    <string name="cit_audio_loopback_next">Ďalšie</string>
-    <string name="cit_audio_loopback_previous">Predchádzajúce</string>
+ Turn the phone, Speak to top microphone , you should hear voice in speaker"</string>
+    <string name="cit_audio_lb_topmic_to_speaker_title">Top mic speaker feedback test</string>
+    <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
+    <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+
+Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
+    <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+
+Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
+    <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
+    <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
+    <string name="cit_audio_loopback_next">Next</string>
+    <string name="cit_audio_loopback_previous">Previous</string>
+    <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
+
+Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
     <string name="cit_battery_temp_fail">Test batérie zlyhal s (hodnota=%d)</string>
     <string name="cit_battery_temp_pass">Test batérie úspešný</string>
     <string name="cit_batterylight_blue">Modrá</string>
@@ -197,6 +209,7 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
     <string name="cit_tool_bluetooth_dut">Bluetooth test</string>
     <string name="cit_tool_bluetooth_le_tx_h">Bluetooth test (2.480GHz)</string>
     <string name="cit_tool_bluetooth_le_tx_l">Bluetooth test (2.402GHz)</string>
+    <string name="cit_tool_bluetooth_mode">Enter Bluetooth test mode</string>
     <string name="cit_tool_bluetooth_not_on">Bluetooth nie je zapnutý!</string>
     <string name="cit_tool_bluetooth_off">Vypnúť Bluetooth</string>
     <string name="cit_tool_bluetooth_on">Zapnúť Bluetooth</string>
@@ -210,6 +223,7 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
     <string name="cit_tool_log_kmsg">Posledný záznam Kernelu</string>
     <string name="cit_tool_log_logcat">ADB log</string>
     <string name="cit_tool_log_modem">Záznam Modemu</string>
+    <string name="cit_tool_log_no_sdcard">Insert SD card now</string>
     <string name="cit_tool_log_ril">RIL log</string>
     <string name="cit_tool_log_toast">Záznam o chybe je uložený do %s</string>
     <string name="cit_tool_log_toast_generate_bugreport">Vytvorenie záznamu o chybe môže trvať aj viac ako 1 minútu.</string>
