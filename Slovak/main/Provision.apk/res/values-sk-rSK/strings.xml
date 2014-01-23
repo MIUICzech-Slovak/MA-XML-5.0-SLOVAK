@@ -19,7 +19,7 @@
     <string name="other_service_user_experience">Odoslať spätnú väzbu</string>
     <string name="other_service_user_experience_summary0">"Sme radi, že využívate náš produkt a dúfame, že nám pomôžete ho zlepšovať zaslaním spätnej väzby. Vaša spätná väzba bude zabezpečená prostredníctvom našich "</string>
     <string name="other_service_user_experience_summary1">Zásad ochrany osobných údajov</string>
-    <string name="setup_complete_info">Systém zaznamená čas začiatku používania tohto telefónu ako čas začiatku Vašich popredajných služieb</string>
+    <string name="setup_complete_info"/>
     <string name="setup_complete_label">Ďakujeme</string>
     <string name="setup_complete_start">Dokončiť</string>
     <string name="setup_complete_summary">Nastavenia dokončené! Užite si MIUI!</string>
