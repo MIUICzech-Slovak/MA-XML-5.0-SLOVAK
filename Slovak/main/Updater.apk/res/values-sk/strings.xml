@@ -3,7 +3,8 @@
 <resources>
     <string name="about_device">Info o telefóne</string>
     <string name="active_xiaomi_account">Aktivovať</string>
-    <string name="active_xiaomi_account_msg">"Navštívte fórum MIUI pre aktiváciu Xiaomi účtu:"</string>
+    <string name="active_xiaomi_account_msg">"Navštívte fórum MIUI pre aktiváciu Xiaomi účtu:
+https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="active_xiaomi_account_title">Aktivovať Xiaomi účet</string>
     <string name="app_name">Aktualizácia</string>
     <string name="apply_buddy_update_info_message">Kliknutím na tlačidlo Aktualizovať, sa začne inštalácia novej verzie MIUI.</string>
