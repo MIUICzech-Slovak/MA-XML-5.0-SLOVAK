@@ -17,6 +17,7 @@
   <string name="act_set_city_re_find_side">Vyhľadávanie...</string>
   <string name="act_weather_aqi_share">Zdieľať</string>
   <string name="act_weather_aqi_title">Index kvality ovzdušia</string>
+  <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_cycle_low_temp">nízka</string>
   <string name="act_weather_cycle_update">Aktualizovanie...</string>
   <string name="act_weather_find_city_connect_net">Skontrolujte pripojenie k internetu a skúste to znova.</string>
@@ -63,17 +64,18 @@
   <string name="format_date_trend_md">M.d</string>
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">M.d EEE</string>
-  <string name="install_tencent">Nainštalovať Weibo</string>
   <string name="loading_weather">Načítavanie počasia...</string>
   <string name="local_city">Local cities</string>
   <string name="location_allow_err">Vyhľadávanie mesta zlyhalo.</string>
   <string name="location_management">Mestá</string>
   <string name="location_notification">Upozornenie o počasí</string>
   <string name="menu_about">Čo to je</string>
+  <string name="menu_add">Pridať mestá</string>
   <string name="menu_around">Surrounding</string>
   <string name="menu_delete">Vymazať</string>
   <string name="menu_location">Mestá</string>
   <string name="menu_main">Index</string>
+  <string name="menu_more">Podrobnosti</string>
   <string name="menu_notification">Upozornenia</string>
   <string name="menu_reload">Obnoviť</string>
   <string name="menu_reloading">Aktualizovanie...</string>
@@ -97,9 +99,9 @@
   <string name="settings_weather_title">Nastavenia</string>
   <string name="share_aqi_content">"\#MIUI počasie#
 Dnes v %1$s je kvalita ovzdušia: %2$s, %3$s. %4$s %5$s."</string>
-  <string name="share_content">\#MIUI počasie#</string>
-  <string name="share_qq">Zdieľať cez QQ Weibo</string>
-  <string name="share_sina">Zdieľať cez Sina Weibo</string>
+  <string name="share_button_text">Zdieľať</string>
+  <string name="share_choice_titile">Zdieľať</string>
+  <string name="share_content">\#MIUI Počasie#</string>
   <string name="share_weather_content">"\#MIUI počasie#
 Dnes v %1$s je  počasie %2$s, %3$s, %4$s. %5$s."</string>
   <string name="share_weather_title">Zdieľať stav počasia</string>
@@ -120,7 +122,4 @@ Dnes v %1$s je  počasie %2$s, %3$s, %4$s. %5$s."</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Žiadne údaje o počasí</string>
-  <string name="act_weather_cycle_link_china">WeatherChina</string>
-  <string name="menu_add">Add Cities</string>
-  <string name="menu_more">Details</string>
 </resources>
