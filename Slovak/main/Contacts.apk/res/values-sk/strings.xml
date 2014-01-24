@@ -901,8 +901,8 @@ Synchronizujte ich teraz."</string>
     <string name="resource_notification_default">Upozornenia</string>
     <string name="resource_online">Online</string>
     <string name="resource_pack_confirm">Už ste zakúpili %1$d položiek, ale súčasná cena je stále výhodnejšia ako ich zakúpenie jednotlivo, pokračovať?</string>
-    <string name="resource_pack_discount_info">%1$s Uložené!</string>
-    <string name="resource_pack_price_info">%1$s Originál</string>
+    <string name="resource_pack_discount_info">O %1$s menej!</string>
+    <string name="resource_pack_price_info">Zľava z %1$s</string>
     <string name="resource_pack_warning">Upozornenie, Už ste zakúpili %1$d položiek, ale súčasná cena nie je stále výhodnejšia ako ich zakúpenie jednotlivo.</string>
     <string name="resource_present">Darček</string>
     <string name="resource_price_format">(%1$s)</string>
