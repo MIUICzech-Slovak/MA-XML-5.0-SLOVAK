@@ -81,7 +81,7 @@
     <string name="incorrect_pincode_remaining_attempts">Nesprávny PIN kód, ostávajú %d pokusy</string>
     <string name="incorrect_pukcode">Nesprávny PUK</string>
     <string name="incorrect_pukcode_remaining_attempts">Nesprávny PUK kód, ostávajú %d pokusy</string>
-    <string name="input_pin_code">Zadajte PIN</string>
+    <string name="input_pin_code">PIN</string>
     <string name="input_pin_code_to_unlock">Zadajte PIN pre odomknutie telefónu</string>
     <string name="input_puk_code">Zadajte PUK</string>
     <string name="input_puk_code_to_unlock">Zadajte PUK pre odomknutie telefónu</string>
