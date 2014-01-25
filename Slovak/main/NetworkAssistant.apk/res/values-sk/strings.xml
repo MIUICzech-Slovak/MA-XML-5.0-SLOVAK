@@ -41,7 +41,7 @@
     <string name="carrier_query_number_location">Attribution</string>	
     <string name="carrier_query_number_title">Nastavenie operátorov</string>	
     <string name="carrier_settings_button">Nastavenie operátora</string>
-    <string name="close_txt">Zavrieť</string>	
+    <string name="close_txt">Áno</string>	
     <string name="control_app_internet">Využitie siete</string>	
     <string name="current_warning_value">Varovná hodnota:\u0020%s</string>
     <string name="custom_adjust_command">Obsah správy</string>
