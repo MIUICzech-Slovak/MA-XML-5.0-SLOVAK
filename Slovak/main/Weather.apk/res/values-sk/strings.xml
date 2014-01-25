@@ -60,10 +60,10 @@
   <string name="enable_notification_city">Povolené upozornenia pre %s. Systém vás upozorní na nepredvídané zmeny počasia ako je dážď, sneženie a prudká zmena teploty.</string>
   <string name="enable_notification_summary">Upozorniť ma ak sa zmení predpoveď</string>
   <string name="first_start_network_toast_text">Prístup k sieti pre získanie údajov o počasí.</string>
-  <string name="format_date_md">M.d kk:mm</string>
-  <string name="format_date_trend_md">M.d</string>
+  <string name="format_date_md">dd.M. kk:mm</string>
+  <string name="format_date_trend_md">dd.M.</string>
   <string name="format_date_week">EEE</string>
-  <string name="format_date_wmd">M.d EEE</string>
+  <string name="format_date_wmd">dd.M. EEEE</string>
   <string name="loading_weather">Načítavanie počasia...</string>
   <string name="local_city">Lokálne mestá</string>
   <string name="location_allow_err">Vyhľadávanie mesta zlyhalo.</string>
