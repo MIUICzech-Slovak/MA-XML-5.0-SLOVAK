@@ -88,11 +88,6 @@
         <item>Blokované</item>
         <item>Dočasne nedostupná kvôli slabému signálu</item>
 	</string-array>
-    <string-array name="wifi_ap_security">
-        <item>Nezabezpečená</item>
-        <item>WPA PSK</item>
-        <item>WPA2 PSK</item>
-    </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
         <item>TLS</item>
