@@ -1459,7 +1459,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="menu_delete">Zmazať názov prístupového bodu</string>	
     <string name="menu_edit">Upraviť</string>	
     <string name="menu_item_about_content">Bezpečnosť: %s</string>	
-    <string name="menu_item_about_summary">Verzia：%s</string>	
+    <string name="menu_item_about_summary">Verzia: %s</string>	
     <string name="menu_item_about_title">Čo to je</string>	
     <string name="menu_item_settings_title">Nastavenia</string>	
     <string name="menu_item_shortcut">Vytvoriť odkaz</string>	
