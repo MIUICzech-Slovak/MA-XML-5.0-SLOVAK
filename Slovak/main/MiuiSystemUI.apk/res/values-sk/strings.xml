@@ -294,4 +294,12 @@ d. MMMM yyyy"</string>
     <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
     <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
     <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
+    <string name="settings_advanced">Rozšírené nastavenia</string>
+    <string name="settings_basic_settings">Nastavenia</string>
+    <string name="settings_custom_carrier">Vlastný názov operátora</string>
+    <string name="settings_no_carrier">Bez názvu</string>
+    <string name="settings_show_carrier">Zobraziť názov operátora</string>
+    <string name="settings_show_carrier_summary">Len na zamknutej obrazovke</string>
+    <string name="settings_show_screenshot_notification">Zobraziť info. o screenshote</string>
+    <string name="status_bar_and_notification_bar">Notifikačná lišta a roletka</string>
 </resources>
