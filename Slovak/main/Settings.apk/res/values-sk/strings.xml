@@ -2611,6 +2611,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="title_mms_yes">Filter správ povolený</string>
     <string name="title_permission_no">Sledovanie povolení zakázané</string>
     <string name="title_permission_yes">Sledovanie povolení povolené</string>
+    <string name="title_show_notification_yes">Zobrazenie v roletke zapnuté</string>
+    <string name="title_show_notification_no">Zobrazenie v roletke vypnuté</string>
     <string name="title_usb_no">USB ladenie povolené</string>
     <string name="title_usb_yes">USB ladenie zakázané</string>
     <string name="title_virus_no">Nájdený Vírus</string>

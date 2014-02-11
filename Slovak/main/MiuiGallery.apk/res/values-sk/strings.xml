@@ -180,6 +180,7 @@ spoločne!"</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>
   <string name="error_socket_timeout">Chyba siete. Skúste to neskôr.</string>
+  <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_unknown_host">Nenašla sa žiadna sieť.</string>
   <string name="exit">Odísť</string>
   <string name="exit_share">Ukončiť album</string>
