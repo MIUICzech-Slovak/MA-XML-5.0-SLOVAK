@@ -1157,7 +1157,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="callrecordview_menu_batch_delete">Vybrať záznam na vymazanie</string>
     <string name="delete_call_log_selected_title">Vymazať vybrané záznamy volaní?</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
-    <string name="yellowpage_navigation_network_location_not_enabled_title">Povoliť polohu podla siete</string>
+    <string name="yellowpage_navigation_network_location_not_enabled_title">Povoliť polohu podľa siete</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Zoznam čísel služieb a obchodov podľa Vašej polohy môže skvalitniť túto funkciu.</string>
     <string name="yellowpage_navigation_network_location_enable">Povoliť</string>
     <string name="yellowpage_navigation_network_location_enable_later">Neskôr</string>
