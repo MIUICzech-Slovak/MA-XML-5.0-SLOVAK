@@ -22,9 +22,9 @@
         <item>Klasický</item>
     </string-array>
     <string-array name="editing_mode_entries">
-        <item>Clean up Home screen</item>
-        <item>Add widgets</item>
-        <item>Change wallpaper</item>
-        <item>Screen transitions</item>
+        <item>Zoradiť</item>
+        <item>Widgety</item>
+        <item>Tapety</item>
+        <item>Efekty</item>
     </string-array>
 </resources>
