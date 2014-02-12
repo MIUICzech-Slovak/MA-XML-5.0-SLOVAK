@@ -21,4 +21,10 @@
         <item>Predvolený</item>
         <item>Klasický</item>
     </string-array>
+    <string-array name="editing_mode_entries">
+        <item>Clean up Home screen</item>
+        <item>Add widgets</item>
+        <item>Change wallpaper</item>
+        <item>Screen transitions</item>
+    </string-array>
 </resources>
