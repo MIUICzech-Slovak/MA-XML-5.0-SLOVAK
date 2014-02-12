@@ -113,8 +113,8 @@ Dnes v %1$s je  počasie %2$s, %3$s, %4$s. %5$s."</string>
   <string name="sms_notification">Zdieľať cez SMS</string>
   <string name="tip_weather">Upozorneniea MIUI počasia</string>
   <string name="tip_weather_info_content_1">Vezmite si niečo na seba!</string>
-  <string name="tip_weather_info_title_1">%1$s predpokladá sa zmena teploty %2$d stupňov</string>
-  <string name="tip_weather_info_title_2">%1$s dnešná teplota bude okolo %2$s</string>
+  <string name="tip_weather_info_title_1">%1$s predpokladá sa zmena %2$d stupňov</string>
+  <string name="tip_weather_info_title_2">V %1$s dnes bude %2$s</string>
   <string name="trend_weather_today">Dnes</string>
   <string name="trend_weather_tomorrow">Zajtra</string>
   <string name="weather_notification">Upozornenia o počasí</string>
