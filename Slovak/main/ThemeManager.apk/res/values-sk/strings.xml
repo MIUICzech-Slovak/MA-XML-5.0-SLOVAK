@@ -209,12 +209,12 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
     <string name="settings">Nastavenia</string>
     <string name="short_ringtone_resource">Krátke</string>
     <string name="theme_another_import_running">Importovanie témy, čakajte prosím...</string>
-    <string name="theme_batch_has_update_text">%1$d tém dostalo aktualizáciu</string>
+    <string name="theme_batch_has_update_text">%1$d témy dostali aktualizáciu</string>
     <string name="theme_batch_update_all">Aktualizovať všetko</string>
     <string name="theme_batch_update_dlg_content">Aktualizovať?</string>
     <string name="theme_batch_update_dlg_content_single">Aktualizovať?</string>
     <string name="theme_batch_update_dlg_title">Aktualizovať</string>
-    <string name="theme_batch_updating_text">%1$d tém bolo aktualizovaných</string>
+    <string name="theme_batch_updating_text">%1$d témy boli aktualizované</string>
     <string name="theme_changed_failed_message">Nepodarilo sa nastaviť tému.</string>
     <string name="theme_changed_message">Téma úspešne nastavená.</string>
     <string name="theme_changing_dialog_title">Aplikovanie novej témy, čakajte prosím...</string>
