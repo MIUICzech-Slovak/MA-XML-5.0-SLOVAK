@@ -257,6 +257,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_iso_entry_iso3200">ISO 3200</string>
   <string name="pref_camera_iso_entry_iso400">ISO 400</string>
   <string name="pref_camera_iso_entry_iso800">ISO 800</string>
+  <string name="pref_camera_iso_prefix">ISO</string>
   <string name="pref_camera_iso_title">Hodnota ISO</string>
   <string name="pref_camera_jpegquality_entry_high">Vysoká</string>
   <string name="pref_camera_jpegquality_entry_low">Nízka</string>
@@ -294,6 +295,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_picturesize_entry_3200x1800">6MP 16:9</string>
   <string name="pref_camera_picturesize_entry_3200x2400">8MP 4:3</string>
   <string name="pref_camera_picturesize_entry_3264x1840">Širokouhlý 16:9</string>
+  <string name="pref_camera_picturesize_entry_3264x1836">Širokouhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_3264x2448">Štandard 4:3</string>
   <string name="pref_camera_picturesize_entry_3600x2160">Širokouhlý 16:9</string>
   <string name="pref_camera_picturesize_entry_4160x3120">Štandard 4:3</string>
