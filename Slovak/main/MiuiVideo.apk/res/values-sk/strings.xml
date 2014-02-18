@@ -13,8 +13,7 @@
     <string name="adjust_position_prev_media_notice">Predchádzajúce</string>
     <string name="airkan_control_device_des">Môžete ovládať prehrávanie pomocou tlačidiel v dolnej časti</string>
     <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-    <string name="airkan_tips">"点这里，将正在播放的视频
-投影到盒子/电视上"</string>
+    <string name="airkan_tips">"Prehrať na Xiaomi TV"</string>
     <string name="airkan_video_playing">Prehrávanie</string>
     <string name="airkan_video_playing_in">Video sa prehráva...</string>
     <string name="alert_ignore">Viac krát nezobrazovať</string>
@@ -75,12 +74,12 @@
     <string name="continue_to_play_nextset">Prehrať nasledujúcu epizódu automaticky</string>
     <string name="continue_to_play_nextset_summary">"Po skončení sledovanej epizódy sa automaticky spustí nasledujúca"</string>
     <string name="count_bu">Prt. %d</string>
-    <string name="count_ge">%d položiek</string>
+    <string name="count_ge">"Položiek: %d "</string>
     <string name="count_ji_quan">Všetky %d</string>
-    <string name="count_myfavorite">" obľubené"</string>
+    <string name="count_myfavorite">" obľúbené"</string>
     <string name="day">Deň</string>
     <string name="declaration">Podmienky používania</string>
-    <string name="declaration_content">Súhlasíte s podmienkami používaniae stanovené Sohu Video, iQiyi, a ostatných poskytovateľov videa?</string>
+    <string name="declaration_content">Súhlasíte s podmienkami používania stanovenými Sohu Video, iQiyi, a ostatnými poskytovateľmi videa?</string>
     <string name="delete">Vymazať</string>
     <string name="delete_media">Vymazať</string>
     <string name="delete_media_content">Vymazať túto položku?</string>
@@ -115,12 +114,12 @@
     <string name="finish_download">Načítavanie dokončené</string>
     <string name="forecast_living_status">Naživo</string>
     <string name="fullscreen_hint_auto">Na celý display...</string>
-    <string name="fullscreen_hint_horizontal">Pre zobrazenie na celý display, sa dotknite ikony v ľavom hornom rohu</string>
-    <string name="fullscreen_hint_vertical">Pre zobrazenie na celý display, sa dotknite tlačidla nižšie</string>
+    <string name="fullscreen_hint_horizontal">Pre zobrazenie na celý displej, sa dotknite ikony v ľavom hornom rohu</string>
+    <string name="fullscreen_hint_vertical">Pre zobrazenie na celý displej, sa dotknite tlačidla nižšie</string>
     <string name="fullscreen_to_play">Fullscreen</string>
     <string name="funshion">Móda</string>
     <string name="gong_count_dlna">%d DLNA</string>
-    <string name="gong_count_xiang">%d položiek</string>
+    <string name="gong_count_xiang">"Položiek: %d "</string>
     <string name="good">OK</string>
     <string name="have_no_cameravideo">Žiadne videá</string>
     <string name="have_no_offlinemedia">Prázdne</string>
@@ -220,10 +219,10 @@
     <string name="nowifi_alert_dialog_message">Použiť mobilný internet pre streamovanie videa, chcete pokračovať?</string>
     <string name="nowifi_alert_dialog_title">Upozornenie spotreby</string>
     <string name="offline_alert_title">Upozornenie načítavania</string>
-    <string name="offline_alert_wifi">Používate mobilný internet, pre ušetrenie Vaších dát je načítavanie pozastavené kým sa nepripojíte na WiFi sieť.</string>
+    <string name="offline_alert_wifi">Používate mobilný internet, pre ušetrenie Vašich dát je načítavanie pozastavené kým sa nepripojíte na WiFi sieť.</string>
     <string name="offline_continue">Pokračovať</string>
     <string name="offline_episode">%d</string>
-    <string name="offline_max_promote">Čaká sa na načítanie, je možné načítavať max. 2 videé naraz.</string>
+    <string name="offline_max_promote">Čaká sa na načítanie, je možné načítavať max. 2 videá naraz.</string>
     <string name="offline_media">Dostupné offline</string>
     <string name="offline_media_more">Načítať viac</string>
     <string name="offline_no_source">Žiadne zdroje</string>
@@ -286,7 +285,7 @@
     <string name="temp_play_history_button_label">Zobraziť históriu</string>
     <string name="tencent">Tencent</string>
     <string name="time_colon">"Dátum: "</string>
-    <string name="to_be_play_label_v5">Začina sa prehrávanie</string>
+    <string name="to_be_play_label_v5">Začína sa prehrávanie</string>
     <string name="to_live_status">Čakanie na prenos</string>
     <string name="to_play_airekan">Obsadenie</string>
     <string name="toast_back_key_pressed_notice">Stlačte znovu pre ukončenie</string>
@@ -323,7 +322,7 @@
     <string name="vp_VideoView_error_text_unknown">Prepáčte ale vybraný formát súboru nie je možné prehrať</string>
     <string name="vp_VideoView_error_title">Chyba prehrávania videa!</string>
     <string name="waitfornewset">Follow content</string>
-    <string name="waitfornewset_tip_content">You will be notified when a new episode or additional content becomes available.</string>
+    <string name="waitfornewset_tip_content">Budete upozornený ak bude dostupná nová epizóda.</string>
     <string name="wasu">Wasu</string>
     <string name="will_live_status">Live</string>
     <string name="write_comment">Komentovať</string>
