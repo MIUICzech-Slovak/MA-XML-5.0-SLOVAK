@@ -65,7 +65,7 @@
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">dd.MM. EEEE</string>
   <string name="loading_weather">Načítavanie počasia...</string>
-  <string name="local_city">Lokálne mestá</string>
+  <string name="local_city" />
   <string name="location_allow_err">Vyhľadávanie mesta zlyhalo.</string>
   <string name="location_management">Mestá</string>
   <string name="location_notification">Upozornenie o počasí</string>

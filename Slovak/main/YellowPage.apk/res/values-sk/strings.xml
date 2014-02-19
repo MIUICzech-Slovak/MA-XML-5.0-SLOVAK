@@ -65,6 +65,7 @@ Please check tracking number"</string>
   <string name="mishop_web_payment_title">MiStore</string>
   <string name="module_sms_sent">Textová správa doručená</string>
   <string name="network_unavaliable">Sieť je nedostupná, skontrolujte nastavenie siete</string>
+  <string name="no_more_result">Viac sa nenašlo</string>
   <string name="packages_no_package">No suitable traffic packages</string>
   <string name="packages_pay">Kúpiť</string>
   <string name="packages_pay_confirm">Potvrdiť</string>
