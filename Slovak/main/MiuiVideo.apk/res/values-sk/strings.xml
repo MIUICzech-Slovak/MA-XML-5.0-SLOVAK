@@ -303,8 +303,8 @@
     <string name="update_to_count_ji">Aktualizované na Ep. %d</string>
     <string name="update_to_count_qi">Aktualizované na S. %s</string>
     <string name="updatedalready">Aktualizované</string>
-    <string name="use_cellular_network">použiť mobilnú sieť</string>
-    <string name="use_cellular_network_summary">použiť mobilnú sieť pre sťahovanie videa.</string>
+    <string name="use_cellular_network">Použiť mobilnú sieť</string>
+    <string name="use_cellular_network_summary">Použiť mobilnú sieť pre sťahovanie videa</string>
     <string name="variety">Druh</string>
     <string name="video">Video</string>
     <string name="video_info_audio_bitrate_label">Bitrate audio:</string>
