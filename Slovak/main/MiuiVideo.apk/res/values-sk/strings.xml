@@ -77,7 +77,7 @@
     <string name="count_ge">"Položiek: %d "</string>
     <string name="count_ji_quan">Všetky %d</string>
     <string name="count_myfavorite">" obľúbené"</string>
-    <string name="day">" Deň "</string>
+    <string name="day">"."</string>
     <string name="declaration">Podmienky používania</string>
     <string name="declaration_content">Súhlasíte s podmienkami používania stanovenými Sohu Video, iQiyi, a ostatnými poskytovateľmi videa?</string>
     <string name="delete">Vymazať</string>
@@ -188,7 +188,7 @@
     <string name="menu_wh_item_using_16_9_label">Pomer 16:9</string>
     <string name="menu_wh_item_using_4_3_label">Pomer 4:3</string>
     <string name="minute">min</string>
-    <string name="month">" Mesiac "</string>
+    <string name="month">"."</string>
     <string name="movie_comment">Komentáre</string>
     <string name="music">Hudba</string>
     <string name="mycamera">Moje videá</string>
@@ -284,7 +284,7 @@
     <string name="tags_colon">"Žáner: "</string>
     <string name="temp_play_history_button_label">Zobraziť históriu</string>
     <string name="tencent">Tencent</string>
-    <string name="time_colon">"Dátum: "</string>
+    <string name="time_colon">"Rok: "</string>
     <string name="to_be_play_label_v5">Začína sa prehrávanie</string>
     <string name="to_live_status">Čakanie na prenos</string>
     <string name="to_play_airekan">Obsadenie</string>
@@ -328,7 +328,7 @@
     <string name="write_comment">Komentovať</string>
     <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
     <string name="xiaomi_user">Xiaomi užívateľ</string>
-    <string name="year">" Rok "</string>
+    <string name="year">"."</string>
     <string name="yestorday">"Včera "</string>
     <string name="yinyuetai">YinYueTai</string>
     <string name="youku">Youku</string>
