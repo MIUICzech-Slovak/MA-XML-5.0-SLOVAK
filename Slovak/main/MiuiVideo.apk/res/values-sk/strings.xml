@@ -71,13 +71,13 @@
     <string name="comment_publish">Odoslať</string>
     <string name="comment_submiting">Odosielanie...</string>
     <string name="connecting">Pripájanie...</string>
-    <string name="continue_to_play_nextset">Prehrať nasledujúcu epizódu automaticky</string>
+    <string name="continue_to_play_nextset">Prehrať nasledujúcu epizódu</string>
     <string name="continue_to_play_nextset_summary">"Po skončení sledovanej epizódy sa automaticky spustí nasledujúca"</string>
     <string name="count_bu">Prt. %d</string>
-    <string name="count_ge">"Položiek: %d "</string>
+    <string name="count_ge">"Položky: %d "</string>
     <string name="count_ji_quan">Všetky %d</string>
     <string name="count_myfavorite">" obľúbené"</string>
-    <string name="day">"."</string>
+    <string name="day">". "</string>
     <string name="declaration">Podmienky používania</string>
     <string name="declaration_content">Súhlasíte s podmienkami používania stanovenými Sohu Video, iQiyi, a ostatnými poskytovateľmi videa?</string>
     <string name="delete">Vymazať</string>
@@ -119,7 +119,7 @@
     <string name="fullscreen_to_play">Fullscreen</string>
     <string name="funshion">Móda</string>
     <string name="gong_count_dlna">%d DLNA</string>
-    <string name="gong_count_xiang">"Položiek: %d "</string>
+    <string name="gong_count_xiang">"Položky: %d "</string>
     <string name="good">OK</string>
     <string name="have_no_cameravideo">Žiadne videá</string>
     <string name="have_no_offlinemedia">Prázdne</string>
@@ -231,8 +231,8 @@
     <string name="offline_setting">Offline média</string>
     <string name="ok">OK</string>
     <string name="open_camera">Fotoaparát</string>
-    <string name="other_setting">Iné</string>
-    <string name="others">Iné</string>
+    <string name="other_setting">Ostatné</string>
+    <string name="others">Ostatné</string>
     <string name="pause_download">Načítavanie pozastavené</string>
     <string name="paused">Zastavené</string>
     <string name="pick_hide_to_show">Zvoľte položky</string>
@@ -294,7 +294,7 @@
     <string name="toast_message_continue_play_minute">"m "</string>
     <string name="toast_message_continue_play_second_and_play">s</string>
     <string name="toast_message_set_misound">Nastavovanie zvuku...</string>
-    <string name="today">Dnes</string>
+    <string name="today">"Dnes "</string>
     <string name="top_status_local_media">Lokálne média</string>
     <string name="top_status_online_media">Online média</string>
     <string name="tudou">Tudou</string>
@@ -306,7 +306,7 @@
     <string name="use_cellular_network">Použiť mobilnú sieť</string>
     <string name="use_cellular_network_summary">Použiť mobilnú sieť pre sťahovanie videa</string>
     <string name="variety">Druh</string>
-    <string name="video">Video</string>
+    <string name="video">Videá</string>
     <string name="video_info_audio_bitrate_label">Bitrate audio:</string>
     <string name="video_info_audio_coding_label">Formát kódovania zvuku:</string>
     <string name="video_info_audio_null">Nedostupný</string>
