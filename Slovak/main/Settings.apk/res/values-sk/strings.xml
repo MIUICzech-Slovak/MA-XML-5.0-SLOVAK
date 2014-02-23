@@ -1753,7 +1753,7 @@ skúste:
     <string name="perm_hips_root">ROOT</string>	
     <string name="perm_hips_root_desc">Požadovať práva ROOT</string>	
 	<string name="perm_hips_root_desc_stable">Nedostupné v stabilnej verzii MIUI</string>	
-    <string name="perm_hips_root_hint">Žiadne aplikácie</string>	
+    <string name="perm_hips_root_hint">%1$s aplikácií má povolené práva ROOT</string>	
     <string name="perm_hips_root_title">Získať práva ROOT</string>	
     <string name="perm_hips_safe">Bežné práva (%1$d)</string>	
     <string name="perm_hips_security_prompt_accept">Povoliť (%d)</string>
