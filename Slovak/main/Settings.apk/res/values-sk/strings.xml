@@ -554,7 +554,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="button_text_done">Hotovo</string>	
     <string name="button_text_fix">Opraviť</string>	
     <string name="button_text_quick_scan">Kontrola</string>	
-    <string name="button_text_security">Bezpečnosť</string>	
+    <string name="button_text_security">OK</string>	
     <string name="button_text_view">Zobraziť</string>	
     <string name="cache_garbage">Cache súborov</string>	
     <string name="cache_header_label">Medzipamäť</string>	
