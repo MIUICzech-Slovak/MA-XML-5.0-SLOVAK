@@ -1389,7 +1389,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_footer">Sekundy do ďalšieho pokusu: %d</string>
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Príliš mnoho neplatných pokusov!</string>
     <string name="lockpattern_tutorial_cancel_label">Zrušiť</string>
-    <string name="lockpattern_tutorial_continue_label">Ďalšie</string>
+    <string name="lockpattern_tutorial_continue_label">Ďalej</string>
     <string name="lte_ram_dump_off">Vypnúť výpis pamäte LTE RAM</string>
     <string name="lte_ram_dump_on">Zapnúť výpis pamäte LTE RAM</string>
     <string name="macaddr_label">MAC:</string>
@@ -1575,8 +1575,8 @@ skúste:
     <string name="networks">Výber operátora</string>
     <string name="new_backup_pw_prompt">Sem zadajte nové heslo pre úplné zálohy.</string>
     <string name="new_bw_list_button">Pridať kontakt</string>	
-    <string name="next_button_label">Ďalšie</string>	
-    <string name="next_label">Ďalšie</string>	
+    <string name="next_button_label">Ďalej</string>	
+    <string name="next_label">Ďalej</string>	
     <string name="nfc_category_title">NFC</string>	
     <string name="nfc_quick_toggle_summary">Povoliť výmenu dát, pokiaľ sa telefón dotkne iného zariadenia</string>	
   	<string name="nfc_quick_toggle_title">NFC</string>
