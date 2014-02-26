@@ -267,5 +267,8 @@ Prosím otvorte túto aplikáciu znovu pre obnovenie zdrojov."</string>
     <string name="gadget_photo_label">Obrázok</string>
     <string name="gadget_weather_title">Počasie</string>
     <string name="settings_shortcut">Skratky</string>
-
+    <string name="apply_as_lock_wallpaper">Apply</string>
+    <string name="apply_as_lock_wallpaper_message">Nastaviť tapetu aj pre zámok?</string>
+    <string name="lock_screen_failed_message">Nastavenie zlyhalo</string>
+    <string name="lock_screen_success_message">Nastavené</string>
 </resources>

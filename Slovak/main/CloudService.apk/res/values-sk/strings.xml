@@ -12,4 +12,7 @@
   <string name="sub_sync_item_sms_title_wifi_only">Použiť iba Wi-Fi pre synch. MMS / SMS</string>
   <string name="sync_item_sms_summary">Prečítané SMS budú automaticky synchronizované</string>
   <string name="sync_item_sms_title">Synch. SMS</string>
+  <string name="find_device_noise_title">Nájsť telefón podľa zvuku</string>
+  <string name="sync_item_calllog_title">Synch. záznamy o volaní</string>
+  <string name="sync_item_calllog_summary">Synchronizovať záznamy o prichádzajúcich a odchádzajúcich hovoroch</string>
  </resources>
