@@ -3406,7 +3406,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="uninstall_confirm_title">Odinštalovať tieto aplikácie</string>
     <string name="button_text_uninstall">Odinšt.</string>
     <string name="list_sub_view_item_view_detail">Podrobnosti</string>
-    <string name="list_sub_view_item_view_file">Súbor</string>
+    <string name="list_sub_view_item_view_file">Súbory</string>
     <string name="list_sub_view_item_uninstall">Odinšt.</string>
     <string name="list_sub_view_item_backup_uninstall">Záloha a odinšt.</string>
     <string name="pref_category_title_garbage_cleanup_check">Nastavenie čistenia</string>
