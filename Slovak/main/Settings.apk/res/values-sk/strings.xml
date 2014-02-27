@@ -3397,11 +3397,11 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="button_text_a_key_uninstall">Odinštalovať</string>
     <string name="optimize_installed_apps_header_left">Stiahnuť apl.:%d</string>
     <string name="deep_clean_title_uninstall_apps">Aplikácie</string>
-    <string name="deep_clean_summary_install_apps_today">%1$s|dnes použité</string>
-    <string name="deep_clean_summary_install_apps_interval">%1$s|pred %2$d dňami</string>
-    <string name="deep_clean_summary_install_apps_new">%s|nepoužité</string>
-    <string name="deep_clean_summary_install_apps_virus">%s|vírus</string>
-    <string name="deep_clean_summary_install_apps_risk">%s|riskantné</string>
+    <string name="deep_clean_summary_install_apps_today">%1$s| dnes použité</string>
+    <string name="deep_clean_summary_install_apps_interval">%1$s| pred %2$d dňami</string>
+    <string name="deep_clean_summary_install_apps_new">%s| nepoužité</string>
+    <string name="deep_clean_summary_install_apps_virus">%s| vírus</string>
+    <string name="deep_clean_summary_install_apps_risk">%s| riskantné</string>
     <string name="optimize_installed_apps_list_empty_content">Žiadne aplikácie</string>
     <string name="uninstall_confirm_title">Odinštalovať tieto aplikácie</string>
     <string name="button_text_uninstall">Odinšt.</string>
