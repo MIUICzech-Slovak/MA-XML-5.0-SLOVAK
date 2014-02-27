@@ -130,7 +130,7 @@
     <string name="HIPS_Perm_ROOT">ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc">Požaduje práva ROOT</string>
     <string name="HIPS_Perm_ROOT_Desc_Stable">Nedostupné v stabilnej verzii MIUI</string>
-    <string name="HIPS_Perm_ROOT_Hint">%1$s aplikácií má povolené práva ROOT</string>
+    <string name="HIPS_Perm_ROOT_Hint">Žiadne aplikácie</string>
     <string name="HIPS_Perm_ROOT_Title">Získať práva ROOT</string>
     <string name="HIPS_Perm_RejectAll">Zakázať všetko</string>
     <string name="HIPS_Perm_SMS">SMS</string>

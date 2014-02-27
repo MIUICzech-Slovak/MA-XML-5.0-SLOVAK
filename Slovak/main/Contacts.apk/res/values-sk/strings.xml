@@ -413,9 +413,9 @@ Chyba: \"%s\""</string>
     <string name="hint_distance">udržať rozstup</string>
     <string name="hint_findContacts">Nájsť kontakty</string>
     <string name="hint_more_contact">Ak existujú zdvojené kontakty, môžete ich zlúčiť</string>
-    <string name="hint_search_contacts">%d kontaktov</string>
-    <string name="hint_search_emails">%d E-mailov</string>
-    <string name="hint_search_phone_numbers">%d čísel kontaktov</string>
+    <string name="hint_search_contacts">Kontaktov: %d</string>
+    <string name="hint_search_emails">E-mailov: %d</string>
+    <string name="hint_search_phone_numbers">Kontaktov: %d</string>
     <string name="ic_menu_back">Späť</string>
     <string name="ic_menu_done">Hotovo</string>
     <string name="imLabelsGroup">IM</string>

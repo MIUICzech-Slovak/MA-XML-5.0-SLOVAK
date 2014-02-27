@@ -325,7 +325,7 @@
     <string name="open_all_bookmarks">Otvoriť všetko</string>	
     <string name="open_all_in_new_window">Otvoriť všetko na nových kartách</string>	
     <string name="open_bookmark">Otvoriť</string>	
-    <string name="open_history_group_in_new_window">Otvoriť celú históriu %s v novom okne</string>
+    <string name="open_history_group_in_new_window">Otvoriť celú históriu (%s kariet)</string>
     <string name="open_history_most_visited_group_in_new_window">Otvoriť všetky v novom okne</string>	
     <string name="other_bookmarks">Ostatné Záložky</string>  
     <string name="page_info">Informácie o stránke</string>	
