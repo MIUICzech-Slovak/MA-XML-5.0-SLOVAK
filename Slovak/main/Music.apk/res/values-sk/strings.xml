@@ -309,6 +309,7 @@
     <string name="sort_by_album">Albumy</string>
     <string name="sort_by_artist">Umelci</string>
     <string name="sort_by_track">Skladby</string>
+    <string name="source_from">Zdroj od: %1$s</string>
     <string name="start_to_download_album">Sťahovanie obrázkov albumov pre všetky skladby v knižnici</string>
     <string name="start_to_download_avatar">Sťahovanie obrázku autora...</string>
     <string name="streamloadingtext">Pripojovanie k %s</string>

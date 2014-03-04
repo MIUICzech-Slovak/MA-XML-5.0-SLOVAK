@@ -3438,4 +3438,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="item_garbage_size_1000m">1GB</string>
     <string name="item_title_garbage_time">Upozorniť</string>
     <string name="item_title_garbage_size">Veľkosť nepotrebných súborov</string>
+    <string name="menu_item_force_stop">Ukončiť</string>
+    <string name="menu_item_uninstall">Odinštalovať</string>
+    <string name="menu_item_app_details">Podrobnosti</string>
 </resources>
