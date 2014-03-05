@@ -1268,7 +1268,7 @@ pre účet %s"</string>
     <string name="activity_chooser_view_dialog_title_default">Vybrať aktivitu</string>
     <string name="share_action_provider_share_with">Zdieľať s</string>
     <string name="status_bar_device_locked">Zariadenie je zamknuté.</string>
-    <string name="list_delimeter">", "</string>
+    <string name="list_delimeter">". "</string>
     <string name="sending">Odosielanie...</string>
     <string name="launchBrowserDefault">Spustiť prehliadač?</string>
     <string name="SetupCallDefault">Prijať hovor?</string>
