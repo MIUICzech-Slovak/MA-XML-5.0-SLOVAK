@@ -148,6 +148,7 @@
     <string name="call_lost_title">Stratený hovor</string>
     <string name="call_number">Pre:</string>
     <string name="call_record_button_label">Nahrávanie %s</string>
+    <string name="call_record_error_access">"Nie je možné nahrávať v režime Návštevník"</string>
     <string name="call_record_notification_message_low_space_miui">Nahrávanie bolo zastavené, nedostatok miesta na karte, stlačte pre zobrazenie %s.</string>
     <string name="call_record_notification_message_miui">Kliknite pre zobrazenie %s.</string>
     <string name="call_record_notification_message_sd_unmounted_miui">Nahrávanie bolo zastavené, SD karta bola odpojená.</string>
