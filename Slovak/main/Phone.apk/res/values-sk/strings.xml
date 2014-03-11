@@ -716,17 +716,17 @@
     <string name="old_pin_hint_miui">Aktuálny PIN</string>
     <string name="onHold">Podržaný hovor</string>
     <string name="onscreenAddCallText">Pridať hovor</string>
-    <string name="onscreenAddParticipant">Add Participant</string>
+    <string name="onscreenAddParticipant">Pridať účastníka</string>
     <string name="onscreenAudioText">Audio</string>
     <string name="onscreenEndCallText">Koniec</string>
     <string name="onscreenHoldText">Pridržať</string>
     <string name="onscreenManageCallsText">Spravovať hovory</string>
     <string name="onscreenManageConferenceText">Upraviť konferenciu</string>
     <string name="onscreenMergeCallsText">Spojiť hovory</string>
-    <string name="onscreenModifyCallText">Modify Call</string>
+    <string name="onscreenModifyCallText">Upraviť hovor</string>
     <string name="onscreenMuteText">Stlmiť</string>
     <string name="onscreenShowDialpadText">Číselník</string>
-    <string name="onscreenSwitchText">Switch Subscription</string>
+    <string name="onscreenSwitchText">Prepnúť</string>
     <string name="onscreenSwapCallsText">Zameniť</string>
     <string name="onscreen_add_call_text_miui">Pridať hovor</string>
     <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
@@ -895,7 +895,7 @@
     <string name="reject_via_sms_summary_miui">Nastavte odosielanú sms pri zrušení hovoru</string>
     <string name="reject_via_sms_title_miui">Nastavenie odpovedajúcej sms</string>
     <string name="remember_my_choice">Vždy používajte toto umiestnenie pre volanie cez internet</string>
-    <string name="remove_ims_account">Remove account</string>
+    <string name="remove_ims_account">Odstrániť účet</string>
     <string name="remove_miui">Vymazať</string>
     <string name="remove_sip_account">Vymazať účet</string>
     <string name="removing_account">Vymazávam účet...</string>
@@ -924,7 +924,7 @@
     <string name="respond_via_sms_confirmation_format">Správa bola odoslaná na číslo %s.</string>
     <string name="respond_via_sms_custom_message">Vlastná správa...</string>
     <string name="respond_via_sms_edittext_dialog_title">Rýchla odpoveď</string>
-    <string name="respond_via_sms_menu_reset_default_activity">Reset default app</string>
+    <string name="respond_via_sms_menu_reset_default_activity">Obnoviť predvolenú apl.</string>
     <string name="respond_via_sms_setting_summary">Obsah správy po zrušení prichádzajúceho hovoru</string>
     <string name="respond_via_sms_setting_title">Rýchle odpovede</string>
     <string name="respond_via_sms_setting_title_2">Upraviť rýchle odpovede</string>
@@ -1178,7 +1178,7 @@
     <string name="voicemail_settings_number_hint_miui">Vložte číslo hlasovej schránky</string>
     <string name="voicemail_settings_number_label">Číslo hlasovej schránky</string>
     <string name="voicemail_settings_number_title_miui">Číslo hlasovej schránky</string>
-<string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
+    <string name="vt_init_fail_str">"VT initialization failed. Downgrading call to VoLTE
 "</string>
     <string name="wait_prompt_str">"Odoslať nasledujúce tóny?"</string>
     <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
@@ -1195,4 +1195,12 @@
     <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
     <string name="xdivert_summary">CFNRc Settings</string>
     <string name="xdivert_title">X-Divert</string>
+    <string name="enter_input">Vyžaduje sa niečo zadať, skúste to znova!</string>
+    <string name="managed_roaming_dialog_cancel_button">Zrušiť</string>
+    <string name="managed_roaming_dialog_content">Bola zistená sieť s obmedzenými službami. Chcete vybrať sieť manuálne?</string>
+    <string name="managed_roaming_dialog_ok_button">OK</string>
+    <string name="managed_roaming_title">Managed roaming</string>
+    <string name="managed_roaming_title_sub1">Managed roaming (SUB1)</string>
+    <string name="managed_roaming_title_sub2">Managed roaming (SUB2)</string>
+    <string name="managed_roaming_title_sub3">Managed roaming (SUB3)</string>
 </resources>

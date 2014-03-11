@@ -3441,4 +3441,20 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="menu_item_force_stop">Ukončiť</string>
     <string name="menu_item_uninstall">Odinštalovať</string>
     <string name="menu_item_app_details">Podrobnosti</string>
+    <string name="free_wifi_summary">Free Wi-Fi，poskytovaná %1$s</string>
+    <string name="free_wifi_connect_title">Dostupná Wi-Fi</string>
+    <string name="free_wifi_connect_summary">Toto Wi-Fi pripojenie je poskytované %1$s. Pripojte sa.</string>
+    <string name="free_wifi_connect_dialog_title">Dostupná Free Wi-Fi</string>
+    <string name="free_wifi_connect_dialog_summary">Táto Free Wi-Fi %1$s je poskytovaná %2$s.</string>
+    <string name="free_wifi_wiwide_provider">WiWide</string>
+    <string name="free_wifi_connect">Pripojiť</string>
+    <string name="free_wifi_connecting">Pripájanie...</string>
+    <string name="free_wifi_connected">Pripojiť k Free Wi-Fi</string>
+    <string name="free_wifi_connect_fail">"Nie je možné sa pripojiť k sieti"</string>
+    <string name="free_wifi_connect_fail2">Nie je možné sa prihlásiť. Skúste to znova neskôr.</string>
+    <string name="free_wifi_login_again">Prihlásiť znova</string>
+    <string name="free_wifi_connected_count">Pripojených: %1$s</string>
+    <string name="free_wifi_speed_title">Pomalé pripojenie?</string>
+    <string name="free_wifi_connected_time">Doba pripojenia: %1$s</string>
+    <string name="free_wifi_confirm">Potvrdiť</string>
 </resources>

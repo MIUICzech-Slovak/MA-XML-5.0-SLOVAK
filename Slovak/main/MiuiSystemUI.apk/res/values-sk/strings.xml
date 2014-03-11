@@ -260,7 +260,7 @@ d. MMMM yyyy"</string>
     <string name="tab_toggles_lable">Prepínače</string>
     <string name="title_usb_accessory">USB príslušenstvo</string>	
     <string name="toast_rotation_locked">Displej je uzamknutý v režime na šírku</string>	
-    <string name="torch_activity_hint">Svietidlo môžete tiež zapnúť podržaním tlačidla Domov na zamykacej obrazovke</string>
+    <string name="torch_activity_hint">Svietidlo môžete tiež zapnúť podržaním tlačidla [icon] na zamykacej obrazovke</string>
     <string name="torch_activity_name">Svietidlo</string>
     <string name="usb_accessory_confirm_prompt">Otvoriť %1$s keď je pripojené USB príslušenstvo?</string>
     <string name="usb_accessory_permission_prompt">Povoliť aplikácii %1$s prístup k USB zariadeniu?</string>	
