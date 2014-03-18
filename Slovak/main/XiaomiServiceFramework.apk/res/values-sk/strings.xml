@@ -487,4 +487,5 @@ Využité %s | Ostáva %s"</string>
    <string name="micloud_warn_low_title">Dochádza voľné miesto v úložisku!</string>
    <string name="micloud_web_discription_01">Prihláste sa na http://i.xiaomi.com</string>
    <string name="micloud_web_discription_02">pre ukladanie a prístup k Vaším súborom</string>
+   <string name="micloud_upgrade_space">Navýšiť kapacitu</string>
 </resources>
