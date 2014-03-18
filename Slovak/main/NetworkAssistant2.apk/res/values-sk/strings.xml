@@ -4,9 +4,9 @@
     <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Viac ako mesiac už nebolo aktualizované"</string>
     <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Viac ako týždeň už nebolo aktualizované"</string>
     <string name="adjust_traffic_carrier_summary_oneweek_before">Aktualizované pred týždňom</string>
-    <string name="adjust_traffic_carrier_summary_today">Aktualizované dnes o %1$02d:%2$02d</string>
+    <string name="adjust_traffic_carrier_summary_today">Aktualizované dnes o %s</string>
     <string name="adjust_traffic_carrier_summary_two_day_before">Aktualizované pred 2 dňami</string>
-    <string name="adjust_traffic_carrier_summary_yesterday">Aktualizované včera o: %1$02d:%2$02d</string>
+    <string name="adjust_traffic_carrier_summary_yesterday">Aktualizované včera o: %s</string>
     <string name="adjust_traffic_data">Nastaviť využité dáta</string>
     <string name="app_detail">Podrobnosti</string>
     <string name="app_mobile">2G/3G</string>
