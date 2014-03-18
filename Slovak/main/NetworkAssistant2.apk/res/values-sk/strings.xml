@@ -11,10 +11,10 @@
     <string name="app_detail">Podrobnosti</string>
     <string name="app_mobile">2G/3G</string>
     <string name="app_name">Spotreba dát</string>
-    <string name="app_version">Verzia</string>
+    <string name="app_version">"Verzia "</string>
     <string name="app_wifi">Wi-Fi</string>
     <string name="background_traffic">Na pozadí %s</string>
-    <string name="begin_date">Dátum obnovy predplatených dát</string>
+    <string name="begin_date">Deň obnovenia predplatených dát</string>
     <string name="cancel_button">Zrušiť</string>
     <string name="daily_pkg_traffic">Nastavte limit predplatených dát</string>
     <string name="data_usage_correction_timeout_body">Nastaviť manuálne.</string>
@@ -45,7 +45,7 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
     <string name="firewall_fragment_sys_listempty">Prázdne</string>
     <string name="firewall_fragment_tab_title_nonsys">Stiahnuté</string>
     <string name="firewall_fragment_tab_title_sys">Aplikácie</string>
-    <string name="firewall_rule_group_title_mobile">Dáta</string>
+    <string name="firewall_rule_group_title_mobile">2G/3G</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_service_network_blocked">%1$s bolo zakázané používanie %2$s sietí</string>
     <string name="force_stop_dlg_text">"Ak zakážete používanie dát na pozadí, niektoré aplikácie a služby nemusia fungovať pokiaľ sa nepripojíte na Wi-Fi sieť."</string>
@@ -80,7 +80,7 @@ Ostáva"</string>
 Využité"</string>
     <string name="manual_input_free_traffic">Zadajte limit mobilných dát</string>
     <string name="manual_input_traffic">Zadajte využite dáta</string>
-    <string name="network_control">Nastavenia aplikácií</string>
+    <string name="network_control">Nastavenia aplikácie</string>
     <string name="notification_content_title">Využité %1$s počas uzamknutia</string>
     <string name="notification_title">%1$s-%2$s: %3$s využité</string>
     <string name="per_month_pkg_traffic_settings">Nastaviť limit mobilných dát</string>
@@ -94,7 +94,7 @@ Využité"</string>
     <string name="pref_add_traffic_pkg">Dodatočne zakúpené dáta</string>
     <string name="pref_adjust_data_usage">Vzor správy operátora</string>
     <string name="pref_adjust_traffic_data">Nastaviť využité dáta</string>
-    <string name="pref_app_traffic_managent">Zakázať dáta pre aplikáciu</string>
+    <string name="pref_app_traffic_managent">Zakázať dáta pre aplikácie</string>
     <string name="pref_auto_adjust_settings">Nastavenie synchr. štatistiky využitia dát</string>
     <string name="pref_auto_adjust_traffic">Synchr. štatistiky spotreby dát</string>
     <string name="pref_automatic_adjust">Synchr. štatistiky spotreby dát</string>
@@ -120,7 +120,7 @@ Využité"</string>
     <string name="pref_more_traffic_settings">Ostatné nastavenia</string>
     <string name="pref_open_adjust_traffic">"Synchronizovať vašu spotrebu dát s vaším operátorom"</string>
     <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
-    <string name="pref_package_traffic_normal">Peak: %s</string>
+    <string name="pref_package_traffic_normal">Limit: %s</string>
     <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
     <string name="pref_package_traffic_settings">Limit mobilných dát</string>
     <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčku</string>
@@ -141,7 +141,7 @@ Využité"</string>
     <string name="sorted_button">Zoradiť</string>
     <string name="sorted_dialog_title">Zoradiť podľa</string>
     <string name="stop_app_button">Zastaviť</string>
-    <string name="system_app">Systémové Apl.</string>
+    <string name="system_app">Systémové Aplikácie</string>
     <string name="text_day"/>
     <string name="tips_dialog_title">"Nepoznáte svoj limit?"</string>
     <string name="tips_message">"Ak si nie ste istý o množstve svojich predplatených dát, môžete ich zistiť vytočením %2$s (%1$s) (Iba Čína)."</string>
