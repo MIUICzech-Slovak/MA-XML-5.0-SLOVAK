@@ -50,7 +50,7 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
     <string name="firewall_service_network_blocked">%1$s bolo zakázané používanie %2$s sietí</string>
     <string name="force_stop_dlg_text">"Ak zakážete používanie dát na pozadí, niektoré aplikácie a služby nemusia fungovať pokiaľ sa nepripojíte na Wi-Fi sieť."</string>
     <string name="force_stop_dlg_title">Zakázať dáta na pozadí</string>
-    <string name="foreground_traffic">Na pozadí %s</string>
+    <string name="foreground_traffic">Na popredí %s</string>
     <string name="free_time_traffic">Off-peak data limit</string>
     <string name="free_time_traffic_hint">Enter off-peak data limit</string>
     <string name="free_time_traffic_settings">Off-peak data limit settings</string>

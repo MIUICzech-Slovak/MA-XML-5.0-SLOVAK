@@ -1715,7 +1715,7 @@ skúste:
     <string name="optimize_ad_list_empty_content">Žiadne súbory.</string>
 	<string name="optimize_apk_header_left">Inštalačné súbory: %d</string>	
     <string name="optimize_apk_list_empty_content">Žiadne súbory.</string>	
-    <string name="optimize_cache_header_left">Cache súbory: %d</string>
+    <string name="optimize_cache_header_left">Cache súborov: %d</string>
     <string name="optimize_cache_list_empty_content">Žiadne súbory.</string>
     <string name="optimize_done">"Všetko v poriadku!"</string>	
 	<string name="optimize_installed_apps_header_left">Stiahnuť apl.:%d</string>
