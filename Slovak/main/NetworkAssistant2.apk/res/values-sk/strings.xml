@@ -44,7 +44,7 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
     <string name="firewall_fragment_nonesys_listempty">Prázdne</string>
     <string name="firewall_fragment_sys_listempty">Prázdne</string>
     <string name="firewall_fragment_tab_title_nonsys">Stiahnuté</string>
-    <string name="firewall_fragment_tab_title_sys">Aplikácie</string>
+    <string name="firewall_fragment_tab_title_sys">Systémové</string>
     <string name="firewall_rule_group_title_mobile">2G/3G</string>
     <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
     <string name="firewall_service_network_blocked">%1$s bolo zakázané používanie %2$s sietí</string>
