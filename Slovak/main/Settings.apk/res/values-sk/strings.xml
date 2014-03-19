@@ -2023,7 +2023,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
     <string name="power_dialog_sleep_title">Spánok</string>	
     <string name="power_dialog_vibration_title">Vibrovať</string>	
     <string name="power_idle">V nečinnosti</string>	
-    <string name="power_mgr">Výkon</string>	
+    <string name="power_mgr">Batéria</string>	
     <string name="power_mode">Režim výkonu</string>	
     <string name="power_mode_airplane_mode">Režim Lietadlo</string>	
     <string name="power_mode_auto_clean_memery_lock_screen">po %1$d min</string>	
