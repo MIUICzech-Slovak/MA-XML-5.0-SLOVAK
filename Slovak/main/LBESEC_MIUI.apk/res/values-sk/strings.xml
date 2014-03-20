@@ -220,7 +220,7 @@
     <string name="HIPS_Perm_Recorder">Zhotoviť fotografie a video</string>
     <string name="HIPS_Perm_Recorder_Desc">Zhotoviť fotografie a video</string>
     <string name="HIPS_Perm_Recorder_Hint">%1$s môže zhotoviť fotografie a video</string>
-    <string name="HIPS_Perm_RecordAudio">nahrať zvuk</string>
-    <string name="HIPS_Perm_RecordVideo">nahrať video</string>
-    <string name="HIPS_Perm_Picture">zhotoviť fotografiu</string>
+    <string name="HIPS_Perm_RecordAudio">Nahrávanie zvuku</string>
+    <string name="HIPS_Perm_RecordVideo">Nahrávanie videa</string>
+    <string name="HIPS_Perm_Picture">Fotografie</string>
 </resources>
