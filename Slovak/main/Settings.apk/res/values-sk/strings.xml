@@ -3507,7 +3507,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="notification_button_text_of_low_memory">Vyčistiť</string>
     <string name="notification_title_of_low_memory">Systémové úložisko využité na %s</string>
     <string name="notification_summary_of_low_memory">Ak nie je dostatok miesta, aplikácie sa nenainštalujú</string>
-    <string name="power_20s_enter_mode">Režim %2$s o %1$d sekúnd<</string>
+    <string name="power_20s_enter_mode">Režim %2$s o %1$d sekúnd</string>
     <string name="power_notify_lowbattery">Batéria je menej ako %1$d%%</string>
     <string name="power_recovery_mode">Obnovené na profil: %1$s</string>
     <string name="power_subtitle_lowbattery">Slabá batéria: Úspora energie</string>
