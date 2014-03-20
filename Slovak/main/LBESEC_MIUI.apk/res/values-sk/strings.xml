@@ -186,6 +186,7 @@
     <string name="SysOpt_Boost_Boot">Boot</string>
     <string name="SysOpt_Boost_Receiver">Na pozadí</string>
     <string name="app_name">Povolenia</string>
+    <!-- to be translated :
     <string name="HIPS_Perm_SendMMS">Odoslať MMS</string>
     <string name="HIPS_Perm_SendMMS_Desc">Odoslať MMS</string>
     <string name="HIPS_Perm_SendMMS_Hint">%1$s 款软件有权发送彩信</string>
@@ -217,6 +218,7 @@
     <string name="HIPS_Perm_Recorder_Video">录制视频</string>
     <string name="HIPS_Perm_Recorder_Audio">录制本地音频</string>
     <string name="HIPS_Perm_Recorder_VoiceCall">录制通话音频</string>
+    -->
     <string name="HIPS_Perm_Recorder">Fotoaparát a Mikrofón</string>
     <string name="HIPS_Perm_Recorder_Desc">Zhotoviť fotografiu a nahrať video</string>
     <string name="HIPS_Perm_Recorder_Hint">%1$s aplikácií má povolené používanie fotoaparátu a nahrávanie videa</string>
