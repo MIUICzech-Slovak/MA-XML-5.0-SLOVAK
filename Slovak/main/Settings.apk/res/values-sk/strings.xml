@@ -3520,4 +3520,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_customize_giveup_change">Nezmeniť?</string>
     <string name="pref_category_title_securitycenter_settings">Nastavenia Optimalizácie</string>
     <string name="pref_category_title_module_settings">Nastavenia modulov</string>
+    <string name="garbage_white_list_empty_content">Zoznam je prázdny</string>
+    <string name="toast_garbage_cleanup_success">Čistenie dokončené</string>
+    <string name="pref_title_expand_cache_group">Rozbaliť skupinu</string>
+    <string name="pref_summary_expand_cache_group">Skupiny v zozname cache budú rozbalené</string>
+    <string name="Settings_title_garbage_cleanup">Nastavenie Čistenia</string>
+    <string name="Settings_title_network_assistants">Nastavenie Spotreby dát</string>
+    <string name="Settings_title_anti_spam">Nastavenie Antispamu</string>
+    <string name="Settings_title_power_center">Nastavenie Batérie</string>
+    <string name="Settings_title_anti_virus">Nastavenie AntiVírusu</string>
 </resources>
