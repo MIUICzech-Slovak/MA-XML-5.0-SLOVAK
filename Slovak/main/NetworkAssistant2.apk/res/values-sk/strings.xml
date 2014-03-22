@@ -57,18 +57,18 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
     <string name="free_time_traffic_title">Enter off-peak data limit</string>
     <string name="free_traffic_settings">Off-peak data usage settings</string>
     <string name="input_aviable_traffic">Nastaviť limit spotreby dát</string>
-    <string name="input_traffic_pkg">Zadajte využite dáta</string>
-    <string name="input_used_hint">Zadajte využite dáta</string>
+    <string name="input_traffic_pkg">Zadajte využité dáta</string>
+    <string name="input_used_hint">Zadajte využité dáta</string>
     <string name="list_empty_text">Prázdne</string>
     <string name="lock_screen_traffic_warn_title">Upozornenie spotreby dát</string>
     <string name="main_alert_message_no_imsi">Nenašla sa žiadna SIM karta</string>
     <string name="main_alert_message_no_mobile_package">Limit mobilných dát nie je nastavený</string>
     <string name="main_button_idel_traffic">Limit</string>
     <string name="main_button_normal_traffic">Peak</string>
-    <string name="main_button_usage_adjust">Zadajte využite dáta</string>
-    <string name="main_button_usage_adjust_manual">Zadajte využite dáta</string>
+    <string name="main_button_usage_adjust">Zadajte využité dáta</string>
+    <string name="main_button_usage_adjust_manual">Zadajte využité dáta</string>
     <string name="main_button_usage_adjusting">Mení sa...</string>
-    <string name="main_button_usage_package_setting">Zadajte využite dáta</string>
+    <string name="main_button_usage_package_setting">Zadajte využité dáta</string>
     <string name="main_toolbar_firewall">Pravidlá</string>
     <string name="main_toolbar_purchase">Navýšiť</string>
     <string name="main_toolbar_statistic">Štatistiky</string>
@@ -80,7 +80,7 @@ Ostáva"</string>
     <string name="main_traffic_used_text">"%s
 Využité"</string>
     <string name="manual_input_free_traffic">Zadajte limit mobilných dát</string>
-    <string name="manual_input_traffic">Zadajte využite dáta</string>
+    <string name="manual_input_traffic">Zadajte využité dáta</string>
     <string name="network_control">Nastavenia aplikácie</string>
     <string name="notification_content_title">Využité %1$s počas uzamknutia</string>
     <string name="notification_title">%1$s-%2$s: %3$s využité</string>
