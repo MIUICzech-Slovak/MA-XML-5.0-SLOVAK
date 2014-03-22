@@ -122,7 +122,7 @@ Využité"</string>
     <string name="pref_open_adjust_traffic">"Synchronizovať vašu spotrebu dát s vaším operátorom"</string>
     <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
     <string name="pref_package_traffic_normal">Limit: %s</string>
-    <string name="pref_package_traffic_overlay">%1$s | Additional: %2$s</string>
+    <string name="pref_package_traffic_overlay">%1$s | Dodatočné: %2$s</string>
     <string name="pref_package_traffic_settings">Limit mobilných dát</string>
     <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčku</string>
     <string name="pref_setting_operators_message">Upraviť správu ktorú odosiela vaše zariadenie operátorovi pre kontrolu vašej spotreby dát</string>
@@ -143,7 +143,7 @@ Využité"</string>
     <string name="sorted_dialog_title">Zoradiť podľa</string>
     <string name="stop_app_button">Zastaviť</string>
     <string name="system_app">Systémové Aplikácie</string>
-    <string name="text_day"/>
+    <string name="text_day">" deň"</string>
     <string name="tips_dialog_title">"Nepoznáte svoj limit?"</string>
     <string name="tips_message">"Ak si nie ste istý o množstve svojich predplatených dát, môžete ich zistiť vytočením %2$s (%1$s) (Iba Čína)."</string>
     <string name="traffic_correction_failed">"Nie je možné získať info o spotrebe dát"</string>
