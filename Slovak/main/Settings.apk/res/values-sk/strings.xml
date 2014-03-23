@@ -2580,7 +2580,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="spellcheckers_settings_title">Oprava pravopisu</string>
     <string name="ssid_label">SSID:</string>
     <string name="start_checking_memory">Začiatok kontroly stavu pamäte...</string>
-    <string name="start_checking_protection">Začiatok kontroly ochrany v reáolnom čase...</string>
+    <string name="start_checking_protection">Začiatok kontroly ochrany v reálnom čase...</string>
     <string name="start_checking_trash">Začiatok kontroly cache aplikácií...</string>
     <string name="start_optimize_memory">Začiatok optimalizácie pamäte...</string>
     <string name="start_optimize_protection">Začiatok optimalizácie ochrany v reálnom čase...</string>
@@ -2997,7 +2997,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scan_last_risk">Boli nájdené podozrivé aplikácie a neboli odstránené.</string>
     <string name="virus_scan_last_scan_date">Posledná kontrola pred %d dňami</string>
     <string name="virus_scan_last_scan_today">"Posledná kontrola: Dnes "</string>
-    <string name="virus_scan_last_scan_yesterday">>"Posledná kontrola: Včera "</string>
+    <string name="virus_scan_last_scan_yesterday">"Posledná kontrola: Včera "</string>
     <string name="virus_scan_last_time">Posledná kontrola: %s</string>
     <string name="virus_scan_last_virus">Našli sa vírusy počas poslednej kontroly.</string>
     <string name="virus_scan_lib_unknow">Posledná aktualizácia: neznáme</string>
