@@ -536,6 +536,114 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
     <string-array name="network_speed_slow_summary">
         <item>Sieť je pomalá z dôvodu jej preťaženia</item>
         <item>Sieť je pomalá z dôvodu slabého signálu</item>
-        <item>Moving…</item>
+        <item>Presúvanie...</item>
+    </string-array>
+	    <string-array name="app_ops_categories">
+        <item>Poloha</item>
+        <item>Súkromné</item>
+        <item>Správy</item>
+        <item>Média</item>
+        <item>Zariadenie</item>
+    </string-array>
+    <string-array name="app_ops_summaries">
+        <item>približná poloha</item>
+        <item>presná poloha</item>
+        <item>GPS</item>
+        <item>vibrácie</item>
+        <item>čítať kontakty</item>
+        <item>upraviť kontakty</item>
+        <item>čítať zoznam hovorov</item>
+        <item>upraviť zoznam hovorov</item>
+        <item>čítať kalendár</item>
+        <item>upraviť kalendár</item>
+        <item>vyhľadávanie Wi-Fi</item>
+        <item>upozornenia</item>
+        <item>vyhľadávanie BTS</item>
+        <item>hovor</item>
+        <item>čítať SMS</item>
+        <item>písať SMS</item>
+        <item>prijať SMS</item>
+        <item>prijať núdzovej SMS</item>
+        <item>prijať MMS</item>
+        <item>prijať WAP push</item>
+        <item>odoslať SMS</item>
+        <item>čítať ICC SMS</item>
+        <item>zapisovať ICC SMS</item>
+        <item>upraviť nastavenia</item>
+        <item>vykresliť navrchu</item>
+        <item>prístup k upozorneniam</item>
+        <item>fotoaparát</item>
+        <item>záznam zvuku</item>
+        <item>prehrávať zvuk</item>
+        <item>čítať schránku</item>
+        <item>upraviť schránku</item>
+        <item>tlačidlá médií</item>
+        <item>zvuk zamerania</item>
+        <item>hlavná hlasitosť</item>
+        <item>hlasitosť reči</item>
+        <item>hlasitosť zvonenia</item>
+        <item>hlasitosť médií</item>
+        <item>hlasitosť budíka</item>
+        <item>hlasitosť upozornenia</item>
+        <item>hlasitosť bluetooth</item>
+        <item>zabrániť spánku</item>
+        <item>sledovať polohu</item>
+        <item>sledovať presnú polohu</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovanie</item>
+        <item>Čítanie kontaktov</item>
+        <item>Úprava kontaktov</item>
+        <item>Čítanie zoznamu hovorov</item>
+        <item>Úprava zoznamu hovorov</item>
+        <item>Čítanie kalendára</item>
+        <item>Úprava kalendára</item>
+        <item>Poloha</item>
+        <item>Upozornenie na príspevok</item>
+        <item>Poloha</item>
+        <item>Volanie na telefón</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Odosielanie SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Odosielanie SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Odosielanie SMS/MMS</item>
+        <item>Úprava nastavení</item>
+        <item>Vykreslenie navrch</item>
+        <item>Prístup k upozorneniam</item>
+        <item>Fotoaparát</item>
+        <item>Zaznamenať zvuk</item>
+        <item>Prehrať zvuk</item>
+        <item>Načítať schránku</item>
+        <item>Upraviť schránku</item>
+        <item>Tlačidlá médií</item>
+        <item>Zameranie zvuku</item>
+        <item>Hlavná hlasitosť</item>
+        <item>Hlasitosť hlasu</item>
+        <item>Hlasitosť zvonenia</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíka</item>
+        <item>Hlasitosť upozornení</item>
+        <item>Hlasitosť Bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Vypnuté</item>
+        <item>Neobdĺžniková oblasť klipu modrou</item>
+        <item>Test. príkazy vykresľovania zelenou</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Vypnuté</item>
+        <item>Na obrazovke v podobe stĺpcov</item>
+        <item>Na obrazovke v podobe riadkov</item>
+        <item>V adb shell dumpsys gfxinfo</item>
     </string-array>
 </resources>
