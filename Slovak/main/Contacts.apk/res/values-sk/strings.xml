@@ -1161,4 +1161,14 @@ Zvoľte jednu z nasledujúcich možností:</string>
     <string name="yellowpage_navigation_network_location_not_enabled_summary">Zoznam čísel služieb a obchodov podľa Vašej polohy môže skvalitniť túto funkciu.</string>
     <string name="yellowpage_navigation_network_location_enable">Povoliť</string>
     <string name="yellowpage_navigation_network_location_enable_later">Neskôr</string>
+    <string name="import_from_sim2">Importovať zo SIM 2</string>
+    <string name="eventTypeCustom">Vlastné</string>
+    <string name="callrecordview_menu_show_sim">Hovorov: %s</string>
+    <string name="callrecordview_menu_delete_sim">Vymazať zoznam hovorov %s</string>
+    <string name="export_to_sim2">Exportovať na SIM 2</string>
+    <string name="pref_key_sim_manage2">Nastaviť SIM 2</string>
+    <string name="account_sim2">SIM karta %d</string>
+    <string name="sim_contact_number_missing">Chýba číslo kontaktu na SIM.</string>
+    <string name="imei_invalid">Nesprávne IMEI</string>
+    <string name="meid_invalid">Nesprávne MEID</string>
 </resources>
