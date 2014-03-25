@@ -3501,8 +3501,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="white_list_title">Ignorované</string>
     <string name="button_text_delete_from_white_list">Odobrať</string>
     <string name="toast_add_white_list_success">Pridané do ignorovaných, skontrolujte nastavenia</string>
-    <string name="dialog_title_check_all">Všetko</string>
-    <string name="dialog_msg_check_all">Potvrďte výber %1$s ktoré obsahujú %2$d položiek</string>
+    <string name="dialog_title_check_all">Vybrať všetko</string>
+    <string name="dialog_msg_check_all">%1$s obsahuje položiek: %2$d</string>
     <string name="toast_removed_from_white_list">Odobrané z ignorovaných</string>
     <string name="notification_button_text_of_low_memory">Vyčistiť</string>
     <string name="notification_title_of_low_memory">Systémové úložisko využité na %s</string>
