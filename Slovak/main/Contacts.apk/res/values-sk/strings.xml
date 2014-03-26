@@ -998,7 +998,6 @@ Prosím otvorte túto aplikáciu ešte raz pre aktualizáciu zdrojov."</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Označiť všetko</string>
     <string name="sim_contact_existing">Kontakt na SIM karte už existuje.</string>
     <string name="sim_contact_invalid">Chybný kontakt SIM</string>
-    <string name="sim_contact_number_missing">Chýba číslo kontaktu na SIM karte.</string>
     <string name="sim_contact_search_error">Došlo k chybe pri hľadaní kontaktov na SIM karte</string>
     <string name="sim_contacts">SIM kontakty</string>
     <string name="sim_error_anr_full">Úložisko pre čísla je plné.</string>
