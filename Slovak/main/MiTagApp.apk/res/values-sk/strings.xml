@@ -185,9 +185,9 @@ sa dotknite ďalšieho NFC štítku."</string>
     <string name="dialog_select_account">Vyberte účet</string>
     <string name="toast_import_failed">Import kontaktu zlyhal</string>
     <string name="xiaomi_update_dialog_title">%1$s aktualizácia!</string>
-    <string name="xiaomi_update_dialog_message">"Nová verzia %1$s
+    <string name="xiaomi_update_dialog_message" formatted="false">"Nová verzia %1$s
 Veľkosť: %2$s"</string>
-    <string name="xiaomi_update_dialog_message_diff">"Nová verzia %1$s
+    <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verzia %1$s
 Ve%lkosť rozdielového balíčka: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Úložisko je nedostupné, skontrolujte SD kartu.</string>
 </resources>
