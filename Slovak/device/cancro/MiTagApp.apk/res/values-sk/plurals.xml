@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="tags_description">
-        <item quantity="other">apps</item>
-        <item quantity="one">app</item>
+        <item quantity="other">aplikácie</item>
+        <item quantity="one">aplikácia</item>
     </plurals>
     <plurals name="play_description">
-        <item quantity="other">tasks</item>
-        <item quantity="one">task</item>
+        <item quantity="other">úlohy</item>
+        <item quantity="one">úloha</item>
     </plurals>
     <plurals name="history_description">
-        <item quantity="other">records</item>
-        <item quantity="one">record</item>
+        <item quantity="other">záznamy</item>
+        <item quantity="one">záznam</item>
     </plurals>
     <plurals name="select_n_item">
-        <item quantity="other">%d selected</item>
-        <item quantity="zero">Choose items</item>
-        <item quantity="one">%d selected</item>
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="zero">Zvoľte položky</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
 </resources>
