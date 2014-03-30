@@ -5,7 +5,7 @@
         <item quantity="one">aplikácia</item>
     </plurals>
     <plurals name="play_description">
-        <item quantity="other">úlohy</item>
+        <item quantity="other">úloh</item>
         <item quantity="one">úloha</item>
     </plurals>
     <plurals name="history_description">
