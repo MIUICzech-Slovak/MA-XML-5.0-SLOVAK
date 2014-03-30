@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="tags_description">
-        <item quantity="other">aplikácie</item>
+        <item quantity="other">aplikácií</item>
         <item quantity="one">aplikácia</item>
     </plurals>
     <plurals name="play_description">
@@ -9,7 +9,7 @@
         <item quantity="one">úloha</item>
     </plurals>
     <plurals name="history_description">
-        <item quantity="other">záznamy</item>
+        <item quantity="other">záznamov</item>
         <item quantity="one">záznam</item>
     </plurals>
     <plurals name="select_n_item">
