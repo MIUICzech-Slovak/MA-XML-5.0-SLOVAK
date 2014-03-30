@@ -53,7 +53,7 @@ sa dotknete štítkom telefónu"</string>
     <string name="unrecognized_tag">Nerozpoznaný obsah štítku</string>
     <string name="app_center">Aplikácie</string>
     <string name="local_app">Stiahnuté aplikácie</string>
-    <string name="remote_app">Čaká na stiahnutie...</string>
+    <string name="remote_app">Na stiahnutie</string>
     <string name="btn_start">Štart</string>
     <string name="btn_install">Inštalovať</string>
     <string name="failed_install">Inštalácia zlyhala</string>
