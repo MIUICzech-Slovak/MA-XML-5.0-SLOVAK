@@ -156,7 +156,7 @@ Využité"</string>
     <string name="traffic_protection_label">Upozornenie spotreby dát</string>
     <string name="traffic_protection_next">Ďalej</string>
     <string name="traffic_protection_summary">Nastavte upozornenia ak spotreba dosiahne limit</string>
-    <string name="traffic_protection_text_hint">Nastaviť  limit mobilných dát</string>
+    <string name="traffic_protection_text_hint">Nastaviť limit mobilných dát pre %s</string>
     <string name="traffic_protection_unknown"><u>Nastaviť neskôr</u></string>
     <string name="traffic_protection_use_data">Dáta povolené</string>
     <string name="traffic_setting_fragment_area">Lokálne</string>
