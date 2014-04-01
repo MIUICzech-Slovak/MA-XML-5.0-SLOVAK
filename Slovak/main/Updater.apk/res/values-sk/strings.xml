@@ -71,7 +71,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="kernel_upgrade_link"/>
     <string name="kernel_upgrade_version"/>
     <string name="later">Neskôr</string>
-    <string name="loading">Pripojenie na MIUI server</string>
+    <string name="loading">Pripojenie na MIUI server...</string>
     <string name="md5_check_cancelled">Kontrola MD5 súčtu zrušená.</string>
     <string name="mione_update_fail_description">Prosím aktualizujte znova</string>
     <string name="mione_update_fail_title">Aktualizácia sa nepodarila</string>

@@ -756,8 +756,8 @@ Synchronizujte ich teraz."</string>
     <string name="preference_smart_group_location_summary">Skupina podľa predvoľby krajiny</string>
     <string name="preference_smart_group_location_title">Podľa adresy</string>
     <string name="preference_smart_group_title">Inteligentné skupiny</string>
-    <string name="preference_telocation_summary_countrycode_off">Nepridávať automaticky kód krajiny</string>
-    <string name="preference_telocation_summary_countrycode_on">Automaticky pridať kód krajiny</string>
+    <string name="preference_telocation_summary_countrycode_off">nepridávať automaticky kód krajiny</string>
+    <string name="preference_telocation_summary_countrycode_on">automaticky pridať kód krajiny</string>
     <string name="preference_telocation_summary_teloc_off">Skryť miesto</string>
     <string name="preference_telocation_summary_teloc_on">Zobraziť miesto</string>
     <string name="preference_telocation_title">Poloha volajúceho</string>
