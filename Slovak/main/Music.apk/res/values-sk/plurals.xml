@@ -50,8 +50,8 @@
         <item quantity="one">%d vybraná skladba</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
-        <item quantity="other">Na SD karte je %d skladieb</item>
-        <item quantity="one">Na SD karte je %d skladba</item>
+        <item quantity="other">Na úložisku je %d skladieb</item>
+        <item quantity="one">Na úložisku je %d skladba</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
         <item quantity="other">%d pridaných do playlistu.</item>
