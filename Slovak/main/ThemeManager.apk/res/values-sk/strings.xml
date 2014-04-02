@@ -168,7 +168,7 @@
     <string name="resource_preview">Náhľad</string>	
     <string name="resource_price_format">(%1$s)</string>	
     <string name="resource_price_free">Zdarma</string>	
-    <string name="resource_price_unit">MiKreditov</string>	
+    <string name="resource_price_unit">" MiKreditov"</string>	
     <string name="resource_purchase_getting_order">Načítavanie info. o objednávke...</string>	
     <string name="resource_purchase_verifying_payment">Overovanie info. o platbe...</string>	
     <string name="resource_purchase_waiting_payment">Čakanie na info. o platbe...</string>
