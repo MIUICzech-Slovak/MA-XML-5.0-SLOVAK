@@ -2979,7 +2979,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="virus_scan_app_waiting">Čaká na skenovanie</string>
     <string name="virus_scan_can_use_wifi">Použiť online databázu vírusov</string>
     <string name="virus_scan_clean_dialog_message">Čistenie...</string>
-    <string name="virus_scan_clear">Vyčistiť</string>
+    <string name="virus_scan_clear">Čisté</string>
     <string name="virus_scan_dangerous">Riziko</string>
     <string name="virus_scan_description">"Táto aplikácia je riziková pre Vašu bezpečnosť."</string>
     <string name="virus_scan_file_type_risk_apk">Podozrivá aplikácia (.apk balíček)</string>
