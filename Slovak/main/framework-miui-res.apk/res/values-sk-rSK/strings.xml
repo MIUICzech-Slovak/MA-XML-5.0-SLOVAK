@@ -37,7 +37,7 @@
     <string name="err_resource_leak">Žiaľ, aplikácia %1$s bola ukončená z dôvodu vysokého využitia pamäte RAM.</string>
     <string name="error_forbidden">Váš účet má nejaké problémy. Synchronizácia je vypnutá.</string>
     <string name="error_not_acceptable">Server má problémy. Synchronizácia je vypnutá.</string>
-    <string name="error_title">Chyba synchr. pre %s</string>	
+    <string name="error_title">Chyba synchronizácia</string>	
     <string name="error_unauthorized">Príliš veľa chýb pre autorizáciu účtu. Synchronizácia je vypnutá.</string>
     <string name="every_day">Denne</string>
     <string name="experimental_validate">Overiť</string>
