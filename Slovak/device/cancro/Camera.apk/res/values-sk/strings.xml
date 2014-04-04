@@ -296,6 +296,8 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_picturesize_professional_entry_1440x1080">1.6MP (1440x1080)</string>
   <string name="pref_camera_picturesize_professional_entry_1440x816">1.2MP (1440x816)</string>
   <string name="pref_camera_picturesize_professional_entry_1600x1200">2MP (1600x1200)</string>
+  <string name="pref_camera_picturesize_professional_entry_1472x1104">1.6MP (1472x1104)</string>
+  <string name="pref_camera_picturesize_professional_entry_1472x832">1.2MP (1472x832)</string>
   <string name="pref_camera_picturesize_professional_entry_1920x1080">2MP (1920x1088)</string>
   <string name="pref_camera_picturesize_professional_entry_1920x1088">2M  (1920x1088)</string>
   <string name="pref_camera_picturesize_professional_entry_2048x1536">3MP (2048x1536)</string>

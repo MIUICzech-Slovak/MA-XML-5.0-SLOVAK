@@ -265,9 +265,10 @@
     <string name="subscribe_all">Prihlásiť</string>
     <string name="enter_calendar">Kalendár</string>
     <string name="pref_title_no_remind">Žiadne upozornenie</string>
-    <string name="pref_title_notification_remind">Upozornenie</string>
+    <string name="pref_title_notification_remind">Upozornenie v roletke</string>
     <string name="pref_title_alert_remind">Vyskakovacie okno</string>
     <string name="huangli_label">Huang Li</string>
     <string name="holiday_label">Voľno</string>
     <string name="action_bar_today">D</string>
+    <string name="pref_title_alarm_remind">Zvukové upozornenie</string>
 </resources>
