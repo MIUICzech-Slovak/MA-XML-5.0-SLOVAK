@@ -10,7 +10,6 @@
     <string name="auth_notif_message">Vložte kľúč k spárovaniu s %1$s</string>	
     <string name="auth_notif_ticker">Obex požiadavka na overenie</string>	
     <string name="auth_notif_title">Kľúč spárovania</string>	
-    <string name="bluetooth_share_file_name">bluetooth_content_share</string>
     <string name="bpp_authentication_timeout_message">Čas pre vloženie bezpečnostného kľúča s %1$s vypršal</string>
     <string name="bpp_cancel">Zrušiť</string>
     <string name="bpp_main">Tlač cez Bluetooth</string>
@@ -120,9 +119,7 @@ Prijať súbor?"</string>
     <string name="permlab_bluetoothShareManager">Prístup k Správcovi sťahovania.</string>
     <string name="permlab_bluetoothWhitelist">Povolené bluetooth zariadenia.</string>
     <string name="permlab_handoverStatus">Prijať BT handover transfer broadcasts.</string>
-    <string name="process"/>	
     <string name="share_prepare">Príprava zdieľania cez Bluetooth</string>
-    <string name="sharedUserId"/>	
     <string name="start_server">Spustiť TCP server</string>	
     <string name="status_bpp_aborted_by_printer">Tlačenie bolo zrušené tlačiarňou</string>
     <string name="status_bpp_canceled_by_user">Tlačenie bolo zrušené užívateľom</string>
