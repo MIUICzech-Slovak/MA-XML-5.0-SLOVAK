@@ -1666,7 +1666,7 @@ skúste:
     <string name="notification_pulse_title">Blikať kontrolkou oznámení</string>	
     <string name="notification_sound_dialog_title">Zvoliť vyzváňací tón oznámení</string>	
     <string name="notification_sound_title">Predvolené oznámenie</string>	
-    <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s. Mali by ste ich prečistiť.</string>	
+    <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s</string>	
     <string name="notification_title_firewall_blocked">Blokované</string>	
     <string name="notification_title_of_garbage_cleanup">Upozornenie na odpad</string>	
     <string name="notification_vibrate_abbreviation">Notifikácie</string>	
