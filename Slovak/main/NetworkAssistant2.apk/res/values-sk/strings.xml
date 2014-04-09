@@ -127,7 +127,7 @@ Využité"</string>
     <string name="pref_package_traffic_settings">Limit mobilných dát</string>
     <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčku</string>
     <string name="pref_setting_operators_message">Upraviť správu ktorú odosiela vaše zariadenie operátorovi pre kontrolu vašej spotreby dát</string>
-    <string name="pref_show_mobile_traffic">Po odomknutí vášho zariadenia, zobraziť stav spotreby dát počas doby kedy bolo zariadenie uzamknuté (musí byť dlhšie ako 3 minúty)</string>
+    <string name="pref_show_mobile_traffic">Po odomknutí vášho zariadenia, zobraziť stav spotreby dát počas doby kedy bolo zariadenie uzamknuté (musí byť dlhšie ako 5 minút)</string>
     <string name="pref_special_traffic_exceed_limit">Upozorniť ma ak som dosiahol limit</string>
     <string name="pref_special_traffic_limit_warn">Nastaviť upozornenie</string>
     <string name="pref_specified_adjust">Nastaviť vlastný limit dát</string>
