@@ -71,5 +71,5 @@
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Pripojte MiKey</string>
-    <string name="task_title_prefix">"Akcia: "</string>
+    <string name="task_title_prefix">"Akcia N: "</string>
 </resources>
