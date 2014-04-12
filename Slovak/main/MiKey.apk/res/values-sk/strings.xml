@@ -48,8 +48,8 @@
     <string name="earphone">Slúchadlá</string>
     <string name="select_device">Čo ste pripojili?</string>
     <string name="times">krát</string>
-    <string name="rank_prefix">Hodnotenie:</string>
-    <string name="rank_suffix">bit</string>
+    <string name="rank_prefix">"Hodnotenie: "</string>
+    <string name="rank_suffix">bodov</string>
     <string name="no_usage">...</string>
     <string name="device_not_recognized">Pripojené zariadenie nie je rozpoznané. Skúste to znova.</string>
     <string name="clean_memory">Pamäť vyčistená</string>
