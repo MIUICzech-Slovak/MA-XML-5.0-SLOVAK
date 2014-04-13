@@ -92,6 +92,7 @@ sa dotknete štítkom telefónu"</string>
     <string name="display">Displej</string>
     <string name="sound">Zvuk</string>
     <string name="mode">režim</string>
+    <string name="personal">Osobné</string>
     <string name="communication">Telefón</string>
     <string name="shortcut">Rýchle úlohy</string>
     <string name="wifi">Wi-Fi</string>
@@ -182,6 +183,9 @@ priložte ďalší NFC štítok."</string>
     <string name="miui_ringer_mode">Režim zvonenia</string>
     <string name="ringer_normal">Zvoniť</string>
     <string name="ringer_silent">Stíšené</string>
+    <string name="gps">GPS</string>
+    <string name="data">Dáta</string>
+    <string name="data_net">Mobilná sieť</string>
     <string name="dialog_select_account">Vyberte účet</string>
     <string name="toast_import_failed">Import kontaktu zlyhal</string>
     <string name="xiaomi_update_dialog_title">%1$s aktualizácia!</string>
