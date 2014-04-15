@@ -12,14 +12,14 @@
     <string-array name="pref_content_plugins_choices">
         <item>Vždy zapnuté</item>
         <item>Opýtať sa</item>
-	<item>Vždy vypnuté</item>
+	    <item>Vždy vypnuté</item>
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Úvodná stránka</item>
         <item>Iná</item>
     </string-array>		
     <string-array name="pref_text_size_choices">
-	<item>Veľmi malý</item>
+	    <item>Veľmi malý</item>
         <item>Malý</item>
         <item>Normálny</item>
         <item>Veľký</item>
@@ -44,9 +44,9 @@
         <item>Prepnutie karty</item>
     </string-array>    
     <string-array name="pref_link_prefetch_choices">
-       <item>Nikdy</item>
-       <item>Iba na Wi-Fi</item>
-       <item>Vždy</item>
+        <item>Nikdy</item>
+        <item>Iba na Wi-Fi</item>
+        <item>Vždy</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
         <item>Nikdy</item>

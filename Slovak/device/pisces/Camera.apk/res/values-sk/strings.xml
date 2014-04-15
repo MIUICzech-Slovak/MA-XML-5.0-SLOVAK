@@ -495,4 +495,20 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="pref_camera_coloreffect_entry_none">Normálne</string>
+  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_vivid">Živé</string>
+  <string name="pref_camera_coloreffect_entry_yesteryear">Silvester</string>
+  <string name="pref_camera_coloreffect_entry_brannan">Svitanie</string>
+  <string name="pref_camera_coloreffect_entry_sketch">Kresba</string>
+  <string name="pref_camera_coloreffect_entry_seventy">1970</string>
+  <string name="pref_camera_coloreffect_entry_fisheye">Rybie oko</string>
+  <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
+  <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
+  <string name="pref_camera_coloreffect_entry_mosaic">Mozaika</string>
+  <string name="pref_camera_coloreffect_entry_earlybird">Jeseň</string>
+  <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
+  <string name="pref_camera_coloreffect_entry_planet">Malý svet</string>
+  <string name="pref_camera_coloreffect_entry_mirror">Zrkadlo</string>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Rozmazané</string>
 </resources>
