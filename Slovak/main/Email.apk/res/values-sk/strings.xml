@@ -223,7 +223,7 @@
   <string name="auto_sync_off">Automatická synchronizácia je vypnutá.</string>
   <string name="bcc">Skrytá kópia</string>
   <string name="bcc_heading">"Sk. kópia: "</string>
-  <string name="body_hint">Napísať e-mail</string>
+  <string name="body_hint">Text správy</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_action">Zrušiť</string>
@@ -235,7 +235,7 @@
   <string name="cc">Kópia</string>
   <string name="cc_attribution">Kópia: %1$s&lt;br&gt;</string>
   <string name="cc_heading">"Kópia: "</string>
-  <string name="change_account_confirm">Účet \"%1$s\" bude odobraný z WPSMail.</string>
+  <string name="change_account_confirm">Účet \"%1$s\" bude odobraný</string>
   <string name="change_account_type">Zmeniť typ účtu</string>
   <string name="change_folders_selection_dialog_title">Zmeniť priečinky</string>
   <string name="change_sync_settings">Zmeniť nastav. synchronizácie</string>
@@ -247,7 +247,6 @@
   <string name="clear_display_images_whitelist_title">Vymazať schválenia obrázkov</string>
   <string name="collapse_recipient_details">Zbaliť podrobnosti o príjemcovi</string>
   <string name="compose">Napísať správu</string>
-  <string name="compose_help_context">vytvoriť</string>
   <string name="confirm">potvrdiť</string>
   <string name="confirm_discard_text">Zahodiť túto správu?</string>
   <string name="confirm_response">Odosiela sa odpoveď...</string>
@@ -285,14 +284,6 @@
   <string name="date_message_received">%1$s o %2$s</string>
   <string name="date_message_received_today">Dnes o %1$s</string>
   <string name="date_message_received_yesterday">Včera o %1$s</string>
-  <string name="debug_clear_webview_cache">Vyčistiť cache WebView</string>
-  <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
-  <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
-  <string name="debug_enable_file_logging_label">Enable sd card logging?</string>
-  <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
-  <string name="debug_enable_verbose_logging_label">Enable extremely verbose logging?</string>
-  <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
-  <string name="debug_title">Ladiť</string>
   <string name="delete">Odstrániť</string>
   <string name="deleted">Odstránené</string>
   <string name="device_admin_description">Povoľuje pravidlá zabezpečenia určené serverom</string>
@@ -402,8 +393,8 @@
   <string name="mark_important">Označiť ako dôležité</string>
   <string name="mark_not_important">Označiť ako nedôležité</string>
   <string name="mark_not_spam">Nahlásiť, že to nie je spam</string>
-  <string name="mark_read">Označiť ako prečítané</string>
-  <string name="mark_unread">Označiť ako neprečítané</string>
+  <string name="mark_read">Prečítané</string>
+  <string name="mark_unread">Neprečítané</string>
   <string name="me_object_pronun">ja</string>
   <string name="me_subject_pronun">ja</string>
   <string name="meeting_accepted">Prijaté: %s</string>
@@ -475,7 +466,7 @@ Kópia: %4$s
   <string name="no">Nie</string>
   <string name="no_application_found">Žiadna aplikácia nemôže otvoriť ani zobraziť túto prílohu.</string>
   <string name="no_conversations">Žiadne správy.</string>
-  <string name="no_mails">Žiadne emaily</string>
+  <string name="no_mails">Žiadne správy</string>
   <string name="no_matched_attachment">Žiadne prílohy sa nenašli!</string>
   <string name="non_synced_folder_description">Zobr. konverz., synchr. priečinok.</string>
   <string name="not_subject">Bez Predmetu</string>
@@ -578,7 +569,7 @@ Kópia: %4$s
   <string name="release_to_refresh">Pustite pre obnovenie</string>
   <string name="remote_folders_heading">Zložky servera</string>
   <string name="remove_account">Odobrať účet</string>
-  <string name="remove_account_confirm">Účet \"%1$s\" bude odobraný z WPSMail.</string>
+  <string name="remove_account_confirm">Účet \"%1$s\" bude odobraný</string>
   <string name="remove_folder">Odstrániť z priečinka %1$s</string>
   <string name="remove_star">Odstrániť hviezdičku</string>
   <string name="reply">Odpovedať</string>
