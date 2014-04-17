@@ -687,7 +687,6 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "&lt;b&gt;Sy
   <string name="wait_for_sync_body">Vaše správy sa čoskoro zobrazia.</string>
   <string name="wait_for_sync_body_2">Exchange Server vás v priebehu 1-30 sekúnd spojí. Potvrďte bezpečnostné nastavenia a aktivujte ho.</string>
   <string name="wait_for_sync_title">Čaká sa na synchronizáciu</string>
-  <string name="wait_help_context">čakajte</string>
   <string name="widget_all_mail">Všetky správy</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostatné</string>
