@@ -1004,7 +1004,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="enable_firewall">Blokovať nežiaduce hovory</string>	
     <string name="enable_opengl_traces_title">Povoliť trasovanie OpenGL</string>	
     <string name="enable_service_title">Použiť %1$s?</string>	
-    <string name="enable_snapshot_screenlock">Rýchle zhotovenie fotografie</string>
+    <string name="enable_snapshot_screenlock">Rýchla fotografia tl. Späť</string>
 	<string name="enable_text">Povoliť</string>	
     <string name="enable_traces_dialog_title">Zvoľte zapnuté stopy</string>	
     <string name="enable_traces_summary_all">Všetky</string>	
