@@ -195,11 +195,11 @@
   <string name="archive">Archivovať</string>
   <string name="archived">Archivované</string>
   <string name="att_mgr_no_attachment">Žiadne prílohy!</string>
-  <string name="att_mgr_title_order_mime">Formát</string>
-  <string name="att_mgr_title_order_name">Názov</string>
-  <string name="att_mgr_title_order_rev_date">Dátum</string>
-  <string name="att_mgr_title_order_sender">Odosilateľ</string>
-  <string name="att_mgr_title_order_size">Veľkosť</string>  
+  <string name="att_mgr_title_order_mime">Formátu</string>
+  <string name="att_mgr_title_order_name">Názvu</string>
+  <string name="att_mgr_title_order_rev_date">Dátumu</string>
+  <string name="att_mgr_title_order_sender">Odosilateľa</string>
+  <string name="att_mgr_title_order_size">Veľkosti</string>  
   <string name="attached_message">Priložená správa</string>
   <string name="attachment_application_msword">Dokument</string>
   <string name="attachment_application_pdf">PDF</string>
@@ -629,7 +629,7 @@ Kópia: %4$s
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
-  <string name="sort_attachment">Zoradiť</string>
+  <string name="sort_attachment">Zoradiť podľa</string>
   <string name="status_network_error">Problém s pripojením.</string>
   <string name="storage">Ukladací priestor</string>
   <string name="str_select_all">Všetko</string>
