@@ -15,6 +15,7 @@
     <string name="action_open_flashlight">Svietidlo</string>
     <string name="action_open_other_app">Aplikácia</string>
     <string name="action_open_camera">Fotoaparát</string>
+    <string name="action_open_camera2">Snímka</string>
     <string name="action_screen_shot">Screenshot</string>
     <string name="action_clear_sms_inbox">Vymazať SMS</string>
     <string name="action_clear_call_list">Vymazať zoznam hovorov</string>
@@ -28,6 +29,8 @@
     <string name="action_share_to_moment">Zdieľať na WeChat</string>
     <string name="action_share_to_weibo">Zdieľať na Weibo</string>
     <string name="action_send_text_message">SMS</string>
+    <string name="action_share_to_miliao">MiTalk</string>
+    <string name="action_share_to_miliao_wall">MiTalk</string>
     <string name="action_phone">Hovor</string>
     <string name="category_app">Aplikácie</string>
     <string name="category_system_settings">Systém</string>
@@ -71,5 +74,12 @@
     <string name="cn_10000">10000</string>
     <string name="cn_100000000">100000000</string>
     <string name="splash_tip">Pripojte MiKey</string>
+    <string name="default_action_title">Predvolená akcia</string>
+    <string name="action_home">DOMOV</string>
+    <string name="message_photo_end">Fotografia uložená</string>
+    <string name="select_camera">Vyberte fotoaparát</string>
+    <string name="front_camera">Predný</string>
+    <string name="back_camera">Zadný</string>
+    <string name="write_pic_fail">Chyba uloženia fotografie!</string>
     <string name="task_title_prefix">"Akcia N: "</string>
 </resources>
