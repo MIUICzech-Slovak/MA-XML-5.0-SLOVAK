@@ -39,7 +39,7 @@
   <string name="account_settings_exit_server_settings">Zahodiť neuložené zmeny?</string>
   <string name="account_settings_incoming_label">Nastavenia prichádzajúcej pošty</string>
   <string name="account_settings_incoming_summary">Používateľské meno, heslo a ďalšie nastavenia servera (prich.)</string>
-    <string name="account_settings_list_title">Vyberte vášho poskytovateľa služieb:</string>
+  <string name="account_settings_list_title">Vyberte vášho poskytovateľa služieb:</string>
   <string name="account_settings_login_dialog_content_fmt">Používateľské meno alebo heslo pre účet %s je nesprávne. Chcete ich aktualizovať?</string>
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Prihlásenie do účtu %s zlyhalo. Odpoveď servera: %s Chcete aktualizovať svoje používateľské meno alebo heslo?</string>
   <string name="account_settings_login_dialog_title">Prihlásenie sa nepodarilo</string>
@@ -164,7 +164,7 @@
   <string name="account_setup_outgoing_username_label">Používateľské meno</string>
   <string name="account_setup_security_policies_required_fmt">Server %s vyžaduje povolenie, aby mohol vzdialene ovládať niektoré funkcie zabezpečenia vášho zariadenia so systémom Android. Chcete dokončiť nastavenie tohto účtu?</string>
   <string name="account_setup_security_required_title">Vzdialená správa zabezpečenia</string>
-    <string name="account_setup_service_not_set">Pokračujte v nastavení emailu</string>
+  <string name="account_setup_service_not_set">Pokračujte v nastavení emailu</string>
   <string name="account_setup_username_password_toast">Zadajte platnú e-mailovú adresu a heslo.</string>
   <string name="account_setup_username_uneditable_error">Používateľské meno účtu nemôžete zmeniť. Ak chcete pridať účet s iným používateľským menom, dotknite sa možnosti Pridať účet.</string>
   <string name="account_sync_off">Synchronizácia účtu je vypnutá.</string>
@@ -476,7 +476,7 @@ Kópia: %4$s
   <string name="notification_action_undo_archive">Archivované</string>
   <string name="notification_action_undo_delete">Odstránené</string>
   <string name="notification_action_undo_remove_label">Menovka bola odstránená</string>
- <string name="notification_exchange_calendar_added">Pridaný Exchange kalendár</string>
+  <string name="notification_exchange_calendar_added">Pridaný Exchange kalendár</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="other_mail">Iný email</string>
@@ -573,6 +573,7 @@ Kópia: %4$s
   <string name="reply_attribution" formatted="false">Dňa %s používateľ %s napísal:</string>
   <string name="replyto_heading">"Odpovedať: "</string>
   <string name="report">Prehľad</string>
+  <string name="report_phishing">Nahlásiť neopráv. získ. údajov</string>
   <string name="report_spam">Nahlásiť spam</string>
   <string name="require_manual_sync_message">Synchronizácia na pozadí je pre tento účet v roamingu zakázaná.</string>
   <string name="respond_inline">Vložená odpoveď</string>
