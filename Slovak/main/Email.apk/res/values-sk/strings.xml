@@ -14,7 +14,6 @@
   <string name="abc_searchview_description_voice">Hlasové vyhľadávanie</string>
   <string name="abc_shareactionprovider_share_with">Zdieľať</string>
   <string name="abc_shareactionprovider_share_with_application">Zdieľať s %s</string>
-  <string name="account_cache_provider">Account Cache Provider</string>
   <string name="account_duplicate_dlg_message_fmt">Toto používateľské meno už používate pre účet „%s“.</string>
   <string name="account_duplicate_dlg_title">Duplikovať účet</string>
   <string name="account_folder_list_summary_drafts">Koncepty</string>
@@ -273,7 +272,6 @@
   <string name="contextmenu_send_mail">Poslať e-mail</string>
   <string name="contextmenu_sharelink">Zdieľať odkaz</string>
   <string name="contextmenu_sms_dot">SMS…</string>
-  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Presunuté do priečinka %1$s</string>
   <string name="conversation_photo_welcome_text">Dotknutím sa obrázka odosielateľa vyberiete danú konverzáciu.</string>
   <string name="copy_email">Kopírovať e-mailovú adresu</string>
@@ -339,7 +337,6 @@
   <string name="forward_attribution_no_headers">---------- Správa poslaná ďalej ----------</string>
   <string name="forward_download_failed_ticker">Nepodarilo sa poslať ďalej jednu alebo viac príloh.</string>
   <string name="forward_download_failed_title">Príloha nebola poslaná ďalej</string>
-  <string name="forward_subject_label">Fwd:</string>
   <string name="from">Od</string>
   <string name="from_heading">"Od: "</string>
   <string name="general_preference_confirm_delete_label">Pred odstránením potvrdiť</string>
@@ -449,7 +446,6 @@ Kópia: %4$s
   <string name="message_invite_title">Pozvánka kalendára</string>
   <string name="message_saved">Správa bola uložená ako koncept.</string>
   <string name="message_view_attachment_background_load">Pred odoslaním sa prevezme jedna alebo viacero príloh zo správy posielanej ďalej.</string>
-  <string name="mock_content_provider">Mock Content Provider</string>
   <string name="more_atts_total">Príloh: %1$d</string>
   <string name="more_info_attachment">Informácie</string>
   <string name="more_string">+%1$s</string>
@@ -577,11 +573,6 @@ Kópia: %4$s
   <string name="reply_attribution" formatted="false">Dňa %s používateľ %s napísal:</string>
   <string name="replyto_heading">"Odpovedať: "</string>
   <string name="report">Prehľad</string>
-  <string name="report_phishing">Nahlásiť neopráv. získ. údajov</string>
-  <string name="report_rendering_improvement">Looks good</string>
-  <string name="report_rendering_improvement_desc">This message looks good.</string>
-  <string name="report_rendering_problem">Looks bad</string>
-  <string name="report_rendering_problem_desc">This message looks bad.</string>
   <string name="report_spam">Nahlásiť spam</string>
   <string name="require_manual_sync_message">Synchronizácia na pozadí je pre tento účet v roamingu zakázaná.</string>
   <string name="respond_inline">Vložená odpoveď</string>
