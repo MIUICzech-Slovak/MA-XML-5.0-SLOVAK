@@ -650,7 +650,7 @@ Kópia: %4$s
   <string name="too_large_to_attach_multiple">Jeden alebo viacero súborov nie je priložených. Limit: %1$s</string>
   <string name="too_large_to_attach_single">Súbor väčší ako %1$s nie je možné priložiť.</string>
   <string name="trash_folder_selection_title">Priečinok Kôš servera pre %s</string>
-  <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch (nie iba v službe Gmail), budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>
+  <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch, budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnúť</string>
   <string name="turn_auto_sync_on_dialog_title">Zapnúť automatickú synchronizáciu?</string>
   <string name="undo">Späť</string>

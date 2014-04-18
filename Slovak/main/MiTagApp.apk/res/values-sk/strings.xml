@@ -124,8 +124,8 @@ priložte ďalší NFC štítok."</string>
     <string name="deleting">Mazanie...</string>
     <string name="auto_brightness">Automatický jas</string>
     <string name="auto_brightness_on_off">Automatický jas %s</string>
-    <string name="on">Zapnutý</string>
-    <string name="off">Vypnutý</string>
+    <string name="on">Zapnúť</string>
+    <string name="off">Vypnúť</string>
     <string name="toggle">Prepnúť</string>
     <string name="brightness">Jas</string>
     <string name="bluetooth">Bluetooth</string>
