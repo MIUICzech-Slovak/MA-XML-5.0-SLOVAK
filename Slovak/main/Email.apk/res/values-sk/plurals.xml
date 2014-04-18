@@ -25,7 +25,7 @@
         <item quantity="one">Vybraných: 1</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">Presunúť konverzácie (počet: %1$d)</item>
+        <item quantity="other">Presunúť konverzácie (%1$d)</item>
         <item quantity="one">Presunúť konverzáciu</item>
     </plurals>
     <plurals name="draft">
@@ -33,7 +33,7 @@
         <item quantity="one">Koncept</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Odstrániť tieto konverzácie (počet: %1$d)?</item>
+        <item quantity="other">Odstrániť konverzácie (%1$d)?</item>
         <item quantity="one">Odstrániť túto konverzáciu?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
@@ -41,44 +41,44 @@
         <item quantity="one">Táto konverzácia má zlúčené položky, chcete ich všetky vymazať?</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
-        <item quantity="other">Archivovať tieto konverzácie (počet: %1$d)?</item>
+        <item quantity="other">Archivovať konverzácie (%1$d)?</item>
         <item quantity="one">Archivovať túto konverzáciu?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">Zahodiť koncepty z týchto konverzácií (počet: %1$d)?</item>
+        <item quantity="other">Zahodiť koncepty z konverzácií (%1$d)?</item>
         <item quantity="one">Zahodiť koncepty z tejto konverzácie?</item>
     </plurals>
     <plurals name="conversation_unstarred">
-        <item quantity="other">Zrušenie označenia hviezdičkou (počet konverzácií: %1$d).</item>
-        <item quantity="one">Zrušenie označenia hviezdičkou (počet konverzácií: %1$d).</item>
+        <item quantity="other">Zrušenie označenia hviezdičkou (%1$d).</item>
+        <item quantity="one">Zrušenie označenia hviezdičkou (%1$d).</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">Konverzácie boli ignorované (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
-        <item quantity="one">Konverzácie boli ignorované (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
+        <item quantity="other">Konverzácie boli ignorované (%1$d).</item>
+        <item quantity="one">Konverzácie boli ignorované (%1$d).</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">Konverzácie boli nahlásené ako spam (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
-        <item quantity="one">Konverzácie boli nahlásené ako spam (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
+        <item quantity="other">Konverzácie boli nahlásené ako spam (%1$d).</item>
+        <item quantity="one">Konverzácie boli nahlásené ako spam (%1$d).</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">Počet konverzácií, ktoré boli nahlásené ako Nie je to spam: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Počet konverzácií, ktoré boli nahlásené ako Nie je to spam: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Počet konverzácií, ktoré boli nahlásené ako Nie je to spam: (%1$d)</item>
+        <item quantity="one">Počet konverzácií, ktoré boli nahlásené ako Nie je to spam: (%1$d)</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">Konverzácie boli označené ako nedôležité (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
-        <item quantity="one">Konverzácie boli označené ako nedôležité (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
+        <item quantity="other">Konverzácie boli označené ako nedôležité (%1$d).</item>
+        <item quantity="one">Konverzácie boli označené ako nedôležité (%1$d).</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">Počet konverzácií nahlásených ako phishing: &amp;lt;b>%1$d&amp;lt;/b></item>
-        <item quantity="one">Počet konverzácií nahlásených ako phishing: &amp;lt;b>%1$d&amp;lt;/b></item>
+        <item quantity="other">Počet konverzácií nahlásených ako phishing: (%1$d)</item>
+        <item quantity="one">Počet konverzácií nahlásených ako phishing: (%1$d)</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">Konverzácie boli archivované (počet: &amp;lt;b>%1$d&amp;lt;/b>)</item>
-        <item quantity="one">Konverzácie boli archivované (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
+        <item quantity="other">Konverzácie boli archivované (%1$d).</item>
+        <item quantity="one">Konverzácie boli archivované (%1$d).</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">Konverzácie boli odstránené (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
-        <item quantity="one">Konverzácie boli odstránené (počet: &amp;lt;b>%1$d&amp;lt;/b>).</item>
+        <item quantity="other">Konverzácie boli odstránené (%1$d).</item>
+        <item quantity="one">Konverzácie boli odstránené (%1$d).</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Zmenené priečinky.</item>
@@ -94,7 +94,7 @@
         <item quantity="other">Počet neprečítaných správ: %1$d</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
-        <item quantity="other">Správy (počet: %1$d) sa natrvalo odstránia.</item>
+        <item quantity="other">Správy (%1$d) sa natrvalo odstránia.</item>
         <item quantity="one">%1$d správa sa natrvalo odstráni.</item>
     </plurals>
 </resources>
