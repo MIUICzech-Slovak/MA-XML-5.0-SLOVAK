@@ -334,7 +334,7 @@
   <string name="folder_shortcut_widget_label">Priečinok aplikácie E-mail</string>
   <string name="forward">Poslať ďalej</string>
   <string name="forward_attachment">Poslať ďalej</string>
-  <string name="forward_attribution">---------- Preposlaná správa ---------&lt;br&gt;Od: %1$s&lt;br&gt;Dátum: %2$s&lt;br&gt;Predmet: %3$s&lt;br&gt;Komu: %4$s&lt;br&gt;</string>
+  <string name="forward_attribution">---------- Preposlaná správa --------- Od: %1$s, Dátum: %2$s, Predmet: %3$s, Komu: %4$s,</string>
   <string name="forward_attribution_no_headers">---------- Správa poslaná ďalej ----------</string>
   <string name="forward_download_failed_ticker">Nepodarilo sa poslať ďalej jednu alebo viac príloh.</string>
   <string name="forward_download_failed_title">Príloha nebola poslaná ďalej</string>
@@ -667,7 +667,7 @@ Kópia: %4$s
   <string name="via_domain">cez %1$s</string>
   <string name="view_more_conversations">Zobraziť ďalšie konverzácie</string>
   <string name="wait_for_manual_sync_body">"Tento účet nie je nastavený na automatickú synchronizáciu.
-Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "&lt;b&gt;Synchronizova&amp;#357;&lt;/b&gt;. Ak chcete nastavi&amp;#357;, aby &amp;#250;&amp;#269;et synchronizoval e-maily automaticky, dotknite sa polo&amp;#382;ky &lt;b&gt;Zmeni&amp;#357; nastavenia synchroniz&amp;#225;cie&lt;/b&gt;.</string>
+Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizovať". Ak chcete nastaviť, aby účet synchronizoval e-maily automaticky, dotknite sa položky "Zmeniť nastavenia synchronizácie".</string>
   <string name="wait_for_sync_body">Vaše správy sa čoskoro zobrazia.</string>
   <string name="wait_for_sync_body_2">Exchange Server vás v priebehu 1-30 sekúnd spojí. Potvrďte bezpečnostné nastavenia a aktivujte ho.</string>
   <string name="wait_for_sync_title">Čaká sa na synchronizáciu</string>
