@@ -452,7 +452,7 @@ Kópia: %4$s
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Presunúť do</string>
-  <string name="multiple_new_message_notification_item">&lt;b&gt;%1$s&lt;/b&gt; %2$s</string>
+    <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="mute">Ignorovať</string>
   <string name="name_or_number_is_error">Chybné meno alebo heslo</string>
   <string name="net_check_title">Chyba siete, skontrolujte nastavenia。</string>
