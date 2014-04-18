@@ -389,9 +389,9 @@
     <string name="pref_privacy_clear_form_data">Vymazať údaje formulára</string>	
     <string name="pref_privacy_clear_form_data_dlg">Vymazať všetky uložené údaje formulára?</string>	
     <string name="pref_privacy_clear_form_data_summary">Vymazať všetky uložené údaje formulára</string>	
-    <string name="pref_privacy_clear_geolocation_access">Vymazať prístup k umiestneniu</string>	
-    <string name="pref_privacy_clear_geolocation_access_dlg">Vymazať prístup stránok k umiestneniu?</string>	
-    <string name="pref_privacy_clear_geolocation_access_summary">Vymazať prístup k umiestneniu pre všetky stránky?</string>	
+    <string name="pref_privacy_clear_geolocation_access">Vymazať prístup k polohe</string>	
+    <string name="pref_privacy_clear_geolocation_access_dlg">Vymazať prístup stránok k polohe?</string>	
+    <string name="pref_privacy_clear_geolocation_access_summary">Vymazať prístup k polohe pre všetky stránky?</string>	
     <string name="pref_privacy_clear_history">Vymazať históriu</string>	
     <string name="pref_privacy_clear_history_by_group_dlg">Vymazať históriu prehliadania?</string>	
     <string name="pref_privacy_clear_history_dlg">Vymazať históriu prehliadania?</string>
