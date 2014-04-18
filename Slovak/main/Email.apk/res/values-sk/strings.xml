@@ -282,6 +282,7 @@
   <string name="date_message_received">%1$s o %2$s</string>
   <string name="date_message_received_today">Dnes o %1$s</string>
   <string name="date_message_received_yesterday">Včera o %1$s</string>
+  <string name="default_setup">PREDVOLENÉ NASTAVENIA</string>
   <string name="delete">Odstrániť</string>
   <string name="deleted">Odstránené</string>
   <string name="device_admin_description">Povoľuje pravidlá zabezpečenia určené serverom</string>
