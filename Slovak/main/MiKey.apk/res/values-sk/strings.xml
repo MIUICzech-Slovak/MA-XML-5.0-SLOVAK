@@ -78,8 +78,8 @@
     <string name="action_home">DOMOV</string>
     <string name="message_photo_end">Fotografia uložená</string>
     <string name="select_camera">Vyberte fotoaparát</string>
-    <string name="front_camera">Predný</string>
-    <string name="back_camera">Zadný</string>
+    <string name="front_camera">Predný fotoaparát</string>
+    <string name="back_camera">Zadný fotoaparát</string>
     <string name="write_pic_fail">Chyba uloženia fotografie!</string>
     <string name="task_title_prefix">"Akcia N: "</string>
 </resources>
