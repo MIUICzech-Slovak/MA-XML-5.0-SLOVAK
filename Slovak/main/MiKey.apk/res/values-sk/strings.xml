@@ -15,7 +15,7 @@
     <string name="action_open_flashlight">Svietidlo</string>
     <string name="action_open_other_app">Aplikácia</string>
     <string name="action_open_camera">Fotoaparát</string>
-    <string name="action_open_camera2">Snímka</string>
+    <string name="action_open_camera2">Fotografia</string>
     <string name="action_screen_shot">Screenshot</string>
     <string name="action_clear_sms_inbox">Vymazať SMS</string>
     <string name="action_clear_call_list">Vymazať zoznam hovorov</string>
