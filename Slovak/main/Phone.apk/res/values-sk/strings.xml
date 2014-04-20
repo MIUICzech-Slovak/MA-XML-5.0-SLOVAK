@@ -19,7 +19,6 @@
     <string name="administrative_disable">Administratívne zakázané</string>
     <string name="administrative_enable">Administratívne povolené</string>
     <string name="advanced_settings">Pokročilé nastavenia</string>
-    <string name="advanced_settings_container">Pokročilé nastavenie kontajneru</string>
     <string name="advanced_settings_hide">▽ Stlačiť pre schovanie všetkého</string>
     <string name="advanced_settings_show">▷ Stlačiť pre zobrazenie všetkého</string>
     <string name="advertisements_disable">Reklamy zakázané</string>
@@ -58,7 +57,6 @@
     <string name="audio_mode_earpiece">Náhlavná súprava</string>
     <string name="audio_mode_speaker">Reproduktor</string>
     <string name="audio_mode_wired_headset">Káblový headset</string>
-    <string name="auth_username">Autentifikačné užívateľské meno</string>
     <string name="auth_username_summary">Užívateľské meno pre overenie</string>
     <string name="auth_username_title">Užívateľské meno</string>
     <string name="auto_answer_delay_entries_delay_10s_miui">10s</string>
@@ -385,10 +383,8 @@
     <string name="disable_pin_ok">Kód PIN karty SIM je ZAKÁZANÝ.</string>
     <string name="disable_sim_pin">Zakázať kód PIN karty SIM</string>
     <string name="disable_sim_pin_miui">Vypnúť SIM PIN</string>
-    <string name="display_name">Zobrazené meno</string>
     <string name="display_name_summary">&lt;Rovnaké ako meno&gt;</string>
     <string name="display_name_title">Zobrazované meno</string>
-    <string name="domain_address">SIP doména</string>
     <string name="domain_address_title">server</string>
     <string name="doneButton">Hotovo</string>
     <string name="dtmf_tone_enable_title">Zvuk dotyku kláves</string>
@@ -768,7 +764,6 @@
     <string name="ota_unsuccessful">"Telefón nebol aktivovaný. Možno bude nutné vyhľadať oblasť s lepším pokrytím (blízko okna alebo vonku). Skúste to znovu alebo kontaktujte oddelenie služieb zákazníkov.</string>
     <string name="other_settings">Ďalšie nastavenia hovorov</string>
     <string name="other_settings_miui">Iné nastavenia</string>
-    <string name="password">Heslo</string>
     <string name="password_changed">Heslo je úspešne zmenené</string>
     <string name="password_title">Heslo</string>
     <string name="pause_prompt_no">Nie</string>
@@ -806,7 +801,6 @@
     <string name="place_a_call1">Subscription 1</string>
     <string name="place_a_call2">Subscription 2</string>
     <string name="place_a_call3">Subscription 3</string>
-    <string name="port">Port</string>
     <string name="port_title">Číslo portu</string>
     <string name="pref_custom_location_summary_miui">Prispôsobenie lokalizácie a formátu čísel</string>
     <string name="pref_custom_location_title_miui">Prispôsobenie lokalizácie</string>
@@ -858,7 +852,6 @@
     <string name="progress_dialog_exiting_ecm">Ukončenie režimu Núdzového spätného hovoru</string>
     <string name="prompt">Prompt</string>
     <string name="prompt_user">Prompt User</string>
-    <string name="proxy_address">Proxy adresa</string>
     <string name="proxy_address_title">Adresa proxy</string>
     <string name="pstn_phone">Mobilný hovor</string>
     <string name="puk2_blocked">PUK2 je navždy zablokovaný.</string>
@@ -959,7 +952,6 @@
     <string name="select_network_automatic_hint_miui">"Nie je možné sa registrovať do siete, ktorú ste vybrali. Chcete vybrať preferovanú sieť automaticky?"</string>
     <string name="sendSms">Odoslať SMS</string>
     <string name="send_button">Odoslať</string>
-    <string name="send_keepalive">sendKeepAlive</string>
     <string name="send_keepalive_title">Odosielať keep-alive</string>
     <string name="separate_from_conference_miui">Individuálne hovory</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Výber preferovaného typu siete je dostupný len pri vypnutom dátovom pripojení</string>
@@ -1014,10 +1006,7 @@
     <string name="sip_accounts">Účty volania cez internet (SIP)</string>
     <string name="sip_accounts_title">Účty</string>
     <string name="sip_add_account_tip_text">Prosím vložte účet SIP pre používanie internetových volaní</string>
-    <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-    <string name="sip_always">SIP_ALWAYS</string>
     <string name="sip_always_send_keepalive">Vždy odosielať</string>
-    <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
     <string name="sip_call_options_entry_1">pre všetky hovory</string>
     <string name="sip_call_options_entry_2">Len pre internetové hovory</string>
     <string name="sip_call_options_entry_3">Vždy sa opýtať</string>
@@ -1116,7 +1105,6 @@
     <string name="throttle_time_frame">obdobie využitia dát</string>
     <string name="throttle_time_frame_subtext">"Prešlo %1$d٪ cyklu. Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
     <string name="title_data_settings">Nastavenie dát</string>
-    <string name="transport">Protocol</string>
     <string name="transport_title">Typ transportu</string>
     <string name="tty_mode_entries_full_miui">TTY Full</string>
     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
@@ -1146,7 +1134,6 @@
     <string name="use_ims_default">UseImsDefault</string>
     <string name="use_ims_default_summary">Use IMS for all voice calls</string>
     <string name="use_ims_default_title">Use IMS Always</string>
-    <string name="username">Meno užívateľa</string>
     <string name="username_title">Meno užívateľa</string>
     <string name="ussdRunning">Kód USSD je spustený...</string>
     <string name="vibrate_on_ring_title">Vibrovať pri zvonení</string>
