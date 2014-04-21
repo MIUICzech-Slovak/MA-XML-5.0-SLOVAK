@@ -646,4 +646,39 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Na obrazovke v podobe riadkov</item>
         <item>V adb shell dumpsys gfxinfo</item>
     </string-array>
+    <string-array name="captioning_font_size_selector_titles">
+        <item>Veľmi malé</item>
+        <item>Malé</item>
+        <item>Normálne</item>
+        <item>Veľké</item>
+        <item>Veľmi veľké</item>
+    </string-array>
+    <string-array name="captioning_edge_type_selector_titles">
+        <item>Žiadne</item>
+        <item>Obrys</item>
+        <item>Tieň</item>
+    </string-array>
+    <string-array name="captioning_preset_selector_titles">
+        <item>Biele na čiernom</item>
+        <item>Čierne na bielom</item>
+        <item>Žlté na čiernom</item>
+        <item>Žlté na modrom</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (ladenie)</item>
+    </string-array>
+    <string-array name="select_runtime_summaries">
+        <item>Použiť nástroj Dalvik</item>
+        <item>Použiť nástroj ART</item>
+        <item>Použiť zostavu na ladenie programu ART</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Vypnuté</item>
+        <item>Zobraziť oblasti prekreslení</item>
+        <item>Zobraziť oblasti pre deuteranomáliu</item>
+        <item>Zobraziť počítadlo prekreslení</item>
+    </string-array>
 </resources>
