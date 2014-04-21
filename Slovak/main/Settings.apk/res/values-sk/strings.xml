@@ -3712,9 +3712,6 @@ Nastavenia sú nedostupné"</string>
     <string name="set_data_subscription_progress">Nastavovanie dátového odberu..</string>
     <string name="set_dds_success">Dátový odber nastavený</string>
     <string name="set_dds_failed">Nemožno nastaviť dátový odber. Odstráňte existujúce dátové pripojenie a skúste to znova.</string>
-    <string name="set_dds_error">Nemožno nastaviť dátový odber</string>
-    <string name="set_sms_error">Nemožno nastaviť SMS odber, odber neaktívny</string>
-    <string name="set_voice_error">Nemožno nastaviť hlasový odber, odber neaktívny</string>
     <string name="set_priority_sub_error">Nemožno nastaviť prioritu odberu, odber neaktívny</string>
     <string name="prompt">Výzva</string>
     <string name="prompt_user">Vyzvať užívateľa</string>
@@ -3749,5 +3746,4 @@ Ak chcete získať viac informácií, kontaktujte svojho správcu."</string>
     <string name="restriction_settings_title">Obmedzenia</string>
     <string name="restriction_menu_change_pin">Zmeniť kód PIN</string>
     <string name="restriction_menu_reset">Odstrániť obmedzenia</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Bezdrôtový displej je zakázaný, pretože je vypnuté pripojenie Wi-Fi.</string>
 </resources>
