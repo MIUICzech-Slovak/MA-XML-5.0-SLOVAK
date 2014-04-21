@@ -421,7 +421,6 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="bluetooth_dun_connection_permission_request">Dun connection request</string>	
     <string name="bluetooth_dun_profile_summary_connected">Connected to DUN Server</string>	
     <string name="bluetooth_dun_profile_summary_not_connected">Not connected to DUN Server</string>	
-    <string name="bluetooth_dun_profile_summary_use_for">Use for Dial-up Network Access</string>	
     <string name="bluetooth_dun_remember_choice">"Don't ask again"</string>
     <string name="bluetooth_dun_request">DUN request</string>	
     <string name="bluetooth_empty_list_bluetooth_off">Ak chcete zobraziť zariadenia, zapnite Bluetooth.</string>	
@@ -430,7 +429,6 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte prístupový kľúč požadovaný zariadením:</string>	
     <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>	
     <string name="bluetooth_enter_pin_msg">Párovanie si zariadením:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Zadajte kód PIN požadovaný zariadením:</string>	
-    <string name="bluetooth_enter_pin_msg_hs">"Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"</string>
     <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>	
     <string name="bluetooth_error_title"/>
     <string name="bluetooth_ftp_acceptance_dialog_text">%1$s chce prístup k Vašim súborom a zložkám. Povoliť prístup %2$s?</string>	
@@ -486,22 +484,18 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>
     <string name="bluetooth_profile_a2dp">Zvuk médií</string>
     <string name="bluetooth_profile_details">Nastavenie profilu</string>	
-    <string name="bluetooth_profile_dun">Dial-up Network Access</string>	
     <string name="bluetooth_profile_headset">Zvuk telefónu</string>	
     <string name="bluetooth_profile_hid">Vstupné zariadenie</string>	
     <string name="bluetooth_profile_opp">Prenos súborov</string>
     <string name="bluetooth_profile_pan">Prístup k internetu</string>	
     <string name="bluetooth_profile_pan_nap">Zdieľanie internetového pripojenia</string>	
-    <string name="bluetooth_profile_sap">Prístup na SIM</string>	
     <string name="bluetooth_quick_toggle_summary">Zapnúť Bluetooth</string>	
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>	
     <string name="bluetooth_rename_button">Premenovať</string>	
     <string name="bluetooth_rename_device">Premenovať telefón</string>	
     <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>	
     <string name="bluetooth_sap_connection_permission_request">Sap connection request</string>	
-    <string name="bluetooth_sap_profile_summary_connected">Connected to SIM Access Server</string>	
     <string name="bluetooth_sap_profile_summary_not_connected">Not connected to SIM Access Server</string>	
-    <string name="bluetooth_sap_profile_summary_use_for">Use for SIM Access</string>	
     <string name="bluetooth_sap_remember_choice">"Don't ask again"</string>	
     <string name="bluetooth_sap_request">SAP request</string>	
     <string name="bluetooth_scan_for_devices">Vyhľadať zariadenia</string>	
@@ -535,8 +529,6 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="brightness_auto_adjust_on">Automatický jas môžete nastaviť posúvaním. Jas sa bude meniť v zavislosti na okolnom osvetlení a Vašom nastavení.</string>
     <string name="brightness_summary">Nastavenie jasu displeja</string>
     <string name="bssid_label">BSSID:</string>
-    <string name="bt_hci_snoop_log">Povoliť sledovanie Bluetooth HCI</string>	
-    <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>	
     <string name="bt_trace_log">Povoliť Bluetooth Trace log</string>	
     <string name="bt_trace_log_summary">Povoliť Bluetooth Trace log</string>	
     <string name="bugreport_in_power">Nahlasovať chyby z hlavnej ponuky</string>	
@@ -702,8 +694,6 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="current_use_uicc_se">Using secure element on SIM card</string>
     <string name="custom_mark_category">Vlastné</string>
     <string name="data_size_label">Dáta</string>	
-    <string name="data_summary">Select Subscription for Data Call</string>	
-    <string name="data_title">Data Call</string>	
     <string name="data_usage_app_restrict_background">Obmedziť dátové prenosy na pozadí</string>	
     <string name="data_usage_app_restrict_background_summary">Zakázať dáta na pozadí v mobilných sieťach. Používať siete Wi-Fi.</string>	
     <string name="data_usage_app_restrict_background_summary_disabled">Dáta na pozadí u aplikácie obmedzíte nastavením limitu mob. dát.</string>	
@@ -830,8 +820,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="development_enable">Povoliť vývoj</string>	
     <string name="development_settings_summary">Umožňuje nastaviť možnosti pre vývoj aplikácií</string>
     <string name="development_settings_title">Možnosti pre vývojárov</string>
-    <string name="device_additional_status">Ďalšie info o stave</string>
-    <string name="device_additional_status_summary">Číslo telefónu, Signál, IMEI, atď.</string>
     <string name="device_admin_add_title">Správca zariadenia</string>
     <string name="device_admin_settings_title">Nastavenie správcu zariadenia</string>
     <string name="device_admin_status">Správca je aktívny a umožňuje aplikácií %1$s vykonávať nasledujúce operácie:</string>
@@ -1626,8 +1614,6 @@ skúste:
     <string name="msg_update_error_code_success">Aktualizované</string>
     <string name="msg_update_error_code_unknown_error">Neznáma chyba, skúste to neskôr!</string>	
     <string name="msg_wlan_signal_found">Našiel sa Wi-Fi AP %s, chcete sa pripojiť k tejto sieti? Použitie tejto siete dočasne preruší dátové pripojenie.</string>	
-    <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>	
-	<string name="multi_sim_settings_title">Multi Sim Settings</string>
     <string name="multi_touch_points_category_title">Multidotykové body</string>	
     <string name="multi_touch_points_preference">Reštartovať pre zapnutie</string>	
     <string name="musicfx_title">Hudobné efekty</string>
@@ -2151,8 +2137,6 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
 	<string name="process_manage_title">Vyčistenie %1$d procesov, uvoľní %2$s pamäte</string>
 	<string name="process_manager_actionbar_title">Využitá pamäť</string>
 	<string name="process_mediaserver_label">Mediaserver</string>
-    <string name="process_provider_in_use_description">%1$s sa používa.</string>
-    <string name="process_service_in_use_description">%1$s sa používa.</string>
     <string name="profile_info_settings_title">Profil</string>
     <string name="progress_scanning">Hľadanie</string>
     <string name="protection_adb">USB ladenie</string>
@@ -2450,14 +2434,11 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="security_settings_premium_sms_desc">Odoslať prémiovú správu SMS</string>	
     <string name="security_settings_summary">Moja poloha, odomknutie obrazovky, zámok SIM, zámok úložiska poverení</string>	
     <string name="security_settings_title">Zabezpečenie</string>	
-    <string name="sel_sub_summary">Select the Subscription for SUB-1 and SUB-2</string>	
-    <string name="sel_sub_title">Configure Subscriptions</string>	
     <string name="select_all">Vybrať všetko</string>	
     <string name="select_application">Vybrať aplikáciu</string>	
     <string name="select_device_admin_msg">Správcovia zariadenia</string>	
     <string name="select_memory">Predvolené úložisko</string>	
     <string name="select_ssid_type_title">Výber SSID</string>
-    <string name="select_subscription">Select Subscription</string>
     <string name="selinux_status">Stav zabezpečenia SELinux</string>	
     <string name="selinux_status_disabled">Zakázané</string>	
     <string name="selinux_status_enforcing">Prísne</string>	
@@ -2471,12 +2452,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
 	<string name="service_started_by_app">Spustené aplikáciou.</string>	
     <string name="service_stop">Zastaviť</string>	
     <string name="service_stop_description">Táto služba bola spustená svojou aplikáciou. Pokiaľ ju zastavíte, môže dôjsť k zlyhaniu aplikácie.</string>
-	<string name="set_data_subscription_progress">Set data subscription in progress</string>	
-    <string name="set_dds_error">Error in set data subscription.</string>
-	<string name="set_dds_failed">Error in set data subscription. Clean up any existing data connection and try again.</string>
-	<string name="set_dds_success">Set data subscription success</string>
-	<string name="set_sms_error">Error in set sms subscription. Subscription not active.</string>
-	<string name="set_voice_error">Error in set voice subscription. Subscription not active.</string>
 	<string name="settings_backup">Nastavenie zálohovania</string>
 	<string name="settings_backup_summary">Zálohovať moje nastavenie</string>
         <string name="settings_button">Nastavenie</string>
@@ -2544,8 +2519,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="sim_management_title">Správa SIM karty</string>
     <string name="sim_pin_attempts">"Ostáva pokusov:"</string>
     <string name="sim_pin_change">Zmeniť kód PIN karty SIM</string>
-    <string name="sim_pin_disabled">PIN1 Deaktivovaný!</string>
-    <string name="sim_pin_enabled">PIN1 Povolený!</string>
     <string name="sim_pin_toggle">Zamknúť kartu SIM</string>
     <string name="sim_pins_dont_match">Kódy PIN nie sú zhodné</string>
     <string name="sim_reenter_new">Potvrďte nový kód PIN.</string>
@@ -2562,7 +2535,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="sms_over_ims_on">Zapnúť správy SMS prostredníctvom IMS</string>
     <string name="sms_received_sound_dialog_title">Vybrať zvuk prijatej správy</string>
     <string name="sms_received_sound_title">Zvuk prijatej správy</string>
-    <string name="sms_summary">Select the Subscription for Sending SMS</string>
     <string name="sms_title">SMS</string>
     <string name="sort_order_alpha">Zoradiť podľa mená</string>
     <string name="sort_order_size">Zoradiť podľa veľkosti</string>
@@ -3063,7 +3035,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="voice_input_output_settings">Hlasový vstup a výstup</string>
     <string name="voice_input_output_settings_title">Nastavenie hlasového vstupu a výstupu</string>
     <string name="voice_search_settings_title">Hlasové vyhľadávanie</string>
-    <string name="voice_summary">Select Subscription for Voice Call</string>
     <string name="voice_title">Voice/USSD/MMI</string>
     <string name="volume_alarm_description">Budíky</string>
     <string name="volume_alarm_mute">Stlmiť budíky</string>
@@ -3562,7 +3533,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="home_settings">Domov</string>
     <string name="sim_pin_change_failed_enable_sim_lock">Povoliť zámok karty SIM/RUIM pred zmenou PIN</string>
     <string name="sim_enable_disable_lock_not_supported">Zámok nie je podporovaný touto kartou SIM/RUIM</string>
-    <string name="sim_pin_attempts">\nZostávajúce pokusy:</string>
     <string name="sim_pin_enabled">Povolený PIN</string>
     <string name="sim_pin_disabled">Zakázaný PIN</string>
     <string name="wrong_pin_code_pukked">Nesprávny kód PIN karty SIM. Teraz musíte kontaktovať svojho operátora, aby vám odomkol zariadenie.</string>
@@ -3592,8 +3562,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="app_ops_settings_summary">Zobraziť alebo zmeniť oprávnenia apl.</string>
     <string name="bt_hci_snoop_log">Povoliť sledovanie Bluetooth HCI</string>
     <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
-    <string name="bt_trace_log">Enable Bluetooth Trace log</string>
-    <string name="bt_trace_log_summary">Enable Bluetooth trace log</string>
     <string name="select_runtime_title">Výber modulu spustenia</string>
     <string name="select_runtime_dialog_title">Výber modulu spustenia</string>
     <string name="select_runtime_warning_message">Chcete vykonať reštart a zmeniť čas spustenia z %1$s na %2$s?</string>
@@ -3703,11 +3671,9 @@ Nastavenia sú nedostupné"</string>
     <string name="subs_settings">Stav odberu</string>
     <string name="multi_sim_settings_title">Nastavenia viacerých SIM</string>
     <string name="multi_sim_settings_summary">Nastavenia viacerých SIM pre hlas, dáta a SMS</string>
-    <string name="voice_title">Voice/USSD/MMI</string>
     <string name="voice_summary">Vybrať odber pre hlasové hovory</string>
     <string name="data_title">Dátové hovory</string>
     <string name="data_summary">Vybrať odber pre dátové hovory</string>
-    <string name="sms_title">SMS</string>
     <string name="sms_summary">Vybrať odber pre odosielanie SMS</string>
     <string name="set_data_subscription_progress">Nastavovanie dátového odberu..</string>
     <string name="set_dds_success">Dátový odber nastavený</string>
