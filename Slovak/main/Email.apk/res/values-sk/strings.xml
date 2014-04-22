@@ -497,8 +497,8 @@ Kópia: %4$s
   <string name="phone">telefón</string>
   <string name="photo_load_failed">Obrázok sa nepodarilo načítať</string>
   <string name="photo_view_count" formatted="false">%d z %d</string>
-  <string name="please_fill_in_your_mailbox_information">Prosím vyplňte vaše %s detaily:</string>
-  <string name="please_fill_in_your_mailbox_information2">Prosím vyplňte vaše detaily:</string>
+  <string name="please_fill_in_your_mailbox_information">Zadajte vaše %s nastavenia:</string>
+  <string name="please_fill_in_your_mailbox_information2">Zadajte vaše nastavenia:</string>
   <string name="please_wait">Čakajte prosím...</string>
   <string name="policy_app_blacklist">Zakázať vybrané aplikácie</string>
   <string name="policy_app_whitelist">Povoliť vybrané aplikácie</string>
