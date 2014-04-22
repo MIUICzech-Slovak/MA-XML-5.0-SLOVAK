@@ -466,7 +466,7 @@ Kópia: %4$s
   <string name="no_mails">Žiadne správy</string>
   <string name="no_matched_attachment">Žiadne prílohy sa nenašli!</string>
   <string name="non_synced_folder_description">Zobr. konverz., synchr. priečinok.</string>
-  <string name="not_subject">Bez Predmetu</string>
+  <string name="not_subject">(Bez Predmetu)</string>
   <string name="not_synced_title">Účet nie je synchronizovaný</string>
   <string name="not_updated_yet">Neaktualizované</string>
   <string name="notification_action_archive">Archivovať</string>
@@ -677,4 +677,13 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wrong_password">Nesprávne heslo!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
+  <string name="conversation_item_mark_read">Prečítané</string>
+  <string name="conversation_item_mark_unread">Neprečítané</string>
+  <string name="default_signature">Odoslané z MIUI</string>
+  <string name="outbox_alert_title_sent_failed">Odosielanie zlyhalo</string>
+  <string name="outbox_alert_description_sent_failed">"Príčina: Veľkosť prílohy
+presahuje limit"</string>
+  <string name="outbox_alert_button_confirm">Upraviť</string>
+  <string name="blank_feedback_toast">Spätná väzba je prázdna, napíšte váš názor!</string>
 </resources>

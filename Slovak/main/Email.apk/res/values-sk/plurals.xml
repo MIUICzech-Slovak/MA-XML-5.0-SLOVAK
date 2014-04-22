@@ -97,4 +97,8 @@
         <item quantity="other">Správy (%1$d) sa natrvalo odstránia.</item>
         <item quantity="one">%1$d správa sa natrvalo odstráni.</item>
     </plurals>
+    <plurals name="contact_num_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">1 vybraný</item>
+    </plurals>
 </resources>
