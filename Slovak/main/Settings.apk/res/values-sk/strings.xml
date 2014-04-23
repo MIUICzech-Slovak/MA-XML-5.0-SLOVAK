@@ -3719,7 +3719,7 @@ Ak chcete získať viac informácií, kontaktujte svojho správcu."</string>
     <string name="notification_breathing_light_color_title">Farba LED upozornení</string>
     <string name="mms_breathing_light_color_title">Farba LED správ</string>
     <string name="preferred_sms_warning_message">Použitie \"%1$s\" môže navýšiť vaše poplatky alebo ohroziť vaše súkromie.</string>
-    <string name="preferred_sms_warning_use_system">Nepoužiť</string>
+    <string name="preferred_sms_warning_use_system">Zrušiť</string>
     <string name="preferred_sms_settings">Táto aplikácia bude nastavená ako predvolená pre príjem a odosielanie SMS správ.</string>
     <string name="preferred_sms_title">Predvolená apl. SMS Správ</string>
 </resources>

@@ -222,6 +222,7 @@
   <string name="auto_sync_off">Automatická synchronizácia je vypnutá.</string>
   <string name="bcc">Skrytá kópia</string>
   <string name="bcc_heading">"Sk. kópia: "</string>
+  <string name="blank_feedback_toast">Spätná väzba je prázdna, napíšte váš názor!</string>
   <string name="body_hint">Text správy</string>
   <string name="bytes">%s B</string>
   <string name="cancel">Zrušiť</string>
@@ -250,15 +251,16 @@
   <string name="confirm_discard_text">Zahodiť túto správu?</string>
   <string name="confirm_response">Odosiela sa odpoveď...</string>
   <string name="confirm_send_message">Chcete odoslať túto správu?</string>
-  <string name="contact_content_provider">Contact Content Provider</string>
   <string name="confirm_send_message_with_no_body">V tele správy nie je žiaden text.</string>
   <string name="confirm_send_message_with_no_subject">V predmete správy nie je žiaden text.</string>
   <string name="confirm_send_title">Chcete túto správu odoslať?</string>
+  <string name="contact_content_provider">Contact Content Provider</string>
   <string name="contact_info_string">Zobraziť informácie kontaktu %1$s</string>
   <string name="contact_info_string_default">Zobraziť kontaktné informácie</string>
   <string name="contact_list_add_btn">Pridať</string>
   <string name="contact_list_search_hint">Vyhľadať kontakty</string>
   <string name="contact_list_title">Zoznam kontaktov</string>
+  <string name="contact_select">Vybrať kontakty</string>
   <string name="content_description">%1$s o %2$s, %3$s dňa %4$s, %5$s</string>
   <string name="content_description_today">%1$s o %2$s, %3$s o %4$s, %5$s</string>
   <string name="contextmenu_add_contact">Pridať kontakt</string>
@@ -273,6 +275,8 @@
   <string name="contextmenu_sharelink">Zdieľať odkaz</string>
   <string name="contextmenu_sms_dot">SMS…</string>
   <string name="conversation_folder_moved">Presunuté do priečinka %1$s</string>
+  <string name="conversation_item_mark_read">Prečítané</string>
+  <string name="conversation_item_mark_unread">Neprečítané</string>
   <string name="conversation_photo_welcome_text">Dotknutím sa obrázka odosielateľa vyberiete danú konverzáciu.</string>
   <string name="copy_email">Kopírovať e-mailovú adresu</string>
   <string name="copy_number">Kopírovať telefónne číslo</string>
@@ -283,6 +287,7 @@
   <string name="date_message_received_today">Dnes o %1$s</string>
   <string name="date_message_received_yesterday">Včera o %1$s</string>
   <string name="default_setup">PREDVOLENÉ NASTAVENIA</string>
+  <string name="default_signature">Odoslané z MIUI</string>
   <string name="delete">Odstrániť</string>
   <string name="deleted">Odstránené</string>
   <string name="device_admin_description">Povoľuje pravidlá zabezpečenia určené serverom</string>
@@ -448,11 +453,11 @@ Kópia: %4$s
   <string name="message_saved">Správa bola uložená ako koncept.</string>
   <string name="message_view_attachment_background_load">Pred odoslaním sa prevezme jedna alebo viacero príloh zo správy posielanej ďalej.</string>
   <string name="more_atts_total">Príloh: %1$d</string>
-  <string name="more_info_attachment">Informácie</string>
+    <string name="more_info_attachment">Informácie</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Presunúť do</string>
-    <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
+  <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="mute">Ignorovať</string>
   <string name="name_or_number_is_error">Chybné meno alebo heslo</string>
   <string name="net_check_title">Chyba siete, skontrolujte nastavenia。</string>
@@ -481,6 +486,10 @@ Kópia: %4$s
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="other_mail">Iný email</string>
+  <string name="outbox_alert_button_confirm">Upraviť</string>
+  <string name="outbox_alert_description_sent_failed">"Príčina: Veľkosť prílohy
+presahuje limit"</string>
+  <string name="outbox_alert_title_sent_failed">Odosielanie zlyhalo</string>
   <string name="password_changed_prompt">Nie je možné sa prihlásiť.</string>
   <string name="password_expire_warning_content_title">Uzamykacie heslo čoskoro vyprší</string>
   <string name="password_expire_warning_dialog_content_fmt">Váš kód PIN alebo heslo na uzamknutie obrazovky musíte čoskoro zmeniť, ináč budú údaje účtu %s vymazané. Chcete ho zmeniť teraz?</string>
@@ -576,6 +585,7 @@ Kópia: %4$s
   <string name="report">Prehľad</string>
   <string name="report_phishing">Nahlásiť neopráv. získ. údajov</string>
   <string name="report_spam">Nahlásiť spam</string>
+  <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
   <string name="require_manual_sync_message">Synchronizácia na pozadí je pre tento účet v roamingu zakázaná.</string>
   <string name="respond_inline">Vložená odpoveď</string>
   <string name="resume_draft">Upraviť</string>
@@ -677,13 +687,4 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wrong_password">Nesprávne heslo!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
-  <string name="conversation_item_mark_read">Prečítané</string>
-  <string name="conversation_item_mark_unread">Neprečítané</string>
-  <string name="default_signature">Odoslané z MIUI</string>
-  <string name="outbox_alert_title_sent_failed">Odosielanie zlyhalo</string>
-  <string name="outbox_alert_description_sent_failed">"Príčina: Veľkosť prílohy
-presahuje limit"</string>
-  <string name="outbox_alert_button_confirm">Upraviť</string>
-  <string name="blank_feedback_toast">Spätná väzba je prázdna, napíšte váš názor!</string>
 </resources>
