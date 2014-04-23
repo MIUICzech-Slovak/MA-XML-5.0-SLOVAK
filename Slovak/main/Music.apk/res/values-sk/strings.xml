@@ -343,4 +343,11 @@
     <string name="vip_recommend_title">Prevziať vyššiu kvalitu hudby</string>
     <string name="where_is_barcode">"Kde je QR kód?"</string>
     <string name="xiaomi_account_setting">Xiaomi účet</string>
+    <string name="load_recommend_in_process">Načítavanie...</string>
+    <string name="load_recommend_failed">Načítavanie zlyhalo</string>
+    <string name="click_to_play_all">Prehrať všetko</string>
+    <string name="collect_topic_success">Album pridaný k obľúbeným</string>
+    <string name="collect_bill_success">Bill added to favorites</string>
+    <string name="collect_fm_success">Pridané k obľúbeným</string>
+    <string name="uncollect_success">Odobrané z obľúbených</string>
 </resources>
