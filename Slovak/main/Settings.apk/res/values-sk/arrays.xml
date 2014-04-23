@@ -449,10 +449,6 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>PIN</item>
         <item>Heslo</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Prirodzené</item>
-    </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>Potlačenie jedným mikrofónom</item>
         <item>Potlačenie dvoma mikrofónmi</item>
