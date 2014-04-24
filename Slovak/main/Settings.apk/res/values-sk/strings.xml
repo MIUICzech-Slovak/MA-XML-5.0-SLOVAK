@@ -3490,7 +3490,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="power_mode_my_mode">Môj režim</string>
     <string name="power_mode_my_mode_summary">Automaticky uložiť stav denného používania</string>
     <string name="power_apply_toast">Prepnúť na %s režim a uložiť súčasný profil</string>
-    <string name="power_customize_giveup_change">Nezmeniť?</string>
+    <string name="power_customize_giveup_change">Zrušiť zmeny?</string>
     <string name="pref_category_title_securitycenter_settings">Nastavenia Optimalizácie</string>
     <string name="pref_category_title_module_settings">Nastavenia modulov</string>
     <string name="garbage_white_list_empty_content">Zoznam je prázdny</string>
