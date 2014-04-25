@@ -194,4 +194,7 @@ Veľkosť: %2$s"</string>
     <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verzia %1$s
 Ve%lkosť rozdielového balíčka: %2$s"</string>
     <string name="xiaomi_external_storage_unavailable">Úložisko je nedostupné, skontrolujte SD kartu.</string>
+    <string name="err_tag_read_only">Nie je možné zapísať na tento štítok</string>
+    <string name="play_music_desc">Prehrať alebo zastaviť hudbu</string>
+    <string name="play_song">Prehrať skladbu</string>
 </resources>
