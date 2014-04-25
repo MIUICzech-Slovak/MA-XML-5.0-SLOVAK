@@ -180,14 +180,14 @@
     <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
     <string name="customizer_mode_user_define_name">Vlastné</string>
     <string name="all_address_choose_hint">Všetky regióny</string>
-    <string name="address_choose_hint">%1$s、%2$s %3$d regióny</string>
+    <string name="address_choose_hint">%1$s、%2$s a %3$d regióny</string>
     <string name="two_address_choose_hint">%1$s、%2$s 2 regióny</string>
     <string name="one_address_choose_hint">%s 1 región</string>
     <string name="dlg_black_antispam_message">Pridať toto číslo do Čiernej listiny a blokovať ho?</string>
     <string name="dlg_white_antispam_message">Pridať toto číslo do výnimiek a povoliť ho?</string>
     <string name="dlg_black_address_antispam_message">Pridať túto predvoľbu do Čiernej listiny a blokovať ju?</string>
     <string name="dlg_white_address_antispam_message">Pridať túto predvoľbu do výnimiek a povoliť ju?</string>
-    <string name="dlg_white_antispam_hint">Povolenia</string>
+    <string name="dlg_white_antispam_hint">Výnimky</string>
     <string name="dlg_black_antispam_hint">AntiSpam</string>
     <string name="dlg_add_blacklist_warn_conflict_title">Už existuje</string>
     <string name="dlg_add_blacklist_warn_conflict_content">%1$s %2$s už existuje vo výnimkách. Chcete pokračovať?</string>
