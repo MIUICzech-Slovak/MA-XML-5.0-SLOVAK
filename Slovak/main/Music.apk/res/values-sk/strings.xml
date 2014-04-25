@@ -83,7 +83,7 @@
     <string name="download_batch_start">Spustiť sťahovanie všetkého</string>
     <string name="download_completed">Stiahnuté</string>
     <string name="download_lyric_settings">Automatický sťahovať texty</string>
-    <string name="download_lyric_summary">"Sťahovanie textov piesní."</string>
+    <string name="download_lyric_summary">"Sťahovanie textov skladieb."</string>
     <string name="download_processing">Sťahovanie</string>
     <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
     <string name="durationformatshort">%2$d:%5$02d</string>
@@ -173,7 +173,7 @@
     <string name="load_artist_failed">Načítavanie zlyhalo, skúste to prosím znovu.</string>
     <string name="load_artist_in_process">Načítavanie zoznamu umelcov</string>
     <string name="load_audio_failed">Načítavanie zlyhalo, skúste to prosím znovu.</string>
-    <string name="load_audio_in_process">Načítavanie zoznamu piesní</string>
+    <string name="load_audio_in_process">Načítavanie zoznamu skladieb</string>
     <string name="load_bill_failed">Načítavanie zlyhalo, skúste to prosím znovu.</string>
     <string name="load_bill_in_process">Načítavanie zoznamu hitov</string>
     <string name="load_channel_failed">Načítavanie zlyhalo, skúste to prosím znovu.</string>
@@ -181,8 +181,8 @@
     <string name="loading">Načítavanie</string>
     <string name="login">Prihlásiť</string>
     <string name="login_first">Musíte sa prihlásiť svojim Xiaomi účtom</string>
-    <string name="lrc_progress_modify">Nastaviť rýchlosť textu piesne</string>
-    <string name="lrc_progress_modify_helper">Nastavte rýchlosť textu piesne posunutím hore alebo dole</string>
+    <string name="lrc_progress_modify">Nastaviť rýchlosť textu skladby</string>
+    <string name="lrc_progress_modify_helper">Nastavte rýchlosť textu skladby posunutím hore alebo dole</string>
     <string name="lrc_search_failed">Texty nenájdené!</string>
     <string name="lrc_searching">Hľadanie textov...</string>
     <string name="lrc_select">Vyberte text</string>
@@ -200,8 +200,8 @@
     <string name="mi_effect_title">Použiť MiSound</string>
     <string name="min_interval">1</string>
     <string name="mobile_connect_settings">Mobilný internet</string>
-    <string name="modify_id3_for_list">ID3 informácie pre piesne v súčasnom zozname budú upravené</string>
-    <string name="modify_id3_for_selected">ID3 informácie pre vybrané piesne budú upravené</string>
+    <string name="modify_id3_for_list">ID3 informácie pre skladby v súčasnom zozname budú upravené</string>
+    <string name="modify_id3_for_selected">ID3 informácie pre vybrané skladby budú upravené</string>
     <string name="modify_meta">Upraviť informácie o skladbe</string>
     <string name="modify_tracks_id3_background">Upraviť ID3 informácie pre vybrané skladby na pozadí</string>
     <string name="more">Viac</string>
