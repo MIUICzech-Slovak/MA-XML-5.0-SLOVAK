@@ -232,10 +232,10 @@
     <string name="st_title_call_wait">Čakajúci hovor</string>
     <string name="st_sum_call_wait">Ak váš tón čakajúceho hovoru nie je štandardný, môže to zmiasť volajúceho účastníka</string>
     <string name="st_antispam_bw_man_add">Zadať čísla</string>
-    <string name="st_antispam_bw_head_add">Nájdené čísla</string>
+    <string name="st_antispam_bw_head_add">Predvoľba</string>
     <string name="st_antispam_bw_pick_add">Vybrať</string>
-    <string name="st_antispam_bw_adress_add">Povolený región</string>
-    <string name="st_antispam_black_adress_add">Blokovaný región</string>
+    <string name="st_antispam_bw_adress_add">Povolený región (Iba Čína)</string>
+    <string name="st_antispam_black_adress_add">Blokovaný región (Iba Čína)</string>
     <string name="st_antispam_bw_choose_modes">Vybrať</string>
     <string name="hint_antispam_mode_edit">Vlastný režim</string>
     <string name="st_title_adress">Vyberte región</string>
