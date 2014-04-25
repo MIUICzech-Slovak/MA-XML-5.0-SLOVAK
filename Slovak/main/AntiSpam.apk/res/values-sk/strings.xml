@@ -32,7 +32,7 @@
     <string name="dlg_retore">Obnoviť tieto SMS správy?</string>
     <string name="dlg_retore_ok">Obnoviť</string>
     <string name="fw_blocked">Blokované:</string>
-    <string name="fw_blocked_count" formatted="false">Blokované: %d Hovorov a %d SMS</string>
+    <string name="fw_blocked_count" formatted="false">"Blokované: "</string>
     <string name="log_count">(%d)</string>
     <string name="marked_by_others">"%d ľudí označilo ako "</string>
     <string name="marked_by_user">"ste označili ako "</string>
