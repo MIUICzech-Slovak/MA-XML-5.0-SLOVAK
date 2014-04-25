@@ -230,7 +230,7 @@
     <string name="st_title_back_sound_stop">Nedostupný</string>
     <string name="st_title_call_wait_setting">Nastavenie čakajúceho hovoru</string>
     <string name="st_title_call_wait">Čakajúci hovor</string>
-    <string name="st_sum_call_wait">如果您的来电拦截返回音不是忙音，建议您开启。否则当您正在通话时，第三个人给您打电话也会听到您设置的来电拦截返回音，造成不必要的误会。</string>
+    <string name="st_sum_call_wait">Ak váš tón čakajúceho hovoru nie je štandardný, môže to zmiasť volajúceho účastníka</string>
     <string name="st_antispam_bw_man_add">Zadať čísla</string>
     <string name="st_antispam_bw_head_add">Nájdené čísla</string>
     <string name="st_antispam_bw_pick_add">Vybrať</string>
