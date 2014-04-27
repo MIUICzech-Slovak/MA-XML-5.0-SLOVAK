@@ -530,7 +530,7 @@ Chyba: \"%s\""</string>
     <string name="menu_joinAggregate">Spojiť</string>
     <string name="menu_newContact">Nový kontakt</string>
     <string name="menu_new_contact_action_bar">Nový kontakt</string>
-    <string name="menu_new_favorite_action_bar">Nový obľúbený kontakt</string>
+    <string name="menu_new_favorite_action_bar">Obľúbený kontakt</string>
     <string name="menu_new_group_action_bar">Nová skupina</string>
     <string name="menu_not_redirect_calls_to_vm">Hlasová schránka sa nepoužíva</string>
     <string name="menu_redirect_calls_to_vm">Presmerovať do hlasovej schránky</string>
