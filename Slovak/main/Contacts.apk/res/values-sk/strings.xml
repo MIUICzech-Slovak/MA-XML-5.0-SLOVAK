@@ -46,7 +46,7 @@
  Ak používate synchronizáciu kontaktov s cloudom, budú vymazané aj odtiaľ."</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth spojenie sa prerušilo</string>
     <string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
-    <string name="btn_delete_multi_contacts">Vymazať %d kontaktov</string>
+    <string name="btn_delete_multi_contacts">Vymazať kontakt (%d)</string>
     <string name="btn_delete_one_contact">Vymazať kontakt</string>
     <string name="btn_rotation">Rotácia</string>
     <string name="btn_split_contact">Rozdeliť kontakt</string>
