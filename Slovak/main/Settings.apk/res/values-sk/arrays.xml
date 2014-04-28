@@ -88,12 +88,6 @@
         <item>Blokované</item>
         <item>Dočasne nedostupná kvôli slabému signálu</item>
 	</string-array>
-    <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Stlačením tlačidla</item>
         <item>PIN zo zdieľaného zariadenia</item>
@@ -138,12 +132,6 @@
         <item>Počet spustení</item>
         <item>Názov aplikácie</item>
     </string-array>
-    <string-array name="wifi_eap_entries">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
-    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Žiadne</item>
         <item>PAP</item>
@@ -169,11 +157,6 @@
         <item>PAP</item>
         <item>CHAP</item>
         <item>PAP nebo CHAP</item>
-    </string-array>
-    <string-array name="apn_protocol_entries">
-        <item>IPv4</item>
-        <item>IPv6</item>
-        <item>IPv4/IPv6</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>
@@ -247,14 +230,6 @@
         <item>Maximálne 2 procesy</item>
         <item>Maximálne 3 procesy</item>
         <item>Maximálne 4 procesy</item>
-    </string-array>
-    <string-array name="vpn_types">
-        <item>PPTP</item>
-        <item>L2TP/IPSec PSK</item>
-        <item>L2TP/IPSec RSA</item>
-        <item>IPSec Xauth PSK</item>
-        <item>IPSec Xauth RSA</item>
-        <item>IPSec Hybrid RSA</item>
     </string-array>
     <string-array name="vpn_types_long">
         <item>VPN s protokolom PPTP</item>
