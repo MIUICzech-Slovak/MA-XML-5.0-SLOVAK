@@ -67,4 +67,15 @@
         <item>Modrá</item>
         <item>Tmavá</item>
     </string-array>
+    <string-array name="search_bar_search_engines_rCN">
+        <item>google</item>
+        <item>sogou</item>
+        <item>taobao</item>
+        <item>yicha</item>
+        <item>easou</item>
+        <item>dianping</item>
+        <item>baidu</item>
+        <item>shipin</item>
+        <item>tupian</item>
+    </string-array>
 </resources>
