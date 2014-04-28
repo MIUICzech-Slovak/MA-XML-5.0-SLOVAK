@@ -22,6 +22,7 @@
     <string name="action_clear_memory">Vyčistiť RAM</string>
     <string name="action_capture_video">Video</string>
     <string name="action_lock_screen">Zamknúť</string>
+    <string name="action_zero_volume">Stíšiť</string>
     <string name="action_open_sound_recorder">Záznamník</string>
     <string name="action_open_or_close_motion">Otáčanie displeja</string>
     <string name="action_open_wechat">WeChat</string>
@@ -81,5 +82,17 @@
     <string name="front_camera">Predný fotoaparát</string>
     <string name="back_camera">Zadný fotoaparát</string>
     <string name="write_pic_fail">Chyba uloženia fotografie!</string>
+    <string name="settings">Nastavenia</string>
+    <string name="about">O aplikácií</string>
     <string name="task_title_prefix">"Akcia N: "</string>
+    <string name="setting_feedback">Odozva</string>
+    <string name="setting_speed_desc">Rýchlosť kliknutí tlačidlom</string>
+    <string name="setting_speed_slow">Pomaly</string>
+    <string name="setting_speed_quick">Rýchlo</string>
+    <string name="setting_keeplive_desc">"Táto možnosť umožní aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie.</string>
+    <string name="setting_speed_text">Rýchlosť</string>
+    <string name="setting_keeplive_text">Bežať na pozadí</string>
+    <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
+    <string name="setting_vibrate_text">Vibračná odozva</string>
+    <string name="setting_instant_photo_desc">"Pred zhotovením fotografie, fotoaparát zaostrí"</string>
 </resources>
