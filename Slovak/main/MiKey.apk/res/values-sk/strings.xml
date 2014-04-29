@@ -89,7 +89,7 @@
     <string name="setting_speed_desc">Rýchlosť kliknutí tlačidlom</string>
     <string name="setting_speed_slow">Pomaly</string>
     <string name="setting_speed_quick">Rýchlo</string>
-    <string name="setting_keeplive_desc">"Táto možnosť umožní aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie.</string>
+    <string name="setting_keeplive_desc">Táto možnosť umožní aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie.</string>
     <string name="setting_speed_text">Rýchlosť</string>
     <string name="setting_keeplive_text">Bežať na pozadí</string>
     <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
