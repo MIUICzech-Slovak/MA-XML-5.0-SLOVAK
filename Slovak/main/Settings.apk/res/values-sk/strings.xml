@@ -549,7 +549,6 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="brightness_auto_adjust_off">Manuálny jas môžete nastaviť posúvaním. Jas sa nebude meniť v zavislosti na okolnom osvetlení.</string>	
     <string name="brightness_auto_adjust_on">Automatický jas môžete nastaviť posúvaním. Jas sa bude meniť v zavislosti na okolnom osvetlení a Vašom nastavení.</string>	
     <string name="brightness_summary">Nastavenie jasu displeja</string>	
-    <string name="bssid_label">BSSID:</string>	
     <string name="bt_hci_snoop_log">Povoliť sledovanie Bluetooth HCI</string>	
     <string name="bt_hci_snoop_log_summary">Zaznamenať všetky pakety Bluetooth HCI do súboru</string>
     <string name="bt_trace_log">Povoliť Bluetooth Trace log</string>	
@@ -675,10 +674,6 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="common_settings">Časté nastavenia</string>
     <string name="complete_settings">Kompletné nastav.</string>
     <string name="computing_size">Prebieha výpočet...</string>
-    <string name="config_list_label">Konfigurované siete</string>
-    <string name="config_mass_storage_function_name">mass_storage</string>
-    <string name="config_mtp_function_name">mtp</string>	
-    <string name="config_ptp_function_name">ptp</string>
     <string name="configure_input_method">Nastaviť metódy vstupu</string>	
     <string name="confirm">OK</string>	
     <string name="confirm_clear_blacklist">Vymazať zoznam blokovania?</string>	
@@ -833,11 +828,10 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="debug_app_set">Debugging app.: %1$s</string>
     <string name="debug_applications_category">Aplikácia</string>	
     <string name="debug_debugging_category">Ladenie</string>	
-	<string name="debug_drawing_category">Kresba</string>
+    <string name="debug_drawing_category">Kresba</string>
     <string name="debug_hw_drawing_category">Vykresľovnanie akcelerované hardvérom</string>	
     <string name="debug_hw_overdraw">Ladenie prekresľovania GPU</string>	
     <string name="debug_input_category">Vstup</string>	
-    <string name="debug_intent_sender_label">Debug intent sender</string>
     <string name="debug_layout">Zobraziť ohraničenia</string>
     <string name="debug_layout_summary">Zobraziť v klipe ohraničenie, okraje, atď.</string>	
     <string name="debug_log">Záznam debug</string>	
@@ -926,7 +920,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="dirac_mode_piston_100">Xiaomi Piston slúchadlá</string>
     <string name="dirac_switch_summary">Vždy použiť MiSound ak sa zvuk prehráva z reproduktoru</string>
     <string name="dirac_switch_title">MiSound</string>
-    <string name="disableNetwork">Vypnúť sieť</string>	
     <string name="disable_adb_debug_summary">Deaktivované USB ladenie</string>	
     <string name="disable_anti_spam_summary">Filter správ deaktivovaný</string>	
     <string name="disable_app_permission_summary">Kontrola práv je vypnutá</string>	
@@ -937,7 +930,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="disable_service_title">Zastaviť %1$s?</string>	
     <string name="disable_text">Zakázať</string>	
     <string name="disabled">Zakázané</string>	
-    <string name="disconnect">Odpojiť</string>	
     <string name="display_font_size_label">Veľkosť písma:</string>	
     <string name="display_label">Obrazovka</string>	
     <string name="display_order_text">Radiť podľa:</string>	
@@ -1045,7 +1037,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="empty_list_msg">Žiadne aplikácie tretích strán nie sú nainštalované.</string>	
     <string name="emptylist_fwlog_call">Žiadne blokované hovory.</string>	
     <string name="emptylist_fwlog_ms">Žiadne blokované správy.</string>	
-    <string name="enableNetwork">enableNetwork</string>	
     <string name="enable_adb">Ladenie USB</string>	
     <string name="enable_adb_debug_summary">Ak je pripojené USB, použiť príkazy ADB</string>	
     <string name="enable_adb_debug_title">Povoliť USB ladenie</string>	
@@ -1240,8 +1231,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="gadget_wifi">Wi-Fi</string>
     <string name="game_controller_settings_category">Herný Ovládač</string>
     <string name="garbage_white_list_empty_content">Zoznam je prázdny</string>
-    <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-    <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="global_change_warning">Toto nastavenie ovplyvní všetkých používateľov tohto telefónu.</string>
     <string name="global_font_change_title">Zmeniť veľkosť písma</string>
     <string name="global_locale_change_title">Zmeniť jazyk</string>
@@ -1286,24 +1275,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="headset_no_contected">Nie sú pripojené slúchadlá</string>
     <string name="headset_settings">Slúchadlá</string>
     <string name="heavy_weight_stop_description">Túto aplikáciu nemôžete bezpečne ukončiť. Mohlo by dôjsť k strate časti vašej aktuálnej práce.</string>
-    <string name="hello_world">Hello world!</string>
     <string name="help_label">Pomoc</string>
-    <string name="help_url_accounts"/>
-    <string name="help_url_backup_reset"/>
-    <string name="help_url_battery"/>
-    <string name="help_url_bluetooth"/>
-    <string name="help_url_choose_lockscreen"/>
-    <string name="help_url_data_usage"/>
-    <string name="help_url_dreams"/>
-    <string name="help_url_location_access"/>
-    <string name="help_url_more_networks"/>
-    <string name="help_url_security"/>
-    <string name="help_url_sound"/>
-    <string name="help_url_tether"/>
-    <string name="help_url_users"/>
-    <string name="help_url_vpn"/>
-    <string name="help_url_wifi"/>
-    <string name="hidden_ssid_label">Skryté SSID:</string>
     <string name="history_details_title">Podrobnosti histórie</string>
     <string name="home_app_uninstall_button">Odinštalovať túto aplikáciu</string>
     <string name="home_key">Tlačidlo Domov</string>
@@ -1366,7 +1338,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="internal_used_memory_hint">Využité: Prepočítavanie...</string>
     <string name="invalid_location">Umiestnenie inštalácie nie je platné.</string>
     <string name="invalid_size_value">Nepodarilo sa určiť veľkosť balíčka</string>
-    <string name="ipaddr_label">IPaddr:</string>
     <string name="item_app_permission">Povolenia aplikácií</string>
     <string name="item_garbage_size_1000m">1GB</string>
     <string name="item_garbage_size_100m">100MB</string>
@@ -1427,7 +1398,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="license_title">Licencia</string>	
     <string name="line_breaking_summary">Optimalizovať zalamovanie textu</string>	
     <string name="line_breaking_title">Optimalizácia odseku textu</string>	
-    <string name="link_speed_label">Rýchlosť:</string>	
     <string name="list_sub_view_item_backup_cleanup">Najskôr zálohovať</string>
 	<string name="list_sub_view_item_backup_uninstall">Záloha a odinšt.</string>
     <string name="list_sub_view_item_clean">Vyčistiť</string>
@@ -1543,7 +1513,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="lockpattern_tutorial_continue_label">Ďalej</string>	
     <string name="lte_ram_dump_off">Vypnúť výpis pamäte LTE RAM</string>	
     <string name="lte_ram_dump_on">Zapnúť výpis pamäte LTE RAM</string>	
-    <string name="macaddr_label">MAC:</string>
     <string name="main_running_process_description">Hlavný proces, ktorý sa používa.</string>
     <string name="man_add_application">Manuálne pridať aplikácie pre auto. štart</string>
     <string name="manage_device_admin">Správcovia zariadenia</string>	
@@ -1754,8 +1723,6 @@ skúste:
 	<string name="network_assistant">Spotreba dát</string>
   	<string name="network_detail">Detail siete %s</string>
   	<string name="network_settings_title">Mobilné siete</string>    
-	<string name="network_state_label">Stav siete:</string>	
-    <string name="networkid_label">Sieťové ID:</string>	
     <string name="networks">Výber operátora</string>
     <string name="new_backup_pw_prompt">Sem zadajte nové heslo pre úplné zálohy.</string>	
     <string name="new_bw_list_button">Pridať kontakt</string>	
@@ -2520,7 +2487,6 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
     <string name="roaming_warning_multiuser">"Ak povolíte dátové služby pri roamingu, môžu sa účtovať vysoké poplatky za roaming!
 
 Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
-    <string name="rssi_label">RSSI:</string>
     <string name="rubbish_cleaning">Čistenie systému</string>
     <string name="running_process_item_removed_user_label">Odstránený používateľ</string>
     <string name="running_process_item_user_label">Používateľ: %1$s</string>
@@ -2537,7 +2503,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="runningservices_settings_title">Spustené služby</string>
     <string name="save_button">Uložiť</string>
     <string name="scan_done">Kontrola dokončená</string>
-    <string name="scan_list_label">Výsledky skenovania:</string>
     <string name="scanning_prefix">Kontrola: %s</string>
     <string name="scanning_start_hints">Príprava na kontrolu</string>
     <string name="scanning_virus">Kontrola...</string>
@@ -2786,7 +2751,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
     <string name="spellchecker_quick_settings">Nastavenia</string>
     <string name="spellchecker_security_warning">Prostredníctvom tejto kontroly pravopisu je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Kontrola pravopisu je súčasť aplikácie %1$s. Chcete túto kontrolu pravopisu použiť?</string>
     <string name="spellcheckers_settings_title">Oprava pravopisu</string>
-    <string name="ssid_label">SSID:</string>
     <string name="ssl_ca_cert_dialog_title">Monitorovanie siete</string>
     <string name="ssl_ca_cert_info_message">"Toto zariadenie je spravované nasledujúcou doménou:
 %s
@@ -2851,14 +2815,12 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
     <string name="subscription_02_summary">Set options for SUB2 network settings</string>
     <string name="subscription_02_title">SUB 2</string>
     <string name="sum_carrier_select">Vybrať sieťového operátora</string>
-    <string name="summary_font_size">%1$s</string>
     <string name="summary_install_virus">Kontrolovať prítomnosť vírusov v aplikáciách pred inštaláciou</string>
     <string name="summary_mms">Filtrovať nechcené správy (predajcovia, reklamy, atď.)</string>
     <string name="summary_permission">Chrániť moje súkromie pred aplikáciami tretích strán</string>
     <string name="summary_usb">Zabrániť vírusom cez USB pripojenie</string>
     <string name="summary_virus">Nájdených %2$d vírusov</string>
     <string name="summary_virus_update">Aktualizovať vírusovú databázu automaticky po pripojení na Wi-Fi</string>
-    <string name="supplicant_state_label">Supplicant state:</string>
     <string name="sync_active">Synchr. aktívna</string>
     <string name="sync_automatically">Automaticky synch. dáta aplikácií</string>
     <string name="sync_calendar">Kalendár</string>
@@ -2894,7 +2856,6 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
     <string name="testing_phone_info">Info o telefóne</string>
     <string name="testing_sim_toolkit">SIM toolkit</string>
     <string name="testing_usage_stats">Štatistika použitia</string>
-    <string name="testing_wifi_info">Wi-Fi informácie</string>
     <string name="tether_settings_title_all">Tethering a prenosný hotspot</string>
     <string name="tether_settings_title_bluetooth">Tethering cez Bluetooth</string>
     <string name="tether_settings_title_usb">Tethering pomocou USB</string>
@@ -2902,7 +2863,6 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
     <string name="tether_settings_title_wifi">Prenosný hotspot</string>
     <string name="tethering_help_button_text">Pomoc</string>
     <string name="time_picker_title">Čas</string>
-    <string name="time_zone_auto_stub">Vyberte časovú zónu</string>
     <string name="timezone_settings">Časová zóna</string>
     <string name="title_app_update_no">%d aplikácií má aktualizáciu</string>
     <string name="title_app_update_yes">Všetko je aktuálne</string>
@@ -3006,7 +2966,6 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
     <string name="tts_status_ok">Jazyk %1$s je plne podporovaný</string>
     <string name="tts_status_requires_network">Jazyk %1$s vyžaduje pripojenie k sieti</string>
     <string name="tts_status_title">Stav predvoleného jazyka</string>
-    <string name="tune_away_Default">Zakázané</string>
     <string name="tune_away_disabled">TuneAway zakázané!</string>
     <string name="tune_away_enabled">TuneAway povolené!</string>
     <string name="tune_away_title">Tune Away</string>
@@ -3394,7 +3353,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_advanced_settings_label">Nastavení adresy IP</string>
     <string name="wifi_advanced_titlebar">Rozšírené nastavenie Wi-Fi</string>
     <string name="wifi_and_mobile_skipped_message">UPOZORNENIE: Telefón nebude môcť overiť, či je váš softvér aktuálny.</string>
-    <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_auto_connect">Auto pripojenie</string>
     <string name="wifi_available_title">Pripojiť k Wi-Fi</string>
     <string name="wifi_cancel">Zrušiť</string>
@@ -3412,29 +3370,21 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_disabled_help">Sieť nebola použitá z dôvodu zlého pripojenia. Toto nastavenie môžete vypnúť na obrazovke Nastavenia v časti Wi-Fi, položka ponuky Pokročilé.</string>
     <string name="wifi_disabled_network_failure">Bolo zabránené slabému pripojeniu</string>
     <string name="wifi_disabled_password_failure">Problém s overením</string>
-    <string name="wifi_display_autonomous_go">Enable autonomous GO</string>
     <string name="wifi_display_available_devices">Dostupné zariadenia</string>
     <string name="wifi_display_certification">Certifikácia bezdrôtového displeja</string>
-    <string name="wifi_display_certification_heading">Certifikácia</string>
     <string name="wifi_display_certification_summary">Zobraziť možnosti certifikácie bezdrôtového displeja</string>
     <string name="wifi_display_details">Nastavenia obrazovky</string>
     <string name="wifi_display_disconnect_text">Táto akcia ukončí vaše pripojenie so zariadením:&lt;br>&lt;b>%1$s&lt;/b></string>
     <string name="wifi_display_disconnect_title">Odpojiť?</string>
     <string name="wifi_display_enable_menu_item">Povoliť bezdrôtový displej</string>
-    <string name="wifi_display_listen_channel">Načúvací kanál</string>
-    <string name="wifi_display_listen_mode">Povoliť načúvací režim</string>
     <string name="wifi_display_no_devices_found">V blízkosti sa nenašli žiadne displeje s bezdrôtovým pripojením.</string>
-    <string name="wifi_display_operating_channel">Prevádzkový kanál</string>
     <string name="wifi_display_options_done">Hotovo</string>
     <string name="wifi_display_options_forget">Odstrániť</string>
     <string name="wifi_display_options_name">Názov</string>
     <string name="wifi_display_options_title">Možnosti bezdrôtového displeja</string>
     <string name="wifi_display_paired_devices">Spárované displeje</string>
-    <string name="wifi_display_pause">Pozastaviť</string>
-    <string name="wifi_display_resume">Obnoviť</string>
     <string name="wifi_display_search_for_devices">Vyhľadávať displeje</string>
     <string name="wifi_display_searching_for_devices">Vyhľadávanie...</string>
-    <string name="wifi_display_session_info">Informácie o relácií</string>
     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Bezdrôtový displej je zakázaný, pretože sieť je Wi-Fi vypnutá.</string>
     <string name="wifi_display_settings_empty_list_wifi_display_off">Ak chcete zobraziť zariadenia, zapnite bezdrôtový displej.</string>
     <string name="wifi_display_settings_title">Bezdrôtový displej</string>
@@ -3446,11 +3396,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_display_summary_disabled">Zakázané</string>
     <string name="wifi_display_summary_off">Vypnuté</string>
     <string name="wifi_display_summary_on">Zapnuté</string>
-    <string name="wifi_display_wps_config">WPS nastavenia</string>
-    <string name="wifi_dns1">Server DNS 1</string>
-    <string name="wifi_dns1_hint">8.8.8.8</string>
-    <string name="wifi_dns2">Server DNS 2</string>
-    <string name="wifi_dns2_hint">4.4.4.4</string>
     <string name="wifi_dont_skip">Nepreskočiť</string>
     <string name="wifi_eap_anonymous">Anonymná identita</string>
     <string name="wifi_eap_ca_cert">Certifikát CA</string>
@@ -3469,11 +3414,9 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_failed_save_message">Uloženie siete zlyhalo</string>
     <string name="wifi_forget">Odstrániť</string>
     <string name="wifi_gateway">Brána</string>
-    <string name="wifi_gateway_hint">192.168.1.1</string>
     <string name="wifi_in_airplane_mode">Pri režime V lietadle</string>
     <string name="wifi_install_credentials">Inštalácia certifikátov</string>
     <string name="wifi_ip_address">Adresa IP</string>
-    <string name="wifi_ip_address_hint">192.168.1.128</string>
     <string name="wifi_ip_settings">Nastavenie IP</string>
     <string name="wifi_ip_settings_invalid_dns">Zadajte platnú adresu DNS.</string>
     <string name="wifi_ip_settings_invalid_gateway">Zadajte platnú adresu brány.</string>
@@ -3493,7 +3436,6 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
     <string name="wifi_menu_wps_pin">WPS PIN</string>
     <string name="wifi_more">Viac</string>
     <string name="wifi_network_prefix_length">Dĺžka sieťovej predpony</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_not_in_range">Mimo dosah</string>
     <string name="wifi_notify_open_networks">Oznamovanie siete</string>
     <string name="wifi_notify_open_networks_summary">Oznamovať dostupné nezabezpečené siete</string>
@@ -3547,21 +3489,7 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
     <string name="wifi_secured_first_item">Zabezpečenie: %1$s</string>
     <string name="wifi_secured_second_item">, zabezpečenie %1$s</string>
     <string name="wifi_security">Zabezpečenie</string>
-    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_none">Žiadne</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
     <string name="wifi_setting_frequency_band_error">Pri nastavení frekvenčného pásma došlo k problému.</string>
     <string name="wifi_setting_frequency_band_summary">Uveďte prevádzkový frekvenčný rozsah</string>
     <string name="wifi_setting_frequency_band_title">Frekvenčné pásmo Wi-Fi</string>
@@ -3643,14 +3571,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_ssid">SSID</string>
     <string name="wifi_ssid_hint">Zadajte SSID</string>
     <string name="wifi_starting">Zapínanie Wi-Fi...</string>
-    <string name="wifi_state_disabled">Vypnutá</string>
-    <string name="wifi_state_disabling">Vypínanie</string>
-    <string name="wifi_state_enabled">Zapnuté</string>
-    <string name="wifi_state_enabling">Zapínanie</string>
-    <string name="wifi_state_label">Stav Wi-Fi:</string>
-    <string name="wifi_state_unknown">Neznámy</string>
     <string name="wifi_status">Stav</string>
-    <string name="wifi_status_test">stav Wi-Fi</string>
     <string name="wifi_stopping">Vypínanie Wi-Fi...</string>
     <string name="wifi_suspend_optimizations">Optimalizácia Wi-Fi</string>
     <string name="wifi_suspend_optimizations_summary">Minimalizovať spotrebu batérie pri zapnutej sieti Wi-Fi</string>
@@ -3665,7 +3586,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
     <string name="wifi_tether_stopping">Prebieha vypínanie hotspotu...</string>
     <string name="wifi_unchanged">(nezmenené)</string>
     <string name="wifi_unspecified">(neurčené)</string>
-    <string name="wifi_update">Obnoviť štatistiku</string>
     <string name="wifi_wapi_as_cert">WAPI AS Certifikát</string>
     <string name="wifi_wapi_cert_cancel_button">Zrušiť</string>
     <string name="wifi_wapi_cert_create_subdir">Vytvoriť zložku</string>

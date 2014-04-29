@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Neplatný obsah PUSH</string>
     <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Chyba vytvorenia siete</string>
@@ -451,7 +450,6 @@ Chcete použiť čas z GPS?"</string>
     <string name="roaming_warning_multiuser">"Ak povolíte dáta v roamingu, môžu sa zvýšiť vaše mesačné poplatky!
 
 Toto nastavenie ovplyvní všetkých užívateľov na tomto zariadení."</string>
-    <string name="rssi_label">RSSI:</string>
     <string name="running_process_item_removed_user_label">Odstránený užívateľ</string>
     <string name="running_process_item_user_label">Užívateľ: %1$s</string>
     <string name="schedule_power_on_off_settings_title">Naplánované zapnutie a vypnutie</string>

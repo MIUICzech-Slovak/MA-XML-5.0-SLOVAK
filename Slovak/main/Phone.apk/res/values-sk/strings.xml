@@ -319,9 +319,7 @@
     <string name="default_contacts_countrycode_sum_miui">Nastaviť predvolený kód zeme pre vaše kontakty: %s</string>
     <string name="default_ims_call_type">Hlas</string>
     <string name="default_notification_description">Predvolené zvonenie (%1$s)</string>
-    <string name="default_port">5060</string>
     <string name="default_preference_summary">&lt;Nenastavené&gt;</string>
-    <string name="default_transport">UDP</string>
     <string name="delete">Vymazať</string>
     <string name="deleteAllSimEntries">Vymazať všetky kontakty na SIM</string>
     <string name="deleteSimContacts">Mazanie kontaktov na SIM</string>
@@ -957,7 +955,6 @@
     <string name="send_keepalive_title">Odosielať keep-alive</string>
     <string name="separate_from_conference_miui">Individuálne hovory</string>
     <string name="set_preferred_network_type_when_data_enabled_miui">Výber preferovaného typu siete je dostupný len pri vypnutom dátovom pripojení</string>
-    <string name="set_primary">Nastaviť hlavné</string>
     <string name="set_primary_summary">Používa sa pre odchádzajúce hovory</string>
     <string name="set_primary_title">Nastaviť ako primárny účet</string>
     <string name="set_smsc_address_error_miui">Chyba pri ukladaní čísla SMS centra</string>
