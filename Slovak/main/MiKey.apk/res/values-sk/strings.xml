@@ -94,5 +94,6 @@
     <string name="setting_keeplive_text">Bežať na pozadí</string>
     <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
     <string name="setting_vibrate_text">Vibračná odozva</string>
-    <string name="setting_instant_photo_desc">"Pred zhotovením fotografie, fotoaparát zaostrí"</string>
+    <string name="setting_instant_photo_desc">Pred zhotovením fotografie, fotoaparát zaostrí</string>
+	<string name="setting_vibrate_desc">Pre oznámenie vykonania funkcie telefón zavibruje.</string>
 </resources>
