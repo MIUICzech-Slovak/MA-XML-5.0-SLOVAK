@@ -53,7 +53,7 @@
     <string name="select_device">Čo ste pripojili?</string>
     <string name="times">krát</string>
     <string name="rank_prefix">"Hodnotenie: "</string>
-    <string name="rank_suffix">bodov</string>
+    <string name="rank_suffix">" bodov"</string>
     <string name="no_usage">...</string>
     <string name="device_not_recognized">Pripojené zariadenie nie je rozpoznané. Skúste to znova.</string>
     <string name="clean_memory">Pamäť vyčistená</string>
@@ -85,15 +85,15 @@
     <string name="settings">Nastavenia</string>
     <string name="about">O aplikácií</string>
     <string name="task_title_prefix">"Akcia N: "</string>
-    <string name="setting_feedback">Odozva</string>
+    <string name="setting_feedback">Spätná väzba</string>
     <string name="setting_speed_desc">Rýchlosť kliknutí tlačidlom</string>
     <string name="setting_speed_slow">Pomaly</string>
     <string name="setting_speed_quick">Rýchlo</string>
-    <string name="setting_keeplive_desc">Táto možnosť umožní aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie.</string>
+    <string name="setting_keeplive_desc">Táto možnosť umožní aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie</string>
     <string name="setting_speed_text">Rýchlosť</string>
     <string name="setting_keeplive_text">Bežať na pozadí</string>
     <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
     <string name="setting_vibrate_text">Vibračná odozva</string>
     <string name="setting_instant_photo_desc">Pred zhotovením fotografie, fotoaparát zaostrí</string>
-	<string name="setting_vibrate_desc">Pre oznámenie vykonania funkcie telefón zavibruje.</string>
+	<string name="setting_vibrate_desc">Pre oznámenie vykonania funkcie telefón zavibruje</string>
 </resources>
