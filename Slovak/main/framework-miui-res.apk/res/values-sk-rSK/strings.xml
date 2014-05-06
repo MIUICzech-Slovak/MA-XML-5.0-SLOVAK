@@ -280,4 +280,19 @@
     <string name="yellow_page_sms_sending">Odosielanie...</string>
     <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
     <string name="yesterday">"Včera "</string>
+    <string name="sync_data_merge_warning_desc">Data of %s in your phone will be merged with the cloud data unrecoverable, please be careful!</string>
+    <string name="sync_data_recover_warning_title">Data Recovery Warning</string>
+    <string name="sync_data_recover_warning_desc">Data of %s in your phone will be recovered from the cloud, please be careful!</string>
+    <string name="sync_data_merge_warning_ok">Merge</string>
+    <string name="sync_data_merge_warning_cancel">Cancel</string>
+    <string name="sync_data_recover_warning_ok">Recover</string>
+    <string name="sync_data_recover_warning_cancel">Cancel</string>
+    <string name="sync_data_contact">contact</string>
+    <string name="sync_data_mms">SMS</string>
+    <string name="sync_data_cloud_album">cloud album</string>
+    <string name="sync_data_call_log">call records</string>
+    <string name="sync_data_notes">notes</string>
+    <string name="sync_data_msg_seperate">, </string>
+    <string name="sync_data_loading">Retrieving information from server</string>
+    <string name="sync_data_merge_warning_title">Data Merge Warning</string>
   </resources>
