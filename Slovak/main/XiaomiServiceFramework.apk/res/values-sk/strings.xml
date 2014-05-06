@@ -20,8 +20,6 @@ kontakty, fotky, atď"</string>
     <string name="activate_feature_find_device">Find Device</string>
     <string name="activate_feature_mms_sync">SMS Sync</string>
     <string name="activate_feature_mx">Free Cloud Messaging</string>
-    <string name="activate_phone_failed_notif_title">"Couldn't activate SIM card"</string>
-    <string name="activate_phone_failed_notif_title_msim">"Couldn't activate SIM card %s"</string>
     <string name="activate_popup_confirm_failed_phone_error">Retry</string>
     <string name="activate_popup_confirm_failed_query_info">Retry</string>
     <string name="activate_popup_confirm_failed_receive_sms">Retry</string>
