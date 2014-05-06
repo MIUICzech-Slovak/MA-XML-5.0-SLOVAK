@@ -401,9 +401,9 @@ spoločne!"</string>
   <string name="select_item">Vybrať položku</string>
   <string name="select_too_much_to_send_tips">Zvolili ste príliš mnoho fotografií na odoslanie. Zvoľte maximálne %d.</string>
   <string name="select_video">Vybrať video</string>
-  <string name="send">Odoslať</string>
+  <string name="send">Zdieľať</string>
   <string name="send_multiple_files_hint_format">Odoslať viac súborov (%s)</string>
-  <string name="send_public_url">Odoslať URL albumu</string>
+  <string name="send_public_url">Zdieľať URL albumu</string>
   <string name="send_to_cloud_failed_message">Odoslanie položky do Cloudu zlyhalo</string>
   <string name="sepia">Sépia</string>
   <string name="set_hidden_album">Skryť album</string>
