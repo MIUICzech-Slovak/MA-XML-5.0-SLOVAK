@@ -310,8 +310,4 @@ aby ste urobili miesto</string>
 <string name="wifi_state">Stav Wi-Fi</string>
 <string name="xiaomi_account">Xiaomi účet</string>
 <string name="yes">Áno</string>
-<string name="delete_folder">Delete this folder?</string>
-<string name="delete_folders">Delete %1$d?</string>
-<string name="delete_file">Delete this file?</string>
-<string name="delete_files">Delete %1$d files?</string>
 </resources>
