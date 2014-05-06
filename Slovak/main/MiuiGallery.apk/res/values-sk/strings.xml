@@ -62,6 +62,7 @@
   <string name="big_screen_alertdialog_title">Zariadenia</string>
   <string name="bigscreen_slide_exit">Ukončiť prezentáciu</string>
   <string name="bigscreen_slide_fail_cause_loading">Skúste to znova po načítaní obrázku.</string>
+  <string name="bigscreen_video_quit">Click to quit video playing</string>
   <string name="browse_category">Prezeranie fotografií</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">Ostatní</string>
@@ -117,6 +118,7 @@ spoločne!"</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Vymazať (%s)?</string>
   <string formatted="false" name="confirm_delete_album">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
+  <string name="confirm_delete_home_merge_item">Delete %s picture(s) in local and cloud?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s je systémový album, skutočne vymazať?</string>
@@ -156,9 +158,11 @@ spoločne!"</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Odmietnuť</string>
   <string name="description">Popis</string>
+  <string name="deselect_all">Deselect all</string>
   <string name="details">Detaily</string>
   <string name="details_sharer">Zdieľané od</string>
   <string name="details_title">%1$d z %2$d:</string>
+  <string name="device_model">Device</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Dokument</string>
   <string name="done">Hotovo</string>
@@ -174,15 +178,19 @@ spoločne!"</string>
   <string name="email_picker_title">Pridať zdieľaný E-mail</string>
   <string name="empty_album">Žiadne obrázky/videá.</string>
   <string name="enable_cloud_for_sharing">Je potrebné povoliť cloudové album pre zobrazenie zdieľaných fotografií.</string>
+  <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
   <string name="enter_email_hint">"Zadajte E-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
   <string name="error_cloud_not_active">Cloud album sa nepoužíva</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
+  <string name="error_not_acceptable">Server error: Sync disabled.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
   <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>
   <string name="error_socket_timeout">Chyba siete. Skúste to neskôr.</string>
+  <string name="error_title">Sync error</string>
+  <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
   <string name="error_unknown_host">Nenašla sa žiadna sieť.</string>
   <string name="exit">Odísť</string>
   <string name="exit_share">Ukončiť album</string>
@@ -198,6 +206,7 @@ spoločne!"</string>
   <string name="fail_hint">Operácia zlyhala.</string>
   <string name="fail_init_gallery_db_helper">Aplikácia je zamknutá, nemožno otvoriť databázu galérie, pamäť je plná.</string>
   <string name="fail_to_apply">Pripojenie k albumu zlyhalo.</string>
+  <string name="fail_to_download_n_items">Fail to download %s</string>
   <string name="fail_to_pick_email">Nie je vybraný žiaden E-mail</string>
   <string name="fail_to_sync_album">Nastala chyba pri synchronizácií so serverom. Skontrolujte nastavenie siete.</string>
   <string name="file_not_exist_message">Súbor neexistuje.</string>
@@ -233,6 +242,9 @@ spoločne!"</string>
   <string name="height">Výška</string>
   <string name="highlight">Jas</string>
   <string name="home_my_captured_items">" snímkov"</string>
+  <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_local">Local</string>
+  <string name="home_page_tab_photo">Photo</string>
   <string name="how_many_pics">%d\u0020Snímkov</string>
   <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
   <string name="how_many_videos">%d\u0020Videí</string>
@@ -294,6 +306,7 @@ spoločne!"</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
   <string name="model">Model</string>
+  <string name="modified_time">Modified time</string>
   <string name="modify_allow_hint">Je povolené pridávanie nových fotografií</string>
   <string name="modify_disallow_hint">Nie je povolené pridávanie nových fotografií</string>
   <string name="more">Viac</string>
@@ -346,6 +359,7 @@ spoločne!"</string>
   <string name="photo_page_save_uri_image_fail">Ukladanie snímky zlyhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímka bola uložená do zložky fotoaparátu.</string>
   <string name="photo_saved">Snímka uložená v %s albume</string>
+  <string name="photo_size">Size</string>
   <string name="photoeditor_name">Foto štúdio</string>
   <string name="photos">"Snímkov"</string>
   <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string>
@@ -482,6 +496,7 @@ spoločne!"</string>
   <string name="tab_lockscreen_text">Tapeta zámku</string>
   <string name="tab_wallpaper_text">Tapeta plochy</string>
   <string name="tags">Tagy</string>
+  <string name="taken_time">Taken time</string>
   <string name="temperature">Teplota</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
@@ -521,5 +536,6 @@ spoločne!"</string>
   <string name="widget_type_photo">Vyber obrázok</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
+  <string name="yellow_page">Directory</string>
   <string name="yes">Áno</string>
 </resources>
