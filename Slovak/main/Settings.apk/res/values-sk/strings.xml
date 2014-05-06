@@ -642,7 +642,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
     <string name="choose_timezone">Zvoliť časovú zónu</string>	
     <string name="clean_confirm_title">Vymazať tieto súbory?</string>	
     <string name="cleaner">Čistič</string>	
-    <string name="cleaner_support_hints">Poskytuje Clean Master</string>	
+    <string name="cleaner_support_hints"/>	
     <string name="cleanning_prefix">Čistenie: %s</string>	
     <string name="clear_activities">Vymazať predvolené nastavenie</string>	
     <string name="clear_activities_summary">Povoliť túto aplikáciu ako predvolenú</string>	
@@ -1862,7 +1862,7 @@ Nastavenia sú nedostupné"</string>
     <string name="perm_check">Skontrolovať</string>	
     <string name="perm_clean">Vyčistiť</string>	
     <string name="perm_configuration">Nastavenia</string>	
-    <string name="perm_copyright">Poskytuje Team LBE</string>	
+    <string name="perm_copyright"/>	
     <string name="perm_disable">Zakázať</string>	
     <string name="perm_enable">Povoliť sledovanie práv</string>	
     <string name="perm_good">Dobré</string>	
@@ -2000,7 +2000,7 @@ Nastavenia sú nedostupné"</string>
 	<string name="perm_su_switch">Práva ROOT</string>
 	<string name="perm_summary_disabled">Vypnuté</string>
 	<string name="perm_summary_enabled">Zapnuté</string>	
-    <string name="perm_support_hints">Poskytuje LBE</string>	
+    <string name="perm_support_hints"/>	
     <string name="perm_sysopt_boost_auto_start">Povolenie Autom. spustenia</string>	
     <string name="perm_sysopt_boost_auto_start_group">Automatické spustenie</string>	
     <string name="perm_sysopt_boost_auto_start_summary">Povoliť aplikácií automatické spustenie</string>	
