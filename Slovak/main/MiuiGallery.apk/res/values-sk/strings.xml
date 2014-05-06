@@ -124,6 +124,8 @@ spoločne!"</string>
   <string name="confirm_delete_this_video">Vymazať toto video?</string>
   <string name="confirm_delete_videos">%s</string>
   <string name="confirm_download">"Potrebujete stiahnuť %s. Toto okno sa už viac nezobrazí."</string>
+  <string name="confirm_download_video_message">Nie je možné video prehrať ak nie je dokončené jeho sťahovanie. Sťahovanie bude obnovené keď sa pripojíte na Wi-Fi.</string>
+  <string name="confirm_download_video_title">Stiahnuť video</string>
   <string name="contact_photo">Obrázok kontaktu</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_copy">Kopírovať</string>
@@ -177,10 +179,10 @@ spoločne!"</string>
   <string name="error_cloud_not_active">Cloud album sa nepoužíva</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
+  <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>
   <string name="error_socket_timeout">Chyba siete. Skúste to neskôr.</string>
-  <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_unknown_host">Nenašla sa žiadna sieť.</string>
   <string name="exit">Odísť</string>
   <string name="exit_share">Ukončiť album</string>
@@ -208,6 +210,7 @@ spoločne!"</string>
   <string name="flip">Prevrátiť</string>
   <string name="flip_tooltip">Potiahni snímku pre jej prevrátenie</string>
   <string name="focal_length">Ohnisková vzdialenosť</string>
+  <string name="folder_holder_file">Mali by ste vymazať tento súbor</string>
   <string name="frame_black">Čierny</string>
   <string name="frame_button">Rámček</string>
   <string name="frame_classic">Klasický</string>
@@ -233,6 +236,7 @@ spoločne!"</string>
   <string name="how_many_pics">%d\u0020Snímkov</string>
   <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
   <string name="how_many_videos">%d\u0020Videí</string>
+  <string name="image_download_item_title">Sťahovanie obrázka(%s)</string>
   <string name="image_quota_fulfiled">"Nie je možné vytvoriť obrázok, Počet obrázkov presiahol limit."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletný</string>
@@ -256,8 +260,11 @@ spoločne!"</string>
   <string name="kick_sharer_successfully">Úspešne odstránené zo zdieľaných</string>
   <string name="loading">Nahrávam...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
+  <string name="loading_image">Sťahovanie obrázku...</string>
   <string name="loading_members">Načítavanie členov...</string>
+  <string name="loading_suspend">Sťahovanie pozastavené: Bude obnovené keď sa pripojíte na Wi-Fi.</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
+  <string name="loading_video">Sťahovanie videa...</string>
   <string name="local_albums">Lokálne Albumy</string>
   <string name="location">Poloha</string>
   <string name="locations">Miesta</string>
@@ -312,7 +319,7 @@ spoločne!"</string>
   <string name="none_picture">Žiadne obrázky.</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
   <string name="not_show_hidden_albums">"Nezobraziť skryté albumy"</string>
-  <string name="open">Otvoriť</string>
+  <string name="open">Otvoriť</string> 
   <string name="open_public_message">Vytvoriť URL a odoslať ostatným</string>
   <string name="open_public_title">Zdieľať verejne</string>
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
@@ -320,7 +327,7 @@ spoločne!"</string>
   <string name="operation_add_picture">Vybrať obrázky</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
 "</string>
-  <string name="operation_failed">Operácia zlyhala.</string> 
+  <string name="operation_failed">Operácia zlyhala.</string>
   <string name="operation_in_process">Spracovávanie...</string>
   <string name="operation_refresh">Obnoviť</string>
   <string name="operation_rename">Premenovať</string>
@@ -482,6 +489,7 @@ spoločne!"</string>
   <string name="there_is_no_image">Žiaden obrázok.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Čas</string>
+  <string name="time_line_view">Časová línia</string>
   <string name="times">Časy</string>
   <string name="tint">Odtieň</string>
   <string name="title">Názov</string>
@@ -514,12 +522,4 @@ spoločne!"</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
-  <string name="loading_video">Sťahovanie videa...</string>
-  <string name="loading_image">Sťahovanie obrázku...</string>
-  <string name="loading_suspend">Sťahovanie pozastavené: Bude obnovené keď sa pripojíte na Wi-Fi.</string>
-  <string name="confirm_download_video_title">Stiahnuť video</string>
-  <string name="confirm_download_video_message">Nie je možné video prehrať ak nie je dokončené jeho sťahovanie. Sťahovanie bude obnovené keď sa pripojíte na Wi-Fi.</string>
-  <string name="image_download_item_title">Sťahovanie obrázka(%s)</string>
-  <string name="time_line_view">Časová línia</string>
-  <string name="folder_holder_file">Mali by ste vymazať tento súbor</string>
 </resources>
