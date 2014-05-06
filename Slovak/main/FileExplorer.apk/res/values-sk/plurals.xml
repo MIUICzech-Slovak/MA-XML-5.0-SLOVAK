@@ -2,43 +2,43 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="directory_item_count">
-        <item quantity="other">%d items</item>
-        <item quantity="zero">%d items</item>
-        <item quantity="one">%d item</item>
-        <item quantity="two">%d items</item>
-        <item quantity="few">%d items</item>
-        <item quantity="many">%d items</item>
+        <item quantity="other">%d položiek</item>
+        <item quantity="zero">%d položiek</item>
+        <item quantity="one">%d položka</item>
+        <item quantity="two">%d položky</item>
+        <item quantity="few">%d položiek</item>
+        <item quantity="many">%d položiek</item>
     </plurals>
     <plurals name="delete_files_confirm">
-        <item quantity="other">Delete %1$d files</item>
-        <item quantity="zero">Delete %1$d files</item>
-        <item quantity="one">Delete %1$d file</item>
-        <item quantity="two">Delete %1$d files</item>
-        <item quantity="few">%1$Delete %1$d files</item>
-        <item quantity="many">Delete %1$d files</item>
+        <item quantity="other">Vymazať %1$d súborov</item>
+        <item quantity="zero">Vymazať %1$d súborov</item>
+        <item quantity="one">Vymazať %1$d súbor</item>
+        <item quantity="two">Vymazať %1$d súbory</item>
+        <item quantity="few">Vymazať %1$d súborov</item>
+        <item quantity="many">Vymazať %1$d súborov</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">" and %1$d folders?"</item>
-        <item quantity="zero">" and %1$d folders?"</item>
-        <item quantity="one">" and %1$d folder?"</item>
-        <item quantity="two">" and %1$d folders?"</item>
-        <item quantity="few">" and %1$d folders?"</item>
-        <item quantity="many">" and %1$d folders?"</item>
+        <item quantity="other">" a %1$d zložiek?"</item>
+        <item quantity="zero">" a %1$d zložiek?"</item>
+        <item quantity="one">" a %1$d zložku?"</item>
+        <item quantity="two">" a %1$d zložky?"</item>
+        <item quantity="few">" a %1$d zložiek?"</item>
+        <item quantity="many">" a %1$d zložiek?"</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">%1$d files left to download</item>
-        <item quantity="zero">%1$d files left to download</item>
-        <item quantity="one">%1$d file left to download</item>
-        <item quantity="two">%1$d files left to download</item>
-        <item quantity="few">%1$d files left to download</item>
-        <item quantity="many">%1$d files left to download</item>
+        <item quantity="other">%1$d súborov ostáva stiahnuť</item>
+        <item quantity="zero">%1$d súborov ostáva stiahnuť</item>
+        <item quantity="one">%1$d súbor ostáva stiahnuť</item>
+        <item quantity="two">%1$d súbory ostáva stiahnuť</item>
+        <item quantity="few">%1$d súborov ostáva stiahnuť</item>
+        <item quantity="many">%1$d súborov ostáva stiahnuť</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">%1$d files left to upload</item>
-        <item quantity="zero">%1$d files left to upload</item>
-        <item quantity="one">%1$d file left to upload</item>
-        <item quantity="two">%1$d files left to upload</item>
-        <item quantity="few">%1$d files left to upload</item>
-        <item quantity="many">%1$d files left to upload</item>
+        <item quantity="other">%1$d súborov ostáva nahrať</item>
+        <item quantity="zero">%1$d súborov ostáva nahrať</item>
+        <item quantity="one">%1$d súbor ostáva nahrať</item>
+        <item quantity="two">%1$d súbory ostáva nahrať</item>
+        <item quantity="few">%1$d súborov ostáva nahrať</item>
+        <item quantity="many">%1$d súborov ostáva nahrať</item>
     </plurals>
 </resources>

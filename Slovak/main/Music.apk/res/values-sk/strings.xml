@@ -350,14 +350,14 @@
     <string name="collect_bill_success">Bill added to favorites</string>
     <string name="collect_fm_success">Pridané k obľúbeným</string>
     <string name="uncollect_success">Odobrané z obľúbených</string>
-    <string name="dirac_mode_general_earbuds">General earbuds</string>
-    <string name="dirac_mode_general_inear">General inear</string>
-    <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
-    <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
-    <string name="sync_alert_title">Sync music</string>
-    <string name="sync_alert_message">Sync your favourite songs across devices with your Mi Account.</string>
-    <string name="not_now">Not now</string>
-    <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
-    <string name="login_and_enable">Sign in and sync</string>
-    <string name="sync_enable_toast">You can change this setting in Settings > Accounts > Mi Cloud</string>
+    <string name="dirac_mode_general_earbuds">Bežné slúchadlá</string>
+    <string name="dirac_mode_general_inear">Bežné špunty</string>
+    <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
+    <string name="dirac_mode_piston_youth">Xiaomi Piston-1</string>
+    <string name="sync_alert_title">Synchr. hudbu</string>
+    <string name="sync_alert_message">Synchr. obľúbené skladby medzi viacerými zariadeniami s vaším Xiaomi účtom.</string>
+    <string name="not_now">Teraz nie</string>
+    <string name="sync_disable_toast">Môžete povoliť synchr. v Nastavenia > Účty > MiCloud</string>
+    <string name="login_and_enable">Prihlásiť sa a synchr.</string>
+    <string name="sync_enable_toast">Môžete zmeniť synchr. v Nastavenia > Účty > MiCloud</string>
 </resources>

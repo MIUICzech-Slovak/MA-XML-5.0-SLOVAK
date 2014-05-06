@@ -7,7 +7,7 @@
   <string name="act_aqi_so2_title">SO2</string>
   <string name="act_city_find_gps_error">Vyberte mesto ručne zo zoznamu.</string>
   <string name="act_find_city_hint">Vyhľadať</string>
-  <string name="act_find_city_hot_title">Add</string>
+  <string name="act_find_city_hot_title">Pridať</string>
   <string name="act_find_city_null_data">Nenájdené.</string>
   <string name="act_find_city_title">Pridať mesto</string>
   <string name="act_init_dialog_finish">Boli pridané globálne info. o počasí.</string>
@@ -123,13 +123,13 @@ Dnes v %1$s je  počasie %2$s, %3$s, %4$s. %5$s."</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Žiadne údaje o počasí</string>
-  <string name="location_tag">Locate</string>
-  <string name="act_weather_find_city_no_result">No results</string>
-  <string name="act_weather_find_city_added">City added</string>
-  <string name="act_weather_find_city_net_no_good">"Can't connect to the network"</string>
-  <string name="act_weather_find_city_click_retry">Tap to retry</string>
-  <string name="button_abandon">Abandon changes</string>
-    <string name="act_weather_cycle_no_forcast">Unknown</string>
-    <string name="edit_city">Edit</string>
-    <string name="gps_hint">Current location</string>
+  <string name="location_tag">Lokalizovať</string>
+  <string name="act_weather_find_city_no_result">Žiadne výsledky</string>
+  <string name="act_weather_find_city_added">Mesto pridané</string>
+  <string name="act_weather_find_city_net_no_good">"Nie je možné sa pripojiť k sieti"</string>
+  <string name="act_weather_find_city_click_retry">Skúsiť znova</string>
+  <string name="button_abandon">Zrušiť zmeny</string>
+  <string name="act_weather_cycle_no_forcast">Neznáme</string>
+  <string name="edit_city">Upraviť</string>
+  <string name="gps_hint">Súčasná poloha</string>
 </resources>

@@ -687,10 +687,10 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wrong_password">Nesprávne heslo!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
+  <string name="wait_for_sync_body_txt_array_1">Exchange Server vás vyzve o</string>
   <string name="wait_for_sync_body_txt_array_2">1–30</string>
-  <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
-  <string name="wait_for_sync_body_txt_array_4">system alert</string>
+  <string name="wait_for_sync_body_txt_array_3">sekúnd. Potvrďte bezpečnostné nastavenia a aktivujte ich. Venujte pozornosť</string>
+  <string name="wait_for_sync_body_txt_array_4">upozorneniam</string>
   <string name="wait_for_sync_body_txt_array_5">.</string>
-  <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
+  <string name="wait_for_sync_note">Potiahnite nadol pre upozornenia. Stlačte pre dokončenie bezpečnostných nastavení.</string>
 </resources>
