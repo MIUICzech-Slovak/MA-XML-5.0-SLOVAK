@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="act_aqi_no2_title">NO2</string>
   <string name="act_aqi_pm10_title">PM10</string>
@@ -19,8 +18,13 @@
   <string name="act_weather_aqi_title">Index kvality ovzdušia</string>
   <string name="act_weather_cycle_link_china">WeatherChina</string>
   <string name="act_weather_cycle_low_temp">nízka</string>
+  <string name="act_weather_cycle_no_forcast">Neznáme</string>
   <string name="act_weather_cycle_update">Aktualizovanie...</string>
+  <string name="act_weather_find_city_added">Mesto pridané</string>
+  <string name="act_weather_find_city_click_retry">Skúsiť znova</string>
   <string name="act_weather_find_city_connect_net">Skontrolujte pripojenie k internetu a skúste to znova.</string>
+  <string name="act_weather_find_city_net_no_good">"Nie je možné sa pripojiť k sieti"</string>
+  <string name="act_weather_find_city_no_result">Žiadne výsledky</string>
   <string name="act_weather_find_city_search_online">Vyhľadať</string>
   <string name="act_weather_find_city_searching">Vyhľadávanie...</string>
   <string name="act_weather_main_aqi_index">Kvalita ovzdušia: %s</string>
@@ -37,7 +41,6 @@
   <string name="app_love_sms_title">Obsah správy</string>
   <string name="app_love_view_title">Náhľad</string>
   <string name="app_name">Počasie</string>
-  <string name="network_unavailable">Žiadna sieť</string>
   <string name="app_unquiet_net">Slabý signál siete</string>
   <string name="aqi_details_dangerous">Ľudia so srdcovo-cievnými problémami, starší ľudia a deti by sa mali vyhýbať fyzickéj aktivite vo vonkajšom prostredí. Všetci ostatní by mali svoj pobyt vonku obmedziť na minimum.</string>
   <string name="aqi_details_fine">Nezvyčajne citliví ľudia by mali obmedziť svoj pobyt vonku.</string>
@@ -52,9 +55,11 @@
   <string name="aqi_quality_index_moderate">primerane</string>
   <string name="aqi_quality_index_pure">výborné</string>
   <string name="aqi_quality_index_unhealthy">nezdravé</string>
+  <string name="button_abandon">Zrušiť zmeny</string>
   <string name="button_allow">Povoliť</string>
   <string name="button_not_allow">Zakázať</string>
   <string name="cancel">Zrušiť</string>
+  <string name="edit_city">Upraviť</string>
   <string name="enable_gps">GPS</string>
   <string name="enable_notification">Upozornenie podľa polohy</string>
   <string name="enable_notification_city">Povolené upozornenia pre %s. Systém vás upozorní na nepredvídané zmeny počasia ako je dážď, sneženie a prudká zmena teploty.</string>
@@ -64,11 +69,13 @@
   <string name="format_date_trend_md">dd.MM.</string>
   <string name="format_date_week">EEE</string>
   <string name="format_date_wmd">dd.MM. EEEE</string>
+  <string name="gps_hint">Súčasná poloha</string>
   <string name="loading_weather">Načítavanie počasia...</string>
-  <string name="local_city" />
+  <string name="local_city"/>
   <string name="location_allow_err">Vyhľadávanie mesta zlyhalo.</string>
   <string name="location_management">Mestá</string>
   <string name="location_notification">Upozornenie o počasí</string>
+  <string name="location_tag">Lokalizovať</string>
   <string name="menu_about">Čo to je</string>
   <string name="menu_add">Pridať mestá</string>
   <string name="menu_around">Surrounding</string>
@@ -83,6 +90,7 @@
   <string name="menu_settings">Nastavenia</string>
   <string name="menu_share">Zdieľať</string>
   <string name="menu_trend">Vývoj</string>
+  <string name="network_unavailable">Žiadna sieť</string>
   <string name="save_screen_shot_failed">Ukladanie screenshotu zlyhalo.</string>
   <string name="selected_format">Vybraných položiek: %d</string>
   <string name="send_sms_notification">Odoslať upozornenie o počasí</string>
@@ -123,13 +131,4 @@ Dnes v %1$s je  počasie %2$s, %3$s, %4$s. %5$s."</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Žiadne údaje o počasí</string>
-  <string name="location_tag">Lokalizovať</string>
-  <string name="act_weather_find_city_no_result">Žiadne výsledky</string>
-  <string name="act_weather_find_city_added">Mesto pridané</string>
-  <string name="act_weather_find_city_net_no_good">"Nie je možné sa pripojiť k sieti"</string>
-  <string name="act_weather_find_city_click_retry">Skúsiť znova</string>
-  <string name="button_abandon">Zrušiť zmeny</string>
-  <string name="act_weather_cycle_no_forcast">Neznáme</string>
-  <string name="edit_city">Upraviť</string>
-  <string name="gps_hint">Súčasná poloha</string>
 </resources>

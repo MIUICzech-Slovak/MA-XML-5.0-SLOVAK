@@ -198,7 +198,7 @@
   <string name="att_mgr_title_order_name">Názvu</string>
   <string name="att_mgr_title_order_rev_date">Dátumu</string>
   <string name="att_mgr_title_order_sender">Odosilateľa</string>
-  <string name="att_mgr_title_order_size">Veľkosti</string>  
+  <string name="att_mgr_title_order_size">Veľkosti</string>
   <string name="attached_message">Priložená správa</string>
   <string name="attachment_application_msword">Dokument</string>
   <string name="attachment_application_pdf">PDF</string>
@@ -453,7 +453,7 @@ Kópia: %4$s
   <string name="message_saved">Správa bola uložená ako koncept.</string>
   <string name="message_view_attachment_background_load">Pred odoslaním sa prevezme jedna alebo viacero príloh zo správy posielanej ďalej.</string>
   <string name="more_atts_total">Príloh: %1$d</string>
-    <string name="more_info_attachment">Informácie</string>
+  <string name="more_info_attachment">Informácie</string>
   <string name="more_string">+%1$s</string>
   <string name="more_than_999">999+</string>
   <string name="move_to_selection_dialog_title">Presunúť do</string>
@@ -680,6 +680,12 @@ presahuje limit"</string>
 Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizovať". Ak chcete nastaviť, aby účet synchronizoval e-maily automaticky, dotknite sa položky "Zmeniť nastavenia synchronizácie".</string>
   <string name="wait_for_sync_body">Vaše správy sa čoskoro zobrazia.</string>
   <string name="wait_for_sync_body_2">Exchange Server vás v priebehu 1-30 sekúnd spojí. Potvrďte bezpečnostné nastavenia a aktivujte ho.</string>
+  <string name="wait_for_sync_body_txt_array_1">Exchange Server vás vyzve o</string>
+  <string name="wait_for_sync_body_txt_array_2">1–30</string>
+  <string name="wait_for_sync_body_txt_array_3">sekúnd. Potvrďte bezpečnostné nastavenia a aktivujte ich. Venujte pozornosť</string>
+  <string name="wait_for_sync_body_txt_array_4">upozorneniam</string>
+  <string name="wait_for_sync_body_txt_array_5">.</string>
+  <string name="wait_for_sync_note">Potiahnite nadol pre upozornenia. Stlačte pre dokončenie bezpečnostných nastavení.</string>
   <string name="wait_for_sync_title">Čaká sa na synchronizáciu</string>
   <string name="widget_all_mail">Všetky správy</string>
   <string name="widget_large_unread_count">%d+</string>
@@ -687,10 +693,4 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wrong_password">Nesprávne heslo!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="wait_for_sync_body_txt_array_1">Exchange Server vás vyzve o</string>
-  <string name="wait_for_sync_body_txt_array_2">1–30</string>
-  <string name="wait_for_sync_body_txt_array_3">sekúnd. Potvrďte bezpečnostné nastavenia a aktivujte ich. Venujte pozornosť</string>
-  <string name="wait_for_sync_body_txt_array_4">upozorneniam</string>
-  <string name="wait_for_sync_body_txt_array_5">.</string>
-  <string name="wait_for_sync_note">Potiahnite nadol pre upozornenia. Stlačte pre dokončenie bezpečnostných nastavení.</string>
 </resources>

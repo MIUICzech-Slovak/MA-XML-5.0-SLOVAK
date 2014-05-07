@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Nie je možný prístup na SD kartu."</string>
@@ -188,11 +187,25 @@
   <string name="pref_camera_autoexposure_entry_spotmetering">Bod</string>
   <string name="pref_camera_autoexposure_title">Režim Auto Expozície</string>
   <string name="pref_camera_coloreffect_entry_aqua">Voda</string>
+  <string name="pref_camera_coloreffect_entry_brannan">Svitanie</string>
+  <string name="pref_camera_coloreffect_entry_earlybird">Jeseň</string>
+  <string name="pref_camera_coloreffect_entry_fisheye">Rybie oko</string>
+  <string name="pref_camera_coloreffect_entry_gaussianblur">Rozmazané</string>
+  <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
+  <string name="pref_camera_coloreffect_entry_mirror">Zrkadlo</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_mosaic">Mozaika</string>
+  <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
   <string name="pref_camera_coloreffect_entry_negative">Negatív</string>
   <string name="pref_camera_coloreffect_entry_none">Žiadny</string>
+  <string name="pref_camera_coloreffect_entry_planet">Malý svet</string>
   <string name="pref_camera_coloreffect_entry_posterize">Poster</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sépia</string>
+  <string name="pref_camera_coloreffect_entry_seventy">1970</string>
+  <string name="pref_camera_coloreffect_entry_sketch">Kresba</string>
+  <string name="pref_camera_coloreffect_entry_vivid">Živé</string>
+  <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
+  <string name="pref_camera_coloreffect_entry_yesteryear">Silvester</string>
   <string name="pref_camera_coloreffect_title">Filtre</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
   <string name="pref_camera_current_k_value">Aktuálna hodnota</string>
@@ -495,18 +508,4 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="pref_camera_coloreffect_entry_vivid">Živé</string>
-  <string name="pref_camera_coloreffect_entry_yesteryear">Silvester</string>
-  <string name="pref_camera_coloreffect_entry_brannan">Svitanie</string>
-  <string name="pref_camera_coloreffect_entry_sketch">Kresba</string>
-  <string name="pref_camera_coloreffect_entry_seventy">1970</string>
-  <string name="pref_camera_coloreffect_entry_fisheye">Rybie oko</string>
-  <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
-  <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
-  <string name="pref_camera_coloreffect_entry_mosaic">Mozaika</string>
-  <string name="pref_camera_coloreffect_entry_earlybird">Jeseň</string>
-  <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
-  <string name="pref_camera_coloreffect_entry_planet">Malý svet</string>
-  <string name="pref_camera_coloreffect_entry_mirror">Zrkadlo</string>
-  <string name="pref_camera_coloreffect_entry_gaussianblur">Rozmazané</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="accept">Prijať</string>
@@ -45,7 +44,7 @@
   <string name="already_apply_album">Otvoriť %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Tapety</string>
-  <string name="aperture">Clona</string> 
+  <string name="aperture">Clona</string>
   <string name="app_name">Galéria</string>
   <string name="apply_successfully">Pripojený k albumu.</string>
   <string name="appwidget_empty_text">Žiadne snímky.</string>
@@ -117,9 +116,9 @@ spoločne!"</string>
   <string name="comfirm_delete_current_album">Vymazať tento album?</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Vymazať (%s)?</string>
-  <string formatted="false" name="confirm_delete_album">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
-  <string name="confirm_delete_home_merge_item">Vymazať obrázky (%s) v zariadení a v cloude?</string>
+  <string name="confirm_delete_album" formatted="false">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
+  <string name="confirm_delete_home_merge_item">Vymazať obrázky (%s) v zariadení a v cloude?</string>
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s je systémový album, skutočne vymazať?</string>
   <string name="confirm_delete_this_picture">Vymazať tento obrázok?</string>
@@ -178,10 +177,10 @@ spoločne!"</string>
   <string name="email_picker_title">Pridať zdieľaný E-mail</string>
   <string name="empty_album">Žiadne obrázky/videá.</string>
   <string name="enable_cloud_for_sharing">Je potrebné povoliť cloudové album pre zobrazenie zdieľaných fotografií.</string>
-  <string name="error_forbidden">Vyskytli sa problémy s vaším účtom: Synchr. deaktivovaná.</string>
   <string name="enter_email_hint">"Zadajte E-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
   <string name="error_cloud_not_active">Cloud album sa nepoužíva</string>
+  <string name="error_forbidden">Vyskytli sa problémy s vaším účtom: Synchr. deaktivovaná.</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
   <string name="error_not_acceptable">Chyba servera: Synchr. deaktivovaná.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
@@ -332,7 +331,7 @@ spoločne!"</string>
   <string name="none_picture">Žiadne obrázky.</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
   <string name="not_show_hidden_albums">"Nezobraziť skryté albumy"</string>
-  <string name="open">Otvoriť</string> 
+  <string name="open">Otvoriť</string>
   <string name="open_public_message">Vytvoriť URL a odoslať ostatným</string>
   <string name="open_public_title">Zdieľať verejne</string>
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
