@@ -296,4 +296,9 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
+  <string name="resource_delete">Delete</string>
+    <string name="theme_yes">Yes</string>
+    <string name="theme_no">No</string>
+    <string name="theme_fresh_man_notifaction">Try some new themes.</string>
+    <string name="apply_default_font_tip">"Keep using system's current font?"</string>
 </resources>

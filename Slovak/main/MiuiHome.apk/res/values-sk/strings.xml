@@ -270,4 +270,5 @@ Prosím otvorte túto aplikáciu znovu pre obnovenie zdrojov."</string>
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
+  <string name="free_wifi_manage_summary">Tap to view to %1$s.</string>
 </resources>
