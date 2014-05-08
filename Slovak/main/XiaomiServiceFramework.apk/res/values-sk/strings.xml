@@ -321,4 +321,5 @@ s "</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="find_device_notice_p4">Whenever the SIM card changes, a registration SMS may be sent to keep track of the phone</string>
 </resources>

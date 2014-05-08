@@ -222,4 +222,7 @@
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>
   <string name="app_name">Povolenia</string>
+  <string name="HIPS_Perm_DisableKeyguard">Unlock Screen</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Unlock Screen</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apps can unlock screen</string>
 </resources>

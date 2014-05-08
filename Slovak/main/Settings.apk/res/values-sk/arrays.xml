@@ -645,4 +645,8 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Zobraziť oblasti pre deuteranomáliu</item>
         <item>Zobraziť počítadlo prekreslení</item>
     </string-array>
+    <string-array name="perm_disable_keyguard_action">
+        <item>Allow</item>
+        <item>Deny</item>
+    </string-array>
 </resources>
