@@ -34,6 +34,7 @@
   <string name="clean_memory">Pamäť vyčistená</string>
   <string name="click_to_open">Otvoriť</string>
   <string name="close_all">Zatvoriť</string>
+  <string name="close_recorder">Zatvoriť záznamník</string>
   <string name="cn_0">0</string>
   <string name="cn_1">1</string>
   <string name="cn_10">10</string>
@@ -56,15 +57,21 @@
   <string name="delete_gesture">Vymazať nastavenie tlačidla?</string>
   <string name="device_not_recognized">Pripojené zariadenie nie je rozpoznané. Skúste to znova.</string>
   <string name="earphone">Slúchadlá</string>
+  <string name="file_delimiter">/</string>
   <string name="front_camera">Predný fotoaparát</string>
   <string name="input_phone">Telefónne číslo</string>
   <string name="long_click">Dlhé stlačenie</string>
   <string name="message_photo_end">Fotografia uložená</string>
   <string name="no_usage">...</string>
+  <string name="notification_control_play">Prehrať</string>
+  <string name="notification_control_stop">Zastaviť</string>
+  <string name="notification_recorder_file_location">Uložené:</string>
+  <string name="notification_recorder_start">Nahrávanie...</string>
   <string name="rank_prefix">"Hodnotenie: "</string>
   <string name="rank_suffix">" bodov"</string>
   <string name="recommend">Odporúčané</string>
   <string name="running_notification">Xiaomi MiKey</string>
+  <string name="sdcard">sdcard</string>
   <string name="select_camera">Vyberte fotoaparát</string>
   <string name="select_device">Čo ste pripojili?</string>
   <string name="setting_feedback">Spätná väzba</string>
@@ -72,6 +79,7 @@
   <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
   <string name="setting_keeplive_desc">Táto možnosť umožní aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie</string>
   <string name="setting_keeplive_text">Bežať na pozadí</string>
+  <string name="setting_silent_mode">Tichý režim</string>
   <string name="setting_speed_desc">Rýchlosť kliknutí tlačidlom</string>
   <string name="setting_speed_quick">Rýchlo</string>
   <string name="setting_speed_slow">Pomaly</string>
@@ -89,6 +97,9 @@
   <string name="short_click_7">7x</string>
   <string name="short_click_8">8x</string>
   <string name="short_click_9">9x</string>
+  <string name="showSlip">Zobraziť v roletke</string>
+  <string name="silent_mode_tip_main">Tlačidlo pre stíšenie je deaktivované</string>
+  <string name="silent_mode_tip_sub">Povoľte v nastaveniach</string>
   <string name="sms_sent_done">SMS odoslaná</string>
   <string name="sms_template">Text správy</string>
   <string name="sms_to">SMS</string>
