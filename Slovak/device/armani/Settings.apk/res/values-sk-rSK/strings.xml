@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="ct_mobile_data_hints">Nie je možné aktivovať mobilné dáta pre SIM slot 2 pokiaľ sú povolené pre SIM slot 1.</string>
+  <string name="gemini_data_connection">Dátové pripojenie</string>
+  <string name="gemini_data_roaming_summary">Pripojiť k dátam počas roamingu</string>
+  <string name="gemini_data_roaming_title">Dáta roaming</string>
+  <string name="gemini_default_sim_title">PREDVOLENÉ NASTAVENIA</string>
+  <string name="gemini_general_settings_title">VŠEOBECNÉ NASTAVENIA</string>
+  <string name="gemini_no_sim_indicator">Žiadna SIM</string>
+  <string name="gemini_roaming_settings_title">Roaming</string>
+  <string name="gemini_sim_info_editor_name">Upraviť názov SIM</string>
+  <string name="gemini_sim_info_editor_name_dup_msg">Kopírovať názov pre SIM</string>
+  <string name="gemini_sim_info_editor_name_dup_title">ukladanie zlyhalo</string>
+  <string name="gemini_sim_info_editor_number">Zadajte číslo telefónu</string>
+  <string name="gemini_sim_info_title">INFORMÁCIE O SIM</string>
+  <string name="gemini_sim_management_title">Správa SIM</string>
+  <string name="gemini_sim_mode_progress_activating_message">Aktivácia...</string>
+  <string name="gemini_sim_mode_progress_deactivating_message">Deaktivovanie...</string>
+</resources>
