@@ -573,6 +573,7 @@ Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#
   <string name="button_text_delete_from_white_list">Odobrať</string>
   <string name="button_text_done">Hotovo</string>
   <string name="button_text_fix">Opraviť</string>
+  <string name="button_text_known">OK</string>
   <string name="button_text_quick_scan">Kontrola</string>
   <string name="button_text_security">OK</string>
   <string name="button_text_uninstall">Odinšt.</string>
@@ -894,6 +895,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_status">Stav</string>
   <string name="device_status_activity_title">Stav</string>
   <string name="device_status_summary">Stav batérie, úroveň nabitia, atď.</string>
+  <string name="dialog_message_auto_start_tips">Niektoré bezpečnostné aplikácie sa môžu nesprávne javiť, že im MIUI bráni automaticky sa spustiť. Pre kontrolu povolení ktoré boli pridelené jednotlivým aplikáciam, choďte do Nastavenia &gt; Aplikácie.</string>
   <string name="dialog_msg_backup_and_cleanup_apps">Po dokončení zálohy, všetky dáta aplikácií budú vymazané. To zahrňuje všetky ich súbory, nastavenia, účty, atď.</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte zálohovanie a odinštalovanie aplikácií</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položiek: %2$d</string>
@@ -901,6 +903,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dialog_msg_cleanup_system_cache">Vymaže sa cache pre všetky aplikácie.</string>
   <string name="dialog_msg_load_cleanup_engine_error">Nástroj pre čistenie je poškodený, je nutné preinštalovať ROM!</string>
   <string name="dialog_msg_uninstall_apps">Odinštalovať tieto aplikácie?</string>
+  <string name="dialog_title_auto_start_tips">O auto štarte</string>
   <string name="dialog_title_backup_and_cleanup_apps">Zálohovať a vymazať dáta aplikácie?</string>
   <string name="dialog_title_backup_and_uninstall_apps">Zálohovať a odinštalovať</string>
   <string name="dialog_title_check_all">Vybrať všetko</string>
@@ -3656,7 +3659,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-    <string name="dialog_title_auto_start_tips">About auto start</string>
-    <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings > Apps.</string>
-    <string name="button_text_known">I know</string>
 </resources>

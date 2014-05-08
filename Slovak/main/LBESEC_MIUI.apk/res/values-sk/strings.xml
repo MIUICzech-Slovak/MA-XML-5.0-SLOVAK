@@ -99,6 +99,9 @@
   <string name="HIPS_Perm_Contact_Access">Prístup ku kontaktom</string>
   <string name="HIPS_Perm_Contact_Desc">Prístup ku kontaktom</string>
   <string name="HIPS_Perm_Contact_Hint">%1$s aplikácií má povolenie pre prístup ku kontaktom</string>
+  <string name="HIPS_Perm_DisableKeyguard">Odomknúť displej</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Odomknúť displej</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s aplikácií môže odomknúť displej</string>
   <string name="HIPS_Perm_EndCall">Ukončiť prebiehajúci hovor</string>
   <string name="HIPS_Perm_GetCallState">Zistiť stav hovoru</string>
   <string name="HIPS_Perm_ListenCallState">Sledovať stav hovoru</string>
@@ -222,7 +225,4 @@
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>
   <string name="app_name">Povolenia</string>
-  <string name="HIPS_Perm_DisableKeyguard">Unlock Screen</string>
-  <string name="HIPS_Perm_DisableKeyguard_Desc">Unlock Screen</string>
-  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apps can unlock screen</string>
 </resources>

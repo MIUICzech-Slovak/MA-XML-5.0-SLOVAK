@@ -646,7 +646,7 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Zobraziť počítadlo prekreslení</item>
     </string-array>
     <string-array name="perm_disable_keyguard_action">
-        <item>Allow</item>
-        <item>Deny</item>
+        <item>Povoliť</item>
+        <item>Zakázať</item>
     </string-array>
 </resources>
