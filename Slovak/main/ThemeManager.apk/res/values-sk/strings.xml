@@ -6,6 +6,7 @@
   <string name="all_resources">Všetko</string>
   <string name="all_ringtone_resource">Všetko</string>
   <string name="app_name">Témy</string>
+  <string name="apply_default_font_tip">Ponechať súčasné písmo?</string>
   <string name="apply_font_btn_exclude">Aplikovať bez písma</string>
   <string name="apply_font_btn_reboot">Použiť a reštartovať</string>
   <string name="apply_font_tip">Téma obsahuje nové písma, je potrebné reštartovať telefón pre ich použitie.</string>
@@ -109,6 +110,7 @@
   <string name="resource_comment_version_name">(%1$s verzia)</string>
   <string name="resource_default">Predvolené zvonenie</string>
   <string name="resource_default_name">Zdroj</string>
+  <string name="resource_delete">Vymazať</string>
   <string name="resource_delete_all">Vymazať (%1$d)?</string>
   <string name="resource_delete_confirm">Vymazať túto tému?</string>
   <string name="resource_delta_update_failed">Aktualizovanie rozdielov zlyhalo, stiahne sa celý balík</string>
@@ -253,6 +255,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="theme_current_using_has_update">Súčasná téma bola aktualizovaná, dotknite sa tu pre jej aplikovanie</string>
   <string name="theme_description_title_customized">Vlastné</string>
   <string name="theme_description_title_default">Predvolené</string>
+  <string name="theme_fresh_man_notifaction">Skúste nejaké nové témy.</string>
   <string name="theme_immediately_apply_tip">Téma bola aktualizovaná, chcete ju aplikovať teraz?</string>
   <string name="theme_import_activity_label">Aktualizovať tému</string>
   <string name="theme_import_data">Importovanie témy</string>
@@ -277,12 +280,14 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="theme_import_stoping">Zastavovanie...</string>
   <string name="theme_importing">Nahrávanie témy...</string>
   <string name="theme_is_imported">Téma je importovaná</string>
+  <string name="theme_no">Nie</string>
   <string name="theme_sdcard_importing">Nahrávanie z SD karty...</string>
   <string name="theme_select_others">Ostatné</string>
   <string name="theme_upgrade_request_cancel">Nie</string>
   <string name="theme_upgrade_request_content">Téma musí byť aktualizovaná aby mohla pracovať správne. Je nutné internetové pripojenie, chcete pokračovať..?</string>
   <string name="theme_upgrade_request_title">Aktualizácia témy</string>
   <string name="theme_upgrade_request_yes">OK</string>
+  <string name="theme_yes">Ános</string>
   <string name="third_party_pickers_activity_title">Nastaviť %1$s</string>
   <string name="title_component">Mix</string>
   <string name="title_local">Lokálne</string>
@@ -296,9 +301,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
-  <string name="resource_delete">Delete</string>
-    <string name="theme_yes">Yes</string>
-    <string name="theme_no">No</string>
-    <string name="theme_fresh_man_notifaction">Try some new themes.</string>
-    <string name="apply_default_font_tip">"Keep using system's current font?"</string>
 </resources>

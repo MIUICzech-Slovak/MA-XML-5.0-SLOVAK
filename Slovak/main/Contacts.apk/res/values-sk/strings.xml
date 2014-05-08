@@ -861,6 +861,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_comment_upload_success">Komentár je odoslaný! Zobrazí sa až po jeho schválení.</string>
   <string name="resource_default">Predvolené zvonenie</string>
   <string name="resource_default_name">Zdroj</string>
+  <string name="resource_delete">Vymazať</string>
   <string name="resource_delete_all">Vymazať (%1$d)?</string>
   <string name="resource_delete_confirm">Vymazať tieto zdroje?</string>
   <string name="resource_delta_update_failed">Aktualizovanie rozdielov zlyhalo, stiahne sa celý balík</string>
@@ -1170,5 +1171,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_search_select_city">Zvoľte mesto</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-    <string name="resource_delete">Delete</string>
 </resources>
