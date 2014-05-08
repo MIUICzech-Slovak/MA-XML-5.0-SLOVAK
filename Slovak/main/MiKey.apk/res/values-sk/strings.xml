@@ -65,7 +65,7 @@
   <string name="no_usage">...</string>
   <string name="notification_control_play">Prehrať</string>
   <string name="notification_control_stop">Zastaviť</string>
-  <string name="notification_recorder_file_location">Uložené:</string>
+  <string name="notification_recorder_file_location">Uložené do:</string>
   <string name="notification_recorder_start">Nahrávanie...</string>
   <string name="rank_prefix">"Hodnotenie: "</string>
   <string name="rank_suffix">" bodov"</string>
@@ -77,7 +77,7 @@
   <string name="setting_feedback">Spätná väzba</string>
   <string name="setting_instant_photo_desc">Pred zhotovením fotografie, fotoaparát zaostrí</string>
   <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
-  <string name="setting_keeplive_desc">Táto možnosť umožní aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie</string>
+  <string name="setting_keeplive_desc">Táto možnosť povolí aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie</string>
   <string name="setting_keeplive_text">Bežať na pozadí</string>
   <string name="setting_silent_mode">Tichý režim</string>
   <string name="setting_speed_desc">Rýchlosť kliknutí tlačidlom</string>
@@ -98,8 +98,8 @@
   <string name="short_click_8">8x</string>
   <string name="short_click_9">9x</string>
   <string name="showSlip">Zobraziť v roletke</string>
-  <string name="silent_mode_tip_main">Tlačidlo pre stíšenie je deaktivované</string>
-  <string name="silent_mode_tip_sub">Povoľte v nastaveniach</string>
+  <string name="silent_mode_tip_main">Tichý režim aktivovaný</string>
+  <string name="silent_mode_tip_sub"/>
   <string name="sms_sent_done">SMS odoslaná</string>
   <string name="sms_template">Text správy</string>
   <string name="sms_to">SMS</string>
