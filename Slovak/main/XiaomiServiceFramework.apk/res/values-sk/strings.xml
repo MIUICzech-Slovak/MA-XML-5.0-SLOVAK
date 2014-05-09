@@ -128,7 +128,7 @@
   <string name="error_phone_error">Nesprávne číslo telefónu</string>
   <string name="error_server">Chyba servera</string>
   <string name="error_sim_not_ready">SIM nie je pripravená</string>
-  <string name="error_unknown">Neznáma chyba: %1$s</string>
+  <string name="error_unknown">Neznáma chyba</string>
   <string name="error_user_name">Nesprávne užívateľské meno.</string>
   <string name="failed_to_send_activate_email">Chyba pri zasielaní aktivačného emailu.</string>
   <string name="find_device">Poloha zariadenia</string>
