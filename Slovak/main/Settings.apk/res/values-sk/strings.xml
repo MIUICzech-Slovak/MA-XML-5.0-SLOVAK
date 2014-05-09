@@ -48,12 +48,12 @@ Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na u
   <string name="accessibility_screen_magnification_summary">"Keď je táto funkcia zapnutá, môžete približovať alebo odďalovať trojitým klepnutím na obrazovku.
 
 Počas priblíženia môžete:
-"&lt;li&gt;&lt;ul&gt;"Pos&amp;#250;va&amp;#357;: &amp;#356;ahajte dvoma alebo viacer&amp;#253;mi prstami po obrazovke.
-"&lt;li&gt;Prisp&amp;#244;sobi&amp;#357; &amp;#250;rove&amp;#328; pribl&amp;#237;&amp;#382;enia: Pribl&amp;#237;&amp;#382;te dva alebo viacero prstov k sebe alebo ich od seba odtiahnite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"Posúvať: Ťahajte dvoma alebo viacerými prstami po obrazovke.
+"Prispôsobiť úroveň priblíženia: Priblížte dva alebo viacero prstov k sebe alebo ich od seba odtiahnite."
 
-Obsah pod prstom m&amp;#244;&amp;#382;ete tie&amp;#382; do&amp;#269;asne pribl&amp;#237;&amp;#382;i&amp;#357; trojit&amp;#253;m klepnut&amp;#237;m a podr&amp;#382;an&amp;#237;m. V stave pribl&amp;#237;&amp;#382;enia m&amp;#244;&amp;#382;ete pos&amp;#250;van&amp;#237;m prsta presk&amp;#250;mava&amp;#357; r&amp;#244;zne &amp;#269;asti obrazovky. Odtiahnut&amp;#237;m prsta sa vr&amp;#225;tite do predch&amp;#225;dzaj&amp;#250;ceho stavu.
+Obsah pod prstom môžete tiež dočasne priblížiť trojitým klepnutím a podržaním. V stave priblíženia môžete posúvaním prsta preskúmavať rôzne časti obrazovky. Odtiahnutím prsta sa vrátite do predchádzajúceho stavu.
 
-Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#237;m funguje v&amp;#353;ade okrem kl&amp;#225;vesnice a naviga&amp;#269;n&amp;#233;ho panela."</string>
+Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>	
   <string name="accessibility_screen_magnification_title">Gestá priblíženia</string>
   <string name="accessibility_script_injection_allowed">Povolené</string>
   <string name="accessibility_script_injection_button_allow">Povoliť</string>
@@ -380,7 +380,7 @@ Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikácia v telefóne chce zapnúť pripojenie Bluetooth a nastaviť telefón do viditeľného režimu. Povoliť?</string>
   <string name="bluetooth_ask_lasting_discovery">Aplikácia v telefóne chce trvalo nastaviť telefón do viditeľného režimu pre ostatné zariadenia Bluetooth. Povoliť?</string>
   <string name="bluetooth_auto_connect">Automatické pripojenie</string>
-  <string name="bluetooth_confirm_passkey_msg">Párovanie so zariadením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Skontrolujte, či zariadenie zobrazuje tento prístupový \nkľúč:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Párovanie so zariadením: %1$s Skontrolujte, či zariadenie zobrazuje tento prístupový \nkľúč: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Pripojiť k sieti...</string>
   <string name="bluetooth_connected">Pripojené</string>
   <string name="bluetooth_connected_no_a2dp">Pripojené (žiadne média)</string>
@@ -409,10 +409,10 @@ Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#
   <string name="bluetooth_device_name">Názov zariadenia</string>
   <string name="bluetooth_device_searchable">Viditeľné zariadenie</string>
   <string name="bluetooth_devices">Zariadenia Bluetooth</string>
-  <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zariadenie:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil: %1$s Zariadenie:%2$s</string>
   <string name="bluetooth_disable_profile_title">Deaktivovať profil?</string>
   <string name="bluetooth_disconnect_a2dp_profile">Zariadenie %1$s bude odpojené od zvuku médií.</string>
-  <string name="bluetooth_disconnect_all_profiles">Týmto spôsobom ukončíte pripojenie k zariadeniu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Týmto spôsobom ukončíte pripojenie k zariadeniu: %1$s</string>
   <string name="bluetooth_disconnect_headset_profile">Zariadenie %1$s bude odpojené od zvuku sady handsfree.</string>
   <string name="bluetooth_disconnect_hid_profile">Zariadenie %1$s bude odpojené od vstupného zariadenia.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Zariadenie %1$s bude odpojené od zdieľaného internetového pripojenia telefónu.</string>
@@ -420,7 +420,7 @@ Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#
   <string name="bluetooth_disconnect_title">Odpojiť?</string>
   <string name="bluetooth_disconnected">Odpojené</string>
   <string name="bluetooth_disconnecting">Odpojovanie...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Párovanie so zariadením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zadajte:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; a potom stlačte klávesu Return alebo Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Párovanie so zariadením: %1$s Zadajte:%2$s a potom stlačte klávesu Return alebo Enter.</string>
   <string name="bluetooth_dock_settings">Nastavení doku</string>
   <string name="bluetooth_dock_settings_a2dp">Pre hudbu a média</string>
   <string name="bluetooth_dock_settings_headset">Ako telefón pre hlasitý reproduktor</string>
@@ -436,9 +436,9 @@ Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#
   <string name="bluetooth_empty_list_bluetooth_off">Ak chcete zobraziť zariadenia, zapnite Bluetooth.</string>
   <string name="bluetooth_enable">Povoliť bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena nebo symboly</string>
-  <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zadajte prístupový kľúč požadovaný zariadením:</string>
+  <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: %1$s Zadajte prístupový kľúč požadovaný zariadením:</string>
   <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>
-  <string name="bluetooth_enter_pin_msg">Párovanie si zariadením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Zadajte kód PIN požadovaný zariadením:</string>
+  <string name="bluetooth_enter_pin_msg">Párovanie si zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>
   <string name="bluetooth_enter_pin_msg_hs">Pre spárovanie sa s: %1$s zadajte PIN kód, ktorý požaduje zariadenie (16 číslic alebo viac):</string>
   <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>
   <string name="bluetooth_error_title"/>
@@ -450,7 +450,7 @@ Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#
   <string name="bluetooth_headset_profile_summary_use_for">Umožňuje pripojenie hands-free</string>
   <string name="bluetooth_hid_profile_summary_connected">Pripojené k vstupnému zariadeniu</string>
   <string name="bluetooth_hid_profile_summary_use_for">Použiť pre vstup</string>
-  <string name="bluetooth_incoming_pairing_msg">Zo zariadenia:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Spárovať s týmto zariadením?</string>
+  <string name="bluetooth_incoming_pairing_msg">Zo zariadenia: %1$s Spárovať s týmto zariadením?</string>
   <string name="bluetooth_is_discoverable">Viditeľné pre všetky okolité zariadenia Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Viditeľné pre všetky okolité zariadenia Bluetooth</string>
   <string name="bluetooth_lock_voice_dialing">Uzamknúť hlasové vytáčanie</string>
@@ -1686,26 +1686,25 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="msd_install">Inštalovať ovládač</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Ďalej</string>
-  <string name="msd_install_retry_linux">"Ak počítač nevie rozpoznať Xiaomi Mi2
+  <string name="msd_install_retry_linux">"Ak počítač nevie rozpoznať Xiaomi
 na systéme Ubuntu 12.xx pokračujte podľa tohto návodu:
-&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
-
-Pozor: Ubuntu 13.04 a nov&amp;#353;ie
-u&amp;#380; obsahuje MTP ovl&amp;#225;da&amp;#269;. 
-"</string>
-  <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
+Ubuntu-MTP.
+Pozor: Ubuntu 13.04 a novšie
+uż obsahuje MTP ovládač. 
+"</string>	
+    <string name="msd_install_retry_mac">"If the computer did not detect Xiaomi properly,
 Try the following:
-"&lt;li&gt;"Do a computer search for
+"Do a computer search for
 Android File Transfer
-for MAC"&lt;/li&gt;"
-"&lt;li&gt;Disconnect the MI 2 to computer USB cable and reconnect.&lt;/li&gt;"
-"&lt;li&gt;Re-install the driver.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi Mi2,
+for MAC"
+"Disconnect the MI 2 to computer USB cable and reconnect."
+"Re-install the driver.</string>	
+    <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi,
 skúste:
-"&lt;li&gt;Odpoji&amp;#357; telef&amp;#243;n z USB a pripoji&amp;#357; op&amp;#228;&amp;#357;.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi Mi2,
+"Odpojiť telefón z USB a pripojiť opäť.</string>	
+    <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi,
 skúste:
-"&lt;li&gt;Odpoji&amp;#357; telef&amp;#243;n z USB a pripoji&amp;#357; op&amp;#228;&amp;#357;.&lt;/li&gt;</string>
+"Odpojiť telefón z USB a pripojiť opäť.</string>
   <string name="msd_install_status_done">Ovládač už je nainštalovaný</string>
   <string name="msd_install_status_undo">Inštalovať ovládač</string>
   <string name="msd_install_succeed">Ovládač je nainštalovaný</string>
@@ -2460,14 +2459,14 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="remove_sms">Vymazať všetky zoznamy správ?</string>
   <string name="reset_app_preferences">Obnoviť nastavenia aplikácie</string>
   <string name="reset_app_preferences_button">Obnoviť aplikácie</string>
-  <string name="reset_app_preferences_desc">"Toto obnoví všetky nastavenia pre: 
- "&lt;li&gt;vypnut&amp;#233; aplik&amp;#225;cie,&lt;/li&gt;"
- "&lt;li&gt;vypnut&amp;#233; upozornenia aplik&amp;#225;ci&amp;#237;,&lt;/li&gt;"
- "&lt;li&gt;predvolen&amp;#225; aplik&amp;#225;cie pre dan&amp;#233; akcie,&lt;/li&gt;"
- "&lt;li&gt;obmedzenia t&amp;#253;kaj&amp;#250;ce sa pou&amp;#382;itia d&amp;#225;t na pozad&amp;#237; v aplik&amp;#225;ci&amp;#225;ch.&lt;/li&gt;"
- "&lt;li&gt;Ak&amp;#233;ko&amp;#318;vek obmedzenie povolenia&lt;/li&gt;"
+   <string name="reset_app_preferences_desc">"Toto obnoví všetky nastavenia pre: 
+ "vypnuté aplikácie,"
+ "vypnuté upozornenia aplikácií,"
+ "predvolená aplikácie pre dané akcie,"
+ "obmedzenia týkajúce sa použitia dát na pozadí v aplikáciách."
+ "Akékoľvek obmedzenie povolenia"
 
- &amp;#381;iadne aplik&amp;#225;cie sa nevyma&amp;#382;&amp;#250;."</string>
+ Žiadne aplikácie sa nevymažú."</string>	
   <string name="reset_app_preferences_title">Obnoviť nastavenia aplikácie?</string>
   <string name="residual_cancel">Zrušiť</string>
   <string name="residual_clean">Vyčistiť</string>
@@ -3392,7 +3391,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="wifi_display_certification">Certifikácia bezdrôtového displeja</string>
   <string name="wifi_display_certification_summary">Zobraziť možnosti certifikácie bezdrôtového displeja</string>
   <string name="wifi_display_details">Nastavenia obrazovky</string>
-  <string name="wifi_display_disconnect_text">Táto akcia ukončí vaše pripojenie so zariadením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="wifi_display_disconnect_text">Táto akcia ukončí vaše pripojenie so zariadením: %1$s</string>
   <string name="wifi_display_disconnect_title">Odpojiť?</string>
   <string name="wifi_display_enable_menu_item">Povoliť bezdrôtový displej</string>
   <string name="wifi_display_no_devices_found">V blízkosti sa nenašli žiadne displeje s bezdrôtovým pripojením.</string>
@@ -3521,7 +3520,7 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
   <string name="wifi_setup_back">Späť</string>
   <string name="wifi_setup_cancel">Zrušiť</string>
   <string name="wifi_setup_connect">Pripojiť</string>
-  <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavení, dotknite sa možnosti &lt;b&gt;&amp;#270;alej&lt;/b&gt;. Dotknite sa mo&amp;#382;nosti &lt;b&gt;Sp&amp;#228;&amp;#357;&lt;/b&gt;, ak sa chcete pripoji&amp;#357; k inej sieti Wi-Fi."</string>
+  <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavení, dotknite sa možnosti "Ďalej". Dotknite sa možnosti "Späť", ak sa chcete pripojiť k inej sieti Wi-Fi."</string>
   <string name="wifi_setup_description_connecting">Pripájanie môže trvať niekoľko minút...</string>
   <string name="wifi_setup_detail">Podrobnosti siete</string>
   <string name="wifi_setup_eap_not_supported">Pripojenie Wi-Fi EAP nie je možné nakonfigurovať pri inštalácií. Môžete to vykonať po dokončení inštalácie v ponuke Nastavenie v časti Bezdrôtové pripojenie a siete.</string>
