@@ -49,7 +49,7 @@
   <string name="perm_privacy_app_installed">Inštalácia úspešná!</string>
   <string name="perm_privacy_app_launch">Spustiť</string>
   <string name="perm_privacy_app_trust">Verím tejto aplikácií</string>
-  <string name="perm_privacy_app_trust_summary">MIUI bude kontrolovať túto aplikáciu</string>
+  <string name="perm_privacy_app_trust_summary">MIUI nebude kontrolovať túto aplikáciu</string>
   <string name="perm_sysopt_boost_auto_start">Automatické spustenie</string>
   <string name="perm_sysopt_boost_auto_start_summary">Aplikácia sa spustí automaticky!</string>
   <string name="privacy_relative">Práva k súkromným údajom</string>
