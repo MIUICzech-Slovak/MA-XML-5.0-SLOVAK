@@ -31,6 +31,6 @@
   <string name="traffic_protection_label">Ochrana spotreby mobilných dát</string>
   <string name="traffic_protection_summary">Ochrana spotreby mobilných dát Vás upozorní ak nastavený limit mobilných dát dosiahne stanovenú hranicu.</string>
   <string name="traffic_protection_text_hint">Zadajte limit mobilných dát.</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;"Teraz neviem, zad&amp;#225;m ho nesk&amp;#244;r."&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown">Teraz neviem, zadám ho neskôr.</string>
   <string name="use_data">Dáta povolené</string>
 </resources>
