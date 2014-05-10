@@ -2,7 +2,7 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="action_submit">Odoslať</string>
-  <string name="app_label">Hlásiť chybu</string>
+  <string name="app_label">Hlásenie chýb</string>
   <string name="btn_send">Odoslať</string>
   <string name="bugreport_feedback_from">Od: %s</string>
   <string name="description">Popis po anglicky (povinné)</string>
