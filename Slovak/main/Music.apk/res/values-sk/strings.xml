@@ -360,4 +360,6 @@
   <string name="vip_recommend_title">Prevziať vyššiu kvalitu hudby</string>
   <string name="where_is_barcode">"Kde je QR kód?"</string>
   <string name="xiaomi_account_setting">Xiaomi účet</string>
+  <string name="volume_alert_playback_alert_title">Upozornenie na hlasitosť</string>
+  <string name="volume_alert_playback_message">Pre ochranu vášho sluchu, nepočúvajte dlhodobo hudbu na vysokú hlasitosť.</string>
 </resources>

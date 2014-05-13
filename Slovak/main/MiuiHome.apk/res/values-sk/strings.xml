@@ -272,4 +272,5 @@ Prosím otvorte túto aplikáciu znovu pre obnovenie zdrojov."</string>
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
+  <string name="default_folder_title_game">Hry</string>
 </resources>
