@@ -305,6 +305,7 @@
   <string name="search_suggestion">Odporúčané vyhľadávanie:</string>
   <string name="search_title">Hľadať skladbu</string>
   <string name="select_all">Vybrať všetko</string>
+  <string name="select_device">Vyberte zariadenie</string>
   <string name="select_folder">Vyberte zložku(y)</string>
   <string name="select_quit_time">Nastavte čas, za ako dlho sa zastaví prehrávanie (v minútach)</string>
   <string name="send_to">Odoslať cez</string>
