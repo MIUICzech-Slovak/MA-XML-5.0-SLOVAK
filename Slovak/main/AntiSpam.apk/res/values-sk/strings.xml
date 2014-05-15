@@ -38,7 +38,7 @@
   <string name="ad_update_time">Aktualizované: %s</string>
   <string name="ad_update_time_unKnown">Aktualizované: Neznáme</string>
   <string name="ad_update_title">Automatická aktualizácia</string>
-  <string name="address_choose_hint">%1$s、%2$s a %3$d regióny</string>
+  <string name="address_choose_hint">%1$s, %2$s a %3$d regióny</string>
   <string name="addwhitelist">Pridať do výnimiek</string>
   <string name="all_address_choose_hint">Všetky regióny</string>
   <string name="app_name">AntiSpam</string>

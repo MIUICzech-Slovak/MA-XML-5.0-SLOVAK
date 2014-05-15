@@ -418,6 +418,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_touch_down_capture_title">Touch Down Capture</string>
   <string name="pref_video_captrue_ability_title">Snímka počas videa</string>
+  <string name="pref_video_fast_speed_title_simple_mode">Spomalené video</string>
   <string name="pref_video_focusmode_entry_auto">Dotykom</string>
   <string name="pref_video_focusmode_entry_continuous">Kontinuálne ostrenie</string>
   <string name="pref_video_focusmode_title">Režim ostrenia</string>
@@ -430,7 +431,6 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_video_quality_entry_wvga">WVGA</string>
   <string name="pref_video_quality_title">Kvalita videa</string>
   <string name="pref_video_slow_speed_title_simple_mode">Zrýchlené video</string>
-  <string name="pref_video_fast_speed_title_simple_mode">Spomalené video</string>
   <string name="pref_video_speed_entry_fast">Pomalé</string>
   <string name="pref_video_speed_entry_normal">Normálne</string>
   <string name="pref_video_speed_entry_slow">Rýchle</string>
@@ -485,12 +485,12 @@ opustite na chvíľu náhľad"</string>
   <string name="simple_mode_button_text_chroma_flash">Close Chroma Flash mode</string>
   <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
   <string name="simple_mode_button_text_face_beauty">Ukončiť vylepšenie tváre</string>
+  <string name="simple_mode_button_text_fast_video">Ukončiť zrýchlenú kameru</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
   <string name="simple_mode_button_text_opti_zoom">Close OptiZoom mode</string>
   <string name="simple_mode_button_text_panorama">Ukončiť panorámu</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť spomalenú kameru</string>
-  <string name="simple_mode_button_text_fast_video">Ukončiť zrýchlenú kameru</string>
   <string name="simple_mode_button_text_ubi_focus">Close Ubi Focus mode</string>
   <string name="simple_mode_title">Základný režim</string>
   <string name="slideshow">Prezentácia</string>

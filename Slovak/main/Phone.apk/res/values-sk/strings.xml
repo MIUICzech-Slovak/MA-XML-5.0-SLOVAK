@@ -848,6 +848,7 @@
   <string name="preferred_network_type_group_title_miui">Mobilná sieť (%s)</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G preferovaná</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">Preferovať 4G siete</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automaticky</string>
   <string name="preferred_network_type_pref_entries_global_miui">Globálne</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Len 2G (šetrí batériu)</string>
@@ -1189,5 +1190,4 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred_miui">Preferovať 4G siete</string>
 </resources>

@@ -307,6 +307,7 @@
   <string name="pref_content_autofit_summary">Formátovať stránky aby sa zmestili na obrazovku</string>
   <string name="pref_content_block_float_popups">Blokovať plávajúce okná</string>
   <string name="pref_content_block_popups">Blokovať pop-up okná</string>
+  <string name="pref_content_cloud_speedup">Povoliť cloudové zrýchlenie</string>
   <string name="pref_content_fontsize_setting">Nastavenie písma</string>
   <string name="pref_content_homepage">Nastaviť domovskú stránku</string>
   <string name="pref_content_javascript">Povoliť JavaScript</string>
@@ -506,6 +507,8 @@
   <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Nemožno uložiť pre čítanie offline."</string>
   <string name="snapshot_go_live">Aktualizovať</string>
+  <string name="ssl_certificate">Bezpečnostný certifikát</string>
+  <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="ssl_continue">Pokračovať</string>
   <string name="ssl_date_invalid">Tento certifikát má nesprávny dátum.</string>
   <string name="ssl_expired">Certifikát vypršal.</string>
@@ -581,7 +584,4 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
-  <string name="ssl_certificate">Bezpečnostný certifikát</string>
-  <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
-  <string name="pref_content_cloud_speedup">Povoliť cloudové zrýchlenie</string>
 </resources>

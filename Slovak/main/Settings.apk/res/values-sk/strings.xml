@@ -53,7 +53,7 @@ Počas priblíženia môžete:
 
 Obsah pod prstom môžete tiež dočasne priblížiť trojitým klepnutím a podržaním. V stave priblíženia môžete posúvaním prsta preskúmavať rôzne časti obrazovky. Odtiahnutím prsta sa vrátite do predchádzajúceho stavu.
 
-Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>	
+Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>
   <string name="accessibility_screen_magnification_title">Gestá priblíženia</string>
   <string name="accessibility_script_injection_allowed">Povolené</string>
   <string name="accessibility_script_injection_button_allow">Povoliť</string>
@@ -1103,7 +1103,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="factory_reset_summary">Môžete vymazať osobné údaje telefónu, alebo vymažte nainštalované aplikácie a naformátujte SD kartu pre obnovenie predvolených nastavení.</string>
   <string name="failed_to_open_app_settings_toast">Otvorenie nastavení pre %1$s zlyhalo</string>
   <string name="fcc_equipment_id">Equipment ID</string>
-  <string name="translation_contributors_title">Prekladatelia</string>
   <string name="filter">Filtrovať</string>
   <string name="filter_apps_all">Všetko</string>
   <string name="filter_apps_cached">Načítané</string>
@@ -1692,18 +1691,18 @@ na systéme Ubuntu 12.xx pokračujte podľa tohto návodu:
 Ubuntu-MTP.
 Pozor: Ubuntu 13.04 a novšie
 uż obsahuje MTP ovládač. 
-"</string>	
-    <string name="msd_install_retry_mac">"If the computer did not detect Xiaomi properly,
+"</string>
+  <string name="msd_install_retry_mac">"If the computer did not detect Xiaomi properly,
 Try the following:
 "Do a computer search for
 Android File Transfer
 for MAC"
 "Disconnect the MI 2 to computer USB cable and reconnect."
-"Re-install the driver.</string>	
-    <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi,
+"Re-install the driver.</string>
+  <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi,
 skúste:
-"Odpojiť telefón z USB a pripojiť opäť.</string>	
-    <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi,
+"Odpojiť telefón z USB a pripojiť opäť.</string>
+  <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi,
 skúste:
 "Odpojiť telefón z USB a pripojiť opäť.</string>
   <string name="msd_install_status_done">Ovládač už je nainštalovaný</string>
@@ -2460,14 +2459,14 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="remove_sms">Vymazať všetky zoznamy správ?</string>
   <string name="reset_app_preferences">Obnoviť nastavenia aplikácie</string>
   <string name="reset_app_preferences_button">Obnoviť aplikácie</string>
-   <string name="reset_app_preferences_desc">"Toto obnoví všetky nastavenia pre: 
+  <string name="reset_app_preferences_desc">"Toto obnoví všetky nastavenia pre: 
  "vypnuté aplikácie,"
  "vypnuté upozornenia aplikácií,"
  "predvolená aplikácie pre dané akcie,"
  "obmedzenia týkajúce sa použitia dát na pozadí v aplikáciách."
  "Akékoľvek obmedzenie povolenia"
 
- Žiadne aplikácie sa nevymažú."</string>	
+ Žiadne aplikácie sa nevymažú."</string>
   <string name="reset_app_preferences_title">Obnoviť nastavenia aplikácie?</string>
   <string name="residual_cancel">Zrušiť</string>
   <string name="residual_clean">Vyčistiť</string>
@@ -2932,6 +2931,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball prebudenie</string>
   <string name="transition_animation_scale_title">Mierka animácie premeny</string>
+  <string name="translation_contributors_title">Prekladatelia</string>
   <string name="trust_switch_dialog_msg">"Miui si nebude od Vás pýtať povolenia pre operácie ktoré môžu zneužiť Vaše súkromie alebo ohroziť bezpečnosť. Naozaj veríte tejto aplikácií?"</string>
   <string name="trusted_credentials">Dôveryhodné poverenia</string>
   <string name="trusted_credentials_disable_confirmation">Zakázať certifikát CA systému?</string>
