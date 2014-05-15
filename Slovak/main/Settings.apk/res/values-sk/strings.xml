@@ -2080,7 +2080,7 @@ Nastavenia sú nedostupné"</string>
   <string name="power_center_on_time_summary_dynamic">Od %1$s do %2$s prepnúť na %3$s</string>
   <string name="power_center_on_time_title">Naplánované</string>
   <string name="power_center_state_off">Deaktivované</string>
-  <string name="power_center_state_on">Povolené</string>
+  <string name="power_center_state_on">Povol.</string>
   <string name="power_center_title">Batéria</string>
   <string name="power_chooser_check_box_summary">Zvoľte profil spotreby energie pre predĺženie výdrže batérie</string>
   <string name="power_chooser_check_box_title">Použiť nastavenia</string>
