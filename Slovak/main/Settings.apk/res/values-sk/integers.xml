@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <integer name="power_center_low_battery_percent_start">4</integer>
-    <integer name="power_center_low_battery_percent_end">7</integer>
+    <integer name="power_center_low_battery_percent_start">31</integer>
+    <integer name="power_center_low_battery_percent_end">33</integer>
     <integer name="power_center_on_time_start_time_start">1</integer>
     <integer name="power_center_on_time_start_time_end">6</integer>
     <integer name="power_center_on_time_end_time_start">7</integer>
