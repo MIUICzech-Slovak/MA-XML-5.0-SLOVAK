@@ -312,7 +312,7 @@
   <string name="download_before_sharing">" nie je stiahnuté! Pred zdieľaním musíte stiahnuť!"</string>
   <string name="download_cancel_confirm_title">Zrušiť sťahovanie?</string>
   <string name="download_complete_not_cancel">Sťahovanie dokončené, zrušenie zlyhalo!</string>
-  <string name="download_confirm_message">Pre otvorenie tohto súboru musíte stiahnuť prílohu o veľkosti 180K %1$s</string>
+  <string name="download_confirm_message">Pre otvorenie tohto súboru musíte stiahnuť prílohu o veľkosti %1$s</string>
   <string name="download_confirm_title">Potvrdenie sťahovania</string>
   <string name="download_failed">Prevz. zlyhalo. Skúste znova.</string>
   <string name="downlaod_nonWifi_confirm_message">Sťahovanie cez mobilnú sieť môže byť spoplatnené, pokračovať?</string>
