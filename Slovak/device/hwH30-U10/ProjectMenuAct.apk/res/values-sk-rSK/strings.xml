@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_networks">Nastavenie mobilnej siete</string>
+    <string name="preferred_network_mode_title">Nastavenie 2G/3G</string>
+    <string name="preferred_network_mode_summary">Zmena nastavenia mobilnej siete</string>
+    <string name="preferred_network_mode_scdma_perf_summary">Preferovaný režim siete: 3G preferovaná</string>
+    <string name="preferred_network_mode_gsm_only_summary">Preferovaný režim siete: iba 2G</string>
+    <string name="preferred_network_mode_scdma_only_summary">Preferovaný režim siete: iba 3G</string>
+</resources>
