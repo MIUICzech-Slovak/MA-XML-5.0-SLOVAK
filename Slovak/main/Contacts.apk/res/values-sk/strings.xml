@@ -860,7 +860,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_detail_update_log_title">Aktualizácie</string>
   <string name="resource_detail_window_title">%1$s podrobnosti</string>
   <string name="resource_download">Stiahnuť</string>
-  <string name="resource_download_trial">Na skúšku</string>
+  <string name="resource_download_trial">Vyskúšať</string>
   <string name="resource_downloaded_title">Stiahnuť zdroje</string>
   <string name="resource_downloading">Sťahujem</string>
   <string name="resource_exchange">Zaplatiť poukážkou</string>
