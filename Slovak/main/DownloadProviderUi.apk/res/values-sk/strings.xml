@@ -78,4 +78,5 @@
   <string name="turn_off_xunlei_title">Deaktivovať Xunlei sťahovanie</string>
   <string name="xunlei_brand"/>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
+  <string name="paused_insufficient_space">Čakanie na voľné miesto</string>
 </resources>
