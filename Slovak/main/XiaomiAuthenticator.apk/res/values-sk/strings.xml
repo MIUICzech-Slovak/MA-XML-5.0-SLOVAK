@@ -66,7 +66,7 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="jump_updatepattern_tip">Zatvoriť</string>
   <string name="lockpassword_choose_your_pattern_header">Vyberte vzor</string>
   <string name="lockpassword_confirm_your_pattern_header">Potvrďte svoje gesto</string>
-  <string name="lockpassword_input_your_pattern_header">Potvrďte svoje gesto</string>
+  <string name="lockpassword_input_your_pattern_header">Zadajte svoje gesto</string>
   <string name="lockpattern_confirm_button_text">Potvrdiť</string>
   <string name="lockpattern_continue_button_text">Pokračovať</string>
   <string name="lockpattern_need_to_confirm">Urobte gesto znovu pre potvrdenie:</string>
@@ -115,7 +115,7 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="resetbtn_patternforgotten">Obnoviť</string>
   <string name="save_key_message">Uložiť kľúč pre</string>
   <string name="scan_barcode">Načítať MiID</string>
-  <string name="scan_barcode_info">Zamerajte a načítajte MiID QR kód.</string>
+  <string name="scan_barcode_info">Zamerajte MiID QR kód</string>
   <string name="secret_saved">Uložené</string>
   <string name="security_setting">Bezpečnostné nastavenia</string>
   <string name="settings_menu_item">Nastavenia</string>
@@ -143,8 +143,8 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
 The Date &amp; Time settings on this device have not been changed."</string>
   <string name="timesync_sync_now_time_corrected_dialog_title">Time corrected</string>
   <string name="tip1_patternforgotten">Odinštalovať a znovu nainštalovať zabezpečenie</string>
-  <string name="tip2_patternforgotten">点击下方按钮“立即重置”，清空原帐户数据，重新激活</string>
-  <string name="tip_lockpattern">Ak chcete chrániť overovací kľúč, aktivujte odomykací vzor</string>
+  <string name="tip2_patternforgotten">Stlačte tlačidlo "Obnoviť"</string>
+  <string name="tip_lockpattern">Ak chcete chrániť váš overovací kľúč, nastavte odomykací vzor</string>
   <string name="title_change_lockpattern">nastavenia vzoru odomknutia</string>
   <string name="title_createpattern">Nastavenie hesla</string>
   <string name="title_forgetpattern">Zabudnuté heslo?</string>
@@ -162,7 +162,7 @@ Možnosti:"</string>
   <string name="type_prompt">Typ kľúča</string>
   <string name="update_pattern_jump">Zatvoriť</string>
   <string name="version_preference_title">Verzia</string>
-  <string name="welcome_page_alert">Nemažte overovací kľúč</string>
+  <string name="welcome_page_alert"/>
   <string name="welcome_page_details">"- Ochrana pred nepovoleným prihlásením
 - Zabráňte strate alebo odcudzeniu vášho zariadenia"</string>
   <string name="welcome_page_title">Ochrana prihlásenia Xiaomi účtu</string>
