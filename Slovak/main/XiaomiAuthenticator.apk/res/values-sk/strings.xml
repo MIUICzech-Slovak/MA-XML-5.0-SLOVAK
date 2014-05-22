@@ -27,7 +27,7 @@
   <string name="check_code_title">Hodnota kontroly integrity</string>
   <string name="context_menu_remove_account">Odstrániť</string>
   <string name="copy_to_clipboard">Kopírovať do schránky</string>
-  <string name="correct_enter_password">Zadajte správne heslo</string>
+  <string name="correct_enter_password">Správne heslo</string>
   <string name="correct_enter_update_password">Heslo je správne</string>
   <string name="counter_pin">Generovať kód</string>
   <string name="dataimport_import_succeeded_uninstall_dialog_prompt">Vaše údaje boli importované zo zastaranej aplikácie Xiaomi Authenticator. Teraz môžete bezpečne odinštalovať jej starú verziu kliknutím nižšie.</string>
