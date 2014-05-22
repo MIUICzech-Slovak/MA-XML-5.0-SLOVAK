@@ -550,6 +550,7 @@
   <string name="uploads_disabled">Nahrávanie súborov je vypnuté.</string>
   <string name="url_copy_done">Adresa je skopírovaná</string>
   <string name="url_hint">Hľadať alebo zadať URL</string>
+  <string name="url_visit_confirm">Navštívite</string>
   <string name="user_defined_webpage">Pridať na úvodnú stránku</string>
   <string name="user_defined_webpage_title">Pridať na úvodnú stránku</string>
   <string name="username">Meno</string>
