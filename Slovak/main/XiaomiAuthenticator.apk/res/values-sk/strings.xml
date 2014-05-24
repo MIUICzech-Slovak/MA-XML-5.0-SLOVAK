@@ -106,10 +106,10 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Zásady súkromia</string>
   <string name="progress_loading">Spracovávanie...</string>
-  <string name="remove_Xiaomi_account_dialog_message">"Odstránením tohto účtu &lt;b>prídete o možnosť&lt;/b> vytvárať kódy, avšak k vypnutiu verifikácie v dvoch krokoch  &lt;b>nedôjde&lt;/b>. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. &lt;p> Pred odstránením: &lt;ul> &lt;li>vypnite verifikáciu v dvoch krokoch alebo&lt;/li> &lt;li>presvedčte sa, či máte alternatívny mechanizmus na vytváranie kódov.&lt;/li> &lt;/ul>"</string>
+  <string name="remove_Xiaomi_account_dialog_message">"Odstránením tohto účtu prídete o možnosť vytvárať kódy, avšak k vypnutiu verifikácie v dvoch krokoch nedôjde. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. Pred odstránením vypnite verifikáciu v dvoch krokoch alebo sa presvedčte, či máte alternatívny mechanizmus na vytváranie kódov."</string>
   <string name="remove_account_dialog_button_remove">Odobrať účet</string>
-  <string name="remove_account_dialog_message">Odstránením tohto účtu &lt;b&gt;prídete o možnosť&lt;/b&gt; vytvárať kódy, avšak k vypnutiu dvojfaktorového overenia totožnosti &lt;b&gt;nedôjde&lt;/b&gt;. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. &lt;p&gt; Pred odstránením: &lt;ul&gt; &lt;li&gt;vypnite dvojfaktorové overenie totožnosti alebo&lt;/li&gt; &lt;li&gt;presvedčte sa, či máte alternatívny mechanizmus na vytváranie kódov.&lt;/li&gt; &lt;/ul&gt;</string>
-  <string name="remove_account_dialog_title">Odstrániť účet %1$s?</string>
+  <string name="remove_account_dialog_message">Odstránením tohto účtu prídete o možnosť vytvárať kódy, avšak k vypnutiu dvojfaktorového overenia totožnosti nedôjde. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. Pred odstránením vypnite dvojfaktorové overenie totožnosti alebo sa presvedčte, či máte alternatívny mechanizmus na vytváranie kódov.</string>
+  <string name="remove_account_dialog_title">Odstrániť tento účet?</string>
   <string name="rename">Premenovať</string>
   <string name="rename_message">Premenovať %1$s</string>
   <string name="resetbtn_patternforgotten">Obnoviť</string>
