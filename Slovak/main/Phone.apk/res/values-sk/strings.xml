@@ -1190,4 +1190,10 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="cipher_indication_notification_message">Kódovanie reči je deaktivované sieťou</string>
+  <string name="cipher_indication_notification_title">Žiadne kódovanie reči</string>
+  <string name="confirm_save_info_saved_to">Nahrávka bola uložená do</string>  
+  <string name="dual_mic_summary">Potlačiť hluk v pozadí počas hovoru</string>
+  <string name="minutereminder_summary">Upozorniť v 50s z každej minúty</string>
+  <string name="not_show_again">Viac nezobrazovať.</string>  
 </resources>

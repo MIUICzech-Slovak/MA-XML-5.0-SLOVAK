@@ -3660,4 +3660,20 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="double_click_tip">Dvakrát sa dotknite</string>
+  <string name="double_click_title">Rýchlosť dvojitého dotyku</string>
+  <string name="international_roaming_summary_title">Nastavenie Roamingu</string>
+  <string name="mouse_primary_button_dialog_title">Prepnúť hlavné tlačidlo</string>
+  <string name="mouse_primary_button_title">Prehodiť hlavné a vedľajšie tlačidlo</string>
+  <string name="nfc_card_emulation">Card emulation</string>
+  <string name="nfc_card_emulation_category_title">card emulation mode</string>
+  <string name="not_show_again">Viac nezobrazovať.</string>  
+  <string name="sip_call_summary">Nastaviť predvolené zvonenie SIP</string>
+  <string name="sip_call_title">SIP zvonenie</string>
+  <string name="usb_tethering_select_version">Vyberte verziu OS v PC</string>
+  <string name="wfd_change_resolution_menu_title">Zmeniť rozlíšenie</string>
+  <string name="wifi_hotspot_select_band_title">Vybrať prevádzkové pásmo</string>
+  <string name="wifi_hotspot_suspend_optimizations">Optimalizácia W-Fi hotspotu</string>
+  <string name="wifi_hotspot_suspend_optimizations_summary">Minimalizovať spotrebu batérie počas aktívneho Wi-Fi hotspotu</string>
+  
 </resources>
