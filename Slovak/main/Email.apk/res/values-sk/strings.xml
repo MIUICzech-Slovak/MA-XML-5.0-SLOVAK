@@ -729,4 +729,19 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wrong_password">Nesprávne heslo!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="device_activity_btn_str">Návrat k aktivaci</string>
+  <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
+  <string name="device_not_activiey_lint1">Správca zariadenia nie je aktivovaný</string>
+  <string name="device_not_activiey_lint2">Služba EMail nefunguje správne</string>
+  <string name="menu_resend_all">Preposlať všetko</string>
+  <string name="outbox_no_mails">Žiadne správy</string>
+  <string name="xiaomi_bytes_unit">%1$sB</string>
+  <string name="xiaomi_external_storage_unavailable">Úložisko je nedostupné, skontrolujte SD kartu.</string>
+  <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+  <string name="xiaomi_megabytes_unit">%1$sMB</string>
+  <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+  <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+  <string name="xiaomi_update_dialog_title">%1$s update!</string>
 </resources>
