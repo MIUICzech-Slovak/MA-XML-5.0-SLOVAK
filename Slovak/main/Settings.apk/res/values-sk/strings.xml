@@ -3693,4 +3693,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="security_password_category_name">Heslo</string>
   <string name="wifi_type_approval"/>
   <string name="wifi_type_approval_title">Type Approval</string>
+  <string name="manage_xiaomi_router">Spravovať Xiaomi MiRouter</string>
+  <string name="xiaomi_router_available_notif_summary">Zobraziť</string>
+  <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter je dostupný</string>
+  <string name="xiaomi_router_notif_summary">Upozorniť ma na dostupnosť Xiaomi MiRouter</string>
+  <string name="xiaomi_router_notif_title">Upozornenia Xiaomi MiRouter</string>
 </resources>

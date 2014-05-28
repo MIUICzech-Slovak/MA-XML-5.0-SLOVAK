@@ -591,4 +591,11 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="use_cellular_network_alert_title">Upozornenie siete</string>
   <string name="date_picker_dialog_other_button_label">Iné</string>
   <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
+  <string name="miuichromium_error_page_mobile">Mobilná sieť</string>
+  <string name="miuichromium_error_page_reason_network">Zobraziť URL</string>
+  <string name="miuichromium_error_page_reason_server">Nie je možné načítať túto stránku</string>
+  <string name="miuichromium_error_page_reload">Obnoviť</string>
+  <string name="miuichromium_error_page_title">Nie je možné načítať túto stránku</string>
+  <string name="miuichromium_error_page_url">Zobraziť URL</string>
+  <string name="miuichromium_error_page_wlan">Nastavenia Wi-Fi</string>
 </resources>
