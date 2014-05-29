@@ -733,7 +733,7 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
   <string name="device_not_activiey_lint1">Správca zariadenia nie je aktivovaný</string>
   <string name="device_not_activiey_lint2">Služba EMail nefunguje správne</string>
-  <string name="menu_resend_all">Preposlať všetko</string>
+  <string name="menu_resend_all">Odoslať znova</string>
   <string name="outbox_no_mails">Žiadne správy</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Úložisko je nedostupné, skontrolujte SD kartu.</string>
