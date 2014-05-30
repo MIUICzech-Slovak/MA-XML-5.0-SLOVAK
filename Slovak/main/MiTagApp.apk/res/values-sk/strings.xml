@@ -196,6 +196,11 @@ priložte ďalší NFC štítok."</string>
   <string name="xiaomi_update_dialog_message" formatted="false">"Nová verzia %1$s
 Veľkosť: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verzia %1$s
-Ve%lkosť rozdielového balíčka: %2$s"</string>
+Veľkosť rozdielového balíčka: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizácia!</string>
+  <string name="err_tag_protected">Zadajte heslo štítku.</string>
+  <string name="failed_to_erase">MAzanie štítku zlyhalo</string>
+  <string name="failed_to_write">Zapísovanie na štítok zlyhalo</string>
+  <string name="pwd_alert">Nastaviť heslo</string>
+  <string name="writing">Zapisovanie...</string>
 </resources>
