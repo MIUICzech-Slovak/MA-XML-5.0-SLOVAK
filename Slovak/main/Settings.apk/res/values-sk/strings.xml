@@ -3698,6 +3698,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter je dostupný</string>
   <string name="xiaomi_router_notif_summary">Upozorniť ma na dostupnosť Xiaomi MiRouter</string>
   <string name="xiaomi_router_notif_title">Upozornenia Xiaomi MiRouter</string>
-  <string name="verify_applications">Overiť aplikácie</string>
-  <string name="verify_applications_summary">Upozorniť pred inštaláciou aplikácií ktoré možu byť nebezpečné</string>
 </resources>
