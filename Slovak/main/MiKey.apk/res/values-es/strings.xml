@@ -59,7 +59,7 @@
   <string name="delete_gesture">¿Borrar ajustes?</string>
   <string name="device_not_recognized">Dispositivo no reconocido. Intente de nuevo.</string>
   <string name="earphone">Auricular</string>
-  <string name="file_delimiter"></string>
+  <string name="file_delimiter">/</string>
   <string name="front_camera">Cámara frontal</string>
   <string name="goto_update">Actualizar</string>
   <string name="input_phone">Introduce el teléfono</string>
