@@ -1713,7 +1713,7 @@ skúste:
 %1$s prehrávač hudby sa zobrazí automaticky po pripojení k PC"</string>
   <string name="msd_pc_system_install_finish_summary_xp">"Po inštalácií tohto ovládača
 %1$s sa zobrazí ako USB úložisko po pripojení k PC."</string>
-  <string name="msd_pc_system_install_start_summary_vista">"Prer Windows Vista a novšie verzie Windows, 
+  <string name="msd_pc_system_install_start_summary_vista">"Pre Windows Vista a novšie verzie Windows, 
 %1$s sa zobrazí automaticky ako USB úložisko"</string>
   <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s sa zobrazí ako USB úložisko
 po pripojení k PC."</string>
