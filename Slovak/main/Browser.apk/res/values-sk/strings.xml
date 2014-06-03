@@ -137,8 +137,10 @@
   <string name="contextmenu_sharelink">Zdieľať odkaz</string>
   <string name="contextmenu_view_image">Zobraziť obrázok</string>
   <string name="copy_link">Kopírovať</string>
+  <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
   <string name="create_shortcut_bookmark">Pridať odkaz na domácu obrazovku</string>
   <string name="date_picker_dialog_clear">Vyčistiť</string>
+  <string name="date_picker_dialog_other_button_label">Iné</string>
   <string name="date_picker_dialog_set">Nastaviť</string>
   <string name="date_picker_dialog_title">Nastaviť dátum</string>
   <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
@@ -148,6 +150,7 @@
   <string name="delete_folder">Vymazať priečinok</string>
   <string name="delete_multi_bookmarks_alert_title">Ste si istý, že chcete vymazať %1$s položiek?</string>
   <string name="disable_autofill">Vypnúť automatické vypĺňanie</string>
+  <string name="dont_remind_again">Zapamätať</string>
   <string name="download">Stiahnuť</string>
   <string name="download_complete">Sťahovanie dokončené</string>
   <string name="download_default_path_txt">Nastaviť a viac sa nepýtať</string>
@@ -258,6 +261,13 @@
   <string name="miui_quicksearch_enable_pref_title">Vyhľadávanie v lište</string>
   <string name="miui_search_notification_message">Otvoriť rýchle vyhľadanie na internete</string>
   <string name="miui_search_notification_title">Rýchle vyhľadanie</string>
+  <string name="miuichromium_error_page_mobile">Mobilná sieť</string>
+  <string name="miuichromium_error_page_reason_network">Zobraziť URL</string>
+  <string name="miuichromium_error_page_reason_server">Nie je možné načítať túto stránku</string>
+  <string name="miuichromium_error_page_reload">Obnoviť</string>
+  <string name="miuichromium_error_page_title">Nie je možné načítať túto stránku</string>
+  <string name="miuichromium_error_page_url">Zobraziť URL</string>
+  <string name="miuichromium_error_page_wlan">Nastavenia Wi-Fi</string>
   <string name="miuichromium_save_password_message">Chcete aby si prehliadač zapamätal toto heslo?</string>
   <string name="miuichromium_save_password_never">Nikdy</string>
   <string name="miuichromium_save_password_notnow">Teraz nie</string>
@@ -507,6 +517,7 @@
   <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Nemožno uložiť pre čítanie offline."</string>
   <string name="snapshot_go_live">Aktualizovať</string>
+  <string name="snapshot_successed">Uložené pre offline čítanie</string>
   <string name="ssl_certificate">Bezpečnostný certifikát</string>
   <string name="ssl_certificate_is_valid">Tento certifikát je platný.</string>
   <string name="ssl_continue">Pokračovať</string>
@@ -551,6 +562,8 @@
   <string name="url_copy_done">Adresa je skopírovaná</string>
   <string name="url_hint">Hľadať alebo zadať URL</string>
   <string name="url_visit_confirm">Navštívite</string>
+  <string name="use_cellular_network_alert_message">Wi-Fi je nedostupné, použiť mobilné dáta?</string>
+  <string name="use_cellular_network_alert_title">Upozornenie siete</string>
   <string name="user_defined_webpage">Pridať na úvodnú stránku</string>
   <string name="user_defined_webpage_title">Pridať na úvodnú stránku</string>
   <string name="username">Meno</string>
@@ -585,17 +598,4 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
-  <string name="snapshot_successed">Uložené pre offline čítanie</string>
-  <string name="dont_remind_again">Zapamätať</string>
-  <string name="use_cellular_network_alert_message">Wi-Fi je nedostupné, použiť mobilné dáta?</string>
-  <string name="use_cellular_network_alert_title">Upozornenie siete</string>
-  <string name="date_picker_dialog_other_button_label">Iné</string>
-  <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
-  <string name="miuichromium_error_page_mobile">Mobilná sieť</string>
-  <string name="miuichromium_error_page_reason_network">Zobraziť URL</string>
-  <string name="miuichromium_error_page_reason_server">Nie je možné načítať túto stránku</string>
-  <string name="miuichromium_error_page_reload">Obnoviť</string>
-  <string name="miuichromium_error_page_title">Nie je možné načítať túto stránku</string>
-  <string name="miuichromium_error_page_url">Zobraziť URL</string>
-  <string name="miuichromium_error_page_wlan">Nastavenia Wi-Fi</string>
 </resources>

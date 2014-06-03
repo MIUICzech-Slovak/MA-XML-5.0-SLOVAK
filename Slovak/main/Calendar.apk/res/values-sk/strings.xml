@@ -178,6 +178,7 @@
   <string name="online_calendar_activity_label">Prihlásiť</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
+  <string name="pref_error_no_ringtone_select">Žiadne</string>
   <string name="pref_title_alarm_remind">Zvukové upozornenie</string>
   <string name="pref_title_alert_remind">Vyskakovacie okno</string>
   <string name="pref_title_no_remind">Žiadne upozornenie</string>
@@ -256,6 +257,7 @@
   <string name="today_weather_unavailable">Nie je možné získať údaje o počasí</string>
   <string name="tomorrow">Zajtra</string>
   <string name="tomorrow_at_time_fmt">Zajtra o %s</string>
+  <string name="view_all_matches">Zobraziť všetko</string>
   <string name="view_event_calendar_label">Kalendár:</string>
   <string name="view_event_organizer_label">Organizátor:</string>
   <string name="view_event_response_label">Zúčastníte sa?</string>
@@ -273,6 +275,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="pref_error_no_ringtone_select">Žiadne</string>
-  <string name="view_all_matches">Zobraziť všetko</string>
 </resources>

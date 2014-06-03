@@ -248,6 +248,8 @@
   <string name="change_pin2">Zmena kódu PIN2</string>
   <string name="change_pin2_miui">Zmeniť PIN2</string>
   <string name="change_pin_miui">Zmeniť SIM PIN</string>
+  <string name="cipher_indication_notification_message">Kódovanie reči je deaktivované sieťou</string>
+  <string name="cipher_indication_notification_title">Žiadne kódovanie reči</string>
   <string name="clir_choices_hide_number_miui">Skryť číslo</string>
   <string name="clir_choices_network_default_miui">Predvolená sieť</string>
   <string name="clir_choices_show_number_miui">Zobraziť číslo</string>
@@ -278,6 +280,7 @@
   <string name="confirm_password_label">Potvrdiť nové heslo</string>
   <string name="confirm_pin2_hint_miui">Potvrdiť nový PIN2</string>
   <string name="confirm_pin_hint_miui">Potvrdiť nový PIN</string>
+  <string name="confirm_save_info_saved_to">Nahrávka bola uložená do</string>
   <string name="connect_disconnect_vibrate_none_miui">Nevibrovať</string>
   <string name="connect_disconnect_vibrate_normal_miui">Vibrovať</string>
   <string name="connect_disconnect_vibrate_summary_miui"/>
@@ -393,6 +396,7 @@
   <string name="dtmf_tones_summary_miui">Nastavte dĺžku pre DTMF tóny</string>
   <string name="dtmf_tones_title">Tóny DTMF</string>
   <string name="dtmf_tones_title_miui">DTMF tóny</string>
+  <string name="dual_mic_summary">Potlačiť hluk v pozadí počas hovoru</string>
   <string name="duringcall">Táto operácia je nedostupná počas hovoru</string>
   <string name="ecm_exit_dialog">Dialóg ukončenia režimu Núdzového spätného volania</string>
   <string name="editContact">Upraviť</string>
@@ -621,6 +625,7 @@
   <string name="messageCFU">Vždy použiť toto číslo</string>
   <string name="mhh_disable">Doktori, zdravie a nemocnice zakázané</string>
   <string name="mhh_enable">Doktori, zdravie a nemocnice povolené</string>
+  <string name="minutereminder_summary">Upozorniť v 50s z každej minúty</string>
   <string name="mismatchPin">Zadané PINy sa nezhodujú. Opakujte pokus.</string>
   <string name="mismatchPin2">Zadané PIN2 sa nezhodujú. Opakujte pokus.</string>
   <string name="mismatch_password">Heslo ktoré ste zadali sa nezhoduje. Skúste to opäť.</string>
@@ -682,6 +687,7 @@
   <string name="not_a_valid_port">Číslo portu by malo byť od 1000 do 65534</string>
   <string name="not_allowed">Vaša karta SIM neumožňuje pripojenie do siete.</string>
   <string name="not_connected_miui">Nepripojený</string>
+  <string name="not_show_again">Viac nezobrazovať.</string>
   <string name="not_voice_capable">Hlasové hovory nie sú podporované</string>
   <string name="notification_action_end_call">Ukončiť hovor</string>
   <string name="notification_dialing">Vytáčanie</string>
@@ -1190,10 +1196,4 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="cipher_indication_notification_message">Kódovanie reči je deaktivované sieťou</string>
-  <string name="cipher_indication_notification_title">Žiadne kódovanie reči</string>
-  <string name="confirm_save_info_saved_to">Nahrávka bola uložená do</string>  
-  <string name="dual_mic_summary">Potlačiť hluk v pozadí počas hovoru</string>
-  <string name="minutereminder_summary">Upozorniť v 50s z každej minúty</string>
-  <string name="not_show_again">Viac nezobrazovať.</string>  
 </resources>

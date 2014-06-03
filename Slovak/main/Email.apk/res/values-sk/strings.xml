@@ -299,8 +299,12 @@
   <string name="default_signature">Odoslané z MIUI</string>
   <string name="delete">Odstrániť</string>
   <string name="deleted">Odstránené</string>
+  <string name="device_activity_btn_str">Návrat k aktivaci</string>
+  <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
   <string name="device_admin_description">Povoľuje pravidlá zabezpečenia určené serverom</string>
   <string name="device_admin_label">Poslať e-mail</string>
+  <string name="device_not_activiey_lint1">Správca zariadenia nie je aktivovaný</string>
+  <string name="device_not_activiey_lint2">Služba EMail nefunguje správne</string>
   <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>
   <string name="discard">Zahodiť</string>
   <string name="discard_drafts">Zahodiť koncepty</string>
@@ -446,6 +450,7 @@
   <string name="menu_photo_save_all">Uložiť všetky</string>
   <string name="menu_photo_share">Zdieľať</string>
   <string name="menu_photo_share_all">Zdieľať všetky</string>
+  <string name="menu_resend_all">Odoslať znova</string>
   <string name="menu_search">Hľadať</string>
   <string name="menu_settings">Nastavenia</string>
   <string name="menu_show_original">Zrušiť automatickú úpravu veľkosti</string>
@@ -519,6 +524,7 @@ Kópia: %4$s
   <string name="outbox_alert_description_sent_failed">"Príčina: Veľkosť prílohy
 presahuje limit"</string>
   <string name="outbox_alert_title_sent_failed">Odosielanie zlyhalo</string>
+  <string name="outbox_no_mails">Žiadne správy</string>
   <string name="parase_setup_data">Načítavanie nastavení...</string>
   <string name="password_changed_prompt">Nie je možné sa prihlásiť.</string>
   <string name="password_expire_warning_content_title">Uzamykacie heslo čoskoro vyprší</string>
@@ -727,14 +733,6 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostatné</string>
   <string name="wrong_password">Nesprávne heslo!</string>
-  <string name="yes">Áno</string>
-  <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="device_activity_btn_str">Návrat k aktivaci</string>
-  <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
-  <string name="device_not_activiey_lint1">Správca zariadenia nie je aktivovaný</string>
-  <string name="device_not_activiey_lint2">Služba EMail nefunguje správne</string>
-  <string name="menu_resend_all">Odoslať znova</string>
-  <string name="outbox_no_mails">Žiadne správy</string>
   <string name="xiaomi_bytes_unit">%1$sB</string>
   <string name="xiaomi_external_storage_unavailable">Úložisko je nedostupné, skontrolujte SD kartu.</string>
   <string name="xiaomi_kilobytes_unit">%1$sKB</string>
@@ -744,4 +742,6 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
+  <string name="yes">Áno</string>
+  <string name="zip_viewer_no_file">Žiadne súbory!</string>
 </resources>

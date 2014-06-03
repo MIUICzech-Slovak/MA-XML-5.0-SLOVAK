@@ -74,6 +74,7 @@
   <string name="confirm_restore_positive">Obnoviť</string>
   <string name="confirm_restore_title">Obnoviť všetky vybrané správy?</string>
   <string name="confirm_send_mms">Jeden z príjemcov obsahuje emailovú adresu. Táto správa bude odoslaná ako MMS.</string>
+  <string name="context_menu_add_calendar">Zobraziť v Kalendári</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_add_to_browser_favorite">Pridať do obľúbených v prehliadači</string>
   <string name="context_menu_browse_web">Webstránka</string>
@@ -332,6 +333,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="private_settings">Nastavenie súkromia</string>
   <string name="processing">Prebieha...</string>
   <string name="prvate_contact">Súkromný kontakt</string>
+  <string name="quick_reply">Odpovedať</string>
   <string name="rate_limit_surpassed">Potvrdiť</string>
   <string name="received_label">"Prijaté: "</string>
   <string name="recipient_editor_count_format">"%d"</string>
@@ -472,6 +474,4 @@ Pokus: %s."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
-  <string name="context_menu_add_calendar">Zobraziť v Kalendári</string>
-  <string name="quick_reply">Odpovedať</string>
 </resources>

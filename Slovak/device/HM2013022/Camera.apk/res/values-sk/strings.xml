@@ -440,6 +440,7 @@
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Dávkové snímanie nie je podporované ak je zapnutý záznam zvuku.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímanie nie je podporované ak je zapnuté HDR.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímanie nie je podporované ak ISO nie je nastavené na AUTO.</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Nie je možné zobraziť fotografiu alebo video ak je zamknutý displej.</string>
   <string name="toast_start_audio_capture">Vydajte zvuk pre spustenie spúšte fotoaparátu</string>
   <string name="undo">Späť</string>
   <string name="unit_mm">mm</string>
@@ -468,5 +469,4 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Nie je možné zobraziť fotografiu alebo video ak je zamknutý displej.</string>
 </resources>

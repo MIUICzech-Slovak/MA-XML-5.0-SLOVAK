@@ -55,14 +55,18 @@ Postupujte podľa inštrukcií pre dokončenie objednávky."</string>
   <string name="btn_wait_call_count">Čakanie (%1$s)</string>
   <string name="btn_wait_confirm">Čakanie</string>
   <string name="btn_wait_confirm_count">Čakanie（%1$s）</string>
+  <string name="button_bind_phone">Prepojiť</string>
   <string name="button_call">Volať</string>
   <string name="button_cancel">Zrušiť</string>
   <string name="button_confirm">Potvrdiť</string>
+  <string name="button_count_down_reget">Získať overovací kód (%1$s)</string>
   <string name="button_next">Ďalej</string>
   <string name="button_pay">Potvrdiť</string>
   <string name="button_recharge">Navýšiť</string>
   <string name="button_recharge_pay">Potvrdiť</string>
+  <string name="button_reget">Získať overovací kód</string>
   <string name="button_retry">Znova</string>
+  <string name="button_sms_code">Potvrdiť</string>
   <string name="cancel">Zrušiť</string>
   <string name="change_security_lock">Viac možností zamykania</string>
   <string name="detail_consume_account">ID užívateľa</string>
@@ -127,6 +131,7 @@ Počkajte prosím 5 minút a skúste to opäť"</string>
   <string name="giftcard_expire_notification_sub_title">Vaša darčeková poukážka platí do %1$s</string>
   <string name="giftcard_hint">"MiKredity z poukážky sa použijú 
 ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
+  <string name="giftcard_payment">%1$s MiKreditov</string>
   <string name="giftcard_push_notification_prime_title">"Dostali ste darčekovú poukážku"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKreditov.</string>
   <string name="giftcard_record">Moje poukážky</string>
@@ -153,6 +158,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="hfb_succ_label">购买成功</string>
   <string name="hfb_succ_result">感谢您使用通信账户支付服务。</string>
   <string name="label_balance">Stav:</string>
+  <string name="label_giftcard">Darčeková poukážka:</string>
   <string name="label_order_name">Produkt:</string>
   <string name="label_order_price">Cena:</string>
   <string name="lockpassword_choose_your_pattern_header">Zvoľte Váš vzor</string>
@@ -205,6 +211,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="msg_telecom_sending">Contacting your network provider…</string>
   <string name="onemore_click_exit">Stlačte ešte raz pre ukončenie</string>
   <string name="order_price">%1$s MiKreditov</string>
+  <string name="partner_giftcard_payment">%1$s MiKreditov (Len pre %2$s)</string>
   <string name="password_error">Zadajte heslo</string>
   <string name="password_forget">Zabudli ste?</string>
   <string name="password_hint">Heslo Xiaomi účtu</string>
@@ -215,6 +222,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="paytool_error_msp">%1$s zlyhalo!</string>
   <string name="paytool_msp_not_installed">Nemáte nainštalovaný %1$s bezpečnostný doplnok, chcete ho nainštalovať?</string>
   <string name="paytool_tenpay">Tenpay</string>
+  <string name="prepaid_card_order_info">%1$s poukážka: RMB %2$s</string>
   <string name="prepaid_china_mobile">China Mobile</string>
   <string name="prepaid_china_telcom">China Telecom</string>
   <string name="prepaid_china_unicom">China Unicom</string>
@@ -223,6 +231,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="prepaid_error_card_number">Nesprávne číslo karty.</string>
   <string name="prepaid_error_carrier">Zvoľte svojho operátora (iba Čína)</string>
   <string name="prepaid_error_denomination">Zvoľte hodnotut</string>
+  <string name="prepaid_error_not_choose_carrier">Nie je vybraný operátor.</string>
   <string name="prepaid_error_password">Nesprávne heslo karty</string>
   <string name="prepaid_grid_carrier_hint">Vybrať operátora</string>
   <string name="prepaid_grid_denomination_hint">Vybrať hodnotu</string>
@@ -290,7 +299,12 @@ Skontrolujeme to do dvoch pracovných dní"</string>
   <string name="scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
   <string name="scan_prompt_voucher">Načítať číslo MiKreditov</string>
   <string name="security_setting">Zabezpečenie</string>
+  <string name="sms_code_error">Chyba overovacieho kódu, skúste to znova</string>
+  <string name="sms_code_hint">Overovací kód</string>
+  <string name="summary_bind_phone">Pre zabezpečenie vášho účtu, dokončite platbu až po prepojení vášho telefónneho čísla.</string>
   <string name="summary_lockpattern">Vyžadovať odomykací vzor pre MiKredity</string>
+  <string name="summary_sms_code">Pre zabezpečenie vášho účtu, zadajte overovací kód ktorý ste dostali na číslo %1$s, a dokončite platbu</string>
+  <string name="title_bind_phone">Prepojenie čísla telefónu.</string>
   <string name="title_change_lockpattern">Nastaviť odomykací vzor</string>
   <string name="title_discounts">Zľavy</string>
   <string name="title_gesture">Vzor</string>
@@ -306,25 +320,11 @@ Skontrolujeme to do dvoch pracovných dní"</string>
   <string name="title_pay_record">História platieb</string>
   <string name="title_recharge">Navýšiť MiKredit</string>
   <string name="title_recharge_record">História navýšení</string>
+  <string name="title_sms_code">Zadajte overovací kód</string>
   <string name="title_transaction">Transakcie</string>
   <string name="title_visible_pattern">Zobraziť vzor</string>
   <string name="voucher_edit_hint">Kód</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password_empty">Prázdne.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
-  <string name="button_bind_phone">Prepojiť</string>
-  <string name="button_count_down_reget">Získať overovací kód (%1$s)</string>
-  <string name="button_reget">Získať overovací kód</string>
-  <string name="button_sms_code">Potvrdiť</string>
-  <string name="giftcard_payment">%1$s MiKreditov</string>
-  <string name="label_giftcard">Darčeková poukážka:</string>
-  <string name="partner_giftcard_payment">%1$s MiKreditov (Len pre %2$s)</string>
-  <string name="prepaid_card_order_info">%1$s poukážka: RMB %2$s</string>
-  <string name="prepaid_error_not_choose_carrier">Nie je vybraný operátor.</string>
-  <string name="sms_code_error">Chyba overovacieho kódu, skúste to znova</string>
-  <string name="sms_code_hint">Overovací kód</string>
-  <string name="summary_bind_phone">Pre zabezpečenie vášho účtu, dokončite platbu až po prepojení vášho telefónneho čísla.</string>
-  <string name="summary_sms_code">Pre zabezpečenie vášho účtu, zadajte overovací kód ktorý ste dostali na číslo %1$s, a dokončite platbu</string>
-  <string name="title_bind_phone">Prepojenie čísla telefónu.</string>
-  <string name="title_sms_code">Zadajte overovací kód</string>
 </resources>

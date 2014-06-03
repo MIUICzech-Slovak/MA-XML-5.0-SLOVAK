@@ -52,6 +52,7 @@
   <string name="open_download">Otvoriť</string>
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pozastavené</string>
+  <string name="paused_insufficient_space">Čakanie na voľné miesto</string>
   <string name="paused_queued_for_wifi">Pozastavené, čakám na Wi-Fi pripojenie</string>
   <string name="paused_unknown">Pozastavené</string>
   <string name="paused_waiting_for_network">Pozastavené, čakám na pripojenie k sieti</string>
@@ -78,5 +79,4 @@
   <string name="turn_off_xunlei_title">Deaktivovať Xunlei sťahovanie</string>
   <string name="xunlei_brand"/>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="paused_insufficient_space">Čakanie na voľné miesto</string>
 </resources>

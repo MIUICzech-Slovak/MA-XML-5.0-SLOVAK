@@ -133,6 +133,12 @@ Chcete ho zavrieť?"</string>
   <string name="create_contact_using">"Vytvoriť kontakt
 pre %s."</string>
   <string name="cut">Vystrihnúť</string>
+  <string name="data_service">Dátové služby</string>
+  <string name="data_service_content">"Your phone's data connection is turned off, in order to get a better experience, we suggested you to open data connection.
+
+Since open data connection, you can use phone cards for Internet access, please confirm whether you want to open?
+
+"</string>
   <string name="data_usage_3g_limit_snoozed_title">2G, 3G dátový limit prekročený</string>
   <string name="data_usage_3g_limit_title">Dátové prenosy 2G a 3G zakázané</string>
   <string name="data_usage_4g_limit_snoozed_title">Dátový limit 4G bol prekročený</string>
@@ -251,10 +257,12 @@ pre %s."</string>
   <string name="format_error">Nepodarilo sa vymazať ukladací priestor USB</string>
   <string name="full_wday_month_day_no_year">E, d. MMMM</string>
   <string name="gadget_host_error_inflating">Miniaplikáciu sa nepodarilo pridať.</string>
+  <string name="gemini_3g_disable_warning_case5">The phone will have some data traffic if open data connection. Specific fees charged by the operator. Recognizing the need to open it?</string>
   <string name="gigabyteShort">GB</string>
   <string name="global_action_bug_report">Správa o chybe</string>
   <string name="global_action_lock">Uzamknutie obrazovky</string>
   <string name="global_action_power_off">Vypnúť</string>
+  <string name="global_action_reboot">Reštart</string>
   <string name="global_action_reboot_summary">Ukončiť všetky aplikácie a reštartovať telefón</string>
   <string name="global_action_silent_mode_off_status">Zvuk je zapnutý</string>
   <string name="global_action_silent_mode_on_status">Zvuk je VYPNUTÝ.</string>
@@ -540,6 +548,7 @@ Skúste to znova o %d s."</string>
   <string name="no_permissions">Nevyžadujú sa žiadne oprávnenia.</string>
   <string name="no_recent_tasks">Žiadne nedávne aplikácie</string>
   <string name="noon">poludnie</string>
+  <string name="not_show_again">Viac nezobrazovať.</string>
   <string name="notification_title">Chyba prihlásenia do účtu %1$s</string>
   <string name="number_picker_decrement_button">Znížiť</string>
   <string name="number_picker_increment_button">Zvýšiť</string>
@@ -1059,6 +1068,7 @@ pre účet %s"</string>
   <string name="preposition_for_year">z %s</string>
   <string name="progress_erasing">Prebieha vymazávanie ukladacieho priestoru USB...</string>
   <string name="progress_unmounting">Prebieha odpájanie úložiska USB...</string>
+  <string name="reboot">Reštart</string>
   <string name="reboot_confirm">Chcete reštartovať Váš telefón?</string>
   <string name="reboot_safemode_confirm">Chcete zariadenie reštartovať do núdzového režimu? Zakážu sa tým všetky aplikácie tretích strán, ktoré ste nainštalovali. Tieto aplikácie budú obnovené po ďalšom reštartovaní.</string>
   <string name="reboot_safemode_title">Reštartovať do núdzového režimu</string>
@@ -1172,6 +1182,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho
   <string name="shutdown_confirm">Váš telefón bude vypnutý.</string>
   <string name="shutdown_confirm_question">Chcete zariadenie vypnúť?</string>
   <string name="shutdown_progress">Prebieha vypínanie...</string>
+  <string name="shutdown_quickly">Rýchly štart</string>
   <string name="silent_mode">Tichý režim</string>
   <string name="silent_mode_ring">Zvonenie je zapnuté</string>
   <string name="silent_mode_silent">Zvonenie je vypnuté</string>
@@ -1206,7 +1217,11 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho
   <string name="ssl_certificate_is_valid">Certifikát je platný.</string>
   <string name="status_bar_device_locked">Zariadenie je zamknuté.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="status_bar_settings_airplane_dlg_message">Zapnúť Režim Lietadlo.</string>
+  <string name="status_bar_settings_airplane_dlg_title">Režim Lietadlo</string>
   <string name="storage_external_usb">Externé USB úložisko</string>
+  <string name="storage_ic_usb1">Externé IC-USB úložisko 1</string>
+  <string name="storage_ic_usb2">Externé IC-USB úložisko 2</string>
   <string name="storage_internal">Interné úložisko</string>
   <string name="storage_phone">Interné úložisko</string>
   <string name="storage_sd_card">Karta SD</string>
@@ -1320,24 +1335,9 @@ Chcete ju zavrieť?"</string>
   <string name="wifi_p2p_turnon_message">Spustiť priame pripojenie siete Wi-Fi. Táto možnosť vypne sieť Wi-Fi v režime klient alebo hotspot.</string>
   <string name="wifi_watchdog_network_disabled">Nepodarilo sa pripojiť k sieti Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" má nekvalitné internetové pripojenie."</string>
+  <string name="wlan_direct_name">Redmi Note</string>
   <string name="year">rok</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
   <string name="zz_keyguard_accessibility_voice_unlock">Odomknutie hlasom.</string>
-  <string name="data_service">Dátové služby</string>
-  <string name="data_service_content">"Your phone's data connection is turned off, in order to get a better experience, we suggested you to open data connection.
-
-Since open data connection, you can use phone cards for Internet access, please confirm whether you want to open?
-
-"</string>
-  <string name="gemini_3g_disable_warning_case5">The phone will have some data traffic if open data connection. Specific fees charged by the operator. Recognizing the need to open it?</string>
-  <string name="global_action_reboot">Reštart</string>
-  <string name="not_show_again">Viac nezobrazovať.</string>
-  <string name="reboot">Reštart</string>
-  <string name="shutdown_quickly">Rýchly štart</string>
-  <string name="status_bar_settings_airplane_dlg_message">Zapnúť Režim Lietadlo.</string>
-  <string name="status_bar_settings_airplane_dlg_title">Režim Lietadlo</string>
-  <string name="storage_ic_usb1">Externé IC-USB úložisko 1</string>
-  <string name="storage_ic_usb2">Externé IC-USB úložisko 2</string>
-  <string name="wlan_direct_name">Redmi Note</string>
 </resources>

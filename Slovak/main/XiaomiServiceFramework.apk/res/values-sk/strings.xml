@@ -296,6 +296,11 @@ Využité %s | Ostáva %s"</string>
   <string name="sync_dspt">Použite svoj Xiaomi účet pre synchronizáciu dát</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
+  <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty</string>
+  <string name="sync_sub_1_sms">Bude odoslaná SM pre aktiváciu vašej SIM karty</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Medzinárodná SMS a bežná SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
+  <string name="sync_sub_2_intl_sms">2 medzinárodné SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
+  <string name="sync_sub_2_sms">2 SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
   <string name="sync_sub_dspt">Odošle sa SMS pre aktiváciu služby</string>
   <string name="sync_sub_int_dspt">Bude odoslaná medzinárodná SMS pre aktiváciu služby</string>
   <string name="title_reg">Zaregistrujte Xiaomi účet</string>
@@ -323,9 +328,4 @@ s "</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty</string>
-  <string name="sync_sub_1_sms">Bude odoslaná SM pre aktiváciu vašej SIM karty</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Medzinárodná SMS a bežná SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
-  <string name="sync_sub_2_intl_sms">2 medzinárodné SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
-  <string name="sync_sub_2_sms">2 SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
 </resources>

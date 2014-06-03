@@ -5,6 +5,7 @@
   <string name="account_abnormal_state">Chyba v informácií o účte, skúste sa prihlásiť opäť.</string>
   <string name="account_container_title">V tomto účte</string>
   <string name="account_default">Telefón</string>
+  <string name="account_msim">SIM %d</string>
   <string name="account_phone">Iba v telefóne (nesynchronizované)</string>
   <string name="account_sim">Iba na SIM karte (nesynchronizované)</string>
   <string name="account_sim2">SIM karta %d</string>
@@ -358,6 +359,7 @@
   <string name="export_sim_contacts_dialog_message">Vaša SIM karta môže uložiť %d kontaktov. Ste si istý, že chcete pokračovať?</string>
   <string name="export_to_sdcard">Exportovať na úložisko</string>
   <string name="export_to_sim">Exportovať na SIM kartu</string>
+  <string name="export_to_sim1">Export do SIM 1</string>
   <string name="export_to_sim2">Exportovať na SIM 2</string>
   <string name="export_to_sim_title">Exportovanie na SIM kartu...</string>
   <string name="export_vcard_description">Exportovať vCard na SD kartu</string>
@@ -436,6 +438,7 @@ Chyba: \"%s\""</string>
   <string name="import_from_other_phone">Importovať z iného telefónu</string>
   <string name="import_from_sdcard">Importovať z SD karty</string>
   <string name="import_from_sim">Importovať z karty SIM</string>
+  <string name="import_from_sim1">Importovať zo SIM 1</string>
   <string name="import_from_sim2">Importovať zo SIM 2</string>
   <string name="import_multiple_vcard_string">Importovať viac vizitiek</string>
   <string name="import_name">Meno</string>
@@ -1154,7 +1157,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_search_select_city">Zvoľte mesto</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="account_msim">SIM %d</string>
-  <string name="export_to_sim1">Export do SIM 1</string>
-  <string name="import_from_sim1">Importovať zo SIM 1</string>
 </resources>
