@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Príručka</string>
+    <string name="loading_userbook">Načítavanie...</string>
+    <string name="bakc_key_toast_txt">Stlačte znova pre ukončenie</string>
+    <string name="non_wifi_not_download_data">Nie je možné stiahnuť tento balík, skúste to znova neskôr.</string>
+</resources>
