@@ -60,15 +60,6 @@ Ak má zariadenie viacero užívateľov, použitie tejto skratky na zamykacej ob
   <string name="accessibility_global_gesture_preference_title">Skratka dostupnosti</string>
   <string name="accessibility_long_press_timeout_preference_title">Oneskorenie dotyku a podržania</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Tlačidlo zapínania ukončí hovor</string>
-  <string name="accessibility_screen_magnification_summary">"Ak je táto funkcia povolená, je možné priblížiť a oddialiť obraz trojitým poklepaním na displej.
-
-Ak máte priblížený obraz:
-"&lt;li&gt;&lt;ul&gt;" Pos&amp;#250;vanie: Potiahnite dvoma prstami po displeji.
-"&lt;li&gt;Zmena pribl&amp;#237;&amp;#382;enia: Potiahnite dva prsty k sebe alebo od seba.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
-
-Taktie&amp;#382; je mo&amp;#382;n&amp;#233; do&amp;#269;asne pribl&amp;#237;&amp;#382;i&amp;#357; obraz pod prstami trojit&amp;#253;m poklepan&amp;#237;m a podr&amp;#382;an&amp;#237;m prstu na displeji.
-
-Pozn&amp;#225;mka: Trojit&amp;#233; poklepanie funguje v&amp;#353;ade okrem kl&amp;#225;vesnice."</string>
   <string name="accessibility_screen_magnification_title">Gesta priblíženia</string>
   <string name="accessibility_toggle_large_text_preference_title">Veľký text</string>
   <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Obnoviť priblíženie obrazu so zmenou aplikácie</string>
@@ -635,7 +626,7 @@ Any user can accept updated app permissions on behalf of all other users."</stri
   <string name="wifi_disconnect">Odpojiť</string>
   <string name="wifi_display_available_devices">Dostupné zariadenia</string>
   <string name="wifi_display_details">Nastavenie displeja</string>
-  <string name="wifi_display_disconnect_text">Pripojenie s &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt; bude ukončené</string>
+  <string name="wifi_display_disconnect_text">Pripojenie s %1$s bude ukončené</string>
   <string name="wifi_display_disconnect_title">Odpojiť?</string>
   <string name="wifi_display_no_devices_found">Nenašiel sa žiaden wireless displays.</string>
   <string name="wifi_display_options_done">Hotovo</string>
