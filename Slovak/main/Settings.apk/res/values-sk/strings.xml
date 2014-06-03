@@ -881,6 +881,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dev_settings_warning_message">Tieto nastavenia sú len pre vývojárske účely. Môžu spôsobiť nestabilitu systému.</string>
   <string name="dev_settings_warning_title">Povoliť vývojárske nastavenia?</string>
   <string name="development_enable">Povoliť vývoj</string>
+  <string name="development_settings_not_available">Pre tohto používateľa sú možnosti vývojára nedostupné</string>
   <string name="development_settings_summary">Umožňuje nastaviť možnosti pre vývoj aplikácií</string>
   <string name="development_settings_title">Možnosti pre vývojárov</string>
   <string name="device_additional_status">Ďalšie informácie o stave</string>
@@ -1177,6 +1178,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="free_wifi_connected_time">Doba pripojenia: %1$s</string>
   <string name="free_wifi_connecting">Pripájanie...</string>
   <string name="free_wifi_login_again">Prihlásiť znova</string>
+  <string name="free_wifi_manage_summary">Dotykom zobrazíte %1$s.</string>
   <string name="free_wifi_speed_title">Pomalé pripojenie?</string>
   <string name="free_wifi_summary">Free Wi-Fi，poskytovaná %1$s</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -1746,6 +1748,7 @@ po pripojení k PC."</string>
   <string name="msg_update_error_code_success">Aktualizované</string>
   <string name="msg_update_error_code_unknown_error">Neznáma chyba, skúste to neskôr!</string>
   <string name="msg_wlan_signal_found">Našiel sa Wi-Fi AP %s, chcete sa pripojiť k tejto sieti? Použitie tejto siete dočasne preruší dátové pripojenie.</string>
+  <string name="mtp_ptp_mode_summary">MTP alebo PTP je aktívne</string>
   <string name="multi_sim_settings_summary">Nastavenia viacerých SIM pre hlas, dáta a SMS</string>
   <string name="multi_sim_settings_title">Nastavenia viacerých SIM</string>
   <string name="multi_touch_points_category_title">Multidotykové body</string>
@@ -2541,6 +2544,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="runningservices_settings_title">Spustené služby</string>
   <string name="save_button">Uložiť</string>
   <string name="scan_done">Kontrola dokončená</string>
+  <string name="scan_list_label">Nájdené:</string>
   <string name="scanning_prefix">Kontrola: %s</string>
   <string name="scanning_start_hints">Príprava na kontrolu</string>
   <string name="scanning_virus">Kontrola...</string>
@@ -3152,6 +3156,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="user_dict_settings_empty_text">V užívateľskom slovníku nie sú žiadne slová. Slovo môžete pridať stlačením tlačidlá Pridať (+).</string>
   <string name="user_dict_settings_more_languages">Viac jazykov...</string>
   <string name="user_dict_settings_summary"/>
+  <string name="user_dict_settings_title">Užívateľský slovník</string>
   <string name="user_dict_settings_titlebar">Užívateľský slovník</string>
   <string name="user_dict_single_settings_title">Osobný slovník</string>
   <string name="user_discard_user_menu">Zrušiť</string>
