@@ -28,6 +28,7 @@
   <string name="accessibility_no_wifi">Žiadne Wi-Fi pripojenie.</string>
   <string name="accessibility_no_wimax">Žiadne WiMAX pripojenie.</string>
   <string name="accessibility_notifications_button">Notifikácie.</string>
+  <string name="accessibility_phone_four_bars">Signál štyri paličky.</string>
   <string name="accessibility_phone_one_bar">Signál jedna čiarka.</string>
   <string name="accessibility_phone_signal_full">Signál plný.</string>
   <string name="accessibility_phone_three_bars">Signál tri čiarky.</string>
