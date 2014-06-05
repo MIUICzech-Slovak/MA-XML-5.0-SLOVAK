@@ -744,4 +744,11 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="att_download_failed_content">Sťahovanie zlyhalo</string>
+  <string name="att_download_failed_title">Sťahovanie prílohy zlyhalo</string>
+  <string name="dialog_auto_download_failed">Nie je možné dokočiť sťahovanie</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">Nie je dostatok voľného miesta pre %s.</string>
+  <string name="dialog_insufficient_space_on_external">Nie je dostatok voľného miesta pre stiahnutie prílohy.</string>
+  <string name="dialog_insufficient_space_on_internal">Nie je dostatok voľného miesta</string>
+  <string name="mail">E-Mail</string>
 </resources>
