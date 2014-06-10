@@ -751,4 +751,7 @@ Delta update size: %2$s"</string>
   <string name="dialog_insufficient_space_on_external">Nie je dostatok voľného miesta pre stiahnutie prílohy.</string>
   <string name="dialog_insufficient_space_on_internal">Nie je dostatok voľného miesta</string>
   <string name="mail">E-Mail</string>
+  <string name="outbox_alert_button_no_resend">"Neodoslať"</string>
+  <string name="outbox_alert_button_resend">Odoslať</string>
+  <string name="outbox_alert_mailbox_not_found">Emailová adresa sa nenašla</string>
 </resources>

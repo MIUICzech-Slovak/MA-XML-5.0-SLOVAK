@@ -3704,4 +3704,17 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
   <string name="device_cpu8_info">"8 jadier "</string>
+  <string name="app_backup">Záloha</string>
+  <string name="app_feedback">Nahlásiť chybu</string>
+  <string name="bugreport_tool_log">Vytvoriť Hlásenie o chybe</string>
+  <string name="google_backup_section_title">Google záloha a obnovenie</string>
+  <string name="local_backup_section_summary">Zálohovať nastavenia, účty a aplikácie</string>
+  <string name="local_backup_section_title">Lokálne zálohy</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Spustiť záznam</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Ukončiť záznam</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="system_backup_section_title">Záloha</string>
+  
 </resources>
