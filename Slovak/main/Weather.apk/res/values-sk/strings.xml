@@ -58,7 +58,7 @@
   <string name="aqi_quality_index_unhealthy">nezdravé</string>
   <string name="button_abandon">Zrušiť zmeny</string>
   <string name="button_allow">Povoliť</string>
-  <string name="button_not_allow">Zakázať</string>
+  <string name="button_not_allow">Zrušiť</string>
   <string name="cancel">Zrušiť</string>
   <string name="edit_city">Upraviť</string>
   <string name="enable_gps">GPS</string>
