@@ -406,7 +406,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="bluetooth_device_context_pair_connect">Párovať a pripojiť</string>
   <string name="bluetooth_device_context_unpair">Zrušiť párovanie</string>
   <string name="bluetooth_device_details">Nastavenie zariadenia</string>
-  <string name="bluetooth_device_name">Názov zariadenia</string>
+  <string name="bluetooth_device_name">Názov zariadenia:</string>
   <string name="bluetooth_device_searchable">Viditeľné zariadenie</string>
   <string name="bluetooth_devices">Zariadenia Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil: %1$s Zariadenie:%2$s</string>
@@ -3716,5 +3716,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="modem_tool_log_stop">Ukončiť záznam</string>
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="system_backup_section_title">Záloha</string>
-  
+  <string name="bluetooth_device_address">Adresa zariadenia:</string>
 </resources>
