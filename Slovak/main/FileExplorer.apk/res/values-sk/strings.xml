@@ -342,4 +342,6 @@ aby ste urobili miesto</string>
   <string name="share_box">Zdieľané</string>
   <string name="share_box_receive">Prijaté</string>
   <string name="share_box_send">Odoslané</string>
+  <string name="file_not_exist">Súbor neexistuje</string>
+  <string name="open_file_failed">Otváranie zlyhalo</string>
 </resources>

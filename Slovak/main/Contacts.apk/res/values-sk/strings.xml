@@ -1157,4 +1157,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_search_select_city">Zvoľte mesto</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="resource_allow">Povoliť</string>
+  <string name="resource_connect_network_message">Chcete povoliť aplikácií pripojenie k internetu?</string>
+  <string name="resource_connect_network_settings">Upozorniť na pripojenie internetu</string>
+  <string name="resource_remind_another_time">Neupozorňovať</string>
 </resources>
