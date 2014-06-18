@@ -53,7 +53,7 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
   <string name="foreground_traffic">Na popredí %s</string>
   <string name="free_time_traffic">Limit dát mimo špičku</string>
   <string name="free_time_traffic_hint">Zadajte limit dát mimo špičku</string>
-  <string name="free_time_traffic_settings">Nastavenie dát mimo špičku<string>
+  <string name="free_time_traffic_settings">Nastavenie dát mimo špičku</string>
   <string name="free_time_traffic_title">Zadajte limit dát mimo špičku</string>
   <string name="free_traffic_settings">Nastavenie dát mimo špičku</string>
   <string name="input_aviable_traffic">Nastaviť limit spotreby dát</string>
