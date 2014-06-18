@@ -151,9 +151,9 @@
   <string name="key_back_down_toast">Pre ukončenie stlačte Späť znova</string>
   <string name="lekan">Lekan</string>
   <string name="letv">Letv</string>
-  <string name="live_loading_symbol">&lt;CDATA&gt;Načítavanie &lt;/CDATA&gt;</string>
+  <string name="live_loading_symbol">Načítavanie</string>
   <string name="live_loading_to_be_play">Načítavanie...</string>
-  <string name="live_pending_symbol">&lt;CDATA&gt;Načítavanie &lt;/CDATA&gt;</string>
+  <string name="live_pending_symbol">Načítavanie</string>
   <string name="live_pending_to_be_play">Načítavanie...</string>
   <string name="live_tabs_all">Všetko</string>
   <string name="live_tabs_choice">Zvolené</string>
@@ -164,11 +164,11 @@
   <string name="load_failed_to_try">Načítavanie zlyhalo</string>
   <string name="load_file_fail">Súbor sa nenašiel</string>
   <string name="load_offline_file_fail">Súbor sa nenašiel, načítajte ho znovu</string>
-  <string name="loading">" "&lt;CDATA&gt;Načítavanie &lt;/CDATA&gt;" "</string>
-  <string name="loading_review">&lt;CDATA&gt;Načítavanie &lt;/CDATA&gt;</string>
+  <string name="loading">" "Načítavanie " "</string>
+  <string name="loading_review">Načítavanie </string>
   <string name="loading_review_failed">Načítavanie komentáru zlyhalo</string>
-  <string name="loading_tv">" "&lt;CDATA&gt;Načítavanie &lt;/CDATA&gt;" "</string>
-  <string name="loading_video">" "&lt;CDATA&gt;Načítavanie &lt;/CDATA&gt;" "</string>
+  <string name="loading_tv">" "Načítavanie " "</string>
+  <string name="loading_video">" "Načítavanie " "</string>
   <string name="loading_video_netplay_label">Načítavanie, čakajte prosím...</string>
   <string name="loading_video_netplay_label_v5">Načítava sa video, čakajte prosím...</string>
   <string name="local_count_ji">PRC %d Ep.</string>
@@ -280,7 +280,7 @@
   <string name="search">Hľadať</string>
   <string name="search_result_recommend_hint">"Nič sa nenašlo"</string>
   <string name="search_result_recommend_title">"Každý sleduje"</string>
-  <string name="searching">" "&lt;CDATA&gt;Vyhľadávanie &lt;/CDATA&gt;" "</string>
+  <string name="searching">" "Vyhľadávanie " "</string>
   <string name="seconds">s</string>
   <string name="select_all">Vybrať všetko</string>
   <string name="select_media_source">Zvoľte zdroj videa</string>
@@ -370,4 +370,19 @@
   <string name="addon_install_complete_disc">Inštalácia %s dokončená.</string>
   <string name="addon_update_desc">Nájdená nová verzia, aktualizovať?</string>
   <string name="add_more_addons">Pridať viac špeciálov</string>
+  <string name="failed_text">can not get certificate, retry please!</string>
+  <string name="failed_text_11">verify fail! retry please!</string>
+  <string name="failed_text_21">the film you try to play is not online, please wait!</string>
+  <string name="failed_text_49">the account do not buy this film, can not play, you can buy it in thunder cinema</string>
+  <string name="failed_text_502">the film you try to play is offline or expired, can not play it</string>
+  <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
+  <string name="failed_text_parse_file">error! wrong file format</string>
+  <string name="failed_title">attention</string>
+  <string name="get_cert_file_failed">can not get thunder certificate,please press the back key</string>
+  <string name="gong_count_netdevice">%d net devices</string>
+  <string name="loading_text">Načítavanie...</string>
+  <string name="net_device_name">net device</string>
+  <string name="thunder_cinema">thunder cinema</string>
+  <string name="xunlei_cinema_title">thunder cinema</string>
+  <string name="xunlei_login_error">thunder login in error</string>  
 </resources>

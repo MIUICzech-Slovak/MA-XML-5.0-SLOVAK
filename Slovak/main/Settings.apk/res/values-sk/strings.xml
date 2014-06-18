@@ -3719,4 +3719,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="bluetooth_device_address">Adresa zariadenia:</string>
   <string name="title_font">Písmo</string>
   <string name="title_font_current">Používa sa</string>
+  <string name="use_network_warning">Xiaomi Service Framework a Cloud vyžadujú internetové pripojenie</string>
 </resources>

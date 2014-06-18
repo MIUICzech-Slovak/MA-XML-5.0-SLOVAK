@@ -306,4 +306,14 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="resource_connect_network_message">Chcete povoliť aplikácií pripojenie k internetu?</string>
   <string name="resource_connect_network_settings">Upozorniť na pripojenie internetu</string>
   <string name="resource_remind_another_time">Neupozorňovať</string>
+  <string name="theme_user_agreement_allow">Agree</string>
+  <string name="theme_user_agreement_content1">Read the applicable terms carefully before you use this product:</string>
+  <string name="theme_user_agreement_content2">" User agreement"</string>
+  <string name="theme_user_agreement_content3">" and "</string>
+  <string name="theme_user_agreement_content4">Privacy policy</string>
+  <string name="theme_user_agreement_content5">. Do you agree its requiring network?</string>
+  <string name="theme_user_agreement_remind_again">Notify when requiring network</string>
+  <string name="theme_user_agreement_remind_never">"Don't remind me"</string>
+  <string name="theme_user_agreement_remind_summary">Take effect next boot</string>
+  <string name="theme_user_agreement_title">Declaration and Impunity</string>
 </resources>
