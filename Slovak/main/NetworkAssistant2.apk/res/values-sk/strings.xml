@@ -51,11 +51,11 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
   <string name="force_stop_dlg_text">"Ak zakážete používanie dát na pozadí, niektoré aplikácie a služby nemusia fungovať pokiaľ sa nepripojíte na Wi-Fi sieť."</string>
   <string name="force_stop_dlg_title">Zakázať dáta na pozadí</string>
   <string name="foreground_traffic">Na popredí %s</string>
-  <string name="free_time_traffic">Off-peak data limit</string>
-  <string name="free_time_traffic_hint">Enter off-peak data limit</string>
-  <string name="free_time_traffic_settings">Off-peak data limit settings</string>
-  <string name="free_time_traffic_title">Enter off-peak data limit</string>
-  <string name="free_traffic_settings">Off-peak data usage settings</string>
+  <string name="free_time_traffic">Limit dát mimo špičku</string>
+  <string name="free_time_traffic_hint">Zadajte limit dát mimo špičku</string>
+  <string name="free_time_traffic_settings">Nastavenie dát mimo špičku<string>
+  <string name="free_time_traffic_title">Zadajte limit dát mimo špičku</string>
+  <string name="free_traffic_settings">Nastavenie dát mimo špičku</string>
   <string name="input_aviable_traffic">Nastaviť limit spotreby dát</string>
   <string name="input_traffic_pkg">Zadajte využité dáta</string>
   <string name="input_used_hint">Zadajte využité dáta</string>
@@ -66,7 +66,7 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
   <string name="main_alert_message_slot_no_data_connection">"Tento slot SIM karty nepodporuje
 mobilné internetové pripojenie"</string>
   <string name="main_button_idel_traffic">Limit</string>
-  <string name="main_button_normal_traffic">Peak</string>
+  <string name="main_button_normal_traffic">Mimo špičku</string>
   <string name="main_button_usage_adjust">Zadajte využité dáta</string>
   <string name="main_button_usage_adjust_manual">Zadajte využité dáta</string>
   <string name="main_button_usage_adjusting">Mení sa...</string>
@@ -113,10 +113,10 @@ Využité"</string>
   <string name="pref_daily_adjust">Nastaviť limit dát</string>
   <string name="pref_daily_traffic">Limit spotreby dát</string>
   <string name="pref_data_usage_not_set">Nastaviť limit spotreby dát</string>
-  <string name="pref_free_adjust">Set off-peak data limit</string>
+  <string name="pref_free_adjust">Nastaviť limit dát mimo špičku</string>
   <string name="pref_free_traffic_exceed_limit">Upozorniť ma ak spotreba dát dosiahne limit</string>
-  <string name="pref_free_traffic_limit_warn">Off-peak data usage warning</string>
-  <string name="pref_free_traffic_settings">Off-peak data usage settings</string>
+  <string name="pref_free_traffic_limit_warn">Upozorniť na dáta mimo špičku</string>
+  <string name="pref_free_traffic_settings">Nastavenie dát mimo špičku</string>
   <string name="pref_leisure_no_overlay">Povolené</string>
   <string name="pref_leisure_not_opened">Zakázané</string>
   <string name="pref_manual_adjust">Nastaviť štatistiku používania manuálne</string>
@@ -125,7 +125,7 @@ Využité"</string>
   <string name="pref_more_traffic_settings">Ostatné nastavenia</string>
   <string name="pref_new_installed_preconfig_title">Predvolené nastavenie pre nové apl.</string>
   <string name="pref_open_adjust_traffic">"Synchronizovať vašu spotrebu dát s vaším operátorom"</string>
-  <string name="pref_package_traffic_leisure">%1$s | Off-peak: %2$s</string>
+  <string name="pref_package_traffic_leisure">%1$s | Mimo špičku: %2$s</string>
   <string name="pref_package_traffic_normal">Limit: %s</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatočné: %2$s</string>
   <string name="pref_package_traffic_settings">Limit mobilných dát</string>
@@ -153,10 +153,10 @@ Využité"</string>
   <string name="tips_message">"Ak si nie ste istý o množstve svojich predplatených dát, môžete ich zistiť vytočením %2$s (%1$s) (Iba Čína)."</string>
   <string name="traffic_correction_failed">"Nie je možné získať info o spotrebe dát"</string>
   <string name="traffic_correction_start_correction">"Kontrola so servermi operátora..."</string>
-  <string name="traffic_correction_start_correction_failed">Požiadavka zlyhala, skotrolujte nastavenie operátora</string>
+  <string name="traffic_correction_start_correction_failed">Požiadavka zlyhala, skontrolujte nastavenie operátora</string>
   <string name="traffic_correction_success">Spotreba dát aktualizovaná</string>
   <string name="traffic_none">Žiadne</string>
-  <string name="traffic_protection_data_usage_summary">"Používanie mobilnych dát nad rámec predplateného balíčku, môže navýšiť vaše poplatky."</string>
+  <string name="traffic_protection_data_usage_summary">"Používanie mobilných dát nad rámec predplateného balíčku, môže navýšiť vaše poplatky."</string>
   <string name="traffic_protection_label">Upozornenie spotreby dát</string>
   <string name="traffic_protection_next">Ďalej</string>
   <string name="traffic_protection_summary">Nastavte upozornenia ak spotreba dosiahne limit</string>
