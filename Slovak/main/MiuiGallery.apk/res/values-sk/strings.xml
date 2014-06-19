@@ -552,8 +552,8 @@ spoločne!"</string>
   <string name="ubifocus_refocus_fail_tip">ie je možné preostriť kvôli chýbajúcim dátam</string>
   <string name="download_refocus_data">Stiahnúť dáta na preostrenie</string>
   <string name="refocus_data_downloading">Sťahovanie dát na preostrenie...</string>
-  <string name="item_not_sync_for_origin_image">This picture has not been synchronized to the cloud and its origin image can not be downloaded</string>
-  <string name="item_not_sync_for_origin_video">This video has not been synchronized to the cloud and can not be downloaded</string>
-  <string name="item_not_sync_for_refocus_data">This picture has not been synchronized to the cloud and its refocus data can not be downloaded</string>
+  <string name="item_not_sync_for_origin_image">Táto fotografia nebola synchronizovaná s cloudom a originál nemôže byť stiahnutý</string>
+  <string name="item_not_sync_for_origin_video">Toto video nebolo synchronizované s cloudom a originál nemôže byť stiahnutý</string>
+  <string name="item_not_sync_for_refocus_data">Táto fotografia nebola synchronizovaná s cloudom a dáta pre preostrenie nemôžu byť stiahnuté</string>
   <string name="ubifocus_guide_text">Pre preostrenie podržte 0.5s</string>  
 </resources>

@@ -364,7 +364,7 @@
   <string name="where_is_barcode">"Kde je QR kód?"</string>
   <string name="xiaomi_account_setting">Xiaomi účet</string>
   <string name="impunity_declaration_ignore">Nepýtať sa</string>
-  <string name="impunity_declaration_settings">Every time notification when networking</string>
-  <string name="impunity_declaration_summary">When entering the music, there will popup to remind</string>
-  <string name="take_effect_afater_restart">The music must be restarted in order for the new setting to take effect</string>
+  <string name="impunity_declaration_settings">Vždy upozorniť pri používaní internetového pripojenia</string>
+  <string name="impunity_declaration_summary">Pri prístupe k hudbe sa zobrazí vyskakovacie okno s upozornením</string>
+  <string name="take_effect_afater_restart">Aplikácia musí byť reštartovaná pre aplikovanie nových nastavení</string>
 </resources>
