@@ -555,5 +555,5 @@ spoločne!"</string>
   <string name="item_not_sync_for_origin_image">Táto fotografia nebola synchronizovaná s cloudom a originál nemôže byť stiahnutý</string>
   <string name="item_not_sync_for_origin_video">Toto video nebolo synchronizované s cloudom a originál nemôže byť stiahnutý</string>
   <string name="item_not_sync_for_refocus_data">Táto fotografia nebola synchronizovaná s cloudom a dáta pre preostrenie nemôžu byť stiahnuté</string>
-  <string name="ubifocus_guide_text">Pre preostrenie podržte 0.5s</string>  
+  <string name="ubifocus_guide_text">Pre preostrenie podržte dlhšie</string>  
 </resources>

@@ -180,4 +180,5 @@ Využité"</string>
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
+  <string name="spinner_title">%1$s - Mobilne dáta: %2$s</string>
 </resources>

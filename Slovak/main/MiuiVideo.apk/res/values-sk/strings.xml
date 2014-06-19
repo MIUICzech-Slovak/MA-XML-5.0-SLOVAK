@@ -385,4 +385,12 @@
   <string name="thunder_cinema">thunder cinema</string>
   <string name="xunlei_cinema_title">thunder cinema</string>
   <string name="xunlei_login_error">thunder login in error</string>  
+  <string name="backkey_remark">*备注：按返回键退出</string>
+  <string name="declaration_content_short">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other video content providers?</string>
+  <string name="home_net_content">视频应用将会使用您的网络流量，是否要继续？</string>
+  <string name="home_net_title">联网提示</string>
+  <string name="ok_no_more">OK and No More Promopts</string>
+  <string name="setting_use_network">允许使用网络</string>
+  <string name="setting_use_network_summery">视频应用将会使用您的网络流量</string>
+  <string name="sure">Agree</string>
 </resources>
