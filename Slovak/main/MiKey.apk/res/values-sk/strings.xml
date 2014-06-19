@@ -10,6 +10,8 @@
   <string name="action_lock_screen">Zamknúť</string>
   <string name="action_open_camera">Fotoaparát</string>
   <string name="action_open_camera2">Fotografia</string>
+  <string name="action_open_camera360_capture">Camera360 Efekty</string>
+  <string name="action_open_camera360_edit">Camera360 Editácia</string>
   <string name="action_open_flashlight">Svietidlo</string>
   <string name="action_open_mi_route">Zoznam zariadení</string>
   <string name="action_open_or_close_motion">Otáčanie displeja</string>
@@ -31,9 +33,9 @@
   <string name="add_to_contacts">Pridať do kontaktov</string>
   <string name="address">Adresa:</string>
   <string name="app_name">MiKey</string>
+  <string name="app_not_installed">Aplikácia nie je nainštalovaná</string>
   <string name="back_camera">Zadný fotoaparát</string>
   <string name="birthday">Narodeniny:</string>
-  <string name="buy">Kúpiť MiKey</string>
   <string name="call_to">Volať</string>
   <string name="cancel">Zrušiť</string>
   <string name="category_app">Aplikácie</string>
@@ -120,6 +122,7 @@
   <string name="sdcard">sdcard</string>
   <string name="select_camera">Vyberte fotoaparát</string>
   <string name="select_device">Čo ste pripojili?</string>
+  <string name="setting_buy">Kúpiť MiKey</string>
   <string name="setting_feedback">Spätná väzba</string>
   <string name="setting_instant_photo_desc">Pred zhotovením fotografie, fotoaparát zaostrí</string>
   <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
@@ -133,6 +136,15 @@
   <string name="setting_speed_quick">Rýchlo</string>
   <string name="setting_speed_slow">Pomaly</string>
   <string name="setting_speed_text">Rýchlosť</string>
+  <string name="setting_toolbar">Panel nástrojov</string>
+  <string name="setting_toolbar_desc">"工具栏功能可以在通知栏中快速的使用米健的功能。
+它能带来能多便利。"</string>
+  <string name="setting_toolbar_tip">"点击加号添加新功能,点击已有功能可以更换。
+长按可删除。
+如果你喜欢就来组合属于自己的工具栏吧!
+
+开启工具栏,在任何情况下,
+从手机的上端听筒处向下滑动就能使用它!"</string>
   <string name="setting_vibrate_desc">Pre oznámenie vykonania funkcie telefón zavibruje</string>
   <string name="setting_vibrate_text">Vibračná odozva</string>
   <string name="settings">Nastavenia</string>
