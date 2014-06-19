@@ -317,7 +317,7 @@
   <string name="pref_content_autofit_summary">Formátovať stránky aby sa zmestili na obrazovku</string>
   <string name="pref_content_block_float_popups">Blokovať plávajúce okná</string>
   <string name="pref_content_block_popups">Blokovať pop-up okná</string>
-  <string name="pref_content_cloud_speedup">Zrýchliť načítavanie obsahu pomocou proxy serverov</string>
+  <string name="pref_content_cloud_speedup">Zrýchliť načítavanie pomocou proxy</string>
   <string name="pref_content_fontsize_setting">Nastavenie písma</string>
   <string name="pref_content_homepage">Nastaviť domovskú stránku</string>
   <string name="pref_content_javascript">Povoliť JavaScript</string>
