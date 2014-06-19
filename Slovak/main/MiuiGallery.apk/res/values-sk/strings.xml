@@ -40,6 +40,8 @@
   <string name="albums">Albumov</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznam</string>
+  <string name="alert_init_merged_message">Fotografie ktoré máte vo svojom zariadení a v MiCloud, sa zobrazia na jednom mieste.</string>
+  <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
   <string name="alert_message_initial_cloud">Systém automaticky odošle Vaše staré a nové fotografie len ak ste pripojení na sieť Wi-Fi.</string>
   <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
   <string name="already_apply_album">Otvoriť %1$s?</string>
@@ -85,6 +87,7 @@
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string>
+  <string name="click_to_add_picture">Dotykom pridáte fotografie</string>
   <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
   <string name="click_top_right">Stlač ikonu vpravo hore</string>
   <string name="close">Zatvoriť</string>
@@ -171,6 +174,7 @@ spoločne!"</string>
   <string name="download">Stiahnuť</string>
   <string name="download_fail">Sťahovanie zlyhalo</string>
   <string name="download_fail_confirm_continue">Sťahovanie %s zlyhalo. Pokračovať?</string>
+  <string name="download_refocus_data">Stiahnúť dáta na preostrenie</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Trvanie</string>
   <string name="edit">Upraviť</string>
@@ -265,6 +269,9 @@ spoločne!"</string>
   <string name="invalid_recipient_message">"Opravte príjemcov inak nedostanú správu."</string>
   <string name="iso">ISO</string>
   <string name="item_not_sync">Tento súbor nebol synchronizovaný do cloudu a nie je možné ho stiahnuť</string>
+  <string name="item_not_sync_for_origin_image">Táto fotografia nebola synchronizovaná s cloudom a originál nemôže byť stiahnutý</string>
+  <string name="item_not_sync_for_origin_video">Toto video nebolo synchronizované s cloudom a originál nemôže byť stiahnutý</string>
+  <string name="item_not_sync_for_refocus_data">Táto fotografia nebola synchronizovaná s cloudom a dáta pre preostrenie nemôžu byť stiahnuté</string>
   <string name="kick_owner_user_positive_button_text">Odstrániť</string>
   <string name="kick_owner_user_title">Odstrániť tohto člena?</string>
   <string name="kick_sharer">Odstrániť zdieľaných</string>
@@ -278,9 +285,11 @@ spoločne!"</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
   <string name="loading_video">Sťahovanie videa...</string>
   <string name="local_albums">Lokálne Albumy</string>
+  <string name="local_time">(Lokálne)</string>
   <string name="location">Poloha</string>
   <string name="locations">Miesta</string>
   <string name="lomoish">Lomo</string>
+  <string name="long_press_to_refocus">Držte pre preostrenie</string>
   <string name="make_download_dir_fail">Vytvorenie zložky pre súbory zlyhalo</string>
   <string name="maker">Tvorca</string>
   <string name="manual">Manuál</string>
@@ -355,6 +364,7 @@ spoločne!"</string>
   <string name="path">Cesta</string>
   <string name="people">Ľudia</string>
   <string name="photo_page_always_rotate">Automaticky otočiť</string>
+  <string name="photo_page_detail_show_in_the_map">Zobraziť polohu na mape</string>
   <string name="photo_page_save_image">Uložiť</string>
   <string name="photo_page_save_uri_image_fail">Ukladanie snímky zlyhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímka bola uložená do zložky fotoaparátu.</string>
@@ -368,6 +378,7 @@ spoločne!"</string>
   <string name="picker_no_items_selected">Žiadne položky</string>
   <string name="picker_select_album_title_empty">Vyberte album</string>
   <string name="picker_tab_camera">Fotoaparát</string>
+  <string name="picker_tab_photo">Fotografie</string>
   <string name="posterize">Posterizovať</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Príprava obrázkov na vymazanie.</string>
@@ -381,6 +392,7 @@ spoločne!"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Červené oči</string>
   <string name="redeye_tooltip">Klikni pre odstránenie červených očí</string>
+  <string name="refocus_data_downloading">Sťahovanie dát na preostrenie...</string>
   <string name="remove_hidden_album">Zrušiť skryté</string>
   <string name="remove_recent_album">Odstrániť z nedávnych albumov</string>
   <string name="rename_failed">Premenovať sa nepodarilo</string>
@@ -478,6 +490,7 @@ spoločne!"</string>
   <string name="slideshow_repeat_mode">Opakovať</string>
   <string name="slideshow_time_select_title">Zvoľte čas prezentácie</string>
   <string name="slideshow_time_title">Čas prezentácie</string>
+  <string name="start_slide_show">Spustiť prezentáciu</string>
   <string name="storage_all_volumes">Všetky úložné zariadenia</string>
   <string name="storage_no_space">"Nieje voľné miesto na úložisku."</string>
   <string name="straighten">Vyrovnať</string>
@@ -488,6 +501,7 @@ spoločne!"</string>
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string>
   <string name="sync_history_power_on">Synchronizovať fotografie len počas nabíjania.</string>
+  <string name="sync_in_progress_message">Prebieha synchronizácia...</string>
   <string name="sync_only_in_wifi">Iba cez Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Deaktivovanie synchronizácie len cez Wi-Fi môže zvýšiť Vaše poplatky za mobilne dáta. Chcete deaktivovať?</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
@@ -513,6 +527,10 @@ spoločne!"</string>
   <string name="try_to_send">Pokúsiť sa odoslať</string>
   <string name="turn_left">Otočiť doľava</string>
   <string name="turn_right">Otočiť doprava</string>
+  <string name="ubifocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
+  <string name="ubifocus_guide_text">Pre preostrenie podržte dlhšie</string>
+  <string name="ubifocus_map_error">Chýbajú dáta</string>
+  <string name="ubifocus_refocus_fail_tip">ie je možné preostriť kvôli chýbajúcim dátam</string>
   <string name="ucdownloads_screenshot">UC Prehliadač</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Odstránenie z verejných albumov zlyhalo.</string>
@@ -538,22 +556,4 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="alert_init_merged_message">Fotografie ktoré máte vo svojom zariadení a v MiCloud, sa zobrazia na jednom mieste.</string>
-  <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
-  <string name="click_to_add_picture">Dotykom pridáte fotografie</string>
-  <string name="local_time">(Lokálne)</string>
-  <string name="long_press_to_refocus">Držte pre preostrenie</string>
-  <string name="photo_page_detail_show_in_the_map">Zobraziť polohu na mape</string>
-  <string name="picker_tab_photo">Fotografie</string>
-  <string name="start_slide_show">Spustiť prezentáciu</string>
-  <string name="sync_in_progress_message">Prebieha synchronizácia...</string>
-  <string name="ubifocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
-  <string name="ubifocus_map_error">Chýbajú dáta</string>
-  <string name="ubifocus_refocus_fail_tip">ie je možné preostriť kvôli chýbajúcim dátam</string>
-  <string name="download_refocus_data">Stiahnúť dáta na preostrenie</string>
-  <string name="refocus_data_downloading">Sťahovanie dát na preostrenie...</string>
-  <string name="item_not_sync_for_origin_image">Táto fotografia nebola synchronizovaná s cloudom a originál nemôže byť stiahnutý</string>
-  <string name="item_not_sync_for_origin_video">Toto video nebolo synchronizované s cloudom a originál nemôže byť stiahnutý</string>
-  <string name="item_not_sync_for_refocus_data">Táto fotografia nebola synchronizovaná s cloudom a dáta pre preostrenie nemôžu byť stiahnuté</string>
-  <string name="ubifocus_guide_text">Pre preostrenie podržte dlhšie</string>  
 </resources>

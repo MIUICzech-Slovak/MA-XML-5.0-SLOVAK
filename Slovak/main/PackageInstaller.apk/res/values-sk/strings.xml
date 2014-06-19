@@ -3,6 +3,11 @@
 <resources>
   <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
   <string name="Parse_error_dlg_title">Chyba analýzy</string>
+  <string name="ad_block_button_title">Blokovať adware</string>
+  <string name="ad_relative">Adware</string>
+  <string name="adware_count">Obsahuje doplnky: %d</string>
+  <string name="adware_hint">Tieto doplnky sa používajú v aplikáciach pre zobrazenie reklamy na vašom zariadení</string>
+  <string name="adware_title">AdWare</string>
   <string name="allow_source_dlg_text">"Aplikácia %1$s chce inštalovať iné aplikácie. \nPovoliť teraz aj v budúcnosti?"</string>
   <string name="allow_source_dlg_title">Nový zdroj pre aplikácie</string>
   <string name="app_name">Nástroj na inštaláciu balíčkov</string>
@@ -79,9 +84,4 @@
   <string name="virus_scan_install">" "Pokračovať" "</string>
   <string name="virus_scan_is_risk">Táto aplikácia je podozrivá!</string>
   <string name="virus_scan_is_virus">Táto aplikácia je VÍRUS!</string>
-  <string name="ad_block_button_title">Blokovať adware</string>
-  <string name="ad_relative">Adware</string>
-  <string name="adware_count">Obsahuje doplnky: %d</string>
-  <string name="adware_hint">Tieto doplnky sa používajú v aplikáciach pre zobrazenie reklamy na vašom zariadení</string>
-  <string name="adware_title">AdWare</string>
 </resources>

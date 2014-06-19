@@ -121,6 +121,7 @@
   <string name="enable_micloud">Registrovať alebo prihlásiť</string>
   <string name="enable_sync">Povoliť synchr.</string>
   <string name="enable_sync_dspt">Synchr. je deaktivovaná</string>
+  <string name="error_device_id">Nie je možné načítať IMEI</string>
   <string name="error_dup_phone">Telefón bol zaregistrovaný</string>
   <string name="error_invalid_dev_id">Nesprávne ID zariadenia</string>
   <string name="error_network">Chyba siete</string>
@@ -328,5 +329,4 @@ s "</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="error_device_id">Nie je možné načítať IMEI</string>
 </resources>

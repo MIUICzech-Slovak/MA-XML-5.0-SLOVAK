@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string name="app_name">Príručka</string>
-    <string name="loading_userbook">Načítavanie...</string>
-    <string name="bakc_key_toast_txt">Stlačte znova pre ukončenie</string>
-    <string name="non_wifi_not_download_data">Nie je možné stiahnuť tento balík, skúste to znova neskôr.</string>
+  <string name="app_name">Príručka</string>
+  <string name="bakc_key_toast_txt">Stlačte znova pre ukončenie</string>
+  <string name="loading_userbook">Načítavanie...</string>
+  <string name="non_wifi_not_download_data">Nie je možné stiahnuť tento balík, skúste to znova neskôr.</string>
 </resources>

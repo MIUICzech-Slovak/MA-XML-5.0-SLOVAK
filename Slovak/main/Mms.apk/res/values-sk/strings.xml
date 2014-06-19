@@ -23,7 +23,10 @@
   <string name="adding_attachments">Čakajte prosím, pokiaľ budú položky pridané do prezentácie.</string>
   <string name="adding_attachments_title">Pridávanie príloh</string>
   <string name="adding_recipients">Pridávanie príjemcov…</string>
+  <string name="alert_dlg_cancel_button">Zrušiť</string>
+  <string name="alert_dlg_ok_button">OK</string>
   <string name="app_label">Správy</string>
+  <string name="app_name">Správa zariadení</string>
   <string name="attach_image">Obrázky</string>
   <string name="attach_record_sound">Nahrať audio</string>
   <string name="attach_record_video">Nahrať video</string>
@@ -65,6 +68,8 @@
   <string name="confirm_delete_message">Táto správa bude vymazaná.</string>
   <string name="confirm_dialog_locked_title">Vymazať zamknuté správy?</string>
   <string name="confirm_dialog_title">Vymazať</string>
+  <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
+  <string name="confirm_dlg_title">Správa zariadení</string>
   <string name="confirm_export_dialog_description">Odstrániť vybraný súkromný kontakt, konverzácie budú premiestnené do bežných SMS. Chcete pokračovať?</string>
   <string name="confirm_export_dialog_title">Odstrániť súkromný kontakt</string>
   <string name="confirm_no_block_positive">Neblokovať</string>
@@ -174,6 +179,7 @@
   <string name="loading_all_messages">Načítavanie všetkých správ...</string>
   <string name="loading_conversations">Nahrávanie konverzácií...</string>
   <string name="loading_mms">Načítavanie MMS...</string>
+  <string name="manage_permission_app_label">Device Management Permission</string>
   <string name="me">Ja</string>
   <string name="menu_compose_new">Vytvoriť</string>
   <string name="menu_delete_messages">Odstrániť</string>
@@ -380,6 +386,12 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="select_recipient">Príjemca</string>
   <string name="select_top_text">Text hore</string>
   <string name="send">Poslať</string>
+  <string name="send_message_dlg_check_hint">Pamätať si nastavenie</string>
+  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
+  <string name="send_message_dlg_title">Správa zariadení</string>
+  <string name="send_message_notification_msg">Device Management send message permission request</string>
+  <string name="send_message_notification_tickerText">Device Management permission request</string>
+  <string name="send_message_notification_title">Správa zariadení</string>
   <string name="send_signature_confirm_dialog_message">Nezadali ste žiaden text. Naozaj chcete takto správu odoslať?</string>
   <string name="send_signature_confirm_dialog_title">Poslať podpis</string>
   <string name="send_sms">Odoslať</string>
@@ -411,6 +423,9 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="sms_full_title">Textové správy majú už plnú pamäť</string>
   <string name="sms_rejected_body">Prichádzajúca správa bola odmietnutá z neznámeho dôvodu.</string>
   <string name="sms_rejected_title">Textová správa odmietnutá</string>
+  <string name="sp_category_all">Všetky správy služieb</string>
+  <string name="sp_category_bank">Správy Banky</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="sp_conversation_title">Notifikačné správy</string>
   <string name="sp_mark_as_read">Označiť všetky správy ako prečítané?</string>
   <string name="sp_mark_as_read_progress">Označenie všetkých správ ako prečítané...</string>
@@ -474,19 +489,4 @@ Pokus: %s."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">OK</string>
-  <string name="sp_category_all">Všetky správy služieb</string>
-  <string name="sp_category_bank">Správy Banky</string>
-  <string name="sp_category_title_prefix">%s</string>
-  <string name="alert_dlg_cancel_button">Zrušiť</string>
-  <string name="alert_dlg_ok_button">OK</string>
-  <string name="app_name">Správa zariadení</string>
-  <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
-  <string name="confirm_dlg_title">Správa zariadení</string>
-  <string name="manage_permission_app_label">Device Management Permission</string>
-  <string name="send_message_dlg_check_hint">Pamätať si nastavenie</string>
-  <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
-  <string name="send_message_dlg_title">Správa zariadení</string>
-  <string name="send_message_notification_msg">Device Management send message permission request</string>
-  <string name="send_message_notification_tickerText">Device Management permission request</string>
-  <string name="send_message_notification_title">Správa zariadení</string>
 </resources>

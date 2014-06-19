@@ -196,6 +196,8 @@
   <string name="app_name">Email</string>
   <string name="archive">Archivovať</string>
   <string name="archived">Archivované</string>
+  <string name="att_download_failed_content">Sťahovanie zlyhalo</string>
+  <string name="att_download_failed_title">Sťahovanie prílohy zlyhalo</string>
   <string name="att_mgr_no_attachment">Žiadne prílohy!</string>
   <string name="att_mgr_title_order_mime">Formátu</string>
   <string name="att_mgr_title_order_name">Názvu</string>
@@ -305,6 +307,10 @@
   <string name="device_admin_label">Poslať e-mail</string>
   <string name="device_not_activiey_lint1">Správca zariadenia nie je aktivovaný</string>
   <string name="device_not_activiey_lint2">Služba EMail nefunguje správne</string>
+  <string name="dialog_auto_download_failed">Nie je možné dokočiť sťahovanie</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">Nie je dostatok voľného miesta pre %s.</string>
+  <string name="dialog_insufficient_space_on_external">Nie je dostatok voľného miesta pre stiahnutie prílohy.</string>
+  <string name="dialog_insufficient_space_on_internal">Nie je dostatok voľného miesta</string>
   <string name="disable_admin_warning">UPOZORNENIE: Ak deaktivujete oprávnenie aplikácie E-mail spravovať toto zariadenie, budú odstránené všetky účty aplikácie E-mail, ktoré toto oprávnenie vyžadujú. Spoločne s týmito účtami budú odstránené aj všetky ich e-maily, kontakty, udalosti kalendára a ďalšie údaje.</string>
   <string name="discard">Zahodiť</string>
   <string name="discard_drafts">Zahodiť koncepty</string>
@@ -401,6 +407,7 @@
   <string name="login_failed_ticker">Prihlásenie do účtu %s zlyhalo.</string>
   <string name="login_failed_title">Prihlásenie sa nepodarilo</string>
   <string name="long_press_to_select_tip">Ak chcete vybrať jednu konverzáciu, dotknite sa jej a podržte. Následným dotykom ich potom môžete vybrať viac.</string>
+  <string name="mail">E-Mail</string>
   <string name="mailbox_list_account_selector_combined_view">Kombinované zobrazenie</string>
   <string name="mailbox_name_display_drafts">Koncepty</string>
   <string name="mailbox_name_display_inbox">Doručená pošta</string>
@@ -521,8 +528,11 @@ Kópia: %4$s
   <string name="okay_action">OK</string>
   <string name="other_mail">Iný email</string>
   <string name="outbox_alert_button_confirm">Upraviť</string>
+  <string name="outbox_alert_button_no_resend">"Neodoslať"</string>
+  <string name="outbox_alert_button_resend">Odoslať</string>
   <string name="outbox_alert_description_sent_failed">"Príčina: Veľkosť prílohy
 presahuje limit"</string>
+  <string name="outbox_alert_mailbox_not_found">Emailová adresa sa nenašla</string>
   <string name="outbox_alert_title_sent_failed">Odosielanie zlyhalo</string>
   <string name="outbox_no_mails">Žiadne správy</string>
   <string name="parase_setup_data">Načítavanie nastavení...</string>
@@ -744,14 +754,4 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="att_download_failed_content">Sťahovanie zlyhalo</string>
-  <string name="att_download_failed_title">Sťahovanie prílohy zlyhalo</string>
-  <string name="dialog_auto_download_failed">Nie je možné dokočiť sťahovanie</string>
-  <string name="dialog_insufficient_space_for_single_account_on_internal">Nie je dostatok voľného miesta pre %s.</string>
-  <string name="dialog_insufficient_space_on_external">Nie je dostatok voľného miesta pre stiahnutie prílohy.</string>
-  <string name="dialog_insufficient_space_on_internal">Nie je dostatok voľného miesta</string>
-  <string name="mail">E-Mail</string>
-  <string name="outbox_alert_button_no_resend">"Neodoslať"</string>
-  <string name="outbox_alert_button_resend">Odoslať</string>
-  <string name="outbox_alert_mailbox_not_found">Emailová adresa sa nenašla</string>
 </resources>

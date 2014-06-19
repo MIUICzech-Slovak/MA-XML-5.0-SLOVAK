@@ -192,6 +192,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="apn_settings">Názvy APN</string>
   <string name="apn_type">Typ názvu APN</string>
   <string name="apn_user">Užívateľské meno</string>
+  <string name="app_backup">Záloha</string>
   <string name="app_disable_dlg_text">Pokiaľ zakážete integrovanú aplikáciu, môže sa stať, že ostatné aplikácie prestanú fungovať správne.</string>
   <string name="app_disable_dlg_title">Zakázať integrovanú aplikáciu</string>
   <string name="app_disable_notifications_dlg_text">Ak vypnete notifikácie pre túto aplikáciu, môžete zmeškať dôležité upozornenia.</string>
@@ -199,6 +200,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="app_factory_reset">Odinštalovať aktualizácie</string>
   <string name="app_factory_reset_dlg_text">Všetky aktualizácie tejto aplikácie systému Android budú odinštalované.</string>
   <string name="app_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>
+  <string name="app_feedback">Nahlásiť chybu</string>
   <string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích okien aplikácie %1$s ju násilne ukončí. Ste si istý, že ich chcete zakázať?"</string>
   <string name="app_floating_window_dlg_enable">"Povolenie vyskakovacích okien pre aplikáciu %1$s vyžaduje jej reštart. Ste si istý, že ich chcete povoliť?"</string>
   <string name="app_forward_locked">Aplikácia je chránená proti kopírovaniu.</string>
@@ -393,6 +395,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="bluetooth_connection_notif_message">Klepnutím sa pripojíte k zariadeniu „%1$s”.</string>
   <string name="bluetooth_connection_permission_request">Požiadavka na pripojenie zariadenia Bluetooth</string>
   <string name="bluetooth_device">Nepomenované zariadenie Bluetooth</string>
+  <string name="bluetooth_device_address">Adresa zariadenia:</string>
   <string name="bluetooth_device_advanced_enable_opp_title">Povoliť prich. prenosy súborov</string>
   <string name="bluetooth_device_advanced_online_mode_summary">Umožňuje pripojenie zariadení s rozhraním Bluetooth</string>
   <string name="bluetooth_device_advanced_online_mode_title">Pripojiť</string>
@@ -569,6 +572,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="bt_trace_log_summary">Povoliť Bluetooth Trace log</string>
   <string name="bugreport_in_power">Nahlasovať chyby z hlavnej ponuky</string>
   <string name="bugreport_in_power_summary">V hlavnej ponuke zahrnúť možnosť na vytvorenie správy o chybe</string>
+  <string name="bugreport_tool_log">Vytvoriť Hlásenie o chybe</string>
   <string name="bugreport_tool_log_toast">Hlásenie o chybe uložené do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváranie záznamu o chybe bude trvať asi 1 minútu</string>
   <string name="build_number">Číslo buildu</string>
@@ -894,6 +898,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_cpu">CPU</string>
   <string name="device_cpu2_info">"2 jadrá "</string>
   <string name="device_cpu4_info">"4 jadrá "</string>
+  <string name="device_cpu8_info">"8 jadier "</string>
   <string name="device_edit_title">Zmeniť názov zariadenia</string>
   <string name="device_info_default">Neznáme</string>
   <string name="device_info_label">Info o zariadení</string>
@@ -1260,6 +1265,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="global_change_warning">Toto nastavenie ovplyvní všetkých používateľov tohto telefónu.</string>
   <string name="global_font_change_title">Zmeniť veľkosť písma</string>
   <string name="global_locale_change_title">Zmeniť jazyk</string>
+  <string name="google_backup_section_title">Google záloha a obnovenie</string>
   <string name="gsm_to_wifi_connect_type_title">Mobilný-&gt;Wi-Fi</string>
   <string name="haptic_feedback_enable_title">Pri dotyku vibrovať</string>
   <string name="haptic_feedback_level">Sila vibrácií</string>
@@ -1442,6 +1448,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="local_backup_password_toast_confirmation_mismatch">"Nové heslo a potvrdenie sa nezhodujú"</string>
   <string name="local_backup_password_toast_success">Nastavené nové heslo pre zálohu</string>
   <string name="local_backup_password_toast_validation_failure">Nastavenie hesla pre zálohu zlyhalo!</string>
+  <string name="local_backup_section_summary">Zálohovať nastavenia, účty a aplikácie</string>
+  <string name="local_backup_section_title">Lokálne zálohy</string>
   <string name="locale_default">Predvolené</string>
   <string name="location_access_summary">Umožniť aplikáciám, ktoré o to požiadali, používať údaje o polohe</string>
   <string name="location_access_title">Prístup k údajom o mojej polohe</string>
@@ -1692,6 +1700,11 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="mobile_no_provisioning_url">%1$s nemá známu internetovú adresu</string>
   <string name="mobile_unknown_sim_operator">Neznámy operátor SIM karty</string>
   <string name="model_number">Označenie modelu</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Spustiť záznam</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Ukončiť záznam</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="mouse_primary_button_dialog_title">Prepnúť hlavné tlačidlo</string>
   <string name="mouse_primary_button_title">Prehodiť hlavné a vedľajšie tlačidlo</string>
   <string name="move_app">Presunúť</string>
@@ -2890,6 +2903,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="sync_wifi_label">Nastavenie Wi-Fi synch.</string>
   <string name="sync_wifi_only">Iba na Wi-Fi</string>
   <string name="system">Systém</string>
+  <string name="system_backup_section_title">Záloha</string>
   <string name="system_cache_title">Cache systému</string>
   <string name="system_package">Aktualizácia systému nie je možné nainštalovať na SD kartu.</string>
   <string name="system_storage">Systémové úložisko</string>
@@ -2918,6 +2932,8 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="title_data_flow_no">Kontrola spotreby dát zakázaná</string>
   <string name="title_data_flow_yes">Kontrola spotreby dát povolená</string>
   <string name="title_dolby_control">Dolby Digital Plus</string>
+  <string name="title_font">Písmo</string>
+  <string name="title_font_current">Používa sa</string>
   <string name="title_font_size">Veľkosť písma</string>
   <string name="title_hdmi_color_calibration">Nastavenie farieb</string>
   <string name="title_install_virus_no">Kontrola inštalácií zakázaná</string>
@@ -3110,6 +3126,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="use_default_tts_settings_title">Vždy používať moje nastavenie</string>
   <string name="use_location_summary">Povoliť službám Google použiť vašu polohu k zlepšeniu výsledkov vyhľadávania a ďalších služieb?</string>
   <string name="use_location_title">Poloha a vyhľadávanie</string>
+  <string name="use_network_warning">Xiaomi Service Framework a Cloud vyžadujú internetové pripojenie</string>
   <string name="use_system_language_to_select_input_method_subtypes">Použiť systémový jazyk</string>
   <string name="user_account_title">Účet pre obsah</string>
   <string name="user_add_profile_item_summary">Môžete obmedziť prístup k aplikáciám a obsahu z vášho účtu</string>
@@ -3703,21 +3720,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="device_cpu8_info">"8 jadier "</string>
-  <string name="app_backup">Záloha</string>
-  <string name="app_feedback">Nahlásiť chybu</string>
-  <string name="bugreport_tool_log">Vytvoriť Hlásenie o chybe</string>
-  <string name="google_backup_section_title">Google záloha a obnovenie</string>
-  <string name="local_backup_section_summary">Zálohovať nastavenia, účty a aplikácie</string>
-  <string name="local_backup_section_title">Lokálne zálohy</string>
-  <string name="modem_tool_log">Capture Modem Logs</string>
-  <string name="modem_tool_log_start">Spustiť záznam</string>
-  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
-  <string name="modem_tool_log_stop">Ukončiť záznam</string>
-  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
-  <string name="system_backup_section_title">Záloha</string>
-  <string name="bluetooth_device_address">Adresa zariadenia:</string>
-  <string name="title_font">Písmo</string>
-  <string name="title_font_current">Používa sa</string>
-  <string name="use_network_warning">Xiaomi Service Framework a Cloud vyžadujú internetové pripojenie</string>
 </resources>

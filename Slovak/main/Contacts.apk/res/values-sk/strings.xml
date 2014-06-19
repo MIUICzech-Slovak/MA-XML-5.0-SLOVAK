@@ -805,6 +805,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_account_login_title">Prihlásiť</string>
   <string name="resource_account_switch">Prepnúť</string>
   <string name="resource_alarm_default">Budík</string>
+  <string name="resource_allow">Povoliť</string>
   <string name="resource_app_name">Prehliadač zdrojov</string>
   <string name="resource_apply">Použiť</string>
   <string name="resource_apply_trial">Vyskúšať</string>
@@ -845,6 +846,8 @@ Synchronizujte ich teraz."</string>
   <string name="resource_comment_upload_not_bought">Najskôr musíte tému použiť ak chcete pridať komentár.</string>
   <string name="resource_comment_upload_not_logined">Musíte sa najskôr prihlásiť</string>
   <string name="resource_comment_upload_success">Komentár je odoslaný! Zobrazí sa až po jeho schválení.</string>
+  <string name="resource_connect_network_message">Chcete povoliť aplikácií pripojenie k internetu?</string>
+  <string name="resource_connect_network_settings">Upozorniť na pripojenie internetu</string>
   <string name="resource_default">Predvolené zvonenie</string>
   <string name="resource_default_name">Zdroj</string>
   <string name="resource_delete">Vymazať</string>
@@ -917,6 +920,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_ranking">Populárne</string>
   <string name="resource_ranking_free">Zdarma</string>
   <string name="resource_ranking_purchase">Platené</string>
+  <string name="resource_remind_another_time">Neupozorňovať</string>
   <string name="resource_ringtone_default">Zvonenia</string>
   <string name="resource_ringtone_playing_error">chyba prehrávania</string>
   <string name="resource_ringtone_volume_mute">Zvonenia sú stíšené.</string>
@@ -1157,8 +1161,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_search_select_city">Zvoľte mesto</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="resource_allow">Povoliť</string>
-  <string name="resource_connect_network_message">Chcete povoliť aplikácií pripojenie k internetu?</string>
-  <string name="resource_connect_network_settings">Upozorniť na pripojenie internetu</string>
-  <string name="resource_remind_another_time">Neupozorňovať</string>
 </resources>

@@ -146,6 +146,7 @@ Využité"</string>
   <string name="settings">Nastavenie spotreby dát</string>
   <string name="sorted_button">Zoradiť</string>
   <string name="sorted_dialog_title">Zoradiť podľa</string>
+  <string name="spinner_title">%1$s - Mobilné dáta: %2$s</string>
   <string name="stop_app_button">Zastaviť</string>
   <string name="system_app">Systémové Aplikácie</string>
   <string name="text_day">" deň"</string>
@@ -180,5 +181,4 @@ Využité"</string>
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
-  <string name="spinner_title">%1$s - Mobilné dáta: %2$s</string>
 </resources>

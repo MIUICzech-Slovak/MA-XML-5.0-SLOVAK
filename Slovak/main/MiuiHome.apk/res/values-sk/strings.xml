@@ -13,6 +13,7 @@
   <string name="aqi_quality_index_light_pollution">Nízke znečistenie</string>
   <string name="aqi_quality_index_moderate">Stredné</string>
   <string name="aqi_quality_index_unhealthy">Nezdravé</string>
+  <string name="bad_wallpaper_source_prompt">Načítavanie tapety zlyhalo</string>
   <string name="buffering">Načítavanie...</string>
   <string name="cancel_action">Zrušiť</string>
   <string name="cancel_btn_label">Zrušiť</string>
@@ -247,6 +248,11 @@ Prosím otvorte túto aplikáciu znovu pre obnovenie zdrojov."</string>
   <string name="status_bar_toggle_vibrate">Vibrácie</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+  <string name="status_downloaded">stiahnuté</string>
+  <string name="status_downloading">sťahuje</string>
+  <string name="status_installing">inštaluje</string>
+  <string name="status_paused">zastavené</string>
+  <string name="status_pending">čaká</string>
   <string name="title_select_live_folder">Vybrať zložku</string>
   <string name="title_select_shortcut">Vybrať zástupcu</string>
   <string name="toggle_select_title">Zvoliť prepínač</string>
@@ -272,10 +278,4 @@ Prosím otvorte túto aplikáciu znovu pre obnovenie zdrojov."</string>
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="bad_wallpaper_source_prompt">Načítavanie tapety zlyhalo</string>
-  <string name="status_downloaded">stiahnuté</string>
-  <string name="status_downloading">sťahuje</string>
-  <string name="status_installing">inštaluje</string>
-  <string name="status_paused">zastavené</string>
-  <string name="status_pending">čaká</string>
 </resources>
