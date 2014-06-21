@@ -10,7 +10,7 @@
   <string name="cit_ac_charger_in">Sieťová nabíjačka je pripojená</string>
   <string name="cit_ac_charger_out">Sieťová nabíjačka je odpojená</string>
   <string name="cit_accelermeter_sensor_check_summary">Zobrazia sa X, Y, Z osy zrýchlenia 
-(Poznámka: Keď je telefón nakláňa, hodnoty sa budú meniť podľa orientácie displeja)</string>
+(Poznámka: Keď sa telefón nakláňa, hodnoty sa budú meniť podľa orientácie displeja)</string>
   <string name="cit_accelermeter_sensor_check_title">Test akcelerometra</string>
   <string name="cit_audio_lb_backmic_to_speaker_title">Back mic speaker feedback test</string>
   <string name="cit_audio_lb_mainmic_to_earpiece_title">Main mic speaker feedback test</string>
