@@ -138,7 +138,8 @@
   <string name="setting_speed_text">Rýchlosť</string>
   <string name="setting_toolbar">Panel nástrojov</string>
   <string name="setting_toolbar_desc">"Funkcie budú dostupné v oznamovacej lište"</string>
-  <string name="setting_toolbar_tip">"Stlačte tlačidlo "+" pre pridanie nových funkcií. Podržte prst na už existujúcej pre jej nahradenie alebo vymazanie"</string>
+  <string name="setting_toolbar_tip">"Stlačte tlačidlo "+" pre pridanie nových funkcií. 
+Podržte prst na už existujúcej pre jej nahradenie alebo vymazanie"</string>
   <string name="setting_vibrate_desc">Pre oznámenie vykonania funkcie telefón zavibruje</string>
   <string name="setting_vibrate_text">Vibračná odozva</string>
   <string name="settings">Nastavenia</string>
