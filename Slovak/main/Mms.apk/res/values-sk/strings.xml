@@ -72,8 +72,8 @@
   <string name="confirm_dlg_title">Správa zariadení</string>
   <string name="confirm_export_dialog_description">Odstrániť vybraný súkromný kontakt, konverzácie budú premiestnené do bežných SMS. Chcete pokračovať?</string>
   <string name="confirm_export_dialog_title">Odstrániť súkromný kontakt</string>
-  <string name="confirm_no_block_positive">Neblokovať</string>
-  <string name="confirm_no_block_title">Neblokovať toto číslo a obnoviť všetky správy?</string>
+  <string name="confirm_no_block_positive">Odblokovať</string>
+  <string name="confirm_no_block_title">Odblokovať toto číslo a obnoviť všetky správy?</string>
   <string name="confirm_rate_limit">Odosielate veľké množstvo MMS správ. Je to v poriadku?</string>
   <string name="confirm_restore_all_title">Obnoviť všetky správy z tohto čísla?</string>
   <string name="confirm_restore_positive">Obnoviť</string>

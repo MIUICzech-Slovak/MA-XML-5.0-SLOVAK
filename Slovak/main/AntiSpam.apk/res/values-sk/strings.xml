@@ -86,8 +86,8 @@
   <string name="dlg_import_blacklist">Pridávanie na čiernu listinu</string>
   <string name="dlg_import_whitelist">Pridávanie na VIP zoznam</string>
   <string name="dlg_keyword_ok">Uložiť</string>
-  <string name="dlg_no_block">Neblokovať toto číslo?</string>
-  <string name="dlg_no_block_ok">Neblokovať</string>
+  <string name="dlg_no_block">Odblokovat toto číslo?</string>
+  <string name="dlg_no_block_ok">Odblokovat</string>
   <string name="dlg_remove_address_blacklist">Odobrať tento región z Čiernej listiny a obnoviť všetky SMS?</string>
   <string name="dlg_remove_address_whitelist">Odobrať z výnimiek?</string>
   <string name="dlg_remove_blacklist">Odstrániť toto číslo z čiernej listiny?</string>
@@ -132,7 +132,7 @@
   <string name="menu_clear_current_sms">Odobrať všetky blokované SMS z tohto čísla</string>
   <string name="menu_edit">Upraviť</string>
   <string name="menu_mark">Označiť</string>
-  <string name="menu_no_block">Neblokovať</string>
+  <string name="menu_no_block">Odblokovať</string>
   <string name="menu_remove">Odstrániť</string>
   <string name="menu_report_block">Nahlásiť</string>
   <string name="menu_restore">Obnoviť do SMS</string>

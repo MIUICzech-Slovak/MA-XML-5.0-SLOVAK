@@ -275,7 +275,7 @@
   <string name="miuichromium_error_page_title">Nie je možné načítať túto stránku</string>
   <string name="miuichromium_error_page_url">Zobraziť URL</string>
   <string name="miuichromium_error_page_wlan">Nastavenia Wi-Fi</string>
-  <string name="miuichromium_save_password_message">Chcete aby si prehliadač zapamätal toto heslo?</string>
+  <string name="miuichromium_save_password_message">Chcete uložiť toto heslo?</string>
   <string name="miuichromium_save_password_never">Nikdy</string>
   <string name="miuichromium_save_password_notnow">Teraz nie</string>
   <string name="miuichromium_save_password_remember">Zapamätať</string>
@@ -437,7 +437,7 @@
   <string name="pref_security_save_form_data_summary">Zapamätať údaje ktoré vkladám do formulárov pre neskoršie použitie</string>
   <string name="pref_security_show_security_warning">Zobraziť bezpečnostné výstrahy</string>
   <string name="pref_security_show_security_warning_summary">"Zobraziť výstrahu, ak sa vyskytne problém so zabezpečením stránky"</string>
-  <string name="pref_set_homepage_to">Nastaviť ako</string>
+  <string name="pref_set_homepage_to">Zadajte adresu</string>
   <string name="pref_setting_title">Nastavenie stránky</string>
   <string name="pref_text_zoom">Veľkosť textu</string>
   <string name="pref_ua_string">Zariadenie</string>
