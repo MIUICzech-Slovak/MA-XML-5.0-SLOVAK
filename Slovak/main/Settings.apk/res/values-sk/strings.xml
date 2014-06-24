@@ -3720,4 +3720,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="cta_button_text_agree">OK</string>
+  <string name="cta_button_text_cancel">Zrušiť</string>
+  <string name="cta_checkbox_title">Viac sa nepýtať</string>
+  <string name="cta_dialog_msg">Využívanie Optimalizácie vyžaduje pripojenie na internet pre aktualizáciu vírusovej databázy. Súhlasíte s týmito podmienkami?</string>
+  <string name="cta_dialog_title">Upozornenie</string>
+  <string name="cta_settings">Prístup na internet</string>
 </resources>

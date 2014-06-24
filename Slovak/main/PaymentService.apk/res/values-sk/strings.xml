@@ -327,4 +327,9 @@ Skontrolujeme to do dvoch pracovných dní"</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password_empty">Prázdne.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
+  <string name="mibi_license_checkbox_prompt">Viac sa nepýtať</string>
+  <string name="mibi_license_net_prompt_message">Používanie MiKreditov môže zvýšiť spotrebu mobilných dát.</string>
+  <string name="mibi_license_net_prompt_title">Vyžaduje sa internetové pripojenie</string>
+  <string name="title_need_prompt">Upozorniť ma na prístup k internetu</string>
+  <string name="title_prompt">Upozornenia</string>
 </resources>

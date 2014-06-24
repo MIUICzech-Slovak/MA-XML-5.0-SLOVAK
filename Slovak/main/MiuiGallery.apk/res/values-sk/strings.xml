@@ -121,6 +121,17 @@ spoločne!"</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Vymazať (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
+  <string name="confirm_delete_has_cloud_image">Vymazať obrázky (%s) v cloude?</string>
+  <string name="confirm_delete_has_cloud_image_video">Vymazať položky (%s) v cloude?</string>
+  <string name="confirm_delete_has_cloud_local_image">Vymazať obrázky (%s) v cloude?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Vymazať položky (%s) v cloude a zariadení?</string>
+  <string name="confirm_delete_has_cloud_local_video">Vymazať %s video(s) v cloude a zariadení?</string>
+  <string name="confirm_delete_has_cloud_video">Vymazať video (%s) v cloude?</string>
+  <string name="confirm_delete_has_local_image">Vymazať obrázky (%s)?</string>
+  <string name="confirm_delete_has_local_image_video">Vymazať %s item(s)?</string>
+  <string name="confirm_delete_has_local_video">Vymazať %s video(s)?</string>
+  <string name="confirm_delete_init_message">Obrázky budú vymazané z MiCloudu a aj z vášho zariadenia. Ak ich chcete vymazať len z vášho zariadenia, prejdite na priečinok Lokálne.</string>
+  <string name="confirm_delete_init_title">Poznámka</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
   <string name="confirm_delete_home_merge_item">Vymazať obrázky (%s) v zariadení a v cloude?</string>
   <string name="confirm_delete_pictures">%s</string>
@@ -556,4 +567,7 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
+  <string name="bigscreen_slide_playing">Prezentácia sa prehráva na: %s</string>
+  <string name="skip_hide_special_album">Systémové albumy (Fotoaparát, Screenshoty) nie je možné skryť.</string>
+  
 </resources>

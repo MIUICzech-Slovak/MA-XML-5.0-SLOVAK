@@ -181,4 +181,8 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
+  <string name="turn_on_yellowpage_service_title">Use directory service</string>
+  <string name="notfiy_connect_title">Networking permission</string>
+  <string name="notices_and_terms">Legal notices and terms of use</string>
+  <string name="notify_connect_summary">Ask for networking permission every time</string>
 </resources>
