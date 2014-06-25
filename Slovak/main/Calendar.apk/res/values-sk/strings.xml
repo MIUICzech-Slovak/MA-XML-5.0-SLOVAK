@@ -275,9 +275,9 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="cta_notice_checkbox">"Don't show me this again"</string>
-  <string name="cta_notice_message">\"Birthday reminding\" in Calendar will remind you the birthday of your contacts ahead of time, but it will access your contacts, agree?</string>
-  <string name="cta_notice_ok">Agree</string>
-  <string name="cta_notice_title">Remind</string>
-  <string name="cta_notify_settings">Remind when accessing contacts</string>
+  <string name="cta_notice_checkbox">Viac sa nepýtať</string>
+  <string name="cta_notice_message">\"Upozornenie narodenín\" v Kalendári vás upozorní na narodeniny vašich kontaktov ale vyžaduje si k nim prístup. Súhlasíte?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_title">Upozornenie</string>
+  <string name="cta_notify_settings">Upozorniť na prístup ku kontaktom</string>
 </resources>

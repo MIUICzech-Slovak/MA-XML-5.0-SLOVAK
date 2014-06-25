@@ -340,13 +340,13 @@ aby ste urobili miesto</string>
   <string name="waiting">Čakám...</string>
   <string name="waiting_for_cleaning">Čaká na prečistenie</string>
   <string name="waiting_for_scanning">Čaká na kontrolu</string>
-  <string name="wangpan_root_path">Môj Drive</string>
+  <string name="wangpan_root_path">MiDrive</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="connect_network_setting_des">Remind when accessing network</string>
-  <string name="network_connect_confirm_des">Using kuaipan will access network, agree?</string>
-  <string name="never_notify_network_connect">"Don't show me this again"</string>
-  <string name="operation_agree">Agree</string>
-  <string name="system_alert">Remind</string>
+  <string name="connect_network_setting_des">Upozorniť na prístup k sieti</string>
+  <string name="network_connect_confirm_des">Používanie MiDrive si vyžaduje prístup k sieti. Súhlasíte?</string>
+  <string name="never_notify_network_connect">Viac sa nepýtať</string>
+  <string name="operation_agree">OK</string>
+  <string name="system_alert">Upozornenie</string>
 </resources>

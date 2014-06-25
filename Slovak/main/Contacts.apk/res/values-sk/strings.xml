@@ -1162,10 +1162,10 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
   <string name="yellowpage_navigation_network_location_enabled">Služba je povolená, môžete ju deaktivovať v nastaveniach polohy</string>
-  <string name="cta_notice_checkbox">"Don't show me this again"</string>
-  <string name="cta_notice_new_contact_message">Saving contacts under account \"%s\" will access network, agree?</string>
-  <string name="cta_notice_ok">Agree</string>
-  <string name="cta_notice_photo_message">Editing contacts photo with photo package will access network, agree?</string>
-  <string name="cta_notice_settings">Remind when accessing network</string>
-  <string name="cta_notice_title">Remind</string>
+  <string name="cta_notice_checkbox">Viac sa nepýtať</string>
+  <string name="cta_notice_new_contact_message">Uloženie kontaktu na účet \"%s\" vyžaduje prístup k sieti. Súhlasíte?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_photo_message">Úprava fotografie kontaktu si vyžaduje prístup k sieti. Súhlasíte?</string>
+  <string name="cta_notice_settings">Upozorniť na prístup k sieti</string>
+  <string name="cta_notice_title">Upozornenie</string>
 </resources>
