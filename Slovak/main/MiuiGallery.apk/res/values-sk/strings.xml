@@ -569,11 +569,6 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="bigscreen_slide_playing">Prezentácia sa prehráva na: %s</string>
   <string name="skip_hide_special_album">Systémové albumy (Fotoaparát, Screenshoty) nie je možné skryť.</string>
-  <string name="confirm_delete_home_merge_item">Vymazať obrázky (%s) v zariadení a cloude?</string>
-  <string name="confirm_delete_pictures">Vymazať obrázky (%s)</string>
-  <string name="confirm_delete_this_picture">Vymazať tento obrázok?</string>
-  <string name="confirm_delete_this_video">Vymazať toto video?</string>
-  <string name="confirm_delete_videos">Vymazať videá (%s)</string>
   <string name="ubifocus_refocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
   <string name="ubifocus_refocus_download_tip">Najskôr stiahnite dáta na preostrenie</string>
   <string name="ubifocus_refocus_map_error">Nie je možné preostriť kvôli chybným dátam</string>
