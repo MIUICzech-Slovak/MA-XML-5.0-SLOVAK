@@ -16,33 +16,6 @@
         <item>Ranné cvičenie:</item>
         <item>Voľný čas:</item>
     </string-array>
-    <string-array name="weather_image">
-        <item>Jasno</item>
-        <item>Oblačno</item>
-        <item>Hmlisto</item>
-        <item>Hmla</item>
-        <item>Niekoľko búriek</item>
-        <item>Búrky</item>
-        <item>Prietrž</item>
-        <item>Búrka s bleskami</item>
-        <item>Prehánky</item>
-        <item>Silné zrážky</item>
-        <item>Dážď</item>
-        <item>Mrholenie</item>
-        <item>Dážď so snehom</item>
-        <item>Snehová búrka</item>
-        <item>Snehové jazyky</item>
-        <item>Husté sneženie</item>
-        <item>Sneženie</item>
-        <item>Snehové prehánky</item>
-        <item>Strong sand storm</item>
-        <item>Piesočná búrka</item>
-        <item>Light sand storms</item>
-        <item>Sand storm</item>
-        <item>Krupobitie</item>
-        <item>Prach</item>
-        <item>Hmla</item>
-    </string-array>
     <string-array name="weather_details_key">
         <item>Nedostupné</item>
         <item>Vhodné</item>

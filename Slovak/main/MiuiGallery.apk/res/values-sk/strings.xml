@@ -569,5 +569,12 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="bigscreen_slide_playing">Prezentácia sa prehráva na: %s</string>
   <string name="skip_hide_special_album">Systémové albumy (Fotoaparát, Screenshoty) nie je možné skryť.</string>
-  
+  <string name="confirm_delete_home_merge_item">Delete %s picture(s) in local and cloud?</string>
+  <string name="confirm_delete_pictures">Delete %s pictures</string>
+  <string name="confirm_delete_this_picture">Delete this picture?</string>
+  <string name="confirm_delete_this_video">Delete this video?</string>
+  <string name="confirm_delete_videos">Delete %s videos</string>
+  <string name="ubifocus_refocus_data_missing">Cannot refocus due to some missing data</string>
+  <string name="ubifocus_refocus_download_tip">Please download refocus data before refocusing</string>
+  <string name="ubifocus_refocus_map_error">Cannot refocus due to some wrong data</string>
 </resources>

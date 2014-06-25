@@ -185,7 +185,7 @@
   <string name="settings_notification_icon">Notifikácie v lište</string>
   <string name="settings_screenshot_notification_disabled">Nezobr. notif. o screenshote</string>
   <string name="settings_show_carrier">Zobraziť názov operátora</string>
-  <string name="settings_show_carrier_summary">Len na zamknutej obrazovke</string>
+  <string name="settings_show_carrier_summary">Ak je tento prepínač vypnutý, názov operátora bude zobrazený len na zamykacej obrazovke a v oznamovacej roletke</string>
   <string name="settings_show_flow_info">Zobraziť info o spotrebe dát</string>
   <string name="settings_show_network_speed">Zobr. rýchlosť prenosu dát</string>
   <string name="settings_show_notificationBar_notification">Zobraziť v roletke</string>

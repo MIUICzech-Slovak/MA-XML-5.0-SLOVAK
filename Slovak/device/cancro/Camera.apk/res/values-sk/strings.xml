@@ -544,4 +544,6 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="cannot_move_warning_message">Zhotovovanie fotografie, nehýbte so zariadením.</string>
+  <string name="ubifocus_capture_warning_message">Je lepšie ak náhľad obsahuje blízke (menej ako 1m od objektívu) a ďaleké objekty</string>
 </resources>
