@@ -3726,4 +3726,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="cta_dialog_msg">Využívanie Optimalizácie vyžaduje pripojenie na internet pre aktualizáciu vírusovej databázy. Súhlasíte s týmito podmienkami?</string>
   <string name="cta_dialog_title">Upozornenie</string>
   <string name="cta_settings">Prístup na internet</string>
+  <string name="accessibility_service_no_apps_confirm">OK</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack poskytuje hovorenú navigáciu nevidiacim a slabozrakým užívateľom. Túto aplikáciu môžete stiahnuť zdarma zo služby Google Play.</string>
 </resources>
