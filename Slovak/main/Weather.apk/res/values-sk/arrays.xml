@@ -16,6 +16,33 @@
         <item>Ranné cvičenie:</item>
         <item>Voľný čas:</item>
     </string-array>
+	<string-array name="weather_image">
+        <item>jasno</item>
+        <item>oblačno</item>
+        <item>hmlisto</item>
+        <item>hmla</item>
+        <item>daždivo</item>
+        <item>daždivo</item>
+        <item>daždivo</item>
+        <item>búrka</item>
+        <item>daždivo</item>
+        <item>daždivo</item>
+        <item>daždivo</item>
+        <item>mrholenie</item>
+        <item>dážď so snehom</item>
+        <item>sneženie</item>
+        <item>sneženie</item>
+        <item>sneženie</item>
+        <item>sneženie</item>
+        <item>sneženie</item>
+        <item>búrka</item>
+        <item>búrka</item>
+        <item>búrka</item>
+        <item>búrka</item>
+        <item>búrka</item>
+        <item>prašno</item>
+        <item>hmlisto</item>
+    </string-array>
     <string-array name="weather_details_key">
         <item>Nedostupné</item>
         <item>Vhodné</item>
