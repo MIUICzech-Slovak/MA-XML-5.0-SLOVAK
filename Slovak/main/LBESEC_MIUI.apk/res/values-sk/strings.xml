@@ -57,12 +57,12 @@
   <string name="Generic_UserApp">Stiahnuté aplikácie (%d)</string>
   <string name="Generic_Version">Verzia: %1$s</string>
   <string name="HIPS_Action_Accept">Povoliť</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Povolené&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">Povolené</string>
   <string name="HIPS_Action_Accept_Count">Povolené: %1$d</string>
   <string name="HIPS_Action_Prompt">Opýtať sa</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Opýtať sa&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">Opýtať sa</string>
   <string name="HIPS_Action_Reject">Zakázané</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Zakázané&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">Zakázané</string>
   <string name="HIPS_Action_Reject_Count">Zakázané: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Súkromie</string>
   <string name="HIPS_Group_Expense">Bezpečnosť</string>
@@ -206,7 +206,7 @@
   <string name="HIPS_SecurityPrompt_Remember">Pamätať si nastavenie</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s sa pokúša %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d právo</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d právo - &lt;font color=#478800&gt;Dôveryhodné&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d právo - Dôveryhodné</string>
   <string name="Privacy_App_Finish">Dokončiť</string>
   <string name="Privacy_App_Installed">Nastaviť práva</string>
   <string name="Privacy_App_Launch">Spustiť</string>
