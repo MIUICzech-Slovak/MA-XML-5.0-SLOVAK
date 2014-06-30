@@ -399,7 +399,7 @@ Chyba: \"%s\""</string>
   <string name="generic_no_account_prompt">Majte svoje kontakty v bezpečí aj keď stratíte telefón: synchronizujte ich online.</string>
   <string name="generic_no_account_prompt_title">Pridať účet</string>
   <string name="ghostData_company">Firma</string>
-  <string name="ghostData_title">Titulok</string>
+  <string name="ghostData_title">Názov</string>
   <string name="groupSavedErrorToast">Chyba, nemožno uložiť zmeny.</string>
   <string name="groupSavedToast">Skupina uložená</string>
   <string name="group_add_fail_toast">Pridanie kontaktov zlyhalo</string>
