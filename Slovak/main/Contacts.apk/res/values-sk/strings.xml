@@ -1168,4 +1168,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="cta_notice_photo_message">Úprava fotografie kontaktu si vyžaduje prístup k sieti. Súhlasíte?</string>
   <string name="cta_notice_settings">Upozorniť na prístup k sieti</string>
   <string name="cta_notice_title">Upozornenie</string>
+  <string name="yellowpage_navigation_more_items">Viac</string>
+  <string name="yellowpage_user_profile">Profil</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">Sťahovanie ikony...</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Chyba, skontrolujte nastavenie siete.</string>
 </resources>
