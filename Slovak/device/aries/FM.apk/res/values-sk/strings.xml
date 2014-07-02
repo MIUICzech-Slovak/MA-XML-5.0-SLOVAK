@@ -159,6 +159,4 @@
   <string name="turn_on_speaker_phone">Zapnúť reproduktor</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
-  <string name="toast_delete_station">%sMHz bolo vymazané</string>
-  <string name="toast_fm_stoping">Zastavovanie...</string>
 </resources>
