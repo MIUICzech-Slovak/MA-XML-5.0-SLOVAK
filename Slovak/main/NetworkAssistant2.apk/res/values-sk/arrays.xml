@@ -38,4 +38,14 @@
         <item>Nastaviť vzorovú správu automaticky</item>
         <item>Nastaviť vzorovú správu manuálne</item>
     </string-array>
+    <string-array name="traffic_type">
+        <item>Využitie 2G/3G</item>
+        <item>Využitie Wi-Fi</item>
+        <item>Celková spotreba dát</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>Včera\u0020</item>
+        <item>Dnes\u0020</item>
+        <item>Mesiac\u0020</item>
+    </string-array>
 </resources>
