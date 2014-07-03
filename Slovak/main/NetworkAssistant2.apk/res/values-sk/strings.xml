@@ -189,7 +189,7 @@ Využité"</string>
   <string name="pref_traffic_saving_switch">Úspora dát</string>
   <string name="pref_traffic_saving_switch_hint">Úspora dát pomocou kompresie na serveri</string>
   <string name="pref_traffic_saving_title">Nastavenie úspory dát</string>
-  <string name="traffic_saving_button_sorted">Zoradiť</string>
+  <string name="traffic_saving_button_sorted">Rebríček</string>
   <string name="traffic_saving_button_start">Ušetriť dáta</string>
   <string name="traffic_saving_button_stop">Ukončiť</string>
   <string name="traffic_saving_history_title">História úspory dát</string>
