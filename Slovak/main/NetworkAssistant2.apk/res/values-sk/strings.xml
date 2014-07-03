@@ -185,7 +185,7 @@ Využité"</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">&lt;b&gt;一、使用流量节省功能后，我的上网隐私是否安全？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;请您放心，此功能不会处理您的任何隐私信息，对您的上网不会造成信息泄露或窃取。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;二、为什么使用节省流量功能后，我却看不到节省？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;节省流量功能只针对数据联网生效，WLAN下不启用，且节省流量功能只针对文字和图片生效，音视频与文件下载不会节省流量。</string>
   <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Zobnrazí informácie o úspore dát v notifikačnej lište</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informácie o úspore dát v notifikačnej lište</string>
   <string name="pref_traffic_saving_switch">Úspora dát</string>
   <string name="pref_traffic_saving_switch_hint">Úspora dát pomocou kompresie na serveri</string>
   <string name="pref_traffic_saving_title">Nastavenie úspory dát</string>
@@ -195,7 +195,7 @@ Využité"</string>
   <string name="traffic_saving_history_title">História úspory dát</string>
   <string name="traffic_saving_history_total_money">Usporená suma</string>
   <string name="traffic_saving_history_total_money_unit">€</string>
-  <string name="traffic_saving_history_total_traffic">Úspory</string>
+  <string name="traffic_saving_history_total_traffic">Usporené dáta</string>
   <string name="traffic_saving_msg_month">Za mesiac %1$s | Dnes: %2$s</string>
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento mesiac %s</string>
