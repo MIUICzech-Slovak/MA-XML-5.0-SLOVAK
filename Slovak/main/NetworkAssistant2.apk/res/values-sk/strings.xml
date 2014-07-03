@@ -183,7 +183,16 @@ Využité"</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
   <string name="main_toolbar_saving">Kompresia</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">&lt;b&gt;一、使用流量节省功能后，我的上网隐私是否安全？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;请您放心，此功能不会处理您的任何隐私信息，对您的上网不会造成信息泄露或窃取。&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;二、为什么使用节省流量功能后，我却看不到节省？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;节省流量功能只针对数据联网生效，WLAN下不启用，且节省流量功能只针对文字和图片生效，音视频与文件下载不会节省流量。</string>
+  <string name="pref_traffic_saving_issue_content">"
+&lt;b&gt;1. Czy moje dane są bezpieczne gdy Oszczędzanie transferu jest aktywne?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Funkcja Oszczędzania transferu nie wykorzystuje żadnych prywatnych danych.
+Twoje dane są całkowicie bezpieczne jeśli ufasz Chińczykom.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;2. Jak działa Oszczędzanie transferu?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Oszczędzanie transferu działa tylko przy połączeniu danych mobilnych 2G/3G. 
+Podczas transmisji tekst i obrazy są kompresowane, a dźwięki i filmy nie mogą być pobierane."</string>
   <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
   <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informácie o úspore dát v notifikačnej lište</string>
   <string name="pref_traffic_saving_switch">Úspora dát</string>
@@ -196,7 +205,7 @@ Využité"</string>
   <string name="traffic_saving_history_total_money">Usporená suma</string>
   <string name="traffic_saving_history_total_money_unit">€</string>
   <string name="traffic_saving_history_total_traffic">Usporené dáta</string>
-  <string name="traffic_saving_msg_month">Tento mesiac: %1$s (%2$s)</string>
+  <string name="traffic_saving_msg_month">Tento mesiac: %1$s</string>
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento mesiac %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dát</string>

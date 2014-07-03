@@ -1202,7 +1202,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho
   <string name="sms_control_no">Odmietnuť</string>
   <string name="sms_control_title">Odosielanie správ SMS</string>
   <string name="sms_control_yes">Povoliť</string>
-  <string name="sms_premium_short_code_details">&lt;font fgcolor="#ffffb060"&gt;Bud&amp;#250; sa &amp;#250;&amp;#269;tova&amp;#357; poplatky na v&amp;#225;&amp;#353; mobiln&amp;#253; &amp;#250;&amp;#269;et.&lt;/font&gt;</string>
+  <string name="sms_premium_short_code_details">Budú sa účtovať poplatky na váš mobilný účet.</string>
   <string name="sms_short_code_confirm_allow">Odoslať</string>
   <string name="sms_short_code_confirm_always_allow">Vždy povoliť</string>
   <string name="sms_short_code_confirm_deny">Zrušiť</string>
