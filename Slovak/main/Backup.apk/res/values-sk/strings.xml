@@ -75,7 +75,7 @@ Ok pre zrušenie zálohy"</string>
   <string name="cloud_app_function_summary">Ak zálohujete vaše dáta do cloudu, môžete ich obnoviť na ktoromkoľvek zariadení.</string>
   <string name="cloud_app_invalid_op">"Nie je možné zobraziť dáta v cloude počas zálohovania alebo obnovy."</string>
   <string name="cloud_app_invalid_op_when_removing">"Dáta boli vymazané a nie je možné ich zobraziť"</string>
-  <string name="cloud_app_just_show_in_current_device">Iba aplikácie v tomto zariadeni</string>
+  <string name="cloud_app_just_show_in_current_device">Iba aplikácie v tomto zariadení</string>
   <string name="cloud_app_load_data">Kontrola zoznamu zálohovaných dát...</string>
   <string name="cloud_app_load_data_timeout">Čas na kontrolu dát z cloudu vypršal</string>
   <string name="cloud_app_loading_with_mobile_network_prompt">"Použijú sa mobilné dáta, pokračovať?"</string>
