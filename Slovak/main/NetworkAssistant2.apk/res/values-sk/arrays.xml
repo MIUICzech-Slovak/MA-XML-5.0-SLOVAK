@@ -39,9 +39,9 @@
         <item>Nastaviť vzorovú správu manuálne</item>
     </string-array>
     <string-array name="traffic_type">
-        <item>Využitie 2G/3G</item>
-        <item>Využitie Wi-Fi</item>
-        <item>Celková spotreba dát</item>
+        <item>využité 2G/3G\u0020</item>
+        <item>využité Wi-Fi\u0020</item>
+        <item>celkovo\u0020</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>Včera\u0020</item>
