@@ -196,8 +196,8 @@ Využité"</string>
   <string name="traffic_saving_history_total_money">Usporená suma</string>
   <string name="traffic_saving_history_total_money_unit">€</string>
   <string name="traffic_saving_history_total_traffic">Úspory</string>
-  <string name="traffic_saving_msg_month">Tento mesiac ste ušetrili %1$s, %2$s</string>
-  <string name="traffic_saving_msg_today">Ušetrené dnes</string>
+  <string name="traffic_saving_msg_month">Za mesiac %1$s | Dnes: %2$s</string>
+  <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento mesiac %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dát</string>
   <string name="traffic_saving_tecsupport"/>
