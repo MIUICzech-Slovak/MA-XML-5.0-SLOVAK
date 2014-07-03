@@ -184,15 +184,14 @@ Využité"</string>
   <string name="main_toolbar_saving">Kompresia</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"
-&lt;b&gt;1. Czy moje dane są bezpieczne gdy Oszczędzanie transferu jest aktywne?&lt;/b&gt;
+&lt;b&gt;1. Sú moje dáta v bezpečí počas aktivovanáj úspory dát?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Funkcja Oszczędzania transferu nie wykorzystuje żadnych prywatnych danych.
-Twoje dane są całkowicie bezpieczne jeśli ufasz Chińczykom.
+Funkcia úspory dát nevyužíva žiadne vaše súkromné dáta.
 &lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;2. Jak działa Oszczędzanie transferu?&lt;/b&gt;
+&lt;b&gt;2. Ako funguje úspora mobilných dát?&lt;/b&gt;
 &lt;br /&gt;&lt;br /&gt;
-Oszczędzanie transferu działa tylko przy połączeniu danych mobilnych 2G/3G. 
-Podczas transmisji tekst i obrazy są kompresowane, a dźwięki i filmy nie mogą być pobierane."</string>
+Úspora mobilných dát funguje len pri pripojení na 2G/3G siete. 
+Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa urýchli ich načítavanie. Hudba a videá sa nekomprimujú."</string>
   <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
   <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informácie o úspore dát v notifikačnej lište</string>
   <string name="pref_traffic_saving_switch">Úspora dát</string>
