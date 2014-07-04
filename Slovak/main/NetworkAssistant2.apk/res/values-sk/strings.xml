@@ -202,7 +202,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="traffic_saving_button_stop">Ukončiť</string>
   <string name="traffic_saving_history_title">História úspory dát</string>
   <string name="traffic_saving_history_total_money">Usporená suma</string>
-  <string name="traffic_saving_history_total_money_unit">€</string>
+  <string name="traffic_saving_history_total_money_unit">¥</string>
   <string name="traffic_saving_history_total_traffic">Usporené dáta</string>
   <string name="traffic_saving_msg_month">Tento mesiac: %1$s</string>
   <string name="traffic_saving_msg_today">Dnes</string>
