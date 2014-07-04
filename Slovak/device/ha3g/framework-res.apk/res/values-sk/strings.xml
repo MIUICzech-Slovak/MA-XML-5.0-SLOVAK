@@ -227,7 +227,7 @@ Chcete ho zavrieť?"</string>
   <string name="callsettings_callwaiting_notsubscribed">Call waiting is not subscribed</string>
   <string name="camera_restrict">Politika zabezpečenia obmedzuje použitie fotoaparátu</string>
   <string name="cancel">Zrušiť</string>
-  <string name="candidates_style">&lt;u&gt;Kandid&amp;#225;ti&lt;/u&gt;</string>
+<string name="candidates_style">kandidáti</string>
   <string name="capabilities_list_title">%1$s žiada o povolenie na:</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Môže nainštalovať skripty na sprístupnenie obsahu aplikácie.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Obsahuje osobné údaje ako sú čísla kreditných kariet a heslá.</string>

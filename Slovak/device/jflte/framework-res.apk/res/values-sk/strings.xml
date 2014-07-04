@@ -106,7 +106,7 @@ Chcete ho zavrieť?"</string>
   <string name="bugreport_title">Zaznamenať správu o chybe</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušiť</string>
-  <string name="candidates_style">&lt;u&gt;kandid&amp;#225;ti&lt;/u&gt;</string>
+<string name="candidates_style">kandidáti</string>
   <string name="capital_off">O</string>
   <string name="capital_on">I</string>
   <string name="car_mode_disable_notification_message">Dotykom ukončite režim V aute.</string>
@@ -374,7 +374,7 @@ Ak chcete pokračovať, dotknite sa tlačidla OK. Ak chcete zostať na stránke,
   <string name="keyguard_password_enter_pin_prompt">Nový kód PIN</string>
   <string name="keyguard_password_enter_puk_code">Zadajte kód PUK a nový kód PIN</string>
   <string name="keyguard_password_enter_puk_prompt">Kód PUK</string>
-  <string name="keyguard_password_entry_touch_hint">&lt;font size="17"&gt;Dotknut&amp;#237;m zadajte heslo&lt;/font&gt;</string>
+  <string name="keyguard_password_entry_touch_hint">Dotknutím zadajte heslo</string>
   <string name="keyguard_password_wrong_pin_code">Nesprávny kód PIN.</string>
   <string name="kg_emergency_call_label">Tiesňové volanie</string>
   <string name="kg_enter_confirm_pin_hint">Potvrďte požadovaný kód PIN</string>
