@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="account_detail">"Xiaomi účet:
 %1$s"</string>
@@ -185,10 +184,14 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="lockscreen_forgot_pattern_button_text">Zabudol som vzor</string>
   <string name="login">Prihlásiť</string>
   <string name="memu_refresh">Obnoviť</string>
+  <string name="mibi_license_checkbox_prompt">Viac sa nepýtať</string>
   <string name="mibi_license_message">Chystáte sa využiť MiKredity, čo je služba zabezpečovaná  Xiaomi Inc. Predtým ako ich budete využívať, musíte súhlasiť s podmienkami používania v %1$s.</string>
   <string name="mibi_license_message_span">Podmienky používania Mikreditov</string>
+  <string name="mibi_license_net_prompt_message">Používanie MiKreditov môže zvýšiť spotrebu mobilných dát.</string>
+  <string name="mibi_license_net_prompt_title">Vyžaduje sa internetové pripojenie</string>
   <string name="mibi_license_title">Podmienky používania MiKreditov</string>
   <string name="mili_center">MiKredity</string>
+  <string name="mipay_error">MiPay zlyhalo</string>
   <string name="msg_denomination_type">MiKredity</string>
   <string name="msg_error">Navýšenie zlyhalo</string>
   <string name="msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
@@ -253,6 +256,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="progress_error_recharge_summary">Navýšenie zlyhalo, skúste to opäť neskôr.</string>
   <string name="progress_error_recharge_title">Navýšenie zlyhalo</string>
   <string name="progress_loading">Spracovávanie...</string>
+  <string name="progress_mipay_creating">Vytváranie objednávky...</string>
   <string name="progress_msg_creating">Vytváranie objednávky cez SMS...</string>
   <string name="progress_paytool_creating">Generovanie %1$s objednávky...</string>
   <string name="progress_paytool_installing">Inštalovanie %1$s bezpečnostného doplnku...</string>
@@ -312,12 +316,14 @@ Informácie na čísle: 400-100-5678"</string>
   <string name="title_lockpattern">Vyžadovať odomykací vzor</string>
   <string name="title_mili_center">MiKredity</string>
   <string name="title_myaccount">Môj účet: %s</string>
+  <string name="title_need_prompt">Upozorniť ma na prístup k internetu</string>
   <string name="title_nopassword">"Nevyžadovať pre malé platby"</string>
   <string name="title_nopassword_dialog">Denný limit</string>
   <string name="title_password">Heslo</string>
   <string name="title_password_threshold">Denný limit = ￥%1$s</string>
   <string name="title_pay">Zaplatiť MiKreditmi</string>
   <string name="title_pay_record">História platieb</string>
+  <string name="title_prompt">Upozornenia</string>
   <string name="title_recharge">Navýšiť MiKredit</string>
   <string name="title_recharge_record">História navýšení</string>
   <string name="title_sms_code">Zadajte overovací kód</string>
@@ -327,11 +333,4 @@ Informácie na čísle: 400-100-5678"</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password_empty">Prázdne.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
-  <string name="mibi_license_checkbox_prompt">Viac sa nepýtať</string>
-  <string name="mibi_license_net_prompt_message">Používanie MiKreditov môže zvýšiť spotrebu mobilných dát.</string>
-  <string name="mibi_license_net_prompt_title">Vyžaduje sa internetové pripojenie</string>
-  <string name="title_need_prompt">Upozorniť ma na prístup k internetu</string>
-  <string name="title_prompt">Upozornenia</string>
-  <string name="mipay_error">MiPay zlyhalo</string>
-  <string name="progress_mipay_creating">Vytváranie objednávky...</string>
 </resources>

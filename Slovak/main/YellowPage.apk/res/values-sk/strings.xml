@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="about_smart_antispam_summary">Rozpoznať inteligentne neznáme čísla</string>
   <string name="about_telephone_fraud">Vyvarovať sa obťažovaniu</string>
@@ -109,7 +108,10 @@ Please check tracking number"</string>
   <string name="module_sms_sent">Textová správa doručená</string>
   <string name="network_unavaliable">Sieť je nedostupná, skontrolujte nastavenie siete</string>
   <string name="no_more_result">Viac sa nenašlo</string>
+  <string name="notfiy_connect_title">Networking permission</string>
+  <string name="notices_and_terms">Legal notices and terms of use</string>
   <string name="notify_connect_every_time">Ask for networking permission every time</string>
+  <string name="notify_connect_summary">Ask for networking permission every time</string>
   <string name="packages_no_package">No suitable traffic packages</string>
   <string name="packages_pay">Kúpiť</string>
   <string name="packages_pay_confirm">Potvrdiť</string>
@@ -174,6 +176,7 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="turn_on_smart_antispam_summary_off">Pýtať sa len na čísla s miestnou predvoľbou</string>
   <string name="turn_on_smart_antispam_summary_on">Identifikovať neznáme čísla a odoslať do databázy</string>
   <string name="turn_on_smart_antispam_title">Identifikovať neznáme čísla</string>
+  <string name="turn_on_yellowpage_service_title">Use directory service</string>
   <string name="unable_send_sms">Nie je možné odoslať SMS správu.</string>
   <string name="user_notice_identify_summary_format">Identifikovanie neznámych čísel je online služba. Prečítajte si %1$s a %2$s pred jej použitím.</string>
   <string name="user_notice_yp_detail_summary_format">Niektoré informácie v tomto zozname potrebujú byť aktualizované online. Prečítajte si %1$s a %2$s, stlačte \"Súhlasím\" ak súhlasíte s podmienkami, stlačte \"Zrušiť\" pre načítanie údajov len z lokálnej cache.</string>
@@ -181,8 +184,4 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
-  <string name="turn_on_yellowpage_service_title">Use directory service</string>
-  <string name="notfiy_connect_title">Networking permission</string>
-  <string name="notices_and_terms">Legal notices and terms of use</string>
-  <string name="notify_connect_summary">Ask for networking permission every time</string>
 </resources>

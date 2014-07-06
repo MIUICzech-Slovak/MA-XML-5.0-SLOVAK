@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="BaMmi">Blokovanie hovorov</string>
   <string name="CLIRDefaultOffNextCallOff">V predvolenom nastavení nie je identifikácia volajúceho obmedzená. Ďalší hovor: Bez obmedzenia</string>
@@ -104,7 +103,7 @@ Chcete ho zavrieť?"</string>
   <string name="bluetooth_a2dp_audio_route_name">Bluetooth audio</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušiť</string>
-<string name="candidates_style">kandidáti</string>
+  <string name="candidates_style">kandidáti</string>
   <string name="capital_off">VYP</string>
   <string name="capital_on">ZAP</string>
   <string name="car_mode_disable_notification_message">Dotykom ukončite režim V aute.</string>

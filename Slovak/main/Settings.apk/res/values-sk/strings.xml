@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Settings_title_anti_spam">Nastavenie Antispamu</string>
   <string name="Settings_title_anti_virus">Nastavenie AntiVírusu</string>
@@ -64,7 +63,9 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="accessibility_service_default_description">K dispozícií nie je žiaden popis.</string>
   <string name="accessibility_service_disable_warning_summary">Klepnutím na tlačidlo OK službu %1$s ukončíte.</string>
   <string name="accessibility_service_disable_warning_title">Ukončiť službu %1$s?</string>
+  <string name="accessibility_service_no_apps_confirm">OK</string>
   <string name="accessibility_service_no_apps_message">TalkBack poskytuje hovorenú navigáciu nevidiacim a slabozrakým užívateľom. Chcete túto aplikáciu stiahnuť zdarma zo služby Google Play?</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack poskytuje hovorenú navigáciu nevidiacim a slabozrakým užívateľom. Túto aplikáciu môžete stiahnuť zdarma zo služby Google Play.</string>
   <string name="accessibility_service_no_apps_title">Potrebujete čítačku obrazovky(TalkBack)?</string>
   <string name="accessibility_service_security_warning_summary">Služba %1$s zaznamenáva všetok text, ktorý napíšete, okrem hesiel. To zahrňuje osobné údaje, ako sú čísla platobných kariet. Zaznamenáva tiež údaje o interakcií s telefónom.</string>
   <string name="accessibility_service_security_warning_title">Použiť službu %1$s?</string>
@@ -496,6 +497,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="bluetooth_permission_request">Požiadavka na povolenie zariadenia Bluetooth</string>
   <string name="bluetooth_phonebook_request">Požiadavka telefónneho zoznamu</string>
   <string name="bluetooth_pin_values_hint">Obvykle 0000 nebo 1234</string>
+  <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
   <string name="bluetooth_preference_device_settings">Nastavenie zariadenia</string>
   <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
   <string name="bluetooth_preference_paired_devices">Párované zariadenia</string>
@@ -752,6 +754,12 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="crypt_keeper_unplugged_text">Pripojte nabíjačku a skúste to znovu.</string>
   <string name="cryptkeeper_emergency_call">Tiesňové volania</string>
   <string name="cryptkeeper_return_to_call">Späť k hovoru</string>
+  <string name="cta_button_text_agree">OK</string>
+  <string name="cta_button_text_cancel">Zrušiť</string>
+  <string name="cta_checkbox_title">Viac sa nepýtať</string>
+  <string name="cta_dialog_msg">Využívanie Optimalizácie vyžaduje pripojenie na internet pre aktualizáciu vírusovej databázy. Súhlasíte s týmito podmienkami?</string>
+  <string name="cta_dialog_title">Upozornenie</string>
+  <string name="cta_settings">Prístup na internet</string>
   <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>
   <string name="current_input_method">Predvolené</string>
   <string name="current_use_ese">Using embedded secure element</string>
@@ -3720,13 +3728,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="cta_button_text_agree">OK</string>
-  <string name="cta_button_text_cancel">Zrušiť</string>
-  <string name="cta_checkbox_title">Viac sa nepýtať</string>
-  <string name="cta_dialog_msg">Využívanie Optimalizácie vyžaduje pripojenie na internet pre aktualizáciu vírusovej databázy. Súhlasíte s týmito podmienkami?</string>
-  <string name="cta_dialog_title">Upozornenie</string>
-  <string name="cta_settings">Prístup na internet</string>
-  <string name="accessibility_service_no_apps_confirm">OK</string>
-  <string name="accessibility_service_no_apps_prompt">TalkBack poskytuje hovorenú navigáciu nevidiacim a slabozrakým užívateľom. Túto aplikáciu môžete stiahnuť zdarma zo služby Google Play.</string>
-  <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
 </resources>

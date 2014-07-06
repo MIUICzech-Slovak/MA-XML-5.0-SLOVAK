@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="adjust_traffic_carrier_summary_more_onemonth_before">"Viac ako mesiac už nebolo aktualizované"</string>
   <string name="adjust_traffic_carrier_summary_more_oneweek_before">"Viac ako týždeň už nebolo aktualizované"</string>
@@ -73,6 +72,7 @@ mobilné internetové pripojenie"</string>
   <string name="main_button_usage_package_setting">Zadajte využité dáta</string>
   <string name="main_toolbar_firewall">Pravidlá</string>
   <string name="main_toolbar_purchase">Navýšiť</string>
+  <string name="main_toolbar_saving">Kompresia</string>
   <string name="main_toolbar_statistic">Štatistiky</string>
   <string name="main_traffic_overlimit_text">"%s 
 Nad limit"</string>
@@ -141,6 +141,21 @@ Využité"</string>
   <string name="pref_title_network_diagnostics">Diagnostika siete</string>
   <string name="pref_title_traffic_speed_state">Zobraziť rýchlosť siete</string>
   <string name="pref_title_update_notification">Zobraziť spotrebu dát</string>
+  <string name="pref_traffic_saving_issue">FAQ</string>
+  <string name="pref_traffic_saving_issue_content">"
+&lt;b&gt;1. Sú moje dáta v bezpečí počas aktivovanej úspory dát?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Funkcia úspory dát nevyužíva žiadne vaše súkromné dáta.
+&lt;br /&gt;&lt;br /&gt;
+&lt;b&gt;2. Ako funguje úspora mobilných dát?&lt;/b&gt;
+&lt;br /&gt;&lt;br /&gt;
+Úspora mobilných dát funguje len pri pripojení na 2G/3G siete. 
+Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa urýchli ich načítavanie. Hudba a videá sa nekomprimujú."</string>
+  <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
+  <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informácie o úspore dát v notifikačnej lište</string>
+  <string name="pref_traffic_saving_switch">Úspora dát</string>
+  <string name="pref_traffic_saving_switch_hint">Úspora dát pomocou kompresie na serveri</string>
+  <string name="pref_traffic_saving_title">Nastavenie úspory dát</string>
   <string name="pref_version">Verzia %s</string>
   <string name="pref_warning_values">Upozornenie po dosiahnutí</string>
   <string name="settings">Nastavenie spotreby dát</string>
@@ -164,39 +179,6 @@ Využité"</string>
   <string name="traffic_protection_text_hint">Nastaviť limit mobilných dát pre %s</string>
   <string name="traffic_protection_unknown">Nastaviť neskôr</string>
   <string name="traffic_protection_use_data">Dáta povolené</string>
-  <string name="traffic_setting_fragment_area">Lokálne</string>
-  <string name="traffic_setting_fragment_brand">Brand</string>
-  <string name="traffic_setting_fragment_button2_text">Uložiť</string>
-  <string name="traffic_setting_fragment_get_template_falure">Aktualizácia zlyhala. Skontrolujte nastavenie siete a skúste to znova.</string>
-  <string name="traffic_setting_fragment_loading_text">Získavanie informácií o sieti...</string>
-  <string name="traffic_setting_fragment_no_network">"Nie je možné sa pripojiť k sieti"</string>
-  <string name="traffic_setting_fragment_null">Prázdne</string>
-  <string name="traffic_setting_fragment_operator">Operátor</string>
-  <string name="traffic_setting_fragment_send_num">Číslo operátora</string>
-  <string name="traffic_setting_fragment_send_num_tips">Zadajte telefónne číslo</string>
-  <string name="traffic_setting_fragment_sms_content">Obsah správy</string>
-  <string name="traffic_setting_fragment_sms_content_tips">Napíšte správu</string>
-  <string name="traffic_setting_fragment_template">Vzor správy</string>
-  <string name="traffic_setting_fragment_title">Nastaviť kontrolu spotreby</string>
-  <string name="usage_sorted_activity_lable">Spotreba dát</string>
-  <string name="usage_sorted_empty_text">Prázdne</string>
-  <string name="usage_sorted_loading_text">Načítavanie...</string>
-  <string name="main_toolbar_saving">Kompresia</string>
-  <string name="pref_traffic_saving_issue">FAQ</string>
-  <string name="pref_traffic_saving_issue_content">"
-&lt;b&gt;1. Sú moje dáta v bezpečí počas aktivovanej úspory dát?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
-Funkcia úspory dát nevyužíva žiadne vaše súkromné dáta.
-&lt;br /&gt;&lt;br /&gt;
-&lt;b&gt;2. Ako funguje úspora mobilných dát?&lt;/b&gt;
-&lt;br /&gt;&lt;br /&gt;
-Úspora mobilných dát funguje len pri pripojení na 2G/3G siete. 
-Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa urýchli ich načítavanie. Hudba a videá sa nekomprimujú."</string>
-  <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
-  <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informácie o úspore dát v notifikačnej lište</string>
-  <string name="pref_traffic_saving_switch">Úspora dát</string>
-  <string name="pref_traffic_saving_switch_hint">Úspora dát pomocou kompresie na serveri</string>
-  <string name="pref_traffic_saving_title">Nastavenie úspory dát</string>
   <string name="traffic_saving_button_sorted">Rebríček</string>
   <string name="traffic_saving_button_start">Ušetriť dáta</string>
   <string name="traffic_saving_button_stop">Ukončiť</string>
@@ -214,4 +196,21 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="traffic_saving_toast_start_none_mobile">Úspora dát sa spustí pri využívaní mobilných dát</string>
   <string name="traffic_saving_toast_start_unreachable">Chyba úspory dát</string>
   <string name="traffic_saving_toast_stop">Úspora dát je deaktivovaná</string>
+  <string name="traffic_setting_fragment_area">Lokálne</string>
+  <string name="traffic_setting_fragment_brand">Brand</string>
+  <string name="traffic_setting_fragment_button2_text">Uložiť</string>
+  <string name="traffic_setting_fragment_get_template_falure">Aktualizácia zlyhala. Skontrolujte nastavenie siete a skúste to znova.</string>
+  <string name="traffic_setting_fragment_loading_text">Získavanie informácií o sieti...</string>
+  <string name="traffic_setting_fragment_no_network">"Nie je možné sa pripojiť k sieti"</string>
+  <string name="traffic_setting_fragment_null">Prázdne</string>
+  <string name="traffic_setting_fragment_operator">Operátor</string>
+  <string name="traffic_setting_fragment_send_num">Číslo operátora</string>
+  <string name="traffic_setting_fragment_send_num_tips">Zadajte telefónne číslo</string>
+  <string name="traffic_setting_fragment_sms_content">Obsah správy</string>
+  <string name="traffic_setting_fragment_sms_content_tips">Napíšte správu</string>
+  <string name="traffic_setting_fragment_template">Vzor správy</string>
+  <string name="traffic_setting_fragment_title">Nastaviť kontrolu spotreby</string>
+  <string name="usage_sorted_activity_lable">Spotreba dát</string>
+  <string name="usage_sorted_empty_text">Prázdne</string>
+  <string name="usage_sorted_loading_text">Načítavanie...</string>
 </resources>

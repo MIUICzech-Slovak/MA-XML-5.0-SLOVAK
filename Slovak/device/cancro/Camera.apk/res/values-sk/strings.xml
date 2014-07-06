@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="access_sd_fail">"Nie je možný prístup na SD kartu."</string>
@@ -36,6 +35,7 @@ opustite na chvíľu náhľad"</string>
   <string name="cancel">Zrušiť</string>
   <string name="cannot_connect_camera_once">"Nie je možné pripojiť kameru, ukončite aplikáciu"</string>
   <string name="cannot_connect_camera_twice">"Nie je možné pripojiť kameru, reštartujte telefón"</string>
+  <string name="cannot_move_warning_message">Zhotovovanie fotografie, nehýbte so zariadením.</string>
   <string name="chroma_flash_exit_button_text">Exit Chroma Flash mode</string>
   <string name="clear_effects">Vymazať efekty</string>
   <string name="close">Zatvoriť</string>
@@ -196,6 +196,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
   <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
+  <string name="pref_camera_auto_capture_when_stable_title">Auto capturing when stable</string>
   <string name="pref_camera_auto_focus_title_entry_off">Vypnuté</string>
   <string name="pref_camera_auto_focus_title_entry_on">Zapnuté</string>
   <string name="pref_camera_auto_opti_zoom_title">Auto Opti Zoom when ratio is greater than 2</string>
@@ -516,7 +517,9 @@ opustite na chvíľu náhľad"</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">Dávkové snímanie nie je podporované ak ISO nie je nastavené na AUTO.</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Nie je možné zobraziť fotografiu alebo video ak je zamknutý displej.</string>
   <string name="toast_start_audio_capture">Vydajte zvuk pre spustenie spúšte fotoaparátu</string>
+  <string name="ubi_focus_capture_fail">Chyba, skúste to znova.</string>
   <string name="ubi_focus_exit_button_text">Exit Ubi Focus mode</string>
+  <string name="ubifocus_capture_warning_message">Je lepšie ak náhľad obsahuje blízke (menej ako 1m od objektívu) a ďaleké objekty</string>
   <string name="undo">Späť</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Videokamera</string>
@@ -544,8 +547,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="cannot_move_warning_message">Zhotovovanie fotografie, nehýbte so zariadením.</string>
-  <string name="ubifocus_capture_warning_message">Je lepšie ak náhľad obsahuje blízke (menej ako 1m od objektívu) a ďaleké objekty</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Auto capturing when stable</string>
-  <string name="ubi_focus_capture_fail">Chyba, skúste to znova.</string>
 </resources>

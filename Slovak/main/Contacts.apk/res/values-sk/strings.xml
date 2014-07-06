@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="accessibility_calllog_detail">Podrobnosti</string>
   <string name="account_abnormal_state">Chyba v informácií o účte, skúste sa prihlásiť opäť.</string>
@@ -205,6 +204,12 @@
   <string name="createContactShortcutSuccessful">Widget kontaktu bol pridaný na plochu.</string>
   <string name="create_group_dialog_title">Vytvoriť novú skupinu</string>
   <string name="create_group_item_label">[Vytvoriť novú skupinu]</string>
+  <string name="cta_notice_checkbox">Viac sa nepýtať</string>
+  <string name="cta_notice_new_contact_message">Uloženie kontaktu na účet \"%s\" vyžaduje prístup k sieti. Súhlasíte?</string>
+  <string name="cta_notice_ok">OK</string>
+  <string name="cta_notice_photo_message">Úprava fotografie kontaktu si vyžaduje prístup k sieti. Súhlasíte?</string>
+  <string name="cta_notice_settings">Upozorniť na prístup k sieti</string>
+  <string name="cta_notice_title">Upozornenie</string>
   <string name="customLabelPickerTitle">Vlastné označenie</string>
   <string name="custom_list_filter">Definovať vlastné zobrazenie</string>
   <string name="custom_nickname_hint">Vložte oslovenie ako: Pán/Pani</string>
@@ -1146,8 +1151,10 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowPageNavigationIconLabel">Directory</string>
   <string name="yellowPageNavigationLabel">Directory</string>
   <string name="yellowpage_navigation_menu_order">Moja objednávka</string>
+  <string name="yellowpage_navigation_more_items">Viac</string>
   <string name="yellowpage_navigation_network_location_enable">Povoliť</string>
   <string name="yellowpage_navigation_network_location_enable_later">Neskôr</string>
+  <string name="yellowpage_navigation_network_location_enabled">Služba je povolená, môžete ju deaktivovať v nastaveniach polohy</string>
   <string name="yellowpage_navigation_network_location_not_enabled_summary">Zoznam čísel služieb a obchodov podľa Vašej polohy môže skvalitniť túto funkciu.</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Povoliť polohu podľa siete</string>
   <string name="yellowpage_navigation_no_content">Nič sa nenašlo</string>
@@ -1159,17 +1166,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_search_result_service_error">Služba nie je dostupná</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Neznáma chyba</string>
   <string name="yellowpage_navigation_search_select_city">Zvoľte mesto</string>
-  <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
-  <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="yellowpage_navigation_network_location_enabled">Služba je povolená, môžete ju deaktivovať v nastaveniach polohy</string>
-  <string name="cta_notice_checkbox">Viac sa nepýtať</string>
-  <string name="cta_notice_new_contact_message">Uloženie kontaktu na účet \"%s\" vyžaduje prístup k sieti. Súhlasíte?</string>
-  <string name="cta_notice_ok">OK</string>
-  <string name="cta_notice_photo_message">Úprava fotografie kontaktu si vyžaduje prístup k sieti. Súhlasíte?</string>
-  <string name="cta_notice_settings">Upozorniť na prístup k sieti</string>
-  <string name="cta_notice_title">Upozornenie</string>
-  <string name="yellowpage_navigation_more_items">Viac</string>
-  <string name="yellowpage_user_profile">Profil</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Sťahovanie ikony...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Chyba, skontrolujte nastavenie siete.</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
+  <string name="yellowpage_user_profile">Profil</string>
+  <string name="zero_items_selected">Nič nie je vybrané</string>
 </resources>

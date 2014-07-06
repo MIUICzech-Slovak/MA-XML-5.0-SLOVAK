@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="account_bind_prompt">"Migrovanie užívateľských dát. 
 Váš účet bude dočasne zablokovaný, 
@@ -55,6 +54,7 @@ Váš účet bude dočasne zablokovaný,
   <string name="compress_title">Zbaliť</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Upozorniť na prístup k sieti</string>
   <string name="copy_failed">Kopírovanie zlyhalo</string>
   <string name="count_down_time">Začne o %d sekundy</string>
   <string name="create_kuaipan_shortcut_pref">Vytvoriť ikonu na ploche</string>
@@ -193,6 +193,8 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="name_illegal">Názov súboru nesmie byť prázdny</string>
   <string name="net_lose_connected">Sieť nedostupná, nie je možné zistiť veľkosť</string>
   <string name="networkView_notConnected">Sieť nedostupná</string>
+  <string name="network_connect_confirm_des">Používanie MiDrive si vyžaduje prístup k sieti. Súhlasíte?</string>
+  <string name="never_notify_network_connect">Viac sa nepýtať</string>
   <string name="new_folder_name">Nová zložka</string>
   <string name="no">Nie</string>
   <string name="no_app_cache_indication">Žiadna cache aplikácií</string>
@@ -216,6 +218,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="open_changed_file_title">Súbor je zmenený</string>
   <string name="open_file_failed">Otváranie zlyhalo</string>
   <string name="operating">Pracujem...</string>
+  <string name="operation_agree">OK</string>
   <string name="operation_cancel">Zrušiť</string>
   <string name="operation_compress">Zbaliť</string>
   <string name="operation_compressing">Komprimovanie...</string>
@@ -294,6 +297,7 @@ Získali ste ďalších %1$s"</string>
   <string name="storage_warning">SD karta nie je prístupné alebo sa nedá čítať.</string>
   <string name="sys_size">Celková kapacita %1$s</string>
   <string name="sys_size_title">Celková kapacita úložiska</string>
+  <string name="system_alert">Upozornenie</string>
   <string name="tab_category">Kategórie</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefón</string>
@@ -344,9 +348,4 @@ aby ste urobili miesto</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="connect_network_setting_des">Upozorniť na prístup k sieti</string>
-  <string name="network_connect_confirm_des">Používanie MiDrive si vyžaduje prístup k sieti. Súhlasíte?</string>
-  <string name="never_notify_network_connect">Viac sa nepýtať</string>
-  <string name="operation_agree">OK</string>
-  <string name="system_alert">Upozornenie</string>
 </resources>

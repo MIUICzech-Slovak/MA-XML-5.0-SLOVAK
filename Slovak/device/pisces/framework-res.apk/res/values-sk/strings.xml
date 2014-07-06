@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="BaMmi">Blokovanie hovorov</string>
   <string name="CLIRDefaultOffNextCallOff">V predvolenom nastavení nie je identifikácia volajúceho obmedzená. Ďalší hovor: Bez obmedzenia</string>
@@ -107,7 +106,7 @@ Chcete ho zavrieť?"</string>
   <string name="bugreport_title">Zaznamenať správu o chybe</string>
   <string name="byteShort">B</string>
   <string name="cancel">Zrušiť</string>
-<string name="candidates_style">kandidáti</string>
+  <string name="candidates_style">kandidáti</string>
   <string name="capability_desc_canRequestEnhancedWebAccessibility">Môže nainštalovať skripty na sprístupnenie obsahu aplikácie.</string>
   <string name="capability_desc_canRequestFilterKeyEvents">Obsahuje osobné údaje ako sú čísla kreditných kariet a heslá.</string>
   <string name="capability_desc_canRequestTouchExploration">Po dotyku na položku sa vysloví jej názov a obrazovku je možné preskúmať pomocou gest.</string>

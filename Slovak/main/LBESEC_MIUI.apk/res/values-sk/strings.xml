@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Dashboard_App">Aplikácie</string>
   <string name="Dashboard_HIPS_Disable_Content">Vypnutie zastaví sledovanie požiadaviek od aplikácií. Tým pádom MIUI prestane chrániť Vašu bezpečnosť a súkromie. Určite chcete sledovanie vypnúť?</string>
@@ -78,9 +77,15 @@
   <string name="HIPS_Perm_AudioRecorder">Nahrávanie zvuku</string>
   <string name="HIPS_Perm_AudioRecorder_Desc">Lokálne nahrávky a nahrávky hovoru</string>
   <string name="HIPS_Perm_AudioRecorder_Hint">%1$s môže nahrávať zvuk a hovory</string>
+  <string name="HIPS_Perm_AutoStart">Automaticky spustiť</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Automaticky spustiť pri štarte zariadenia</string>
+  <string name="HIPS_Perm_AutoStart_Hint">%1$s má právo sa automaticky spustiť pri štarte</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity">zapnúť Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">zapnúť Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s môže použiť Bluetooth</string>
+  <string name="HIPS_Perm_Calendar">Prístup ku kalendáru</string>
+  <string name="HIPS_Perm_Calendar_Desc">Prístup k udalostiam v kalendári</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s má právo na prístup ku kalendáru</string>
   <string name="HIPS_Perm_Call">Telefónny hovor</string>
   <string name="HIPS_Perm_CallLog">Zoznamy hovorov</string>
   <string name="HIPS_Perm_CallLog_Access">Prístup k zoznamu hovorov</string>
@@ -134,6 +139,9 @@
   <string name="HIPS_Perm_Network_Send">Odoslať dáta</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Neznáma adresa</string>
   <string name="HIPS_Perm_Network_WIFIEvent">Použiť Wi-Fi sieť</string>
+  <string name="HIPS_Perm_Notification">Zobrazovať upozornenia</string>
+  <string name="HIPS_Perm_Notification_Desc">Prístup k upozorneniam</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s má právo na prístup k upozorneniam</string>
   <string name="HIPS_Perm_PhoneID">Údaje o telefóne</string>
   <string name="HIPS_Perm_PhoneID_Desc">Zistí ID prístroja, vrátane IMEI, IMSI, atď.</string>
   <string name="HIPS_Perm_PhoneID_Hint">%1$s aplikácií má povolenie k získaniu údajov o telefóne</string>
@@ -182,6 +190,9 @@
   <string name="HIPS_Perm_Settings_Hint">%1$s môže zmeniť nastavenia systému</string>
   <string name="HIPS_Perm_Settings_Modify">Zmeniť nastavenia systému</string>
   <string name="HIPS_Perm_SilenceRinger">Stíšiť zvonenie</string>
+  <string name="HIPS_Perm_SystemAlert">Zobrazovať vyskakovacie okná</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Má právo zobrazovať vyskakovacie okná</string>
+  <string name="HIPS_Perm_SystemAlert_Hint">%1$s má právo zobrazovať vyskakovacie okná</string>
   <string name="HIPS_Perm_VideoRecorder">Video a fotografie</string>
   <string name="HIPS_Perm_VideoRecorder_Desc">Môže zhotoviť video a fotografie</string>
   <string name="HIPS_Perm_VideoRecorder_Hint">%1$s môže zhotoviť video a fotografie</string>
@@ -191,6 +202,9 @@
   <string name="HIPS_Perm_WIFI_Connectivity">Použiť Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Desc">Použiť Wi-Fi</string>
   <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s môže použiť Wi-Fi</string>
+  <string name="HIPS_Perm_Wakelock">Zabrániť spánku</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Má právo zabrániť spánku zariadenia</string>
+  <string name="HIPS_Perm_Wakelock_Hint">%1$s má právo zabrániť spánku zariadenia</string>
   <string name="HIPS_SecurityPrompt_Accept">Povolené (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">Povoliť</string>
   <string name="HIPS_SecurityPrompt_Caption">Bezpečnostné varovanie</string>
@@ -226,19 +240,4 @@
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>
   <string name="app_name">Povolenia</string>
-  <string name="HIPS_Perm_AutoStart">Automaticky spustiť</string>
-  <string name="HIPS_Perm_AutoStart_Desc">Automaticky spustiť pri štarte zariadenia</string>
-  <string name="HIPS_Perm_AutoStart_Hint">%1$s má právo sa automaticky spustiť pri štarte</string>
-  <string name="HIPS_Perm_Calendar">Prístup ku kalendáru</string>
-  <string name="HIPS_Perm_Calendar_Desc">Prístup k udalostiam v kalendári</string>
-  <string name="HIPS_Perm_Calendar_Hint">%1$s má právo na prístup ku kalendáru</string>
-  <string name="HIPS_Perm_Notification">Zobrazovať upozornenia</string>
-  <string name="HIPS_Perm_Notification_Desc">Prístup k upozorneniam</string>
-  <string name="HIPS_Perm_Notification_Hint">%1$s má právo na prístup k upozorneniam</string>
-  <string name="HIPS_Perm_SystemAlert">Zobrazovať vyskakovacie okná</string>
-  <string name="HIPS_Perm_SystemAlert_Desc">Má právo zobrazovať vyskakovacie okná</string>
-  <string name="HIPS_Perm_SystemAlert_Hint">%1$s má právo zobrazovať vyskakovacie okná</string>
-  <string name="HIPS_Perm_Wakelock">Zabrániť spánku</string>
-  <string name="HIPS_Perm_Wakelock_Desc">Má právo zabrániť spánku zariadenia</string>
-  <string name="HIPS_Perm_Wakelock_Hint">%1$s má právo zabrániť spánku zariadenia</string>
 </resources>

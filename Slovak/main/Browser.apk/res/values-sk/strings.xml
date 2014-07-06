@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="MIUI_startpage">Štartovacia stránka</string>
   <string name="accessibility_button_clear">Vymazať vstup</string>
@@ -184,6 +183,7 @@
   <string name="empty_bookmarks_folder">Žiadne záložky</string>
   <string name="empty_history">Žiadna história prehliadania</string>
   <string name="empty_snapshots_folder">Žiadne uložené stránky</string>
+  <string name="enter_developer_mode">Režim pre vývojárov</string>
   <string name="error_console_eval_button_text">Vyhodnotiť</string>
   <string name="error_console_eval_text_hint">Vyhodnotiť JavaScript</string>
   <string name="error_console_header_text_maximized">JavaScript konzola</string>
@@ -626,5 +626,4 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
-  <string name="enter_developer_mode">Režim pre vývojárov</string>
 </resources>

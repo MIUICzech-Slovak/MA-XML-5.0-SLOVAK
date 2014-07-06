@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="about_app_name">MIUIVideo</string>
   <string name="about_developer_label">Vývojár</string>
@@ -162,6 +161,7 @@
   <string name="in_download_notification">%d videá sa načítavajú</string>
   <string name="in_pause">Zastavené</string>
   <string name="in_waiting">Čaká</string>
+  <string name="info_title">Informácia</string>
   <string name="install_comfirm">Inštalovať</string>
   <string name="jni_invalid_param">Chybné parametre</string>
   <string name="jni_no_media_source">Žiaden zdroj medií</string>
@@ -284,8 +284,10 @@
   <string name="play_length_colon">"Dĺžka: "</string>
   <string name="play_setting">Prehrávanie</string>
   <string name="playvideo">Prehrať</string>
+  <string name="post_playcount">" krát"</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="prex_playcount">Prehrané:</string>
   <string name="publish">Odoslať</string>
   <string name="qiyi">iQiyi</string>
   <string name="quarter_bell_alert_button_cancel">zrušiť</string>
@@ -393,7 +395,4 @@
   <string name="yestorday">"Včera "</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="info_title">Informácia</string>
-  <string name="post_playcount">" krát"</string>
-  <string name="prex_playcount">Prehrané:</string>
 </resources>
