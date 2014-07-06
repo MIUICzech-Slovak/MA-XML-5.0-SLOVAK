@@ -49,7 +49,7 @@ Váš účet bude dočasne zablokovaný,
   <string name="cleaning">Čistenie...</string>
   <string name="cleanup_complete">Ukončiť</string>
   <string name="cleanup_stopped">Čistenie zastavené</string>
-  <string name="close">Zavrieť</string>
+  <string name="close">Zatvoriť</string>
   <string name="compress_fail">Vytváranie .zip súboru zlyhalo, .zip súbor už existuje</string>
   <string name="compress_message">Zbaliť do:</string>
   <string name="compress_title">Zbaliť</string>
@@ -89,7 +89,7 @@ Váš účet bude dočasne zablokovaný,
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Sťahovanie zlyhalo!</string>
   <string name="download_link_completed">Zdieľam %1$s cez MiDrive. Kliknite na linku nižšie: </string>
-  <string name="downloading">Sťahujem...</string>
+  <string name="downloading">Sťahovanie...</string>
   <string name="empty_dir_cleanup_indication">%s nepotrebné súbory</string>
   <string name="empty_dir_title">Prázdne zložky</string>
   <string name="enable_sd_card">Povoliť SD kartu</string>
@@ -111,7 +111,7 @@ Váš účet bude dočasne zablokovaný,
   <string name="file_info_size">Veľkosť:</string>
   <string name="file_loading">Nahrávam...</string>
   <string name="file_not_exist">Súbor neexistuje</string>
-  <string name="file_too_large">"Súbor je príliš veľký a nie je možné ho nahrať"</string>
+  <string name="file_too_large">Súbor je príliš veľký</string>
   <string name="finished">Dokončené</string>
   <string name="folder_exist">Zložka už existuje</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Stlačte tu&lt;/a&gt;pre otvorenie koša v Cloude</string>
