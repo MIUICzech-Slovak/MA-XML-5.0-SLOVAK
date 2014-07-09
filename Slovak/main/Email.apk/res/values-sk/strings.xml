@@ -503,7 +503,7 @@ Kópia: %4$s
   <string name="next_action">Ďalej</string>
   <string name="no">Nie</string>
   <string name="no_application_found">Žiadna aplikácia nemôže otvoriť ani zobraziť túto prílohu.</string>
-  <string name="no_conversations">Žiadne správy.</string>
+  <string name="no_conversations">Žiadne správy</string>
   <string name="no_display_this_version">Nezobrazovať túto verziu</string>
   <string name="no_enough_space">Nie je dostatok voľného miesta</string>
   <string name="no_mails">Žiadne správy</string>
