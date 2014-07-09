@@ -337,4 +337,6 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_wifi_ap_scanning">Vyhľadávanie Wi-Fi siete...</string>
   <string name="cit_wifi_fail_to_scan">Nie je možné nájsť žiadnu sieť Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Obnoviť</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
+  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
 </resources>
