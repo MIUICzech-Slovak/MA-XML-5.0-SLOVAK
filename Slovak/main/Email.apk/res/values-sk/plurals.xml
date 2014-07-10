@@ -126,7 +126,7 @@
         <item quantity="many">Staršie správy: %1$d</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">Neprečítané: %1$d</item>
+        <item quantity="other">(%1$d)</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">Správy (%1$d) sa natrvalo odstránia.</item>
