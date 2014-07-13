@@ -1723,10 +1723,13 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="move_app_to_sdcard">Presunúť na USB úložisko</string>
   <string name="moving">Presúvanie</string>
   <string name="msd_driver_download">Stiahnuť ovládač</string>
-  <string name="msd_driver_mac_download">Choďte na http://miuiandroid.com/mac/ ak máte MAC</string>
-  <string name="msd_driver_windows_xp_download">Choďte na http://miuiandroid.com/windows/ ak máte Windows PC</string>
-  <string name="msd_help_summary">"Máte problém s prístupom na úložisko telefónu cez počítač? Zvoľte Váš operačný systém:"</string>
-  <string name="msd_help_title">Pomoc</string>
+  <string name="msd_driver_mac_download">"Pre OSX, stiahnite ovládač a spustite AndroidFileTransfer.dmg pre inštaláciu
+Stiahnite ovládač z http://miui.com/mac"</string>
+  <string name="msd_driver_windows_xp_download">"Pre Windows, stiahnite ovládač a spustite Setup.exe pre inštaláciu
+Stiahnite ovládač z http://miui.com/win"</string>
+  <string name="msd_help_summary">"Máte problém s prístupom na úložisko telefónu cez počítač? 
+Zvoľte váš operačný systém:"</string>
+  <string name="msd_help_title">Pomoc s MTP</string>
   <string name="msd_install">Inštalovať ovládač</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Ďalej</string>
@@ -1736,23 +1739,21 @@ Ubuntu-MTP.
 Pozor: Ubuntu 13.04 a novšie
 uż obsahuje MTP ovládač. 
 "</string>
-  <string name="msd_install_retry_mac">"If the computer did not detect Xiaomi properly,
-Try the following:
-"Do a computer search for
+  <string name="msd_install_retry_mac">"Ak počítač nevie rozpoznať Xiaomi,
+Skúste nasledovné:
+"Vyhľadajte
 Android File Transfer
-for MAC"
-"Disconnect the MI 2 to computer USB cable and reconnect."
-"Re-install the driver.</string>
+pre MAC"
+"Odpojte zariadenie z USB a znova ho pripojte."
+"Preinštalujte ovládač.</string>
   <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi,
-skúste:
-"Odpojiť telefón z USB a pripojiť opäť.</string>
+skúste odpojiť telefón z USB a pripojiť opäť.</string>
   <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi,
-skúste:
-"Odpojiť telefón z USB a pripojiť opäť.</string>
-  <string name="msd_install_status_done">Ovládač už je nainštalovaný</string>
+skúste odpojiť telefón z USB a pripojiť opäť alebo preinštalovať ovládač.</string>
+  <string name="msd_install_status_done">Ovládač je nainštalovaný</string>
   <string name="msd_install_status_undo">Inštalovať ovládač</string>
   <string name="msd_install_succeed">Ovládač je nainštalovaný</string>
-  <string name="msd_install_windows_xp_step_2_1">"1.Ak sa zobrazí sprievodca inštalácie, nasledujte všetky kroky pre správne nainštalovanie ovládačov"</string>
+  <string name="msd_install_windows_xp_step_2_1">"Ak sa zobrazí sprievodca inštalácie, nasledujte všetky kroky pre správne nainštalovanie ovládačov"</string>
   <string name="msd_pc_system_install_finish_summary_vista">"Pre Windows Vista and novšie verzie Windows,
 %1$s prehrávač hudby sa zobrazí automaticky po pripojení k PC"</string>
   <string name="msd_pc_system_install_finish_summary_xp">"Po inštalácií tohto ovládača
