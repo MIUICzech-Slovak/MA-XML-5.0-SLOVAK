@@ -214,4 +214,5 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Vybrať najväčšie</string>
 </resources>

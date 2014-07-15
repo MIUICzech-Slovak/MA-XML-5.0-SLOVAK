@@ -396,4 +396,6 @@
   <string name="yestorday">"Včera "</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="priority_storage">Uložiť na SD kartu</string>
+  <string name="priority_storage_summary">Ukladať súbory automaticky na SD karu.</string>
 </resources>

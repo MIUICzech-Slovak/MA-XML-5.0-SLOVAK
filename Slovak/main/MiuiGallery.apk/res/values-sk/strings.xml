@@ -572,4 +572,6 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
+  <string name="priority_storage">Uložiť na SD kartu</string>
+  <string name="priority_storage_summary">Ukladať súbory automaticky na SD karu.</string>
 </resources>
