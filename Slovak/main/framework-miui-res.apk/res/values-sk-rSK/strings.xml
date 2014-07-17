@@ -189,7 +189,7 @@
   <string name="screen_button_notification_text">"Stlačte 'Domov'+'Zapínanie' pre aktiváciu"</string>
   <string name="screen_button_notification_title">Tlačidlá pod displejom sú deaktivované</string>
   <string name="screen_on_proximity_sensor_hint">"Vynútené ukončenie: Stlačte 'Späť'+'Hlasitosť hore'"</string>
-  <string name="screen_on_proximity_sensor_summary">"Funkcie telefónu sú nedostupné"</string>
+  <string name="screen_on_proximity_sensor_summary">Odkryte senzor priblíženia!</string>
   <string name="screen_on_proximity_sensor_title">Odkryte senzor priblíženia!</string>
   <string name="sd_not_available">SD karta je odpojená alebo neprístupná</string>
   <string name="sd_not_available_low_internal_storage">SD karta je odpojená alebo neprístupná. Na internom úložisku je málo miesta.</string>
