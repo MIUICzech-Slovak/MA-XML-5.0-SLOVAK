@@ -632,10 +632,10 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="miui_autologin_bar_error">Nie je možné sa prihlásiť</string>
   <string name="miui_autologin_bar_title">Použiť systémový účet na prihlásenie</string>
   <string name="pref_adblock_counts">Blokovaných reklám: %d</string>
-  <string name="pref_adblock_title">Adblock</string>
+  <string name="pref_adblock_title">Blokovanie reklám</string>
   <string name="pref_clear_adblock_statistics">Vymazať štatistiky Adblock</string>
   <string name="pref_clear_adblock_statistics_dlg">Vymazať všetky štatistiky Adblock?</string>
-  <string name="pref_enable_adblock_notification">Adblock tipy</string>
+  <string name="pref_enable_adblock_notification">Blokovanie reklám</string>
   <string name="close_cloud_tab_tip">Zatvoriť cloudové karty na %s ?</string>
   <string name="cloud_sync_closed_toast">Synchr. Cloudu je deaktivovaná</string>
   <string name="cloud_sync_failed_toast">Aktualizácia zlyhala</string>
