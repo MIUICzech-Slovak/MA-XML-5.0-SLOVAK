@@ -182,7 +182,7 @@
   <string name="st_antispam_delete">Vymazať</string>
   <string name="st_antispam_des_anti">Blokované</string>
   <string name="st_antispam_des_permit">Povolené</string>
-  <string name="st_antispam_des_permit_nokeyword">Povoliť (bez slov)</string>
+  <string name="st_antispam_des_permit_nokeyword">Povolené (okrem kľúčových slov)</string>
   <string name="st_antispam_des_smart_anti">Inteligentné blokovanie</string>
   <string name="st_antispam_des_uesless">Deaktivované</string>
   <string name="st_antispam_mode_add_new">Vytvoriť</string>

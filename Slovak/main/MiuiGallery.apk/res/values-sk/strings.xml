@@ -269,7 +269,7 @@ spoločne!"</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletný</string>
   <string name="import_fail">Import neúspešný</string>
-  <string name="initial_cloud_button_text">Začnite používať Cloud album</string>
+  <string name="initial_cloud_button_text">Prihlásiť sa</string>
   <string name="initial_cloud_text">Kedykoľvek a kdekoľvek môžete mať Vaše fotografie vždy pri sebe</string>
   <string name="initializing_cloud">Vytváranie Cloud Albumu...</string>
   <string name="input_cloudfolder_name">Meno zložky v Cloude</string>

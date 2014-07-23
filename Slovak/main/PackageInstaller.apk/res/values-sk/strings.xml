@@ -46,9 +46,9 @@
   <string name="other_relative">Ostatné práva</string>
   <string name="out_of_space_dlg_text">Aplikáciu %1$s sa nepodarilo nainštalovať. Uvoľnite miesto v pamäti a skúste to znova.</string>
   <string name="out_of_space_dlg_title">Nedostatok miesta</string>
-  <string name="perm_action_accept">Prijať</string>
+  <string name="perm_action_accept">Povoliť</string>
   <string name="perm_action_prompt">Opýtať sa</string>
-  <string name="perm_action_reject">Odmietnuť</string>
+  <string name="perm_action_reject">Zakázať</string>
   <string name="perm_notice">Bezpečnostné riziko</string>
   <string name="perm_privacy_app_finish">Dokončiť</string>
   <string name="perm_privacy_app_installed">Inštalácia úspešná!</string>

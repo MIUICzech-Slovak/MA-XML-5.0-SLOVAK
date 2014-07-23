@@ -283,5 +283,5 @@
   <string name="alarm_label">OK</string>
   <string name="button_week">T</string>
   <string name="text_year">Rok</string>
-  <string name="week_view_today_toast">Už je v tomto týždni</string>
+  <string name="week_view_today_toast">Je zobrazený tento týždeň</string>
 </resources>

@@ -759,7 +759,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="cta_button_text_cancel">Zrušiť</string>
   <string name="cta_checkbox_title">Viac sa nepýtať</string>
   <string name="cta_dialog_msg">Využívanie Optimalizácie vyžaduje pripojenie na internet pre aktualizáciu vírusovej databázy. Súhlasíte s týmito podmienkami?</string>
-  <string name="cta_dialog_title">Upozornenie</string>
+  <string name="cta_dialog_title">Internetové pripojenie</string>
   <string name="cta_settings">Prístup na internet</string>
   <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>
   <string name="current_input_method">Predvolené</string>
@@ -3737,4 +3737,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="high_performance_notif_summary">Batéria sa bude vybíjať rýchlejšie.</string>
   <string name="high_performance_notif_title">Výkonný režim aktívny.</string>
   <string name="high_performance_title">Spustili ste Benchmark test. Nastavte "Výkonný režim" pre dosiahnutie najlepších výsledkov.</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>  
 </resources>
