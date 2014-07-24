@@ -223,8 +223,8 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="none_mi_service_app_detail">Prázdne</string>
   <string name="pref_traffic_saving_whitelist">Výnimky</string>
   <string name="pref_traffic_saving_whitelist_hint">Tieto aplikácie nebudú mať aktívnu kompresiu dát</string>
-  <string name="traffic_saving_history_total_month">本月您节省的流量相当于</string>
-  <string name="traffic_saving_history_total_month_default">我们每月为用户平均节省的流量相当于</string>
+  <string name="traffic_saving_history_total_month">Ušetrené tento mesiac</string>
+  <string name="traffic_saving_history_total_month_default">Ušetrené tento mesiac</string>
   <string name="traffic_saving_history_total_month_value">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; skladieb / Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h / Čítanie online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; položiek"</string>
   <string name="traffic_saving_history_total_month_value_default">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; skladieb / Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt;h / Čítanie online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; položiek"</string>
   <string name="traffic_saving_history_total_rate">Úspora</string>
