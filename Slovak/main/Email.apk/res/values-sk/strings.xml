@@ -755,7 +755,7 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
   <string name="account_setup_options_mail_check_frequency_imap_push">Automaticky (Push, ak to server podporuje)</string>
-  <string name="outbox_alert_description_auth_error">Príčina: Chyba prihlásenia servera počas sycnhr. odchádzajúcej pošty</string>
-  <string name="outbox_alert_description_http_error">Príčina: HTTP chyba servera počas sycnhr. odchádzajúcej pošty</string>
-  <string name="outbox_alert_description_provision_error">Príčina: Chyba servera počas sycnhr. odchádzajúcej pošty</string>  
+  <string name="outbox_alert_description_auth_error">Príčina: Chyba prihlásenia servera počas synchr. odchádzajúcej pošty</string>
+  <string name="outbox_alert_description_http_error">Príčina: HTTP chyba servera počas synchr. odchádzajúcej pošty</string>
+  <string name="outbox_alert_description_provision_error">Príčina: Chyba servera počas synchr. odchádzajúcej pošty</string>  
 </resources>
