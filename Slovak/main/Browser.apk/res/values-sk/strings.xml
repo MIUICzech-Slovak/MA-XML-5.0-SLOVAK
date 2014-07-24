@@ -628,7 +628,7 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
   <string name="account_prifix">Účet:</string>
-  <string name="adblock_notification">blokovaná %d reklama</string>
+  <string name="adblock_notification">Blokované reklamy: %d</string>
   <string name="miui_autologin_bar_error">Nie je možné sa prihlásiť</string>
   <string name="miui_autologin_bar_title">Použiť systémový účet na prihlásenie</string>
   <string name="pref_adblock_counts">Blokovaných reklám: %d</string>
