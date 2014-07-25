@@ -555,4 +555,5 @@ opustite na chvíľu náhľad"</string>
   <string name="burst_shoot_exit_button_text">Ukončiť dávkové snímanie</string>
   <string name="pref_burst_shoot_title">Dávkové snímanie</string>
   <string name="pref_long_press_shutter_button_focus_title">Dlhé podržanie spúšte zaostrí</string>
+  <string name="pref_priority_storage_title">Priorita ukladania na externú SD kartu</string>
 </resources>

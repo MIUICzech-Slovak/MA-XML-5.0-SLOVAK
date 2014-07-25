@@ -330,4 +330,6 @@ s "</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
   <string name="bank_cards">Platobná karta</string>
+  <string name="error_login">Nie je možné sa prihlásiť</string>
+  <string name="relogin_notice">Musíte sa znova prihlásiť</string>
 </resources>
