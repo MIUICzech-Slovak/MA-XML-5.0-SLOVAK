@@ -16,7 +16,7 @@
     <string name="commit">Odoslať</string>
     <string name="copycat_num">FAKE Xiaomi!!!</string>
     <string name="cpu">CPU</string>
-    <string name="detail_config">Podrobnosti o konfigurácií</string>
+    <string name="detail_config">Parametre</string>
     <string name="detail_config_unechecked">Podrobnosti o konfigurácií - nerozpoznané</string>
     <string name="detail_info">Podrobnosti</string>
     <string name="detail_info_buy_channel">Distribútor</string>
@@ -38,7 +38,7 @@
     <string name="error_timeout">Načítavanie dát zlyhalo</string>
     <string name="exist">Ukončiť</string>
     <string name="find_new_version">Skontrolovať novú verziu</string>
-    <string name="hardware_compare">Porovnanie HW</string>
+    <string name="hardware_compare">HardWare</string>
     <string name="help_adults">Pomoc</string>
     <string name="label_error_msg">Chyby</string>
     <string name="maybe_xiaomi">Zrejme je to Xiaomi zariadenie</string>
@@ -55,8 +55,8 @@
     <string name="msg_update_right_now">Súčasná verzia je zastaraná</string>
     <string name="near_last_center">Najbližšie predajné miesto:</string>
     <string name="not_xiaomi">Toto nie je Xiaomi telefón</string>
-    <string name="order_check">Overenie predaja</string>
-    <string name="performance_compare">Porovnanie výkonu</string>
+    <string name="order_check">Predaj</string>
+    <string name="performance_compare">Výkon</string>
     <string name="person_check">Zdieľať</string>
     <string name="please_set_network">Nastavte sieťové pripojenie</string>
     <string name="public_beta">Beta</string>
