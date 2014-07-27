@@ -200,4 +200,7 @@ Prijať súbor?"</string>
   <string name="upload_succ_line5">Súbor odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s odosielanie dokončené.</string>
+  <string name="panu_disconnect_while_wifi_connected">Bluetooth tethering odpojený</string>
+  <string name="panu_no_need_connect">Nie je možné použiť Bluetooth tethering pokiaľ ste pripojený na Wi-Fi</string>
+  <string name="too_much_file_sent">Systém nepodporuje odosielanie viac ako 300 súborov súčastne</string>
 </resources>
