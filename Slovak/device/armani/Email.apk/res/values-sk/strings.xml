@@ -186,7 +186,7 @@
   <string name="add_cc_bcc_menu">Pridať kópiu alebo skrytú kópiu</string>
   <string name="add_file_attachment">Pripojiť súbor</string>
   <string name="add_quick_responses_action">Vytvoriť nový</string>
-  <string name="alert_selected_all_message">" obsahuje %d správ. Ste si istý, že chcete označiť všetky？"</string>
+  <string name="alert_selected_all_message">" obsahuje %d správ. Chcete označiť všetky？"</string>
   <string name="alert_title_selected">Označiť všetko</string>
   <string name="app_name">Email</string>
   <string name="application_name">Okamžité odosielanie</string>

@@ -232,7 +232,7 @@ Odporúčame použiť \"Automaticky výber\", alebo vybrať iného operátora."<
   <string name="password_changed">Heslo bolo zmenené</string>
   <string name="pch_data_prefer_message">"Preferovanie mobilných dát sa používa na zvýšenie efektivity dátového prenosu na úkor kvality hovorov. Neodporúča sa ho používať.
 
-Ste si istý, že chcete aktivovať preferovanie mobilných dát?"</string>
+Chcete aktivovať preferovanie mobilných dát?"</string>
   <string name="pch_data_prefer_summary">Povoliť prenos dát plnou rýchlosťou</string>
   <string name="pch_data_prefer_title">Preferovanie mobilných dát</string>
   <string name="pin2_name">PIN2</string>

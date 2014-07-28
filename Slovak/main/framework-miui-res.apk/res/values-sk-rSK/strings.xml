@@ -180,7 +180,7 @@
   <string name="private_num">Súkromné číslo</string>
   <string name="puk_operation_failed">PUK zlyhal.</string>
   <string name="reboot_confirm">Telefón sa reštartuje</string>
-  <string name="reboot_confirm_title">Ste si istý, že chcete reštartovať Váš telefón?</string>
+  <string name="reboot_confirm_title">Chcete reštartovať Váš telefón?</string>
   <string name="reboot_progress">Reštartujem...</string>
   <string name="retrocession_day"/>
   <string name="return_to_me_message">Prosím vráťte telefón ak ste ho našli!</string>
@@ -203,7 +203,7 @@
   <string name="share">Zdieľať</string>
   <string name="short_pincode_error_msg">Zadajte 4–8 čísel</string>
   <string name="short_pukcode_error_msg">Zadajte 8 miestne číslo</string>
-  <string name="shutdown_confirm_title">Ste si istý, že chcete vypnúť Váš telefón?</string>
+  <string name="shutdown_confirm_title">Chcete vypnúť Váš telefón?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať medzinárodnú SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>
   <string name="sim_changed_reactivate_notice">Súčasná SIM karta nie je aktivovaná. Je potrebné odoslať medzinárodnú SMS správu pre aktiváciu Xiaomi Synchronizácie. Aktivovať teraz?</string>

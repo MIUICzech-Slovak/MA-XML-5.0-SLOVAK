@@ -64,7 +64,7 @@
   <string name="confirm_delete_all_conversations">Všetky konverzácie budú vymazané.</string>
   <string name="confirm_delete_conversation">Celá konverzácia bude vymazaná.</string>
   <string name="confirm_delete_group_message">Skupinové správy budú vymazané</string>
-  <string name="confirm_delete_locked_message">Ste si istý, že chcete zmazať túto zamknutú správu?</string>
+  <string name="confirm_delete_locked_message">Chcete zmazať túto zamknutú správu?</string>
   <string name="confirm_delete_message">Táto správa bude vymazaná.</string>
   <string name="confirm_dialog_locked_title">Vymazať zamknuté správy?</string>
   <string name="confirm_dialog_title">Vymazať</string>

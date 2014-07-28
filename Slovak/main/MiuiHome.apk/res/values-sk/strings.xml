@@ -164,8 +164,8 @@
   <string name="resource_can_not_selected">%1$s nie je možné vybrať!</string>
   <string name="resource_default">Predvolené zvonenie</string>
   <string name="resource_default_name">Zdroj</string>
-  <string name="resource_delete_all">Ste si istý, že chcete vymazať %1$d zdrojov?</string>
-  <string name="resource_delete_confirm">Ste si istý, že chcete vymazať túto tému?</string>
+  <string name="resource_delete_all">Chcete vymazať %1$d zdrojov?</string>
+  <string name="resource_delete_confirm">Chcete vymazať túto tému?</string>
   <string name="resource_delta_update_failed">Aktualizovanie rozdielov zlyhalo, stiahne sa celý balík.</string>
   <string name="resource_delta_update_successful">Aktualizovanie rozdielov dokončené，ušetrilo sa %1$s.</string>
   <string name="resource_detail">Podrobnosti</string>
