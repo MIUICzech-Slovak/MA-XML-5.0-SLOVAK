@@ -639,4 +639,6 @@ Chcete odísť z tejto stránky?"</string>
   <string name="close_cloud_tab_tip">Zatvoriť cloudové karty na %s ?</string>
   <string name="cloud_sync_closed_toast">Synchr. Cloudu je deaktivovaná</string>
   <string name="cloud_sync_failed_toast">Aktualizácia zlyhala</string>
+  <string name="bookmarks_history">Záložky/História</string>
+  <string name="delete_homepage">Vymazať domácu stránku</string>
 </resources>

@@ -574,4 +574,7 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="priority_storage">Uložiť na SD kartu</string>
   <string name="priority_storage_summary">Ukladať súbory automaticky na SD kartu.</string>
+  <string name="crop_recognize_text">Rozpoznať</string>  
+  <string name="crop_save_text_setas">Použiť</string>
+  <string name="recognizing_image">Rozpoznávanie...</string>  
 </resources>
