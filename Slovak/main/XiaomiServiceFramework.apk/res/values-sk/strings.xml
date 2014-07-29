@@ -332,5 +332,4 @@ s "</string>
   <string name="bank_cards">Platobná karta</string>
   <string name="error_login">Nie je možné sa prihlásiť</string>
   <string name="relogin_notice">Musíte sa znova prihlásiť</string>
-  <string name="micloud_proceed">Pokračovať</string>  
 </resources>
