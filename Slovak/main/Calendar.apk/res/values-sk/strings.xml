@@ -168,7 +168,7 @@
   <string name="month_medium_september">Sep</string>
   <string name="month_view">Mesiac</string>
   <string name="monthly">Mesačne</string>
-  <string name="monthly_on_day">Mesačne (%s. deň)</string>
+  <string name="monthly_on_day">Mesačne</string>
   <string name="monthly_on_day_count" formatted="false">Mesačne (vždy %1$s %2$s)</string>
   <string name="more_string">Ešte %1$s...</string>
   <string name="movable_list_header_label">Popis</string>
