@@ -52,7 +52,7 @@
   <string name="secure_access_web_url">Bezpečný prístup</string>
   <string name="see_app_details">zobraziť podrobnosti</string>
   <string name="success_message_import_from_account">Importované</string>
-  <string name="tips_message">Musíte sa pripojiť na internet aby ste skontrolovali, či je web stránka bezpečná.</string>
+  <string name="tips_message">Vyžaduje sa pripojenie na internet pre kontrolu, či je táto web stránka bezpečná.</string>
   <string name="tips_title">Internetové pripojenie</string>
   <string name="title">Názov:</string>
   <string name="url_is_phish">Táto web stránka bola nahlásená ako nebezpečná!</string>
