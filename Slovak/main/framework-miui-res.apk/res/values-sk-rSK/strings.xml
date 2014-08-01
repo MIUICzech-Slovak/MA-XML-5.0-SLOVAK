@@ -295,4 +295,6 @@
   <string name="yellow_page_sms_sending">Odosielanie...</string>
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
   <string name="yesterday">"Včera "</string>
+  <string name="softap_notifif_summary">Pripojených: %d</string>
+  <string name="softap_notifif_title">Hotspot \"%s\" povolený</string>
 </resources>
