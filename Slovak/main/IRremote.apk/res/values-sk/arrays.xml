@@ -60,13 +60,13 @@
         <item>Z</item>
     </string-array>
     <string-array name="app_detail_tabs">
-        <item>详情</item>
-        <item>评论</item>
+        <item>Podrobnosti</item>
+        <item>Komentovať</item>
     </string-array>
     <string-array name="ac_mode_array">
-        <item>制冷</item>
-        <item>制热</item>
-        <item>除湿</item>
-        <item>送风</item>
+        <item>Chladenie</item>
+        <item>Vyhrievanie</item>
+        <item>Odvlčovanie</item>
+        <item>Ventilátor</item>
     </string-array>
 </resources>
