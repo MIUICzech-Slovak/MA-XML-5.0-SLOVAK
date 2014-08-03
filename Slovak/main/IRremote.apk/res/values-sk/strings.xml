@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Ovládač</string>
+    <string name="app_name">MiRemote</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Nastavenia</string>
     <string name="action_settings">Nastavenia</string>
@@ -113,7 +113,7 @@
     <string name="technical_support">Technická podpora</string>
     <string name="add">Pridať</string>
     <string name="rc">Diaľkové ovládanie</string>
-    <string name="mi_rc">Ziaomi ovládanie</string>
+    <string name="mi_rc">Xiaomi ovládanie</string>
     <string name="loading_device_type_info">Načítavanie...</string>
     <string name="loading_brand_info">Načítavanie...</string>
     <string name="loading_ir_data">Načítavanie...</string>
