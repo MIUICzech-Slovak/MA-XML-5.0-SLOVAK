@@ -154,4 +154,5 @@
   <string name="turn_on_speaker_phone">Zapnúť reproduktor</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
+  <string name="toast_fm_scaning">Vyhľadávanie...</string>
 </resources>

@@ -758,4 +758,15 @@ Delta update size: %2$s"</string>
   <string name="outbox_alert_description_auth_error">Príčina: Chyba prihlásenia servera počas synchr. odchádzajúcej pošty</string>
   <string name="outbox_alert_description_http_error">Príčina: HTTP chyba servera počas synchr. odchádzajúcej pošty</string>
   <string name="outbox_alert_description_provision_error">Príčina: Chyba servera počas synchr. odchádzajúcej pošty</string>  
+  <string name="conversation_list_net_check">Nie je možné sa pripojiť na sieť. Skontrolujte svoje nastavenia pripojenia na internet a skúste to znova</string>
+  <string name="mail_body_turncated">Táto správa je príliš veľká a je zobrazená len jej časť. Skontrolujte ju vo svojom PC.</string>
+  <string name="no_wifi_promot">Nie je použité Wi-Fi pripojenie, buďte opatrný s prenosom dát cez vášho operátora</string>
+  <string name="ser_resp_err_map_certificate_validator_err">"Overenie certifikátu zlyhalo
+\u0009 (Skontrolujte, či je nastavená "Automatická synchronizácia")"</string>
+  <string name="ser_resp_err_map_connect_err">Chyba internetového pripojenia.</string>
+  <string name="ser_resp_err_map_nouser">Užívateľ neexistuje</string>
+  <string name="ser_resp_err_map_or">Alebo</string>
+  <string name="ser_resp_err_map_pserr">Nesprávne Meno/Heslo</string>
+  <string name="ser_resp_err_map_serclosed">Služba ukončená</string>
+  <string name="ser_resp_err_map_ssl">"Skúste vybrať 'SSL/TLS (Akceptovať všetky certifikáty)' v 'Zabezpečení'"</string>
 </resources>

@@ -334,4 +334,6 @@ Informácie na čísle: 400-100-5678"</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password_empty">Prázdne.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
+  <string name="giftcard_title">MiKredit Kupóny</string>
+  <string name="giftcard_define_detail">Použite tieto kupóny ako bežné MiKredity. Môžete získať kredity vďaka vašej účasti v rôznych Xiaomi súťažiach.</string>
 </resources>
