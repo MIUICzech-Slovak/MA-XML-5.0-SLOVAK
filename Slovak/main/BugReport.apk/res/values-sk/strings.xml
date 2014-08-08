@@ -14,7 +14,7 @@
   <string name="camera_problem3">Aplikácia sa náhle ukončí</string>
   <string name="camera_problem4">Nie je možné prepnúť medzi prednou a zadnou kamerou</string>
   <string name="camera_problem5">Aplikácia sa nespustí</string>
-  <string name="description">Ak vám nevyhovuje žiaden popis chyby, napíšte podrobnosti o chybe (v angličtine)</string>
+  <string name="description">Našli ste novú chybu? Napíšte jej popis (v angličtine)</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Fotoaparát</string>
   <string name="err_type_nonsystemapp">Iné apl.</string>
