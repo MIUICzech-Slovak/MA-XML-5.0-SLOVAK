@@ -39,7 +39,7 @@
   <string name="screen_lock">Zámok displeja</string>
   <string name="signal_problem1">Žiaden signál</string>
   <string name="signal_problem2">Slabý signál</string>
-  <string name="suggestion_description">Dôvod prečo ju potrebujete (v angličtine)...</string>
+  <string name="suggestion_description">Napíšte svoj návrh na novú funkciu (v angličtine)...</string>
   <string name="suggestion_problem1">Dúfam, že pridáte túto funkciu lebo...</string>
   <string name="system_app_select">MIUI apl.</string>
   <string name="toast_feedbackservice_in_submit">Odosielanie staršieho hlásenia...</string>
