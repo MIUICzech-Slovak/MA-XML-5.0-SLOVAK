@@ -15,7 +15,6 @@
   <string name="camera_problem4">Nie je možné prepnúť medzi prednou a zadnou kamerou</string>
   <string name="camera_problem5">Aplikácia sa nespustí</string>
   <string name="description">Ak vám nevyhovuje žiaden popis chyby, napíšte podrobnosti o chybe (v angličtine)</string>
-  <string name="err_type">Typ chyby</string>
   <string name="err_type_bluetooth">Bluetooth</string>
   <string name="err_type_camera">Fotoaparát</string>
   <string name="err_type_nonsystemapp">Iné apl.</string>
@@ -53,7 +52,6 @@
   <string name="title_hot_problem">Známe chyby</string>
   <string name="btn_send">Odoslať</string>
   <string name="bugreport_feedback_from">Od: %s</string>
-  <string name="description">Popis po anglicky (povinné)</string>
   <string name="discard_draft_dialog_button_cancel">Zrušiť</string>
   <string name="discard_draft_dialog_button_discard">OK</string>
   <string name="discard_draft_dialog_content">Report bol upravený, stlačte OK pre zrušenie zmien.</string>
