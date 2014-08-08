@@ -21,7 +21,7 @@
   <string name="err_type_signal">Chyba siete</string>
   <string name="err_type_systemapp">MIUI apl.</string>
   <string name="err_type_wifi">Wi-Fi</string>
-  <string name="hot_problem">Zobraziť známe chyby</string>
+  <string name="hot_problem">Zobraziť bežné chyby</string>
   <string name="loading_apps">Vytváranie zoznamu...</string>
   <string name="loading_hot_problem">Načítavanie...</string>  
   <string name="network_err">Nie je možné sa pripojiť na sieť. Skúste to znova neskôr.</string>
@@ -49,7 +49,7 @@
   <string name="wifi_problem3">Wi-Fi sa odpojuje</string>
   <string name="wifi_problem4">Nie je možné sa pripojiť k sieti</string>
   <string name="systemui">Roletka</string>
-  <string name="title_hot_problem">Známe chyby</string>
+  <string name="title_hot_problem">Bežné chyby</string>
   <string name="btn_send">Odoslať</string>
   <string name="bugreport_feedback_from">Od: %s</string>
   <string name="discard_draft_dialog_button_cancel">Zrušiť</string>
