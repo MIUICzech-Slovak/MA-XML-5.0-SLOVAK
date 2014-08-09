@@ -10,7 +10,7 @@
   <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Lockscreen</string>
   <string name="action_open_camera">Camera</string>
-  <string name="action_open_camera2">Gallery</string>
+  <string name="action_open_camera2">Take Picture</string>
   <string name="action_open_camera360_capture">Camera360 camera effects</string>
   <string name="action_open_camera360_edit">Camera360 picture editing</string>
   <string name="action_open_flashlight">Flashlight</string>
