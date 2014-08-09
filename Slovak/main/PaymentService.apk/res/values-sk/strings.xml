@@ -122,6 +122,7 @@ Počkajte prosím 5 minút a skúste to opäť"</string>
   <string name="forget_password">Zabudol som heslo</string>
   <string name="frozen">(Zmrazené)</string>
   <string name="giftcard_acitivity_and_denomination">%2$s MiKreditov z poukážky od %1$s</string>
+  <string name="giftcard_define_detail">Použite tieto kupóny ako bežné MiKredity. Môžete získať kredity vďaka vašej účasti v rôznych Xiaomi súťažiach.</string>
   <string name="giftcard_denom">MiKredit(ov)</string>
   <string name="giftcard_denom_available">MiKredit(ov) dostupných</string>
   <string name="giftcard_denom_frozen">MiKredit(ov) zmrazených</string>
@@ -135,6 +136,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="giftcard_push_notification_prime_title">"Dostali ste darčekovú poukážku"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKreditov.</string>
   <string name="giftcard_record">Moje poukážky</string>
+  <string name="giftcard_title">MiKredit Kupóny</string>
   <string name="giftcard_value">(%1$s-MiKreditov)</string>
   <string name="hfb_app_name">话付宝</string>
   <string name="hfb_complete">购买完成</string>
@@ -334,6 +336,4 @@ Informácie na čísle: 400-100-5678"</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password_empty">Prázdne.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
-  <string name="giftcard_title">MiKredit Kupóny</string>
-  <string name="giftcard_define_detail">Použite tieto kupóny ako bežné MiKredity. Môžete získať kredity vďaka vašej účasti v rôznych Xiaomi súťažiach.</string>
 </resources>

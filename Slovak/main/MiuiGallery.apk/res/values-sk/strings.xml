@@ -154,7 +154,9 @@ spoločne!"</string>
   <string name="crop">Orezať</string>
   <string name="crop_fail_to_load_image">Načítavanie obrázku pre orezanie zlyhalo.</string>
   <string name="crop_label">Orezať obrázok</string>
+  <string name="crop_recognize_text">Rozpoznať</string>
   <string name="crop_save_text">Orezať</string>
+  <string name="crop_save_text_setas">Použiť</string>
   <string name="crop_tooltip">Posuň značky pre orezanie snímky</string>
   <string name="crossprocess">Prekrytie</string>
   <string name="cut">Orezanie</string>
@@ -394,6 +396,8 @@ spoločne!"</string>
   <string name="posterize">Posterizovať</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Príprava obrázkov na vymazanie.</string>
+  <string name="priority_storage">Uložiť na SD kartu</string>
+  <string name="priority_storage_summary">Ukladať súbory automaticky na SD kartu.</string>
   <string name="projection">Projekcia</string>
   <string name="public_url_descript">Ktokoľvek má prístup k albumu cez túto URL</string>
   <string name="publish_failed">Zverejnenie zlyhalo.</string>
@@ -402,6 +406,7 @@ spoločne!"</string>
   <string name="qqbrowser_img">QQ Browser</string>
   <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
+  <string name="recognizing_image">Rozpoznávanie...</string>
   <string name="redeye">Červené oči</string>
   <string name="redeye_tooltip">Klikni pre odstránenie červených očí</string>
   <string name="refocus_data_downloading">Sťahovanie dát na preostrenie...</string>
@@ -572,9 +577,4 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="priority_storage">Uložiť na SD kartu</string>
-  <string name="priority_storage_summary">Ukladať súbory automaticky na SD kartu.</string>
-  <string name="crop_recognize_text">Rozpoznať</string>  
-  <string name="crop_save_text_setas">Použiť</string>
-  <string name="recognizing_image">Rozpoznávanie...</string>  
 </resources>

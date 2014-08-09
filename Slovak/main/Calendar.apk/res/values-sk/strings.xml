@@ -35,6 +35,7 @@
   <string name="agenda_tomorrow">ZAJTRA, %1$s</string>
   <string name="agenda_view">Agenda</string>
   <string name="agenda_yesterday">VČERA, %1$s</string>
+  <string name="alarm_label">OK</string>
   <string name="alert_title">Upozornenia kalendára</string>
   <string name="app_label">Kalendár</string>
   <string name="attendees_label">Hostia</string>
@@ -50,6 +51,7 @@
   <string name="birthday_notification_type_term_lunar"/>
   <string name="button_day">D</string>
   <string name="button_month">M</string>
+  <string name="button_week">T</string>
   <string name="calendar_refresh">Aktualizovať</string>
   <string name="calendar_server_error">Chyba servera</string>
   <string name="change_response_title">Zmeniť odpoveď</string>
@@ -86,6 +88,7 @@
   <string name="done">Ďalej</string>
   <string name="edit_event_all_day_label">Celý deň</string>
   <string name="edit_event_calendar_label">Kalendár</string>
+  <string name="edit_event_confirm_message">Zrušiť zmeny v udalosti?</string>
   <string name="edit_event_from_label">Od</string>
   <string name="edit_event_label">Podrobnosti</string>
   <string name="edit_event_show_all">Zobraziť všetko</string>
@@ -254,6 +257,7 @@
   <string name="taishen"/>
   <string name="tardis">TARDIS</string>
   <string name="template_announce_item_index" formatted="false">Udalosť %1$s z %2$s</string>
+  <string name="text_year">Rok</string>
   <string name="time_zone">Zóna</string>
   <string name="timezone_label">Časové pásmo</string>
   <string name="today">Dnes</string>
@@ -267,6 +271,7 @@
   <string name="view_event_organizer_label">Organizátor:</string>
   <string name="view_event_response_label">Zúčastníte sa?</string>
   <string name="week_view">Týždeň</string>
+  <string name="week_view_today_toast">Je zobrazený tento týždeň</string>
   <string name="weekly">Týždenne (vždy %s)</string>
   <string name="what_label">Čo</string>
   <string name="when_label">Kedy</string>
@@ -280,9 +285,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="alarm_label">OK</string>
-  <string name="button_week">T</string>
-  <string name="text_year">Rok</string>
-  <string name="week_view_today_toast">Je zobrazený tento týždeň</string>
-  <string name="edit_event_confirm_message">Zrušiť zmeny v udalosti?</string>
 </resources>

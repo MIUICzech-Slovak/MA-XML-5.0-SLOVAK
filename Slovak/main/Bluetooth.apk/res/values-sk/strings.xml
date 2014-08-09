@@ -114,6 +114,8 @@ Prijať súbor?"</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Odchádzajúce prenosy</string>
   <string name="outbound_noti_title">Bluetooth zdieľanie: Posielanie súborov</string>
+  <string name="panu_disconnect_while_wifi_connected">Bluetooth tethering odpojený</string>
+  <string name="panu_no_need_connect">Nie je možné použiť Bluetooth tethering pokiaľ ste pripojený na Wi-Fi</string>
   <string name="pbap_acceptance_timeout_message">Bolo zistené oneskorenie pri prijatí spojenia s %1$s</string>
   <string name="pbap_authentication_timeout_message">Bolo zistené oneskorenie pri zadávaní kľúča k spárovaniu s %1$s</string>
   <string name="pbap_session_key_dialog_header">Je požadovaný kľúč k spárovaniu</string>
@@ -178,6 +180,7 @@ Prijať súbor?"</string>
   <string name="status_success">Prenos súboru bol úspešne dokončený</string>
   <string name="status_unknown_error">Neznáma chyba</string>
   <string name="title_bt_mse_settings">Bluetooth MAP nastavenia</string>
+  <string name="too_much_file_sent">Systém nepodporuje odosielanie viac ako 300 súborov súčastne</string>
   <string name="transfer_clear_dlg_msg">Všetky položky budú zmazané zo zoznamu.</string>
   <string name="transfer_clear_dlg_title">Vyčistiť</string>
   <string name="transfer_menu_clear">Vyčistiť zoznam odosielateľov</string>
@@ -200,7 +203,4 @@ Prijať súbor?"</string>
   <string name="upload_succ_line5">Súbor odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s odosielanie dokončené.</string>
-  <string name="panu_disconnect_while_wifi_connected">Bluetooth tethering odpojený</string>
-  <string name="panu_no_need_connect">Nie je možné použiť Bluetooth tethering pokiaľ ste pripojený na Wi-Fi</string>
-  <string name="too_much_file_sent">Systém nepodporuje odosielanie viac ako 300 súborov súčastne</string>
 </resources>

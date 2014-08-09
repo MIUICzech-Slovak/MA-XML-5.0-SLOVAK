@@ -109,6 +109,7 @@ Please check tracking number"</string>
   <string name="menu_remove_black_list">Odstrániť z čiernej listiny</string>
   <string name="mishop_web_payment_title">MiStore</string>
   <string name="module_sms_sent">Textová správa doručená</string>
+  <string name="nearby_average_price">Približne %d RMB</string>
   <string name="network_unavaliable">Sieť je nedostupná, skontrolujte nastavenie siete</string>
   <string name="no_more_result">Viac sa nenašlo</string>
   <string name="notfiy_connect_title">Povolenie siete</string>
@@ -187,5 +188,4 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
-  <string name="nearby_average_price">Približne %d RMB</string>  
 </resources>

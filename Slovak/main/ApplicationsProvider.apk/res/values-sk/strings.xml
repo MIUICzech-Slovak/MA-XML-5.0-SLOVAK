@@ -3,7 +3,7 @@
 <resources>
   <string name="app_label">Vyhľadávanie aplikácií</string>
   <string name="application_desc">Aplikácie</string>
+  <string name="search_empty">Žiadna zhoda</string>
   <string name="search_label">Aplikácie</string>
   <string name="settings_description">Názvy nainštalovaných aplikácii</string>
-  <string name="search_empty">Žiadna zhoda</string>
 </resources>

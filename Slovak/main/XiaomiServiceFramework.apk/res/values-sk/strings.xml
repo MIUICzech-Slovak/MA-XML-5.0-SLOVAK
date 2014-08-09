@@ -91,6 +91,8 @@
   <string name="app_name">Xiaomi Service Framework</string>
   <string name="available_functionality">Dostupné služby</string>
   <string name="bad_authentication">Nesprávne meno alebo heslo</string>
+  <string name="bank_cards">Platobná karta</string>
+  <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po príhlásení sa.</string>
   <string name="bind_sina_weibo">Autorizovať Sina Weibo</string>
   <string name="bind_weibo_description">Nájsť kontakty, priateľov a ostatné informácie priamo z Vášho účtu</string>
   <string name="binded">Prepojené</string>
@@ -124,6 +126,7 @@
   <string name="error_device_id">Nie je možné načítať IMEI</string>
   <string name="error_dup_phone">Telefón bol zaregistrovaný</string>
   <string name="error_invalid_dev_id">Nesprávne ID zariadenia</string>
+  <string name="error_login">Nie je možné sa prihlásiť</string>
   <string name="error_network">Chyba siete</string>
   <string name="error_no_sms_service">SMS služba nie je dostupná</string>
   <string name="error_phone_error">Nesprávne číslo telefónu</string>
@@ -272,6 +275,7 @@ Využité %s | Ostáva %s"</string>
   <string name="reg_type_phone">Registrovať cez číslo telefónu (odporúčané)</string>
   <string name="reging">Registrácia, čakajte prosím...</string>
   <string name="relogin">Znovu prihlásiť</string>
+  <string name="relogin_notice">Musíte sa znova prihlásiť</string>
   <string name="remove_account_notice">Čo si prajete vykonať so synchronizovanými správami, kontaktmi, históriou volaní, a poznámkami vo Vašom zariadení?</string>
   <string name="remove_confirm">Odhlásiť</string>
   <string name="remove_unactivated_account_notice">Xiaomi účet nie je aktivovaný, chcete sa odhlásiť?</string>
@@ -329,8 +333,4 @@ s "</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="bank_cards">Platobná karta</string>
-  <string name="error_login">Nie je možné sa prihlásiť</string>
-  <string name="relogin_notice">Musíte sa znova prihlásiť</string>
-  <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po príhlásení sa.</string>
 </resources>

@@ -474,6 +474,7 @@
   <string name="fdn_contact_added">Povolené telefónne číslo bolo pridané.</string>
   <string name="fdn_contact_deleted">Povolené telefónne číslo bolo vymazané.</string>
   <string name="fdn_contact_updated">Povolené telefónne číslo bolo aktualizované.</string>
+  <string name="fdn_contacts_empty_miui">Žiadne kontakty v zozname fixných čísel.</string>
   <string name="fdn_disabled">Fixné telefónne čísla sú vypnuté</string>
   <string name="fdn_disabled_miui">Fixné telefónne čísla sú vypnuté</string>
   <string name="fdn_enable_puk2_requested">Heslo je nesprávne. Zmeňte kód PIN2 a skúste to znova.</string>
@@ -552,6 +553,9 @@
   <string name="ip_prefix_miui">IP operátora</string>
   <string name="ip_prefix_required_miui">Je potrebné zadať predčíslie IP</string>
   <string name="ip_prefix_sum_miui">"IP (predčíslie zahraničných čísel) operátora je: %s"</string>
+  <string name="ivr_menu_dialing_msg">Presmerovanie...</string>
+  <string name="ivr_menu_list_sub_menu_count_format">Stlačte %s</string>
+  <string name="ivr_menu_list_title">Hlasové menu</string>
   <string name="jituan_number_format_error_message_miui">%s podporuje len čísla a zástupné znaky</string>
   <string name="labelCDMAMore">Nastavenie CDMA hovorov</string>
   <string name="labelCF">Presmerovanie hovorov</string>
@@ -684,6 +688,8 @@
   <string name="no_volte">Unable to make IMS call</string>
   <string name="no_wifi_available">Pre volanie cez internet musíte byť pripojený pomocou Wi-Fi</string>
   <string name="no_wifi_available_title">Wi-Fi pripojenie nedostupné</string>
+  <string name="non_ivr_menu_collapse_menu">Zatvoriť menu</string>
+  <string name="non_ivr_menu_view_menu">Zobraziť menu</string>
   <string name="not_a_valid_port">Číslo portu by malo byť od 1000 do 65534</string>
   <string name="not_allowed">Vaša karta SIM neumožňuje pripojenie do siete.</string>
   <string name="not_connected_miui">Nepripojený</string>
@@ -1196,10 +1202,4 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="ivr_menu_dialing_msg">Presmerovanie...</string>
-  <string name="ivr_menu_list_sub_menu_count_format">Stlačte %s</string>
-  <string name="ivr_menu_list_title">Hlasové menu</string>
-  <string name="non_ivr_menu_collapse_menu">Zatvoriť menu</string>
-  <string name="non_ivr_menu_view_menu">Zobraziť menu</string>
-  <string name="fdn_contacts_empty_miui">Žiadne kontakty v zozname fixných čísel.</string>  
 </resources>

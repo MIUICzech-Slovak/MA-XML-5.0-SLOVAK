@@ -289,6 +289,8 @@
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
   <string name="prex_playcount">Prehrané:</string>
+  <string name="priority_storage">Uložiť na SD kartu</string>
+  <string name="priority_storage_summary">Ukladať súbory automaticky na SD kartu.</string>
   <string name="publish">Odoslať</string>
   <string name="qiyi">iQiyi</string>
   <string name="quarter_bell_alert_button_cancel">zrušiť</string>
@@ -396,6 +398,4 @@
   <string name="yestorday">"Včera "</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="priority_storage">Uložiť na SD kartu</string>
-  <string name="priority_storage_summary">Ukladať súbory automaticky na SD kartu.</string>
 </resources>

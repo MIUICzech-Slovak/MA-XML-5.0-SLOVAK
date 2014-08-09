@@ -1087,6 +1087,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="enable_compatibility">Upraviť veľkosť aplikácie</string>
   <string name="enable_drive_mode">Povoliť režim AUTO</string>
   <string name="enable_firewall">Blokovať nežiaduce hovory</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>
   <string name="enable_opengl_traces_title">Povoliť trasovanie OpenGL</string>
   <string name="enable_quickboot_summary">Prepnúť zariadenie do QuickBoot režimu namiesto bežného vypnutia.</string>
   <string name="enable_quickboot_title">Povoliť QuickBoot režim</string>
@@ -1317,6 +1318,9 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="headset_settings">Slúchadlá</string>
   <string name="heavy_weight_stop_description">Túto aplikáciu nemôžete bezpečne ukončiť. Mohlo by dôjsť k strate časti vašej aktuálnej práce.</string>
   <string name="help_label">Pomoc</string>
+  <string name="high_performance_notif_summary">Batéria sa bude vybíjať rýchlejšie.</string>
+  <string name="high_performance_notif_title">Výkonný režim aktívny.</string>
+  <string name="high_performance_title">Spustili ste Benchmark test. Nastavte "Výkonný režim" pre dosiahnutie najlepších výsledkov.</string>
   <string name="history_details_title">Podrobnosti histórie</string>
   <string name="home_app_uninstall_button">Odinštalovať túto aplikáciu</string>
   <string name="home_key">Tlačidlo Domov</string>
@@ -2349,6 +2353,10 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="print_service_security_warning_title">Použiť službu %1$s?</string>
   <string name="print_settings">Tlač</string>
   <string name="print_settings_title">Tlačové služby</string>
+  <string name="priority_storage_app_settings">Užívateľské dáta budú uložené na %1$s</string>
+  <string name="priority_storage_settings_summary">Ak nie je vložená SD karta, užívateľské dáta budú uložené automaticky na interné úložisko</string>
+  <string name="priority_storage_summary">Vyberte predvolené úložisko pre ukladanie dát</string>
+  <string name="priority_storage_title">Nastavenie úložiska</string>
   <string name="priority_sub_summary">Vybrať prioritu odberu</string>
   <string name="priority_sub_title">Priorita odberu</string>
   <string name="privacy_mode_enable_sum">Skryť zoznam hovorov, správy a ostatné dáta pri aktivovanom súkromnom režime</string>
@@ -3730,12 +3738,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="priority_storage_app_settings">Užívateľské dáta budú uložené na %1$s</string>
-  <string name="priority_storage_settings_summary">Ak nie je vložená SD karta, užívateľské dáta budú uložené automaticky na interné úložisko</string>
-  <string name="priority_storage_summary">Vyberte predvolené úložisko pre ukladanie dát</string>
-  <string name="priority_storage_title">Nastavenie úložiska</string>
-  <string name="high_performance_notif_summary">Batéria sa bude vybíjať rýchlejšie.</string>
-  <string name="high_performance_notif_title">Výkonný režim aktívny.</string>
-  <string name="high_performance_title">Spustili ste Benchmark test. Nastavte "Výkonný režim" pre dosiahnutie najlepších výsledkov.</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>  
 </resources>

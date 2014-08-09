@@ -3,11 +3,11 @@
 <resources>
   <string name="app_name">Príručka</string>
   <string name="bakc_key_toast_txt">Stlačte znova pre ukončenie</string>
-  <string name="loading_userbook">Načítavanie...</string>
-  <string name="non_wifi_not_download_data">Tento balík nie je možné stiahnuť, skúste to znova neskôr.</string>
   <string name="cta_dialog_button_text">Súhlasím a už nezobrazovať</string>
   <string name="cta_dialog_msg">Chystáte sa použiť Príručku poskytovanú Xiaomi. Pre zaručenie jej aktuálnosti je nutné sa pripojiť k sieti a jej obsah stiahnuť do vášho zariadenia. Súhlasíte?</string>
   <string name="cta_dialog_title">Upozornenie</string>
   <string name="downloading_data">Sťahovanie...</string>
   <string name="downloading_error">Chyba sťahovania, skúste to znova neskôr.</string>
+  <string name="loading_userbook">Načítavanie...</string>
+  <string name="non_wifi_not_download_data">Tento balík nie je možné stiahnuť, skúste to znova neskôr.</string>
 </resources>

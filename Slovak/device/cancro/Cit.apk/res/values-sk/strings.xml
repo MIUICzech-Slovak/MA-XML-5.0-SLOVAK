@@ -159,6 +159,8 @@ zapnite GPS z roletky</string>
   <string name="cit_notificationlight_on">Zapnúť notifikácie LED</string>
   <string name="cit_otg_not_supported">Tento telefón nepodporuje Test OTG.</string>
   <string name="cit_pass">Úspešné</string>
+  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
+  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
   <string name="cit_play_sd_mp3_summary">Test prehrá music.mp3 z root SD karty</string>
   <string name="cit_play_sd_mp3_title">Test MP3 prehrávania</string>
   <string name="cit_playing_sd_mp3">Prehráva sa súbor music.mp3...</string>
@@ -337,6 +339,4 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_wifi_ap_scanning">Vyhľadávanie Wi-Fi siete...</string>
   <string name="cit_wifi_fail_to_scan">Nie je možné nájsť žiadnu sieť Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Obnoviť</string>
-  <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
-  <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
 </resources>

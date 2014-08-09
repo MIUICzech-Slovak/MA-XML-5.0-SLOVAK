@@ -209,6 +209,7 @@
   <string name="pref_camera_coloreffect_entry_yesteryear"/>
   <string name="pref_camera_coloreffect_title">Filtre</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
+  <string name="pref_camera_countdown_title">Odpočítavanie</string>
   <string name="pref_camera_current_k_value">Aktuálna hodnota</string>
   <string name="pref_camera_default_suffix">(Predvolené)</string>
   <string name="pref_camera_denoise_title">Odšumenie</string>
@@ -458,6 +459,7 @@
   <string name="show_videos_only">Zobraziť videá</string>
   <string name="simple_mode_button_text_audio_capture">Ukončiť spúšť zvukom</string>
   <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
+  <string name="simple_mode_button_text_countdown">Ukončiť odpočítavanie</string>
   <string name="simple_mode_button_text_face_beauty">Ukončiť vylepšenie tváre</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
@@ -509,6 +511,4 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="pref_camera_countdown_title">Odpočítavanie</string>
-  <string name="simple_mode_button_text_countdown">Ukončiť odpočítavanie</string>
 </resources>
