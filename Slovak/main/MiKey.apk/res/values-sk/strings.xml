@@ -7,6 +7,7 @@
   <string name="action_clear_sms_inbox">Vymazať SMS</string>
   <string name="action_close">Zatvoriť</string>
   <string name="action_home">DOMOV</string>
+  <string name="action_kuaidi">Rýchle taxi</string>
   <string name="action_lock_screen">Zamknúť</string>
   <string name="action_open_camera">Fotoaparát</string>
   <string name="action_open_camera2">Fotografia</string>
@@ -98,6 +99,7 @@
   <string name="flash_lable">Blesk</string>
   <string name="front_camera">Predný fotoaparát</string>
   <string name="goto_update">Aktualizácia</string>
+  <string name="hint_long_press_del">Dlhým podržaním odstránite</string>
   <string name="input_phone">Telefónne číslo</string>
   <string name="long_click">Dlhé stlačenie</string>
   <string name="message_photo_end">Fotografia uložená</string>
