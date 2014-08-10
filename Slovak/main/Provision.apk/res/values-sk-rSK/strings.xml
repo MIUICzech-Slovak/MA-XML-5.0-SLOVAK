@@ -25,7 +25,7 @@
   <string name="setup_complete_summary">Nastavenia dokončené! Užite si MIUI!</string>
   <string name="shutdown">Vypnúť</string>
   <string name="sim_card_detection_dialog_message">Vyhľadávanie SIM karty...</string>
-  <string name="sim_card_detection_info">"Potrebujete SIM kartu ak chcete využívať všetky naše služby ako synchronizáciu kontaktov, fotografií, atď."</string>
+  <string name="sim_card_detection_info">"Potrebujete SIM kartu ak chcete využívať všetky naše služby."</string>
   <string name="sim_card_detection_label">Vyhľadanie SIM karty</string>
   <string name="sim_card_detection_status_absent">SIM karta nenájdená. Vložte SIM kartu a reštartujte telefón alebo pokračujte.</string>
   <string name="traffic_protection_label">Ochrana spotreby mobilných dát</string>
