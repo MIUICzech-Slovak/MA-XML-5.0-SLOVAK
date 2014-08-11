@@ -209,7 +209,7 @@
   <string name="mili_exit_login_info">Ukončiť súčasný Xiaomi účet.</string>
   <string name="mili_exit_login_info_continue">Synchronizácia zlyhala, skontrolujte nastavenie siete a skúste to znova.</string>
   <string name="mili_exit_login_info_continue_tip">Pokračovať?</string>
-  <string name="mili_exit_login_info_exiting">Ukončovanie...</string>
+  <string name="mili_exit_login_info_exiting">Ukončenie...</string>
   <string name="mili_exit_login_info_unbind">Ukončenie odstráni súčasné prepojenie MiBand s telefónom,</string>
   <string name="mili_exit_login_info_unlock">vrátane odomknutia telefónu.</string>
   <string name="mili_name">Názov MiBand</string>
@@ -313,7 +313,7 @@
   <string name="share_step_description_monthly">"Travelled %1$s, %2$s total calories burned %3$sKcal, saved %4$s litres of fuel, walked a total of %5$s per day and %6$s steps"</string>
   <string name="share_step_description_weekly"> "Travelled %1$s,%2$s total calories burned %3$s kcal, highest record is %4$s, walking %5$s steps a day" </string>
   <string name="share_step_goal_failed_title">Celkom ktokov</string>
-  <string name="share_step_goal_failed_title_today">Dnesšný počet krokov</string>
+  <string name="share_step_goal_failed_title_today">Dnešný počet krokov</string>
   <string name="share_step_goal_succ_title">Cieľ splnený</string>
   <string name="share_step_goal_succ_title_today">Total goal achievements today</string>
   <string name="share_step_walk">Prešiel som celkovo</string>
