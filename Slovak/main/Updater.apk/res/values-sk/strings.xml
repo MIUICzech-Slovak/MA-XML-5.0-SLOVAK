@@ -148,7 +148,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="system_backup_helper">Aktualizácia nevymaže vaše užívateľské dáta. Avšak odporúča sa v rámci bezpečnosti tieto dáta zálohovať.</string>
   <string name="system_backup_ok_text">Zálohovať</string>
   <string name="top_secret_build">Tajná verzia</string>
-  <string name="unstable_build">Zastaralá verzia</string>
+  <string name="unstable_build">Stabilná verzia</string>
   <string name="update_comment_hint">(voliteľné)</string>
   <string name="update_comment_title">Komentovať</string>
   <string name="update_feedback">Hodnotenie aktualizácie</string>
