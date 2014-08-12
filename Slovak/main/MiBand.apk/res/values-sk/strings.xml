@@ -217,7 +217,7 @@
   <string name="mili_rename_fail">Premenovanie MiBand sa nepodarilo</string>
   <string name="mili_reset_info">Všetky dáta MiBand budú odstránené, chcete pokračovať?</string>
   <string name="mili_unbind_question">Po odpojení od telefónu už nebude možné príjmať informácie z MiBand</string>
-  <string name="mili_unbind_question_content">Po odpojení od vášho telefónu môžte MiBand spojiť s iným telefónom alebo pripojiť iný MiBand.</string>
+  <string name="mili_unbind_question_content">Po odpojení od vášho telefónu môžete MiBand spojiť s iným telefónom alebo pripojiť iný MiBand.</string>
   <string name="mili_unbind_question_content_1">Ak ste už nastavili odomykanie telefónu pomocou MiBand, táto funkcia bude automaticky deaktivovaná.</string>
   <string name="mininute">min</string>
   <string name="modify_gender">Pohlavie</string>
@@ -312,7 +312,7 @@
   <string name="share_step_description">Prejdené %1$s, spálené kalórie %2$sKcal</string>
   <string name="share_step_description_monthly">"Travelled %1$s, %2$s total calories burned %3$sKcal, saved %4$s litres of fuel, walked a total of %5$s per day and %6$s steps"</string>
   <string name="share_step_description_weekly"> "Travelled %1$s,%2$s total calories burned %3$s kcal, highest record is %4$s, walking %5$s steps a day" </string>
-  <string name="share_step_goal_failed_title">Celkom ktokov</string>
+  <string name="share_step_goal_failed_title">Celkom krokov</string>
   <string name="share_step_goal_failed_title_today">Dnešný počet krokov</string>
   <string name="share_step_goal_succ_title">Cieľ splnený</string>
   <string name="share_step_goal_succ_title_today">Dnešné dosiahnuté výsledky</string>
@@ -327,14 +327,14 @@
   <string name="start">Štart</string>
   <string name="start_download">Sťahovanie...</string>
   <string name="start_use">Začať používať</string>
-  <string name="stat_sleep">Štatistika spánku</string>
+  <string name="stat_sleep">Spánok</string>
   <string name="stat_sleep_achievement">Sleep progress</string>
   <string name="stat_sleep_average">Priemerný denný spánok</string>
-  <string name="stat_sleep_deep">3tatistika hlbokého spánku</string>
+  <string name="stat_sleep_deep">Hlboký spánok</string>
   <string name="stat_sleep_deep_average">Denný hlboký spánok</string>
-  <string name="stat_sleep_rise_time">Čas prebudenia</string>
+  <string name="stat_sleep_rise_time">Prebudenie</string>
   <string name="stat_sleep_rise_time_average">Priemerný čas prebudenia</string>
-  <string name="stat_sleep_shallow">Štatistiky krátkeho spánku</string>
+  <string name="stat_sleep_shallow">Krátky spánok</string>
   <string name="stat_sleep_shallow_average">Ľahky spánok počas dňa</string>
   <string name="stat_sleep_time">Spánok</string>
   <string name="stat_sleep_time_average">Priemerný čas spánku</string>
@@ -343,7 +343,7 @@
   <string name="stat_step_active_average">Priemerná aktivita</string>
   <string name="stat_step_active_total">Celková aktivita</string>
   <string name="stat_step_average">Priemerne krokov</string>
-  <string name="stat_step_calorie_average">Kalŕií priemerne</string>
+  <string name="stat_step_calorie_average">Kalórií priemerne</string>
   <string name="stat_step_calorie_daily">Kalórií denne</string>
   <string name="stat_step_calorie_total">Kalórií celkom</string>
   <string name="stat_step_daily">Počet krokov denne</string>
@@ -371,7 +371,7 @@
   <string name="sync_to_server">Synchronizácia s MiCloud...</string>
   <string name="system_low_info">Vaše zariadenie používa Android 4.3. Aplikácia MiBand nemusí fungovať správne</string>
   <string name="system_low_title">Zastaralá verzia Androidu</string>
-  <string name="system_not_support_info">Vaša verzia Androidu je príliš zastaralá, MiBand vyžaduje pre správnu funkciu aspoň Android 4.4 a novší</string>
+  <string name="system_not_support_info">Vaša verzia Androidu je príliš zastarala, MiBand vyžaduje pre správnu funkciu aspoň Android 4.4 a novší</string>
   <string name="system_not_support_title">Systém nepodporuje MiBand</string>
   <string name="time_format_hour_min">%1$sh %2$smin</string>
   <string name="time_format_min">%s min</string>
@@ -396,10 +396,10 @@
   <string name="unlock_screen_help_tips">V dvoch krokoch nastavte najrýchlejšie odomykanie vášho telefónu</string>
   <string name="unlock_screen_help_title0">Uistite sa, že je MiBand v dosahu</string>
   <string name="unlock_screen_help_title1">Reštartovať Bluetooth pripojenie</string>
-  <string name="unlock_screen_help_title2">Vymazať nastavenie odmknutia s MiBand</string>
+  <string name="unlock_screen_help_title2">Vymazať nastavenie odomknutia s MiBand</string>
   <string name="unlock_screen_invalid">Odomknutie zlyhalo?</string>
   <string name="unlock_screen_invalid_helper">Pomoc pri odomknutí displeja</string>
-  <string name="unlock_screen_miui_version_low">Verzia MIUI je zastaralá, aktualizujte prosím</string>
+  <string name="unlock_screen_miui_version_low">Verzia MIUI je zastarala, aktualizujte prosím</string>
   <string name="unlock_screen_modify_unlock">Ak potrebujete zmeniť vaše nastavenie, choďte do Nastavenia - Zabezpečenie súkromia - Zabezpečenie obrazovky</string>
   <string name="unlock_screen_not_connect">Pripojte MiBand a upravte nastavenie odomknutia</string>
   <string name="unlock_screen_set_password">1. krok, nastavte vaše heslo</string>
