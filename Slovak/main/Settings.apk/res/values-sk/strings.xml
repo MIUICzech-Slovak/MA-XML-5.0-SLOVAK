@@ -1883,7 +1883,7 @@ Nastavenia sú nedostupné"</string>
   <string name="optimize_cache_header_left">Cache súborov: %d</string>
   <string name="optimize_cache_list_empty_content">Žiadne súbory</string>
   <string name="optimize_done">"Všetko v poriadku!"</string>
-  <string name="optimize_installed_apps_header_left">Stiahnuté apl.:%d</string>
+  <string name="optimize_installed_apps_header_left">Nainštalované apl.: %d</string>
   <string name="optimize_installed_apps_list_empty_content">Žiadne aplikácie</string>
   <string name="optimize_large_file_header_left">Veľké súbory: %d</string>
   <string name="optimize_large_file_list_empty_content">Žiadne súbory</string>
@@ -3738,4 +3738,11 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="cache_data_sort_type_item_name">Názov</string>
+  <string name="cache_data_sort_type_item_size">Veľkosť</string> 
+  <string name="deepclean_cache_header_left">Cache súborov: %d</string>
+  <string name="deepclean_sort_type_title">Zoradiť</string>
+  <string name="empty_content_size">Prázdne</string>
+  <string name="large_file_sort_type_item_name">Názov</string>
+  <string name="large_file_sort_type_item_size">Veľkosť</string>
 </resources>
