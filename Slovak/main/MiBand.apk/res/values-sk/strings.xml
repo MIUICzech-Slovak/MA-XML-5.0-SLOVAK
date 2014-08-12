@@ -43,7 +43,7 @@
   <string name="bind_weixin_succ">Connected successfully, use your wechat to try!</string>
   <string name="bind_weixin_tips">"        also, you can use a PC by visiting http://hm.xiaomi.com/login.do to get the QR code, using the WeChat QR code scanner to connect it"</string>
   <string name="bind_weixin_title">" after clicking "connect to Wechat" will create a QR code in your album, use the scan QR code in WeChat then you can connect  "</string>
-  <string name="blue">Modrý</string>
+  <string name="blue">Modrá</string>
   <string name="bluetooth">Bluetooth </string>
   <string name="bmenu_device">Zariadenie</string>
   <string name="bmenu_dynamic">Dynamické</string>
