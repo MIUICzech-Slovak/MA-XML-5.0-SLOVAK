@@ -53,7 +53,7 @@
   <string name="bracelet_info_fw_version">"Firmware: %1$s protokol: %2$s"</string>
   <string name="bracelet_info_mac_address">"Názov: %1$s  adresa: %2$s"</string>
   <string name="bracelet_login_info">Prihláste sa svojim Xiaomi účtom</string>
-  <string name="bracelet_login_info_2">Prihlásením sa, súhlasíte s Podmienkami používania.</string>
+  <string name="bracelet_login_info_2">"Prihlásením sa, súhlasíte s Podmienkami používania. "</string>
   <string name="bracelet_login_title">Vitajte v MiBand</string>
   <string name="bracelet_not_connected_bat_unknown">MiBand nie je pripojený.</string>
   <string name="bracelet_not_found_info">Keď svieti LED, skúste ho vyhľadať znova.</string>
