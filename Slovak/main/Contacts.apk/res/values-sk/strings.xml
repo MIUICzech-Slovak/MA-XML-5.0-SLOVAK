@@ -216,7 +216,7 @@
   <string name="custom_nickname_hint">Vložte oslovenie ako: Pán/Pani</string>
   <string name="date_picker_label">Pripomenúť 3 dni pred narodeninami</string>
   <string name="date_time_set">Nastaviť</string>
-  <string name="date_year_toggle">Zadajte rok</string>
+  <string name="date_year_toggle">Zadať rok</string>
   <string name="default_ringtone">Predvolené zvonenie</string>
   <string name="deleteConfirmation">Tento kontakt bude vymazaný.</string>
   <string name="deleteConfirmationDetail">Kontakt \"%s\" bude vymazaný</string>
