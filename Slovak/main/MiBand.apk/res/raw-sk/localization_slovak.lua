@@ -1,8 +1,7 @@
 -------------------------
--- English Localization String resources
--- Huami Co, ltd. (2014)
--- Herbert dai
--- 20140731
+-- Slovak Localization String resources
+-- miui.cz (2014)
+-- ingbzry
 -------------------------
 localization_Slovak_table = {
     calories_table={
