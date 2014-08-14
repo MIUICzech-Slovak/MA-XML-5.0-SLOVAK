@@ -72,7 +72,7 @@
   <string name="content_too_short">Nie je možné nechať prázdne</string>
   <string name="continue_reach_goal">Pokračovať pre dosiahnutie nových cieľov</string>
   <string name="continue_tips_format">Pokračovať %1$s dní pre dosiahnutie cieľa</string>
-  <string name="daily_sporty">Priemerný počet krokov denne</string>
+  <string name="daily_sporty">Priem. kroky denne</string>
   <string name="date_from_to">%1$s do %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Posledný mesiac</string>
@@ -105,7 +105,7 @@
   <string name="dynamic_detail_step_title">Výsledky aktivít %s</string>
   <string name="dynamic_detail_step_title_today">Výsledky dnešných aktivít</string>
   <string name="dynamic_pull_connect_failed">Spojenie zlyhalo, skúste to znova</string>
-  <string name="dynamic_pull_connect_failed_hint">Skontrolujte, že je MiBand a telefón plne nabitý</string>
+  <string name="dynamic_pull_connect_failed_hint">Je MiBand a telefón nabitý?</string>
   <string name="dynamic_pull_connecting_bracelet">Pripájanie k MiBand...</string>
   <string name="dynamic_pull_last_sync_time">Posledná synchr.</string>
   <string name="dynamic_pull_not_sync_today">Dnes nesynchronizované</string>
