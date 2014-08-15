@@ -5,7 +5,7 @@
   <string name="action_clear_call_list">Delete call logs</string>
   <string name="action_clear_memory">Clear memory</string>
   <string name="action_clear_sms_inbox">Delete messages</string>
-  <string name="action_close">Exit</string>
+  <string name="action_close">Sair</string>
   <string name="action_home">Back</string>
   <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Lockscreen</string>
