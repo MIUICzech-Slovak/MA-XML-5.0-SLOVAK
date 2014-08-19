@@ -99,6 +99,8 @@
   <string name="donot_bind">Preskočiť</string>
   <string name="download_failed">Sťahovanie apk zlyhalo</string>
   <string name="downloading_apk">MiBand apl</string>
+  <string name="dynamic_detail_modify_sleep_end_time">Upraviť čas vstávania</string>
+  <string name="dynamic_detail_modify_sleep_start_time">Upraviť čas spánku</string>
   <string name="dynamic_detail_sleep_title">Celkový spánok %s</string>
   <string name="dynamic_detail_sleep_title_yesterday">Výsledky včerajšieho spánku</string>
   <string name="dynamic_detail_step_share_title">Aktivity %s</string>
@@ -112,10 +114,13 @@
   <string name="dynamic_pull_pull_to_sync">Potiahnite nadol pre synchr.</string>
   <string name="dynamic_pull_release_to_sync">Pustite pre synchr.</string>
   <string name="dynamic_pull_sync_after_connected">Po pripojení sa začne automaticky synchronizovať</string>
+  <string name="dynamic_pull_sync_error">Synchr. zlyhala, skúste to znova</string>
   <string name="dynamic_pull_syncing">Synchr. podrobností...</string>
   <string name="dynamic_pull_syncing_progress">Synchronizované %s%%</string>
   <string name="dynamic_pull_update_report">Aktualizovať %s záznamov</string>
   <string name="dynamic_sleep_active">Aktívny</string>
+  <string name="dynamic_sleep_active_end">Pripravte sa na vstávanie</string>
+  <string name="dynamic_sleep_active_start">Je čas ísť spať</string>
   <string name="dynamic_sleep_deep">Hlboký spánok</string>
   <string name="dynamic_sleep_deep_title">Hlboký spánok %s</string>
   <string name="dynamic_sleep_shallow">Ľahký spánok</string>
@@ -125,6 +130,8 @@
   <string name="dynamic_tip_step_sync_time_hour">%d hodín pred krokmi</string>
   <string name="dynamic_tip_step_sync_time_min">%d minút pred krokmi</string>
   <string name="dynamic_tip_step_unsynced">Kroky sú neaktualizované</string>
+  <string name="dynamic_tip_sync_progress">Synchr. %d%%</string>
+  <string name="dynamic_tip_sync_time">%s synchr.</string>
   <string name="dynamic_tip_unweared">Bez MiBand</string>
   <string name="dynamic_title_sleep">Predchádzajúca noc</string>
   <string name="dynamic_title_step">Dnešné aktivity</string>
@@ -154,10 +161,13 @@
   <string name="fw_failed_help_title0">Čo je Firmware?</string>
   <string name="fw_failed_help_title1">Prečo by som mal aktualizovať Firmware?</string>
   <string name="fw_failed_help_title2">Aktualizácia Firmware zlyhala?</string>
+  <string name="fw_upgrade">Aktualizácia Firmware</string>
   <string name="fw_upgrade_failed">Aktualizácia Firmware zlyhala</string>
   <string name="fw_upgrade_failed_tips">Prepáčte, chyba aktualizácie MiBand môže spôsobiť nesprávnu funkčnosť.</string>
   <string name="fw_upgrade_now">Firmware sa aktualizuje</string>
+  <string name="fw_upgrade_progress">Aktualizácia %s%%</string>
   <string name="fw_upgrade_succ">Firmware je aktualizovaný, počkajte na reštart MiBand</string>
+  <string name="fw_upgrade_tips">升级中请勿让手环远离手机</string>
   <string name="get_help">Pomoc</string>
   <string name="get_image_file_fail">Prijatie obrázku zlyhalo</string>
   <string name="goals_push_five">Splnené 50% z cieľa</string>
@@ -219,7 +229,7 @@
   <string name="mili_unbind_question">Po odpojení od telefónu už nebude možné príjmať informácie z MiBand</string>
   <string name="mili_unbind_question_content">Po odpojení od vášho telefónu môžete MiBand spojiť s iným telefónom alebo pripojiť iný MiBand.</string>
   <string name="mili_unbind_question_content_1">Ak ste už nastavili odomykanie telefónu pomocou MiBand, táto funkcia bude automaticky deaktivovaná.</string>
-  <string name="mininute">min</string>
+  <string name="minute">min</string>
   <string name="modify_gender">Pohlavie</string>
   <string name="modify_height">Výška</string>
   <string name="modify_nickname">Upraviť prezývku</string>
@@ -237,7 +247,9 @@
   <string name="new_record_format_str">Prejdené %1$s, spálené %2$skcal, nový rekord je len krok v mojej dlhej ceste"</string>
   <string name="new_version_available">Dostupná nová verzia</string>
   <string name="next_step">Ďalej</string>
+  <string name="no_network_connection">Žiadne pripojenie</string>
   <string name="no_wear_bracelet">MiBand nebol nosený</string>
+  <string name="no_wear_user_modified">Spustiť sledovanie spánku</string>
   <string name="noti_bracelet_low_battery_content">MiBand má menej ako 5% batérie, pripojte nabíjačku</string>
   <string name="noti_bracelet_low_battery_content_none">MiBand je nutné pripojiť k nabíjačke</string>
   <string name="noti_bracelet_low_battery_title">Slabá batéria v MiBand</string>
@@ -269,6 +281,7 @@
   <string name="reset_mili">Reset MiBand</string>
   <string name="retry">Znova</string>
   <string name="right_hand">Pravá ruka</string>
+  <string name="runed">Zabehnuté</string>
   <string name="s_mili">MiBand</string>
   <string name="search_bracelet">Vyhľadať MiBand</string>
   <string name="search_bracelet_again">Znova vyhľadať</string>
@@ -318,6 +331,10 @@
   <string name="share_step_goal_succ_title_today">Dnešné dosiahnuté výsledky</string>
   <string name="share_step_walk">Prešiel som celkovo</string>
   <string name="share_to_content">MiBand campaign sharing</string>
+  <string name="share_to_miliao_path">选择分享途径</string>
+  <string name="share_to_miliao_target_feeds">分享到圈子</string>
+  <string name="share_to_miliao_target_friends">分享给好友</string>
+  <string name="share_to_miliao_target_union">分享给公会</string>
   <string name="share_to_title">Xiaomi MiBand</string>
   <string name="share_uninstall_client">Aplikácia nie je nainštalovaná, nie je možne zdieľať</string>
   <string name="smart_alarm_clock">Inteligentný budík</string>
