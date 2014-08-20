@@ -3745,4 +3745,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="empty_content_size">Prázdne</string>
   <string name="large_file_sort_type_item_name">Názov</string>
   <string name="large_file_sort_type_item_size">Veľkosť</string>
+  <string name="applications_sort_type_title">Zoradiť</string>
 </resources>
