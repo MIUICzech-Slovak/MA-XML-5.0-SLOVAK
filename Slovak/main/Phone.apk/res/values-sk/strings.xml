@@ -374,6 +374,7 @@
   <string name="dial_pad_autocomplete">Automatická dopĺňanie číselníka</string>
   <string name="dial_related_setting_catory_miui">Vytočiť</string>
   <string name="dialerKeyboardHintText">Číslo vytočíte pomocou klávesnice.</string>
+  <string name="dialog_network_priority_title">Priorita</string>
   <string name="disable">Vypnuté</string>
   <string name="disable_all_cf_miui">Zrušiť presmerovanie hovorov</string>
   <string name="disable_cfb_forbidden">Váš operátor neumožňuje deaktiváciu presmerovania, ak je telefón obsadený.</string>
@@ -494,6 +495,8 @@
   <string name="get_smsc_address_timeout_miui">Vypršal časový limit na zistenie SMS čísla operátora, prosím skúste to neskôr.</string>
   <string name="goPrivate">Súkromné</string>
   <string name="go_private_miui">Súkromné</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Režim siete</string>
+  <string name="gsm_umts_network_preferences_title">Režim siete</string>
   <string name="gsm_umts_options">Možnosti GSM/UMTS</string>
   <string name="hac_mode_summary">Zapnúť režim kompatibility s načúvacím prístrojom</string>
   <string name="hac_mode_summary_miui">Zapne podporu pre načúvací prístroj</string>
@@ -663,6 +666,7 @@
   <string name="national_disable">Národné správy zakázané</string>
   <string name="national_enable">Národné správy povolené</string>
   <string name="network_forbidden_miui">%s (zakázaná)</string>
+  <string name="network_id">ID Siete</string>
   <string name="network_manage_settings">Nastavenie siete</string>
   <string name="network_message">Správa sietí</string>
   <string name="network_query_error">Vyhľadávanie sietí neúspešné.</string>
@@ -1151,6 +1155,8 @@
   <string name="upgrade_vt_prompt">Would you like to upgrade the call to video call?</string>
   <string name="upgrade_vt_rx_prompt">Would you like to upgrade the call to video receive only call?</string>
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
+  <string name="uplmn_list_setting_add_plmn">Nový PLMN</string>
+  <string name="uplmn_list_setting_title">Preferované siete</string>
   <string name="use_ims_default">UseImsDefault</string>
   <string name="use_ims_default_summary">Use IMS for all voice calls</string>
   <string name="use_ims_default_title">Use IMS Always</string>
@@ -1202,10 +1208,4 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="dialog_network_priority_title">Priorita</string>
-  <string name="gsm_umts_network_preferences_dialogtitle">Režim siete</string>
-  <string name="gsm_umts_network_preferences_title">Režim siete</string>
-  <string name="network_id">ID Siete</string>
-  <string name="uplmn_list_setting_add_plmn">Nový PLMN</string>
-  <string name="uplmn_list_setting_title">Preferované siete</string>
 </resources>
