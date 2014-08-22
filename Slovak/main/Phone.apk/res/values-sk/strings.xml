@@ -1202,4 +1202,10 @@
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="dialog_network_priority_title">Priorita</string>
+  <string name="gsm_umts_network_preferences_dialogtitle">Režim siete</string>
+  <string name="gsm_umts_network_preferences_title">Režim siete</string>
+  <string name="network_id">ID Siete</string>
+  <string name="uplmn_list_setting_add_plmn">Nový PLMN</string>
+  <string name="uplmn_list_setting_title">Preferované siete</string>
 </resources>
