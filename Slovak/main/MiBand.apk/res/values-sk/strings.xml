@@ -58,7 +58,7 @@ Súhlas: %2$s"</string>
   <string name="bracelet_info_mac_address">"Názov: %1$s  
 Adresa: %2$s"</string>
   <string name="bracelet_login_info">Prihláste sa svojim Xiaomi účtom</string>
-  <string name="bracelet_login_info_2">"Prihlásením sa, ak súhlasíte s "</string>
+  <string name="bracelet_login_info_2">"Prihlásením sa súhlasíte s "</string>
   <string name="bracelet_login_title">Vitajte v MiBand</string>
   <string name="bracelet_not_connected_bat_unknown">MiBand nie je pripojený.</string>
   <string name="bracelet_not_found_info">Keď bliká LED, skúste ho vyhľadať znova.</string>
@@ -109,7 +109,7 @@ Adresa: %2$s"</string>
   <string name="dynamic_detail_sleep_title">Spánok %s</string>
   <string name="dynamic_detail_sleep_title_yesterday">Včerajší spánok</string>
   <string name="dynamic_detail_step_share_title">Aktivity %s</string>
-  <string name="dynamic_detail_step_title">Výsledky aktivít %s</string>
+  <string name="dynamic_detail_step_title">Výsledky %s</string>
   <string name="dynamic_detail_step_title_today">Dnes</string>
   <string name="dynamic_pull_connect_failed">Spojenie zlyhalo, skúste to znova</string>
   <string name="dynamic_pull_connect_failed_hint">Je MiBand nabitý?</string>
@@ -455,7 +455,7 @@ Highest daily record is %4$s, walked %5$s steps."</string>
   <string name="unlock_screen_set_use_bracelet_tips">Potvrďte heslo zadané v prvom kroku</string>
   <string name="upgrade">Aktualizácia</string>
   <string name="upgrade_tip">Informácie o aktualizácií</string>
-  <string name="user_agreement">Podmienky používania a Ochrany súkromia</string>
+  <string name="user_agreement">Podmienkami používania a Ochrany súkromia</string>
   <string name="visit_micom">Oficálny web Xiaomi</string>
   <string name="wait">Čakajte prosím...</string>
   <string name="walked">prejdené</string>
