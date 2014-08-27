@@ -297,4 +297,5 @@
   <string name="yellow_page_sms_sending">Odosielanie...</string>
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
   <string name="yesterday">"Včera "</string>
+  <string name="miui_micloud_license_title">Súhlas s MiCloud</string>
 </resources>
