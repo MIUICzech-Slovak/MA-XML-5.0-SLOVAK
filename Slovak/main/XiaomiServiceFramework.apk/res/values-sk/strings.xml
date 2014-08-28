@@ -335,4 +335,5 @@ s "</string>
   <string name="xmpp_server_addr"/>
   <string name="user_agreement_p6">Povolením synchr, súhlasíte s </string>
   <string name="user_agreement_p7">"Podmienkami používania MiCloud"</string>
+  <string name="error_ssl_hand_shake">Chyba pripojenia. Skúste nastaviť správny čas na vašom zariadení.</string>
 </resources>
