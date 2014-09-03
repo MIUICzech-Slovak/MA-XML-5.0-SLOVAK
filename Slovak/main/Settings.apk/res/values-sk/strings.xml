@@ -3748,4 +3748,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="ime_privacy_policy">Podmienky súkromia metódy zadávania</string>
   <string name="ime_privacy_policy_no_network">Žiadne internetové pripojenie. Môžete si prečítať podmienky na %s</string>
   <string name="provision_inputmethod_policy_description">Zobraziť podmienky súkromia spojené s vašou metódou zadávania</string>
+  <string name="config_list_label">Nastavené siete</string>
 </resources>

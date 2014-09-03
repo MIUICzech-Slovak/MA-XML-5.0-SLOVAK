@@ -356,4 +356,10 @@ aby ste urobili miesto</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
+  <string name="google_play">Obchod Play</string>
+  <string name="ignore">Ignorovať</string>
+  <string name="kuaipan_alert_message">Stiahnite MiDrive aplikáciu z Obchodu Play a prihláste sa svojim Xiaomi účtom.</string>
+  <string name="kuaipan_alert_title">Upozornenie</string>
+  <string name="kuaipan_app">MiDrive App</string>
+  <string name="kuaipan_can_not_find_play">Obchod Play sa nenašiel</string>
 </resources>
