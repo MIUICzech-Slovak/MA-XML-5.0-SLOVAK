@@ -39,4 +39,5 @@
   <string name="terms_disagree">Zrušiť</string>
   <string name="terms_label">Podmienky používania</string>
   <string name="terms_of_service">Podmienky používania</string>
+  <string name="terms_confirm_info">Používaním tohto zariadenia súhlasíte s %1$s a %2$s</string>
 </resources>

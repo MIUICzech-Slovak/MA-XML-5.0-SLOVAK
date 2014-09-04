@@ -49,9 +49,9 @@
   <string name="activate_popup_title_failed_receive_sms">Aktivácia zlyhala</string>
   <string name="activate_popup_title_failed_send_sms">Aktivácia zlyhala</string>
   <string name="activate_popup_title_failed_server">Aktivácia zlyhala</string>
-  <string name="activate_popup_title_manual">Aktivácia SIM karty</string>
-  <string name="activate_popup_title_new_sim_card">Nová aktivácia SIM karty</string>
-  <string name="activate_popup_title_register_account">Registrovať účet</string>
+  <string name="activate_popup_title_manual">Aktivácia %s</string>
+  <string name="activate_popup_title_new_sim_card">Nová aktivácia %s</string>
+  <string name="activate_popup_title_register_account">Vytvoriť účet</string>
   <string name="activate_status_desc_acquire_phone_number">Načítavanie čísla telefónu zo servera</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Chyba servera počas načítavania čísla telefónu.</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Nie je možné načítať číslo telefónu.</string>
@@ -301,11 +301,11 @@ Využité %s | Ostáva %s"</string>
   <string name="sync_dspt">Použite svoj Xiaomi účet pre synchronizáciu dát</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
-  <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty</string>
-  <string name="sync_sub_1_sms">Bude odoslaná SM pre aktiváciu vašej SIM karty</string>
-  <string name="sync_sub_1_sms_1_intl_sms">Medzinárodná SMS a bežná SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
-  <string name="sync_sub_2_intl_sms">2 medzinárodné SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
-  <string name="sync_sub_2_sms">2 SMS budú odoslané pre aktiváciu vašich SIM kariet</string>
+  <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu %s.</string>
+  <string name="sync_sub_1_sms">Bude odoslaná SM pre aktiváciu %s.</string>
+  <string name="sync_sub_1_sms_1_intl_sms">Medzinárodná SMS a bežná SMS budú odoslané pre aktiváciu %s.</string>
+  <string name="sync_sub_2_intl_sms">2 medzinárodné SMS budú odoslané pre aktiváciu %s.</string>
+  <string name="sync_sub_2_sms">2 SMS budú odoslané pre aktiváciu %s.</string>
   <string name="sync_sub_dspt">Odošle sa SMS pre aktiváciu služby</string>
   <string name="sync_sub_int_dspt">Bude odoslaná medzinárodná SMS pre aktiváciu služby</string>
   <string name="title_reg">Zaregistrujte Xiaomi účet</string>
@@ -336,4 +336,23 @@ s "</string>
   <string name="user_agreement_p6">Povolením synchr, súhlasíte s </string>
   <string name="user_agreement_p7">"Podmienkami používania MiCloud"</string>
   <string name="error_ssl_hand_shake">Chyba pripojenia. Skúste nastaviť správny čas na vašom zariadení.</string>
+  <string name="find_device_additional_alert">Ak vymeníte SIM kartu, automaticky sa odošle SMS pre aktiváciu služieb.</string>
+  <string name="find_device_notice_1">"Ak stratíte vaše zariadneie, môžte navštíviť "</string>
+  <string name="find_device_notice_2">i.mi.com</string>
+  <string name="find_device_notice_3">" pre jeho vyhľadanie, uzamknutie a vymazanie.
+
+Môžete toto nastavenie kedykoľvek zmeniť."</string>
+  <string name="sms_prompt_cloud_messaging">Cloud Správy</string>
+  <string name="sms_prompt_cloud_service">MiCloud Služby</string>
+  <string name="sms_prompt_find_device">Vyhľadať zariadenie</string>
+  <string name="sms_prompt_sync">synchr.</string>
+  <string name="all_cloud_service_dspt">"Vyberte ktoré MiCloud služby chcete používať.
+Vaše nastavenie môžete kedykoľvek zmeniť."</string>
+  <string name="find_device_dspt_in_all_setting_1">"Vyhľadať, zablokovať alebo vymazať vaše zariadenie z prehliadača na "</string>
+  <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+  <string name="find_device_dspt_in_all_setting_3"/>
+  <string name="mx_dspt_in_all_setting">Odoslať SMS správy komukoľvek s MIUI zdarma</string>
+  <string name="sms_prompt_set_all">tieto služby</string>
+  <string name="sms_prompt_set_single">túto službu</string>
+  <string name="sync_dspt_in_all_setting">Synchr. vaše fotografie, SMS správy, poznámky a oveľa viac s vašími zariadeniami.</string>
 </resources>
