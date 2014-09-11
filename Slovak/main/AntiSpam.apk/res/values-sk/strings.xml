@@ -293,4 +293,28 @@
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
+  <string name="STRANGER_BLOCK">Čierna listina</string>
+  <string name="button_to_setting">Nastavenia</string>
+  <string name="dlg_antispam_mode_delete_message">Ak vymažete vlastné pravidlá, nie je možné ich obnoviť späť.</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazať vlastné pravidlá</string>
+  <string name="dlg_message_not_open_stranger_identify">Musíte najskôr povoliť "Rozpoznanie neznámeho čísla" v nastaveniach Telefónu.</string>
+  <string name="dlg_title_not_open_stranger_identify">Povoliť Rozpoznanie neznámeho čísla</string>
+  <string name="mark_agent">Predajca</string>
+  <string name="mark_agent_block">Označené ako Predajca</string>
+  <string name="mark_express">Kuriér</string>
+  <string name="mark_express_block">Označené ako Kuriér</string>
+  <string name="mark_fraud">Podvodník</string>
+  <string name="mark_fraud_block">Označené ako Podvodník</string>
+  <string name="mark_meal">Donáška</string>
+  <string name="mark_meal_block">Označené ako Donáška</string>
+  <string name="mark_number_info">"
+Pamätajte, že niekedy tieto hovory môžu byť užitočné. Blokujte len čísla ktoré už viac nechcete aby vám volali."</string>
+  <string name="mark_sell">Predajca po telefóne</string>
+  <string name="mark_sell_block">Označené ako Predajca</string>
+  <string name="read_all_sms">Všetko prečítané</string>
+  <string name="st_title_markednumber_group">Označené čísla</string>
+  <string name="info_antispam_current_mode">Používate %s</string>
+  <string name="fw_blocked_join">" a "</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
 </resources>
