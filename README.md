@@ -1,4 +1,4 @@
-License of this work is covered below, for more information contact contact@miui.cz
+License of this work is covered below, for more information contact contact@miuios.cz
                                                                  
 SLOVAK Strings for MIUIAndroid MIUIv5 (all supported devices)
 ============================================
@@ -11,8 +11,8 @@ SLOVAK strings by ingbrzy is under a Creative Commons Attribution-NonCommercial-
 
 Based on a work at http://miui.com and http://miuiandroid.com
 
-For more info visit http://miui.cz
+For more info visit http://miuios.cz
 
 MIUI Android Multilang Translation Guide http://miui.connortumbleson.com/dev_guide
 
-MIUI Translation: ingbrzy@miui.cz
+MIUI Translation: ingbrzy@miuios.cz
