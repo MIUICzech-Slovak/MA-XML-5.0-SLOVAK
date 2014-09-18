@@ -354,5 +354,11 @@ Vaše nastavenie môžete kedykoľvek zmeniť."</string>
   <string name="mx_dspt_in_all_setting">Odoslať SMS správy komukoľvek s MIUI zdarma</string>
   <string name="sms_prompt_set_all">tieto služby</string>
   <string name="sms_prompt_set_single">túto službu</string>
-  <string name="sync_dspt_in_all_setting">Synchr. vaše fotografie, SMS správy, poznámky a oveľa viac s vašími zariadeniami.</string>
+  <string name="sync_dspt_in_all_setting">Synchr. vaše fotografie, SMS správy, poznámky a oveľa viac s vašimi zariadeniami.</string>
+  <string name="reg_title">Vytvoriť nový Xiaomi účet cez:</string>
+  <string name="user_agreement_p8">" pre porozumenie aké informácie o vás uchovávame, ako ich používame a aké máte možnosti.
+
+Vytvorením účtu súhlasíte s vyššie uvedenými podmienkami."</string>
+  <string name="error_data_in_transfer">Synchr. bude dokončená o %sh.</string>
+  <string name="error_data_in_transfer_title">MiCloud je nedostupný.</string>
 </resources>

@@ -316,4 +316,13 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
+  <string name="resource_clear_search_history">Vymazať históriu vyhľadávania</string>
+  <string name="resource_clear_search_history_dialog">Vymazať históriu vyhľadávania?</string>
+  <string name="resource_comment_rating_star_tips">Vyberte počet hviezdičiek:</string>
+  <string name="resource_failed_to_load_list">Načítavanie zlyhalo</string>
+  <string name="resource_search_list_empty">Nič sa nenašlo</string>
+  <string name="resource_trial_fail_cancel">OK</string>
+  <string name="resource_trial_fail_go_settings">Nastavenia</string>
+  <string name="resource_trial_fail_message">Uistite sa, že váš čas je nastavený správne.</string>
+  <string name="resource_trial_fail_title">Nebolo možné spustiť skúšobnú dobu</string>
 </resources>
