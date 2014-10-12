@@ -140,6 +140,7 @@
   <string name="toast_fm_not_stated">FM nie je uvedené</string>
   <string name="toast_fm_recorder_internal_error">Chyba nahrávania FM.</string>
   <string name="toast_fm_recorder_storage_full">Úložisko je plné, nie je možné nahrávať</string>
+  <string name="toast_fm_scaning">Vyhľadávanie...</string>
   <string name="toast_fm_seeking">Vyhľadávanie staníc, čakajte prosím</string>
   <string name="toast_fm_starting">FM sa zapína</string>
   <string name="toast_fm_stoping">FM sa ukončuje</string>
