@@ -3750,4 +3750,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="provision_inputmethod_policy_description">Zobraziť podmienky súkromia spojené s vašou metódou zadávania</string>
   <string name="config_list_label">Nastavené siete</string>
   <string name="status_bar_toggle_arrangement">Rozloženie prepínačov</string>
+  <string name="battery_decrease_background_process_summary">Zakázaním spustenia aplikácií na pozadí, môžete znížiť spotrebu batérie a pamäte RAM. Niektoré aplikácie sa nemusia synchronizovať správne!</string>
+  <string name="battery_decrease_background_process_title">Obmedziť procesy na pozadí</string>
 </resources>
