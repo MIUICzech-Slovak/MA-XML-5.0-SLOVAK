@@ -270,4 +270,6 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="roaming_start_body">Povoliť aplikáciam v zozname výnimiek sa pripojiť k mobilným dátam v roamingu.</string>
   <string name="roaming_start_title">Medzinárodný roaming</string>
   <string name="input_used_max_hint">Zadajte spotrebované dáta (menej ako %s)</string>
+  <string name="privacy_declare_dialog_message">Používaním tejto služby súhlasíte s Opera &lt;a href=http://max.oupeng.com/eula.html&gt; Podmienkami používania&lt;/a&gt;.</string>
+  <string name="privacy_declare_dialog_title">Podmienky používania</string>
 </resources>
