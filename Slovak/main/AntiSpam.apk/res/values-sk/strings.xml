@@ -317,4 +317,6 @@ Pamätajte, že niekedy tieto hovory môžu byť užitočné. Blokujte len čís
   <string name="fw_blocked_join">" a "</string>
   <string name="dlg_antispam_using_mode_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
   <string name="dlg_antispam_using_mode_international_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
+  <string name="SMS_SERVICE">Blokovanie Služieb</string>
+  <string name="st_antispam_title_service_sms">Upozornenia Služieb</string>
 </resources>
