@@ -298,4 +298,6 @@
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
   <string name="yesterday">"Včera "</string>
   <string name="miui_micloud_license_title">Súhlas s MiCloud</string>
+  <string name="permdesc_sendSmsNoConfirmation">Povolí aplikácií odoslať SMS. Vaše mesačné poplatky sa môžu výrazne navýšiť ak podvodné aplikácie budú odosielať SMS bez vášho vedomia.</string>
+  <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
 </resources>
