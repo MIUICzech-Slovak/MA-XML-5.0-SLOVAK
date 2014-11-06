@@ -40,4 +40,5 @@
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
+  <string name="size_unknown">Neznáme</string>
 </resources>

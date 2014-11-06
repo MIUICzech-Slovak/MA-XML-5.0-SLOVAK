@@ -400,4 +400,8 @@ ID zariadenia musí byť IMEI alebo MAC adresa. Bez neho nie je možné využív
   <string name="upgrade_space_successful">Úspešne navýšené o %sGB</string>
   <string name="upgrade_space_successful_total">Celkovo %sGB</string>
   <string name="upgrade_space_tb">TB</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Je nutné obnoviť prihlásenie.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnoviť prihlásenie.</string>
+  <string name="micloud_storage_expires_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
+  <string name="micloud_storage_expires_very_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
 </resources>
