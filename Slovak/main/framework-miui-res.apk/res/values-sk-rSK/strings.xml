@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activate">Aktivovať</string>
   <string name="activate_fail_notification_title">Znovu aktivujte synchronizáciu Xiaomi</string>
@@ -137,6 +136,7 @@
   <string name="miui_copyright_title">Autorské práva</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Podmienky používania MiKreditov</string>
+  <string name="miui_micloud_license_title">Súhlas s MiCloud</string>
   <string name="miui_privacy_policy_title">Ochrana osobných údajov</string>
   <string name="miui_unlockscreen_password_wrong">Skúste opäť</string>
   <string name="miui_user_agreement_title">Podmienky použitia</string>
@@ -174,7 +174,9 @@
   <string name="perm_tigger_toggle_lab">Použiť prepínače zo stav. lišty</string>
   <string name="perm_use_find_device">Zistiť polohu zariadenia</string>
   <string name="permdesc_accessNote">Povolí aplikácií čítať a upraviť Vaše poznámky uložené v telefóne.</string>
+  <string name="permdesc_sendSmsNoConfirmation">Povolí aplikácií odoslať SMS. Vaše mesačné poplatky sa môžu výrazne navýšiť ak podvodné aplikácie budú odosielať SMS bez vášho vedomia.</string>
   <string name="permlab_accessNote">Prístup k poznámkam</string>
+  <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
   <string name="pin_operation_failed">PIN zlyhal.</string>
   <string name="pincode_set_to_default_msg">PIN je nastavený na 1234, nastavte nový PIN.</string>
   <string name="private_num">Súkromné číslo</string>
@@ -297,7 +299,4 @@
   <string name="yellow_page_sms_sending">Odosielanie...</string>
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
   <string name="yesterday">"Včera "</string>
-  <string name="miui_micloud_license_title">Súhlas s MiCloud</string>
-  <string name="permdesc_sendSmsNoConfirmation">Povolí aplikácií odoslať SMS. Vaše mesačné poplatky sa môžu výrazne navýšiť ak podvodné aplikácie budú odosielať SMS bez vášho vedomia.</string>
-  <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
 </resources>

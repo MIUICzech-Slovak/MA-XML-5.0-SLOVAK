@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="ACaddnumcontent">Zadajte začiatok čísla, systém automaticky pridá *</string>
   <string name="ACaddnumtitle">Pridať predvoľbu do výnimiek</string>
@@ -34,17 +33,21 @@
   <string name="SMS_KEYWORDS">Blokovať kľúčové slová</string>
   <string name="SMS_MODENAME">Neinteligentné SMS</string>
   <string name="SMS_PREFIX">Číslo SMS</string>
+  <string name="SMS_SERVICE">Blokovanie Služieb</string>
   <string name="SMSpass">SMS</string>
+  <string name="STRANGER_BLOCK">Čierna listina</string>
   <string name="ad_block_hint">Blokované: %d</string>
   <string name="ad_install_monitor">Kontrola inštalácií</string>
   <string name="ad_install_monitor_hint">Inštalovaná aplikácia je kontrolovaná na prítomnosť Adware</string>
   <string name="ad_permission_hint">Používanie blokovania reklám môže ovplyvniť výkon aplikácií alebo ich funkčnosť.</string>
   <string name="ad_relative_setting">Nastavenia</string>
   <string name="ad_single_block_hint">Blokované</string>
+  <string name="ad_update_check_text">Aktualizovať automaticky</string>
   <string name="ad_update_setting">Aktualizácia databázy</string>
   <string name="ad_update_time">Aktualizované: %s</string>
   <string name="ad_update_time_unKnown">Aktualizované: Neznáme</string>
   <string name="ad_update_title">Automatická aktualizácia</string>
+  <string name="ad_update_warn_info">Verzia blokovania reklám bude odoslaná na Xiaomi server pre kontrolu aktualizácií</string>
   <string name="address_choose_hint">%1$s, %2$s a %3$d regióny</string>
   <string name="addwhitelist">Pridať do výnimiek</string>
   <string name="all_address_choose_hint">Všetky regióny</string>
@@ -58,6 +61,7 @@
   <string name="blacklist_prefix_add_hint">Pridať všetky čísla s predvoľbou do Čiernej listiny</string>
   <string name="block_message_number">SMS: %d</string>
   <string name="block_phone_number">Hovory: %d</string>
+  <string name="button_to_setting">Nastavenia</string>
   <string name="call_delete_hint">Vymazať všetky blokované hovory z vybraného čísla?</string>
   <string name="cancle">Zrušiť</string>
   <string name="close_callwait">Zakázať</string>
@@ -68,6 +72,10 @@
   <string name="dlg_add_keyword">Kľúčové slová</string>
   <string name="dlg_add_manual_hint">Zadajte telefónne číslo</string>
   <string name="dlg_add_manual_ok">Pridať</string>
+  <string name="dlg_antispam_mode_delete_message">Ak vymažete vlastné pravidlá, nie je možné ich obnoviť späť.</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazať vlastné pravidlá</string>
+  <string name="dlg_antispam_using_mode_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
   <string name="dlg_bl_add_manual">Zadať telefónne číslo manuálne</string>
   <string name="dlg_black_address_antispam_message">Pridať túto predvoľbu do Čiernej listiny a blokovať ju?</string>
   <string name="dlg_black_antispam_hint">AntiSpam</string>
@@ -86,6 +94,7 @@
   <string name="dlg_import_blacklist">Pridávanie na čiernu listinu</string>
   <string name="dlg_import_whitelist">Pridávanie na VIP zoznam</string>
   <string name="dlg_keyword_ok">Uložiť</string>
+  <string name="dlg_message_not_open_stranger_identify">Musíte najskôr povoliť "Rozpoznanie neznámeho čísla" v nastaveniach Telefónu.</string>
   <string name="dlg_no_block">Odblokovat toto číslo?</string>
   <string name="dlg_no_block_ok">Odblokovat</string>
   <string name="dlg_remove_address_blacklist">Odobrať tento región z Čiernej listiny a obnoviť všetky SMS?</string>
@@ -97,6 +106,7 @@
   <string name="dlg_remove_whitelist_ing">Odoberanie z výnimiek...</string>
   <string name="dlg_retore">Obnoviť tieto SMS správy?</string>
   <string name="dlg_retore_ok">Obnoviť</string>
+  <string name="dlg_title_not_open_stranger_identify">Povoliť Rozpoznanie neznámeho čísla</string>
   <string name="dlg_white_address_antispam_message">Pridať túto predvoľbu do výnimiek a povoliť ju?</string>
   <string name="dlg_white_antispam_hint">Výnimky</string>
   <string name="dlg_white_antispam_message">Pridať toto číslo do výnimiek a povoliť ho?</string>
@@ -104,7 +114,9 @@
   <string name="fw_blocked_count" formatted="false">"Blokované: "</string>
   <string name="fw_blocked_count_call">Hovory (%d)</string>
   <string name="fw_blocked_count_sms">SMS (%d)</string>
+  <string name="fw_blocked_join">" a "</string>
   <string name="hint_antispam_mode_edit">Vlastný režim</string>
+  <string name="info_antispam_current_mode">Používate %s</string>
   <string name="info_antispam_phone">Blokovať Hovory</string>
   <string name="info_antispam_phone_sms">Blokovať SMS a Hovory</string>
   <string name="info_antispam_sms">Blokovať SMS</string>
@@ -113,6 +125,18 @@
   <string name="info_unantispam_sms">Povoliť SMS</string>
   <string name="label_callwait">Čakajúci hovor</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_agent">Predajca</string>
+  <string name="mark_agent_block">Označené ako Predajca</string>
+  <string name="mark_express">Kuriér</string>
+  <string name="mark_express_block">Označené ako Kuriér</string>
+  <string name="mark_fraud">Podvodník</string>
+  <string name="mark_fraud_block">Označené ako Podvodník</string>
+  <string name="mark_meal">Donáška</string>
+  <string name="mark_meal_block">Označené ako Donáška</string>
+  <string name="mark_number_info">"
+Pamätajte, že niekedy tieto hovory môžu byť užitočné. Blokujte len čísla ktoré už viac nechcete aby vám volali."</string>
+  <string name="mark_sell">Predajca po telefóne</string>
+  <string name="mark_sell_block">Označené ako Predajca</string>
   <string name="marked_by_others">"%d ľudí označilo ako "</string>
   <string name="marked_by_user">"ste označili ako "</string>
   <string name="menu_add">Pridať</string>
@@ -170,6 +194,7 @@
   <string name="qm_vip_list_custom_group">Moje VIP</string>
   <string name="qm_vip_list_group">Zoznam VIP</string>
   <string name="quiet_mode">Tichý režim</string>
+  <string name="read_all_sms">Všetko prečítané</string>
   <string name="report">Nahlásiť</string>
   <string name="report_error">Ďakujeme za nahlásenie, informácie budú automaticky odoslané po pripojení k Wi-Fi.</string>
   <string name="report_only">Vyberte aspoň jednu správu</string>
@@ -210,6 +235,7 @@
   <string name="st_antispam_title_contact_sms">SMS od kontaktov</string>
   <string name="st_antispam_title_contactandanoy_group">Neznáme čísla</string>
   <string name="st_antispam_title_null_incoming">Skryté čísla</string>
+  <string name="st_antispam_title_service_sms">Upozornenia Služieb</string>
   <string name="st_antispam_title_whitelist">Výnimky</string>
   <string name="st_block_all">Blokovať hovory a SMS</string>
   <string name="st_block_mute">Blokovať hovory a stlmiť SMS</string>
@@ -271,6 +297,7 @@
   <string name="st_title_man_editwhitelist">Vyberte mesto pre povolenie</string>
   <string name="st_title_man_head_addblacklist">Pridať predvoľbu na Čiernu listinu</string>
   <string name="st_title_man_head_addwhitelist">Pridať predvoľbu do výnimiek</string>
+  <string name="st_title_markednumber_group">Označené čísla</string>
   <string name="st_title_mode_choose_group">Výber režimu blokovania</string>
   <string name="st_title_not_sim">Prázdna</string>
   <string name="st_title_open_antispam">AntiSpam</string>
@@ -293,32 +320,4 @@
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
-  <string name="STRANGER_BLOCK">Čierna listina</string>
-  <string name="button_to_setting">Nastavenia</string>
-  <string name="dlg_antispam_mode_delete_message">Ak vymažete vlastné pravidlá, nie je možné ich obnoviť späť.</string>
-  <string name="dlg_antispam_mode_delete_title">Vymazať vlastné pravidlá</string>
-  <string name="dlg_message_not_open_stranger_identify">Musíte najskôr povoliť "Rozpoznanie neznámeho čísla" v nastaveniach Telefónu.</string>
-  <string name="dlg_title_not_open_stranger_identify">Povoliť Rozpoznanie neznámeho čísla</string>
-  <string name="mark_agent">Predajca</string>
-  <string name="mark_agent_block">Označené ako Predajca</string>
-  <string name="mark_express">Kuriér</string>
-  <string name="mark_express_block">Označené ako Kuriér</string>
-  <string name="mark_fraud">Podvodník</string>
-  <string name="mark_fraud_block">Označené ako Podvodník</string>
-  <string name="mark_meal">Donáška</string>
-  <string name="mark_meal_block">Označené ako Donáška</string>
-  <string name="mark_number_info">"
-Pamätajte, že niekedy tieto hovory môžu byť užitočné. Blokujte len čísla ktoré už viac nechcete aby vám volali."</string>
-  <string name="mark_sell">Predajca po telefóne</string>
-  <string name="mark_sell_block">Označené ako Predajca</string>
-  <string name="read_all_sms">Všetko prečítané</string>
-  <string name="st_title_markednumber_group">Označené čísla</string>
-  <string name="info_antispam_current_mode">Používate %s</string>
-  <string name="fw_blocked_join">" a "</string>
-  <string name="dlg_antispam_using_mode_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">"Vymazať profil Čiernej listiny ktorý práve používate a nastaviť predvolený profil? Túto akciu nie je možné vrátiť späť!"</string>
-  <string name="SMS_SERVICE">Blokovanie Služieb</string>
-  <string name="st_antispam_title_service_sms">Upozornenia Služieb</string>
-  <string name="ad_update_check_text">Aktualizovať automaticky</string>
-  <string name="ad_update_warn_info">Verzia blokovania reklám bude odoslaná na Xiaomi server pre kontrolu aktualizácií</string>
 </resources>

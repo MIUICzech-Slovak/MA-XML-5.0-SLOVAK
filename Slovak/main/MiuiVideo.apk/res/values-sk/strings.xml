@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_app_name">MIUIVideo</string>
   <string name="about_developer_label">Vývojár</string>
@@ -8,6 +7,7 @@
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzia:</string>
   <string name="actors_colon">"Obsadenie: "</string>
+  <string name="ad_moredetail">Viac</string>
   <string name="add_more_addons">Pridať viac špeciálov</string>
   <string name="add_review">Komentovať</string>
   <string name="addon"/>
@@ -181,6 +181,7 @@
   <string name="live_tabs_all">Všetko</string>
   <string name="live_tabs_choice">Zvolené</string>
   <string name="live_tabs_hot">Populárne</string>
+  <string name="live_tabs_my">Moje Kanály</string>
   <string name="live_title">Naživo</string>
   <string name="livetv">Naživo</string>
   <string name="load_data_failed">"Nie je možné sa pripojiť k sieti"</string>
@@ -288,6 +289,7 @@
   <string name="post_playcount">" krát"</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
+  <string name="prefix_countdown">Reklama:</string>
   <string name="prex_playcount">Prehrané:</string>
   <string name="priority_storage">Uložiť na SD kartu</string>
   <string name="priority_storage_summary">Ukladať súbory automaticky na SD kartu.</string>
@@ -318,6 +320,8 @@
   <string name="select_media_source">Zvoľte zdroj videa</string>
   <string name="series_colon">"Epizódy: "</string>
   <string name="setting">Nastavenia</string>
+  <string name="setting_network_alert">Upozornenie na pripojenie</string>
+  <string name="setting_network_alert_summery">Zobraziť upozornenie pred pripojením na internet</string>
   <string name="setting_use_network">Povoliť využívanie internetu</string>
   <string name="setting_use_network_summery">Video aplikácia bude používať internetové pripojenie</string>
   <string name="show_hidemedia">Zobraziť skryté súbory</string>
@@ -333,6 +337,7 @@
   <string name="success_cancel_myfavorite">Odznačené</string>
   <string name="success_cancel_waitfornewset">Stopped following</string>
   <string name="success_to_cancel_myfavorite">Zrušené</string>
+  <string name="suffix_countdown">s</string>
   <string name="sure">Súhlasím</string>
   <string name="tags_colon">"Žáner: "</string>
   <string name="temp_play_history_button_label">Zobraziť históriu</string>
@@ -378,16 +383,16 @@
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Prepáčte ale vybrané video nie je možné streamovať do zariadenia</string>
   <string name="vp_VideoView_error_text_unknown">Prepáčte ale vybraný formát súboru nie je možné prehrať</string>
   <string name="vp_VideoView_error_title">Chyba prehrávania videa!</string>
+  <string name="vp_closedialog">OK</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_high_definition">HD</string>
+  <string name="vp_hint">Tipy</string>
+  <string name="vp_maintitlearea">Pre sledovanie filmov v HD, stlačte tlačidlo OK.</string>
   <string name="vp_next_ci">Ďalej</string>
   <string name="vp_offline">Offline</string>
   <string name="vp_select_ci">Vybrať</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
-  <string name="vp_closedialog">OK</string>
-  <string name="vp_hint">Tipy</string>
-  <string name="vp_maintitlearea">Pre sledovanie filmov v HD, stlačte tlačidlo OK.</string>
   <string name="waitfornewset">Sledovať</string>
   <string name="waitfornewset_tip_content">Budete upozornený ak bude dostupná nová epizóda.</string>
   <string name="wasu">Wasu</string>
@@ -401,10 +406,4 @@
   <string name="yestorday">"Včera "</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="ad_moredetail">Viac</string>
-  <string name="live_tabs_my">Moje Kanály</string>
-  <string name="prefix_countdown">Reklama:</string>
-  <string name="setting_network_alert">Upozornenie na pripojenie</string>
-  <string name="setting_network_alert_summery">Zobraziť upozornenie pred pripojením na internet</string>
-  <string name="suffix_countdown">s</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Folders">Zložky</string>
   <string name="abc_action_bar_home_description">Domov</string>
@@ -401,10 +400,13 @@
   <string name="invalid_recipient">Adresa %s je neplatná.</string>
   <string name="kilobytes">%s kB</string>
   <string name="label_notification_ticker" formatted="false">%s: %s</string>
+  <string name="load_from_remote">Pokračovať vo vyhľadávaní na serveri</string>
   <string name="load_more">Načítať ďalšie</string>
   <string name="loading_conversation">Prebieha načítavanie...</string>
   <string name="loading_conversations">Načítavanie…</string>
+  <string name="loading_from_remote">Vyhľadávanie na serveri...</string>
   <string name="local_search">Miestné vyhľadávanie</string>
+  <string name="local_search_result">Správ nájdených v zariadení: %s</string>
   <string name="login">Prihlásiť</string>
   <string name="login_failed_ticker">Prihlásenie do účtu %s zlyhalo.</string>
   <string name="login_failed_title">Prihlásenie sa nepodarilo</string>
@@ -552,6 +554,9 @@ presahuje limit"</string>
   <string name="password_expired_dialog_content_fmt">V zariadení prebieha vymazanie údajov účtu %s. Môžete ich obnoviť zmenou kódu PIN alebo hesla na uzamknutie obrazovky. Chcete to zmeniť teraz?</string>
   <string name="password_expired_dialog_title">Heslo na uzamknutie obrazovky vypršalo</string>
   <string name="password_expired_ticker">Platnosť kódu PIN alebo hesla na uzamknutie obrazovky vypršala.</string>
+  <string name="perference_change_pw">Aktualizovať heslo</string>
+  <string name="perference_change_pw_notnull_tips">Heslo nesmie byť prázdne</string>
+  <string name="perference_change_pw_ok_tips">Heslo aktualizované</string>
   <string name="permission_access_provider_desc">Povoľuje aplikácii prístup do databázy e-mailu vrátane prijatých a odoslaných správ, používateľských mien a hesiel.</string>
   <string name="permission_access_provider_label">Prístup k údajom poskytovateľa e-mailu</string>
   <string name="permission_read_attachment_desc">Povoľuje aplikácii čítať prílohy vašich e-mailov.</string>
@@ -605,6 +610,7 @@ presahuje limit"</string>
   <string name="preferences_signature_dialog_title">Podpis</string>
   <string name="preferences_signature_summary_not_set">Nenastavené</string>
   <string name="preferences_signature_title">Podpis</string>
+  <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Ukážka</string>
   <string name="previous_action">Predchádzajúce</string>
   <string name="prompt_title">Výzva</string>
@@ -627,6 +633,8 @@ presahuje limit"</string>
   <string name="refreshing">Aktualizácia...</string>
   <string name="release_to_refresh">Pustite pre obnovenie</string>
   <string name="remote_folders_heading">Zložky servera</string>
+  <string name="remote_search">Všetky správy na serveri</string>
+  <string name="remote_search_result">Správ nájdených na serveri: %s</string>
   <string name="remove_account">Odobrať účet</string>
   <string name="remove_account_confirm">Účet \"%1$s\" bude odobraný</string>
   <string name="remove_folder">Odstrániť z priečinka %1$s</string>
@@ -769,13 +777,4 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="load_from_remote">Pokračovať vo vyhľadávaní na serveri</string>
-  <string name="loading_from_remote">Vyhľadávanie na serveri...</string>
-  <string name="local_search_result">Správ nájdených v zariadení: %s</string>
-  <string name="perference_change_pw">Aktualizovať heslo</string>
-  <string name="perference_change_pw_notnull_tips">Heslo nesmie byť prázdne</string>
-  <string name="perference_change_pw_ok_tips">Heslo aktualizované</string>
-  <string name="prefetched_got_it">OK</string>
-  <string name="remote_search">Všetky správy na serveri</string>
-  <string name="remote_search_result">Správ nájdených na serveri: %s</string>
 </resources>

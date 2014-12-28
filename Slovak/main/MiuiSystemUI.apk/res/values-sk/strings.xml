@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accessibility_airplane_mode">Lietadlo</string>
   <string name="accessibility_back">Späť</string>
@@ -273,6 +272,8 @@ d. MMMM yyyy"</string>
   <string name="toast_rotation_locked">Displej je uzamknutý v režime na šírku</string>
   <string name="torch_activity_hint">Svietidlo môžete tiež zapnúť podržaním tlačidla [icon] na zamykacej obrazovke</string>
   <string name="torch_activity_name">Svietidlo</string>
+  <string name="torch_closed">Svietidlo vyp.</string>
+  <string name="torch_opened">Svietidlo zap.</string>
   <string name="usb_accessory_confirm_prompt">Otvoriť %1$s keď je pripojené USB príslušenstvo?</string>
   <string name="usb_accessory_permission_prompt">Povoliť aplikácii %1$s prístup k USB zariadeniu?</string>
   <string name="usb_accessory_uri_prompt">Žiadna nainštalovaná aplikácia nepracuje s týmto USB príslušenstvom. Viac o tomto príslušenstve sa dozviete na %1$s</string>
@@ -305,6 +306,4 @@ d. MMMM yyyy"</string>
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
-  <string name="torch_closed">Svietidlo vyp.</string>
-  <string name="torch_opened">Svietidlo zap.</string>
 </resources>

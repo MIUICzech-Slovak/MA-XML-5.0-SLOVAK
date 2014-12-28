@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Only_the_wifi">Efektívne len cez Wi-Fi</string>
   <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
@@ -24,6 +23,9 @@
   <string name="deselect_all">Zrušiť výber všetkého</string>
   <string name="determine">Potvrdiť</string>
   <string name="dialog_cannot_resume">Sťahovanie bolo prerušené a nie je možné v ňom pokračovať.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Vymazať aj uložený súbor</string>
+  <string name="dialog_confirm_delete_downloads_message">Vymazať úlohy (%d)?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Vymazať tieto úlohy</string>
   <string name="dialog_failed_body">Chcete tento súbor skúsiť znova prevziať neskôr, alebo ho chcete zo zoznamu odstrániť?</string>
   <string name="dialog_file_already_exists">Nepodarilo sa prevziať. Cieľový súbor už existuje.</string>
   <string name="dialog_file_missing_body">Prevzatý súbor sa nepodarilo nájsť.</string>
@@ -35,6 +37,7 @@
   <string name="dialog_title_not_available">Nepodarilo sa prevziať</string>
   <string name="dialog_title_queued_body">Súbor v poradí</string>
   <string name="disable">Deaktivovať</string>
+  <string name="display_expire_netiv1">Prístup na mesiac</string>
   <string name="download_complete">Stiahnuté</string>
   <string name="download_error">Neúspešné</string>
   <string name="download_error_insufficient_space">Nedostatok miesta</string>
@@ -115,6 +118,7 @@
   <string name="select_all">Vybrať všetko</string>
   <string name="select_operation_items">Prosím, vyberte položku operácie</string>
   <string name="selected_count">Vybrané: %1$d z %2$d</string>
+  <string name="size_unknown">Neznáme</string>
   <string name="turn_off_xunlei_message">Môže spôsobiť pomalšie sťahovanie dát.</string>
   <string name="turn_off_xunlei_tips">Xunlei sťahovanie je deaktivované</string>
   <string name="turn_off_xunlei_title">Deaktivovať Xunlei sťahovanie</string>
@@ -123,9 +127,4 @@
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="display_expire_netiv1">Prístup na mesiac</string>
-  <string name="dialog_confirm_delete_checkbox_message">Vymazať aj uložený súbor</string>
-  <string name="dialog_confirm_delete_downloads_message">Vymazať úlohy (%d)?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Vymazať tieto úlohy</string>
-  <string name="size_unknown">Neznáme</string>
 </resources>

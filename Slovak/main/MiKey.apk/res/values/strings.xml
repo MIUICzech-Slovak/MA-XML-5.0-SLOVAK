@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="action_baidusearch">Baidu search</string>
   <string name="action_capture_video">Video</string>
@@ -23,6 +22,9 @@
   <string name="action_key_play_prev">Prev</string>
   <string name="action_key_power">Power</string>
   <string name="action_key_power_long">Power (Long press)</string>
+  <string name="action_key_vol">Volume keys</string>
+  <string name="action_key_vol_down">Volume down</string>
+  <string name="action_key_vol_up">Volume up</string>
   <string name="action_kuaidi">Quick taxi</string>
   <string name="action_lock_screen">Lockscreen</string>
   <string name="action_open_camera">Camera</string>
@@ -181,6 +183,7 @@
   <string name="select_camera">Select camera</string>
   <string name="select_device">Select device</string>
   <string name="select_direction">Directions</string>
+  <string name="select_vol">Please select the volume keys</string>
   <string name="setting_buy">Buy MiKeys</string>
   <string name="setting_feedback">Feedback</string>
   <string name="setting_instant_photo_desc">"Before taking a picture, the camera focuses"</string>
@@ -240,6 +243,8 @@ From the top of the screen slide downwards to use it."</string>
   <string name="test_user_entry">Test</string>
   <string name="times">times</string>
   <string name="title">Title:</string>
+  <string name="toast_audio_record_start">Start Recording</string>
+  <string name="toast_audio_record_stop">Stop Recording</string>
   <string name="toast_close">Closed</string>
   <string name="toast_open">Open</string>
   <string name="toggle_bluetooth">Bluetooth</string>
@@ -257,10 +262,6 @@ From the top of the screen slide downwards to use it."</string>
   <string name="unsupport_title">This feature is not supported</string>
   <string name="update_message">Update!</string>
   <string name="vcard_prompt">Contact can not be added because there is no name</string>
-  <string name="web">Website:</string>
-  <string name="write_pic_fail">Failed to save picture!</string>
-  <string name="toast_audio_record_start">Start Recording</string>
-  <string name="toast_audio_record_stop">Stop Recording</string>
   <string name="wallpaper_action">Change Wallpaper</string>
   <string name="wallpaper_change_both">Desktop + Lockscreen</string>
   <string name="wallpaper_change_desktop">Desktop wallpaper</string>
@@ -270,8 +271,6 @@ From the top of the screen slide downwards to use it."</string>
   <string name="wallpaper_change_ok">Wallpaper changed</string>
   <string name="wallpaper_changing">Changing wallpaper...</string>
   <string name="wallpaper_no_more">Dont replace wallpaper</string>
-  <string name="select_vol">Please select the volume keys</string>
-  <string name="action_key_vol">Volume keys</string>
-  <string name="action_key_vol_down">Volume down</string>
-  <string name="action_key_vol_up">Volume up</string>
+  <string name="web">Website:</string>
+  <string name="write_pic_fail">Failed to save picture!</string>
 </resources>
