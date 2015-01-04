@@ -778,4 +778,16 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="chat_view_title">Konverzácie</string>
+  <string name="check_setup_data">Kontrola nastavenia servera...</string>
+  <string name="delete_conversation_hint_message">Vymazané %2$s (%1$d)</string>
+  <string name="downloading_message_body">Sťahovanie správy, čakajte prosím...</string>
+  <string name="feedback_sent">Ďakujeme za váš názor.</string>
+  <string name="message_body_auto_download_complete">Automaticky stiahnuť email pomocou Wi-Fi</string>
+  <string name="message_body_auto_download_tip">Obsah správy bude stiahnutý len na Wi-Fi sieti</string>
+  <string name="message_body_download_failed">>Spojenie vypršalo.</string> 
+  <string name="message_type_name">správa</string>
+  <string name="network_not_available">Sieť je nedostupná, skúste to znova neskôr</string>
+  <string name="no_contacts">Prázdne</string>
+  <string name="tryrefreshing">Skúste obnoviť...</string>
 </resources>

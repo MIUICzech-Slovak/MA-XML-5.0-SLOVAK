@@ -657,4 +657,11 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
+  <string name="data_traffic_prompt_change">Nie je dostupná Wi-Fi. Ak budete pokračovať v prehrávaní, môže to navýšiť vaše poplatky. Pokračovať?</string>
+  <string name="data_traffic_prompt_message">Ste pripojený na mobilné dáta. Ak budete pokračovať, môže to navýšiť vaše poplatky. Pokračovať?</string>
+  <string name="data_traffic_prompt_title">Spotreba mobilných dát</string>
+  <string name="maximum_input_alert">Maximálne 2048 znakov</string>
+  <string name="video_project_button">Zastaviť</string>
+  <string name="video_project_msg">Video je odosielané do %s</string>
+  <string name="video_project_title">Prehrávanie videa</string>
 </resources>
