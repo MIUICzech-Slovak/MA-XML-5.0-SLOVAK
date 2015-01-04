@@ -134,15 +134,21 @@ Nepotrebné súbory"</string>
   <string name="gbk_summary">Predvolené kódovanie pre Windows s tradičnou čínštinou</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Zrušiť čistenie</string>
+  <string name="google_play">Obchod Play</string>
   <string name="header_text_cleaned">Vymazané súbory</string>
   <string name="header_text_cleaning">Ostáva súborov</string>
   <string name="header_text_scanned">Nájdených súborov</string>
   <string name="header_text_scanning">Vyhľadávanie...</string>
+  <string name="ignore">Ignorovať</string>
   <string name="image_download">Stiahnuť</string>
   <string name="image_share">Zdieľať</string>
   <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
   <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
   <string name="item_name">Bez mena</string>
+  <string name="kuaipan_alert_message">Stiahnite MiDrive aplikáciu z Obchodu Play a prihláste sa svojim Xiaomi účtom.</string>
+  <string name="kuaipan_alert_title">Upozornenie</string>
+  <string name="kuaipan_app">MiDrive App</string>
+  <string name="kuaipan_can_not_find_play">Obchod Play sa nenašiel</string>
   <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">Váš MiDrive už nemá voľné miesto.</string>
   <string name="kuaipan_prompt">MiDrive Pomoc</string>
@@ -356,10 +362,4 @@ aby ste urobili miesto</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="google_play">Obchod Play</string>
-  <string name="ignore">Ignorovať</string>
-  <string name="kuaipan_alert_message">Stiahnite MiDrive aplikáciu z Obchodu Play a prihláste sa svojim Xiaomi účtom.</string>
-  <string name="kuaipan_alert_title">Upozornenie</string>
-  <string name="kuaipan_app">MiDrive App</string>
-  <string name="kuaipan_can_not_find_play">Obchod Play sa nenašiel</string>
 </resources>

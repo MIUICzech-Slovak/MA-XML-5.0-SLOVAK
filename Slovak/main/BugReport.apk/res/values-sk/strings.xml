@@ -39,6 +39,7 @@
   <string name="err_type_systemapp">MIUI apl.</string>
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="hot_problem">Zobraziť bežné chyby</string>
+  <string name="hot_problem_empty">Prázdne</string>
   <string name="loading_apps">Vytváranie zoznamu...</string>
   <string name="loading_hot_problem">Načítavanie...</string>
   <string name="menu_attach_screenshot">Pripojiť screenshot</string>
@@ -91,5 +92,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="hot_problem_empty">Prázdne</string>
 </resources>

@@ -203,6 +203,7 @@ spoločne!"</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
   <string name="error_not_acceptable">Chyba servera: Synchr. deaktivovaná.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
+  <string name="error_share_not_support">Táto funkcia nie je momentálne podporovaná</string>
   <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>

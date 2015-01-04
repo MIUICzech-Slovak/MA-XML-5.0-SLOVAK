@@ -30,6 +30,7 @@
   <string name="permlab_downloadManagerAdvanced">Rozšírené funkcie správcu preberania.</string>
   <string name="permlab_downloadWithoutNotification">preberať súbory bez upozornenia</string>
   <string name="permlab_seeAllExternal">Zobr. preber. do ukl. priestoru USB</string>
+  <string name="size_unknown">Neznáme</string>
   <string name="wifi_recommended_body" formatted="false">"Sťahovanie cez mobilné dáta：
 
  %s（%s）

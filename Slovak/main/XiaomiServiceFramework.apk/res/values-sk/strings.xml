@@ -88,7 +88,13 @@
   <string name="add_weibo_account">Pridať účet</string>
   <string name="alert_notif_title_dspt">Odporúčame obnoviť synchronizáciu pre zaistenie bezpečnosti vašich dát</string>
   <string name="alert_title_remove_account">Odhlásiť sa</string>
+  <string name="all_cloud_service_dspt">"Vyberte ktoré MiCloud služby chcete používať.
+Vaše nastavenie môžete kedykoľvek zmeniť."</string>
   <string name="app_name">Xiaomi Service Framework</string>
+  <string name="apple_10gb">20GB</string>
+  <string name="apple_cloud">Apple Cloud</string>
+  <string name="apple_cloud_eng">iCloud</string>
+  <string name="apple_cloud_price">Okolo RMB 72 / rok</string>
   <string name="available_functionality">Dostupné služby</string>
   <string name="bad_authentication">Nesprávne meno alebo heslo</string>
   <string name="bank_cards">Platobná karta</string>
@@ -98,12 +104,23 @@
   <string name="binded">Prepojené</string>
   <string name="btn_activate">Aktivovať</string>
   <string name="button_cancel">Zrušiť</string>
+  <string name="buy_space_expire">Zakúpené úložisko platné do %s</string>
+  <string name="buy_space_expire_concat">%1$s do %2$s</string>
+  <string name="buy_space_sulotion_auto_renew">Automaticky predĺžiť platnosť</string>
+  <string name="buy_space_sulotion_message">Zakúpite %sGB priestoru</string>
+  <string name="buy_space_sulotion_not_auto_renew">Nepredĺžiť automaticky</string>
+  <string name="buy_space_sulotion_renew_message">Platné %s</string>
+  <string name="buy_space_sulotion_renew_title">Vyberte spôsob predĺženia platnosti</string>
+  <string name="buy_space_sulotion_title">Cloudové úložisko</string>
   <string name="captcha">Captcha</string>
   <string name="check_phone_error_title">Aktivácia synchronizácie zlyhala</string>
   <string name="check_phone_io_error">Chyba siete</string>
   <string name="checking_account">Overovanie účtu...</string>
   <string name="checking_input">Kontrola...</string>
   <string name="cloud_messaging">MiCloud správy</string>
+  <string name="cloud_space_upgrade_message">Stlačte pre získanie %s GB miesta tento mesiac</string>
+  <string name="cloud_space_upgrade_no_quota_info">Nesprávne dáta, skúste to znova</string>
+  <string name="cloud_space_upgrade_title">Získajte viac priestoru v Cloude!</string>
   <string name="cmcc_data_sync_notice">Použite svoj Xiaomi účet pre synchronizáciu správ, Kontaktov a ostatných dát.</string>
   <string name="cmcc_micloud_dspt">Služby Cloudu obsahujú synchronizáciu, vyhľadanie polohy zariadenia a mnoho ďalších funkcií. Taktiež môžete svoje dáta spravovať kedykoľvek online!</string>
   <string name="completed">Dokončiť</string>
@@ -123,7 +140,11 @@
   <string name="enable_micloud">Registrovať alebo prihlásiť</string>
   <string name="enable_sync">Povoliť synchr.</string>
   <string name="enable_sync_dspt">Synchr. je deaktivovaná</string>
+  <string name="error_data_in_transfer">Synchr. bude dokončená o %sh.</string>
+  <string name="error_data_in_transfer_title">MiCloud je nedostupný.</string>
   <string name="error_device_id">Nie je možné načítať IMEI</string>
+  <string name="error_device_id_message">"Nesprávne ID zariadenia: %s
+ID zariadenia musí byť IMEI alebo MAC adresa. Bez neho nie je možné využívať niektoré služby MiCloud."</string>
   <string name="error_dup_phone">Telefón bol zaregistrovaný</string>
   <string name="error_invalid_dev_id">Nesprávne ID zariadenia</string>
   <string name="error_login">Nie je možné sa prihlásiť</string>
@@ -132,17 +153,27 @@
   <string name="error_phone_error">Nesprávne číslo telefónu</string>
   <string name="error_server">Chyba servera</string>
   <string name="error_sim_not_ready">SIM nie je pripravená</string>
+  <string name="error_ssl_hand_shake">Chyba pripojenia. Skúste nastaviť správny čas na vašom zariadení.</string>
   <string name="error_unknown">Neznáma chyba</string>
   <string name="error_user_name">Nesprávne užívateľské meno.</string>
   <string name="failed_to_send_activate_email">Chyba pri zasielaní aktivačného emailu.</string>
   <string name="find_device">Poloha zariadenia</string>
+  <string name="find_device_additional_alert">Ak vymeníte SIM kartu, automaticky sa odošle SMS pre aktiváciu služieb.</string>
   <string name="find_device_check_phone_error_title">Zapnutie zisťovania polohy zariadenia zlyhalo</string>
   <string name="find_device_disabled_notice">"Toto nastavenie môžete zmeniť v Nastavenia - Účty - MiCloud"</string>
   <string name="find_device_disabled_title">Zisťovanie polohy zariadenia je vypnuté</string>
   <string name="find_device_disabling">Vypínanie...</string>
+  <string name="find_device_dspt_in_all_setting_1">"Vyhľadať, zablokovať alebo vymazať vaše zariadenie z prehliadača na "</string>
+  <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+  <string name="find_device_dspt_in_all_setting_3"/>
   <string name="find_device_enabling">Zapínanie...</string>
   <string name="find_device_error_network">Sieť je nedostupná</string>
   <string name="find_device_error_server">Chyba servera</string>
+  <string name="find_device_notice_1">"Ak stratíte vaše zariadneie, môžte navštíviť "</string>
+  <string name="find_device_notice_2">i.mi.com</string>
+  <string name="find_device_notice_3">" pre jeho vyhľadanie, uzamknutie a vymazanie.
+
+Môžete toto nastavenie kedykoľvek zmeniť."</string>
   <string name="find_device_notice_p1">Navštívte</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">pre získanie polohy, zablokovať, vymazať alebo obnoviť všetky dáta.</string>
@@ -151,7 +182,15 @@
   <string name="find_password_on_web_msg">Navštívte account.xiaomi.com pre obnovu hesla</string>
   <string name="foreign_login">Krajina/kód krajiny</string>
   <string name="forget_password">Zabudnuté heslo</string>
+  <string name="free_space_has_received">Tento mesiac ste si už navýšili kapacitu</string>
+  <string name="free_space_receive_fail">Nie je možné navýšiť</string>
   <string name="get_back_pwd">Obnoviť heslo</string>
+  <string name="get_first_month_gb">Získajte %s priestoru</string>
+  <string name="get_this_month_gb">Získajte %s priestoru</string>
+  <string name="google_100gb">100GB</string>
+  <string name="google_cloud">Google Drive</string>
+  <string name="google_cloud_eng">Google Drive</string>
+  <string name="google_cloud_price">Okolo RMB 143 / rok</string>
   <string name="header_data_and_synchronization">Dáta a synchronizácia</string>
   <string name="i_know">OK</string>
   <string name="input_captcha_hint">Zadajte kód z obrázka</string>
@@ -161,6 +200,7 @@
   <string name="int_phone_user_notice">Ak sa registrujete s číslom mimo Čínu, zadajte ho prosím v medzinárodnom formáte +421xxxxxxxxx</string>
   <string name="internet_comm">Správy</string>
   <string name="internet_message">MiCloud správy</string>
+  <string name="loading_hint">Načítavanie...</string>
   <string name="login">Prihlásiť</string>
   <string name="login_failed">Prihlásenie zlyhalo</string>
   <string name="login_instead_reg">Prihlásiť sa mojim telefónnym číslom</string>
@@ -225,6 +265,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="micloud_is_what">Čo je MiCloud?</string>
   <string name="micloud_more">Zistiť viac</string>
   <string name="micloud_none">Žiadne</string>
+  <string name="micloud_other_product_price">Cena ostatných produktov:</string>
   <string name="micloud_password_confirm_hint">Potvrďte heslo</string>
   <string name="micloud_password_error_inconsistent">Heslá sa nezhodujú</string>
   <string name="micloud_password_req_notice">8~16 znakov, číslice, písmená abecedy, veľké a malé písmena</string>
@@ -232,6 +273,10 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="micloud_reg_new">Vytvoriť nový</string>
   <string name="micloud_resend_active_email">Znovu poslať aktivačný email (.com)</string>
   <string name="micloud_space_full_influence">Čo sa stane ak zaplním voľné miesto?</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Je nutné obnoviť prihlásenie.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnoviť prihlásenie.</string>
+  <string name="micloud_storage_expires_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
+  <string name="micloud_storage_expires_very_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
   <string name="micloud_storage_space">Úložisko MiCloud</string>
   <string name="micloud_summary">Prihláste sa na Xiaomi účet pre synchronizáciu kontaktov, fotografií a mnoho iných funkcií.</string>
   <string name="micloud_title_dspt" formatted="false">"Celkovo %s
@@ -255,7 +300,12 @@ Využité %s | Ostáva %s"</string>
   <string name="micloud_web_discription_01">Prihláste sa na http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pre ukladanie a prístup k Vaším súborom</string>
   <string name="micloud_welcome_skip_login">Preskočiť</string>
+  <string name="microsoft_cloud">Microsoft Cloud</string>
+  <string name="microsoft_cloud_eng">One Drive</string>
+  <string name="microsoft_cloud_price">Okolo RMB 80 / rok</string>
   <string name="mili_center">MiKredity</string>
+  <string name="more_activity_in_upgrade_space">Viac na http://i.mi.com</string>
+  <string name="mx_dspt_in_all_setting">Odoslať SMS správy komukoľvek s MIUI zdarma</string>
   <string name="my_xiaomi_account">Môj Xiaomi účet</string>
   <string name="next">Ďalšie</string>
   <string name="noRemind">Nepripomínať</string>
@@ -271,6 +321,7 @@ Využité %s | Ostáva %s"</string>
   <string name="reg_failed">Registrácia sa nepodarila</string>
   <string name="reg_success">Registrácia úspešná</string>
   <string name="reg_success_summary">Vaše telefónne číslo %1$s už je prepojené s MiLock. Pomocou neho sa môžete prihlásiť a obnoviť Vaše heslo.</string>
+  <string name="reg_title">Vytvoriť nový Xiaomi účet cez:</string>
   <string name="reg_type_email">Registrovať cez email (.com)</string>
   <string name="reg_type_phone">Registrovať cez číslo telefónu (odporúčané)</string>
   <string name="reging">Registrácia, čakajte prosím...</string>
@@ -293,12 +344,20 @@ Využité %s | Ostáva %s"</string>
   <string name="skip_login_u">Preskočiť</string>
   <string name="skip_setup_account_msg">Svoj účet môžete nastaviť aj neskôr v Nastaveniach telefónu.</string>
   <string name="skip_setup_account_title">Preskočiť nastavenie účtu</string>
+  <string name="sms_prompt_cloud_messaging">Cloud Správy</string>
+  <string name="sms_prompt_cloud_service">MiCloud Služby</string>
+  <string name="sms_prompt_find_device">Vyhľadať zariadenie</string>
+  <string name="sms_prompt_set_all">tieto služby</string>
+  <string name="sms_prompt_set_single">túto službu</string>
+  <string name="sms_prompt_sync">synchr.</string>
   <string name="start_micloud">Štart</string>
   <string name="sub_alert_notif_dspt" formatted="false">"Máte %s lokálnych kontaktov, %s SMS, %s fotografií, %s poznámok a ostatných nesynchronizovaných dát. 
 
  Ak sa váš telefón stratí alebo nechtiac vymaže, tieto dáta budú nenávratne stratené. Odporúča sa povoliť synchronizáciu pre zabezpečenie vašich dát"</string>
   <string name="sub_alert_notif_title">Synchronizácia nie je povolená</string>
+  <string name="success_upgraded_space">%s pridané</string>
   <string name="sync_dspt">Použite svoj Xiaomi účet pre synchronizáciu dát</string>
+  <string name="sync_dspt_in_all_setting">Synchr. vaše fotografie, SMS správy, poznámky a oveľa viac s vašimi zariadeniami.</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
   <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu %s.</string>
@@ -309,6 +368,7 @@ Využité %s | Ostáva %s"</string>
   <string name="sync_sub_dspt">Odošle sa SMS pre aktiváciu služby</string>
   <string name="sync_sub_int_dspt">Bude odoslaná medzinárodná SMS pre aktiváciu služby</string>
   <string name="title_reg">Zaregistrujte Xiaomi účet</string>
+  <string name="total_space_upgraded_to">Celkovo: %s</string>
   <string name="trust_device">Verím tomuto zariadeniu</string>
   <string name="unactivated_user">Neaktivovaný</string>
   <string name="unbind">Zrušiť autorizáciu</string>
@@ -316,6 +376,12 @@ Využité %s | Ostáva %s"</string>
   <string name="update_contacts_description">Aktualizovať Vaše kontakty a ostatné informácie</string>
   <string name="updated_contacts">Aktualizovaných %s kontaktov</string>
   <string name="updated_nothing">Žiadna aktualizácia</string>
+  <string name="upgrade_space">Pridať kapacitu</string>
+  <string name="upgrade_space_gb">GB</string>
+  <string name="upgrade_space_mibipreyear">%s MiKreditov na rok</string>
+  <string name="upgrade_space_successful">Úspešne navýšené o %sGB</string>
+  <string name="upgrade_space_successful_total">Celkovo %sGB</string>
+  <string name="upgrade_space_tb">TB</string>
   <string name="user_agreement_p1">"Prihlásením sa, súhlasíte 
 s "</string>
   <string name="user_agreement_p2">podmienkami služieb Xiaomi</string>
@@ -323,6 +389,11 @@ s "</string>
   <string name="user_agreement_p4">podmienkami súkromia</string>
   <string name="user_agreement_p5">"Prihlásením sa, súhlasíte 
 s "</string>
+  <string name="user_agreement_p6">Povolením synchr, súhlasíte s </string>
+  <string name="user_agreement_p7">"Podmienkami používania MiCloud"</string>
+  <string name="user_agreement_p8">" pre porozumenie aké informácie o vás uchovávame, ako ich používame a aké máte možnosti.
+
+Vytvorením účtu súhlasíte s vyššie uvedenými podmienkami."</string>
   <string name="vcode">Overovací kód</string>
   <string name="vcode_notification_title">Overenie prihlásenia nie je úplné</string>
   <string name="vcode_prompt_long">Zadajte overovací kód vygenerovaný Xiaomi</string>
@@ -333,34 +404,4 @@ s "</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="user_agreement_p6">Povolením synchr, súhlasíte s </string>
-  <string name="user_agreement_p7">"Podmienkami používania MiCloud"</string>
-  <string name="error_ssl_hand_shake">Chyba pripojenia. Skúste nastaviť správny čas na vašom zariadení.</string>
-  <string name="find_device_additional_alert">Ak vymeníte SIM kartu, automaticky sa odošle SMS pre aktiváciu služieb.</string>
-  <string name="find_device_notice_1">"Ak stratíte vaše zariadneie, môžte navštíviť "</string>
-  <string name="find_device_notice_2">i.mi.com</string>
-  <string name="find_device_notice_3">" pre jeho vyhľadanie, uzamknutie a vymazanie.
-
-Môžete toto nastavenie kedykoľvek zmeniť."</string>
-  <string name="sms_prompt_cloud_messaging">Cloud Správy</string>
-  <string name="sms_prompt_cloud_service">MiCloud Služby</string>
-  <string name="sms_prompt_find_device">Vyhľadať zariadenie</string>
-  <string name="sms_prompt_sync">synchr.</string>
-  <string name="all_cloud_service_dspt">"Vyberte ktoré MiCloud služby chcete používať.
-Vaše nastavenie môžete kedykoľvek zmeniť."</string>
-  <string name="find_device_dspt_in_all_setting_1">"Vyhľadať, zablokovať alebo vymazať vaše zariadenie z prehliadača na "</string>
-  <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
-  <string name="find_device_dspt_in_all_setting_3"/>
-  <string name="mx_dspt_in_all_setting">Odoslať SMS správy komukoľvek s MIUI zdarma</string>
-  <string name="sms_prompt_set_all">tieto služby</string>
-  <string name="sms_prompt_set_single">túto službu</string>
-  <string name="sync_dspt_in_all_setting">Synchr. vaše fotografie, SMS správy, poznámky a oveľa viac s vašimi zariadeniami.</string>
-  <string name="reg_title">Vytvoriť nový Xiaomi účet cez:</string>
-  <string name="user_agreement_p8">" pre porozumenie aké informácie o vás uchovávame, ako ich používame a aké máte možnosti.
-
-Vytvorením účtu súhlasíte s vyššie uvedenými podmienkami."</string>
-  <string name="error_data_in_transfer">Synchr. bude dokončená o %sh.</string>
-  <string name="error_data_in_transfer_title">MiCloud je nedostupný.</string>
-  <string name="error_device_id_message">"Nesprávne ID zariadenia: %s
-ID zariadenia musí byť IMEI alebo MAC adresa. Bez neho nie je možné využívať niektoré služby MiCloud."</string>
 </resources>

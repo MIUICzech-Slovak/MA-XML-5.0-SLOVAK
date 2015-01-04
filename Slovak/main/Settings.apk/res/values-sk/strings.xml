@@ -296,6 +296,8 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="battery_action_display">Nastavenie obrazovky</string>
   <string name="battery_action_stop">Vynútiť ukončenie</string>
   <string name="battery_action_wifi">Nastavenie Wi-Fi</string>
+  <string name="battery_decrease_background_process_summary">Zakázaním spustenia aplikácií na pozadí, môžete znížiť spotrebu batérie a pamäte RAM. Niektoré aplikácie sa nemusia synchronizovať správne!</string>
+  <string name="battery_decrease_background_process_title">Obmedziť procesy na pozadí</string>
   <string name="battery_desc_apps">Využitie batérie aplikáciou</string>
   <string name="battery_desc_bluetooth">Využitie batérie technológiou Bluetooth</string>
   <string name="battery_desc_display">Využitie batérie displejom a podsvietením</string>
@@ -581,8 +583,10 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="build_number">Číslo buildu</string>
   <string name="builtin_keyboard_settings_summary">Nastavenie fyzickej klávesnice</string>
   <string name="builtin_keyboard_settings_title">Fyzická klávesnica</string>
+  <string name="button_antivirus">OK</string>
   <string name="button_disconnect_network">Odpojiť od siete</string>
   <string name="button_light_timeout">Doba podsvietenia tlač.</string>
+  <string name="button_optimizer">OK</string>
   <string name="button_start_optimize">Kontrola</string>
   <string name="button_text_a_key_clean_up">Vyčistiť</string>
   <string name="button_text_a_key_optimize">Optimalizovať</string>
@@ -698,6 +702,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="common_settings">Časté nastavenia</string>
   <string name="complete_settings">Kompletné nastav.</string>
   <string name="computing_size">Prebieha výpočet...</string>
+  <string name="config_list_label">Nastavené siete</string>
   <string name="configure_input_method">Nastaviť metódy vstupu</string>
   <string name="confirm">OK</string>
   <string name="confirm_clear_blacklist">Vymazať zoznam blokovania?</string>
@@ -1299,6 +1304,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="hdmi_color_calibration_srgb">sRGB</string>
   <string name="header_account_settings">Nastavenie účtu</string>
   <string name="header_add_an_account">Pridať účet</string>
+  <string name="header_antivirus">Používaním tejto funkcie súhlasíte s Podmienkami používania Tencent.</string>
   <string name="header_application_sync_settings">Nastavenie synchronizácie aplikácií</string>
   <string name="header_category_accounts">ÚČTY</string>
   <string name="header_category_device">ZARIADENIE</string>
@@ -1306,6 +1312,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="header_category_system">SYSTÉM</string>
   <string name="header_category_wireless_networks">BEZDRÔTOVÉ PRIPOJENIE A SIETE</string>
   <string name="header_data_and_synchronization">Dáta a synchronizácia</string>
+  <string name="header_optimizer">Používaním tejto funkcie súhlasíte s Podmienkami používania Clean Master.</string>
   <string name="headset_calibrate">Kalibrovať tlačidlá</string>
   <string name="headset_calibrate_apply">Použiť</string>
   <string name="headset_calibrate_confirm">Funkcia tlačidiel je upravená. Chcete uložiť？</string>
@@ -1330,6 +1337,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="home_app_uninstall_button">Odinštalovať túto aplikáciu</string>
   <string name="home_key">Tlačidlo Domov</string>
   <string name="home_settings">Domov</string>
+  <string name="ime_privacy_policy">Podmienky súkromia metódy zadávania</string>
+  <string name="ime_privacy_policy_no_network">Žiadne internetové pripojenie. Môžete si prečítať podmienky na %s</string>
   <string name="ime_security_warning">Prostredníctvom tejto metódy zadávania dát je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Metóda je poskytovaná aplikácií %1$s. Chcete túto metódu zadávania dát použiť?</string>
   <string name="immediately_destroy_activities">Neuchovávať aktivity</string>
   <string name="immediately_destroy_activities_summary">Zrušiť každú aktivitu, hneď ako ju užívateľ ukončí</string>
@@ -2305,12 +2314,14 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="pref_summary_cleanup_white_list">Súbory v zozname budú ignorované pri čistení</string>
   <string name="pref_summary_expand_cache_group">Skupiny v zozname cache budú rozbalené</string>
   <string name="pref_summary_garbage_cleanup_check_size">Upozorniť ma ak nepotrebné súbory a aplikácie dosiahnu maximálnu veľkosť</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
   <string name="pref_title_auto_update_cleanup_db">Auto. aktualizácia</string>
   <string name="pref_title_cleanup_white_list">Zoznam ignorovaných</string>
   <string name="pref_title_expand_cache_group">Rozbaliť skupinu</string>
   <string name="pref_title_garbage_cleanup_check_size">Nastavenie veľkosti</string>
   <string name="pref_title_garbage_cleanup_check_time">Upozorniť na odpad</string>
   <string name="pref_title_manual_check_cleanup_db_update">Aktualizovať</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Použiť online databázu</string>
   <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie.. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>
   <string name="pref_volume_wake_title">Zobudiť telefón</string>
   <string name="preference_change_password_title">Zmeniť heslo</string>
@@ -2403,6 +2414,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="protection_perm">Nastavenie povolení</string>
   <string name="protection_sms">SMS filter</string>
   <string name="provider_label">Zobraziť odbery</string>
+  <string name="provision_inputmethod_policy_description">Zobraziť podmienky súkromia spojené s vašou metódou zadávania</string>
   <string name="proxy_action_text">Hotovo</string>
   <string name="proxy_clear_text">Vymazať</string>
   <string name="proxy_defaultView_text">Obnoviť predvolené nastavenia</string>
@@ -2857,6 +2869,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="start_optimize_trash">Začiatok optimalizácie cache aplikácií...</string>
   <string name="status_awake_time">Doba mimo spánku</string>
   <string name="status_bar_settings">Notifikačná lišta</string>
+  <string name="status_bar_toggle_arrangement">Rozloženie prepínačov</string>
   <string name="status_bt_address">Adresa zariadení Bluetooth</string>
   <string name="status_data_state">Stav mobilnej siete</string>
   <string name="status_esn_number">ESN</string>
@@ -2901,8 +2914,10 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="subscription_02_summary">Set options for SUB2 network settings</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Vybrať sieťového operátora</string>
+  <string name="summary_antivirus">Odoslať a skontrolovať neznáme názvy súborov s online vírusovou databázou</string>
   <string name="summary_install_virus">Kontrolovať prítomnosť vírusov v aplikáciách pred inštaláciou</string>
   <string name="summary_mms">Filtrovať nechcené správy (predajcovia, reklamy, atď.)</string>
+  <string name="summary_optimizer">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
   <string name="summary_permission">Chrániť moje súkromie pred aplikáciami tretích strán</string>
   <string name="summary_usb">Zabrániť vírusom cez USB pripojenie</string>
   <string name="summary_virus">Nájdených %2$d vírusov</string>
@@ -2949,8 +2964,11 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="tether_settings_title_usb_bluetooth">Tethering</string>
   <string name="tether_settings_title_wifi">Prenosný hotspot</string>
   <string name="tethering_help_button_text">Pomoc</string>
+  <string name="text_antivirus">Použiť online vírusovú databázu</string>
+  <string name="text_optimizer">Použiť online databázu</string>
   <string name="time_picker_title">Čas</string>
   <string name="timezone_settings">Časová zóna</string>
+  <string name="title_antivirus">AntiVírus</string>
   <string name="title_app_update_no">%d aplikácií má aktualizáciu</string>
   <string name="title_app_update_yes">Všetko je aktuálne</string>
   <string name="title_color_calibration">Úprava farieb</string>
@@ -2967,6 +2985,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="title_miui_update_yes">MIUI je aktuálna</string>
   <string name="title_mms_no">Filter správ zakázaný</string>
   <string name="title_mms_yes">Filter správ povolený</string>
+  <string name="title_optimizer">Čistič</string>
   <string name="title_permission_no">Sledovanie povolení zakázané</string>
   <string name="title_permission_yes">Sledovanie povolení povolené</string>
   <string name="title_show_notification_no">Zobrazenie v roletke vypnuté</string>
@@ -3745,11 +3764,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="ime_privacy_policy">Podmienky súkromia metódy zadávania</string>
-  <string name="ime_privacy_policy_no_network">Žiadne internetové pripojenie. Môžete si prečítať podmienky na %s</string>
-  <string name="provision_inputmethod_policy_description">Zobraziť podmienky súkromia spojené s vašou metódou zadávania</string>
-  <string name="config_list_label">Nastavené siete</string>
-  <string name="status_bar_toggle_arrangement">Rozloženie prepínačov</string>
-  <string name="battery_decrease_background_process_summary">Zakázaním spustenia aplikácií na pozadí, môžete znížiť spotrebu batérie a pamäte RAM. Niektoré aplikácie sa nemusia synchronizovať správne!</string>
-  <string name="battery_decrease_background_process_title">Obmedziť procesy na pozadí</string>
 </resources>

@@ -10,6 +10,8 @@
   <string name="alert_message_delete_note">Chcete vymazať túto poznámku?</string>
   <string name="alert_message_delete_notes">Chcete vymazať poznámky (%1$s) ?</string>
   <string name="alert_message_discard_changes">Zrušiť všetky zmeny?</string>
+  <string name="alert_message_edit_anyway">Ak upravíte túto poznámku, jej obsah sa môže stratiť.</string>
+  <string name="alert_title_edit_anyway">Táto poznámka obsahuje nepodporovaný obsah</string>
   <string name="app_name">Poznámky</string>
   <string name="app_widget">Poznámky</string>
   <string name="attachment_camera">Fotoaparát</string>
@@ -29,6 +31,7 @@
   <string name="error_note_not_exist">Poznámka neexistuje</string>
   <string name="error_sdcard_export">Export zlyhal, skontrolujte SD kartu</string>
   <string name="error_sdcard_unmounted">SD karta je zaneprázdnená a nie je k dispozícií</string>
+  <string name="error_unsupport_content">Táto poznámka obsahuje nepodporovaný obsah, dotknite sa pre aktualizáciu aplikáacie</string>
   <string name="error_widget_exist_for_send_to_desktop">Táto poznámka už na ploche existuje</string>
   <string name="failed_sdcard_export">Export zlyhal</string>
   <string name="file_name_txt_format">poznámka_%s.txt</string>
@@ -94,7 +97,4 @@
   <string name="undo">Späť</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
-  <string name="alert_message_edit_anyway">Ak upravíte túto poznámku, jej obsah sa môže stratiť.</string>
-  <string name="alert_title_edit_anyway">Táto poznámka obsahuje nepodporovaný obsah</string>
-  <string name="error_unsupport_content">Táto poznámka obsahuje nepodporovaný obsah, dotknite sa pre aktualizáciu aplikáacie</string>
 </resources>

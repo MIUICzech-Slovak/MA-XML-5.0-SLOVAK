@@ -20,6 +20,10 @@
   <string name="actionbar_share">Zdieľať</string>
   <string name="actionbar_web_search">Hľadať</string>
   <string name="adblock_notification">Blokované reklamy: %d</string>
+  <string name="adblock_rules_number_text">Blokované: %d</string>
+  <string name="adblock_rules_restore">Obnoviť</string>
+  <string name="adblock_websites_settings_empyt_hint">Prázdne</string>
+  <string name="adblock_websites_settings_title">Vlastné pravidlá</string>
   <string name="add_bookmark">Nová záložka</string>
   <string name="add_folder">Nová zložka</string>
   <string name="add_new_bookmark">Nová záložka</string>
@@ -57,6 +61,10 @@
   <string name="autologin_bar_text">Prihlásiť ako</string>
   <string name="back">Späť</string>
   <string name="block"> Blokovať</string>
+  <string name="block_ads_choice_block">Blokovať</string>
+  <string name="block_ads_choice_continue">Pokračovať</string>
+  <string name="block_ads_message">Chcete zablokovať toto okno z tejto stránky?</string>
+  <string name="block_ads_title">Môže obsahovať reklamu</string>
   <string name="bookmark_add_to">Pridať do</string>
   <string name="bookmark_cannot_save_url">"Túto URL nemožno uložiť medzi záložky."</string>
   <string name="bookmark_folder_needs_title">Zložka musí mať názov.</string>
@@ -94,6 +102,10 @@
   <string name="clear_history_group">Vymazať všetku históriu</string>
   <string name="clear_search_history">Vymazať históriu</string>
   <string name="clip_dialog_title">Otvoriť skopírovanú URL adresu?</string>
+  <string name="close_ads_choice_no">Povoliť</string>
+  <string name="close_ads_choice_yes">Blokovať</string>
+  <string name="close_ads_message">Blokovať obsah tejto stránky? Blokované stránky sa zobrazia v Nastavenia &gt; Rozšírené &gt; Vlastné pravidlá</string>
+  <string name="close_ads_title">Blokovať obsah?</string>
   <string name="close_all_tab_alert_message">Chcete zatvoriť všetky karty?</string>
   <string name="close_all_tab_alert_title">Zatvoriť všetky karty</string>
   <string name="close_cloud_tab_tip">Zatvoriť cloudové karty na %s ?</string>
@@ -328,6 +340,8 @@
   <string name="pref_autologin_progress_in_background">Prihlasovanie na Google pomocou %s na pozadí</string>
   <string name="pref_autologin_title">Automatické prihlásenie do Google</string>
   <string name="pref_category_title_version">Verzia</string>
+  <string name="pref_check_security_url_summary">Odoslať URL adresu pre kontrolu jej bezpečnosti</string>
+  <string name="pref_check_security_url_title">Kontrola bezpečnosti URL</string>
   <string name="pref_clear_adblock_statistics">Vymazať štatistiky Adblock</string>
   <string name="pref_clear_adblock_statistics_dlg">Vymazať všetky štatistiky Adblock?</string>
   <string name="pref_clear_cache_for_exit">Vymazať vyrovnávaciu pamäť</string>
@@ -540,6 +554,8 @@
   <string name="set_as_homepage">Nastaviť ako domovskú stránku</string>
   <string name="share_link">Zdieľať odkaz</string>
   <string name="share_page">Zdieľať</string>
+  <string name="show_check_security_url_check_tip_dialog_description">Pre zaistenie bezpečnosti vašich dát, bude táto URL odoslaná na server kde sa overí či neobsahuje škodlivý kód. Ak túto službu nepotrebujete, môžete ju deaktivovať v nastaveniach Prehliadača</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Kontrola URL</string>
   <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Nemožno uložiť pre čítanie offline."</string>
   <string name="snapshot_go_live">Aktualizovať</string>
@@ -641,8 +657,4 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="xiaomi_bookmark_title">Xiaomi</string>
-  <string name="pref_check_security_url_summary">Odoslať URL adresu pre kontrolu jej bezpečnosti</string>
-  <string name="pref_check_security_url_title">Kontrola bezpečnosti URL</string>
-  <string name="show_check_security_url_check_tip_dialog_description">Pre zaistenie bezpečnosti vašich dát, bude táto URL odoslaná na server kde sa overí či neobsahuje škodlivý kód. Ak túto službu nepotrebujete, môžete ju deaktivovať v nastaveniach Prehliadača</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Kontrola URL</string>
 </resources>
