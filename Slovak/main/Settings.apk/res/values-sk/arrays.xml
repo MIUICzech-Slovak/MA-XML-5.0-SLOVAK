@@ -499,7 +499,7 @@ zariadenie sa automaticky otvorí po pripojení k PC."</item>
         <item>Poloha</item>
         <item>Súkromné</item>
         <item>Správy</item>
-        <item>Média</item>
+        <item>Médiá</item>
         <item>Zariadenie</item>
     </string-array>
     <string-array name="app_ops_summaries">
