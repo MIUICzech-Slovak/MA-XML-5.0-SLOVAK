@@ -48,8 +48,8 @@
   <string name="toast_message_continue_play_minute">"m "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="toast_message_set_misound">Nastavovanie...</string>
-  <string name="top_status_local_media">Lokálne média</string>
-  <string name="top_status_online_media">Online média</string>
+  <string name="top_status_local_media">Lokálne médiá</string>
+  <string name="top_status_online_media">Online médiá</string>
   <string name="video_info_audio_bitrate_label">Bitrate audio:</string>
   <string name="video_info_audio_coding_label">Formát kódovania zvuku:</string>
   <string name="video_info_audio_null">Nedostupný</string>
