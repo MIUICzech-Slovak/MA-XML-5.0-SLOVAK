@@ -268,7 +268,7 @@
   <string name="offline_no_source">Žiadne zdroje</string>
   <string name="offline_no_wifi">Nie ste pripojený na Wi-Fi, zvoľte možnosť načítavania cez mobilnú sieť v nastaveniach ak chcete pokračovať.</string>
   <string name="offline_select_better_source">Bolo prepnuté na dostupné zdroje</string>
-  <string name="offline_setting">Offline média</string>
+  <string name="offline_setting">Offline médiá</string>
   <string name="ok">OK</string>
   <string name="ok_no_more">OK a viac sa nepýtať</string>
   <string name="online_video">Online</string>
@@ -356,8 +356,8 @@
   <string name="toast_message_set_misound">Nastavovanie zvuku...</string>
   <string name="today">"Dnes "</string>
   <string name="top_null_videoname">Neznámy názov</string>
-  <string name="top_status_local_media">Lokálne média</string>
-  <string name="top_status_online_media">Online média</string>
+  <string name="top_status_local_media">Lokálne médiá</string>
+  <string name="top_status_online_media">Online médiá</string>
   <string name="tudou">Tudou</string>
   <string name="unknown_source">Neznámy zdroj</string>
   <string name="update">Aktualizovaná</string>
