@@ -106,7 +106,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="previous">Predchádzajúci</string>
   <string name="reboot_later">Neskôr</string>
   <string name="reboot_now">Teraz</string>
-  <string name="reboot_to_new_system">Reštartovať do novej verzie</string>
+  <string name="reboot_to_new_system">Reštartovať</string>
   <string name="recommend">Odporučiť</string>
   <string name="recommend_comment_hint">Dôvod po anglicky (voliteľné)</string>
   <string name="recommend_vote_title">MIUI Beta Team Poll</string>
